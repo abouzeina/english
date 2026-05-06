@@ -16,8 +16,8 @@ function validateFile(filename: string, schema: any) {
 
   if (!parsed.success) {
     console.error(`❌ Validation failed for ${filename}:`);
-    parsed.error.errors.forEach(err => {
-      console.error(`   - Row [${err.path[0]}], Field [${err.path[1]}]: ${err.message}`);
+    parsed.error.issues.forEach(err => {
+      console.error(`   - Path [${err.path.join('.')}]: ${err.message}`);
     });
     process.exit(1);
   }
