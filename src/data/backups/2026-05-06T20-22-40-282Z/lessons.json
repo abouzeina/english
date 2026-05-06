@@ -1,0 +1,12 @@
+[
+  {
+    "id": "lsn_1",
+    "levelId": "lvl_1",
+    "slug": "greetings",
+    "title": "Greetings & Introductions",
+    "titleAr": "التحيات والتعارف",
+    "description": "Learn how to greet people and introduce yourself.",
+    "descriptionAr": "تعلم كيف تحيي الناس وتقدم نفسك.",
+    "order": 1
+  }
+]

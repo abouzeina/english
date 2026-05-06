@@ -1,26 +1,132 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@custom-variant dark (&:is(.dark *));
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-sans);
+  --font-heading: var(--font-sans);
+  
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-2xl: 2rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+:root {
+  --background: oklch(0.98 0.01 240);
+  --foreground: oklch(0.25 0.02 240);
+  
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.25 0.02 240);
+  
+  --primary: oklch(0.6 0.12 160); /* Professional Emerald */
+  --primary-foreground: oklch(1 0 0);
+  
+  --secondary: oklch(0.95 0.01 240);
+  --secondary-foreground: oklch(0.4 0.02 240);
+  
+  --muted: oklch(0.94 0.01 240);
+  --muted-foreground: oklch(0.5 0.02 240);
+  
+  --accent: oklch(0.96 0.01 240);
+  --accent-foreground: oklch(0.25 0.02 240);
+  
+  --border: oklch(0.9 0.01 240);
+  --input: oklch(0.9 0.01 240);
+  --ring: oklch(0.6 0.12 160);
+}
+
+.dark {
+  /* Warm Dark Mode - Not pure black */
+  --background: oklch(20.32% 0.01355 258.396); 
+  --foreground: oklch(0.9 0.01 250);
+  
+  --card: oklch(0.17 0.01 250);
+  --card-foreground: oklch(0.9 0.01 250);
+  
+  --primary: oklch(0.75 0.12 160); /* Soft emerald for dark mode */
+  --primary-foreground: oklch(0.14 0.01 250);
+  
+  --secondary: oklch(0.2 0.02 250);
+  --secondary-foreground: oklch(0.9 0.01 250);
+  
+  --muted: oklch(0.2 0.02 250);
+  --muted-foreground: oklch(0.6 0.02 250);
+  
+  --accent: oklch(0.22 0.02 250);
+  --accent-foreground: oklch(0.95 0.01 250);
+  
+  --border: oklch(0.25 0.02 250 / 0.5);
+  --input: oklch(0.25 0.02 250);
+  --ring: oklch(0.75 0.12 160);
+}
+
+@layer base {
+  * {
+    @apply border-border/50 outline-ring/30;
+  }
+  
+  body {
+    @apply bg-background text-foreground selection:bg-primary/20 selection:text-primary;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Improved Typography */
+  h1, h2, h3, h4, h5, h6 {
+    @apply tracking-tight font-bold text-foreground/90;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer utilities {
+  .surface-layered {
+    @apply bg-card/50 backdrop-blur-xl border border-white/5 shadow-[0_8px_32px_rgba(0,0,0,0.12)];
+  }
+
+  .text-editorial {
+    @apply leading-[1.6] tracking-[-0.01em];
+  }
+
+  /* Motion Utilities */
+  .transition-premium {
+    @apply transition-all duration-500;
+    transition-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
+  }
+
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+  .rotate-x-180 {
+    transform: rotateX(180deg);
+  }
 }

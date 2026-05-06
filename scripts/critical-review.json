@@ -1,0 +1,2441 @@
+[
+  {
+    "id": "w_a1_they-completed-the",
+    "en": "They completed the",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " They completed the  activities.",
+        "ar": "لقد أكملوا الأنشطة."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "They completed the",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_she-is-a-good",
+    "en": "She is a good",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " She is a good  actress.",
+        "ar": "إنها ممثلة جيدة."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "She is a good",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_thank-you-for-your",
+    "en": "Thank you for your",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Thank you for your  advice.",
+        "ar": "أشكرك على نصيحتك."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "Thank you for your",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-lost-my",
+    "en": "I lost my",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I lost my  keys again.",
+        "ar": "لقد أضعت مفاتيحي مرة أخرى."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "I lost my",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_you-are-right",
+    "en": "you are right",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I agree,  you are right ",
+        "ar": ": أوافقك الرأي، أنت على حق :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "you are right",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_want-to-join-you",
+    "en": "want to join you",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I also  want to join you ",
+        "ar": "أريد أن أنضم إليكم أيضا."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "want to join you",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-will-show-you",
+    "en": "I will show you",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Come,  I will show you  around.",
+        "ar": ": تعال، سأريك أرجاء المكان :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "I will show you",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-a-type-of",
+    "en": "is a type of",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Drawing  is a type of  art.",
+        "ar": "الرسم هو نوع من أنواع الفن."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "is a type of",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-read-an-interesting",
+    "en": "I read an interesting",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I read an interesting  article.",
+        "ar": "قرأت مقالا مثيرا للاهتمام."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "I read an interesting",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_about-my-work",
+    "en": "about my work",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He asked me  about my work ",
+        "ar": "سألني عن عملي."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "about my work",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-was-lying",
+    "en": "He was lying",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He was lying  on his back.",
+        "ar": "كان مستلقيا على ظهرهـ."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "He was lying",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-need-to-use-the",
+    "en": "I need to use the",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I need to use the  bathroom.",
+        "ar": "أحتاج إلى استخدام الحمام."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "I need to use the",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_too-small-for-me",
+    "en": "too small for me",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This bed is  too small for me ",
+        "ar": ": هذا السرير صغير جدا بالنسبة لي :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "too small for me",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_this-is-just-the",
+    "en": "This is just the",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " This is just the  beginning.",
+        "ar": ": هذه هي البداية فقط :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "This is just the",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_it-s-going-to-be-okay",
+    "en": "it’s going to be okay",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Believe me  it’s going to be okay ",
+        "ar": ": صدقني، سيكون كل شيء على ما يرام :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "it’s going to be okay",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-left-my",
+    "en": "I left my",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I left my  bicycle below.",
+        "ar": ": تركت دراجتي بالأسفل :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "I left my",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_at-work-every-day",
+    "en": "at work every day",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He feels bored  at work every day ",
+        "ar": ": يشعر بالملل في العمل كل يوم :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "at work every day",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-only-have-one",
+    "en": "I only have one",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I only have one  brother.",
+        "ar": ": لدي أخ واحد فقط :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "I only have one",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-am-very",
+    "en": "I am very",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I am very  busy today.",
+        "ar": "أنا مشغول جدا اليوم."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "I am very",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-sent-the-letter",
+    "en": "I sent the letter",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I sent the letter  by email.",
+        "ar": ": أرسلت الرسالة عبر البريد الإلكتروني :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "I sent the letter",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_loves-to-climb-trees",
+    "en": "loves to climb trees",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "His cat  loves to climb trees ",
+        "ar": "قطته تحب تسلق الأشجار."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "loves to climb trees",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_they-made-a-small",
+    "en": "They made a small",
+    "translation": "",
+    "ipa": "tʃeɪndʒ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " They made a small  change to the plan.",
+        "ar": "لقد أجروا تغييرا بسيطا على الخطة."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "They made a small",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-wears-a-black",
+    "en": "He wears a black",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He wears a black  coat.",
+        "ar": ": إنه يرتدي معطفا أسود :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "He wears a black",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-her-favorite-hobby",
+    "en": "is her favorite hobby",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Dancing  is her favorite hobby ",
+        "ar": ": الرقص هو هوايتها المفضلة :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "is her favorite hobby",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-need-a-complete",
+    "en": "I need a complete",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I need a complete  description.",
+        "ar": ": أحتاج إلى وصف كامل :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "I need a complete",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-works-at-his",
+    "en": "He works at his",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He works at his  desk all day.",
+        "ar": ": إنه يعمل على مكتبه طوال اليوم :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "He works at his",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-small-but-important",
+    "en": "is small but important",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The difference  is small but important ",
+        "ar": ": الفرق بسيط ولكنه مهم :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "is small but important",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_you-like-this-book",
+    "en": "you like this book",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Do  you like this book  ?",
+        "ar": "هل يعجبك هذا الكتاب ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "you like this book",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_as-i-tell-you",
+    "en": "as I tell you",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Do  as I tell you ",
+        "ar": ": افعل ما أقوله لك :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "as I tell you",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_well-on-the-exam",
+    "en": "well on the exam",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Did you do  well on the exam  ?",
+        "ar": ": هل أبليت بلاء حسنا في الامتحان : ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "well on the exam",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-need-to-see-the",
+    "en": "I need to see the",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I need to see the  doctor.",
+        "ar": "أحتاج إلى زيارة الطبيب ."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "I need to see the",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_for-me",
+    "en": "for me",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He opened the door  for me ",
+        "ar": ": لقد فتح هو لي الباب :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "for me",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-ll-wait-for-you",
+    "en": "I’ll wait for you",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I’ll wait for you  downstairs.",
+        "ar": ": سأنتظرك في الطابق الأسفل :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "I’ll wait for you",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-cleaned-my",
+    "en": "I cleaned my",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I cleaned my  ears today.",
+        "ar": "نظفت أذناي اليوم."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "I cleaned my",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_they-moved-to",
+    "en": "They moved to",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " They moved to  East Cairo.",
+        "ar": ": انتقلوا إلى شرق القاهرة :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "They moved to",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-didn-t-like-the",
+    "en": "I didn’t like the",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I didn’t like the  end of the movie.",
+        "ar": "لم تعجبني نهاية الفيلم."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "I didn’t like the",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-good-for-your-health",
+    "en": "is good for your health",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Exercise  is good for your health ",
+        "ar": ": التمارين الرياضية مفيدة لصحتك :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "is good for your health",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_that-car-is-very",
+    "en": "That car is very",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " That car is very  expensive.",
+        "ar": "تلك السيارة باهظة الثمن للغاية."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "That car is very",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-hard-to-believe",
+    "en": "is hard to believe",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This fact  is hard to believe ",
+        "ar": ": من الصعب تصديق هذه الحقيقة :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "is hard to believe",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_work-hard-every-day",
+    "en": "work hard every day",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Farmers  work hard every day ",
+        "ar": ": يعمل المزارعون بجد كل يوم :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "work hard every day",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-ll-go-first-then-you",
+    "en": "I’ll go first then you",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I’ll go first then you ",
+        "ar": ": سأبدأ أنا أولا، ثم أنت :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "I’ll go first then you",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_fell-from-the-tree",
+    "en": "fell from the tree",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "A flower  fell from the tree ",
+        "ar": "سقطت زهرة من الشجرة."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "fell from the tree",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-my-favorite-day",
+    "en": "is my favorite day",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Friday  is my favorite day ",
+        "ar": "الجمعة هو يومي المفضل."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "is my favorite day",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-told-me",
+    "en": "He told me",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He told me  a funny story.",
+        "ar": ": لقد أخبرني بقصة مضحكة :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "He told me",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-spent-the-day-with",
+    "en": "I spent the day with",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I spent the day with  grandmother.",
+        "ar": "قضيت اليوم مع جدتي."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_g",
+    "meta": {
+      "originalMatch": "I spent the day with",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-that-he-left",
+    "en": "is that he left",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "My guess  is that he left ",
+        "ar": ": تخميني هو أنه غادر :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_g",
+    "meta": {
+      "originalMatch": "is that he left",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-open-all-day",
+    "en": "is open all day",
+    "translation": "",
+    "ipa": "dʒɪm",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The gym  is open all day ",
+        "ar": ": الصالة الرياضية مفتوحة طوال اليوم :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_g",
+    "meta": {
+      "originalMatch": "is open all day",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_nice-to-meet-you",
+    "en": "nice to meet you",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Hi,  nice to meet you ",
+        "ar": "مرحبا، سررت بلقائك."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_h",
+    "meta": {
+      "originalMatch": "nice to meet you",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_we-stayed-at-a-nice",
+    "en": "We stayed at a nice",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " We stayed at a nice  hotel.",
+        "ar": "أقمنا في فندق لطيف."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_h",
+    "meta": {
+      "originalMatch": "We stayed at a nice",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_for-over-an",
+    "en": "for over an",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We waited  for over an  hour.",
+        "ar": ": انتظرنا لأكثر من ساعة :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_h",
+    "meta": {
+      "originalMatch": "for over an",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_much-does-this-cost",
+    "en": "much does this cost",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "How  much does this cost  ?",
+        "ar": ": كم تكلفتها : ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_h",
+    "meta": {
+      "originalMatch": "much does this cost",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-wanted-to-go",
+    "en": "I wanted to go",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I wanted to go  however, I couldn’t.",
+        "ar": ": أردت الذهاب، لكنني لم أستطع :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_h",
+    "meta": {
+      "originalMatch": "I wanted to go",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_can-we-eat-now",
+    "en": "can we eat now",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I’m hungry  can we eat now  ?",
+        "ar": "أنا جائع، هل يمكننا تناول الطعام الآن ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_h",
+    "meta": {
+      "originalMatch": "can we eat now",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_if-you-walk-on-it",
+    "en": "if you walk on it",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The ice will break  if you walk on it ",
+        "ar": ": سوف ينكسر الجليد إذا مشيت عليه :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "if you walk on it",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_the-train-will-arrive",
+    "en": "The train will arrive",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " The train will arrive  in ten minutes.",
+        "ar": ": سيصل القطار بعد عشر دقائق :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "The train will arrive",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-found-it",
+    "en": "I found it",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I found it  on the internet.",
+        "ar": "وجدتها على الإنترنت."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "I found it",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_as-a-bir-thday-gift",
+    "en": "as a bir thday gift",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I bought it  as a bir thday gift ",
+        "ar": "اشتريته كهدية عيد ميلاد."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "as a bir thday gift",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-put-on",
+    "en": "He put on",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He put on  his jacket.",
+        "ar": "لقد ارتدى سترته."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "He put on",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-the-coldest-month",
+    "en": "is the coldest month",
+    "translation": "",
+    "ipa": "ˈdʒæn·juˌer·i",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "January  is the coldest month ",
+        "ar": ": شهر يناير هو الشهر الأكثر برودة :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "is the coldest month",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_will-take-two-days",
+    "en": "will take two days",
+    "translation": "",
+    "ipa": "ˈdʒɜr·ni",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This journey  will take two days ",
+        "ar": ": ستستغرق هذه الرحلة يومين :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "will take two days",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_she-began-her-new-job",
+    "en": "She began her new job",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " She began her new job  in early June.",
+        "ar": "لقد بدأت وظيفتها الجديدة في أوائل يونيو."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "She began her new job",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_school-books-for-next-year",
+    "en": "school books for next year",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Keep these  school books for next year ",
+        "ar": "أبق هذه الكتب المدرسية للعام القادم."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "school books for next year",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_let-me-explain-the",
+    "en": "Let me explain the",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Let me explain the  key point again.",
+        "ar": ": دعني أشرح النقطة الأساسية مرة أخرى :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "Let me explain the",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-was-sitting-on",
+    "en": "He was sitting on",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He was sitting on  my left.",
+        "ar": "كان يجلس على يساري."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "He was sitting on",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-wrote-me",
+    "en": "He wrote me",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He wrote me  a letter.",
+        "ar": ": كتب إلي رسالة :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "He wrote me",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-forgot-to-turn-off-the",
+    "en": "I forgot to turn off the",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I forgot to turn off the  lights.",
+        "ar": "لقد نسيت إطفاء الأنوار."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "I forgot to turn off the",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_to-me",
+    "en": "to me",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Read the second line  to me ",
+        "ar": ": اقرأ لي السطر الثاني :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "to me",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_do-we-need",
+    "en": "do we need",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "How many eggs  do we need  ?",
+        "ar": "كم بيضة نحتاج ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "do we need",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_what-do-you",
+    "en": "What do you",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " What do you  mean ?",
+        "ar": "ماذا تقصد ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "What do you",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_felt-like-a-dream",
+    "en": "felt like a dream",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The meeting  felt like a dream ",
+        "ar": ": بدأ اللقاء وكأنه حلم :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "felt like a dream",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_how-are-you-today",
+    "en": "How are you today",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Good morning !!  How are you today  ?",
+        "ar": "صباح الخير !! كيف حالك اليوم ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "How are you today",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-calling-you-now",
+    "en": "is calling you now",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Mum  is calling you now ",
+        "ar": "أمي تتصل بك الآن."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "is calling you now",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_one-thing-you-love",
+    "en": "one thing you love",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Name  one thing you love ",
+        "ar": ": اذكر اسم شيء واحد تحبه :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "one thing you love",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_call-me-at-this",
+    "en": "Call me at this",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Call me at this  number.",
+        "ar": ": اتصل بي على هذا الرقم :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "Call me at this",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-wants-to-be-a",
+    "en": "He wants to be a",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He wants to be a  nurse.",
+        "ar": ": يريد أن يصبح ممرضا :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "He wants to be a",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_the-class-starts-at",
+    "en": "The class starts at",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " The class starts at  9 o’clock.",
+        "ar": "تبدأ الحصة في الساعة 9:00."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "The class starts at",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-on-the-table",
+    "en": "is on the table",
+    "translation": "",
+    "ipa": "ˈɑb·dʒɪkt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The object  is on the table ",
+        "ar": ": القطعة على الطاولة : شيء :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "is on the table",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-m-going-to-the",
+    "en": "I’m going to the",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I’m going to the  office.",
+        "ar": "أنا ذاهب إلى المكتب."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "I’m going to the",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_one-of-them",
+    "en": "One of them",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " One of them  brought a camera.",
+        "ar": ": أحضر أحدهم كاميرا :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "One of them",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_want-to-help-you",
+    "en": "want to help you",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I only  want to help you ",
+        "ar": ": أريد فقط أن أساعدك :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "want to help you",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_for-us",
+    "en": "for us",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He ordered a taxi  for us ",
+        "ar": "لقد طلب لنا سيارة أجرة."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "for us",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-my-favorite-hobby",
+    "en": "is my favorite hobby",
+    "translation": "",
+    "exampleCount": 4,
+    "examples": [
+      {
+        "en": "Painting  is my favorite hobby ",
+        "ar": "الرسم هو هوايتي المفضلة."
+      },
+      {
+        "en": "Reading  is my favorite hobby ",
+        "ar": ": القراءة هي هوايتي المفضلة :"
+      },
+      {
+        "en": "Swimming  is my favorite hobby ",
+        "ar": "السباحة هي هوايتي المفضلة."
+      },
+      {
+        "en": "Writing  is my favorite hobby ",
+        "ar": "الكتابة هي هوايتي المفضلة."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "is my favorite hobby",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_we-had-a-small",
+    "en": "We had a small",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " We had a small  party at home.",
+        "ar": "أقمنا حفلة صغيرة في المنزل."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "We had a small",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_did-you-find",
+    "en": "Did you find",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Did you find  my pen ?",
+        "ar": "هل وجدت قلمي ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "Did you find",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-gave-a",
+    "en": "He gave a",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He gave a  perfect answer.",
+        "ar": ": لقد أعطى إجابة مثالية :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "He gave a",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-to-leave-soon",
+    "en": "is to leave soon",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "My plan  is to leave soon ",
+        "ar": ": أعتزم أن أغادر قريبا :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "is to leave soon",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_to-visit-you-tomorrow",
+    "en": "to visit you tomorrow",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I plan  to visit you tomorrow ",
+        "ar": ": أنوي زيارتك غدا :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "to visit you tomorrow",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_we-enjoyed-the",
+    "en": "We enjoyed the",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " We enjoyed the  school play.",
+        "ar": ": استمتعنا بالمسرحية المدرسية :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "We enjoyed the",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_can-you-help-me",
+    "en": "Can you help me",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Can you help me  please ?",
+        "ar": "هل يمكنك مساعدتي من فضلك ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "Can you help me",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_every-thing-will-be-ok",
+    "en": "every - thing will be OK",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Be positive;  every - thing will be OK ",
+        "ar": ": كن إيجابيا، كل شيء سيكون على ما يرام :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "every - thing will be OK",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-need-to-buy-some",
+    "en": "I need to buy some",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I need to buy some  potatoes.",
+        "ar": "أحتاج إلى شراء بعض البطاطس."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "I need to buy some",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_the-movie-was",
+    "en": "The movie was",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " The movie was  pretty good.",
+        "ar": "كان الفيلم جيدا جدا."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "The movie was",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-want-to-live-a",
+    "en": "I want to live a",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I want to live a  rich life.",
+        "ar": "أريد أن أعيش حياة غنية."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "I want to live a",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-saw-a-small",
+    "en": "I saw a small",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I saw a small  snake.",
+        "ar": "رأيت ثعبانا صغيرا."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "I saw a small",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-like-to-walk-in",
+    "en": "I like to walk in",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I like to walk in  the snow.",
+        "ar": "أحب المشي في الثلج."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "I like to walk in",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_what-is-your-favorite",
+    "en": "What is your favorite",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " What is your favorite  sport ?",
+        "ar": "ما هي رياضتك المفضلة ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "What is your favorite",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-love-listening-to",
+    "en": "I love listening to",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I love listening to  stories.",
+        "ar": "أحب الاستماع إلى القصص."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "I love listening to",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_did-you-finish-your",
+    "en": "Did you finish your",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Did you finish your  studies ?",
+        "ar": "هل أنهيت دراستك ؟"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "Did you finish your",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_don-t-talk-about-this",
+    "en": "Don’t talk about this",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Don’t talk about this  subject.",
+        "ar": ": لا تتحدث عن هذا الموضوع :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "Don’t talk about this",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-love-the-morning",
+    "en": "I love the morning",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I love the morning  sun.",
+        "ar": "أحب شمس الصباح."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "I love the morning",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_he-works-at-a",
+    "en": "He works at a",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He works at a  supermarket.",
+        "ar": "إنه يعمل في سوبرماركت."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "He works at a",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_you-bought-is-nice",
+    "en": "you bought is nice",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The shirt that  you bought is nice ",
+        "ar": "القميص الذي اشتريته جميل."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "you bought is nice",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_are-not-going-well",
+    "en": "are not going well",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Things  are not going well ",
+        "ar": ": الأمور لا تسير على ما يرام :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "are not going well",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_this-is-my-first",
+    "en": "This is my first",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " This is my first  time here.",
+        "ar": ": هذه هي المرة الأولى لي هنا :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "This is my first",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_is-my-favorite-vegetable",
+    "en": "is my favorite vegetable",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Tomato  is my favorite vegetable ",
+        "ar": "الطماطم هي الخضروات المفضلة لدي."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "is my favorite vegetable",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_tell-me-about",
+    "en": "Tell me about",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Tell me about  your travels.",
+        "ar": "أخبرني عن سفرياتك."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "Tell me about",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_i-study-at",
+    "en": "I study at",
+    "translation": "",
+    "ipa": "ˌju·nəˈvɜr·sə·t̬i",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I study at  Cairo University.",
+        "ar": ": أنا أدرس في جامعة القاهرة :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "I study at",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_come-with-me",
+    "en": "come with me",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Stand up and  come with me ",
+        "ar": ": قف وتعال معي :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "come with me",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_your-advice-was",
+    "en": "Your advice was",
+    "translation": "",
+    "ipa": "ˈjus·fəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Your advice was  useful.",
+        "ar": ": كانت نصيحتك مفيدة :"
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "Your advice was",
+      "ipaCorrected": false
+    }
+  },
+  {
+    "id": "w_a1_try-to-drink-more",
+    "en": "Try to drink more",
+    "translation": "",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Try to drink more  water.",
+        "ar": "حاول شرب المزيد من الماء."
+      }
+    ],
+    "type": "template",
+    "confidence": "critical",
+    "decision": "critical-review",
+    "reasoning": "Identified as a sentence template/phrase with high stopword density.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "Try to drink more",
+      "ipaCorrected": false
+    }
+  }
+]

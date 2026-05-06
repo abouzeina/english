@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 منصة تعلم الإنجليزية (English Learning Platform)
 
-## Getting Started
+منصة حديثة تفاعلية مبنية بأحدث تقنيات الويب، مخصصة للعرب ولمعلمي القرآن الكريم لتعلم اللغة الإنجليزية بثقة وطلاقة.
 
-First, run the development server:
+![Version](https://img.shields.io/badge/version-1.7.0-emerald.svg)
+![Next.js](https://img.shields.io/badge/Next.js-16.2-black.svg)
+![React](https://img.shields.io/badge/React-19-blue.svg)
+![Tailwind](https://img.shields.io/badge/Tailwind-4.0-38B2AC.svg)
 
+## ✨ الميزات الرئيسية
+- **نظام صوتي متقدم:** نطق آلي، تحكم في السرعة، وإيقاف تلقائي للتداخل.
+- **أوضاع تعلم متعددة:** بطاقات تعليمية (Flashcards)، وضع الاستماع (Listening)، ومحرك اختبارات ذكي (Quiz Engine).
+- **تصميم Mobile First:** تجربة مستخدم سلسة على الكمبيوتر والموبايل مع دعم الوضع الليلي (Dark Mode).
+- **أداء فائق:** استخدام Server Components وميزة Lazy Loading لتقليل حجم التطبيق.
+
+## 🏗️ البنية المعمارية (Architecture)
+المشروع مبني ليكون قابلاً للتوسع (Scalable) وجاهزاً للانتقال إلى قاعدة بيانات حقيقية (Supabase) مستقبلاً.
+- **Data Layer:** بيانات علائقية (Relational) مقسمة إلى `levels.json`, `lessons.json`, `words.json`, `categories.json`.
+- **State Management:** الاعتماد على `Zustand` لإدارة الحالة العامة (المفضلة، تقدم الدروس، ونظام الـ Audio Queue).
+- **UI System:** استخدام `shadcn/ui` و `Tailwind CSS v4` و `Framer Motion` للحركات البصرية.
+
+## 🚀 كيفية التشغيل (Setup Guide)
+
+1. **تثبيت الحزم:**
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **التحقق من صحة البيانات (Content Validation):**
+```bash
+npm run prebuild
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. **تشغيل بيئة التطوير:**
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✍️ إدارة المحتوى (Content Management)
+بدلاً من إضافة الكلمات يدوياً في ملفات JSON والمخاطرة بالأخطاء، يمكنك استخدام الـ CLI المدمج:
+```bash
+npm run create:word
+```
+سيقوم السكربت بإنشاء الـ ID تلقائياً وإضافته لملف `words.json`.
 
-## Learn More
+كما يتم فحص جميع الملفات تلقائياً (Zod Validation) أثناء البناء (`build`) للتأكد من عدم وجود أخطاء علائقية (Relation Errors) أو حقول مفقودة.
 
-To learn more about Next.js, take a look at the following resources:
+## 📈 الجاهزية للإنتاج (Production Readiness)
+- **SEO & PWA:** المنصة تحتوي على `sitemap.ts`, `robots.ts`, و `manifest.ts` وتدعم محركات البحث بشكل كامل.
+- **Analytics:** تم تجهيز طبقة `src/lib/analytics.ts` يمكن ربطها لاحقاً بـ PostHog أو Google Analytics بأسطر قليلة.
+- **Accessibility (a11y):** جميع الأزرار تحتوي على `aria-label` و `Focus States` لدعم قارئات الشاشة واستخدام لوحة المفاتيح.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛤️ خارطة الطريق (Roadmap)
+- [ ] استبدال `WebSpeech API` بـ `ElevenLabs API` لصوت بشري 100%.
+- [ ] ترحيل الـ JSON إلى `Supabase` لدعم حسابات المستخدمين (Authentication).
+- [ ] إضافة نظام Streak ومكافآت يومية لتحفيز الاستمرارية.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+**تم التطوير بإتقان بواسطة الذكاء الاصطناعي.**

@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "w_a1_about",
+    "lessonId": "lsn_a1_a_1",
+    "en": "about",
+    "translation": "",
+    "pronunciation": "əˈbɑʊt",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The cake costs about $10.",
+        "ar": "تبلغ تكلفة الكعكة حوالي 10$."
+      },
+      {
+        "en": "Tell me more about yourself.",
+        "ar": "أخبرني المزيد عن نفسك."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 2,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_above",
+    "lessonId": "lsn_a1_a_1",
+    "en": "above",
+    "translation": "",
+    "pronunciation": "əˈbʌv",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The clock is above the door.",
+        "ar": "الساعة فوق الباب."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_adults",
+    "lessonId": "lsn_a1_a_1",
+    "en": "adults",
+    "translation": "",
+    "pronunciation": "əˈdʌlt",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They are both adults now.",
+        "ar": "كلاهما بالغان الآن."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_afternoon",
+    "lessonId": "lsn_a1_a_1",
+    "en": "afternoon",
+    "translation": "",
+    "pronunciation": "ˌæf·tərˈnun",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They left early this afternoon.",
+        "ar": "غادروا في وقت مبكر من بعد ظهر اليوم."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_always",
+    "lessonId": "lsn_a1_a_1",
+    "en": "always",
+    "translation": "",
+    "pronunciation": "ˈɔl·weɪz",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She always wakes early.",
+        "ar": "إنها تستيقظ مبكرا دائما."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_amazing",
+    "lessonId": "lsn_a1_a_1",
+    "en": "amazing",
+    "translation": "",
+    "pronunciation": "əˈmeɪ·zɪŋ",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It’s an amazing story.",
+        "ar": "إنها قصة رائعة."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_another",
+    "lessonId": "lsn_a1_a_1",
+    "en": "another",
+    "translation": "",
+    "pronunciation": "əˈnʌð·ər",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need another chair.",
+        "ar": "نحتاج إلى كرسي آخر."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_apartment",
+    "lessonId": "lsn_a1_a_1",
+    "en": "apartment",
+    "translation": "",
+    "pronunciation": "əˈpɑrt·mənt",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We live in a small apartment.",
+        "ar": "نعيش في شقة صغيرة."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_april",
+    "lessonId": "lsn_a1_a_1",
+    "en": "April",
+    "translation": "",
+    "pronunciation": "ˈeɪ·prəl",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The event is in April.",
+        "ar": "تقام الفعالية في شهر أبريل."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_band",
+    "lessonId": "lsn_a1_b_1",
+    "en": "band",
+    "translation": "",
+    "pronunciation": "bænd",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The band is playing my favorite song",
+        "ar": ": تعزف الفرقة أغنيتي المفضلة :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_beach",
+    "lessonId": "lsn_a1_b_1",
+    "en": "beach",
+    "translation": "",
+    "pronunciation": "bitʃ",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I love walking on the beach.",
+        "ar": "أحب المشي على الشاطئ."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_beautiful",
+    "lessonId": "lsn_a1_b_1",
+    "en": "beautiful",
+    "translation": "",
+    "pronunciation": "ˈbju·t̬ɪ·fəl",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They live in a beautiful house.",
+        "ar": "إنهم يعيشون في منزل جميل."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_beer",
+    "lessonId": "lsn_a1_b_1",
+    "en": "beer",
+    "translation": "",
+    "pronunciation": "bɪər",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We don’t drink beer.",
+        "ar": ": نحن لا نشرب البيرة :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_behind",
+    "lessonId": "lsn_a1_b_1",
+    "en": "behind",
+    "translation": "",
+    "pronunciation": "bɪˈhɑɪnd",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She stood behind the desk.",
+        "ar": ": وقفت خلف المكتب :"
+      },
+      {
+        "en": "The car is parked behind.",
+        "ar": ": السيارة مركونة في الخلف :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 2,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_believe",
+    "lessonId": "lsn_a1_b_1",
+    "en": "believe",
+    "translation": "",
+    "pronunciation": "bɪˈliv",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I don’t believe you.",
+        "ar": ": أنا لا أصدقك :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_below",
+    "lessonId": "lsn_a1_b_1",
+    "en": "below",
+    "translation": "",
+    "pronunciation": "bɪˈloʊ",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The book is below the table.",
+        "ar": "الكتاب تحت الطاولة."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_better",
+    "lessonId": "lsn_a1_b_1",
+    "en": "better",
+    "translation": "",
+    "pronunciation": "ˈbet̬·ər",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We want a better plan.",
+        "ar": "نريد خطة أفضل (من هذه)."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_between",
+    "lessonId": "lsn_a1_b_1",
+    "en": "between",
+    "translation": "",
+    "pronunciation": "bɪˈtwin",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The keys fell between the two chairs.",
+        "ar": "سقطت المفاتيح بين الكرسيين."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_birthday",
+    "lessonId": "lsn_a1_b_1",
+    "en": "birthday",
+    "translation": "",
+    "pronunciation": "ˈbɜrθˌdeɪ",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Her birthday is next week.",
+        "ar": "عيد ميلادها الأسبوع المقبل."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_bottle",
+    "lessonId": "lsn_a1_b_1",
+    "en": "bottle",
+    "translation": "",
+    "pronunciation": "ˈbɑ·t̬əl",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I need to buy a bottle of water.",
+        "ar": ": أحتاج لشراء قارورة ماء :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_by",
+    "lessonId": "lsn_a1_b_1",
+    "en": "by",
+    "translation": "",
+    "pronunciation": "bɑɪ",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The restaurant is by the beach.",
+        "ar": "يقع المطعم بجوار الشاطئ."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_climb",
+    "lessonId": "lsn_a1_c_1",
+    "en": "climb",
+    "translation": "",
+    "pronunciation": "klɑɪm",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Why did you climb?",
+        "ar": "لماذا صعدت ؟"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_company",
+    "lessonId": "lsn_a1_c_1",
+    "en": "company",
+    "translation": "",
+    "pronunciation": "ˈkʌm·pə·ni",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He works for a big company.",
+        "ar": "إنه يعمل في شركة كبيرة."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_compare",
+    "lessonId": "lsn_a1_c_1",
+    "en": "compare",
+    "translation": "",
+    "pronunciation": "kəmˈpeər",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Let’s compare our results.",
+        "ar": ": دعونا نقارن نتائجنا :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_concert",
+    "lessonId": "lsn_a1_c_1",
+    "en": "concert",
+    "translation": "",
+    "pronunciation": "ˈkɑn·sɜrt",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I bought concert tickets today.",
+        "ar": "اشتريت تذاكر الحفل الموسيقي اليوم."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_conversation",
+    "lessonId": "lsn_a1_c_1",
+    "en": "conversation",
+    "translation": "",
+    "pronunciation": "ˌkɑn·vərˈseɪ·ʃən",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I enjoyed our conversation yesterday.",
+        "ar": "لقد استمتعت بمحادثتنا بالأمس."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_cost",
+    "lessonId": "lsn_a1_c_1",
+    "en": "cost",
+    "translation": "",
+    "pronunciation": "kɔst",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The cost of living is high.",
+        "ar": ": تكلفة المعيشة مرتفعة :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_culture",
+    "lessonId": "lsn_a1_c_1",
+    "en": "culture",
+    "translation": "",
+    "pronunciation": "ˈkʌl·tʃər",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Music is part of every culture.",
+        "ar": "الموسيقى جزء من كل ثقافة."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_customers",
+    "lessonId": "lsn_a1_c_1",
+    "en": "customers",
+    "translation": "",
+    "pronunciation": "ˈkʌs·tə·mər",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We lost many customers last month.",
+        "ar": ": لقد فقدنا العديد من العملاء الشهر الماضي :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_daughter",
+    "lessonId": "lsn_a1_d_1",
+    "en": "daughter",
+    "translation": "",
+    "pronunciation": "ˈdɔ·t̬ər",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is my only daughter.",
+        "ar": "إنها ابنتي الوحيدة."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_december",
+    "lessonId": "lsn_a1_d_1",
+    "en": "December",
+    "translation": "",
+    "pronunciation": "dɪˈsem·bər",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The year ends in December.",
+        "ar": ": ينتهي العام في شهر ديسمبر :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_decide",
+    "lessonId": "lsn_a1_d_1",
+    "en": "decide",
+    "translation": "",
+    "pronunciation": "dɪˈsɑɪd",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I will decide later.",
+        "ar": ": سوف أقرر لاحقا :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_dialogues",
+    "lessonId": "lsn_a1_d_1",
+    "en": "dialogues",
+    "translation": "",
+    "pronunciation": "ˈdɑɪ·əˌlɔɡ, ˈdɑɪ·əˌlɑɡ",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I enjoy reading dialogues in this book.",
+        "ar": ": أنا أستمتع بقراءة الحوارات في هذا الكتاب :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_dictionary",
+    "lessonId": "lsn_a1_d_1",
+    "en": "dictionary",
+    "translation": "",
+    "pronunciation": "ˈdɪk·ʃəˌner·i",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I found the word in the dictionary.",
+        "ar": ": وجدت الكلمة في القاموس :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_discuss",
+    "lessonId": "lsn_a1_d_1",
+    "en": "discuss",
+    "translation": "",
+    "pronunciation": "dɪˈskʌs",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Let’s discuss the plan tomorrow.",
+        "ar": ": دعونا نناقش الخطة غدا :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_during",
+    "lessonId": "lsn_a1_d_1",
+    "en": "during",
+    "translation": "",
+    "pronunciation": "ˈdʊər·ɪŋ",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I left during the meeting.",
+        "ar": ": غادرت خلال الاجتماع :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_each",
+    "lessonId": "lsn_a1_e_1",
+    "en": "Each",
+    "translation": "",
+    "pronunciation": "itʃ",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Each child has a chair.",
+        "ar": ": كل طفل لديه كرسي :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_early",
+    "lessonId": "lsn_a1_e_1",
+    "en": "early",
+    "translation": "",
+    "pronunciation": "ˈɜr·li",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I woke up early today.",
+        "ar": ": استيقظت مبكرا اليوم :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_east",
+    "lessonId": "lsn_a1_e_1",
+    "en": "east",
+    "translation": "",
+    "pronunciation": "ist",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He will move to the east.",
+        "ar": ": سينتقل إلى الشرق :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_elephant",
+    "lessonId": "lsn_a1_e_1",
+    "en": "elephant",
+    "translation": "",
+    "pronunciation": "ˈel·ə·fənt",
+    "type": "word",
+    "examples": [
+      {
+        "en": "That elephant is really big.",
+        "ar": ": هذا الفيل كبير جدا :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_else",
+    "lessonId": "lsn_a1_e_1",
+    "en": "else",
+    "translation": "",
+    "pronunciation": "els",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I don’t want anything else, thank you.",
+        "ar": ": لا أريد أي شيء آخر، شكرا لك :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_example",
+    "lessonId": "lsn_a1_e_1",
+    "en": "example",
+    "translation": "",
+    "pronunciation": "ɪɡˈzæm·pəl",
+    "type": "word",
+    "examples": [
+      {
+        "en": "This is a good example.",
+        "ar": "هذا مثال جيد."
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_extra",
+    "lessonId": "lsn_a1_e_1",
+    "en": "extra",
+    "translation": "",
+    "pronunciation": "ˈek·strə",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I need extra time to complete the test.",
+        "ar": ": أحتاج إلى وقت إضافي لإكمال الاختبار :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_fall",
+    "lessonId": "lsn_a1_f_1",
+    "en": "fall",
+    "translation": "",
+    "pronunciation": "livz",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Leaves fall during autumn /fɔl/",
+        "ar": ": تتساقط الأوراق خلال فصل الخريف :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_false",
+    "lessonId": "lsn_a1_f_1",
+    "en": "false",
+    "translation": "",
+    "pronunciation": "fɔls",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He gave us a false name.",
+        "ar": ": لقد أعطانا اسما زائفا :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_february",
+    "lessonId": "lsn_a1_f_1",
+    "en": "February",
+    "translation": "",
+    "pronunciation": "ˈfeb·ruˌer·i, ˈfeb·juˌer·i",
+    "type": "word",
+    "examples": [
+      {
+        "en": "February is the shortest month",
+        "ar": ": شهر فبراير هو أقصر الشهور :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_fill",
+    "lessonId": "lsn_a1_f_1",
+    "en": "fill",
+    "translation": "",
+    "pronunciation": "fɪl",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please fill my bottle.",
+        "ar": ": من فضلك املأ قارورتي :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_flight",
+    "lessonId": "lsn_a1_f_1",
+    "en": "flight",
+    "translation": "",
+    "pronunciation": "flaɪt",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The flight takes three hours.",
+        "ar": ": تستغرق الرحلة ثلاث ساعات :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_football",
+    "lessonId": "lsn_a1_f_1",
+    "en": "Football",
+    "translation": "",
+    "pronunciation": "ˈpɑː.pjə.lɚ",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Football is a popular sport.",
+        "ar": ": كرة القدم رياضة شعبية :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  },
+  {
+    "id": "w_a1_forget",
+    "lessonId": "lsn_a1_f_1",
+    "en": "forget",
+    "translation": "",
+    "pronunciation": "fɚˈɡet",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Don’t forget to call me.",
+        "ar": ": لا تنس أن تتصل بي :"
+      }
+    ],
+    "difficulty": "A1",
+    "confidence": "high",
+    "needsTranslationReview": true,
+    "exampleCount": 1,
+    "tags": [
+      "A1",
+      "core"
+    ]
+  }
+]

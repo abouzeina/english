@@ -1,0 +1,11 @@
+[INFO] 🚀 Starting Content Pipeline v2 (Lines: 200)
+[INFO] 
+--- IMPORT SUMMARY ---
+[INFO] Words Processed: 42
+[INFO] Phrases Processed: 17
+[INFO] Examples Merged: 11
+[INFO] Manual Review Needed: 59
+[INFO] Confidence Low: 45
+[INFO] Parsing Success Rate: 23.7%
+[INFO] 
+✅ Manual review data saved to scripts/manual-review.json

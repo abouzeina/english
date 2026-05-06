@@ -1,0 +1,18 @@
+[
+  {
+    "id": "lvl_1",
+    "slug": "a1",
+    "name": "Beginner",
+    "nameAr": "المبتدئ (A1)",
+    "description": "Start your journey here with basic vocabulary and phrases.",
+    "descriptionAr": "ابدأ رحلتك هنا مع المفردات والجمل الأساسية."
+  },
+  {
+    "id": "lvl_2",
+    "slug": "a2",
+    "name": "Elementary",
+    "nameAr": "الابتدائي (A2)",
+    "description": "Build on your foundation with more complex sentences.",
+    "descriptionAr": "ابنِ على أساسك مع جمل أكثر تعقيداً."
+  }
+]

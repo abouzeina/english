@@ -1,0 +1,5939 @@
+[
+  {
+    "id": "w_a1_about",
+    "en": "about",
+    "translation": "",
+    "ipa": "əˈbɑʊt",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "The cake costs about $10.",
+        "ar": "تبلغ تكلفة الكعكة حوالي 10$."
+      },
+      {
+        "en": "Tell me more about yourself.",
+        "ar": "أخبرني المزيد عن نفسك."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_above",
+    "en": "above",
+    "translation": "",
+    "ipa": "əˈbʌv",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The clock is above the door.",
+        "ar": "الساعة فوق الباب."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_adults",
+    "en": "adults",
+    "translation": "",
+    "ipa": "əˈdʌlt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " They are both  adults now.",
+        "ar": "كلاهما بالغان الآن."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "They are both",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_afternoon",
+    "en": "afternoon",
+    "translation": "",
+    "ipa": "ˌæf·tərˈnun",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " They left early  this afternoon.",
+        "ar": "غادروا في وقت مبكر من بعد ظهر اليوم."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "They left early",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_always",
+    "en": "always",
+    "translation": "",
+    "ipa": "ˈɔl·weɪz",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She always wakes early.",
+        "ar": "إنها تستيقظ مبكرا دائما."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_amazing",
+    "en": "amazing",
+    "translation": "",
+    "ipa": "əˈmeɪ·zɪŋ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "It’s an amazing story.",
+        "ar": "إنها قصة رائعة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_another",
+    "en": "another",
+    "translation": "",
+    "ipa": "əˈnʌð·ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We need another chair.",
+        "ar": "نحتاج إلى كرسي آخر."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_apartment",
+    "en": "apartment",
+    "translation": "",
+    "ipa": "əˈpɑrt·mənt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We live in a small apartment.",
+        "ar": "نعيش في شقة صغيرة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_april",
+    "en": "April",
+    "translation": "",
+    "ipa": "ˈeɪ·prəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The event is in April.",
+        "ar": "تقام الفعالية في شهر أبريل."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_a",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_band",
+    "en": "band",
+    "translation": "",
+    "ipa": "bænd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The band  is playing my favorite song ",
+        "ar": ": تعزف الفرقة أغنيتي المفضلة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "is playing my favorite song",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_beach",
+    "en": "beach",
+    "translation": "",
+    "ipa": "bitʃ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I love walking on the beach.",
+        "ar": "أحب المشي على الشاطئ."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_beautiful",
+    "en": "beautiful",
+    "translation": "",
+    "ipa": "ˈbju·t̬ɪ·fəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "They live in a beautiful house.",
+        "ar": "إنهم يعيشون في منزل جميل."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_beer",
+    "en": "beer",
+    "translation": "",
+    "ipa": "bɪər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We don’t drink beer.",
+        "ar": ": نحن لا نشرب البيرة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_behind",
+    "en": "behind",
+    "translation": "",
+    "ipa": "bɪˈhɑɪnd",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "She stood behind the desk.",
+        "ar": ": وقفت خلف المكتب :"
+      },
+      {
+        "en": "The car is parked behind.",
+        "ar": ": السيارة مركونة في الخلف :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_believe",
+    "en": "believe",
+    "translation": "",
+    "ipa": "bɪˈliv",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I don’t believe you.",
+        "ar": ": أنا لا أصدقك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_below",
+    "en": "below",
+    "translation": "",
+    "ipa": "bɪˈloʊ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The book is below the table.",
+        "ar": "الكتاب تحت الطاولة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_better",
+    "en": "better",
+    "translation": "",
+    "ipa": "ˈbet̬·ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We want a better plan.",
+        "ar": "نريد خطة أفضل (من هذه)."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_between",
+    "en": "between",
+    "translation": "",
+    "ipa": "bɪˈtwin",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The keys fell between the two chairs.",
+        "ar": "سقطت المفاتيح بين الكرسيين."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_birthday",
+    "en": "birthday",
+    "translation": "",
+    "ipa": "ˈbɜrθˌdeɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Her birthday is next week.",
+        "ar": "عيد ميلادها الأسبوع المقبل."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_bottle",
+    "en": "bottle",
+    "translation": "",
+    "ipa": "ˈbɑ·t̬əl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I need to buy a  bottle of water.",
+        "ar": ": أحتاج لشراء قارورة ماء :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "I need to buy a",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_by",
+    "en": "by",
+    "translation": "",
+    "ipa": "bɑɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The restaurant is by the beach.",
+        "ar": "يقع المطعم بجوار الشاطئ."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_b",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_climb",
+    "en": "climb",
+    "translation": "",
+    "ipa": "klɑɪm",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Why did you climb ?",
+        "ar": "لماذا صعدت ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_company",
+    "en": "company",
+    "translation": "",
+    "ipa": "ˈkʌm·pə·ni",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He works for a big company.",
+        "ar": "إنه يعمل في شركة كبيرة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_compare",
+    "en": "compare",
+    "translation": "",
+    "ipa": "kəmˈpeər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Let’s compare our results.",
+        "ar": ": دعونا نقارن نتائجنا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_concert",
+    "en": "concert",
+    "translation": "",
+    "ipa": "ˈkɑn·sɜrt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I bought concert tickets today.",
+        "ar": "اشتريت تذاكر الحفل الموسيقي اليوم."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_conversation",
+    "en": "conversation",
+    "translation": "",
+    "ipa": "ˌkɑn·vərˈseɪ·ʃən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I enjoyed our conversation yesterday.",
+        "ar": "لقد استمتعت بمحادثتنا بالأمس."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_cost",
+    "en": "cost",
+    "translation": "",
+    "ipa": "kɔst",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The cost of living is high.",
+        "ar": ": تكلفة المعيشة مرتفعة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_culture",
+    "en": "culture",
+    "translation": "",
+    "ipa": "ˈkʌl·tʃər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Music is part of every culture.",
+        "ar": "الموسيقى جزء من كل ثقافة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_customers",
+    "en": "customers",
+    "translation": "",
+    "ipa": "ˈkʌs·tə·mər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " We lost many  customers last month.",
+        "ar": ": لقد فقدنا العديد من العملاء الشهر الماضي :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_c",
+    "meta": {
+      "originalMatch": "We lost many",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_daughter",
+    "en": "daughter",
+    "translation": "",
+    "ipa": "ˈdɔ·t̬ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She is my only daughter.",
+        "ar": "إنها ابنتي الوحيدة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_december",
+    "en": "December",
+    "translation": "",
+    "ipa": "dɪˈsem·bər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " The year ends in  December.",
+        "ar": ": ينتهي العام في شهر ديسمبر :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "The year ends in",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_decide",
+    "en": "decide",
+    "translation": "",
+    "ipa": "dɪˈsɑɪd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I will decide later.",
+        "ar": ": سوف أقرر لاحقا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_dialogues",
+    "en": "dialogues",
+    "translation": "",
+    "ipa": "ˈdɑɪ·əˌlɔɡ, ˈdɑɪ·əˌlɑɡ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I enjoy reading  dialogues in this book.",
+        "ar": ": أنا أستمتع بقراءة الحوارات في هذا الكتاب :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "I enjoy reading",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_dictionary",
+    "en": "dictionary",
+    "translation": "",
+    "ipa": "ˈdɪk·ʃəˌner·i",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I found the  word in the dictionary.",
+        "ar": ": وجدت الكلمة في القاموس :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "I found the",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_discuss",
+    "en": "discuss",
+    "translation": "",
+    "ipa": "dɪˈskʌs",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Let’s discuss the plan tomorrow.",
+        "ar": ": دعونا نناقش الخطة غدا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_during",
+    "en": "during",
+    "translation": "",
+    "ipa": "ˈdʊər·ɪŋ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I left during the meeting.",
+        "ar": ": غادرت خلال الاجتماع :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_d",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_each",
+    "en": "Each",
+    "translation": "",
+    "ipa": "itʃ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Each child has a chair.",
+        "ar": ": كل طفل لديه كرسي :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_early",
+    "en": "early",
+    "translation": "",
+    "ipa": "ˈɜr·li",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I woke up  early today.",
+        "ar": ": استيقظت مبكرا اليوم :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "I woke up",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_east",
+    "en": "east",
+    "translation": "",
+    "ipa": "ist",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He will move to  the east.",
+        "ar": ": سينتقل إلى الشرق :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "He will move to",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_elephant",
+    "en": "elephant",
+    "translation": "",
+    "ipa": "ˈel·ə·fənt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "That elephant is really big.",
+        "ar": ": هذا الفيل كبير جدا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_else",
+    "en": "else",
+    "translation": "",
+    "ipa": "els",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I don’t want anything  else, thank you.",
+        "ar": ": لا أريد أي شيء آخر، شكرا لك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "I don’t want anything",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_example",
+    "en": "example",
+    "translation": "",
+    "ipa": "ɪɡˈzæm·pəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This is a good example.",
+        "ar": "هذا مثال جيد."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_extra",
+    "en": "extra",
+    "translation": "",
+    "ipa": "ˈek·strə",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I need extra time to complete the test.",
+        "ar": ": أحتاج إلى وقت إضافي لإكمال الاختبار :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_e",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_fall",
+    "en": "fall",
+    "translation": "",
+    "ipa": "livz",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Leaves fall  during autumn  /fɔl/",
+        "ar": ": تتساقط الأوراق خلال فصل الخريف :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "during autumn",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_false",
+    "en": "false",
+    "translation": "",
+    "ipa": "fɔls",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He gave us  a false name.",
+        "ar": ": لقد أعطانا اسما زائفا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "He gave us",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_february",
+    "en": "February",
+    "translation": "",
+    "ipa": "ˈfeb·ruˌer·i, ˈfeb·juˌer·i",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "February  is the shortest month ",
+        "ar": ": شهر فبراير هو أقصر الشهور :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "is the shortest month",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_fill",
+    "en": "fill",
+    "translation": "",
+    "ipa": "fɪl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Please fill my bottle.",
+        "ar": ": من فضلك املأ قارورتي :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_flight",
+    "en": "flight",
+    "translation": "",
+    "ipa": "flaɪt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The flight takes three hours.",
+        "ar": ": تستغرق الرحلة ثلاث ساعات :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_football",
+    "en": "Football",
+    "translation": "",
+    "ipa": "ˈpɑː.pjə.lɚ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Football is a popular sport.",
+        "ar": ": كرة القدم رياضة شعبية :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_forget",
+    "en": "forget",
+    "translation": "",
+    "ipa": "fɚˈɡet",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Don’t forget to call me.",
+        "ar": ": لا تنس أن تتصل بي :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_future",
+    "en": "future",
+    "translation": "",
+    "ipa": "ˈfjuː.tʃɚ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Think about your  future.",
+        "ar": ": فكر في مستقبلك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_f",
+    "meta": {
+      "originalMatch": "Think about your",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_walk",
+    "en": "walk",
+    "translation": "",
+    "ipa": "wɑːk",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "Let’s go for a walk.",
+        "ar": ": لنذهب في نزهة على الأقدام :"
+      },
+      {
+        "en": "I enjoy my morning walk.",
+        "ar": ": أنا أستمتع بالمشي الصباحي :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_g",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_gray",
+    "en": "gray",
+    "translation": "",
+    "ipa": "ɡreɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He was wearing a gray sweater. /ˈswet̬.ɚ/",
+        "ar": ": كان يرتدي سترة رمادية اللون :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_g",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_guitar",
+    "en": "guitar",
+    "translation": "",
+    "ipa": "ɡɪˈtɑːr",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She plays the guitar every day.",
+        "ar": "تعزف على الجيتار كل يوم."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_g",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_hat",
+    "en": "hat",
+    "translation": "",
+    "ipa": "hæt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He forgot his hat at home.",
+        "ar": "لقد نسي قبعته في المنزل."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_h",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_hate",
+    "en": "hate",
+    "translation": "",
+    "ipa": "heɪt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Why do you  hate him ?",
+        "ar": ": لماذا تكرهه : ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_h",
+    "meta": {
+      "originalMatch": "Why do you",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_head",
+    "en": "head",
+    "translation": "",
+    "ipa": "hed",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The hat fell off his head.",
+        "ar": "سقطت القبعة عن رأسه."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_h",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_improve",
+    "en": "improve",
+    "translation": "",
+    "ipa": "ɪmˈpruv",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I want to improve my English skills.",
+        "ar": ": أريد أن أطور مهاراتي في اللغة الإنجليزية :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_include",
+    "en": "include",
+    "translation": "",
+    "ipa": "ɪnˈklud",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " The list will  include your name.",
+        "ar": ": سوف تتضمن القائمة اسمك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "The list will",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_interest",
+    "en": "interest",
+    "translation": "",
+    "ipa": "ˈɪn·trəst",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "His interest in science grew.",
+        "ar": ": ازداد اهتمامه بالعلوم :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_prepared",
+    "en": "prepared",
+    "translation": "",
+    "ipa": "prɪˈpeərd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He prepared well  for the interview. /ˈɪn·t̬ərˌvju/",
+        "ar": ": لقد استعد جيدا للمقابلة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "He prepared well",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_kitchen",
+    "en": "kitchen",
+    "translation": "",
+    "ipa": "ˈkɪtʃ·ən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The kitchen is very clean.",
+        "ar": "المطبخ نظيف جدا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_i",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_learning",
+    "en": "learning",
+    "translation": "",
+    "ipa": "ˈlæŋ·ɡwɪdʒ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I am learning the English language.",
+        "ar": ": أنا أتعلم اللغة الإنجليزية :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_laugh",
+    "en": "laugh",
+    "translation": "",
+    "ipa": "læf",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I will tell you, but don’t laugh.",
+        "ar": ": سأخبرك، لكن لا تضحك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_leave",
+    "en": "leave",
+    "translation": "",
+    "ipa": "liv",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I’ll leave in five minutes.",
+        "ar": ": سوف أغادر خلال خمس دقائق :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_library",
+    "en": "library",
+    "translation": "",
+    "ipa": "ˈlɑɪˌbrer·i",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I love reading at the  library.",
+        "ar": ": أحب القراءة في المكتبة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "I love reading at the",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_lie",
+    "en": "lie",
+    "translation": "",
+    "ipa": "lɑɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Please lie  on your back ",
+        "ar": ": استلقي على ظهرك من فضلك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "on your back",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_life",
+    "en": "life",
+    "translation": "",
+    "ipa": "lɑɪf",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I love my life  as it is ",
+        "ar": ": أحب حياتي كما هي :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "as it is",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_light",
+    "en": "light",
+    "translation": "",
+    "ipa": "lɑɪt",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "The light is low in this room.",
+        "ar": ": الإضاءة ضعيفة في هذه الغرفة :"
+      },
+      {
+        "en": "She has light brown hair.",
+        "ar": ": شعرها بني فاتح :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_line",
+    "en": "line",
+    "translation": "",
+    "ipa": "lɑɪn",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Draw a line on the paper.",
+        "ar": ": ارسم خطا على الورقة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_little",
+    "en": "little",
+    "translation": "",
+    "ipa": "ˈlɪt̬·əl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I need a little help.",
+        "ar": "أحتاج إلى القليل من المساعدة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_lbreri",
+    "en": "lbreri",
+    "translation": "",
+    "ipa": "ˈloʊ·kəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The local library is quiet. /ˈlɑɪˌbrer·i/ /ˈkwɑɪ·ɪt/",
+        "ar": ": المكتبة المحلية هادئة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_lose",
+    "en": "lose",
+    "translation": "",
+    "ipa": "luz",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "Don’t lose hope;  keep going  /hoʊp/",
+        "ar": ": لا تفقد الأمل، استمر :"
+      },
+      {
+        "en": "He hates to lose games.",
+        "ar": "إنه يكره أن يخسر في الألعاب."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_l",
+    "meta": {
+      "originalMatch": "keep going",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_machine",
+    "en": "machine",
+    "translation": "",
+    "ipa": "məˈʃin",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I want to buy a coffee machine.",
+        "ar": ": أريد شراء آلة صنع القهوة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_magazines",
+    "en": "magazines",
+    "translation": "",
+    "ipa": "ˌmæɡ.əˈziːn",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I like reading  travel magazines.",
+        "ar": ": أحب قراءة مجلات السفر :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "I like reading",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_main",
+    "en": "main",
+    "translation": "",
+    "ipa": "meɪn",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The main office  is on the left ",
+        "ar": "يقع المكتب الرئيسي على اليسار."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "is on the left",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_march",
+    "en": "March",
+    "translation": "",
+    "ipa": "mɑrtʃ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "March  comes after  February. /ˈfeb·ruˌer·i, ˈfeb·juˌer·i/",
+        "ar": ": يأتي شهر مارس بعد شهر فبراير :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "comes after",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_married",
+    "en": "married",
+    "translation": "",
+    "ipa": "ˈmær·id",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I’m married with two children.",
+        "ar": ": أنا متزوج ولدي طفلان :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_match",
+    "en": "match",
+    "translation": "",
+    "ipa": "mætʃ",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "The match starts at 5 PM.",
+        "ar": "تبدأ المباراة في الساعة 5 مساء."
+      },
+      {
+        "en": "Match the words and pictures.",
+        "ar": ": طابق الكلمات والصور :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_may",
+    "en": "May",
+    "translation": "",
+    "ipa": "meɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The weather is perfect in May.",
+        "ar": ": الطقس مثالي في شهر مايو :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_maybe",
+    "en": "Maybe",
+    "translation": "",
+    "ipa": "ˈmeɪ·bi",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Maybe  it will rain today ",
+        "ar": "ربما ستمطر اليوم."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "it will rain today",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_meal",
+    "en": "meal",
+    "translation": "",
+    "ipa": "mil",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " We had a quick  meal.",
+        "ar": ": تناولنا وجبة سريعة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "We had a quick",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_meat",
+    "en": "meat",
+    "translation": "",
+    "ipa": "mit",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I prefer chicken over  meat.",
+        "ar": ": أنا أفضل الدجاج على اللحم :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "I prefer chicken over",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_menu",
+    "en": "menu",
+    "translation": "",
+    "ipa": "ˈmen·ju",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Could I see the menu, please ?",
+        "ar": "هل يمكنني رؤية قائمة الطعام من فضلك ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_midnight",
+    "en": "midnight",
+    "translation": "",
+    "ipa": "ˈmɪdˌnɑɪt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " The train arrives at  midnight.",
+        "ar": "يصل القطار في منتصف الليل."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "The train arrives at",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_mile",
+    "en": "mile",
+    "translation": "",
+    "ipa": "maɪl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He walked half a mile home.",
+        "ar": "مشى نصف ميل إلى المنزل."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_million",
+    "en": "million",
+    "translation": "",
+    "ipa": "ˈmɪl·jən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I have a million things to do.",
+        "ar": "لدي مليون عمل لأقوم به."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_minute",
+    "en": "minute",
+    "translation": "",
+    "ipa": "ˈmɪn·ət",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Wait a minute, please.",
+        "ar": "انتظر لحظة من فضلك."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_model",
+    "en": "model",
+    "translation": "",
+    "ipa": "ˈmɑ·dəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He built a  car model.",
+        "ar": ": قام ببناء نموذج سيارة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "He built a",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_modern",
+    "en": "Modern",
+    "translation": "",
+    "ipa": "ˈmɑ·dərn",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Modern life is busy.",
+        "ar": "الحياة المعاصرة مزدحمة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_moment",
+    "en": "moment",
+    "translation": "",
+    "ipa": "ˈmoʊ·mənt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Wait a moment, please.",
+        "ar": "انتظر لحظة من فضلك."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_monday",
+    "en": "Monday",
+    "translation": "",
+    "ipa": "ˈmʌn·deɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I wake up early every Monday.",
+        "ar": ": أنا أستيقظ مبكرا كل يوم اثنين :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_most",
+    "en": "Most",
+    "translation": "",
+    "ipa": "moʊst",
+    "exampleCount": 3,
+    "examples": [
+      {
+        "en": "Most cats  love to sleep ",
+        "ar": "معظم القطط تحب النوم."
+      },
+      {
+        "en": "These shoes are the most expensive.",
+        "ar": "هذه الأحذية هي الأكثر تكلفة."
+      },
+      {
+        "en": "These shoes are the most expensive.",
+        "ar": "هذه الأحذية هي الأكثر تكلفة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "love to sleep",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_mountain",
+    "en": "mountain",
+    "translation": "",
+    "ipa": "ˈmɑʊn·t̬ən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " They live near the  mountain.",
+        "ar": ": إنهم يعيشون بالقرب من الجبل :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "They live near the",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_mouth",
+    "en": "mouth",
+    "translation": "",
+    "ipa": "mɑʊθ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He has a large mouth.",
+        "ar": ": لديه فم كبير :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_move",
+    "en": "move",
+    "translation": "",
+    "ipa": "muv",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Don’t move, I’ll be back soon.",
+        "ar": ": لا تتحرك، سأعود قريبا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_much",
+    "en": "much",
+    "translation": "",
+    "ipa": "mʌtʃ",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": " I don’t have  much time.",
+        "ar": "ليس لدي الكثير من الوقت."
+      },
+      {
+        "en": "I don’t like it much.",
+        "ar": ": لا يعجبني كثيرا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "I don’t have",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_museum",
+    "en": "museum",
+    "translation": "",
+    "ipa": "mjʊˈzi·əm",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We visited the history museum.",
+        "ar": "قمنا بزيارة متحف التاريخ."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_must",
+    "en": "must",
+    "translation": "",
+    "ipa": "mʌst",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She must  study for the test ",
+        "ar": "يجب أن تذاكر للاختبار."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_m",
+    "meta": {
+      "originalMatch": "study for the test",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_natural",
+    "en": "natural",
+    "translation": "",
+    "ipa": "ˈnætʃ.ɚ.əl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I love going to natural places.",
+        "ar": ": أحب الذهاب إلى الأماكن الطبيعية :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_negative",
+    "en": "negative",
+    "translation": "",
+    "ipa": "ˈneɡ.ə.t̬ɪv",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I read all the  negative comments. /ˈkɑː.ment/",
+        "ar": ": قرأت جميع التعليقات السلبية :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "I read all the",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_neighbor",
+    "en": "neighbor",
+    "translation": "",
+    "ipa": "ˈneɪ.bɚ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "My neighbor has a dog.",
+        "ar": "جاري لديه كلب."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_never",
+    "en": "never",
+    "translation": "",
+    "ipa": "ˈnev·ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She never listens to me.",
+        "ar": ": إنها لا تستمع إلي أبدا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_newspaper",
+    "en": "newspaper",
+    "translation": "",
+    "ipa": "ˈnuzˌpeɪ·pər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The newspaper is on the table.",
+        "ar": ": الجريدة علي الطاولة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_nice",
+    "en": "nice",
+    "translation": "",
+    "ipa": "nɑɪs",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "She is a nice person.",
+        "ar": ": إنها إنسانة لطيفة :"
+      },
+      {
+        "en": "The weather is nice today.",
+        "ar": "الطقس جميل اليوم."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_north",
+    "en": "north",
+    "translation": "",
+    "ipa": "nɔrθ",
+    "exampleCount": 3,
+    "examples": [
+      {
+        "en": "They live in the north.",
+        "ar": ": يعيشون في الشمال :"
+      },
+      {
+        "en": " Meet me at  the north door.",
+        "ar": ": قابلني عند الباب الشمالي :"
+      },
+      {
+        "en": "The train is going north.",
+        "ar": "القطار يتجه شمالا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_nose",
+    "en": "nose",
+    "translation": "",
+    "ipa": "noʊz",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Your nose is very small.",
+        "ar": "أنفك صغير جدا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_note",
+    "en": "note",
+    "translation": "",
+    "ipa": "noʊt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Read the note on the table.",
+        "ar": "اقرأ الملاحظة على الطاولة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_november",
+    "en": "November",
+    "translation": "",
+    "ipa": "noʊˈvem·bər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The trees change in November.",
+        "ar": ": تتغير الأشجار في شهر نوفمبر :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_n",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_october",
+    "en": "October",
+    "translation": "",
+    "ipa": "ɑkˈtoʊ·bər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "October has 31 days.",
+        "ar": "يحتوي شهر أكتوبر على 31 يوما."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_often",
+    "en": "often",
+    "translation": "",
+    "ipa": "ˈɔ·fən",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "I often go for walks.",
+        "ar": ": أنا كثيرا ما أذهب للتنزه :"
+      },
+      {
+        "en": "How often do you exercise ?",
+        "ar": ": كم مرة تمارس الرياضة : ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_once",
+    "en": "once",
+    "translation": "",
+    "ipa": "wʌns",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "He visited me once.",
+        "ar": ": زارني مرة واحدة :"
+      },
+      {
+        "en": "She once worked here.",
+        "ar": ": كانت تعمل هنا سابقا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_other",
+    "en": "other",
+    "translation": "",
+    "ipa": "ˈʌð·ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The other door is open.",
+        "ar": ": الباب الآخر مفتوح :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_outside",
+    "en": "outside",
+    "translation": "",
+    "ipa": "ˌɑʊtˈsɑɪd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Let’s sit outside and talk.",
+        "ar": ": لنجلس في الخارج ونتحدث :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_own",
+    "en": "own",
+    "translation": "",
+    "ipa": "oʊn",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "They built their own house.",
+        "ar": ": لقد بنوا منزلهم الخاص : خاص بـ :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_o",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_paint",
+    "en": "paint",
+    "translation": "",
+    "ipa": "peɪnt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I bought blue  paint today.",
+        "ar": ": اشتريت طلاء أزرق اليوم :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "I bought blue",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_pair",
+    "en": "pair",
+    "translation": "",
+    "ipa": "peər",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "I bought a pair of shoes.",
+        "ar": ": اشتريت زوجا من الأحذية :"
+      },
+      {
+        "en": "I want a new pair of jeans.",
+        "ar": "أريد بنطال جينز جديد."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_pepr",
+    "en": "pepr",
+    "translation": "",
+    "ipa": "pis",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I need a piece of  paper. /ˈpeɪ·pər/",
+        "ar": "أحتاج إلى قطعة من الورق."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "I need a piece of",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_paragraph",
+    "en": "paragraph",
+    "translation": "",
+    "ipa": "ˈpær·əˌɡræf",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This paragraph  is very important ",
+        "ar": ": هذه الفقرة مهمة جدا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "is very important",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_partner",
+    "en": "partner",
+    "translation": "",
+    "ipa": "ˈpɑrt·nər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I need a partner in this game.",
+        "ar": ": أحتاج إلى شريك في هذه اللعبة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_period",
+    "en": "period",
+    "translation": "",
+    "ipa": "ˈpɪər·i·əd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We waited for a short period.",
+        "ar": ": انتظرنا لفترة قصيرة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_person",
+    "en": "person",
+    "translation": "",
+    "ipa": "ˈpɜr·sən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He is a tall person.",
+        "ar": "إنه شخص طويل القامة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_personal",
+    "en": "personal",
+    "translation": "",
+    "ipa": "ˈpɜr·sə·nəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "That is my personal opinion.",
+        "ar": ": هذا رأيي الشخصي :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_photograph",
+    "en": "photograph",
+    "translation": "",
+    "ipa": "ˈfoʊ·t̬əˌɡræf",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I took a great  photograph today.",
+        "ar": ": التقطت صورة رائعة اليوم :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "I took a great",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_piece",
+    "en": "piece",
+    "translation": "",
+    "ipa": "pis",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Give me a  piece of bread. /bred/",
+        "ar": "أعطني قطعة من الخبز."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "Give me a",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_pig",
+    "en": "pig",
+    "translation": "",
+    "ipa": "pɪɡ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This pig  is very dirty ",
+        "ar": "هذا الخنزير قذر جدا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "is very dirty",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_point",
+    "en": "point",
+    "translation": "",
+    "ipa": "pɔɪnt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " That’s a good  point.",
+        "ar": ": هذه وجهة نظر جيدة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "That’s a good",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_policeman",
+    "en": "policeman",
+    "translation": "",
+    "ipa": "pəˈlis·mən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I saw a policeman at school.",
+        "ar": ": رأيت شرطيا في المدرسة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_popular",
+    "en": "popular",
+    "translation": "",
+    "ipa": "ˈpɑ·pjə·lər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This song is very popular.",
+        "ar": ": هذه الأغنية تحظى بشعبية كبيرة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_possible",
+    "en": "possible",
+    "translation": "",
+    "ipa": "ˈpɑ·sə·bəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Is it possible to finish today ?",
+        "ar": ": هل من الممكن أن ننتهي اليوم : ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_practice",
+    "en": "practice",
+    "translation": "",
+    "ipa": "ˈpræk·tɪs",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "I have practice after school.",
+        "ar": ": لدي تمرين بعد المدرسة :"
+      },
+      {
+        "en": "Practice writing in English.",
+        "ar": "تدرب على الكتابة باللغة الإنجليزية."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_prefer",
+    "en": "prefer",
+    "translation": "",
+    "ipa": "prɪˈfɜr",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "I prefer tea over coffee.",
+        "ar": ": أفضل الشاي على القهوة :"
+      },
+      {
+        "en": "I prefer tea to coffee.",
+        "ar": ": أفضل الشاي على القهوة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_preparing",
+    "en": "preparing",
+    "translation": "",
+    "ipa": "prɪˈpeər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I am preparing my bag.",
+        "ar": "أنا أعد حقيبتي."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_present",
+    "en": "present",
+    "translation": "",
+    "ipa": "ˈprez·ənt",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "My wife gave me a present.",
+        "ar": ": أعطتني زوجتي هدية :"
+      },
+      {
+        "en": "The present weather is warm.",
+        "ar": "الطقس الحالي دافئ."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_pretty",
+    "en": "pretty",
+    "translation": "",
+    "ipa": "ˈprɪt̬·i",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "You are pretty today.",
+        "ar": ": أنت جميلة اليوم :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_price",
+    "en": "price",
+    "translation": "",
+    "ipa": "prɑɪs",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The price is too high.",
+        "ar": ": السعر مرتفع للغاية :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_probably",
+    "en": "probably",
+    "translation": "",
+    "ipa": "ˈprɑ·bə·bli",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She is probably at home.",
+        "ar": ": إنها على الأرجح في المنزل : من المحتمل أن :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_problem",
+    "en": "problem",
+    "translation": "",
+    "ipa": "ˈprɑ·bləm",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I have a small problem.",
+        "ar": "لدي مشكلة صغيرة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_product",
+    "en": "product",
+    "translation": "",
+    "ipa": "ˈprɑ·dəkt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This product  is very useful ",
+        "ar": ": هذا المنتج مفيد للغاية :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "is very useful",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_purple",
+    "en": "purple",
+    "translation": "",
+    "ipa": "ˈpɜr·pəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The purple flower is pretty.",
+        "ar": "الزهرة الأرجوانية جميلة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_p",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_quarter",
+    "en": "quarter",
+    "translation": "",
+    "ipa": "ˈkwɔr·t̬ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "It’s a quarter past two.",
+        "ar": ": إنها الثانية والربع :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_q",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_question",
+    "en": "question",
+    "translation": "",
+    "ipa": "ˈkwes·tʃən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Please answer my question.",
+        "ar": "الرجاء الإجابة على سؤالي."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_q",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_quick",
+    "en": "quick",
+    "translation": "",
+    "ipa": "kwɪk",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I took a quick shower.",
+        "ar": ": أخذت دشا سريعا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_q",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_quickly",
+    "en": "quickly",
+    "translation": "",
+    "ipa": "ˈkwɪk·li",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "They left school quickly.",
+        "ar": ": لقد غادروا المدرسة بسرعة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_q",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_radio",
+    "en": "radio",
+    "translation": "",
+    "ipa": "ˈreɪ·diˌoʊ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I like listening  to the radio.",
+        "ar": "أحب الاستماع إلى الراديو."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "I like listening",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_rain",
+    "en": "rain",
+    "translation": "",
+    "ipa": "reɪn",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I hear the rain outside.",
+        "ar": "أسمع صوت المطر في الخارج."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_reader",
+    "en": "reader",
+    "translation": "",
+    "ipa": "ˈri·dər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I am a fast reader.",
+        "ar": ": أنا قارئ سريع :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_ready",
+    "en": "ready",
+    "translation": "",
+    "ipa": "ˈred·i",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I’m ready for the test.",
+        "ar": "أنا مستعد للاختبار."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_real",
+    "en": "real",
+    "translation": "",
+    "ipa": "ril, ˈri·əl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He is a real friend.",
+        "ar": "إنه صديق حقيقي."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_really",
+    "en": "really",
+    "translation": "",
+    "ipa": "ˈri·ə·li",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This book is really good.",
+        "ar": "هذا الكتاب جيد حقا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_reason",
+    "en": "reason",
+    "translation": "",
+    "ipa": "ˈri·zən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Give me a good  reason.",
+        "ar": "أعطني سببا وجيها."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "Give me a good",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_red",
+    "en": "red",
+    "translation": "",
+    "ipa": "red",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She bought a red bag.",
+        "ar": "اشترت حقيبة حمراء."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_relax",
+    "en": "Relax",
+    "translation": "",
+    "ipa": "rɪˈlæks",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Relax  and enjoy the moment ",
+        "ar": ": استرخ واستمتع باللحظة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "and enjoy the moment",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_restaurant",
+    "en": "restaurant",
+    "translation": "",
+    "ipa": "ˈres·tər·ənt, ˈres·təˌrɑnt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We ate at a restaurant yesterday.",
+        "ar": "أكلنا في مطعم بالأمس."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_result",
+    "en": "result",
+    "translation": "",
+    "ipa": "rɪˈzʌlt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The test result was good.",
+        "ar": ": كانت نتيجة الاختبار جيدة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_return",
+    "en": "return",
+    "translation": "",
+    "ipa": "rɪˈtɜrn",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "I will return soon.",
+        "ar": "سوف أعود قريبا."
+      },
+      {
+        "en": "His return to work was difficult.",
+        "ar": "كانت عودتة إلى العمل صعبة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_rice",
+    "en": "rice",
+    "translation": "",
+    "ipa": "rɑɪs",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The rice is ready.",
+        "ar": ": الأرز جاهز :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_ride",
+    "en": "ride",
+    "translation": "",
+    "ipa": "rɑɪd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He can’t ride a bicycle.",
+        "ar": "لا يمكنه أن يركب دراجة هوائية."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_right",
+    "en": "right",
+    "translation": "",
+    "ipa": "rɑɪt",
+    "exampleCount": 3,
+    "examples": [
+      {
+        "en": " Park your car on  the right.",
+        "ar": ": أوقف سيارتك على اليمين :"
+      },
+      {
+        "en": "This is the right way.",
+        "ar": ": هذه هي الطريقة الصحيحة :"
+      },
+      {
+        "en": "Yes, you’re right.",
+        "ar": ": نعم، أنت محق :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "Park your car on",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_routine",
+    "en": "routine",
+    "translation": "",
+    "ipa": "ruˈtin",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "My routine starts at 6 AM.",
+        "ar": "يبدأ روتيني في الساعة 6 صباحا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_rule",
+    "en": "rule",
+    "translation": "",
+    "ipa": "rul",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " We learned a new  rule today.",
+        "ar": ": لقد تعلمنا قاعدة جديدة اليوم :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_r",
+    "meta": {
+      "originalMatch": "We learned a new",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_salad",
+    "en": "salad",
+    "translation": "",
+    "ipa": "ˈsæl·əd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We eat salad every day.",
+        "ar": ": نحن نأكل السلطة كل يوم :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_salt",
+    "en": "salt",
+    "translation": "",
+    "ipa": "sɔlt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The meat needs more salt.",
+        "ar": ": اللحم يحتاج إلى المزيد من الملح :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_same",
+    "en": "same",
+    "translation": "",
+    "ipa": "seɪm",
+    "exampleCount": 4,
+    "examples": [
+      {
+        "en": "We met at the same place.",
+        "ar": "التقينا في نفس المكان."
+      },
+      {
+        "en": "They chose the same.",
+        "ar": ": اختاروا نفس الشيء :"
+      },
+      {
+        "en": "I feel the same as you.",
+        "ar": ": أشعر بنفس شعورك :"
+      },
+      {
+        "en": "You and I think the same.",
+        "ar": ": أنا وأنت نفكر بنفس الطريقة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_sandwich",
+    "en": "sandwich",
+    "translation": "",
+    "ipa": "ˈsænd·wɪtʃ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She made me a sandwich.",
+        "ar": "لقد أعدت لي شطيرة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_saturdays",
+    "en": "Saturdays",
+    "translation": "",
+    "ipa": "ˈsæt̬·ər·deɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I don’t like Saturdays.",
+        "ar": ": لا أحب أيام السبت :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_say",
+    "en": "say",
+    "translation": "",
+    "ipa": "seɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Please say something. /ˈsʌm·θɪŋ/",
+        "ar": ": أرجوك قل شيئا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_science",
+    "en": "Science",
+    "translation": "",
+    "ipa": "ˈsɑɪ·əns",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Science makes life easier.",
+        "ar": ": العلم يجعل الحياة أسهل :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_scientist",
+    "en": "scientist",
+    "translation": "",
+    "ipa": "ˈsɑɪ·ən·t̬ɪst",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I want to become a  scientist.",
+        "ar": "أريد أن أصبح عالما."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "I want to become a",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_seconds",
+    "en": "seconds",
+    "translation": "",
+    "ipa": "ˈsek·ənd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Wait a few  seconds, please.",
+        "ar": ": انتظر بضع ثوان من فضلك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "Wait a few",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_section",
+    "en": "section",
+    "translation": "",
+    "ipa": "ˈsek·ʃən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Read the last  section again.",
+        "ar": ": اقرأ الجزء الأخير مرة أخرى :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "Read the last",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_sell",
+    "en": "sell",
+    "translation": "",
+    "ipa": "sel",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We sell fruit and vegetables.",
+        "ar": "نحن نبيع الفاكهة والخضروات."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_sentence",
+    "en": "sentence",
+    "translation": "",
+    "ipa": "ˈsen·t̬əns",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Give me a short sentence.",
+        "ar": "أعطني جملة قصيرة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_september",
+    "en": "September",
+    "translation": "",
+    "ipa": "sepˈtem·bər",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "School starts in September.",
+        "ar": "تبدأ الدراسة في سبتمبر."
+      },
+      {
+        "en": "September is the ninth month. /nɑɪnθ/ /mʌnθ/",
+        "ar": ": سبتمبر هو الشهر التاسع :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_share",
+    "en": "share",
+    "translation": "",
+    "ipa": "ʃeər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Let’s share the cake.",
+        "ar": ": دعنا نتشارك الكعكة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_sheep",
+    "en": "Sheep",
+    "translation": "",
+    "ipa": "ʃip",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Sheep  like to stay together ",
+        "ar": "تحب الأغنام البقاء مع بعض."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "like to stay together",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_short",
+    "en": "short",
+    "translation": "",
+    "ipa": "ʃɔrt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The break was too short.",
+        "ar": "كانت الاستراحة قصيرة جدا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_should",
+    "en": "should",
+    "translation": "",
+    "ipa": "ʃʊd",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "We should  go home now ",
+        "ar": "يجب أن نعود إلى المنزل الآن."
+      },
+      {
+        "en": "Should I call you later ?",
+        "ar": "هل علي أن أتصل بك فيما بعد ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "go home now",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_shower",
+    "en": "shower",
+    "translation": "",
+    "ipa": "ˈʃɑʊ·ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I need a quick  shower.",
+        "ar": "أحتاج إلى دش سريع."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "I need a quick",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_similar",
+    "en": "similar",
+    "translation": "",
+    "ipa": "ˈsɪm·ə·lər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "These houses look similar.",
+        "ar": ": تبدو هذه المنازل متشابهة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_singer",
+    "en": "singer",
+    "translation": "",
+    "ipa": "ˈsɪŋ·ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " He became a famous  singer.",
+        "ar": ": أصبح مغنيا مشهورا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "He became a famous",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_situation",
+    "en": "situation",
+    "translation": "",
+    "ipa": "ˌsɪtʃ·uˈeɪ·ʃən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I understand your situation.",
+        "ar": ": أنا أتفهم وضعك : موقف / وضع / حالة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_skill",
+    "en": "skill",
+    "translation": "",
+    "ipa": "skɪl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I learned a new  skill.",
+        "ar": ": لقد تعلمت مهارة جديدة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "I learned a new",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_slow",
+    "en": "slow",
+    "translation": "",
+    "ipa": "sloʊ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "My computer is slow.",
+        "ar": "الكمبيوتر الخاص بي بطيء."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_small",
+    "en": "small",
+    "translation": "",
+    "ipa": "smɔl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I grew up  in a small village. /ˈvɪl·ɪdʒ/",
+        "ar": ": لقد نشأت في قرية صغيرة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "I grew up",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_some",
+    "en": "some",
+    "translation": "",
+    "ipa": "sʌm",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "We need some sugar. /ˈʃʊɡ·ər/",
+        "ar": "نحتاج إلى بعض السكر."
+      },
+      {
+        "en": "I need some.",
+        "ar": ": أحتاج بعضا منة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_somebody",
+    "en": "Somebody",
+    "translation": "",
+    "ipa": "ˈsʌmˌbɑ·di, ˈsʌm·bʌd·i",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Somebody is at the door.",
+        "ar": ": شخص ما على الباب :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_someone",
+    "en": "someone",
+    "translation": "",
+    "ipa": "ˈsʌm·wʌn",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Can someone help me ?",
+        "ar": ": هل يمكن لأحدكم مساعدتي : ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_something",
+    "en": "something",
+    "translation": "",
+    "ipa": "ˈsʌm·θɪŋ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I need something to eat.",
+        "ar": "أحتاج إلى شيء لآكله."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_sometimes",
+    "en": "sometimes",
+    "translation": "",
+    "ipa": "ˈsʌmˌtɑɪmz",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "I sometimes read at night.",
+        "ar": ": أقرأ أحيانا في الليل :"
+      },
+      {
+        "en": "We sometimes visit our cousins on Saturday.",
+        "ar": "أحيانا نزور أبناء عمومتنا في يوم السبت."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_sound",
+    "en": "sound",
+    "translation": "",
+    "ipa": "sɑʊnd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This sound is relaxing.",
+        "ar": ": هذا الصوت يبعث على الاسترخاء :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_south",
+    "en": "south",
+    "translation": "",
+    "ipa": "sɑʊθ",
+    "exampleCount": 3,
+    "examples": [
+      {
+        "en": " We traveled to  the south.",
+        "ar": ": سافرنا إلى الجنوب :"
+      },
+      {
+        "en": "We took the south road.",
+        "ar": ": سلكنا الطريق الجنوبي :"
+      },
+      {
+        "en": " They traveled  south.",
+        "ar": ": سافروا إلى الجنوب :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "We traveled to",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_space",
+    "en": "Space",
+    "translation": "",
+    "ipa": "speɪs",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "Space has many stars.",
+        "ar": "الفضاء به العديد من النجوم."
+      },
+      {
+        "en": "This space is for your bags.",
+        "ar": ": هذا المكان مخصص لحقائبك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_special",
+    "en": "special",
+    "translation": "",
+    "ipa": "ˈspeʃ·əl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Today is a  special day.",
+        "ar": ": اليوم هو يوم مميز :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "Today is a",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_station",
+    "en": "station",
+    "translation": "",
+    "ipa": "ˈsteɪ·ʃən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " We arrived at  the station.",
+        "ar": "وصلنا إلى المحطة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "We arrived at",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_style",
+    "en": "style",
+    "translation": "",
+    "ipa": "stɑɪl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I like your writing style.",
+        "ar": ": يعجبني أسلوبك في الكتابة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_summer",
+    "en": "Summer",
+    "translation": "",
+    "ipa": "ˈsʌm·ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Summer days are long.",
+        "ar": ": أيام الصيف طويلة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_sweater",
+    "en": "sweater",
+    "translation": "",
+    "ipa": "ˈswet̬·ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "This sweater  keeps me warm ",
+        "ar": "هذه السترة تبقيني دافئا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "keeps me warm",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_swam",
+    "en": "swam",
+    "translation": "",
+    "ipa": "swæm",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "We swam in the sea.",
+        "ar": "سبحنا في البحر."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_s",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_table",
+    "en": "table",
+    "translation": "",
+    "ipa": "ˈteɪ·bəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She cleaned the table.",
+        "ar": "قامت بتنظيف الطاولة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_talk",
+    "en": "talk",
+    "translation": "",
+    "ipa": "tɔk",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I like to talk to you.",
+        "ar": ": أحب أن أتحدث معك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_teaches",
+    "en": "teaches",
+    "translation": "",
+    "ipa": "titʃ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She teaches us history. /ˈhɪs·tər·i/",
+        "ar": ": إنها تدرسنا التاريخ :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_teenager",
+    "en": "teenager",
+    "translation": "",
+    "ipa": "ˈtiˌneɪ·dʒər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "My son is a teenager now.",
+        "ar": ": ابني مراهق الآن :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_television",
+    "en": "television",
+    "translation": "",
+    "ipa": "ˈtel·əˌvɪʒ·ən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The television  is on ",
+        "ar": ": التلفاز شغال :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "is on",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_terrible",
+    "en": "terrible",
+    "translation": "",
+    "ipa": "ˈter·ə·bəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The weather is terrible today.",
+        "ar": ": الطقس سيء اليوم : مريع / رهيب :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_text",
+    "en": "text",
+    "translation": "",
+    "ipa": "tekst",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The text is full of mistakes.",
+        "ar": ": النص مليء بالأخطاء :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_theatre",
+    "en": "theatre",
+    "translation": "",
+    "ipa": "ˈθiː.ə.t̬ɚ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The theatre  was full of people ",
+        "ar": ": كان المسرح ممتلئا بالناس :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "was full of people",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_thirsty",
+    "en": "thirsty",
+    "translation": "",
+    "ipa": "ˈθɜr·sti",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " Are you feeling  thirsty ?",
+        "ar": "هل تشعر بالعطش ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "Are you feeling",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_thousand",
+    "en": "thousand",
+    "translation": "",
+    "ipa": "ˈθɑʊ·zənd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She won a thousand dollars.",
+        "ar": "فازت بألف دولار."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_thursday",
+    "en": "Thursday",
+    "translation": "",
+    "ipa": "ˈθɜrz·deɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Thursday is my favorite day.",
+        "ar": "الخميس هو يومي المفضل."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_ticket",
+    "en": "ticket",
+    "translation": "",
+    "ipa": "ˈtɪk·ɪt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Did you buy the bus ticket ?",
+        "ar": "هل اشتريت تذكرة الحافلة ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_tired",
+    "en": "tired",
+    "translation": "",
+    "ipa": "tɑɪərd",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I feel very tired.",
+        "ar": "أشعر بالتعب الشديد."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_title",
+    "en": "title",
+    "translation": "",
+    "ipa": "ˈtɑɪ·t̬əl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "What’s the title of this book ?",
+        "ar": ": ما هو اسم هذا الكتاب : ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_together",
+    "en": "together",
+    "translation": "",
+    "ipa": "təˈɡeð·ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Let’s study together  for the test ",
+        "ar": "دعنا ندرس سويا للاختبار."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "for the test",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_toilet",
+    "en": "toilet",
+    "translation": "",
+    "ipa": "ˈtɔɪ·lɪt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The toilet is very clean.",
+        "ar": "المرحاض نظيف للغاية."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_tooth",
+    "en": "tooth",
+    "translation": "",
+    "ipa": "tuθ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "My son lost a baby tooth.",
+        "ar": ": ابني فقد سنا من أسنانه اللبنية :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_topic",
+    "en": "topic",
+    "translation": "",
+    "ipa": "ˈtɑ·pɪk",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Let’s change the topic.",
+        "ar": ": دعنا نغير الموضوع :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_turned",
+    "en": "turned",
+    "translation": "",
+    "ipa": "ˈtræf·ɪk",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "The traffic light turned red.",
+        "ar": ": تحولت إشارة المرور إلى اللون الأحمر :"
+      },
+      {
+        "en": "He turned and walked away.",
+        "ar": ": لقد استدار ومشى بعيدا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_trousers",
+    "en": "trousers",
+    "translation": "",
+    "ipa": "ˈtrɑʊ·zərz",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Your trousers  look really nice ",
+        "ar": "بنطالك يبدو أنيقا جدا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "look really nice",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_true",
+    "en": "true",
+    "translation": "",
+    "ipa": "tru",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "She gave a true answer.",
+        "ar": "لقد أعطت إجابة صحيحة."
+      },
+      {
+        "en": "This is a true story.",
+        "ar": "هذه قصة حقيقية."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_try",
+    "en": "Try",
+    "translation": "",
+    "ipa": "trɑɪ",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "Try again later.",
+        "ar": ": حاول مرة أخرى لاحقا :"
+      },
+      {
+        "en": "Try this pen ; it writes well.",
+        "ar": ": جرب هذا القلم؛ إنه يكتب بشكل جيد :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_tuesday",
+    "en": "Tuesday",
+    "translation": "",
+    "ipa": "ˈtuz·deɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Tuesday is  a busy day for me ",
+        "ar": ": الثلاثاء هو يوم مزدحم بالنسبة لي :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "a busy day for me",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_twelve",
+    "en": "twelve",
+    "translation": "",
+    "ipa": "twelv",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She bought twelve oranges.",
+        "ar": "لقد اشترت اثنتي عشرة برتقالة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_twice",
+    "en": "twice",
+    "translation": "",
+    "ipa": "twɑɪs",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": " I visited them  twice.",
+        "ar": ": قمت بزيارتهم مرتين :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "I visited them",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_types",
+    "en": "types",
+    "translation": "",
+    "ipa": "tɑɪp",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I like these types of games.",
+        "ar": "أحب هذه الأنواع من الألعاب."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_t",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_vacation",
+    "en": "vacation",
+    "translation": "",
+    "ipa": "veɪˈkeɪ·ʃən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I need a vacation soon.",
+        "ar": "أحتاج إلى إجازة عما قريب."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_v",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_vegetables",
+    "en": "vegetables",
+    "translation": "",
+    "ipa": "ˈvedʒ·tə·bəl, ˈvedʒ·ə·tə·bəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I grow vegetables at home.",
+        "ar": "أزرع الخضروات في المنزل."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_v",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_village",
+    "en": "village",
+    "translation": "",
+    "ipa": "ˈvɪl·ɪdʒ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The village is very small.",
+        "ar": "القرية صغيرة جدا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_v",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_visitor",
+    "en": "visitor",
+    "translation": "",
+    "ipa": "ˈvɪz·ɪ·t̬ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The visitor  is waiting outside ",
+        "ar": ": الزائر ينتظر في الخارج :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_v",
+    "meta": {
+      "originalMatch": "is waiting outside",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_wait",
+    "en": "wait",
+    "translation": "",
+    "ipa": "weɪt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Please wait for me.",
+        "ar": ": انتظرني من فضلك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_waiter",
+    "en": "Waiter",
+    "translation": "",
+    "ipa": "ˈweɪ.t̬ɚ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Waiter,  please bring the menu  /brɪŋ/ /ˈmen.juː/",
+        "ar": ": أيها النادل، أحضر قائمة الطعام من فضلك :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "please bring the menu",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_wall",
+    "en": "wall",
+    "translation": "",
+    "ipa": "wɑːl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The wall is white. /waɪt/",
+        "ar": "الحائط أبيض."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_watch",
+    "en": "watch",
+    "translation": "",
+    "ipa": "wɑːtʃ",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "Is this your watch ?",
+        "ar": ": هل هذه ساعتك : ؟"
+      },
+      {
+        "en": "I don’t watch TV these days.",
+        "ar": "أنا لا أشاهد التلفاز هذه الأيام."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_wear",
+    "en": "wear",
+    "translation": "",
+    "ipa": "wer",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I like to wear this shirt.",
+        "ar": "أحب أن ألبس هذا القميص."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_website",
+    "en": "website",
+    "translation": "",
+    "ipa": "ˈweb.saɪt",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I created a new website.",
+        "ar": "لقد أنشأت موقعا إلكترونيا جديدا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_wednesday",
+    "en": "Wednesday",
+    "translation": "",
+    "ipa": "ˈwenz.deɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Let’s meet on Wednesday.",
+        "ar": "دعنا نلتقي يوم الأربعاء."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_welcome",
+    "en": "Welcome",
+    "translation": "",
+    "ipa": "ˈwel.kəm",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "Welcome to the team !!",
+        "ar": ": مرحبا بك في الفريق : !!"
+      },
+      {
+        "en": "You’re always welcome here.",
+        "ar": "أنت مرحب بك دائما هنا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_west",
+    "en": "west",
+    "translation": "",
+    "ipa": "west",
+    "exampleCount": 3,
+    "examples": [
+      {
+        "en": " He came from  the west.",
+        "ar": "جاء من الغرب."
+      },
+      {
+        "en": "The west door is open.",
+        "ar": ": الباب الغربي مفتوح :"
+      },
+      {
+        "en": "They traveled west.",
+        "ar": "لقد سافروا غربا."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "He came from",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_window",
+    "en": "window",
+    "translation": "",
+    "ipa": "ˈwɪn·doʊ",
+    "exampleCount": 2,
+    "examples": [
+      {
+        "en": "Close the window, please.",
+        "ar": "أغلق النافذة من فضلك."
+      },
+      {
+        "en": "Look at that jacket in the window.",
+        "ar": "انظر إلى تلك السترة في الواجهة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_wine",
+    "en": "wine",
+    "translation": "",
+    "ipa": "wɑɪn",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He doesn’t drink wine.",
+        "ar": ": إنه لا يشرب الخمر : نبيذ :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_winter",
+    "en": "Winter",
+    "translation": "",
+    "ipa": "ˈwɪn·tər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Winter came early this year.",
+        "ar": "جاء الشتاء مبكرا هذا العام."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_woman",
+    "en": "woman",
+    "translation": "",
+    "ipa": "ˈwʊm·ən",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Do you see that woman ?",
+        "ar": "هل ترى تلك المرأة ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_wonderful",
+    "en": "wonderful",
+    "translation": "",
+    "ipa": "ˈwʌn·dər·fəl",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "It was a wonderful day.",
+        "ar": ": لقد كان يوما رائعا :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_workers",
+    "en": "workers",
+    "translation": "",
+    "ipa": "ˈwɜr·kər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The workers are tired.",
+        "ar": "العمال متعبون."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_world",
+    "en": "world",
+    "translation": "",
+    "ipa": "wɜrld",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "Welcome to my world.",
+        "ar": ": مرحبا بك في عالمي :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_would",
+    "en": "Would",
+    "translation": "",
+    "ipa": "wʊd",
+    "exampleCount": 3,
+    "examples": [
+      {
+        "en": "Would she come too ?",
+        "ar": "هل ستأتي ( هي ) أيضا ؟"
+      },
+      {
+        "en": "I would like some water.",
+        "ar": "أريد بعض الماء."
+      },
+      {
+        "en": "Would you like some coffee ?",
+        "ar": "هل ترغب في بعض القهوة ؟"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_writer",
+    "en": "writer",
+    "translation": "",
+    "ipa": "ˈrɑɪ·t̬ər",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "She is a great writer.",
+        "ar": "إنها كاتبة رائعة."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_wrong",
+    "en": "wrong",
+    "translation": "",
+    "ipa": "rɔŋ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "That’s the wrong answer.",
+        "ar": ": تلك إجابة خاطئة :"
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_w",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_yellow",
+    "en": "yellow",
+    "translation": "",
+    "ipa": "ˈjel·oʊ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "He wore a yellow shirt.",
+        "ar": "كان يرتدي قميصا أصفر."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_y",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_yesterday",
+    "en": "yesterday",
+    "translation": "",
+    "ipa": "ˈjes·tərˌdeɪ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "I stayed home yesterday.",
+        "ar": "مكثت في المنزل بالأمس."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_y",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  },
+  {
+    "id": "w_a1_young",
+    "en": "young",
+    "translation": "",
+    "ipa": "jʌŋ",
+    "exampleCount": 1,
+    "examples": [
+      {
+        "en": "The young boy is running.",
+        "ar": "الصبي الصغير يركض."
+      }
+    ],
+    "type": "word",
+    "confidence": "high",
+    "decision": "auto-accept",
+    "reasoning": "Strong phonetic match found.",
+    "levelId": "lvl_a1",
+    "lessonId": "lsn_a1_y",
+    "meta": {
+      "originalMatch": "",
+      "ipaCorrected": true
+    }
+  }
+]
