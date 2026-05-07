@@ -1,36 +1,32 @@
 import { MetadataRoute } from 'next';
-import levelsData from '@/data/levels.json';
-import lessonsData from '@/data/lessons.json';
+import { getLevels } from '@/lib/content/loader';
 
-const BASE_URL = 'https://english-platform.vercel.app'; // Update this when deploying
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const baseUrl = 'https://english-pifq.vercel.app'; // Replace with your domain if different
 
-export default function sitemap(): MetadataRoute.Sitemap {
+  // Base routes
   const routes = [
     '',
     '/levels',
+    '/login',
+    '/signup',
+    '/profile',
     '/quran-guide',
-    '/dashboard',
-    '/favorites'
   ].map((route) => ({
-    url: `${BASE_URL}${route}`,
-    lastModified: new Date().toISOString(),
+    url: `${baseUrl}${route}`,
+    lastModified: new Date(),
     changeFrequency: 'weekly' as const,
     priority: route === '' ? 1 : 0.8,
   }));
 
-  const levelRoutes = levelsData.map((level) => ({
-    url: `${BASE_URL}/levels/${level.id}`,
-    lastModified: new Date().toISOString(),
-    changeFrequency: 'weekly' as const,
+  // Dynamic Level routes
+  const levels = await getLevels();
+  const levelRoutes = levels.map((level) => ({
+    url: `${baseUrl}/levels/${level.slug || level.id}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
     priority: 0.7,
   }));
 
-  const lessonRoutes = lessonsData.map((lesson) => ({
-    url: `${BASE_URL}/lessons/${lesson.id}`,
-    lastModified: new Date().toISOString(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.6,
-  }));
-
-  return [...routes, ...levelRoutes, ...lessonRoutes];
+  return [...routes, ...levelRoutes];
 }

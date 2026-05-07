@@ -5,8 +5,8 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: '*',
       allow: '/',
-      disallow: ['/private/'],
+      disallow: ['/profile/', '/dashboard/', '/api/'],
     },
-    sitemap: 'https://english-platform.vercel.app/sitemap.xml',
+    sitemap: 'https://english-pifq.vercel.app/sitemap.xml',
   };
 }
