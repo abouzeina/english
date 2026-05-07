@@ -1,0 +1,215 @@
+{
+  "id": "lsn_a1_e_2",
+  "levelId": "lvl_1",
+  "title": "E Words - Part 2",
+  "slug": "e-words-2",
+  "order": 12,
+  "wordCount": 9,
+  "titleAr": "كلمات حرف E - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter E.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف E.",
+  "words": [
+    {
+      "id": "w_a1_everyone",
+      "lessonId": "lsn_a1_e_2",
+      "en": "everyone",
+      "translation": "الجميع",
+      "ar": "الجميع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Everyone understood the lesson.",
+          "ar": "الجميع فهم الدرس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_exam",
+      "lessonId": "lsn_a1_e_2",
+      "en": "exam",
+      "translation": "امتحان",
+      "ar": "امتحان",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I studied hard for the exam.",
+          "ar": "لقد درست بجد للامتحان."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_example",
+      "lessonId": "lsn_a1_e_2",
+      "en": "example",
+      "translation": "مثال",
+      "ar": "مثال",
+      "pronunciation": "/1g'zæm pəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This is a good example.",
+          "ar": "هذا مثال جيد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_excited",
+      "lessonId": "lsn_a1_e_2",
+      "en": "excited",
+      "translation": "متحمس",
+      "ar": "متحمس",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'm excited to meet my friends.",
+          "ar": "أنا متحمس لمقابلة أصدقائي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_exciting",
+      "lessonId": "lsn_a1_e_2",
+      "en": "exciting",
+      "translation": "مشوق",
+      "ar": "مشوق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This project sounds exciting.",
+          "ar": "يبدو هذا المشروع مشوقاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_exercise",
+      "lessonId": "lsn_a1_e_2",
+      "en": "exercise",
+      "translation": "تمارين رياضية / يمارس التمارين",
+      "ar": "تمارين رياضية / يمارس التمارين",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Exercise is good for your health.",
+          "ar": "التمارين الرياضية مفيدة لصحتك."
+        },
+        {
+          "en": "I like to exercise in the park.",
+          "ar": "أحب أن أمارس التمارين في الحديقة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_expensive",
+      "lessonId": "lsn_a1_e_2",
+      "en": "expensive",
+      "translation": "باهظة الثمن",
+      "ar": "باهظة الثمن",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That car is very expensive.",
+          "ar": "تلك السيارة باهظة الثمن للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_explain",
+      "lessonId": "lsn_a1_e_2",
+      "en": "explain",
+      "translation": "يوضح",
+      "ar": "يوضح",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please explain your answer.",
+          "ar": "من فضلك وضح إجابتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_extra",
+      "lessonId": "lsn_a1_e_2",
+      "en": "extra",
+      "translation": "إضافي",
+      "ar": "إضافي",
+      "pronunciation": "/'ek strə/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need extra time to complete the test.",
+          "ar": "أحتاج إلى وقت إضافي لإكمال الاختبار."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

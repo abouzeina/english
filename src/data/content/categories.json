@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cat_quran_1",
+    "slug": "classroom",
+    "title": "Classroom Phrases",
+    "titleAr": "جمل الشرح في الحصة",
+    "type": "quran"
+  },
+  {
+    "id": "cat_quran_2",
+    "slug": "tajweed",
+    "title": "Tajweed Terms",
+    "titleAr": "مصطلحات التجويد",
+    "type": "quran"
+  }
+]

@@ -1,0 +1,611 @@
+{
+  "id": "lsn_a1_w_1",
+  "levelId": "lvl_1",
+  "title": "W Words - Part 1",
+  "slug": "w-words-1",
+  "order": 45,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف W - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter W.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف W.",
+  "words": [
+    {
+      "id": "w_a1_visitor",
+      "lessonId": "lsn_a1_w_1",
+      "en": "visitor",
+      "translation": "زائر",
+      "ar": "زائر",
+      "pronunciation": "/'VIZ Itər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The visitor is waiting outside.",
+          "ar": "الزائر ينتظر في الخارج."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wait",
+      "lessonId": "lsn_a1_w_1",
+      "en": "wait",
+      "translation": "ينتظر",
+      "ar": "ينتظر",
+      "pronunciation": "/west/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please wait for me.",
+          "ar": "انتظرني من فضلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_waiter",
+      "lessonId": "lsn_a1_w_1",
+      "en": "waiter",
+      "translation": "نادل",
+      "ar": "نادل",
+      "pronunciation": "/'wer.to/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Waiter, please bring the menu.",
+          "ar": "أيها النادل أحضر قائمة الطعام من فضلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wake_up",
+      "lessonId": "lsn_a1_w_1",
+      "en": "wake up",
+      "translation": "يستيقظ",
+      "ar": "يستيقظ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I wake up early every day.",
+          "ar": "أنا أستيقظ مبكراً كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_walk",
+      "lessonId": "lsn_a1_w_1",
+      "en": "walk",
+      "translation": "يمشي / المشي",
+      "ar": "يمشي / المشي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My dad walks every morning.",
+          "ar": "والدي يمشي كل صباح."
+        },
+        {
+          "en": "I enjoy my morning walk.",
+          "ar": "أنا أستمتع بالمشي الصباحي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wall",
+      "lessonId": "lsn_a1_w_1",
+      "en": "wall",
+      "translation": "حائط",
+      "ar": "حائط",
+      "pronunciation": "/wa:l/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The wall is white.",
+          "ar": "الحائط أبيض."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_want",
+      "lessonId": "lsn_a1_w_1",
+      "en": "want",
+      "translation": "أريد",
+      "ar": "أريد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to learn English.",
+          "ar": "أريد أن أتعلم الإنجليزية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_warm",
+      "lessonId": "lsn_a1_w_1",
+      "en": "warm",
+      "translation": "دافئ",
+      "ar": "دافئ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The weather is warm today.",
+          "ar": "الطقس دافئ اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wash",
+      "lessonId": "lsn_a1_w_1",
+      "en": "wash",
+      "translation": "يغسل",
+      "ar": "يغسل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you wash your hands?",
+          "ar": "هل غسلت يديك؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_watch",
+      "lessonId": "lsn_a1_w_1",
+      "en": "watch",
+      "translation": "ساعة يد / يشاهد",
+      "ar": "ساعة يد / يشاهد",
+      "pronunciation": "/wa.tj/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Is this your watch?",
+          "ar": "هل هذه ساعتك؟"
+        },
+        {
+          "en": "I don't watch TV these days.",
+          "ar": "أنا لا أشاهد التلفاز هذه الأيام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_water",
+      "lessonId": "lsn_a1_w_1",
+      "en": "water",
+      "translation": "ماء",
+      "ar": "ماء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Try to drink more water.",
+          "ar": "حاول شرب المزيد من الماء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_way",
+      "lessonId": "lsn_a1_w_1",
+      "en": "way",
+      "translation": "طريقة / طريق",
+      "ar": "طريقة / طريق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Show me the easy way.",
+          "ar": "أرني الطريقة السهلة."
+        },
+        {
+          "en": "Which way should I go?",
+          "ar": "أي طريق يجب أن أسلك؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_we",
+      "lessonId": "lsn_a1_w_1",
+      "en": "we",
+      "translation": "نحن",
+      "ar": "نحن",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We went to the park.",
+          "ar": "ذهبنا إلى الحديقة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wear",
+      "lessonId": "lsn_a1_w_1",
+      "en": "wear",
+      "translation": "يلبس / يرتدي",
+      "ar": "يلبس / يرتدي",
+      "pronunciation": "/wer/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like to wear this shirt.",
+          "ar": "أحب أن ألبس هذا القميص."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_weather",
+      "lessonId": "lsn_a1_w_1",
+      "en": "weather",
+      "translation": "طقس",
+      "ar": "طقس",
+      "pronunciation": "/'weð.ə/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The weather is cold today.",
+          "ar": "الطقس بارد اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_website",
+      "lessonId": "lsn_a1_w_1",
+      "en": "website",
+      "translation": "موقع إلكتروني",
+      "ar": "موقع إلكتروني",
+      "pronunciation": "/'web.sart/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I created a new website.",
+          "ar": "لقد أنشأت موقعاً إلكترونياً جديداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wednesday",
+      "lessonId": "lsn_a1_w_1",
+      "en": "Wednesday",
+      "translation": "يوم الأربعاء",
+      "ar": "يوم الأربعاء",
+      "pronunciation": "/'wenz.der/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's meet on Wednesday.",
+          "ar": "دعنا نلتقي يوم الأربعاء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_week",
+      "lessonId": "lsn_a1_w_1",
+      "en": "week",
+      "translation": "أسبوع",
+      "ar": "أسبوع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I work six days a week.",
+          "ar": "أعمل ستة أيام في الأسبوع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_weekend",
+      "lessonId": "lsn_a1_w_1",
+      "en": "weekend",
+      "translation": "عطلة نهاية الأسبوع",
+      "ar": "عطلة نهاية الأسبوع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Are you free this weekend?",
+          "ar": "هل أنت متفرغ في عطلة نهاية هذا الأسبوع؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_welcome",
+      "lessonId": "lsn_a1_w_1",
+      "en": "welcome",
+      "translation": "مرحباً / ترحب",
+      "ar": "مرحباً / ترحب",
+      "pronunciation": "/'wel.kəm/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Welcome to the team.",
+          "ar": "مرحباً بك إلى الفريق."
+        },
+        {
+          "en": "You're always welcome here.",
+          "ar": "أنت مرحب بك دائماً هنا."
+        },
+        {
+          "en": "We welcome new ideas.",
+          "ar": "نحن نرحب بالأفكار الجديدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_well",
+      "lessonId": "lsn_a1_w_1",
+      "en": "well",
+      "translation": "بشكل جيد / حسناً",
+      "ar": "بشكل جيد / حسناً",
+      "pronunciation": "/wel/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You played well today.",
+          "ar": "لقد لعبت بشكل جيد اليوم."
+        },
+        {
+          "en": "Well, what do you know !!!",
+          "ar": "حسناً، ماذا تعرف !!!"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_west",
+      "lessonId": "lsn_a1_w_1",
+      "en": "west",
+      "translation": "غرب / غربي / غرباً",
+      "ar": "غرب / غربي / غرباً",
+      "pronunciation": "/west/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He came from the west.",
+          "ar": "جاء من الغرب."
+        },
+        {
+          "en": "The west door is open.",
+          "ar": "الباب الغربي مفتوح."
+        },
+        {
+          "en": "They traveled west.",
+          "ar": "لقد سافروا غرباً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_what",
+      "lessonId": "lsn_a1_w_1",
+      "en": "what",
+      "translation": "ما / ماذا",
+      "ar": "ما / ماذا",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "What is your name?",
+          "ar": "ما هو اسمك؟"
+        },
+        {
+          "en": "I forgot what she said.",
+          "ar": "لقد نسيت ما قالته."
+        },
+        {
+          "en": "What a beautiful day!!!!",
+          "ar": "يا له من يوم جميل !!!!"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_when",
+      "lessonId": "lsn_a1_w_1",
+      "en": "when",
+      "translation": "متى / عندما",
+      "ar": "متى / عندما",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "When did you arrive?",
+          "ar": "متى وصلت؟"
+        },
+        {
+          "en": "Tell me when you're ready.",
+          "ar": "أخبريني عندما تكونين جاهزة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_where",
+      "lessonId": "lsn_a1_w_1",
+      "en": "where",
+      "translation": "أين / حيث",
+      "ar": "أين / حيث",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Where do you live?",
+          "ar": "أين تسكن؟"
+        },
+        {
+          "en": "Stand where I can see you.",
+          "ar": "قف حيث يمكنني رؤيتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

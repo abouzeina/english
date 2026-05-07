@@ -1,0 +1,301 @@
+[
+  {
+    "id": "lsn_1",
+    "levelId": "lvl_1",
+    "slug": "greetings",
+    "title": "Greetings & Introductions",
+    "titleAr": "التحيات والتعارف",
+    "description": "Learn how to greet people and introduce yourself.",
+    "descriptionAr": "تعلم كيف تحيي الناس وتقدم نفسك.",
+    "order": 1,
+    "wordCount": 3
+  },
+  {
+    "id": "lsn_a1_a_1",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 1",
+    "slug": "a-words-1",
+    "order": 1,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_2",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 2",
+    "slug": "a-words-2",
+    "order": 2,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_3",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 3",
+    "slug": "a-words-3",
+    "order": 3,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_4",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 4",
+    "slug": "a-words-4",
+    "order": 4,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_5",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 5",
+    "slug": "a-words-5",
+    "order": 5,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_6",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 6",
+    "slug": "a-words-6",
+    "order": 6,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_7",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 7",
+    "slug": "a-words-7",
+    "order": 7,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_8",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 8",
+    "slug": "a-words-8",
+    "order": 8,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_9",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 9",
+    "slug": "a-words-9",
+    "order": 9,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_10",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 10",
+    "slug": "a-words-10",
+    "order": 10,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_11",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 11",
+    "slug": "a-words-11",
+    "order": 11,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_12",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 12",
+    "slug": "a-words-12",
+    "order": 12,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_13",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 13",
+    "slug": "a-words-13",
+    "order": 13,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_14",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 14",
+    "slug": "a-words-14",
+    "order": 14,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_15",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 15",
+    "slug": "a-words-15",
+    "order": 15,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_16",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 16",
+    "slug": "a-words-16",
+    "order": 16,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_17",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 17",
+    "slug": "a-words-17",
+    "order": 17,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_18",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 18",
+    "slug": "a-words-18",
+    "order": 18,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_19",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 19",
+    "slug": "a-words-19",
+    "order": 19,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_20",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 20",
+    "slug": "a-words-20",
+    "order": 20,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_21",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 21",
+    "slug": "a-words-21",
+    "order": 21,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_22",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 22",
+    "slug": "a-words-22",
+    "order": 22,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_23",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 23",
+    "slug": "a-words-23",
+    "order": 23,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_24",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 24",
+    "slug": "a-words-24",
+    "order": 24,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_25",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 25",
+    "slug": "a-words-25",
+    "order": 25,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_26",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 26",
+    "slug": "a-words-26",
+    "order": 26,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_27",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 27",
+    "slug": "a-words-27",
+    "order": 27,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_28",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 28",
+    "slug": "a-words-28",
+    "order": 28,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_29",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 29",
+    "slug": "a-words-29",
+    "order": 29,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_30",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 30",
+    "slug": "a-words-30",
+    "order": 30,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_31",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 31",
+    "slug": "a-words-31",
+    "order": 31,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_32",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 32",
+    "slug": "a-words-32",
+    "order": 32,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_33",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 33",
+    "slug": "a-words-33",
+    "order": 33,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_34",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 34",
+    "slug": "a-words-34",
+    "order": 34,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_35",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 35",
+    "slug": "a-words-35",
+    "order": 35,
+    "wordCount": 25
+  },
+  {
+    "id": "lsn_a1_a_36",
+    "levelId": "lvl_1",
+    "title": "A Words - Part 36",
+    "slug": "a-words-36",
+    "order": 36,
+    "wordCount": 1
+  }
+]

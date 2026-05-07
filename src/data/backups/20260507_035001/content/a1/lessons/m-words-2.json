@@ -1,0 +1,579 @@
+{
+  "id": "lsn_a1_m_2",
+  "levelId": "lvl_1",
+  "title": "M Words - Part 2",
+  "slug": "m-words-2",
+  "order": 25,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف M - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter M.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف M.",
+  "words": [
+    {
+      "id": "w_a1_midnight",
+      "lessonId": "lsn_a1_m_2",
+      "en": "midnight",
+      "translation": "منتصف الليل",
+      "ar": "منتصف الليل",
+      "pronunciation": "/'mid nart/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The train arrives at midnight.",
+          "ar": "يصل القطار في منتصف الليل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mile",
+      "lessonId": "lsn_a1_m_2",
+      "en": "mile",
+      "translation": "ميل",
+      "ar": "ميل",
+      "pronunciation": "/mail/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He walked half a mile home.",
+          "ar": "مشى نصف ميل إلى المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_milk",
+      "lessonId": "lsn_a1_m_2",
+      "en": "milk",
+      "translation": "حليب",
+      "ar": "حليب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I drink milk every morning.",
+          "ar": "أنا أشرب الحليب كل صباح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_million",
+      "lessonId": "lsn_a1_m_2",
+      "en": "million",
+      "translation": "مليون",
+      "ar": "مليون",
+      "pronunciation": "/mn/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I have a million things to do.",
+          "ar": "لدي مليون عمل لأقوم به."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_minutes",
+      "lessonId": "lsn_a1_m_2",
+      "en": "minutes",
+      "translation": "دقائق",
+      "ar": "دقائق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The test will take ten minutes.",
+          "ar": "سيستغرق الاختبار عشر دقائق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_minute",
+      "lessonId": "lsn_a1_m_2",
+      "en": "minute",
+      "translation": "دقيقة / لحظة",
+      "ar": "دقيقة / لحظة",
+      "pronunciation": "/'mın ət/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Wait a minute, please.",
+          "ar": "انتظر لحظة من فضلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_miss",
+      "lessonId": "lsn_a1_m_2",
+      "en": "miss",
+      "translation": "يفوت",
+      "ar": "يفوت",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Don't miss the bus.",
+          "ar": "لا تفوت الحافلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mistake",
+      "lessonId": "lsn_a1_m_2",
+      "en": "mistake",
+      "translation": "خطأ",
+      "ar": "خطأ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I made a big mistake.",
+          "ar": "لقد ارتكبت خطأ كبيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_model",
+      "lessonId": "lsn_a1_m_2",
+      "en": "model",
+      "translation": "نموذج",
+      "ar": "نموذج",
+      "pronunciation": "/ ma dəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He built a car model.",
+          "ar": "قام ببناء نموذج سيارة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_modern",
+      "lessonId": "lsn_a1_m_2",
+      "en": "modern",
+      "translation": "معاصرة / حديثة",
+      "ar": "معاصرة / حديثة",
+      "pronunciation": "/'ma-dərn/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Modern life is busy.",
+          "ar": "الحياة المعاصرة مزدحمة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_moment",
+      "lessonId": "lsn_a1_m_2",
+      "en": "moment",
+      "translation": "لحظة",
+      "ar": "لحظة",
+      "pronunciation": "/'mov mənt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Wait a moment, please.",
+          "ar": "انتظر لحظة من فضلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_monday",
+      "lessonId": "lsn_a1_m_2",
+      "en": "Monday",
+      "translation": "يوم الاثنين",
+      "ar": "يوم الاثنين",
+      "pronunciation": "/'mʌn der/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I wake up early every Monday.",
+          "ar": "أنا أستيقظ مبكراً كل يوم اثنين."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_money",
+      "lessonId": "lsn_a1_m_2",
+      "en": "money",
+      "translation": "مال / نقود",
+      "ar": "مال / نقود",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I lost all my money.",
+          "ar": "لقد فقدت كل أموالي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_month",
+      "lessonId": "lsn_a1_m_2",
+      "en": "month",
+      "translation": "شهر",
+      "ar": "شهر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I read two books this month.",
+          "ar": "قرأت كتابين هذا الشهر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_more",
+      "lessonId": "lsn_a1_m_2",
+      "en": "more",
+      "translation": "أكثر / المزيد",
+      "ar": "أكثر / المزيد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She knows more than you think.",
+          "ar": "إنها تعرف أكثر مما تعتقد."
+        },
+        {
+          "en": "Do you want more coffee?",
+          "ar": "هل تريد المزيد من القهوة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_morning",
+      "lessonId": "lsn_a1_m_2",
+      "en": "morning",
+      "translation": "صباح",
+      "ar": "صباح",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Good morning !! How are you today?",
+          "ar": "صباح الخير !! كيف حالك اليوم؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_most",
+      "lessonId": "lsn_a1_m_2",
+      "en": "most",
+      "translation": "معظم / الأكثر",
+      "ar": "معظم / الأكثر",
+      "pronunciation": "/moust/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Most cats love to sleep.",
+          "ar": "معظم القطط تحب النوم."
+        },
+        {
+          "en": "These shoes are the most expensive.",
+          "ar": "هذه الأحذية هي الأكثر تكلفة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mother",
+      "lessonId": "lsn_a1_m_2",
+      "en": "mother",
+      "translation": "أم / والدة",
+      "ar": "أم / والدة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My mother loves to cook.",
+          "ar": "أمي تحب الطبخ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mountain",
+      "lessonId": "lsn_a1_m_2",
+      "en": "mountain",
+      "translation": "جبل",
+      "ar": "جبل",
+      "pronunciation": "/'maun tən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They live near the mountain.",
+          "ar": "إنهم يعيشون بالقرب من الجبل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mouse",
+      "lessonId": "lsn_a1_m_2",
+      "en": "mouse",
+      "translation": "فأر / ماوس",
+      "ar": "فأر / ماوس",
+      "pronunciation": "/maus/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a mouse today.",
+          "ar": "رأيت فأراً اليوم."
+        },
+        {
+          "en": "I need a new mouse.",
+          "ar": "أحتاج إلى ماوس جديد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mouth",
+      "lessonId": "lsn_a1_m_2",
+      "en": "mouth",
+      "translation": "فم",
+      "ar": "فم",
+      "pronunciation": "/mαυθ/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He has a large mouth.",
+          "ar": "لديه فم كبير."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_move",
+      "lessonId": "lsn_a1_m_2",
+      "en": "move",
+      "translation": "يتحرك",
+      "ar": "يتحرك",
+      "pronunciation": "/muv/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Don't move, I'll be back soon.",
+          "ar": "لا تتحرك، سأعود قريباً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_movie",
+      "lessonId": "lsn_a1_m_2",
+      "en": "movie",
+      "translation": "فيلم",
+      "ar": "فيلم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The movie starts at seven.",
+          "ar": "يبدأ الفيلم في الساعة السابعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_much",
+      "lessonId": "lsn_a1_m_2",
+      "en": "much",
+      "translation": "الكثير / كثيراً",
+      "ar": "الكثير / كثيراً",
+      "pronunciation": "/m^tf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I don't have much time.",
+          "ar": "ليس لدي الكثير من الوقت."
+        },
+        {
+          "en": "I don't like it much.",
+          "ar": "لا يعجبني كثيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mum",
+      "lessonId": "lsn_a1_m_2",
+      "en": "mum",
+      "translation": "أمي",
+      "ar": "أمي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Mum is calling you now.",
+          "ar": "أمي تتصل بك الآن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

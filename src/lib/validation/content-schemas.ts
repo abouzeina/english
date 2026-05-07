@@ -30,10 +30,12 @@ export const categorySchema = z.object({
 
 export const wordSchema = z.object({
   id: z.string().startsWith("w_"),
-  lessonId: z.string().startsWith("lsn_").nullable(),
-  categoryId: z.string().startsWith("cat_").nullable(),
+  lessonId: z.string().startsWith("lsn_").nullable().optional(),
+  levelId: z.string().startsWith("lvl_").optional(),
+  categoryId: z.string().nullable().optional(),
   en: z.string().min(1),
   ar: z.string().min(1),
+  pronunciation: z.string().optional(),
   exampleEn: z.string().optional(),
   exampleAr: z.string().optional(),
   examples: z.array(z.object({
@@ -42,12 +44,7 @@ export const wordSchema = z.object({
   })).optional(),
   audioUrl: z.string().url().optional(),
   tags: z.array(z.string()).optional(),
-}).refine(data => {
-  // Must belong to exactly one: either a lesson or a category
-  const hasLesson = data.lessonId !== null && data.lessonId !== undefined;
-  const hasCategory = data.categoryId !== null && data.categoryId !== undefined;
-  return (hasLesson && !hasCategory) || (!hasLesson && hasCategory);
-}, {
-  message: "Word must belong to exactly one lesson or one category.",
-  path: ["lessonId", "categoryId"],
+  type: z.string().optional(),
+  difficulty: z.string().optional(),
+  confidence: z.string().optional(),
 });

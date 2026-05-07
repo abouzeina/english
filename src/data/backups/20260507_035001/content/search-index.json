@@ -1,0 +1,5300 @@
+[
+  {
+    "id": "w_1",
+    "en": "Hello",
+    "ar": "مرحباً",
+    "lessonId": "lsn_1"
+  },
+  {
+    "id": "w_2",
+    "en": "Good morning",
+    "ar": "صباح الخير",
+    "lessonId": "lsn_1"
+  },
+  {
+    "id": "w_3",
+    "en": "Name",
+    "ar": "اسم",
+    "lessonId": "lsn_1"
+  },
+  {
+    "id": "w_4",
+    "en": "Please repeat after me.",
+    "ar": "من فضلك ردد خلفي.",
+    "lessonId": null
+  },
+  {
+    "id": "w_5",
+    "en": "Open your Mushaf to page...",
+    "ar": "افتح المصحف على صفحة...",
+    "lessonId": null
+  },
+  {
+    "id": "w_6",
+    "en": "Prolongation (Madd)",
+    "ar": "المد",
+    "lessonId": null
+  },
+  {
+    "id": "w_7",
+    "en": "Nasalization (Ghunnah)",
+    "ar": "الغنة",
+    "lessonId": null
+  },
+  {
+    "id": "w_a1_about",
+    "en": "about",
+    "ar": "حوالي / عن",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_above",
+    "en": "above",
+    "ar": "فوق",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_across",
+    "en": "across",
+    "ar": "عبر / على الجانب الآخر",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_action",
+    "en": "action",
+    "ar": "أفعال / عمل",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_activities",
+    "en": "activities",
+    "ar": "أنشطة",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_actor",
+    "en": "actor",
+    "ar": "ممثل",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_actress",
+    "en": "actress",
+    "ar": "ممثلة",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_add",
+    "en": "add",
+    "ar": "يضيف",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_address",
+    "en": "address",
+    "ar": "عنوان",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_adults",
+    "en": "adults",
+    "ar": "بالغون / بالغان",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_advice",
+    "en": "advice",
+    "ar": "نصيحة",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_afraid",
+    "en": "afraid",
+    "ar": "خائف",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_after",
+    "en": "after",
+    "ar": "بعد",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_afternoon",
+    "en": "afternoon",
+    "ar": "بعد الظهر",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_again",
+    "en": "again",
+    "ar": "مرة أخرى",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_age",
+    "en": "age",
+    "ar": "عمر",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_ago",
+    "en": "ago",
+    "ar": "قبل",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_agree",
+    "en": "agree",
+    "ar": "يوافق",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_air",
+    "en": "air",
+    "ar": "هواء",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_airport",
+    "en": "airport",
+    "ar": "مطار",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_all",
+    "en": "all",
+    "ar": "جميع / كل / طوال",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_also",
+    "en": "also",
+    "ar": "أيضا",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_always",
+    "en": "always",
+    "ar": "دائما",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_amazing",
+    "en": "amazing",
+    "ar": "رائع / مذهل",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_and",
+    "en": "and",
+    "ar": "و",
+    "lessonId": "lsn_a1_a_1"
+  },
+  {
+    "id": "w_a1_angry",
+    "en": "angry",
+    "ar": "غاضب",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_animal",
+    "en": "animal",
+    "ar": "حيوان",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_another",
+    "en": "another",
+    "ar": "آخر",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_answer",
+    "en": "answer",
+    "ar": "إجابة / يجيب",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_any",
+    "en": "any",
+    "ar": "أي",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_anyone",
+    "en": "anyone",
+    "ar": "أحد",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_anything",
+    "en": "anything",
+    "ar": "أي شيء",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_apartment",
+    "en": "apartment",
+    "ar": "شقة",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_apple",
+    "en": "apple",
+    "ar": "تفاحة",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_april",
+    "en": "April",
+    "ar": "شهر ابريل",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_area",
+    "en": "area",
+    "ar": "منطقة",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_arm",
+    "en": "arm",
+    "ar": "ذراع",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_around",
+    "en": "around",
+    "ar": "حوالي / حول / أرجاء",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_arrive",
+    "en": "arrive",
+    "ar": "يصل",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_art",
+    "en": "art",
+    "ar": "فن",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_article",
+    "en": "article",
+    "ar": "مقال",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_artist",
+    "en": "artist",
+    "ar": "فنان",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_as",
+    "en": "as",
+    "ar": "كـ",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_ask",
+    "en": "ask",
+    "ar": "يطلب / يسأل",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_at",
+    "en": "at",
+    "ar": "في",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_august",
+    "en": "August",
+    "ar": "شهر أغسطس",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_aunt",
+    "en": "aunt",
+    "ar": "عمة / خالة",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_autumn",
+    "en": "autumn",
+    "ar": "خريف",
+    "lessonId": "lsn_a1_a_2"
+  },
+  {
+    "id": "w_a1_away",
+    "en": "away",
+    "ar": "بعيد / على بعد",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_baby",
+    "en": "baby",
+    "ar": "طفل",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_back",
+    "en": "back",
+    "ar": "ظهر / يعود",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_bad",
+    "en": "bad",
+    "ar": "سيء",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_bag",
+    "en": "bag",
+    "ar": "كيس / حقيبة",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_ball",
+    "en": "ball",
+    "ar": "كرة",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_banana",
+    "en": "banana",
+    "ar": "موز",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_band",
+    "en": "band",
+    "ar": "فرقة",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_bank",
+    "en": "bank",
+    "ar": "بنك",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_bath",
+    "en": "bath",
+    "ar": "استحمام",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_bathroom",
+    "en": "bathroom",
+    "ar": "حمام",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_be",
+    "en": "be",
+    "ar": "كن",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_beach",
+    "en": "beach",
+    "ar": "شاطئ",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_beautiful",
+    "en": "beautiful",
+    "ar": "جميل",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_because",
+    "en": "because",
+    "ar": "بسبب",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_become",
+    "en": "become",
+    "ar": "يصبح",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_bed",
+    "en": "bed",
+    "ar": "فراش / سرير",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_bedroom",
+    "en": "bedroom",
+    "ar": "غرفة نوم",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_beer",
+    "en": "beer",
+    "ar": "بيرة",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_before",
+    "en": "before",
+    "ar": "قبل",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_begin",
+    "en": "begin",
+    "ar": "يبدأ",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_beginning",
+    "en": "beginning",
+    "ar": "بداية",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_behind",
+    "en": "behind",
+    "ar": "خلف",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_believe",
+    "en": "believe",
+    "ar": "يصدق / يؤمن",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_below",
+    "en": "below",
+    "ar": "تحت / بالأسفل",
+    "lessonId": "lsn_a1_b_1"
+  },
+  {
+    "id": "w_a1_best",
+    "en": "best",
+    "ar": "أفضل",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_better",
+    "en": "better",
+    "ar": "أفضل",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_between",
+    "en": "between",
+    "ar": "بين",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_bicycle",
+    "en": "bicycle",
+    "ar": "دراجة هوائية",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_big",
+    "en": "big",
+    "ar": "كبير",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_bike",
+    "en": "bike",
+    "ar": "دراجة",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_bill",
+    "en": "bill",
+    "ar": "فاتورة",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_bird",
+    "en": "bird",
+    "ar": "طائر",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_birthday",
+    "en": "birthday",
+    "ar": "عيد ميلاد",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_black",
+    "en": "black",
+    "ar": "أسود",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_blogs",
+    "en": "blogs",
+    "ar": "مدونات",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_blonde",
+    "en": "blonde",
+    "ar": "أشقر / شقراء",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_blue",
+    "en": "blue",
+    "ar": "أزرق",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_boat",
+    "en": "boat",
+    "ar": "قارب",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_body",
+    "en": "body",
+    "ar": "جسم / جسد",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_book",
+    "en": "book",
+    "ar": "كتاب",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_boots",
+    "en": "boots",
+    "ar": "أحذية / جزمة / بوت",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_bored",
+    "en": "bored",
+    "ar": "يشعر بالملل",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_boring",
+    "en": "boring",
+    "ar": "ممل",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_born",
+    "en": "born",
+    "ar": "ولد",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_both",
+    "en": "both",
+    "ar": "كلاهما",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_bottle",
+    "en": "bottle",
+    "ar": "قارورة / زجاجة",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_box",
+    "en": "box",
+    "ar": "علبة / صندوق",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_boy",
+    "en": "boy",
+    "ar": "صبي / ولد",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_boyfriend",
+    "en": "boyfriend",
+    "ar": "عشيق / حبيب",
+    "lessonId": "lsn_a1_b_2"
+  },
+  {
+    "id": "w_a1_bread",
+    "en": "bread",
+    "ar": "خبز",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_break",
+    "en": "break",
+    "ar": "يكسر / استراحة",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_breakfast",
+    "en": "breakfast",
+    "ar": "فطور",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_bring",
+    "en": "bring",
+    "ar": "يحضر",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_brother",
+    "en": "brother",
+    "ar": "أخ",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_brown",
+    "en": "brown",
+    "ar": "بني",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_build",
+    "en": "build",
+    "ar": "يبني",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_building",
+    "en": "building",
+    "ar": "مبنى",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_bus",
+    "en": "bus",
+    "ar": "حافلة",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_business",
+    "en": "business",
+    "ar": "عمل",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_busy",
+    "en": "busy",
+    "ar": "مشغول",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_but",
+    "en": "but",
+    "ar": "لكن",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_butter",
+    "en": "butter",
+    "ar": "زبدة",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_buy",
+    "en": "buy",
+    "ar": "يشتري",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_by",
+    "en": "by",
+    "ar": "عبر / بجوار / بحلول",
+    "lessonId": "lsn_a1_b_3"
+  },
+  {
+    "id": "w_a1_bye",
+    "en": "bye",
+    "ar": "مع السلامة / وداعاً",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_cafe",
+    "en": "cafe",
+    "ar": "مقهى",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_cake",
+    "en": "cake",
+    "ar": "كعكة",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_call",
+    "en": "call",
+    "ar": "يتصل / يطلق اسم / مكالمة",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_camera",
+    "en": "camera",
+    "ar": "كاميرا",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_can",
+    "en": "can",
+    "ar": "يستطيع",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_cannot",
+    "en": "cannot",
+    "ar": "لا يستطيع",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_capital",
+    "en": "capital",
+    "ar": "عاصمة / حروف كبيرة",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_car",
+    "en": "car",
+    "ar": "سيارة",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_card",
+    "en": "card",
+    "ar": "بطاقة / ورق مقوى",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_career",
+    "en": "career",
+    "ar": "مجال / عمل / مسيرة مهنية",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_carrot",
+    "en": "carrot",
+    "ar": "جزر",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_carrying",
+    "en": "carrying",
+    "ar": "تحمل",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_cat",
+    "en": "cat",
+    "ar": "قطة",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_cd",
+    "en": "CD",
+    "ar": "قرص مدمج",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_cents",
+    "en": "cents",
+    "ar": "سنت",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_city_center",
+    "en": "city center",
+    "ar": "وسط المدينة",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_century",
+    "en": "century",
+    "ar": "قرن",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_chair",
+    "en": "chair",
+    "ar": "كرسي",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_change",
+    "en": "change",
+    "ar": "يبدل / تغيير",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_chart",
+    "en": "chart",
+    "ar": "رسم بياني",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_cheap",
+    "en": "cheap",
+    "ar": "رخيص",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_check",
+    "en": "check",
+    "ar": "يتأكد",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_cheese",
+    "en": "cheese",
+    "ar": "جبن",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_chicken",
+    "en": "chicken",
+    "ar": "دجاج",
+    "lessonId": "lsn_a1_c_1"
+  },
+  {
+    "id": "w_a1_child",
+    "en": "child",
+    "ar": "طفل",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_chocolate",
+    "en": "chocolate",
+    "ar": "شوكولاتة",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_choose",
+    "en": "choose",
+    "ar": "يختار",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_cinema",
+    "en": "cinema",
+    "ar": "سينما",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_city",
+    "en": "city",
+    "ar": "مدينة",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_class",
+    "en": "class",
+    "ar": "صف / حصص دراسية",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_classroom",
+    "en": "classroom",
+    "ar": "فصل دراسي",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_clean",
+    "en": "clean",
+    "ar": "نظيف / ينظف",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_climb",
+    "en": "climb",
+    "ar": "يصعد / يتسلق",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_clock",
+    "en": "clock",
+    "ar": "ساعة حائط / منبه",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_close",
+    "en": "close",
+    "ar": "يغلق",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_clothes",
+    "en": "clothes",
+    "ar": "ملابس",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_club",
+    "en": "club",
+    "ar": "نادي",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_coat",
+    "en": "coat",
+    "ar": "معطف",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_coffee",
+    "en": "coffee",
+    "ar": "قهوة",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_cold",
+    "en": "cold",
+    "ar": "بارد / نزلة برد",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_college",
+    "en": "college",
+    "ar": "جامعة / كلية",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_color",
+    "en": "color",
+    "ar": "لون",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_come",
+    "en": "come",
+    "ar": "يأتي",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_common",
+    "en": "common",
+    "ar": "شائعة",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_company",
+    "en": "company",
+    "ar": "شركة",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_compare",
+    "en": "compare",
+    "ar": "يقارن",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_complete",
+    "en": "complete",
+    "ar": "يكمل / مكتمل",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_computer",
+    "en": "computer",
+    "ar": "كمبيوتر",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_concert",
+    "en": "concert",
+    "ar": "حفل موسيقي",
+    "lessonId": "lsn_a1_c_2"
+  },
+  {
+    "id": "w_a1_conversation",
+    "en": "conversation",
+    "ar": "محادثة",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_cook",
+    "en": "cook",
+    "ar": "يطبخ",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_cooking",
+    "en": "cooking",
+    "ar": "طهي / طبخ",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_cool",
+    "en": "cool",
+    "ar": "رائع / بارد",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_correct",
+    "en": "correct",
+    "ar": "صحيح / يصلح",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_cost",
+    "en": "cost",
+    "ar": "تكلفة / يكلف",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_could",
+    "en": "could",
+    "ar": "كان يستطيع / يمكن",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_country",
+    "en": "country",
+    "ar": "بلد / دولة",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_course",
+    "en": "course",
+    "ar": "دورة تدريبية",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_cousin",
+    "en": "cousin",
+    "ar": "ابن / ابنة عم أو خال",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_cow",
+    "en": "cow",
+    "ar": "بقرة",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_cream",
+    "en": "cream",
+    "ar": "قشدة",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_creates",
+    "en": "creates",
+    "ar": "يبدع / يصنع",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_culture",
+    "en": "culture",
+    "ar": "ثقافة",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_cup",
+    "en": "cup",
+    "ar": "كوب",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_customers",
+    "en": "customers",
+    "ar": "عملاء",
+    "lessonId": "lsn_a1_c_3"
+  },
+  {
+    "id": "w_a1_cut",
+    "en": "cut",
+    "ar": "يقطع",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_dad",
+    "en": "dad",
+    "ar": "أب / أبي",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_dance",
+    "en": "dance",
+    "ar": "يرقص / رقصة",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_dancer",
+    "en": "dancer",
+    "ar": "راقص",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_dancing",
+    "en": "dancing",
+    "ar": "الرقص",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_dangerous",
+    "en": "dangerous",
+    "ar": "خطير",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_dark",
+    "en": "dark",
+    "ar": "غامق / مظلم",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_date",
+    "en": "date",
+    "ar": "تاريخ",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_daughter",
+    "en": "daughter",
+    "ar": "ابنة",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_day",
+    "en": "day",
+    "ar": "يوم",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_dear",
+    "en": "dear",
+    "ar": "عزيز",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_december",
+    "en": "December",
+    "ar": "شهر ديسمبر",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_decide",
+    "en": "decide",
+    "ar": "يقرر",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_delicious",
+    "en": "delicious",
+    "ar": "لذيذ",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_describe",
+    "en": "describe",
+    "ar": "يصف",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_description",
+    "en": "description",
+    "ar": "وصف",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_design",
+    "en": "design",
+    "ar": "تصميم / يصمم",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_desk",
+    "en": "desk",
+    "ar": "مكتب",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_detail",
+    "en": "detail",
+    "ar": "نقطة / تفصيل",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_dialogues",
+    "en": "dialogues",
+    "ar": "حوارات",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_dictionary",
+    "en": "dictionary",
+    "ar": "قاموس",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_died",
+    "en": "died",
+    "ar": "توفي",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_diet",
+    "en": "diet",
+    "ar": "نظام غذائي",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_different",
+    "en": "different",
+    "ar": "مختلف",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_difference",
+    "en": "difference",
+    "ar": "فرق",
+    "lessonId": "lsn_a1_d_1"
+  },
+  {
+    "id": "w_a1_difficult",
+    "en": "difficult",
+    "ar": "صعب",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_dinner",
+    "en": "dinner",
+    "ar": "عشاء",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_dirty",
+    "en": "dirty",
+    "ar": "متسخ",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_discuss",
+    "en": "discuss",
+    "ar": "يناقش",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_dish",
+    "en": "dish",
+    "ar": "طبق",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_do",
+    "en": "do",
+    "ar": "يفعل",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_doctor",
+    "en": "doctor",
+    "ar": "طبيب",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_dog",
+    "en": "dog",
+    "ar": "كلب",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_dollars",
+    "en": "dollars",
+    "ar": "دولارات",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_door",
+    "en": "door",
+    "ar": "باب",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_down",
+    "en": "down",
+    "ar": "أسفل / للأسفل",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_downstairs",
+    "en": "downstairs",
+    "ar": "الطابق الأسفل",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_draw",
+    "en": "draw",
+    "ar": "يرسم",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_dress",
+    "en": "dress",
+    "ar": "فستان / فساتين / ملابسه / ارتديت",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_drink",
+    "en": "drink",
+    "ar": "يشرب / مشروب",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_drive",
+    "en": "drive",
+    "ar": "يقود",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_driver",
+    "en": "driver",
+    "ar": "سائق",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_during",
+    "en": "during",
+    "ar": "خلال",
+    "lessonId": "lsn_a1_d_2"
+  },
+  {
+    "id": "w_a1_dvd",
+    "en": "DVD",
+    "ar": "قرص فيديو",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_each",
+    "en": "each",
+    "ar": "كل",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_ears",
+    "en": "ears",
+    "ar": "آذان / أذنان",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_early",
+    "en": "early",
+    "ar": "مبكراً / باكر",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_east",
+    "en": "east",
+    "ar": "شرق / شرقا",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_easy",
+    "en": "easy",
+    "ar": "سهل",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_eat",
+    "en": "eat",
+    "ar": "يأكل / يتناول",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_eggs",
+    "en": "eggs",
+    "ar": "بيض",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_eight",
+    "en": "eight",
+    "ar": "ثمانية",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_eighteen",
+    "en": "eighteen",
+    "ar": "ثمانية عشر",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_eighty",
+    "en": "eighty",
+    "ar": "ثمانين",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_elephant",
+    "en": "elephant",
+    "ar": "فيل",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_eleven",
+    "en": "eleven",
+    "ar": "إحدى عشرة",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_else",
+    "en": "else",
+    "ar": "آخر",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_email",
+    "en": "email",
+    "ar": "رسالة إلكترونية / بريد إلكتروني",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_end",
+    "en": "end",
+    "ar": "نهاية / ينهي",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_enjoy",
+    "en": "enjoy",
+    "ar": "يستمتع",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_enough",
+    "en": "enough",
+    "ar": "كاف / بما فيه الكفاية / يكفي",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_euros",
+    "en": "euros",
+    "ar": "يورو",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_even",
+    "en": "even",
+    "ar": "حتى",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_evening",
+    "en": "evening",
+    "ar": "مساء",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_event",
+    "en": "event",
+    "ar": "فعالية",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_ever",
+    "en": "ever",
+    "ar": "على الإطلاق",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_every",
+    "en": "every",
+    "ar": "كل",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_everybody",
+    "en": "everybody",
+    "ar": "الجميع",
+    "lessonId": "lsn_a1_e_1"
+  },
+  {
+    "id": "w_a1_everyone",
+    "en": "everyone",
+    "ar": "الجميع",
+    "lessonId": "lsn_a1_e_2"
+  },
+  {
+    "id": "w_a1_exam",
+    "en": "exam",
+    "ar": "امتحان",
+    "lessonId": "lsn_a1_e_2"
+  },
+  {
+    "id": "w_a1_example",
+    "en": "example",
+    "ar": "مثال",
+    "lessonId": "lsn_a1_e_2"
+  },
+  {
+    "id": "w_a1_excited",
+    "en": "excited",
+    "ar": "متحمس",
+    "lessonId": "lsn_a1_e_2"
+  },
+  {
+    "id": "w_a1_exciting",
+    "en": "exciting",
+    "ar": "مشوق",
+    "lessonId": "lsn_a1_e_2"
+  },
+  {
+    "id": "w_a1_exercise",
+    "en": "exercise",
+    "ar": "تمارين رياضية / يمارس التمارين",
+    "lessonId": "lsn_a1_e_2"
+  },
+  {
+    "id": "w_a1_expensive",
+    "en": "expensive",
+    "ar": "باهظة الثمن",
+    "lessonId": "lsn_a1_e_2"
+  },
+  {
+    "id": "w_a1_explain",
+    "en": "explain",
+    "ar": "يوضح",
+    "lessonId": "lsn_a1_e_2"
+  },
+  {
+    "id": "w_a1_extra",
+    "en": "extra",
+    "ar": "إضافي",
+    "lessonId": "lsn_a1_e_2"
+  },
+  {
+    "id": "w_a1_eyes",
+    "en": "eyes",
+    "ar": "عينين / عيني",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_face",
+    "en": "face",
+    "ar": "وجه",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_fact",
+    "en": "fact",
+    "ar": "حقيقة",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_fall",
+    "en": "fall",
+    "ar": "يسقط / يتساقط",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_false",
+    "en": "false",
+    "ar": "زائف / خاطئ",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_family",
+    "en": "family",
+    "ar": "عائلة",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_famous",
+    "en": "famous",
+    "ar": "مشهور",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_fantastic",
+    "en": "fantastic",
+    "ar": "رائع",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_far",
+    "en": "far",
+    "ar": "بعيد",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_farm",
+    "en": "farm",
+    "ar": "مزرعة",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_farmers",
+    "en": "farmers",
+    "ar": "مزارعون",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_fast",
+    "en": "fast",
+    "ar": "سريع / بسرعة",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_fat",
+    "en": "fat",
+    "ar": "سمين",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_father",
+    "en": "father",
+    "ar": "أب / والد",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_favorite",
+    "en": "favorite",
+    "ar": "مفضل",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_february",
+    "en": "February",
+    "ar": "شهر فبراير",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_feel",
+    "en": "feel",
+    "ar": "يشعر",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_feeling",
+    "en": "feeling",
+    "ar": "شعور",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_festival",
+    "en": "festival",
+    "ar": "مهرجان",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_few",
+    "en": "few",
+    "ar": "قليل (عدد)",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_fifteen",
+    "en": "fifteen",
+    "ar": "خمسة عشر",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_fifty",
+    "en": "fifty",
+    "ar": "خمسين",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_fifth",
+    "en": "fifth",
+    "ar": "خامس",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_fill",
+    "en": "fill",
+    "ar": "يملأ",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_film",
+    "en": "film",
+    "ar": "فيلم",
+    "lessonId": "lsn_a1_f_1"
+  },
+  {
+    "id": "w_a1_final",
+    "en": "final",
+    "ar": "نهائي",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_find",
+    "en": "find",
+    "ar": "يجد",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_fine",
+    "en": "fine",
+    "ar": "بخير",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_finish",
+    "en": "finish",
+    "ar": "ينهي",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_fire",
+    "en": "fire",
+    "ar": "نار",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_first",
+    "en": "first",
+    "ar": "أول / أولاً",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_fish",
+    "en": "fish",
+    "ar": "سمك / أسماك",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_flat",
+    "en": "flat",
+    "ar": "شقة",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_flight",
+    "en": "flight",
+    "ar": "رحلة طيران",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_floor",
+    "en": "floor",
+    "ar": "طابق / أرضية",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_flower",
+    "en": "flower",
+    "ar": "زهرة",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_fly",
+    "en": "fly",
+    "ar": "يطير",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_follow",
+    "en": "follow",
+    "ar": "يلحق / يتبع",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_food",
+    "en": "food",
+    "ar": "طعام",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_foot",
+    "en": "foot",
+    "ar": "قدم",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_football",
+    "en": "football",
+    "ar": "كرة القدم",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_for",
+    "en": "for",
+    "ar": "لـ / لأجل / لمدة",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_forget",
+    "en": "forget",
+    "ar": "ينسى",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_form",
+    "en": "form",
+    "ar": "شكل / يشكل",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_four",
+    "en": "four",
+    "ar": "أربعة",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_fourth",
+    "en": "fourth",
+    "ar": "رابع",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_fourteen",
+    "en": "fourteen",
+    "ar": "أربعة عشر",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_forty",
+    "en": "forty",
+    "ar": "أربعين",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_free",
+    "en": "free",
+    "ar": "مجاني / متاح / متفرغ",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_friday",
+    "en": "Friday",
+    "ar": "يوم الجمعة",
+    "lessonId": "lsn_a1_f_2"
+  },
+  {
+    "id": "w_a1_friend",
+    "en": "friend",
+    "ar": "صديق",
+    "lessonId": "lsn_a1_f_3"
+  },
+  {
+    "id": "w_a1_friendly",
+    "en": "friendly",
+    "ar": "ودود",
+    "lessonId": "lsn_a1_f_3"
+  },
+  {
+    "id": "w_a1_from",
+    "en": "from",
+    "ar": "من",
+    "lessonId": "lsn_a1_f_3"
+  },
+  {
+    "id": "w_a1_front",
+    "en": "front",
+    "ar": "أمامي / مقدمة / أمام",
+    "lessonId": "lsn_a1_f_3"
+  },
+  {
+    "id": "w_a1_fruit",
+    "en": "fruit",
+    "ar": "فواكه",
+    "lessonId": "lsn_a1_f_3"
+  },
+  {
+    "id": "w_a1_full",
+    "en": "full",
+    "ar": "مليء",
+    "lessonId": "lsn_a1_f_3"
+  },
+  {
+    "id": "w_a1_fun",
+    "en": "fun",
+    "ar": "متعة / مرح",
+    "lessonId": "lsn_a1_f_3"
+  },
+  {
+    "id": "w_a1_funny",
+    "en": "funny",
+    "ar": "مضحك",
+    "lessonId": "lsn_a1_f_3"
+  },
+  {
+    "id": "w_a1_future",
+    "en": "future",
+    "ar": "مستقبل",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_game",
+    "en": "game",
+    "ar": "لعبة",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_garden",
+    "en": "garden",
+    "ar": "حديقة",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_geography",
+    "en": "geography",
+    "ar": "جغرافيا",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_get",
+    "en": "get",
+    "ar": "حصل على / يتلقى / يصل",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_girlfriend",
+    "en": "girlfriend",
+    "ar": "عشيقة / حبيبة",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_give",
+    "en": "give",
+    "ar": "يعطي",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_glasses",
+    "en": "glasses",
+    "ar": "نظارات",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_go",
+    "en": "go",
+    "ar": "يذهب",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_going",
+    "en": "going",
+    "ar": "ذاهب / سوف",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_good",
+    "en": "good",
+    "ar": "جيد / يجيد",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_goodbye",
+    "en": "goodbye",
+    "ar": "وداعاً",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_grandfather",
+    "en": "grandfather",
+    "ar": "جد",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_grandmother",
+    "en": "grandmother",
+    "ar": "جدة",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_grandparents",
+    "en": "grandparents",
+    "ar": "جدان / الجد والجدة",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_great",
+    "en": "great",
+    "ar": "رائع",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_green",
+    "en": "green",
+    "ar": "أخضر",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_gray",
+    "en": "gray",
+    "ar": "رمادي",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_group",
+    "en": "group",
+    "ar": "مجموعة",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_grow",
+    "en": "grow",
+    "ar": "ينمو / يزرع",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_guess",
+    "en": "guess",
+    "ar": "يخمن / تخمين",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_guitar",
+    "en": "guitar",
+    "ar": "جيتار",
+    "lessonId": "lsn_a1_g_1"
+  },
+  {
+    "id": "w_a1_gym",
+    "en": "gym",
+    "ar": "صالة رياضية",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hair",
+    "en": "hair",
+    "ar": "شعر",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_half",
+    "en": "half",
+    "ar": "نصف",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hands",
+    "en": "hands",
+    "ar": "يدان / أيادي",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_happen",
+    "en": "happen",
+    "ar": "يحدث",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_happy",
+    "en": "happy",
+    "ar": "سعيد",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hard",
+    "en": "hard",
+    "ar": "صعب / بجد",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hat",
+    "en": "hat",
+    "ar": "قبعة",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hate",
+    "en": "hate",
+    "ar": "يكره",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_have",
+    "en": "have",
+    "ar": "يمتلك / يتناول / يجب أن",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_he",
+    "en": "he",
+    "ar": "هو",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_head",
+    "en": "head",
+    "ar": "رأس",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_health",
+    "en": "health",
+    "ar": "صحة",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_healthy",
+    "en": "healthy",
+    "ar": "صحي",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hear",
+    "en": "hear",
+    "ar": "يسمع",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hello",
+    "en": "hello",
+    "ar": "مرحبا",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_help",
+    "en": "help",
+    "ar": "يساعد / مساعدة",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_her",
+    "en": "her",
+    "ar": "ها (ضمير ملكية) / مفعول به للمؤنث",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_here",
+    "en": "here",
+    "ar": "هنا / هاهو",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hey",
+    "en": "hey",
+    "ar": "مهلاً / أنت (للنداء)",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hi",
+    "en": "hi",
+    "ar": "مرحبا",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_high",
+    "en": "high",
+    "ar": "مرتفع / عالي",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_him",
+    "en": "him",
+    "ar": "هـ (ضمير مفعول به للمذكر)",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_his",
+    "en": "his",
+    "ar": "هـ (ضمير ملكية للمذكر)",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_history",
+    "en": "history",
+    "ar": "تاريخ",
+    "lessonId": "lsn_a1_h_1"
+  },
+  {
+    "id": "w_a1_hobby",
+    "en": "hobby",
+    "ar": "هواية",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_holiday",
+    "en": "holiday",
+    "ar": "إجازة / عطلة",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_home",
+    "en": "home",
+    "ar": "منزل",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_homework",
+    "en": "homework",
+    "ar": "واجب منزلي",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_hope",
+    "en": "hope",
+    "ar": "يأمل / يرجو",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_horse",
+    "en": "horse",
+    "ar": "حصان",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_hospital",
+    "en": "hospital",
+    "ar": "مستشفى",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_hot",
+    "en": "hot",
+    "ar": "حار",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_hotel",
+    "en": "hotel",
+    "ar": "فندق",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_hour",
+    "en": "hour",
+    "ar": "ساعة / مدة زمنية",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_house",
+    "en": "house",
+    "ar": "منزل",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_how",
+    "en": "how",
+    "ar": "كيف / كم",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_however",
+    "en": "however",
+    "ar": "لكن / مع ذلك",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_hundred",
+    "en": "hundred",
+    "ar": "مئة",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_hungry",
+    "en": "hungry",
+    "ar": "جائع",
+    "lessonId": "lsn_a1_h_2"
+  },
+  {
+    "id": "w_a1_husband",
+    "en": "husband",
+    "ar": "زوج",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_i",
+    "en": "I",
+    "ar": "أنا",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_ice",
+    "en": "ice",
+    "ar": "ثلج / جليد",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_ice_cream",
+    "en": "ice cream",
+    "ar": "آيس كريم / مثلجات",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_idea",
+    "en": "idea",
+    "ar": "فكرة",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_if",
+    "en": "if",
+    "ar": "إذا / لو",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_important",
+    "en": "important",
+    "ar": "مهم",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_improve",
+    "en": "improve",
+    "ar": "يطور / يحسن",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_in",
+    "en": "in",
+    "ar": "في / بالداخل",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_include",
+    "en": "include",
+    "ar": "يتضمن / يشمل",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_information",
+    "en": "information",
+    "ar": "معلومات",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_interest",
+    "en": "interest",
+    "ar": "اهتمام / أثار اهتمام / مهتم",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_interesting",
+    "en": "interesting",
+    "ar": "مشوّق / مثير للاهتمام",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_internet",
+    "en": "internet",
+    "ar": "إنترنت",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_interview",
+    "en": "interview",
+    "ar": "مقابلة / يجري مقابلة",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_into",
+    "en": "into",
+    "ar": "بداخل / في",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_introduce",
+    "en": "introduce",
+    "ar": "يُعرف بنفسه",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_island",
+    "en": "island",
+    "ar": "جزيرة",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_it",
+    "en": "it",
+    "ar": "هو / هي لغير العاقل",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_possible",
+    "en": "possible",
+    "ar": "ممكن",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_post",
+    "en": "post",
+    "ar": "بريد / منشور / يرسل",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_potatoes",
+    "en": "potatoes",
+    "ar": "بطاطس",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_pounds",
+    "en": "pounds",
+    "ar": "جنيهات",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_practice",
+    "en": "practice",
+    "ar": "تمرين / يتدرب",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_prefer",
+    "en": "prefer",
+    "ar": "يفضل",
+    "lessonId": "lsn_a1_i_1"
+  },
+  {
+    "id": "w_a1_prepare",
+    "en": "prepare",
+    "ar": "تجهيز / يجهز",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_present",
+    "en": "present",
+    "ar": "هدية / حالي",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_pretty",
+    "en": "pretty",
+    "ar": "جميل / جداً / إلى حد ما",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_price",
+    "en": "price",
+    "ar": "سعر",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_probably",
+    "en": "probably",
+    "ar": "من المحتمل / على الأرجح",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_problem",
+    "en": "problem",
+    "ar": "مشكلة",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_product",
+    "en": "product",
+    "ar": "منتج",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_program",
+    "en": "program",
+    "ar": "برنامج",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_project",
+    "en": "project",
+    "ar": "مشروع",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_purple",
+    "en": "purple",
+    "ar": "أرجواني",
+    "lessonId": "lsn_a1_i_2"
+  },
+  {
+    "id": "w_a1_its",
+    "en": "its",
+    "ar": "ها / به (ضمير ملكية لغير العاقل)",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_jacket",
+    "en": "jacket",
+    "ar": "سترة",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_january",
+    "en": "January",
+    "ar": "شهر يناير",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_jeans",
+    "en": "jeans",
+    "ar": "جينز",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_job",
+    "en": "job",
+    "ar": "وظيفة",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_join",
+    "en": "join",
+    "ar": "ينضم",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_journey",
+    "en": "journey",
+    "ar": "رحلة",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_juice",
+    "en": "juice",
+    "ar": "عصير",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_july",
+    "en": "July",
+    "ar": "شهر يوليو",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_june",
+    "en": "June",
+    "ar": "شهر يونيو",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_just",
+    "en": "just",
+    "ar": "فقط / للتو",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_keep",
+    "en": "keep",
+    "ar": "يحتفظ / يبقي / يستمر",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_key",
+    "en": "key",
+    "ar": "مفتاح / أساسي / رئيسي",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_kilometers",
+    "en": "kilometers",
+    "ar": "كيلومترات",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_kind",
+    "en": "kind",
+    "ar": "نوع",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_kitchen",
+    "en": "kitchen",
+    "ar": "مطبخ",
+    "lessonId": "lsn_a1_j_1"
+  },
+  {
+    "id": "w_a1_know",
+    "en": "know",
+    "ar": "يعرف",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_land",
+    "en": "land",
+    "ar": "أرض",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_language",
+    "en": "language",
+    "ar": "لغة",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_large",
+    "en": "large",
+    "ar": "كبير",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_last",
+    "en": "last",
+    "ar": "آخر / ماضي",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_late",
+    "en": "late",
+    "ar": "متأخر",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_later",
+    "en": "later",
+    "ar": "لاحقاً",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_laugh",
+    "en": "laugh",
+    "ar": "يضحك / ضحكة",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_learn",
+    "en": "learn",
+    "ar": "يتعلم",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_leave",
+    "en": "leave",
+    "ar": "يغادر",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_left",
+    "en": "left",
+    "ar": "يسار / أيسر",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_legs",
+    "en": "legs",
+    "ar": "ساقين / أرجل",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_lesson",
+    "en": "lesson",
+    "ar": "درس",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_let",
+    "en": "let",
+    "ar": "يدع / يسمح",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_letter",
+    "en": "letter",
+    "ar": "حرف / رسالة",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_library",
+    "en": "library",
+    "ar": "مكتبة",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_lie",
+    "en": "lie",
+    "ar": "يستلقي",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_life",
+    "en": "life",
+    "ar": "حياة",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_light",
+    "en": "light",
+    "ar": "ضوء / إضاءة / فاتح (للون)",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_like",
+    "en": "like",
+    "ar": "يحب / مثل",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_line",
+    "en": "line",
+    "ar": "خط / سطر",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_lion",
+    "en": "lion",
+    "ar": "أسد",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_list",
+    "en": "list",
+    "ar": "قائمة / يذكر (سرد)",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_listen",
+    "en": "listen",
+    "ar": "يستمع",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_little",
+    "en": "little",
+    "ar": "قليل",
+    "lessonId": "lsn_a1_l_1"
+  },
+  {
+    "id": "w_a1_lives",
+    "en": "lives",
+    "ar": "يعيش",
+    "lessonId": "lsn_a1_l_2"
+  },
+  {
+    "id": "w_a1_local",
+    "en": "local",
+    "ar": "محلي",
+    "lessonId": "lsn_a1_l_2"
+  },
+  {
+    "id": "w_a1_long",
+    "en": "long",
+    "ar": "طويل / طويلاً",
+    "lessonId": "lsn_a1_l_2"
+  },
+  {
+    "id": "w_a1_look",
+    "en": "look",
+    "ar": "ينظر / يبحث / يبدو",
+    "lessonId": "lsn_a1_l_2"
+  },
+  {
+    "id": "w_a1_lose",
+    "en": "lose",
+    "ar": "يفقد / يخسر",
+    "lessonId": "lsn_a1_l_2"
+  },
+  {
+    "id": "w_a1_a_lot",
+    "en": "a lot",
+    "ar": "الكثير / كثيراً",
+    "lessonId": "lsn_a1_l_2"
+  },
+  {
+    "id": "w_a1_love",
+    "en": "love",
+    "ar": "حب / يحب",
+    "lessonId": "lsn_a1_l_2"
+  },
+  {
+    "id": "w_a1_lunch",
+    "en": "lunch",
+    "ar": "غداء",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_machine",
+    "en": "machine",
+    "ar": "آلة",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_magazines",
+    "en": "magazines",
+    "ar": "مجلات",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_main",
+    "en": "main",
+    "ar": "رئيسي",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_make",
+    "en": "make",
+    "ar": "يُعد / يجعل",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_man",
+    "en": "man",
+    "ar": "رجل",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_many",
+    "en": "many",
+    "ar": "العديد / كم عدد",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_map",
+    "en": "map",
+    "ar": "خريطة",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_march",
+    "en": "March",
+    "ar": "شهر مارس",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_market",
+    "en": "market",
+    "ar": "سوق",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_married",
+    "en": "married",
+    "ar": "متزوج",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_match",
+    "en": "match",
+    "ar": "مباراة / يطابق",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_may",
+    "en": "May",
+    "ar": "شهر مايو",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_maybe",
+    "en": "maybe",
+    "ar": "ربما",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_me",
+    "en": "me",
+    "ar": "ني (ضمير مفعول به)",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_meal",
+    "en": "meal",
+    "ar": "وجبة",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_mean",
+    "en": "mean",
+    "ar": "يقصد",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_meaning",
+    "en": "meaning",
+    "ar": "معنى",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_meat",
+    "en": "meat",
+    "ar": "لحم",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_meet",
+    "en": "meet",
+    "ar": "يقابل",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_meeting",
+    "en": "meeting",
+    "ar": "اجتماع / لقاء",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_member",
+    "en": "member",
+    "ar": "عضو",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_menu",
+    "en": "menu",
+    "ar": "قائمة الطعام",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_message",
+    "en": "message",
+    "ar": "رسالة",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_meters",
+    "en": "meters",
+    "ar": "أمتار",
+    "lessonId": "lsn_a1_m_1"
+  },
+  {
+    "id": "w_a1_midnight",
+    "en": "midnight",
+    "ar": "منتصف الليل",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_mile",
+    "en": "mile",
+    "ar": "ميل",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_milk",
+    "en": "milk",
+    "ar": "حليب",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_million",
+    "en": "million",
+    "ar": "مليون",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_minutes",
+    "en": "minutes",
+    "ar": "دقائق",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_minute",
+    "en": "minute",
+    "ar": "دقيقة / لحظة",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_miss",
+    "en": "miss",
+    "ar": "يفوت",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_mistake",
+    "en": "mistake",
+    "ar": "خطأ",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_model",
+    "en": "model",
+    "ar": "نموذج",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_modern",
+    "en": "modern",
+    "ar": "معاصرة / حديثة",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_moment",
+    "en": "moment",
+    "ar": "لحظة",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_monday",
+    "en": "Monday",
+    "ar": "يوم الاثنين",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_money",
+    "en": "money",
+    "ar": "مال / نقود",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_month",
+    "en": "month",
+    "ar": "شهر",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_more",
+    "en": "more",
+    "ar": "أكثر / المزيد",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_morning",
+    "en": "morning",
+    "ar": "صباح",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_most",
+    "en": "most",
+    "ar": "معظم / الأكثر",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_mother",
+    "en": "mother",
+    "ar": "أم / والدة",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_mountain",
+    "en": "mountain",
+    "ar": "جبل",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_mouse",
+    "en": "mouse",
+    "ar": "فأر / ماوس",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_mouth",
+    "en": "mouth",
+    "ar": "فم",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_move",
+    "en": "move",
+    "ar": "يتحرك",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_movie",
+    "en": "movie",
+    "ar": "فيلم",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_much",
+    "en": "much",
+    "ar": "الكثير / كثيراً",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_mum",
+    "en": "mum",
+    "ar": "أمي",
+    "lessonId": "lsn_a1_m_2"
+  },
+  {
+    "id": "w_a1_museum",
+    "en": "museum",
+    "ar": "متحف",
+    "lessonId": "lsn_a1_m_3"
+  },
+  {
+    "id": "w_a1_music",
+    "en": "music",
+    "ar": "موسيقى",
+    "lessonId": "lsn_a1_m_3"
+  },
+  {
+    "id": "w_a1_must",
+    "en": "must",
+    "ar": "يجب",
+    "lessonId": "lsn_a1_m_3"
+  },
+  {
+    "id": "w_a1_my",
+    "en": "my",
+    "ar": "ضمير ملكية (لي)",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_name",
+    "en": "name",
+    "ar": "اسم / يطلق اسم / يذكر اسم",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_natural",
+    "en": "natural",
+    "ar": "طبيعية",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_near",
+    "en": "near",
+    "ar": "بالقرب / قريب",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_need",
+    "en": "need",
+    "ar": "يحتاج",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_negative",
+    "en": "negative",
+    "ar": "سلبي",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_neighbor",
+    "en": "neighbor",
+    "ar": "جار",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_never",
+    "en": "never",
+    "ar": "أبداً",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_new",
+    "en": "new",
+    "ar": "جديد",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_news",
+    "en": "news",
+    "ar": "أخبار",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_newspaper",
+    "en": "newspaper",
+    "ar": "جريدة",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_next",
+    "en": "next",
+    "ar": "تالي / بعد ذلك / بجانب",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_nice",
+    "en": "nice",
+    "ar": "لطيف / جميل",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_night",
+    "en": "night",
+    "ar": "ليل",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_nineteen",
+    "en": "nineteen",
+    "ar": "تسعة عشر",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_ninety",
+    "en": "ninety",
+    "ar": "تسعين",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_no",
+    "en": "no",
+    "ar": "لا / أي",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_no_one",
+    "en": "no one",
+    "ar": "لا أحد",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_north",
+    "en": "north",
+    "ar": "شمال / شمالي / شمالاً",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_nose",
+    "en": "nose",
+    "ar": "أنف",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_not",
+    "en": "not",
+    "ar": "لا",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_note",
+    "en": "note",
+    "ar": "ملاحظة",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_nothing",
+    "en": "nothing",
+    "ar": "لا شيء",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_november",
+    "en": "November",
+    "ar": "شهر نوفمبر",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_now",
+    "en": "now",
+    "ar": "الآن",
+    "lessonId": "lsn_a1_n_1"
+  },
+  {
+    "id": "w_a1_number",
+    "en": "number",
+    "ar": "رقم",
+    "lessonId": "lsn_a1_n_2"
+  },
+  {
+    "id": "w_a1_nurse",
+    "en": "nurse",
+    "ar": "ممرض",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_oclock",
+    "en": "o'clock",
+    "ar": "ساعة (للوقت)",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_object",
+    "en": "object",
+    "ar": "قطعة / شيء",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_october",
+    "en": "October",
+    "ar": "شهر أكتوبر",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_of",
+    "en": "of",
+    "ar": "لـ / من (حرف جر)",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_off",
+    "en": "off",
+    "ar": "يطفئ / من على",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_office",
+    "en": "office",
+    "ar": "مكتب",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_often",
+    "en": "often",
+    "ar": "كثيراً ما / كم مرة",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_ok",
+    "en": "OK",
+    "ar": "على ما يرام / حسناً",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_old",
+    "en": "old",
+    "ar": "قديم / كبير في السن / عمر",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_on",
+    "en": "on",
+    "ar": "على / في (للأيام) / مضاءة",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_once",
+    "en": "once",
+    "ar": "مرة واحدة / سابقاً",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_one",
+    "en": "one",
+    "ar": "واحد / أحدهم / الشخص",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_onions",
+    "en": "onions",
+    "ar": "بصل",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_online",
+    "en": "online",
+    "ar": "عبر الإنترنت",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_only",
+    "en": "only",
+    "ar": "فقط / الوحيد",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_open",
+    "en": "open",
+    "ar": "مفتوح / يفتح",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_opinion",
+    "en": "opinion",
+    "ar": "رأي / وجهة نظر",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_opposite",
+    "en": "opposite",
+    "ar": "مقابل / متعاكس / عكس",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_or",
+    "en": "or",
+    "ar": "أم / أو",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_orange",
+    "en": "orange",
+    "ar": "برتقالة / برتقالي",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_order",
+    "en": "order",
+    "ar": "يطلب / ترتيب",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_other",
+    "en": "other",
+    "ar": "الآخر",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_our",
+    "en": "our",
+    "ar": "ضمير ملكية (لنا)",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_out",
+    "en": "out",
+    "ar": "نخرج / للخارج",
+    "lessonId": "lsn_a1_o_1"
+  },
+  {
+    "id": "w_a1_outside",
+    "en": "outside",
+    "ar": "في الخارج",
+    "lessonId": "lsn_a1_o_2"
+  },
+  {
+    "id": "w_a1_over",
+    "en": "over",
+    "ar": "فوق / على / أكثر من",
+    "lessonId": "lsn_a1_o_2"
+  },
+  {
+    "id": "w_a1_own",
+    "en": "own",
+    "ar": "خاص",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_page",
+    "en": "page",
+    "ar": "صفحة",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_paint",
+    "en": "paint",
+    "ar": "يطلي / طلاء / يرسم",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_painting",
+    "en": "painting",
+    "ar": "لوحة / الرسم",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_pair",
+    "en": "pair",
+    "ar": "زوج من",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_paper",
+    "en": "paper",
+    "ar": "ورق",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_paragraph",
+    "en": "paragraph",
+    "ar": "فقرة",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_parents",
+    "en": "parents",
+    "ar": "والدان",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_park",
+    "en": "park",
+    "ar": "متنزه / يوقف سيارته",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_part",
+    "en": "part",
+    "ar": "جزء",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_partner",
+    "en": "partner",
+    "ar": "شريك",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_party",
+    "en": "party",
+    "ar": "حفلة",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_passport",
+    "en": "passport",
+    "ar": "جواز سفر",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_past",
+    "en": "past",
+    "ar": "ماضي / الماضية / بعد / وللوقت",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_pay",
+    "en": "pay",
+    "ar": "يدفع",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_pen",
+    "en": "pen",
+    "ar": "قلم حبر",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_pencil",
+    "en": "pencil",
+    "ar": "قلم رصاص",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_people",
+    "en": "people",
+    "ar": "ناس",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_pepper",
+    "en": "pepper",
+    "ar": "فلفل",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_perfect",
+    "en": "perfect",
+    "ar": "مثالي",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_period",
+    "en": "period",
+    "ar": "فترة",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_person",
+    "en": "person",
+    "ar": "شخص",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_personal",
+    "en": "personal",
+    "ar": "شخصي",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_phone",
+    "en": "phone",
+    "ar": "هاتف / يتصل",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_photo",
+    "en": "photo",
+    "ar": "صورة",
+    "lessonId": "lsn_a1_p_1"
+  },
+  {
+    "id": "w_a1_photograph",
+    "en": "photograph",
+    "ar": "صورة",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_phrase",
+    "en": "phrase",
+    "ar": "عبارة",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_piano",
+    "en": "piano",
+    "ar": "بيانو",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_picture",
+    "en": "picture",
+    "ar": "صورة",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_piece",
+    "en": "piece",
+    "ar": "قطعة",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_pig",
+    "en": "pig",
+    "ar": "خنزير",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_pink",
+    "en": "pink",
+    "ar": "وردي",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_place",
+    "en": "place",
+    "ar": "مكان",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_plan",
+    "en": "plan",
+    "ar": "خطة / يعتزم / ينوي",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_plane",
+    "en": "plane",
+    "ar": "طائرة",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_plants",
+    "en": "plants",
+    "ar": "نباتات",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_play",
+    "en": "play",
+    "ar": "يلعب / يعزف / مسرحية",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_player",
+    "en": "player",
+    "ar": "لاعب",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_please",
+    "en": "please",
+    "ar": "من فضلك",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_point",
+    "en": "point",
+    "ar": "وجهة نظر",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_police",
+    "en": "police",
+    "ar": "شرطة",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_policeman",
+    "en": "policeman",
+    "ar": "شرطي",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_pool",
+    "en": "pool",
+    "ar": "حوض سباحة",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_poor",
+    "en": "poor",
+    "ar": "فقير",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_popular",
+    "en": "popular",
+    "ar": "شعبية / مشهور",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_positive",
+    "en": "positive",
+    "ar": "إيجابي",
+    "lessonId": "lsn_a1_p_2"
+  },
+  {
+    "id": "w_a1_put",
+    "en": "put",
+    "ar": "ضع / يضع",
+    "lessonId": "lsn_a1_q_1"
+  },
+  {
+    "id": "w_a1_quarter",
+    "en": "quarter",
+    "ar": "ربع",
+    "lessonId": "lsn_a1_q_1"
+  },
+  {
+    "id": "w_a1_question",
+    "en": "question",
+    "ar": "سؤال",
+    "lessonId": "lsn_a1_q_1"
+  },
+  {
+    "id": "w_a1_quick",
+    "en": "quick",
+    "ar": "سريع / بسرعة",
+    "lessonId": "lsn_a1_q_1"
+  },
+  {
+    "id": "w_a1_quiet",
+    "en": "quiet",
+    "ar": "هادئ",
+    "lessonId": "lsn_a1_q_1"
+  },
+  {
+    "id": "w_a1_quite",
+    "en": "quite",
+    "ar": "إلى حد ما",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_radio",
+    "en": "radio",
+    "ar": "راديو",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_rain",
+    "en": "rain",
+    "ar": "مطر / تمطر",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_reads",
+    "en": "reads",
+    "ar": "يقرأ",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_reader",
+    "en": "reader",
+    "ar": "قارئ",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_reading",
+    "en": "reading",
+    "ar": "القراءة",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_ready",
+    "en": "ready",
+    "ar": "مستعد / جاهز",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_real",
+    "en": "real",
+    "ar": "حقيقي",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_really",
+    "en": "really",
+    "ar": "حقاً / جداً",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_reason",
+    "en": "reason",
+    "ar": "سبب",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_red",
+    "en": "red",
+    "ar": "أحمر",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_relax",
+    "en": "relax",
+    "ar": "يسترخي",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_remember",
+    "en": "remember",
+    "ar": "يتذكر",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_repeat",
+    "en": "repeat",
+    "ar": "يكرر / يعيد",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_report",
+    "en": "report",
+    "ar": "تقرير",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_restaurant",
+    "en": "restaurant",
+    "ar": "مطعم",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_result",
+    "en": "result",
+    "ar": "نتيجة",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_return",
+    "en": "return",
+    "ar": "يعود / عودة",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_rice",
+    "en": "rice",
+    "ar": "أرز",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_rich",
+    "en": "rich",
+    "ar": "غني / ثري",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_ride",
+    "en": "ride",
+    "ar": "يركب",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_right",
+    "en": "right",
+    "ar": "يمين / صحيح / محق",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_river",
+    "en": "river",
+    "ar": "نهر",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_road",
+    "en": "road",
+    "ar": "طريق",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_room",
+    "en": "room",
+    "ar": "غرفة",
+    "lessonId": "lsn_a1_r_1"
+  },
+  {
+    "id": "w_a1_routine",
+    "en": "routine",
+    "ar": "روتين",
+    "lessonId": "lsn_a1_r_2"
+  },
+  {
+    "id": "w_a1_rule",
+    "en": "rule",
+    "ar": "قاعدة",
+    "lessonId": "lsn_a1_r_2"
+  },
+  {
+    "id": "w_a1_run",
+    "en": "run",
+    "ar": "يجري",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_sad",
+    "en": "sad",
+    "ar": "حزين",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_salad",
+    "en": "salad",
+    "ar": "سلطة",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_salt",
+    "en": "salt",
+    "ar": "ملح",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_same",
+    "en": "same",
+    "ar": "نفس / الشيء نفسه",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_sandwich",
+    "en": "sandwich",
+    "ar": "شطيرة",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_saturday",
+    "en": "Saturday",
+    "ar": "يوم السبت / أيام السبت",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_say",
+    "en": "say",
+    "ar": "يقول",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_school",
+    "en": "school",
+    "ar": "مدرسة",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_science",
+    "en": "science",
+    "ar": "العلم / العلوم",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_scientist",
+    "en": "scientist",
+    "ar": "عالم",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_second",
+    "en": "second",
+    "ar": "ثوان / لحظة / المركز الثاني",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_section",
+    "en": "section",
+    "ar": "جزء / قسم",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_see",
+    "en": "see",
+    "ar": "يرى",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_sell",
+    "en": "sell",
+    "ar": "يبيع / نبيع",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_send",
+    "en": "send",
+    "ar": "يرسل",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_sentence",
+    "en": "sentence",
+    "ar": "جملة",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_september",
+    "en": "September",
+    "ar": "شهر سبتمبر",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_seven",
+    "en": "seven",
+    "ar": "سبعة / السابعة",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_seventeen",
+    "en": "seventeen",
+    "ar": "سبعة عشر",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_seventy",
+    "en": "seventy",
+    "ar": "سبعين",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_share",
+    "en": "share",
+    "ar": "نتشارك / يتشارك",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_she",
+    "en": "she",
+    "ar": "هي / إنها",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_sheep",
+    "en": "sheep",
+    "ar": "أغنام",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_shirt",
+    "en": "shirt",
+    "ar": "قميص",
+    "lessonId": "lsn_a1_s_1"
+  },
+  {
+    "id": "w_a1_shoe",
+    "en": "shoe",
+    "ar": "حذاء / فردة حذاء",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_shop",
+    "en": "shop",
+    "ar": "محل / يتسوق / التسوق",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_short",
+    "en": "short",
+    "ar": "قصير",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_should",
+    "en": "should",
+    "ar": "يجب",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_shouldnt",
+    "en": "shouldn't",
+    "ar": "لا يجب",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_show",
+    "en": "show",
+    "ar": "برنامج / عرض / أراني / يُظهر",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_shower",
+    "en": "shower",
+    "ar": "دش / استحمام",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_sick",
+    "en": "sick",
+    "ar": "مريض",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_similar",
+    "en": "similar",
+    "ar": "متشابهة",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_sings",
+    "en": "sings",
+    "ar": "تغني",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_singer",
+    "en": "singer",
+    "ar": "مغني",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_sister",
+    "en": "sister",
+    "ar": "أخت",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_sit",
+    "en": "sit",
+    "ar": "يجلس",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_situation",
+    "en": "situation",
+    "ar": "وضع / موقف / حالة",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_six",
+    "en": "six",
+    "ar": "ستة",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_sixteen",
+    "en": "sixteen",
+    "ar": "ستة عشر / سادسة عشرة",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_sixty",
+    "en": "sixty",
+    "ar": "ستين",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_skill",
+    "en": "skill",
+    "ar": "مهارة",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_skirt",
+    "en": "skirt",
+    "ar": "تنورة",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_sleep",
+    "en": "sleep",
+    "ar": "ينام",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_slow",
+    "en": "slow",
+    "ar": "بطيء",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_small",
+    "en": "small",
+    "ar": "صغير / صغيرة",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_snake",
+    "en": "snake",
+    "ar": "ثعبان",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_snow",
+    "en": "snow",
+    "ar": "ثلج / تساقطت الثلوج",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_so",
+    "en": "so",
+    "ar": "جداً / لذا / إذن",
+    "lessonId": "lsn_a1_s_2"
+  },
+  {
+    "id": "w_a1_some",
+    "en": "some",
+    "ar": "بعض",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_someone",
+    "en": "someone",
+    "ar": "شخص ما / أحدكم",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_something",
+    "en": "something",
+    "ar": "شيء",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_sometimes",
+    "en": "sometimes",
+    "ar": "أحياناً",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_son",
+    "en": "son",
+    "ar": "ابن",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_song",
+    "en": "song",
+    "ar": "أغنية",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_soon",
+    "en": "soon",
+    "ar": "قريباً",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_sorry",
+    "en": "sorry",
+    "ar": "أسف / يؤسفني",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_sound",
+    "en": "sound",
+    "ar": "صوت / يبدو",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_soup",
+    "en": "soup",
+    "ar": "حساء",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_south",
+    "en": "south",
+    "ar": "جنوب / جنوبي",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_space",
+    "en": "space",
+    "ar": "فضاء / مكان",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_speak",
+    "en": "speak",
+    "ar": "تتحدث",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_special",
+    "en": "special",
+    "ar": "مميز",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_spell",
+    "en": "spell",
+    "ar": "تهجئة / يتهجى",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_spent",
+    "en": "spent",
+    "ar": "أنفق / قضى",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_sport",
+    "en": "sport",
+    "ar": "رياضة",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_spring",
+    "en": "spring",
+    "ar": "ربيع",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_stand",
+    "en": "stand",
+    "ar": "يقف",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_star",
+    "en": "star",
+    "ar": "نجم",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_statement",
+    "en": "statement",
+    "ar": "بيان / كلام",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_station",
+    "en": "station",
+    "ar": "محطة",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_stay",
+    "en": "stay",
+    "ar": "يبقى",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_still",
+    "en": "still",
+    "ar": "مازال",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_stop",
+    "en": "stop",
+    "ar": "يوقف / موقف",
+    "lessonId": "lsn_a1_s_3"
+  },
+  {
+    "id": "w_a1_stories",
+    "en": "stories",
+    "ar": "قصص",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_strong",
+    "en": "strong",
+    "ar": "قوي",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_student",
+    "en": "student",
+    "ar": "طالب",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_study",
+    "en": "study",
+    "ar": "أدرس / دراسة",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_style",
+    "en": "style",
+    "ar": "أسلوب",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_subject",
+    "en": "subject",
+    "ar": "موضوع / مادة",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_success",
+    "en": "success",
+    "ar": "نجاح",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_summer",
+    "en": "summer",
+    "ar": "صيف",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_sun",
+    "en": "sun",
+    "ar": "شمس",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_sunday",
+    "en": "Sunday",
+    "ar": "يوم الأحد",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_supermarket",
+    "en": "supermarket",
+    "ar": "سوبر ماركت",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_sure",
+    "en": "sure",
+    "ar": "متأكد",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_sweater",
+    "en": "sweater",
+    "ar": "سترة",
+    "lessonId": "lsn_a1_s_4"
+  },
+  {
+    "id": "w_a1_swim",
+    "en": "swim",
+    "ar": "يسبح / سباحة / سبح",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_t_shirts",
+    "en": "T-shirts",
+    "ar": "قمصان (تي شيرت)",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_table",
+    "en": "table",
+    "ar": "طاولة",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_take",
+    "en": "take",
+    "ar": "يأخذ / يلتقط / يستغرق / أخذ (استقل)",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_talk",
+    "en": "talk",
+    "ar": "يتحدث",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_tall",
+    "en": "tall",
+    "ar": "طويل",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_tea",
+    "en": "tea",
+    "ar": "شاي",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_teach",
+    "en": "teach",
+    "ar": "يدرس / يعلم / معلم",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_team",
+    "en": "team",
+    "ar": "فريق",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_teenager",
+    "en": "teenager",
+    "ar": "مراهق",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_telephone",
+    "en": "telephone",
+    "ar": "هاتف / يتصل",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_television",
+    "en": "television",
+    "ar": "تلفاز",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_tell",
+    "en": "tell",
+    "ar": "يخبر",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_ten",
+    "en": "ten",
+    "ar": "عشر",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_tennis",
+    "en": "tennis",
+    "ar": "تنس",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_terrible",
+    "en": "terrible",
+    "ar": "سيء / مروع",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_test",
+    "en": "test",
+    "ar": "اختبار / يختبر",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_text",
+    "en": "text",
+    "ar": "نص",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_than",
+    "en": "than",
+    "ar": "من (للمقارنة)",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_thanks",
+    "en": "thanks",
+    "ar": "شكر / شكراً",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_that",
+    "en": "that",
+    "ar": "أن / ذلك / الذي",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_the",
+    "en": "the",
+    "ar": "الـ (أداة تعريف)",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_theatre",
+    "en": "theatre",
+    "ar": "مسرح",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_their",
+    "en": "their",
+    "ar": "هم (ضمير ملكية)",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_them",
+    "en": "them",
+    "ar": "هم (ضمير مفعول به)",
+    "lessonId": "lsn_a1_t_1"
+  },
+  {
+    "id": "w_a1_then",
+    "en": "then",
+    "ar": "ثم / في ذلك الوقت",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_there_is",
+    "en": "there is",
+    "ar": "هنالك / يوجد",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_they",
+    "en": "they",
+    "ar": "هم",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_thing",
+    "en": "thing",
+    "ar": "شيء / أمور",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_think",
+    "en": "think",
+    "ar": "يعتقد / يفكر",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_thirsty",
+    "en": "thirsty",
+    "ar": "عطشان / يشعر بالعطش",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_third",
+    "en": "third",
+    "ar": "الثالث",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_thirteen",
+    "en": "thirteen",
+    "ar": "ثلاثة عشر",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_thirty",
+    "en": "thirty",
+    "ar": "ثلاثين",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_this",
+    "en": "this",
+    "ar": "هذا",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_thousand",
+    "en": "thousand",
+    "ar": "ألف",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_three",
+    "en": "three",
+    "ar": "ثلاثة",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_through",
+    "en": "through",
+    "ar": "عبر / خلال",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_thursday",
+    "en": "Thursday",
+    "ar": "يوم الخميس",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_ticket",
+    "en": "ticket",
+    "ar": "تذكرة",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_time",
+    "en": "time",
+    "ar": "وقت / مرة",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_tired",
+    "en": "tired",
+    "ar": "متعب",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_title",
+    "en": "title",
+    "ar": "عنوان / اسم",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_to",
+    "en": "to",
+    "ar": "إلى / أن / على",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_today",
+    "en": "today",
+    "ar": "اليوم",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_together",
+    "en": "together",
+    "ar": "معاً",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_toilet",
+    "en": "toilet",
+    "ar": "مرحاض",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_tomato",
+    "en": "tomato",
+    "ar": "طماطم",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_tomorrow",
+    "en": "tomorrow",
+    "ar": "غداً",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_tonight",
+    "en": "tonight",
+    "ar": "الليلة / هذا المساء",
+    "lessonId": "lsn_a1_t_2"
+  },
+  {
+    "id": "w_a1_too",
+    "en": "too",
+    "ar": "جداً / أيضاً",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_tooth",
+    "en": "tooth",
+    "ar": "سن",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_topic",
+    "en": "topic",
+    "ar": "موضوع",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_tourists",
+    "en": "tourists",
+    "ar": "سياح",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_town",
+    "en": "town",
+    "ar": "بلدة",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_traffic_light",
+    "en": "traffic light",
+    "ar": "إشارة المرور",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_train",
+    "en": "train",
+    "ar": "قطار",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_travel",
+    "en": "travel",
+    "ar": "يسافر / سفريات",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_trees",
+    "en": "trees",
+    "ar": "أشجار",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_trip",
+    "en": "trip",
+    "ar": "رحلة",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_trousers",
+    "en": "trousers",
+    "ar": "بنطال",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_true",
+    "en": "true",
+    "ar": "صحيح / حقيقي",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_try",
+    "en": "try",
+    "ar": "حاول / جرب",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_tuesday",
+    "en": "Tuesday",
+    "ar": "يوم الثلاثاء",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_turn",
+    "en": "turn",
+    "ar": "استدار / دور",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_tv",
+    "en": "TV",
+    "ar": "تلفاز",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_twelve",
+    "en": "twelve",
+    "ar": "اثنتي عشرة",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_twenty_five",
+    "en": "twenty-five",
+    "ar": "خمسة وعشرون",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_twice",
+    "en": "twice",
+    "ar": "مرتين",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_two",
+    "en": "two",
+    "ar": "اثنان",
+    "lessonId": "lsn_a1_t_3"
+  },
+  {
+    "id": "w_a1_types",
+    "en": "types",
+    "ar": "أنواع",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_umbrella",
+    "en": "umbrella",
+    "ar": "مظلة",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_uncle",
+    "en": "uncle",
+    "ar": "عم / خال",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_under",
+    "en": "under",
+    "ar": "تحت",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_understand",
+    "en": "understand",
+    "ar": "تفهم / يفهم",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_university",
+    "en": "university",
+    "ar": "جامعة",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_up",
+    "en": "up",
+    "ar": "أعلى / قف",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_upstairs",
+    "en": "upstairs",
+    "ar": "الطابق العلوي",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_us",
+    "en": "us",
+    "ar": "نا (ضمير مفعول به)",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_use",
+    "en": "use",
+    "ar": "يستخدم",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_useful",
+    "en": "useful",
+    "ar": "مفيدة",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_usually",
+    "en": "usually",
+    "ar": "عادة",
+    "lessonId": "lsn_a1_u_1"
+  },
+  {
+    "id": "w_a1_until",
+    "en": "until",
+    "ar": "حتى / إلى أن",
+    "lessonId": "lsn_a1_v_1"
+  },
+  {
+    "id": "w_a1_vacation",
+    "en": "vacation",
+    "ar": "إجازة",
+    "lessonId": "lsn_a1_v_1"
+  },
+  {
+    "id": "w_a1_vegetables",
+    "en": "vegetables",
+    "ar": "خضروات",
+    "lessonId": "lsn_a1_v_1"
+  },
+  {
+    "id": "w_a1_very",
+    "en": "very",
+    "ar": "جداً",
+    "lessonId": "lsn_a1_v_1"
+  },
+  {
+    "id": "w_a1_video",
+    "en": "video",
+    "ar": "فيديو",
+    "lessonId": "lsn_a1_v_1"
+  },
+  {
+    "id": "w_a1_village",
+    "en": "village",
+    "ar": "قرية",
+    "lessonId": "lsn_a1_v_1"
+  },
+  {
+    "id": "w_a1_visit",
+    "en": "visit",
+    "ar": "زار / زيارة",
+    "lessonId": "lsn_a1_v_1"
+  },
+  {
+    "id": "w_a1_visitor",
+    "en": "visitor",
+    "ar": "زائر",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_wait",
+    "en": "wait",
+    "ar": "ينتظر",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_waiter",
+    "en": "waiter",
+    "ar": "نادل",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_wake_up",
+    "en": "wake up",
+    "ar": "يستيقظ",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_walk",
+    "en": "walk",
+    "ar": "يمشي / المشي",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_wall",
+    "en": "wall",
+    "ar": "حائط",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_want",
+    "en": "want",
+    "ar": "أريد",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_warm",
+    "en": "warm",
+    "ar": "دافئ",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_wash",
+    "en": "wash",
+    "ar": "يغسل",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_watch",
+    "en": "watch",
+    "ar": "ساعة يد / يشاهد",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_water",
+    "en": "water",
+    "ar": "ماء",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_way",
+    "en": "way",
+    "ar": "طريقة / طريق",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_we",
+    "en": "we",
+    "ar": "نحن",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_wear",
+    "en": "wear",
+    "ar": "يلبس / يرتدي",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_weather",
+    "en": "weather",
+    "ar": "طقس",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_website",
+    "en": "website",
+    "ar": "موقع إلكتروني",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_wednesday",
+    "en": "Wednesday",
+    "ar": "يوم الأربعاء",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_week",
+    "en": "week",
+    "ar": "أسبوع",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_weekend",
+    "en": "weekend",
+    "ar": "عطلة نهاية الأسبوع",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_welcome",
+    "en": "welcome",
+    "ar": "مرحباً / ترحب",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_well",
+    "en": "well",
+    "ar": "بشكل جيد / حسناً",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_west",
+    "en": "west",
+    "ar": "غرب / غربي / غرباً",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_what",
+    "en": "what",
+    "ar": "ما / ماذا",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_when",
+    "en": "when",
+    "ar": "متى / عندما",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_where",
+    "en": "where",
+    "ar": "أين / حيث",
+    "lessonId": "lsn_a1_w_1"
+  },
+  {
+    "id": "w_a1_which",
+    "en": "which",
+    "ar": "أي / الذي",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_who",
+    "en": "who",
+    "ar": "من / الذي",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_why",
+    "en": "why",
+    "ar": "لماذا / سبب",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_white",
+    "en": "white",
+    "ar": "أبيض",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_wife",
+    "en": "wife",
+    "ar": "زوجة",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_will",
+    "en": "will",
+    "ar": "سوف / هل (للمستقبل)",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_win",
+    "en": "win",
+    "ar": "يفوز",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_window",
+    "en": "window",
+    "ar": "نافذة / واجهة",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_wine",
+    "en": "wine",
+    "ar": "خمر",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_winter",
+    "en": "winter",
+    "ar": "شتاء",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_with",
+    "en": "with",
+    "ar": "مع / بـ",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_without",
+    "en": "without",
+    "ar": "بدون",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_woman",
+    "en": "woman",
+    "ar": "امرأة",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_wonderful",
+    "en": "wonderful",
+    "ar": "رائع",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_word",
+    "en": "word",
+    "ar": "كلمة",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_work",
+    "en": "work",
+    "ar": "عمل / يعمل",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_workers",
+    "en": "workers",
+    "ar": "عمال",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_world",
+    "en": "world",
+    "ar": "عالم",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_would",
+    "en": "would",
+    "ar": "كان / سي / يود / هل ترغب",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_write",
+    "en": "write",
+    "ar": "يكتب",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_writer",
+    "en": "writer",
+    "ar": "كاتب / كاتبة",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_writing",
+    "en": "writing",
+    "ar": "الكتابة",
+    "lessonId": "lsn_a1_w_2"
+  },
+  {
+    "id": "w_a1_wrong",
+    "en": "wrong",
+    "ar": "خاطئ / خاطئة",
+    "lessonId": "lsn_a1_y_1"
+  },
+  {
+    "id": "w_a1_yeah",
+    "en": "yeah",
+    "ar": "نعم",
+    "lessonId": "lsn_a1_y_1"
+  },
+  {
+    "id": "w_a1_yellow",
+    "en": "yellow",
+    "ar": "أصفر",
+    "lessonId": "lsn_a1_y_1"
+  },
+  {
+    "id": "w_a1_yes",
+    "en": "yes",
+    "ar": "نعم",
+    "lessonId": "lsn_a1_y_1"
+  },
+  {
+    "id": "w_a1_yesterday",
+    "en": "yesterday",
+    "ar": "بالأمس / أمس",
+    "lessonId": "lsn_a1_y_1"
+  },
+  {
+    "id": "w_a1_you",
+    "en": "you",
+    "ar": "أنت / أنتم",
+    "lessonId": "lsn_a1_y_1"
+  },
+  {
+    "id": "w_a1_young",
+    "en": "young",
+    "ar": "صغير في السن",
+    "lessonId": "lsn_a1_y_1"
+  },
+  {
+    "id": "w_a1_your",
+    "en": "your",
+    "ar": "ضمير ملكية (لك / لكم)",
+    "lessonId": "lsn_a1_y_1"
+  },
+  {
+    "id": "w_a1_yourself",
+    "en": "yourself",
+    "ar": "نفسك",
+    "lessonId": "lsn_a1_y_1"
+  }
+]

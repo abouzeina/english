@@ -1,0 +1,171 @@
+{
+  "id": "lsn_a2_c_4",
+  "levelId": "lvl_2",
+  "slug": "c-words-4",
+  "title": "Unit 9: C Words - Part 4",
+  "titleAr": "الوحدة 9: كلمات حرف C - الجزء 4",
+  "description": "Build on your A2 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف C.",
+  "order": 9,
+  "wordCount": 7,
+  "words": [
+    {
+      "id": "w_a2_criminal",
+      "en": "criminal",
+      "ar": "مجرم",
+      "pronunciation": "/ krım-ə-nəl/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was a dangerous criminal.",
+          "ar": "كان مجرمًا خطيرًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_cross",
+      "en": "cross",
+      "ar": "تعبر / علامة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Take care when you cross the road.",
+          "ar": "توخى الحذر عندما تعبر الطريق :"
+        },
+        {
+          "en": "I've put a cross on the map.",
+          "ar": "لقد وضعت علامة ( x ) على الخريطة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_crowd",
+      "en": "crowd",
+      "ar": "حشد",
+      "pronunciation": "/kraud/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He disappeared into the crowd.",
+          "ar": "اختفى وسط الحشد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_crowded",
+      "en": "crowded",
+      "ar": "مزدحما",
+      "pronunciation": "/ krau-dıd/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The train was very crowded.",
+          "ar": "كان القطار مزدحما جدا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_cry",
+      "en": "cry",
+      "ar": "تبكي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You made your mother cry.",
+          "ar": "أنت جعلت أمك تبكي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_cupboard",
+      "en": "cupboard",
+      "ar": "خزانة",
+      "pronunciation": "/ kab-ərd/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please put it in the cupboard.",
+          "ar": "من فضلك ضعه في الخزانة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_curly",
+      "en": "curly",
+      "ar": "مجعد",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She has curly blonde hair.",
+          "ar": "لديها شعر أشقر مجعد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

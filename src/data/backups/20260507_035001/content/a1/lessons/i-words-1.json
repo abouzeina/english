@@ -1,0 +1,619 @@
+{
+  "id": "lsn_a1_i_1",
+  "levelId": "lvl_1",
+  "title": "I Words - Part 1",
+  "slug": "i-words-1",
+  "order": 19,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف I - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter I.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف I.",
+  "words": [
+    {
+      "id": "w_a1_husband",
+      "lessonId": "lsn_a1_i_1",
+      "en": "husband",
+      "translation": "زوج",
+      "ar": "زوج",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My husband loves to cook.",
+          "ar": "زوجي يحب الطبخ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_i",
+      "lessonId": "lsn_a1_i_1",
+      "en": "I",
+      "translation": "أنا",
+      "ar": "أنا",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I will call you later.",
+          "ar": "سأتصل بك لاحقاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ice",
+      "lessonId": "lsn_a1_i_1",
+      "en": "ice",
+      "translation": "ثلج / جليد",
+      "ar": "ثلج / جليد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need more ice in my juice.",
+          "ar": "أحتاج إلى المزيد من الثلج في عصيري."
+        },
+        {
+          "en": "The ice will break if you walk on it.",
+          "ar": "سوف ينكسر الجليد إذا مشيت عليه."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ice_cream",
+      "lessonId": "lsn_a1_i_1",
+      "en": "ice cream",
+      "translation": "آيس كريم / مثلجات",
+      "ar": "آيس كريم / مثلجات",
+      "pronunciation": "/'tfok-lət, 'tfo kələt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love chocolate ice cream.",
+          "ar": "أحب آيس كريم الشوكولاتة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_idea",
+      "lessonId": "lsn_a1_i_1",
+      "en": "idea",
+      "translation": "فكرة",
+      "ar": "فكرة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That's a great idea !!",
+          "ar": "هذه فكرة رائعة !!"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_if",
+      "lessonId": "lsn_a1_i_1",
+      "en": "if",
+      "translation": "إذا / لو",
+      "ar": "إذا / لو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "If you need help ask me.",
+          "ar": "إن كنت بحاجة إلى مساعدة فاطلبها مني."
+        },
+        {
+          "en": "Imagine if we could fly.",
+          "ar": "تخيل لو كان بإمكاننا الطيران."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_important",
+      "lessonId": "lsn_a1_i_1",
+      "en": "important",
+      "translation": "مهم",
+      "ar": "مهم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Family is always important.",
+          "ar": "العائلة مهمة دائماً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_improve",
+      "lessonId": "lsn_a1_i_1",
+      "en": "improve",
+      "translation": "يطور / يحسن",
+      "ar": "يطور / يحسن",
+      "pronunciation": "/im'pruv/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to improve my English skills.",
+          "ar": "أريد أن أطور مهاراتي في اللغة الإنجليزية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_in",
+      "lessonId": "lsn_a1_i_1",
+      "en": "in",
+      "translation": "في / بالداخل",
+      "ar": "في / بالداخل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The keys are in my bag.",
+          "ar": "المفاتيح في حقيبتي."
+        },
+        {
+          "en": "My mother was born in 1975.",
+          "ar": "ولدت أمي في عام 1975."
+        },
+        {
+          "en": "The train will arrive in ten minutes.",
+          "ar": "سيصل القطار بعد عشر دقائق."
+        },
+        {
+          "en": "You look amazing in that dress.",
+          "ar": "تبدين رائعة بهذا الفستان."
+        },
+        {
+          "en": "The cat ran in quickly.",
+          "ar": "ركضت القطة للداخل بسرعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_include",
+      "lessonId": "lsn_a1_i_1",
+      "en": "include",
+      "translation": "يتضمن / يشمل",
+      "ar": "يتضمن / يشمل",
+      "pronunciation": "/ın klud/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The list will include your name.",
+          "ar": "سوف تتضمن القائمة اسمك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_information",
+      "lessonId": "lsn_a1_i_1",
+      "en": "information",
+      "translation": "معلومات",
+      "ar": "معلومات",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This information is very important.",
+          "ar": "هذه المعلومات مهمة جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_interest",
+      "lessonId": "lsn_a1_i_1",
+      "en": "interest",
+      "translation": "اهتمام / أثار اهتمام / مهتم",
+      "ar": "اهتمام / أثار اهتمام / مهتم",
+      "pronunciation": "/'ın trest/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His interest in science grew.",
+          "ar": "ازداد اهتمامه بالعلوم."
+        },
+        {
+          "en": "The idea interested him a lot.",
+          "ar": "أثارت الفكرة اهتمامه كثيراً."
+        },
+        {
+          "en": "Are you interested in sports?",
+          "ar": "هل أنت مهتم بالرياضة؟"
+        },
+        {
+          "en": "I am interested in working here.",
+          "ar": "أنا مهتم بالعمل هنا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_interesting",
+      "lessonId": "lsn_a1_i_1",
+      "en": "interesting",
+      "translation": "مشوّق / مثير للاهتمام",
+      "ar": "مشوّق / مثير للاهتمام",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The movie was very interesting.",
+          "ar": "كان الفيلم مشوقاً للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_internet",
+      "lessonId": "lsn_a1_i_1",
+      "en": "internet",
+      "translation": "إنترنت",
+      "ar": "إنترنت",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I found it on the internet.",
+          "ar": "وجدتها على الإنترنت."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_interview",
+      "lessonId": "lsn_a1_i_1",
+      "en": "interview",
+      "translation": "مقابلة / يجري مقابلة",
+      "ar": "مقابلة / يجري مقابلة",
+      "pronunciation": "/'ın tər vju/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He prepared well for the interview.",
+          "ar": "لقد استعد جيداً للمقابلة."
+        },
+        {
+          "en": "She will interview for the job.",
+          "ar": "سوف تجري مقابلة عمل للوظيفة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_into",
+      "lessonId": "lsn_a1_i_1",
+      "en": "into",
+      "translation": "بداخل / في",
+      "ar": "بداخل / في",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They looked into the box.",
+          "ar": "نظروا بداخل الصندوق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_introduce",
+      "lessonId": "lsn_a1_i_1",
+      "en": "introduce",
+      "translation": "يُعرف بنفسه",
+      "ar": "يُعرف بنفسه",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let me introduce myself.",
+          "ar": "دعوني أعرف بنفسي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_island",
+      "lessonId": "lsn_a1_i_1",
+      "en": "island",
+      "translation": "جزيرة",
+      "ar": "جزيرة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They live on a small island.",
+          "ar": "يعيشون على جزيرة صغيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_it",
+      "lessonId": "lsn_a1_i_1",
+      "en": "it",
+      "translation": "هو / هي لغير العاقل",
+      "ar": "هو / هي لغير العاقل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I bought it as a birthday present.",
+          "ar": "اشتريته كهدية عيد ميلاد."
+        },
+        {
+          "en": "It is a beautiful day.",
+          "ar": "إنه يوم جميل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_possible",
+      "lessonId": "lsn_a1_i_1",
+      "en": "possible",
+      "translation": "ممكن",
+      "ar": "ممكن",
+      "pronunciation": "/'pa-sə bəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Is it possible to finish today?",
+          "ar": "هل من الممكن أن ننتهي اليوم؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_post",
+      "lessonId": "lsn_a1_i_1",
+      "en": "post",
+      "translation": "بريد / منشور / يرسل",
+      "ar": "بريد / منشور / يرسل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "There's a n the post.",
+          "ar": "هناك رسالة في البريد."
+        },
+        {
+          "en": "My post got many likes.",
+          "ar": "حصل منشوري على العديد من الإعجابات."
+        },
+        {
+          "en": "I forgot to post the letter.",
+          "ar": "لقد نسيت أن أرسل الرسالة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_potatoes",
+      "lessonId": "lsn_a1_i_1",
+      "en": "potatoes",
+      "translation": "بطاطس",
+      "ar": "بطاطس",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need to buy some potatoes.",
+          "ar": "أحتاج إلى شراء بعض البطاطس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_pounds",
+      "lessonId": "lsn_a1_i_1",
+      "en": "pounds",
+      "translation": "جنيهات",
+      "ar": "جنيهات",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The ticket costs 30 pounds.",
+          "ar": "تبلغ تكلفة التذكرة 30 جنيهاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_practice",
+      "lessonId": "lsn_a1_i_1",
+      "en": "practice",
+      "translation": "تمرين / يتدرب",
+      "ar": "تمرين / يتدرب",
+      "pronunciation": "/præk tis/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I have practice after school.",
+          "ar": "لدي تمرين بعد المدرسة."
+        },
+        {
+          "en": "Practice writing in English.",
+          "ar": "تدرب على الكتابة باللغة الإنجليزية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_prefer",
+      "lessonId": "lsn_a1_i_1",
+      "en": "prefer",
+      "translation": "يفضل",
+      "ar": "يفضل",
+      "pronunciation": "/pri'f3r/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I prefer tea over coffee.",
+          "ar": "أفضل الشاي على القهوة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

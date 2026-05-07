@@ -1,0 +1,603 @@
+{
+  "id": "lsn_a1_s_2",
+  "levelId": "lvl_1",
+  "title": "S Words - Part 2",
+  "slug": "s-words-2",
+  "order": 37,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف S - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_a1_shoe",
+      "lessonId": "lsn_a1_s_2",
+      "en": "shoe",
+      "translation": "حذاء / فردة حذاء",
+      "ar": "حذاء / فردة حذاء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I lost my left shoe.",
+          "ar": "لقد فقدت فردة حذائي اليسرى."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_shop",
+      "lessonId": "lsn_a1_s_2",
+      "en": "shop",
+      "translation": "محل / يتسوق / التسوق",
+      "ar": "محل / يتسوق / التسوق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We closed the shop early today.",
+          "ar": "لقد أغلقنا المحل باكراً اليوم."
+        },
+        {
+          "en": "I shop once a month.",
+          "ar": "أتسوق مرة واحدة في الشهر."
+        },
+        {
+          "en": "I like to go shopping at night.",
+          "ar": "أحب الذهاب للتسوق ليلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_short",
+      "lessonId": "lsn_a1_s_2",
+      "en": "short",
+      "translation": "قصير",
+      "ar": "قصير",
+      "pronunciation": "/fort/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The break was too short.",
+          "ar": "الاستراحة قصيرة جداً."
+        },
+        {
+          "en": "She has short hair.",
+          "ar": "لديها شعر قصير."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_should",
+      "lessonId": "lsn_a1_s_2",
+      "en": "should",
+      "translation": "يجب",
+      "ar": "يجب",
+      "pronunciation": "/fud/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We should go home now.",
+          "ar": "يجب أن نعود للمنزل الآن."
+        },
+        {
+          "en": "Should I call you?",
+          "ar": "هل يجب أن أتصل بك؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_shouldnt",
+      "lessonId": "lsn_a1_s_2",
+      "en": "shouldn't",
+      "translation": "لا يجب",
+      "ar": "لا يجب",
+      "pronunciation": "/fud/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Shouldn't we clean the house?",
+          "ar": "ألا يجب أن ننظف المنزل؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_show",
+      "lessonId": "lsn_a1_s_2",
+      "en": "show",
+      "translation": "برنامج / عرض / أراني / يُظهر",
+      "ar": "برنامج / عرض / أراني / يُظهر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He showed me his car.",
+          "ar": "لقد أراني سيارته."
+        },
+        {
+          "en": "I am watching a cooking show.",
+          "ar": "أنا أشاهد (حالياً) برنامج طبخ."
+        },
+        {
+          "en": "Her face shows her feelings.",
+          "ar": "وجهها يظهر مشاعرها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_shower",
+      "lessonId": "lsn_a1_s_2",
+      "en": "shower",
+      "translation": "دش / استحمام",
+      "ar": "دش / استحمام",
+      "pronunciation": "/'  er/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need a quick shower.",
+          "ar": "أحتاج إلى دش سريع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sick",
+      "lessonId": "lsn_a1_s_2",
+      "en": "sick",
+      "translation": "مريض",
+      "ar": "مريض",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You look very sick.",
+          "ar": "تبدين مريضة بشدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_similar",
+      "lessonId": "lsn_a1_s_2",
+      "en": "similar",
+      "translation": "متشابهة",
+      "ar": "متشابهة",
+      "pronunciation": "/'sım əلər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "These houses look similar.",
+          "ar": "تبدو هذه المنازل متشابهة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sings",
+      "lessonId": "lsn_a1_s_2",
+      "en": "sings",
+      "translation": "تغني",
+      "ar": "تغني",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She sings very well.",
+          "ar": "إنها تغني بشكل جيد جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_singer",
+      "lessonId": "lsn_a1_s_2",
+      "en": "singer",
+      "translation": "مغني",
+      "ar": "مغني",
+      "pronunciation": "/'sın ər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He became a famous singer.",
+          "ar": "أصبح مغنياً مشهوراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sister",
+      "lessonId": "lsn_a1_s_2",
+      "en": "sister",
+      "translation": "أخت",
+      "ar": "أخت",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My sister is a doctor.",
+          "ar": "أختي طبيبة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sit",
+      "lessonId": "lsn_a1_s_2",
+      "en": "sit",
+      "translation": "يجلس",
+      "ar": "يجلس",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Sit here and wait.",
+          "ar": "اجلس هنا وانتظر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_situation",
+      "lessonId": "lsn_a1_s_2",
+      "en": "situation",
+      "translation": "وضع / موقف / حالة",
+      "ar": "وضع / موقف / حالة",
+      "pronunciation": "/sıtf u'er fən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I understand your situation.",
+          "ar": "أنا أتفهم وضعك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_six",
+      "lessonId": "lsn_a1_s_2",
+      "en": "six",
+      "translation": "ستة",
+      "ar": "ستة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The trip will take six hours.",
+          "ar": "ستستغرق الرحلة ست ساعات."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sixteen",
+      "lessonId": "lsn_a1_s_2",
+      "en": "sixteen",
+      "translation": "ستة عشر / سادسة عشرة",
+      "ar": "ستة عشر / سادسة عشرة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He is sixteen years old.",
+          "ar": "إنه في السادسة عشرة من عمره."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sixty",
+      "lessonId": "lsn_a1_s_2",
+      "en": "sixty",
+      "translation": "ستين",
+      "ar": "ستين",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The bag costs sixty dollars.",
+          "ar": "تبلغ تكلفة الحقيبة ستين دولاراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_skill",
+      "lessonId": "lsn_a1_s_2",
+      "en": "skill",
+      "translation": "مهارة",
+      "ar": "مهارة",
+      "pronunciation": "/skıl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I learned a new skill.",
+          "ar": "لقد تعلمت مهارة جديدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_skirt",
+      "lessonId": "lsn_a1_s_2",
+      "en": "skirt",
+      "translation": "تنورة",
+      "ar": "تنورة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She wears a blue skirt.",
+          "ar": "إنها ترتدي تنورة زرقاء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sleep",
+      "lessonId": "lsn_a1_s_2",
+      "en": "sleep",
+      "translation": "ينام",
+      "ar": "ينام",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you sleep well?",
+          "ar": "هل نمت جيداً؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_slow",
+      "lessonId": "lsn_a1_s_2",
+      "en": "slow",
+      "translation": "بطيء",
+      "ar": "بطيء",
+      "pronunciation": "/slou/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My computer is slow.",
+          "ar": "الكمبيوتر الخاص بي بطيء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_small",
+      "lessonId": "lsn_a1_s_2",
+      "en": "small",
+      "translation": "صغير / صغيرة",
+      "ar": "صغير / صغيرة",
+      "pronunciation": "/smol/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I grew up in a small village.",
+          "ar": "لقد نشأت في قرية صغيرة."
+        },
+        {
+          "en": "I saw a small snake.",
+          "ar": "رأيت ثعباناً صغيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_snake",
+      "lessonId": "lsn_a1_s_2",
+      "en": "snake",
+      "translation": "ثعبان",
+      "ar": "ثعبان",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a small snake.",
+          "ar": "رأيت ثعباناً صغيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_snow",
+      "lessonId": "lsn_a1_s_2",
+      "en": "snow",
+      "translation": "ثلج / تساقطت الثلوج",
+      "ar": "ثلج / تساقطت الثلوج",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like to walk in the snow.",
+          "ar": "أحب المشي في الثلج."
+        },
+        {
+          "en": "It snowed last night.",
+          "ar": "لقد تساقطت الثلوج الليلة الماضية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_so",
+      "lessonId": "lsn_a1_s_2",
+      "en": "so",
+      "translation": "جداً / لذا / إذن",
+      "ar": "جداً / لذا / إذن",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's so hot today.",
+          "ar": "الجو حار جداً اليوم."
+        },
+        {
+          "en": "I was tired, so I slept.",
+          "ar": "كنت متعباً لذا نمت."
+        },
+        {
+          "en": "So what happens next?",
+          "ar": "إذن، ماذا سيحدث بعد ذلك؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

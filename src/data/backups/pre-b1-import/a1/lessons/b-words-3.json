@@ -1,0 +1,367 @@
+{
+  "id": "lsn_a1_b_3",
+  "levelId": "lvl_1",
+  "title": "B Words - Part 3",
+  "slug": "b-words-3",
+  "order": 5,
+  "wordCount": 15,
+  "titleAr": "كلمات حرف B - الجزء 3",
+  "description": "Learn essential A1 vocabulary starting with the letter B.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف B.",
+  "words": [
+    {
+      "id": "w_a1_bread",
+      "lessonId": "lsn_a1_b_3",
+      "en": "bread",
+      "translation": "خبز",
+      "ar": "خبز",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like to eat bread with cheese.",
+          "ar": "أحب تناول الخبز مع الجبن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_break",
+      "lessonId": "lsn_a1_b_3",
+      "en": "break",
+      "translation": "يكسر / استراحة",
+      "ar": "يكسر / استراحة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The boy breaks his pencil every time.",
+          "ar": "الولد يكسر قلمه الرصاص كل مرة."
+        },
+        {
+          "en": "I need a break from work.",
+          "ar": "أحتاج إلى استراحة من العمل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_breakfast",
+      "lessonId": "lsn_a1_b_3",
+      "en": "breakfast",
+      "translation": "فطور",
+      "ar": "فطور",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I had eggs for breakfast.",
+          "ar": "تناولت البيض على الفطور."
+        },
+        {
+          "en": "I don't usually eat breakfast before work.",
+          "ar": "لا أتناول عادة الفطور قبل العمل."
+        },
+        {
+          "en": "She prepares a healthy breakfast every day.",
+          "ar": "إنها تعد فطورًا صحيًا كل يوم."
+        },
+        {
+          "en": "He loves having a cup of coffee with his breakfast.",
+          "ar": "يحب أن يحتسي كوباً من القهوة مع فطوره."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bring",
+      "lessonId": "lsn_a1_b_3",
+      "en": "bring",
+      "translation": "يحضر",
+      "ar": "يحضر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you bring me some water?",
+          "ar": "هل يمكنك أن تحضر لي بعض الماء؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_brother",
+      "lessonId": "lsn_a1_b_3",
+      "en": "brother",
+      "translation": "أخ",
+      "ar": "أخ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I only have one brother.",
+          "ar": "لدي أخ واحد فقط."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_brown",
+      "lessonId": "lsn_a1_b_3",
+      "en": "brown",
+      "translation": "بني",
+      "ar": "بني",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He wore a brown jacket.",
+          "ar": "ارتدى معطفاً بني اللون."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_build",
+      "lessonId": "lsn_a1_b_3",
+      "en": "build",
+      "translation": "يبني",
+      "ar": "يبني",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We will build a new house soon.",
+          "ar": "سوف نبني منزلاً جديداً قريباً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_building",
+      "lessonId": "lsn_a1_b_3",
+      "en": "building",
+      "translation": "مبنى",
+      "ar": "مبنى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This building is very tall.",
+          "ar": "هذا المبنى طويل جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bus",
+      "lessonId": "lsn_a1_b_3",
+      "en": "bus",
+      "translation": "حافلة",
+      "ar": "حافلة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I take the bus to work every day.",
+          "ar": "أستقل الحافلة إلى العمل كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_business",
+      "lessonId": "lsn_a1_b_3",
+      "en": "business",
+      "translation": "عمل",
+      "ar": "عمل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Our business is growing quickly.",
+          "ar": "عملنا ينمو بسرعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_busy",
+      "lessonId": "lsn_a1_b_3",
+      "en": "busy",
+      "translation": "مشغول",
+      "ar": "مشغول",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I am very busy today.",
+          "ar": "أنا مشغول جداً اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_but",
+      "lessonId": "lsn_a1_b_3",
+      "en": "but",
+      "translation": "لكن",
+      "ar": "لكن",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to go, but I'm tired.",
+          "ar": "أريد أن أذهب لكنني متعب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_butter",
+      "lessonId": "lsn_a1_b_3",
+      "en": "butter",
+      "translation": "زبدة",
+      "ar": "زبدة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Put some butter on the bread.",
+          "ar": "ضعي بعض الزبدة على الخبز."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_buy",
+      "lessonId": "lsn_a1_b_3",
+      "en": "buy",
+      "translation": "يشتري",
+      "ar": "يشتري",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to buy a new car.",
+          "ar": "أريد أن أشتري سيارة جديدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_by",
+      "lessonId": "lsn_a1_b_3",
+      "en": "by",
+      "translation": "عبر / بجوار / بحلول",
+      "ar": "عبر / بجوار / بحلول",
+      "pronunciation": "/bar/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I sent the y email.",
+          "ar": "أرسلت الرسالة عبر البريد الإلكتروني."
+        },
+        {
+          "en": "The restaurant is by the beach.",
+          "ar": "يقع المطعم بجوار الشاطئ."
+        },
+        {
+          "en": "The train will arrive by 6pm.",
+          "ar": "سيصل القطار بحلول الساعة 6 مساءً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "cat_quran_1",
+  "slug": "classroom",
+  "title": "Classroom Phrases",
+  "titleAr": "جمل الشرح في الحصة",
+  "type": "quran",
+  "words": [
+    {
+      "id": "w_4",
+      "lessonId": null,
+      "categoryId": "cat_quran_1",
+      "en": "Please repeat after me.",
+      "ar": "من فضلك ردد خلفي.",
+      "examples": [
+        {
+          "en": "Listen carefully, then please repeat after me.",
+          "ar": "استمع جيداً، ثم من فضلك ردد خلفي."
+        },
+        {
+          "en": "I will read the verse, then please repeat after me.",
+          "ar": "سأقرأ الآية، ثم من فضلك ردد خلفي."
+        },
+        {
+          "en": "Excellent! One more time, please repeat after me.",
+          "ar": "ممتاز! مرة أخرى، من فضلك ردد خلفي."
+        }
+      ],
+      "tags": [
+        "classroom"
+      ],
+      "translation": "من فضلك ردد خلفي.",
+      "pronunciation": "",
+      "type": "word",
+      "difficulty": "A1",
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_5",
+      "lessonId": null,
+      "categoryId": "cat_quran_1",
+      "en": "Open your Mushaf to page...",
+      "ar": "افتح المصحف على صفحة...",
+      "examples": [
+        {
+          "en": "Let's start. Open your Mushaf to page 20.",
+          "ar": "دعنا نبدأ. افتح المصحف على صفحة 20."
+        }
+      ],
+      "tags": [
+        "classroom",
+        "mushaf"
+      ],
+      "translation": "افتح المصحف على صفحة...",
+      "pronunciation": "",
+      "type": "word",
+      "difficulty": "A1",
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

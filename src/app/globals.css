@@ -62,7 +62,7 @@
 
 .dark {
   /* Warm Dark Mode - Not pure black */
-  --background: oklch(20.32% 0.01355 258.396); 
+  --background: oklch(31.072% 0.02052 257.304); 
   --foreground: oklch(0.9 0.01 250);
   
   --card: oklch(0.17 0.01 250);
@@ -103,30 +103,40 @@
 }
 
 @layer utilities {
-  .surface-layered {
-    @apply bg-card/50 backdrop-blur-xl border border-white/5 shadow-[0_8px_32px_rgba(0,0,0,0.12)];
+  .glass-panel {
+    @apply bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg border border-white/10 shadow-[0_8px_32px_rgba(0,0,0,0.1)] rounded-[2.5rem];
+    transform: translateZ(0); /* Hardware Acceleration */
   }
 
-  .text-editorial {
-    @apply leading-[1.6] tracking-[-0.01em];
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-teal-500;
   }
 
   /* Motion Utilities */
   .transition-premium {
-    @apply transition-all duration-500;
-    transition-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
+    @apply transition-all duration-400;
+    transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: transform, opacity;
   }
 
-  .perspective-1000 {
-    perspective: 1000px;
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
   }
-  .preserve-3d {
-    transform-style: preserve-3d;
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
   }
-  .backface-hidden {
-    backface-visibility: hidden;
+
+  .animate-pulse-slow {
+    animation: pulse-slow 8s ease-in-out infinite;
   }
-  .rotate-x-180 {
-    transform: rotateX(180deg);
+
+  @keyframes pulse-slow {
+    0%, 100% { opacity: 0.3; transform: scale(1); }
+    50% { opacity: 0.6; transform: scale(1.1); }
   }
 }
+/* NProgress Styles */
+#nprogress { pointer-events: none; }
+#nprogress .bar { background: var(--primary); position: fixed; z-index: 9999; top: 0; left: 0; width: 100%; height: 3px; }

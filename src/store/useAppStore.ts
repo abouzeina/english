@@ -24,6 +24,7 @@ interface UserProgress {
 
   // Session Engine
   currentSession: SessionStats | null;
+  modifiedWords: Record<string, boolean>;
 }
 
 interface AppActions {
@@ -41,6 +42,7 @@ interface AppActions {
   // Session Actions
   startSession: () => void;
   endSession: () => SessionStats | null;
+  clearModifiedWords: () => void;
 }
 
 export type StoreState = UserProgress & AppActions;
@@ -56,6 +58,7 @@ export const useAppStore = create<StoreState>()(
       streak: 0,
       lastActivityDate: null,
       currentSession: null,
+      modifiedWords: {},
 
       toggleFavorite: (id) =>
         set((state) => {
@@ -122,6 +125,10 @@ export const useAppStore = create<StoreState>()(
               ...userWords,
               [wordId]: nextMetadata,
             },
+            modifiedWords: {
+              ...(state.modifiedWords || {}),
+              [wordId]: true
+            },
             xp: (state.xp || 0) + xpGain,
             streak: nextStreak,
             lastActivityDate: new Date().toISOString(),
@@ -161,6 +168,8 @@ export const useAppStore = create<StoreState>()(
         set({ currentSession: null });
         return stats;
       },
+
+      clearModifiedWords: () => set({ modifiedWords: {} }),
     }),
     {
       name: 'wafi-learning-storage-v4',
@@ -169,13 +178,19 @@ export const useAppStore = create<StoreState>()(
   )
 );
 
-export function useWafiStore<T>(selector: (state: StoreState) => T): T | undefined {
+let isGlobalHydrated = false;
+
+export function useWafiStore<T>(selector: (state: StoreState) => T): T {
   const result = useAppStore(selector);
-  const [data, setData] = useState<T>();
+  const [data, setData] = useState<T>(isGlobalHydrated ? result : (undefined as unknown as T));
 
   useEffect(() => {
-    setData(result);
-  }, [result]); // Keep in sync after initial hydration
+    if (!isGlobalHydrated) {
+      isGlobalHydrated = true;
+      setData(result);
+    }
+  }, []); // Only run once on mount
 
-  return data;
+  // If already hydrated globally, just return the direct result from the store
+  return isGlobalHydrated ? result : data;
 }

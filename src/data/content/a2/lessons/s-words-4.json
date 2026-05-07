@@ -1,0 +1,575 @@
+{
+  "id": "lsn_a2_s_4",
+  "levelId": "lvl_2",
+  "slug": "s-words-4",
+  "title": "Unit 38: S Words - Part 4",
+  "titleAr": "الوحدة 38: كلمات حرف S - الجزء 4",
+  "description": "Build on your A2 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
+  "order": 38,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_spoon",
+      "en": "spoon",
+      "ar": "ملعقة",
+      "pronunciation": "/spun/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please bring your own fork and spoon.",
+          "ar": "يرجى إحضار الشوكة والملعقة الخاصة بك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_square",
+      "en": "square",
+      "ar": "مربع",
+      "pronunciation": "/skweǝr/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He drew two squares on the board.",
+          "ar": "رسم مربعين على السبورة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_stage",
+      "en": "stage",
+      "ar": "مرحلة / خشبة مسرح",
+      "pronunciation": "/sterdz/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are three stages on this journey.",
+          "ar": "هناك ثلاث مراحل في هذه الرحلة : خَشَبَة المَسْرَح : مَرْحَلَة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_stairs",
+      "en": "stairs",
+      "ar": "درج",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The children went up the stairs.",
+          "ar": "صعد الأطفال الدرج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_stamp",
+      "en": "stamp",
+      "ar": "طابع / ختم",
+      "pronunciation": "/stæmp/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He put a stamp on the letter.",
+          "ar": "وضع طابعًا على الرسالة : ختم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_star",
+      "en": "star",
+      "ar": "يلعب دور البطولة",
+      "pronunciation": "/star/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He starred in that movie.",
+          "ar": "لعب دور البطولة في هذا الفيلم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_start",
+      "en": "start",
+      "ar": "بداية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Explain everything from the start.",
+          "ar": "اشرح كل شيء من البداية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_state",
+      "en": "state",
+      "ar": "ولاية",
+      "pronunciation": "/stext/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami moved to another state.",
+          "ar": "انتقل سامي إلى ولاية أخرى :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_stay",
+      "en": "stay",
+      "ar": "إقامة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I enjoyed my stay in Alexandria.",
+          "ar": "استمتعت بإقامتي في الإسكندرية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_steal",
+      "en": "steal",
+      "ar": "سرق",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Someone stole my camera.",
+          "ar": "شخص ما سرق كاميرتي"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_step",
+      "en": "step",
+      "ar": "خطوة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's the next step ?",
+          "ar": "ما هي الخطوة التالية : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_stomach",
+      "en": "stomach",
+      "ar": "معدة",
+      "pronunciation": "/stam.ǝk/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My stomach hurts a lot.",
+          "ar": "معدتي تؤلمني كثيرا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_stone",
+      "en": "stone",
+      "ar": "حجارة",
+      "pronunciation": "/stoun/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't throw stones at birds.",
+          "ar": "لا ترمي الطيور بالحجارة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_store",
+      "en": "store",
+      "ar": "متجر",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is closing the store.",
+          "ar": "علي يغلق المتجر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_storm",
+      "en": "storm",
+      "ar": "عاصفة",
+      "pronunciation": "/sto:rm/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How long will the storm last?",
+          "ar": "إلى متى سوف تستمر العاصفة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_straight",
+      "en": "straight",
+      "ar": "مستقيم / مباشرة",
+      "pronunciation": "/strat/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Guide us to the straight way.",
+          "ar": "اهدنا إلى الطريق المستقيم :"
+        },
+        {
+          "en": "Sami drove straight to his home.",
+          "ar": "قاد سامي السيارة مباشرة إلى منزله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_strange",
+      "en": "strange",
+      "ar": "غريب",
+      "pronunciation": "/streınd3/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A strange thing happened yesterday.",
+          "ar": "حدث شيء غريب بالأمس :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_strategy",
+      "en": "strategy",
+      "ar": "استراتيجية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Perhaps we need a better strategy.",
+          "ar": "ربما نحتاج إلى استراتيجية أفضل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_stress",
+      "en": "stress",
+      "ar": "إجهاد / شدد",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I try to avoid stress.",
+          "ar": "أحاول أن أتجنب الإجهاد."
+        },
+        {
+          "en": "He stressed the need to solve the problem",
+          "ar": "شدد على ضرورة حل المشكلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_structure",
+      "en": "structure",
+      "ar": "بنية",
+      "pronunciation": "/ strok.tje/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The structure of our society has changed",
+          "ar": "بنية مجتمعنا قد تغيرت"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_stupid",
+      "en": "stupid",
+      "ar": "غبي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Does that sound stupid?",
+          "ar": "هل هذا يبدو غبيًا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_succeed",
+      "en": "succeed",
+      "ar": "تنجح",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Study hard, and you'll succeed.",
+          "ar": "ادرس بجد وسوف تنجح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_successful",
+      "en": "successful",
+      "ar": "ناجحة",
+      "pronunciation": "/sək ses.fǝl/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The plan was successful.",
+          "ar": "الخطة كانت ناجحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_such",
+      "en": "such",
+      "ar": "مثل / من هذا القبيل",
+      "pronunciation": "/satj/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Children say such stupid things",
+          "ar": "يقول الأطفال أشياء غبية من هذا القبيل :"
+        },
+        {
+          "en": "Some animals, such as lions, eat meat.",
+          "ar": "بعض الحيوانات مثل الأسود، تأكل اللحوم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_suddenly",
+      "en": "suddenly",
+      "ar": "فجأة",
+      "pronunciation": "/sad.ǝn.li/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Suddenly everyone stopped talking",
+          "ar": "فجأة توقف الجميع عن الكلام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

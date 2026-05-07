@@ -14,6 +14,11 @@ const cairo = Cairo({
 
 import { ThemeProvider } from "@/components/theme-provider";
 import { Toaster } from "@/components/ui/sonner";
+import { AuthProvider } from "@/components/auth-provider";
+import { HydrationBoundary } from "@/components/auth/hydration-boundary";
+import { SyncManager } from "@/components/auth/sync-manager";
+import { RouteProgress } from "@/components/route-progress";
+import { Suspense } from "react";
 
 export const metadata: Metadata = {
   title: {
@@ -50,8 +55,16 @@ export default function RootLayout({
           defaultTheme="system"
           enableSystem
         >
-          {children}
-          <Toaster position="top-center" richColors />
+          <AuthProvider>
+            <HydrationBoundary>
+              <Suspense fallback={null}>
+                <RouteProgress />
+              </Suspense>
+              <SyncManager />
+              {children}
+              <Toaster position="top-center" richColors />
+            </HydrationBoundary>
+          </AuthProvider>
         </ThemeProvider>
       </body>
     </html>

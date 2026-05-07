@@ -1,0 +1,571 @@
+{
+  "id": "lsn_a1_b_2",
+  "levelId": "lvl_1",
+  "title": "B Words - Part 2",
+  "slug": "b-words-2",
+  "order": 4,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف B - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter B.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف B.",
+  "words": [
+    {
+      "id": "w_a1_best",
+      "lessonId": "lsn_a1_b_2",
+      "en": "best",
+      "translation": "أفضل",
+      "ar": "أفضل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You are the best teacher.",
+          "ar": "أنت أفضل معلم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_better",
+      "lessonId": "lsn_a1_b_2",
+      "en": "better",
+      "translation": "أفضل",
+      "ar": "أفضل",
+      "pronunciation": "/ beter/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We want a better plan.",
+          "ar": "نريد خطة أفضل من هذه."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_between",
+      "lessonId": "lsn_a1_b_2",
+      "en": "between",
+      "translation": "بين",
+      "ar": "بين",
+      "pronunciation": "/br'twin/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The keys fell between the two chairs.",
+          "ar": "سقطت المفاتيح بين الكرسيين."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bicycle",
+      "lessonId": "lsn_a1_b_2",
+      "en": "bicycle",
+      "translation": "دراجة هوائية",
+      "ar": "دراجة هوائية",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I ride my bicycle every morning.",
+          "ar": "أقوم بجولة على دراجتي الهوائية كل صباح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_big",
+      "lessonId": "lsn_a1_b_2",
+      "en": "big",
+      "translation": "كبير",
+      "ar": "كبير",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They live in a big city.",
+          "ar": "إنهم يعيشون في مدينة كبيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bike",
+      "lessonId": "lsn_a1_b_2",
+      "en": "bike",
+      "translation": "دراجة",
+      "ar": "دراجة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His bike is really fast.",
+          "ar": "دراجته سريعة جدًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bill",
+      "lessonId": "lsn_a1_b_2",
+      "en": "bill",
+      "translation": "فاتورة",
+      "ar": "فاتورة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I paid the water bill yesterday.",
+          "ar": "لقد سددت فاتورة المياه بالأمس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bird",
+      "lessonId": "lsn_a1_b_2",
+      "en": "bird",
+      "translation": "طائر",
+      "ar": "طائر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The bird flew away.",
+          "ar": "طار الطائر بعيدًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_birthday",
+      "lessonId": "lsn_a1_b_2",
+      "en": "birthday",
+      "translation": "عيد ميلاد",
+      "ar": "عيد ميلاد",
+      "pronunciation": "/'bare dex/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Her birthday is next week.",
+          "ar": "عيد ميلادها الأسبوع المقبل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_black",
+      "lessonId": "lsn_a1_b_2",
+      "en": "black",
+      "translation": "أسود",
+      "ar": "أسود",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She wore a black dress.",
+          "ar": "ارتدت فستانًا أسود."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_blogs",
+      "lessonId": "lsn_a1_b_2",
+      "en": "blogs",
+      "translation": "مدونات",
+      "ar": "مدونات",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I follow many blogs online.",
+          "ar": "أتابع العديد من المدونات على الإنترنت."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_blonde",
+      "lessonId": "lsn_a1_b_2",
+      "en": "blonde",
+      "translation": "أشقر / شقراء",
+      "ar": "أشقر / شقراء",
+      "pronunciation": "/bland/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She has long blonde hair.",
+          "ar": "لديها شعر أشقر طويل."
+        },
+        {
+          "en": "He is a tall blonde man.",
+          "ar": "إنه رجل أشقر طويل القامة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_blue",
+      "lessonId": "lsn_a1_b_2",
+      "en": "blue",
+      "translation": "أزرق",
+      "ar": "أزرق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He painted the wall blue.",
+          "ar": "قام بطلاء الجدار باللون الأزرق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_boat",
+      "lessonId": "lsn_a1_b_2",
+      "en": "boat",
+      "translation": "قارب",
+      "ar": "قارب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Is your boat fast?",
+          "ar": "هل قاربك سريع؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_body",
+      "lessonId": "lsn_a1_b_2",
+      "en": "body",
+      "translation": "جسم / جسد",
+      "ar": "جسم / جسد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I exercise to keep my body healthy.",
+          "ar": "أمارس الرياضة للحفاظ على صحة جسمي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_book",
+      "lessonId": "lsn_a1_b_2",
+      "en": "book",
+      "translation": "كتاب",
+      "ar": "كتاب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This book is very interesting.",
+          "ar": "هذا الكتاب مثير للاهتمام حقًا."
+        },
+        {
+          "en": "This book is really boring.",
+          "ar": "هذا الكتاب ممل حقًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_boots",
+      "lessonId": "lsn_a1_b_2",
+      "en": "boots",
+      "translation": "أحذية / جزمة / بوت",
+      "ar": "أحذية / جزمة / بوت",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He found a pair of old boots.",
+          "ar": "وجد زوجاً من الأحذية القديمة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bored",
+      "lessonId": "lsn_a1_b_2",
+      "en": "bored",
+      "translation": "يشعر بالملل",
+      "ar": "يشعر بالملل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He feels bored at work every day.",
+          "ar": "يشعر بالملل في العمل كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_boring",
+      "lessonId": "lsn_a1_b_2",
+      "en": "boring",
+      "translation": "ممل",
+      "ar": "ممل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This book is really boring.",
+          "ar": "هذا الكتاب ممل حقًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_born",
+      "lessonId": "lsn_a1_b_2",
+      "en": "born",
+      "translation": "ولد",
+      "ar": "ولد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My brother was born last year.",
+          "ar": "ولد أخي العام الماضي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_both",
+      "lessonId": "lsn_a1_b_2",
+      "en": "both",
+      "translation": "كلاهما",
+      "ar": "كلاهما",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They both enjoy swimming.",
+          "ar": "كلاهما يستمتعان بالسباحة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bottle",
+      "lessonId": "lsn_a1_b_2",
+      "en": "bottle",
+      "translation": "قارورة / زجاجة",
+      "ar": "قارورة / زجاجة",
+      "pronunciation": "/'ba təl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need to buy a bottle of water.",
+          "ar": "أحتاج لشراء قارورة ماء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_box",
+      "lessonId": "lsn_a1_b_2",
+      "en": "box",
+      "translation": "علبة / صندوق",
+      "ar": "علبة / صندوق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can I open the box?",
+          "ar": "هل يمكنني فتح العلبة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_boy",
+      "lessonId": "lsn_a1_b_2",
+      "en": "boy",
+      "translation": "صبي / ولد",
+      "ar": "صبي / ولد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a boy riding his bicycle.",
+          "ar": "رأيت صبيًا يركب دراجته الهوائية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_boyfriend",
+      "lessonId": "lsn_a1_b_2",
+      "en": "boyfriend",
+      "translation": "عشيق / حبيب",
+      "ar": "عشيق / حبيب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She doesn't have a boyfriend.",
+          "ar": "ليس لديها حبيب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

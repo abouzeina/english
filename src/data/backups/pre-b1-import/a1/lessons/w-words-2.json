@@ -1,0 +1,537 @@
+{
+  "id": "lsn_a1_w_2",
+  "levelId": "lvl_1",
+  "title": "W Words - Part 2",
+  "slug": "w-words-2",
+  "order": 46,
+  "wordCount": 22,
+  "titleAr": "كلمات حرف W - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter W.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف W.",
+  "words": [
+    {
+      "id": "w_a1_which",
+      "lessonId": "lsn_a1_w_2",
+      "en": "which",
+      "translation": "أي / الذي",
+      "ar": "أي / الذي",
+      "pronunciation": "/wItf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Which book are you reading?",
+          "ar": "أي كتاب تقرأ؟"
+        },
+        {
+          "en": "This is the phone which I want.",
+          "ar": "هذا هو الهاتف الذي أريده."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_who",
+      "lessonId": "lsn_a1_w_2",
+      "en": "who",
+      "translation": "من / الذي",
+      "ar": "من / الذي",
+      "pronunciation": "/hu/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Who ate my lunch?",
+          "ar": "من أكل غدائي؟"
+        },
+        {
+          "en": "I'm the person who broke it.",
+          "ar": "أنا الشخص الذي كسرها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_why",
+      "lessonId": "lsn_a1_w_2",
+      "en": "why",
+      "translation": "لماذا / سبب",
+      "ar": "لماذا / سبب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Why do you laugh?",
+          "ar": "لماذا تضحك؟"
+        },
+        {
+          "en": "I don't know why they left.",
+          "ar": "لا أعرف سبب مغادرتهم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_white",
+      "lessonId": "lsn_a1_w_2",
+      "en": "white",
+      "translation": "أبيض",
+      "ar": "أبيض",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Look at that white bird.",
+          "ar": "انظر إلى ذلك الطائر الأبيض."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wife",
+      "lessonId": "lsn_a1_w_2",
+      "en": "wife",
+      "translation": "زوجة",
+      "ar": "زوجة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My wife is a great cook.",
+          "ar": "زوجتي طباخة ماهرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_will",
+      "lessonId": "lsn_a1_w_2",
+      "en": "will",
+      "translation": "سوف / هل (للمستقبل)",
+      "ar": "سوف / هل (للمستقبل)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I will help you.",
+          "ar": "سوف أساعدك."
+        },
+        {
+          "en": "Will you come tomorrow?",
+          "ar": "هل ستأتي غدًا؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_win",
+      "lessonId": "lsn_a1_w_2",
+      "en": "win",
+      "translation": "يفوز",
+      "ar": "يفوز",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to win today.",
+          "ar": "أريد أن أفوز اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_window",
+      "lessonId": "lsn_a1_w_2",
+      "en": "window",
+      "translation": "نافذة / واجهة",
+      "ar": "نافذة / واجهة",
+      "pronunciation": "/'win dou/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Close the window, please.",
+          "ar": "من فضلك أغلق النافذة."
+        },
+        {
+          "en": "Look at that jacket in the window.",
+          "ar": "انظر إلى تلك السترة في الواجهة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wine",
+      "lessonId": "lsn_a1_w_2",
+      "en": "wine",
+      "translation": "خمر",
+      "ar": "خمر",
+      "pronunciation": "/wain/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He doesn't drink wine.",
+          "ar": "إنه لا يشرب الخمر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_winter",
+      "lessonId": "lsn_a1_w_2",
+      "en": "winter",
+      "translation": "شتاء",
+      "ar": "شتاء",
+      "pronunciation": "/'wın tər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Winter came early this year.",
+          "ar": "جاء الشتاء مبكراً هذا العام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_with",
+      "lessonId": "lsn_a1_w_2",
+      "en": "with",
+      "translation": "مع / بـ",
+      "ar": "مع / بـ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can I go with you?",
+          "ar": "هل يمكنني الذهاب معك؟"
+        },
+        {
+          "en": "I usually write with a blue pen.",
+          "ar": "عادة ما أكتب بقلم أزرق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_without",
+      "lessonId": "lsn_a1_w_2",
+      "en": "without",
+      "translation": "بدون",
+      "ar": "بدون",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Don't go without me.",
+          "ar": "لا تذهبي بدوني."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_woman",
+      "lessonId": "lsn_a1_w_2",
+      "en": "woman",
+      "translation": "امرأة",
+      "ar": "امرأة",
+      "pronunciation": "/'women/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Do you see that woman?",
+          "ar": "هل ترى تلك المرأة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wonderful",
+      "lessonId": "lsn_a1_w_2",
+      "en": "wonderful",
+      "translation": "رائع",
+      "ar": "رائع",
+      "pronunciation": "/'wan dər fəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It was a wonderful day.",
+          "ar": "لقد كان يوماً رائعاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_word",
+      "lessonId": "lsn_a1_w_2",
+      "en": "word",
+      "translation": "كلمة",
+      "ar": "كلمة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My favorite word is \"love\".",
+          "ar": "كلمتي المفضلة هي \"الحب\"."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_work",
+      "lessonId": "lsn_a1_w_2",
+      "en": "work",
+      "translation": "عمل / يعمل",
+      "ar": "عمل / يعمل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I start work at eight AM.",
+          "ar": "أبدأ العمل في الثامنة صباحاً."
+        },
+        {
+          "en": "Do you work every day?",
+          "ar": "هل تعمل كل يوم؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_workers",
+      "lessonId": "lsn_a1_w_2",
+      "en": "workers",
+      "translation": "عمال",
+      "ar": "عمال",
+      "pronunciation": "/'war kər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The workers are tired.",
+          "ar": "العمال متعبون."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_world",
+      "lessonId": "lsn_a1_w_2",
+      "en": "world",
+      "translation": "عالم",
+      "ar": "عالم",
+      "pronunciation": "/w3rld/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Welcome to my world.",
+          "ar": "مرحباً بك في عالمي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_would",
+      "lessonId": "lsn_a1_w_2",
+      "en": "would",
+      "translation": "كان / سي / يود / هل ترغب",
+      "ar": "كان / سي / يود / هل ترغب",
+      "pronunciation": "/wud/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They would help us.",
+          "ar": "سيساعدوننا."
+        },
+        {
+          "en": "Would she come too?",
+          "ar": "هل ستأتي هي أيضاً؟"
+        },
+        {
+          "en": "I would like some water.",
+          "ar": "أريد بعض الماء."
+        },
+        {
+          "en": "Would you like some coffee?",
+          "ar": "هل ترغب في بعض القهوة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_write",
+      "lessonId": "lsn_a1_w_2",
+      "en": "write",
+      "translation": "يكتب",
+      "ar": "يكتب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Write your name here.",
+          "ar": "اكتب اسمك هنا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_writer",
+      "lessonId": "lsn_a1_w_2",
+      "en": "writer",
+      "translation": "كاتب / كاتبة",
+      "ar": "كاتب / كاتبة",
+      "pronunciation": "/'raı tər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She is a great writer.",
+          "ar": "إنها كاتبة رائعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_writing",
+      "lessonId": "lsn_a1_w_2",
+      "en": "writing",
+      "translation": "الكتابة",
+      "ar": "الكتابة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Writing is my favorite hobby.",
+          "ar": "الكتابة هي هوايتي المفضلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

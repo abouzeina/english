@@ -1,0 +1,575 @@
+{
+  "id": "lsn_a2_s_3",
+  "levelId": "lvl_2",
+  "slug": "s-words-3",
+  "title": "Unit 37: S Words - Part 3",
+  "titleAr": "الوحدة 37: كلمات حرف S - الجزء 3",
+  "description": "Build on your A2 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
+  "order": 37,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_skiing",
+      "en": "skiing",
+      "ar": "تزلج",
+      "pronunciation": "/ski/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't enjoy skiing.",
+          "ar": "أنا لا أستمتع بالتزلج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_skin",
+      "en": "skin",
+      "ar": "جلد / قشرة",
+      "pronunciation": "/skin/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Insects have a hard skin.",
+          "ar": "الحشرات لها جلد متين : قشرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sky",
+      "en": "sky",
+      "ar": "سماء",
+      "pronunciation": "/skar/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The sky was bright and clear.",
+          "ar": "كانت السماء مشرقة وصافية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sleep",
+      "en": "sleep",
+      "ar": "نوم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You need to get some sleep.",
+          "ar": "أنت بحاجة للحصول على قسط من النوم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_slowly",
+      "en": "slowly",
+      "ar": "ببطء",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Could you drive slowly?",
+          "ar": "هل يمكنك القيادة ببطء ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_smartphone",
+      "en": "smartphone",
+      "ar": "هاتف ذكي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I want to buy a new smartphone.",
+          "ar": "أريد شراء هاتف ذكي جديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_smell",
+      "en": "smell",
+      "ar": "رائحة / يشم",
+      "pronunciation": "/smel/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "That coffee smells good.",
+          "ar": "هذه القهوة رائحتها جيدة."
+        },
+        {
+          "en": "The smell of food made me hungry",
+          "ar": "رائحة الطعام جعلتني أشعر بالجوع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_smile",
+      "en": "smile",
+      "ar": "ابتسامة / يبتسم",
+      "pronunciation": "/smail/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Smile for the camera.",
+          "ar": "ابتسم للكاميرا :"
+        },
+        {
+          "en": "Start your day with a smile.",
+          "ar": "ابدأ يومك بابتسامة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_smoke",
+      "en": "smoke",
+      "ar": "يدخن / دخان",
+      "pronunciation": "/smouk/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed doesn't smoke at home.",
+          "ar": "أحمد لا يدخن في المنزل :"
+        },
+        {
+          "en": "He blew smoke in my face",
+          "ar": "نفث الدخان في وجهي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_smoking",
+      "en": "smoking",
+      "ar": "تدخين",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I gave up smoking years ago.",
+          "ar": "أقلعت عن التدخين قبل سنوات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_soap",
+      "en": "soap",
+      "ar": "صابون",
+      "pronunciation": "/soup/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Wash your hands with soap.",
+          "ar": "اغسل يديك بالصابون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_soccer",
+      "en": "soccer",
+      "ar": "كرة قدم",
+      "pronunciation": "/'sa kər/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They became professional soccer players.",
+          "ar": "أصبحوا لاعبي كرة قدم محترفين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_social",
+      "en": "social",
+      "ar": "اجتماعي",
+      "pronunciation": "/ sou fel/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami was a very social guy.",
+          "ar": "كان سامي شخصا اجتماعيًا جدًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_society",
+      "en": "society",
+      "ar": "مجتمع",
+      "pronunciation": "/sə sar   ti/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lives in a Muslim society.",
+          "ar": "يعيش في مجتمع مسلم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sock",
+      "en": "sock",
+      "ar": "جوارب",
+      "pronunciation": "/sak/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali was wearing blue socks.",
+          "ar": "كان علي يرتدي جوارب زرقاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_soft",
+      "en": "soft",
+      "ar": "ناعم",
+      "pronunciation": "/soft/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This bed is too soft.",
+          "ar": "هذا السرير ناعم جدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_soldier",
+      "en": "soldier",
+      "ar": "جندي / جنود",
+      "pronunciation": "/soul-dzer/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The soldiers started their attack",
+          "ar": "بدأ الجنود هجومهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_solution",
+      "en": "solution",
+      "ar": "حل",
+      "pronunciation": "/sə'lu-fən/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Every problem has a solution.",
+          "ar": "كل مشكلة لها حل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_solve",
+      "en": "solve",
+      "ar": "يحل",
+      "pronunciation": "/salv/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who can solve the problem?",
+          "ar": "من يستطيع أن يحل المشكلة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_somewhere",
+      "en": "somewhere",
+      "ar": "مكان",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Let's go somewhere quiet.",
+          "ar": "لنهب إلى مكان هادئ :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sort",
+      "en": "sort",
+      "ar": "نوع",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What sort of soap is this?",
+          "ar": "أي نوع من الصابون هو هذا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_source",
+      "en": "source",
+      "ar": "مصدر",
+      "pronunciation": "/sors/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's the source of this information?",
+          "ar": "ما هو مصدر هذه المعلومات : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_speech",
+      "en": "speech",
+      "ar": "خطاب",
+      "pronunciation": "/spit∫/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His speech lasted three hours.",
+          "ar": "استمر خطابه لثلاث ساعات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_speed",
+      "en": "speed",
+      "ar": "سرعة",
+      "pronunciation": "/spid/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali started running at full speed.",
+          "ar": "بدأ علي بالركض بأقصى سرعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_spider",
+      "en": "spider",
+      "ar": "عنكبوت / عناكب",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are you afraid of spiders ?",
+          "ar": "هل تخاف من العناكب : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

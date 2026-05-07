@@ -1,0 +1,579 @@
+{
+  "id": "lsn_a2_t_1",
+  "levelId": "lvl_2",
+  "slug": "t-words-1",
+  "title": "Unit 40: T Words - Part 1",
+  "titleAr": "الوحدة 40: كلمات حرف T - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter T.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف T.",
+  "order": 40,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_system",
+      "en": "system",
+      "ar": "نظام",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The system is working well",
+          "ar": "النظام يعمل بشكل جيد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_tablet",
+      "en": "tablet",
+      "ar": "جهاز لوحي",
+      "pronunciation": "/'tæb.let/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed has an Android tablet.",
+          "ar": "أحمد لديه جهاز لوحي يعمل بنظام أندرويد"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_talk",
+      "en": "talk",
+      "ar": "محاضرة",
+      "pronunciation": "/ta:k/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He gave a talk about Islam.",
+          "ar": "ألقى محاضرة عن الإسلام :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_target",
+      "en": "target",
+      "ar": "هدف",
+      "pronunciation": "/ta:r.git/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The first attack missed the target.",
+          "ar": "الهجوم الأول أخطأ الهدف :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_task",
+      "en": "task",
+      "ar": "مهمة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is an easy task for you.",
+          "ar": "هذه مهمة سهلة بالنسبة لك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_taste",
+      "en": "taste",
+      "ar": "طعم / يتذوق",
+      "pronunciation": "/test/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This milk has a strange taste.",
+          "ar": "هذا الحليب له طعم غريب :"
+        },
+        {
+          "en": "This fruit tastes bad.",
+          "ar": "هذه الفاكهة طعمها سيء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_teaching",
+      "en": "teaching",
+      "ar": "تدريس",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali found a good teaching job.",
+          "ar": "وجد علي وظيفة تدريس جيدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_technology",
+      "en": "technology",
+      "ar": "تكنولوجيا",
+      "pronunciation": "/tek' na:.le.dzi/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Modern technology gives us many things",
+          "ar": "التكنولوجيا الحديثة تعطينا أشياء كثيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_teenager",
+      "en": "teenager",
+      "ar": "مراهق",
+      "pronunciation": "/'ti:ner.dze-/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Teenager boys love playing video games.",
+          "ar": "يحب الأولاد المراهقون لعب ألعاب الفيديو."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_temperature",
+      "en": "temperature",
+      "ar": "درجة حرارة",
+      "pronunciation": "/tem.po.a.tfo/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Let me take your temperature.",
+          "ar": "اسمح لي أن آخذ درجة حرارتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_term",
+      "en": "term",
+      "ar": "مصطلح",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Have you heard this term before?",
+          "ar": "هل سمعت هذا المصطلح من قبل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_text",
+      "en": "text",
+      "ar": "يراسل",
+      "pronunciation": "/tekst/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Text me when you are home",
+          "ar": "راسلني عندما تكون بالمنزل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_themselves",
+      "en": "themselves",
+      "ar": "أنفسهم",
+      "pronunciation": "/ðəm selvz/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They consider themselves lucky.",
+          "ar": "يعتبرون أنفسهم محظوظين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_thick",
+      "en": "thick",
+      "ar": "سميك",
+      "pronunciation": "/01k/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you read that thick book?",
+          "ar": "هل قرأت هذا الكتاب السميك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_thin",
+      "en": "thin",
+      "ar": "رقيقة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The walls are very thin here.",
+          "ar": "الجدران هنا رقيقة جدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_thinking",
+      "en": "thinking",
+      "ar": "تفكير",
+      "pronunciation": "/ θτη.κτη/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This topic needs a lot of deep thinking.",
+          "ar": "هذا الموضوع يحتاج إلى الكثير من التفكير العميق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_third",
+      "en": "third",
+      "ar": "أثلاث",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She divided the money into thirds.",
+          "ar": "هي قسمت المال إلى أثلاث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_thought",
+      "en": "thought",
+      "ar": "فكرة",
+      "pronunciation": "/eɔt/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What a strange thought !!",
+          "ar": "يا لها من فكرة غريبة !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_throw",
+      "en": "throw",
+      "ar": "يرمي",
+      "pronunciation": "/erου/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please throw the ball to me.",
+          "ar": "من فضلك ارمي الكرة لي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_tidy",
+      "en": "tidy",
+      "ar": "مرتب / يرتب",
+      "pronunciation": "/ tar-di/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She always keeps her room tidy.",
+          "ar": "هي دائما تحافظ على غرفتها مرتبة : بشكل مرتب :"
+        },
+        {
+          "en": "Tidy your room.",
+          "ar": "رتب غرفتك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_tie",
+      "en": "tie",
+      "ar": "ربطة عنق / يربط",
+      "pronunciation": "/tax/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I think you should wear a tie.",
+          "ar": "أعتقد أنك يجب أن ترتدي ربطة عنق."
+        },
+        {
+          "en": "They tied him to a tree.",
+          "ar": "ربطوه بشجرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_tip",
+      "en": "tip",
+      "ar": "نصائح",
+      "pronunciation": "/txp/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These tips may save your life",
+          "ar": "هذه النصائح قد تنقذ حياتك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_tool",
+      "en": "tool",
+      "ar": "أدوات",
+      "pronunciation": "/tul/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I want to buy some garden tools.",
+          "ar": "اريد شراء بعض أدوات البستنة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_top",
+      "en": "top",
+      "ar": "علوي / رأس",
+      "pronunciation": "/tap/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They live on the top floor.",
+          "ar": "كانوا يعيشون في الطابق العلوي."
+        },
+        {
+          "en": "Look at the top of that tree.",
+          "ar": "انظر إلى رأس تلك الشجرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_touch",
+      "en": "touch",
+      "ar": "يلمس",
+      "pronunciation": "/txt/",
+      "lessonId": "lsn_a2_t_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't touch anything here",
+          "ar": "لا تلمس أي شيء هنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

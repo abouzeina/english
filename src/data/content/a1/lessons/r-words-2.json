@@ -1,0 +1,57 @@
+{
+  "id": "lsn_a1_r_2",
+  "levelId": "lvl_1",
+  "title": "R Words - Part 2",
+  "slug": "r-words-2",
+  "order": 35,
+  "wordCount": 2,
+  "titleAr": "كلمات حرف R - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter R.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف R.",
+  "words": [
+    {
+      "id": "w_a1_routine",
+      "lessonId": "lsn_a1_r_2",
+      "en": "routine",
+      "translation": "روتين",
+      "ar": "روتين",
+      "pronunciation": "/ru tin/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My routine starts at 6 am.",
+          "ar": "يبدأ روتيني في الساعة 6 صباحاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_rule",
+      "lessonId": "lsn_a1_r_2",
+      "en": "rule",
+      "translation": "قاعدة",
+      "ar": "قاعدة",
+      "pronunciation": "/rul/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We learned a new rule today.",
+          "ar": "لقد تعلمنا قاعدة جديدة اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

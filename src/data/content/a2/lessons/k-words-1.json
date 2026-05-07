@@ -1,0 +1,171 @@
+{
+  "id": "lsn_a2_k_1",
+  "levelId": "lvl_2",
+  "slug": "k-words-1",
+  "title": "Unit 22: K Words - Part 1",
+  "titleAr": "الوحدة 22: كلمات حرف K - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter K.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف K.",
+  "order": 22,
+  "wordCount": 7,
+  "words": [
+    {
+      "id": "w_a2_jump",
+      "en": "jump",
+      "ar": "قفز / قفزة",
+      "pronunciation": "/d3amp/",
+      "lessonId": "lsn_a2_k_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali jumped off his bed",
+          "ar": "قفز علي من سريره."
+        },
+        {
+          "en": "There is a jump in prices these days",
+          "ar": "هناك قفزة في الأسعار هذه الأيام :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_kid",
+      "en": "kid",
+      "ar": "أطفال",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_k_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you have any kids ?",
+          "ar": "هل لديك أطفال ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_kill",
+      "en": "kill",
+      "ar": "يقتل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_k_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Three people were killed in the accident.",
+          "ar": "قُتِل ثلاثة أشخاص في الحادث :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_king",
+      "en": "king",
+      "ar": "ملك",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_k_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The king himself was there.",
+          "ar": "كان الملك نفسه هناك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_knee",
+      "en": "knee",
+      "ar": "ركبة",
+      "pronunciation": "/ni/",
+      "lessonId": "lsn_a2_k_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you hurt your knee?",
+          "ar": "هل جرحت ركبتك : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_knife",
+      "en": "knife",
+      "ar": "سكين",
+      "pronunciation": "/narf/",
+      "lessonId": "lsn_a2_k_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Cut the cake with that knife.",
+          "ar": "اقطع الكعكة بهذه السكين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_knock",
+      "en": "knock",
+      "ar": "يطرق",
+      "pronunciation": "/nak/",
+      "lessonId": "lsn_a2_k_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please knock before you come in",
+          "ar": "من فضلك اطرق قبل أن تدخل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

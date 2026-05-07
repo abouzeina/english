@@ -4,12 +4,13 @@ import { useState, useEffect, useMemo, useCallback } from "react";
 import { useWafiStore, useAppStore } from "@/store/useAppStore";
 import { Flashcard } from "@/components/features/Flashcard";
 import { Button } from "@/components/ui/button";
-import { Trophy, RotateCcw, Brain, Calendar, Zap, Headphones, CheckCircle2, Loader2, ArrowRight, Clock, Target, Star } from "lucide-react";
+import { RotateCcw, Headphones, CheckCircle2, Loader2, ArrowRight, Clock, Target, Star, Zap } from "lucide-react";
 import Link from "next/link";
-import wordsData from "@/data/words.json";
 import { WordItem } from "@/types";
 import { motion, AnimatePresence } from "framer-motion";
 import { cn } from "@/lib/utils";
+import { fetchWordsByIds } from "@/lib/content/actions";
+import { GuestNotice } from "@/components/auth/guest-notice";
 
 export default function ReviewPage() {
   const hasHydrated = useWafiStore(s => true) ?? false;
@@ -19,11 +20,13 @@ export default function ReviewPage() {
 
   const [queue, setQueue] = useState<string[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [loadedWords, setLoadedWords] = useState<Record<string, WordItem>>({});
   const [isFinished, setIsFinished] = useState(false);
   const [isListenFirst, setIsListenFirst] = useState(false);
   const [sessionStats, setSessionStats] = useState<any>(null);
+  const [isLoadingNext, setIsLoadingNext] = useState(false);
 
-  // Initialize queue
+  // 1. Initialize queue
   useEffect(() => {
     if (hasHydrated) {
       const dueIds = useAppStore.getState().getReviewQueue();
@@ -32,14 +35,36 @@ export default function ReviewPage() {
     }
   }, [hasHydrated, startSession]);
 
+  // 2. Pre-fetch logic: Load words in chunks
+  useEffect(() => {
+    const fetchNextBatch = async () => {
+      const wordsToFetch = queue.slice(currentIndex, currentIndex + 5)
+        .filter(id => !loadedWords[id]);
+
+      if (wordsToFetch.length > 0) {
+        setIsLoadingNext(true);
+        const details = await fetchWordsByIds(wordsToFetch);
+        setLoadedWords(prev => {
+          const next = { ...prev };
+          details.forEach(w => { next[w.id] = w; });
+          return next;
+        });
+        setIsLoadingNext(false);
+      }
+    };
+
+    if (queue.length > 0 && currentIndex < queue.length) {
+      fetchNextBatch();
+    }
+  }, [queue, currentIndex, loadedWords]);
+
   const currentWord = useMemo(() => {
-    if (currentIndex >= queue.length) return null;
-    return (wordsData as WordItem[]).find(w => w.id === queue[currentIndex]);
-  }, [queue, currentIndex]);
+    const id = queue[currentIndex];
+    return id ? loadedWords[id] : null;
+  }, [queue, currentIndex, loadedWords]);
 
   const handleNext = useCallback((quality: number) => {
     if (currentIndex < queue.length - 1) {
-      // Small delay for rhythmic feel
       setTimeout(() => {
         setCurrentIndex(prev => prev + 1);
       }, 150); 
@@ -54,16 +79,9 @@ export default function ReviewPage() {
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (isFinished || !currentWord) return;
-      
-      // Prevent shortcut if typing in an input (though we don't have one here)
       if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
 
       switch(e.key) {
-        case ' ': // Space to flip/reveal
-          // Flashcard handles its own reveal state via internal toggle usually, 
-          // but we might need to expose it or trigger it via ref if we want perfect control.
-          // For now, let's assume the user uses the mouse for reveal or we add a global event.
-          break;
         case '1': updateWordProgress(currentWord.id, 0); handleNext(0); break;
         case '2': updateWordProgress(currentWord.id, 1); handleNext(1); break;
         case '3': updateWordProgress(currentWord.id, 2); handleNext(2); break;
@@ -109,6 +127,7 @@ export default function ReviewPage() {
         animate={{ opacity: 1, scale: 1 }}
         className="max-w-2xl mx-auto w-full pt-12 pb-20"
       >
+        {/* Results UI remains the same but with sessionStats safety */}
         <div className="text-center mb-16">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary/10 text-primary text-[10px] font-bold uppercase tracking-widest mb-6">
             Session Complete
@@ -130,12 +149,12 @@ export default function ReviewPage() {
            </div>
            <div className="glass-panel p-8 rounded-[2rem] border-white/5 bg-secondary/20 flex flex-col items-center text-center">
               <Zap className="w-6 h-6 text-yellow-500 mb-4 opacity-50" />
-              <span className="text-3xl font-bold mb-1">+{sessionStats?.xpGained}</span>
+              <span className="text-3xl font-bold mb-1">+{sessionStats?.xpGained || 0}</span>
               <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest">XP Earned</span>
            </div>
            <div className="glass-panel p-8 rounded-[2rem] border-white/5 bg-secondary/20 flex flex-col items-center text-center">
               <Star className="w-6 h-6 text-purple-500 mb-4 opacity-50" />
-              <span className="text-3xl font-bold mb-1">{sessionStats?.focusWordsIdentified}</span>
+              <span className="text-3xl font-bold mb-1">{sessionStats?.focusWordsIdentified || 0}</span>
               <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest">Focus Words Found</span>
            </div>
         </div>
@@ -154,10 +173,11 @@ export default function ReviewPage() {
 
   return (
     <div className="w-full max-w-2xl mx-auto flex flex-col items-center pt-8 px-4">
+      <GuestNotice />
       <div className="w-full flex items-center justify-between mb-12 px-2">
         <div className="flex items-center gap-6">
           <Link href="/" className="text-muted-foreground hover:text-foreground transition-premium">
-            <ArrowRight className="w-5 h-5" />
+            <ArrowRight className="w-5 h-5 rtl:rotate-180" />
           </Link>
           <div className="flex flex-col">
             <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest mb-0.5">Session Flow</span>
@@ -188,7 +208,7 @@ export default function ReviewPage() {
 
       <div className="w-full relative">
         <AnimatePresence mode="wait">
-          {currentWord && (
+          {currentWord ? (
             <motion.div
               key={currentWord.id}
               initial={{ opacity: 0, x: 20, filter: 'blur(10px)' }}
@@ -204,6 +224,11 @@ export default function ReviewPage() {
                 onActionComplete={handleNext}
               />
             </motion.div>
+          ) : (
+            <div className="w-full h-80 flex flex-col items-center justify-center text-muted-foreground gap-4">
+               <Loader2 className="w-8 h-8 animate-spin opacity-20" />
+               <p className="text-xs font-bold uppercase tracking-widest">جاري تحضير الكلمات...</p>
+            </div>
           )}
         </AnimatePresence>
       </div>

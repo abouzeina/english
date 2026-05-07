@@ -6,27 +6,30 @@ import { Flashcard } from "@/components/features/Flashcard";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center w-full">
+    <div className="flex flex-col items-center w-full bg-mesh min-h-screen">
       {/* Premium Hero Section */}
       <section className="w-full relative pt-6 pb-32 md:pt-10 md:pb-48 overflow-hidden">
         {/* Subtle Background Effects */}
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-full -z-10 pointer-events-none">
-          <div className="absolute top-[-10%] left-[10%] w-[40%] h-[60%] bg-primary/5 blur-[120px] rounded-full animate-pulse" />
-          <div className="absolute bottom-[10%] right-[10%] w-[30%] h-[40%] bg-primary/3 blur-[100px] rounded-full" />
+          <div className="absolute top-[-10%] left-[10%] w-[40%] h-[60%] bg-emerald-500/10 blur-[120px] rounded-full animate-pulse-slow" />
+          <div className="absolute bottom-[10%] right-[10%] w-[30%] h-[40%] bg-teal-500/5 blur-[100px] rounded-full animate-pulse-slow" style={{ animationDelay: '2s' }} />
         </div>
         
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center">
           
           {/* Hero Content */}
           <div className="lg:col-span-7 flex flex-col items-center lg:items-start text-center lg:text-right">
-            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-secondary text-primary font-sans text-[11px] font-bold border border-white/5 mb-10 transition-premium hover:scale-105">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-500/10 text-primary font-cairo text-[11px] font-bold border border-emerald-500/20 mb-10 transition-premium hover:scale-105">
               <Sparkles className="w-3.5 h-3.5" />
-              <span className="uppercase tracking-widest">Experience the new Wafi.</span>
+              <span className="uppercase tracking-widest">اختبر تجربة "وافي" الجديدة</span>
             </div>
             
-            <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight text-foreground leading-[0.95] mb-10 text-balance">
-              Master English <br />
-              <span className="text-primary italic font-serif">with Precision.</span>
+            <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight text-foreground leading-[1.1] mb-10 text-balance font-cairo">
+              أتقن الإنجليزية <br />
+              <span className="text-primary italic relative">
+                بكل دقة.
+                <span className="absolute bottom-2 right-0 w-full h-3 bg-primary/20 -z-10 rounded-full blur-sm"></span>
+              </span>
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground font-cairo max-w-2xl mb-12 leading-relaxed font-medium">
@@ -35,26 +38,26 @@ export default function Home() {
             
             <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto mb-10">
               <Link href="/levels" className="w-full sm:w-auto">
-                <Button size="lg" className="w-full sm:w-auto h-16 px-10 rounded-2xl bg-primary text-primary-foreground hover:scale-[1.02] active:scale-[0.98] transition-premium font-bold text-xl group shadow-2xl shadow-primary/20">
+                <Button size="lg" className="w-full sm:w-auto h-16 px-10 rounded-2xl bg-primary text-primary-foreground hover:scale-[1.05] active:scale-[0.98] transition-premium font-bold text-xl group shadow-2xl shadow-primary/30 font-cairo">
                   ابدأ رحلة التعلم
                   <ArrowLeft className="mr-3 w-6 h-6 group-hover:translate-x-1 transition-premium" />
                 </Button>
               </Link>
               <Link href="/quran-guide" className="w-full sm:w-auto">
-                <Button size="lg" variant="ghost" className="w-full sm:w-auto h-16 px-10 rounded-2xl border border-white/10 bg-secondary/30 hover:bg-secondary transition-premium font-bold text-xl text-foreground/80">
+                <Button size="lg" variant="outline" className="w-full sm:w-auto h-16 px-10 rounded-2xl border-white/10 bg-secondary/30 hover:bg-secondary transition-premium font-bold text-xl text-foreground/80 font-cairo">
                   دليل معلمي القرآن
                 </Button>
               </Link>
             </div>
             
-            <div className="flex items-center gap-6 text-muted-foreground/60">
+            <div className="flex items-center gap-6 text-muted-foreground/60 font-cairo">
               <div className="flex items-center gap-2 text-xs font-medium">
                 <CheckCircle2 className="w-4 h-4 text-primary" />
-                <span>Zero distraction UI</span>
+                <span>واجهة خالية من المشتتات</span>
               </div>
               <div className="flex items-center gap-2 text-xs font-medium">
                 <CheckCircle2 className="w-4 h-4 text-primary" />
-                <span>Quran teacher verified</span>
+                <span>معتمد من معلمي القرآن</span>
               </div>
             </div>
           </div>
@@ -64,7 +67,7 @@ export default function Home() {
             <div className="relative w-full max-w-md lg:max-w-none group">
               <div className="absolute -top-10 -right-10 w-32 h-32 bg-primary/10 blur-3xl rounded-full group-hover:scale-150 transition-premium duration-1000" />
               
-              <div className="relative glass-panel p-2 rounded-[2.5rem] border-white/5 shadow-2xl transition-premium group-hover:rotate-1 group-hover:-translate-y-2">
+              <div className="relative glass-panel p-2 rounded-[2.5rem] border-white/5 shadow-2xl transition-premium group-hover:rotate-1 group-hover:-translate-y-2 animate-float">
                 <div className="bg-background/80 rounded-[2rem] p-6 border border-white/5">
                   <div className="flex items-center gap-1.5 mb-6 opacity-40">
                     <div className="w-2.5 h-2.5 rounded-full bg-red-500/50" />
@@ -76,7 +79,7 @@ export default function Home() {
                     id="hero-demo"
                     en="Consistency" 
                     ar="الاستمرارية" 
-                    tags={["Core Concept"]}
+                    tags={["مفهوم أساسي"]}
                     exampleEn="Success is the result of consistency."
                     exampleAr="النجاح هو نتيجة الاستمرارية."
                     className="border-0 shadow-none bg-transparent"
@@ -94,8 +97,8 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-16 items-end mb-24">
             <div className="lg:col-span-7">
-              <h2 className="text-4xl md:text-6xl font-bold tracking-tight mb-8">
-                Design for <span className="text-primary italic">Deep Learning.</span>
+              <h2 className="text-4xl md:text-6xl font-bold tracking-tight mb-8 font-cairo">
+                صُمم من أجل <span className="text-primary italic">التعلم العميق.</span>
               </h2>
               <p className="text-xl text-muted-foreground font-cairo leading-relaxed max-w-2xl">
                 لقد بنينا هذه المنصة بفلسفة "التركيز المطلق". لا مشتتات، لا ألعاب لا داعي لها، فقط أنت والمحتوى التعليمي بأعلى جودة ممكنة.
@@ -118,20 +121,20 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
             <ModernFeatureCard 
               icon={Headphones}
-              title="Aural Immersion"
-              titleAr="نظام صوتي نقي"
+              title="نظام صوتي نقي"
+              titleAr="Aural Immersion"
               description="استمع، ردد، وتعلم مخارج الحروف بوضوح تام مع محرك صوتي يدعم التكرار المخصص."
             />
             <ModernFeatureCard 
               icon={Globe}
-              title="Cultural Nuance"
-              titleAr="مصمم للعرب"
+              title="مصمم للعرب"
+              titleAr="Cultural Nuance"
               description="محتوى منتقى بعناية ليناسب سياقنا العربي، مع قسم خاص ومكثف لمعلمي القرآن الكريم."
             />
             <ModernFeatureCard 
               icon={Zap}
-              title="Instant Feedback"
-              titleAr="اختبارات ذكية"
+              title="اختبارات ذكية"
+              titleAr="Instant Feedback"
               description="تحقق من مستواك فوراً عبر نظام اختبارات تفاعلي صُمم ليثبت المعلومة في ذاكرتك الطويلة."
             />
           </div>
@@ -142,13 +145,13 @@ export default function Home() {
       <section className="w-full py-40">
         <div className="max-w-5xl mx-auto px-6 text-center">
           <Sparkles className="w-12 h-12 text-primary mx-auto mb-10 opacity-50" />
-          <blockquote className="text-3xl md:text-5xl font-medium tracking-tight leading-[1.2] text-foreground mb-16 font-serif italic">
-            "Wafi didn't just teach me English; it gave me the confidence to communicate with my non-Arabic speaking students as a Quran teacher."
+          <blockquote className="text-3xl md:text-5xl font-medium tracking-tight leading-[1.2] text-foreground mb-16 font-cairo italic">
+            "وافي لم يعلمني الإنجليزية فحسب؛ بل منحني الثقة للتواصل مع طلابي غير الناطقين بالعربية بصفتي معلماً للقرآن الكريم."
           </blockquote>
           <div className="flex flex-col items-center gap-4">
             <div className="w-16 h-16 rounded-full bg-secondary border border-white/5" />
             <div className="flex flex-col">
-              <span className="font-bold text-lg">Sheikh Ahmed M.</span>
+              <span className="font-bold text-lg font-cairo">الشيخ أحمد م.</span>
               <span className="text-muted-foreground font-cairo text-sm">معلم قرآن كريم - المدينة المنورة</span>
             </div>
           </div>
@@ -159,8 +162,8 @@ export default function Home() {
       <section className="w-full py-48 relative overflow-hidden border-t border-white/5">
         <div className="absolute inset-0 bg-primary/5 blur-[120px] -z-10 translate-y-1/2" />
         <div className="max-w-4xl mx-auto px-6 text-center flex flex-col items-center">
-          <h2 className="text-5xl md:text-8xl font-bold tracking-tighter mb-12 text-foreground">
-            Start Mastering<br />Today.
+          <h2 className="text-5xl md:text-8xl font-bold tracking-tighter mb-12 text-foreground font-cairo">
+            ابدأ رحلة <span className="text-gradient">الإتقان</span><br />اليوم.
           </h2>
           <Link href="/levels" className="group">
             <Button size="lg" className="bg-primary text-primary-foreground hover:scale-105 active:scale-95 transition-premium h-20 px-16 rounded-[2.5rem] font-bold text-2xl font-cairo shadow-2xl shadow-primary/20 gap-4">
@@ -168,28 +171,12 @@ export default function Home() {
               <ArrowLeft className="w-7 h-7 group-hover:translate-x-1 transition-premium" />
             </Button>
           </Link>
-          <p className="mt-12 text-muted-foreground font-sans text-sm font-medium tracking-widest uppercase">
-            Join the elite circle of learners.
+          <p className="mt-12 text-muted-foreground font-cairo text-sm font-medium tracking-widest uppercase">
+            انضم إلى نخبة المتعلمين اليوم.
           </p>
         </div>
       </section>
       
-      {/* Footer */}
-      <footer className="w-full py-20 border-t border-white/5 bg-background">
-        <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-10">
-          <div className="font-bold text-2xl tracking-tighter">
-            Wafi<span className="text-primary">.</span>
-          </div>
-          <div className="flex gap-10 text-muted-foreground font-medium text-sm">
-            <Link href="#" className="hover:text-foreground transition-premium">Levels</Link>
-            <Link href="#" className="hover:text-foreground transition-premium">Quran Guide</Link>
-            <Link href="#" className="hover:text-foreground transition-premium">Privacy</Link>
-          </div>
-          <div className="text-muted-foreground text-sm font-medium">
-            © {new Date().getFullYear()} Wafi Platform. All rights reserved.
-          </div>
-        </div>
-      </footer>
     </div>
   );
 }

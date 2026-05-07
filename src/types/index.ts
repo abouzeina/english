@@ -5,6 +5,7 @@ export interface Level {
   nameAr: string;
   description: string;
   descriptionAr: string;
+  wordCount?: number;
 }
 
 export interface Lesson {
@@ -16,6 +17,7 @@ export interface Lesson {
   description: string;
   descriptionAr: string;
   order: number;
+  wordCount?: number;
 }
 
 export interface Category {

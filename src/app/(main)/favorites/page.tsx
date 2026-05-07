@@ -1,26 +1,34 @@
 "use client";
 
-import { useMemo } from "react";
+import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { HeartOff, Search } from "lucide-react";
-import { useAppStore } from "@/store/useAppStore";
+import { HeartOff, Loader2 } from "lucide-react";
+import { useWafiStore } from "@/store/useAppStore";
 import { Flashcard } from "@/components/features/Flashcard";
-import wordsData from "@/data/words.json";
 import { WordItem } from "@/types";
+import { fetchWordsByIds } from "@/lib/content/actions";
+import { GuestNotice } from "@/components/auth/guest-notice";
 
 export default function FavoritesPage() {
-  const { favorites } = useAppStore();
+  const favorites = useWafiStore(s => s.favorites) || [];
+  const [favoriteWords, setFavoriteWords] = useState<WordItem[]>([]);
+  const [isLoading, setIsLoading] = useState(false);
 
-  const allWords = useMemo(() => {
-    return wordsData as WordItem[];
-  }, []);
-
-  const favoriteWords = useMemo(() => {
-    return allWords.filter(w => favorites.includes(w.id));
-  }, [allWords, favorites]);
+  useEffect(() => {
+    if (favorites.length > 0) {
+      setIsLoading(true);
+      fetchWordsByIds(favorites).then(words => {
+        setFavoriteWords(words);
+        setIsLoading(false);
+      });
+    } else {
+      setFavoriteWords([]);
+    }
+  }, [favorites]);
 
   return (
-    <div className="max-w-6xl mx-auto py-8">
+    <div className="max-w-6xl mx-auto py-8 px-6">
+      <GuestNotice />
       <motion.div
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
@@ -34,7 +42,12 @@ export default function FavoritesPage() {
         </p>
       </motion.div>
 
-      {favoriteWords.length > 0 ? (
+      {isLoading ? (
+        <div className="flex flex-col items-center justify-center py-20">
+          <Loader2 className="w-8 h-8 animate-spin text-primary opacity-20" />
+          <p className="mt-4 text-sm font-cairo text-muted-foreground">جاري تحميل المفضلة...</p>
+        </div>
+      ) : favoriteWords.length > 0 ? (
         <motion.div 
           className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6"
           layout

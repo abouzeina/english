@@ -1,0 +1,84 @@
+{
+  "id": "lsn_1",
+  "levelId": "lvl_1",
+  "slug": "greetings",
+  "title": "Greetings & Introductions",
+  "titleAr": "التحيات والتعارف",
+  "description": "Learn how to greet people and introduce yourself.",
+  "descriptionAr": "تعلم كيف تحيي الناس وتقدم نفسك.",
+  "order": 1,
+  "wordCount": 3,
+  "words": [
+    {
+      "id": "w_1",
+      "lessonId": "lsn_1",
+      "categoryId": null,
+      "en": "Hello",
+      "ar": "مرحباً",
+      "examples": [
+        {
+          "en": "Hello, how are you today?",
+          "ar": "مرحباً، كيف حالك اليوم؟"
+        },
+        {
+          "en": "Hello everyone, let's start the class.",
+          "ar": "مرحباً بالجميع، لنبدأ الدرس."
+        }
+      ],
+      "tags": [
+        "greeting",
+        "basic"
+      ],
+      "translation": "مرحباً",
+      "pronunciation": "",
+      "type": "word",
+      "difficulty": "A1",
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_2",
+      "lessonId": "lsn_1",
+      "categoryId": null,
+      "en": "Good morning",
+      "ar": "صباح الخير",
+      "examples": [
+        {
+          "en": "Good morning! It is a beautiful day.",
+          "ar": "صباح الخير! إنه يوم جميل."
+        }
+      ],
+      "tags": [
+        "greeting"
+      ],
+      "translation": "صباح الخير",
+      "pronunciation": "",
+      "type": "word",
+      "difficulty": "A1",
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_3",
+      "lessonId": "lsn_1",
+      "categoryId": null,
+      "en": "Name",
+      "ar": "اسم",
+      "examples": [
+        {
+          "en": "My name is Ahmed.",
+          "ar": "اسمي أحمد."
+        }
+      ],
+      "tags": [
+        "personal"
+      ],
+      "translation": "اسم",
+      "pronunciation": "",
+      "type": "word",
+      "difficulty": "A1",
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}
