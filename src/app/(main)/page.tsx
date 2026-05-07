@@ -60,16 +60,16 @@ export default function Home() {
             
             <motion.h1 
               variants={fadeIn}
-              className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight text-foreground leading-[1.1] mb-10 text-balance font-cairo"
+              className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight text-foreground leading-[1.1] mb-10 text-balance font-sans"
             >
-              أتقن الإنجليزية <br />
+              Master English <br />
               <motion.span 
                 initial={{ opacity: 0, x: -20 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.4, duration: 0.8 }}
                 className="text-primary italic relative inline-block"
               >
-                بكل دقة.
+                with .Precision
                 <span className="absolute bottom-2 right-0 w-full h-3 bg-primary/20 -z-10 rounded-full blur-sm"></span>
               </motion.span>
             </motion.h1>
