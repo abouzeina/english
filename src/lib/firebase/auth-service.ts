@@ -12,7 +12,11 @@ export const authService = {
    * Listen for auth state changes
    */
   onAuthStateChange: (callback: (user: User | null) => void) => {
-    if (!auth || !auth.app) return () => {};
+    if (!auth || !auth.app) {
+      // If mock, trigger guest state immediately to prevent hanging UI
+      callback(null);
+      return () => {};
+    }
     return onAuthStateChanged(auth, callback);
   },
 
