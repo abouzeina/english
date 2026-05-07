@@ -53,7 +53,7 @@ export default function ProfilePage() {
   const xpToNextLevel = 1000 - (xp % 1000);
 
   return (
-    <div className="w-full max-w-4xl px-6 py-12">
+    <div className="w-full max-w-4xl mx-auto px-6 py-12">
       <GuestNotice />
       
       <motion.div 

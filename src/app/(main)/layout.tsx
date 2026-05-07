@@ -20,6 +20,7 @@ import {
 import { Button } from "@/components/ui/button";
 
 import { Footer } from "@/components/footer";
+import { PageTransition } from "@/components/page-transition";
 
 const navItems = [
   { name: "الرئيسية", href: "/", icon: Home },
@@ -160,7 +161,9 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
       </header>
       
       <main className="flex-1 flex flex-col items-center w-full">
-        {children}
+        <PageTransition>
+          {children}
+        </PageTransition>
       </main>
 
       <Footer />

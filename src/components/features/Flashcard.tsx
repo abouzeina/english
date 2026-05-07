@@ -188,12 +188,12 @@ export const Flashcard = memo(({
   return (
     <div className={cn("w-full perspective-1000", className)}>
       <motion.div
-        className="w-full grid preserve-3d"
+        className="w-full grid [transform-style:preserve-3d]"
         initial={false}
-        animate={{ rotateX: isFlipped ? 180 : 0 }}
-        transition={{ duration: 0.5, ease: [0.23, 1, 0.32, 1] }}
+        animate={{ rotateY: isFlipped ? 180 : 0 }}
+        transition={{ duration: 0.6, ease: [0.23, 1, 0.32, 1] }}
       >
-        <Card className="[grid-area:1/1] backface-hidden w-full flex flex-col p-5 sm:p-7 border-white/5 bg-card rounded-[2.5rem] h-[520px] shadow-2xl">
+        <Card className="[grid-area:1/1] [backface-visibility:hidden] w-full flex flex-col p-5 sm:p-7 border-white/5 bg-card rounded-[2.5rem] h-[520px] shadow-2xl">
           <div className="flex justify-between items-start mb-4">
             <div className="flex flex-wrap items-center gap-2">
               <div className={cn("w-2 h-2 rounded-full", stateColors[metadata.state])} title={metadata.state} />
@@ -279,7 +279,7 @@ export const Flashcard = memo(({
         </Card>
 
         {hasExamples && (
-          <Card className="[grid-area:1/1] backface-hidden w-full flex flex-col p-5 sm:p-7 border-white/5 bg-secondary/30 backdrop-blur-2xl rounded-[2.5rem] rotate-x-180 h-[520px] shadow-2xl">
+          <Card className="[grid-area:1/1] [backface-visibility:hidden] w-full flex flex-col p-5 sm:p-7 border-white/5 bg-secondary/30 backdrop-blur-2xl rounded-[2.5rem] [transform:rotateY(180deg)] h-[520px] shadow-2xl">
             <div className="flex justify-between items-start mb-4">
               <span className="px-3 py-1 bg-secondary text-muted-foreground text-[10px] font-bold font-sans uppercase rounded-full border border-white/5">Examples ({allExamples.length})</span>
               <button onClick={() => setIsFlipped(false)} className="flex items-center gap-1.5 px-3 py-1.5 text-[10px] font-bold font-cairo text-muted-foreground bg-card rounded-full border border-white/5">

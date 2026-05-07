@@ -1,42 +1,90 @@
+"use client";
+
 import Link from "next/link";
-import { ArrowLeft, BookOpen, Headphones, Zap, Globe, Heart, ShieldCheck, Sparkles, CheckCircle2 } from "lucide-react";
+import { ArrowLeft, Headphones, Zap, Globe, Sparkles, CheckCircle2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { cn } from "@/lib/utils";
 import { Flashcard } from "@/components/features/Flashcard";
+import { motion } from "framer-motion";
+
+const fadeIn = {
+  initial: { opacity: 0, y: 20 },
+  animate: { opacity: 1, y: 0, transition: { duration: 0.6, ease: "easeOut" as any } }
+};
+
+const stagger = {
+  animate: {
+    transition: {
+      staggerChildren: 0.1
+    }
+  }
+};
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center w-full bg-mesh min-h-screen">
+    <div className="flex flex-col items-center w-full bg-mesh min-h-screen overflow-x-hidden">
       {/* Premium Hero Section */}
       <section className="w-full relative pt-6 pb-32 md:pt-10 md:pb-48 overflow-hidden">
         {/* Subtle Background Effects */}
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-full -z-10 pointer-events-none">
-          <div className="absolute top-[-10%] left-[10%] w-[40%] h-[60%] bg-emerald-500/10 blur-[120px] rounded-full animate-pulse-slow" />
-          <div className="absolute bottom-[10%] right-[10%] w-[30%] h-[40%] bg-teal-500/5 blur-[100px] rounded-full animate-pulse-slow" style={{ animationDelay: '2s' }} />
+          <motion.div 
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 2 }}
+            className="absolute top-[-10%] left-[10%] w-[40%] h-[60%] bg-emerald-500/10 blur-[120px] rounded-full animate-pulse-slow" 
+          />
+          <motion.div 
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 2, delay: 0.5 }}
+            className="absolute bottom-[10%] right-[10%] w-[30%] h-[40%] bg-teal-500/5 blur-[100px] rounded-full animate-pulse-slow" 
+            style={{ animationDelay: '2s' }} 
+          />
         </div>
         
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center">
           
           {/* Hero Content */}
-          <div className="lg:col-span-7 flex flex-col items-center lg:items-start text-center lg:text-right">
-            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-500/10 text-primary font-cairo text-[11px] font-bold border border-emerald-500/20 mb-10 transition-premium hover:scale-105">
+          <motion.div 
+            variants={stagger}
+            initial="initial"
+            animate="animate"
+            className="lg:col-span-7 flex flex-col items-center lg:items-start text-center lg:text-right"
+          >
+            <motion.div 
+              variants={fadeIn}
+              className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-500/10 text-primary font-cairo text-[11px] font-bold border border-emerald-500/20 mb-10 transition-premium hover:scale-105"
+            >
               <Sparkles className="w-3.5 h-3.5" />
               <span className="uppercase tracking-widest">اختبر تجربة "وافي" الجديدة</span>
-            </div>
+            </motion.div>
             
-            <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight text-foreground leading-[1.1] mb-10 text-balance font-cairo">
+            <motion.h1 
+              variants={fadeIn}
+              className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight text-foreground leading-[1.1] mb-10 text-balance font-cairo"
+            >
               أتقن الإنجليزية <br />
-              <span className="text-primary italic relative">
+              <motion.span 
+                initial={{ opacity: 0, x: -20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: 0.4, duration: 0.8 }}
+                className="text-primary italic relative inline-block"
+              >
                 بكل دقة.
                 <span className="absolute bottom-2 right-0 w-full h-3 bg-primary/20 -z-10 rounded-full blur-sm"></span>
-              </span>
-            </h1>
+              </motion.span>
+            </motion.h1>
             
-            <p className="text-xl md:text-2xl text-muted-foreground font-cairo max-w-2xl mb-12 leading-relaxed font-medium">
+            <motion.p 
+              variants={fadeIn}
+              className="text-xl md:text-2xl text-muted-foreground font-cairo max-w-2xl mb-12 leading-relaxed font-medium"
+            >
               المنصة الأولى المصممة خصيصاً للعرب ولمعلمي القرآن الكريم. واجهة عصرية تركز على ما يهمك فعلياً.
-            </p>
+            </motion.p>
             
-            <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto mb-10">
+            <motion.div 
+              variants={fadeIn}
+              className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto mb-10"
+            >
               <Link href="/levels" className="w-full sm:w-auto">
                 <Button size="lg" className="w-full sm:w-auto h-16 px-10 rounded-2xl bg-primary text-primary-foreground hover:scale-[1.05] active:scale-[0.98] transition-premium font-bold text-xl group shadow-2xl shadow-primary/30 font-cairo">
                   ابدأ رحلة التعلم
@@ -48,9 +96,12 @@ export default function Home() {
                   دليل معلمي القرآن
                 </Button>
               </Link>
-            </div>
+            </motion.div>
             
-            <div className="flex items-center gap-6 text-muted-foreground/60 font-cairo">
+            <motion.div 
+              variants={fadeIn}
+              className="flex items-center gap-6 text-muted-foreground/60 font-cairo"
+            >
               <div className="flex items-center gap-2 text-xs font-medium">
                 <CheckCircle2 className="w-4 h-4 text-primary" />
                 <span>واجهة خالية من المشتتات</span>
@@ -59,15 +110,23 @@ export default function Home() {
                 <CheckCircle2 className="w-4 h-4 text-primary" />
                 <span>معتمد من معلمي القرآن</span>
               </div>
-            </div>
-          </div>
+            </motion.div>
+          </motion.div>
 
           {/* Hero Visuals / Demo */}
-          <div className="lg:col-span-5 relative w-full flex justify-center">
+          <motion.div 
+            initial={{ opacity: 0, scale: 0.8, rotate: -5 }}
+            animate={{ opacity: 1, scale: 1, rotate: 0 }}
+            transition={{ duration: 1, ease: "easeOut" as any }}
+            className="lg:col-span-5 relative w-full flex justify-center"
+          >
             <div className="relative w-full max-w-md lg:max-w-none group">
               <div className="absolute -top-10 -right-10 w-32 h-32 bg-primary/10 blur-3xl rounded-full group-hover:scale-150 transition-premium duration-1000" />
               
-              <div className="relative glass-panel p-2 rounded-[2.5rem] border-white/5 shadow-2xl transition-premium group-hover:rotate-1 group-hover:-translate-y-2 animate-float">
+              <motion.div 
+                whileHover={{ y: -10, rotate: 1 }}
+                className="relative glass-panel p-2 rounded-[2.5rem] border-white/5 shadow-2xl transition-premium animate-float"
+              >
                 <div className="bg-background/80 rounded-[2rem] p-6 border border-white/5">
                   <div className="flex items-center gap-1.5 mb-6 opacity-40">
                     <div className="w-2.5 h-2.5 rounded-full bg-red-500/50" />
@@ -85,9 +144,9 @@ export default function Home() {
                     className="border-0 shadow-none bg-transparent"
                   />
                 </div>
-              </div>
+              </motion.div>
             </div>
-          </div>
+          </motion.div>
           
         </div>
       </section>
@@ -95,16 +154,22 @@ export default function Home() {
       {/* Philosophy Section */}
       <section className="w-full py-32 bg-secondary/30">
         <div className="max-w-7xl mx-auto px-6">
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-16 items-end mb-24">
+          <motion.div 
+            initial="initial"
+            whileInView="animate"
+            viewport={{ once: true, margin: "-100px" }}
+            variants={stagger}
+            className="grid grid-cols-1 lg:grid-cols-12 gap-16 items-end mb-24"
+          >
             <div className="lg:col-span-7">
-              <h2 className="text-4xl md:text-6xl font-bold tracking-tight mb-8 font-cairo">
+              <motion.h2 variants={fadeIn} className="text-4xl md:text-6xl font-bold tracking-tight mb-8 font-cairo">
                 صُمم من أجل <span className="text-primary italic">التعلم العميق.</span>
-              </h2>
-              <p className="text-xl text-muted-foreground font-cairo leading-relaxed max-w-2xl">
+              </motion.h2>
+              <motion.p variants={fadeIn} className="text-xl text-muted-foreground font-cairo leading-relaxed max-w-2xl">
                 لقد بنينا هذه المنصة بفلسفة "التركيز المطلق". لا مشتتات، لا ألعاب لا داعي لها، فقط أنت والمحتوى التعليمي بأعلى جودة ممكنة.
-              </p>
+              </motion.p>
             </div>
-            <div className="lg:col-span-5 flex justify-start lg:justify-end">
+            <motion.div variants={fadeIn} className="lg:col-span-5 flex justify-start lg:justify-end">
               <div className="flex -space-x-3">
                 {[1, 2, 3, 4].map((i) => (
                   <div key={i} className="w-12 h-12 rounded-full border-2 border-background bg-secondary flex items-center justify-center text-xs font-bold">
@@ -115,10 +180,16 @@ export default function Home() {
                   +1k
                 </div>
               </div>
-            </div>
-          </div>
+            </motion.div>
+          </motion.div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+          <motion.div 
+            initial="initial"
+            whileInView="animate"
+            viewport={{ once: true }}
+            variants={stagger}
+            className="grid grid-cols-1 md:grid-cols-3 gap-12"
+          >
             <ModernFeatureCard 
               icon={Headphones}
               title="نظام صوتي نقي"
@@ -137,24 +208,7 @@ export default function Home() {
               titleAr="Instant Feedback"
               description="تحقق من مستواك فوراً عبر نظام اختبارات تفاعلي صُمم ليثبت المعلومة في ذاكرتك الطويلة."
             />
-          </div>
-        </div>
-      </section>
-
-      {/* Testimonial / Story Section */}
-      <section className="w-full py-40">
-        <div className="max-w-5xl mx-auto px-6 text-center">
-          <Sparkles className="w-12 h-12 text-primary mx-auto mb-10 opacity-50" />
-          <blockquote className="text-3xl md:text-5xl font-medium tracking-tight leading-[1.2] text-foreground mb-16 font-cairo italic">
-            "وافي لم يعلمني الإنجليزية فحسب؛ بل منحني الثقة للتواصل مع طلابي غير الناطقين بالعربية بصفتي معلماً للقرآن الكريم."
-          </blockquote>
-          <div className="flex flex-col items-center gap-4">
-            <div className="w-16 h-16 rounded-full bg-secondary border border-white/5" />
-            <div className="flex flex-col">
-              <span className="font-bold text-lg font-cairo">الشيخ أحمد م.</span>
-              <span className="text-muted-foreground font-cairo text-sm">معلم قرآن كريم - المدينة المنورة</span>
-            </div>
-          </div>
+          </motion.div>
         </div>
       </section>
 
@@ -162,18 +216,26 @@ export default function Home() {
       <section className="w-full py-48 relative overflow-hidden border-t border-white/5">
         <div className="absolute inset-0 bg-primary/5 blur-[120px] -z-10 translate-y-1/2" />
         <div className="max-w-4xl mx-auto px-6 text-center flex flex-col items-center">
-          <h2 className="text-5xl md:text-8xl font-bold tracking-tighter mb-12 text-foreground font-cairo">
+          <motion.h2 
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="text-5xl md:text-8xl font-bold tracking-tighter mb-12 text-foreground font-cairo"
+          >
             ابدأ رحلة <span className="text-gradient">الإتقان</span><br />اليوم.
-          </h2>
-          <Link href="/levels" className="group">
-            <Button size="lg" className="bg-primary text-primary-foreground hover:scale-105 active:scale-95 transition-premium h-20 px-16 rounded-[2.5rem] font-bold text-2xl font-cairo shadow-2xl shadow-primary/20 gap-4">
-              ابدأ رحلتك الآن
-              <ArrowLeft className="w-7 h-7 group-hover:translate-x-1 transition-premium" />
-            </Button>
-          </Link>
-          <p className="mt-12 text-muted-foreground font-cairo text-sm font-medium tracking-widest uppercase">
-            انضم إلى نخبة المتعلمين اليوم.
-          </p>
+          </motion.h2>
+          <motion.div
+            initial={{ opacity: 0, scale: 0.9 }}
+            whileInView={{ opacity: 1, scale: 1 }}
+            viewport={{ once: true }}
+          >
+            <Link href="/levels" className="group">
+              <Button size="lg" className="bg-primary text-primary-foreground hover:scale-105 active:scale-95 transition-premium h-20 px-16 rounded-[2.5rem] font-bold text-2xl font-cairo shadow-2xl shadow-primary/20 gap-4">
+                ابدأ رحلتك الآن
+                <ArrowLeft className="w-7 h-7 group-hover:translate-x-1 transition-premium" />
+              </Button>
+            </Link>
+          </motion.div>
         </div>
       </section>
       
@@ -183,7 +245,11 @@ export default function Home() {
 
 function ModernFeatureCard({ icon: Icon, title, titleAr, description }: any) {
   return (
-    <div className="flex flex-col group transition-premium">
+    <motion.div 
+      variants={fadeIn}
+      whileHover={{ y: -5 }}
+      className="flex flex-col group transition-premium"
+    >
       <div className="w-14 h-14 rounded-2xl bg-secondary flex items-center justify-center mb-8 border border-white/5 transition-premium group-hover:scale-110 group-hover:rotate-3 group-hover:bg-primary group-hover:text-primary-foreground">
         <Icon className="w-6 h-6" />
       </div>
@@ -194,6 +260,6 @@ function ModernFeatureCard({ icon: Icon, title, titleAr, description }: any) {
       <p className="text-muted-foreground font-cairo leading-relaxed font-medium">
         {description}
       </p>
-    </div>
+    </motion.div>
   );
 }
