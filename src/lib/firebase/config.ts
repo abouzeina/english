@@ -12,16 +12,30 @@ const firebaseConfig = {
   measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID,
 };
 
-// Initialize Firebase safely
-const app = getApps().length > 0 ? getApp() : initializeApp(firebaseConfig);
-const auth = getAuth(app);
-const db = getFirestore(app);
+const isConfigValid = !!firebaseConfig.apiKey;
 
-// Set persistence
-if (typeof window !== "undefined") {
-  setPersistence(auth, browserLocalPersistence).catch((error) => {
-    console.error("Auth persistence error:", error);
-  });
+// Initialize Firebase safely
+let app;
+let auth: any;
+let db: any;
+
+if (isConfigValid) {
+  app = getApps().length > 0 ? getApp() : initializeApp(firebaseConfig);
+  auth = getAuth(app);
+  db = getFirestore(app);
+
+  // Set persistence
+  if (typeof window !== "undefined") {
+    setPersistence(auth, browserLocalPersistence).catch((error) => {
+      console.error("Auth persistence error:", error);
+    });
+  }
+} else {
+  // During build time on Vercel without env vars, we provide mock objects
+  console.warn("⚠️ Firebase API Key missing. Firebase features will be disabled until environment variables are provided.");
+  app = {} as any;
+  auth = { onAuthStateChanged: () => () => {} } as any;
+  db = {} as any;
 }
 
 export { app, auth, db };

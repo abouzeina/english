@@ -77,6 +77,12 @@ export class SyncEngine {
   private async processQueue() {
     if (this.isProcessing || (this.queue.size === 0 && this.wordQueue.size === 0)) return;
     
+    // Safety check for uninitialized db (e.g. during build)
+    if (!db || !db.type) {
+      console.warn("[SyncEngine] Skipping sync: Firestore is not initialized.");
+      return;
+    }
+
     this.isProcessing = true;
     useSyncStore.getState().setSyncing(true);
     const batch = writeBatch(db);

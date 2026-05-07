@@ -12,6 +12,7 @@ export const authService = {
    * Listen for auth state changes
    */
   onAuthStateChange: (callback: (user: User | null) => void) => {
+    if (!auth || !auth.app) return () => {};
     return onAuthStateChanged(auth, callback);
   },
 
