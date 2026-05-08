@@ -149,7 +149,7 @@ async function run() {
                 warnings.push({
                     word: item.en || 'unknown',
                     reason: 'Schema validation failed',
-                    errors: parseResult.error.errors,
+                    errors: parseResult.error.issues,
                     raw: item
                 });
                 warningCount++;

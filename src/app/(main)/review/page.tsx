@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo, useCallback } from "react";
+import { useState, useEffect, useMemo, useCallback, useRef } from "react";
 import { useWafiStore, useAppStore } from "@/store/useAppStore";
 import { Flashcard } from "@/components/features/Flashcard";
 import { Button } from "@/components/ui/button";
@@ -30,7 +30,7 @@ export default function ReviewPage() {
   const [isListenFirst, setIsListenFirst] = useState(false);
   const [sessionStats, setSessionStats] = useState<any>(null);
   const [isLoadingNext, setIsLoadingNext] = useState(false);
-  const nextTimeoutRef = React.useRef<NodeJS.Timeout | null>(null);
+  const nextTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
     return () => {
