@@ -1,0 +1,241 @@
+{
+  "id": "lsn_b1_v_1",
+  "levelId": "lvl_b1",
+  "slug": "v-words-1",
+  "title": "Unit 42: V Words - Part 1",
+  "titleAr": "الوحدة 42: كلمات حرف V - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with V.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف V.",
+  "order": 42,
+  "wordCount": 10,
+  "words": [
+    {
+      "id": "w_b1_used_to",
+      "en": "used to",
+      "ar": "يعتاد على",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need some time to get used to this bike.",
+          "ar": "أحتاج لبعض الوقت حتى أعتاد على هذه الدراجة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_value",
+      "en": "value",
+      "ar": "قيمة",
+      "pronunciation": "/'væl.ju/",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Many things of value were stolen.",
+          "ar": "أشياء كثيرة ذات قيمة قد سرقت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_valuable",
+      "en": "valuable",
+      "ar": "قيمة / قيم",
+      "pronunciation": "/'væl-ju-a-bəl/",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was a valuable experience.",
+          "ar": "كانت تجربة قيمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_various",
+      "en": "various",
+      "ar": "متنوعة",
+      "pronunciation": "I'veər·i·es/",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Tables come in various shapes and sizes.",
+          "ar": "تأتي الطاولات بأشكال وأحجام متنوعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_version",
+      "en": "version",
+      "ar": "نسخة",
+      "pronunciation": "/'var zen/",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Where is the original version of the article?",
+          "ar": "أين النسخة الأصلية من المقال ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_victims",
+      "en": "victims",
+      "ar": "ضحايا",
+      "pronunciation": "/vık-təm/",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How many victims of the earthquake disaster?",
+          "ar": "كم عدد ضحايا كارثة الزلزال ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_view",
+      "en": "view",
+      "ar": "يرى / وجهة نظر / مشاهدين",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't view it as a good opportunity.",
+          "ar": "لا أرى أنها فرصة جيدة."
+        },
+        {
+          "en": "His channel attracted millions of viewers.",
+          "ar": "جذبت قناته ملايين المشاهدين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_violent",
+      "en": "violent",
+      "ar": "عنيفاً",
+      "pronunciation": "/'varələnt/",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Have you ever been violent toward anyone?",
+          "ar": "هل سبق لك أن كنت عنيفًا تجاه أي شخص ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_volunteers",
+      "en": "volunteers",
+      "ar": "متطوعين / تطوعت",
+      "pronunciation": "va-lən tər/",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need volunteers to translate these documents.",
+          "ar": "نحن بحاجة إلى متطوعين لترجمة هذه الوثائق."
+        },
+        {
+          "en": "I volunteered to organize the crowd.",
+          "ar": "أنا تطوعت لتنظيم الحشد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_voted",
+      "en": "voted",
+      "ar": "صوت / انتخابات",
+      "pronunciation": "/vout/",
+      "lessonId": "lsn_b1_v_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Five million people voted in the election.",
+          "ar": "صوت خمسة ملايين شخص في الانتخابات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

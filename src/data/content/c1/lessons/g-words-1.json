@@ -1,0 +1,299 @@
+{
+  "id": "lsn_c1_g_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 14: G Words - Part 1",
+  "slug": "g-words-1",
+  "order": 14,
+  "wordCount": 13,
+  "titleAr": "الوحدة 14: كلمات حرف G - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter G.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف G.",
+  "words": [
+    {
+      "id": "w_c1_gallon",
+      "en": "gallon",
+      "ar": "جالون",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمكن لخزان وقود السيارة استيعاب ما يصل إلى خمسة عشر جالوناً من البنزين",
+          "ar": "We bought a gallon of milk for the large family breakfast."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡælən/"
+    },
+    {
+      "id": "w_c1_gambling",
+      "en": "gambling",
+      "ar": "قمار / مراهنة",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أصبح القمار عبر الإنترنت مشكلة خطيرة لكثير من الناس",
+          "ar": "He lost a lot of money due to his addiction to gambling."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡæm.blɪŋ/"
+    },
+    {
+      "id": "w_c1_gathering",
+      "en": "gathering",
+      "ar": "تجمع / اجتماع",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استضافت العائلة تجمعاً كبيراً بمناسبة العيد",
+          "ar": "Police were called to disperse the illegal gathering."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡæ.ðə.ɹɪŋ/"
+    },
+    {
+      "id": "w_c1_gaze",
+      "en": "gaze",
+      "ar": "نظرة / يحدق",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ثبتت نظرتها على اللوحة الجميلة المعلقة على الجائط",
+          "ar": "He continued to gaze out of the window at the falling rain."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡeɪz/"
+    },
+    {
+      "id": "w_c1_gear",
+      "en": "gear",
+      "ar": "معدات / ترس",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تأكد من امتلاكك لجميع معدات التنزه اللازمة",
+          "ar": "The company is moving into high gear for the product launch."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɪə(ɹ)/"
+    },
+    {
+      "id": "w_c1_generic",
+      "en": "generic",
+      "ar": "عام / غير مسجل",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الأدوية الجنيسة (العامة) غالباً ما تكون أرخص بكثير من تلك ذات الأسماء التجارية",
+          "ar": "The movie received a generic title that was easy to remember."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dʒɪˈnɛɹɪk/"
+    },
+    {
+      "id": "w_c1_genocide",
+      "en": "genocide",
+      "ar": "إبادة جماعية",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب أن يتحد العالم لمنع أي إبادة جماعية في المستقبل",
+          "ar": "The international court is investigating reports of genocide."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈd͡ʒɛnəsaɪd/"
+    },
+    {
+      "id": "w_c1_glance",
+      "en": "glance",
+      "ar": "لمحة / يلقي نظرة",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ألقى نظرة سريعة على ساعته وأدرك أنه متأخر",
+          "ar": "At first glance, the problem seemed very easy to solve."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡlɑːns/"
+    },
+    {
+      "id": "w_c1_glimpse",
+      "en": "glimpse",
+      "ar": "لمحة خاطفة",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نجحت في إلقاء لمحة خاطفة على النجم أثناء مغادرته الفندق",
+          "ar": "The book provides a fascinating glimpse into ancient history."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡlɪmps/"
+    },
+    {
+      "id": "w_c1_glorious",
+      "en": "glorious",
+      "ar": "مجيد / رائع",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حقق الفريق نصراً مجيداً في البطولة",
+          "ar": "We had a glorious view of the mountains from our room."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡlɔː.ɹi.əs/"
+    },
+    {
+      "id": "w_c1_glory",
+      "en": "glory",
+      "ar": "مجد / فخر",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قضى حياته كلها باحثاً عن الشهرة والمجد",
+          "ar": "The temple was restored to its former glory."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡlo(ː)ɹi/"
+    },
+    {
+      "id": "w_c1_governance",
+      "en": "governance",
+      "ar": "حوكمة / إدارة",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حوكمة الشركات ضرورية لجذب المستثمرين",
+          "ar": "The report criticized the lack of transparency in local governance."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡʌvənəns/"
+    },
+    {
+      "id": "w_c1_grace",
+      "en": "grace",
+      "ar": "نعمة / لباقة / جمال",
+      "lessonId": "lsn_c1_g_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعاملت مع الانتقادات بلباقة واتزان ملحوظين",
+          "ar": "The dancer moved across the stage with effortless grace."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹeɪs/"
+    }
+  ]
+}

@@ -1,14 +1,111 @@
 {
   "id": "lsn_a2_l_2",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 23: L Words - Part 2",
   "slug": "l-words-2",
-  "title": "Unit 24: L Words - Part 2",
-  "titleAr": "الوحدة 24: كلمات حرف L - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter L.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف L.",
-  "order": 24,
-  "wordCount": 13,
+  "order": 23,
+  "wordCount": 16,
+  "titleAr": "الوحدة 23: كلمات حرف L - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف L.",
   "words": [
+    {
+      "id": "w_a2_less",
+      "en": "less",
+      "ar": "أقل",
+      "pronunciation": "/les/",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You should eat less red meat.",
+          "ar": "يجب أن تأكل لحوم حمراء أقل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_level",
+      "en": "level",
+      "ar": "مستوى",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is your level in English ?",
+          "ar": "ما هو مستواك في اللغة الإنجليزية : ؟"
+        },
+        {
+          "en": "Put it on level ground.",
+          "ar": "ضعه على أرض مستوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈlɛv.əl/"
+    },
+    {
+      "id": "w_a2_lifestyle",
+      "en": "lifestyle",
+      "ar": "نمط الحياة",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali enjoyed the country lifestyle.",
+          "ar": "استمتع علي بنمط الحياة الريفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈlaɪfˌstaɪl/"
+    },
+    {
+      "id": "w_a2_lift",
+      "en": "lift",
+      "ar": "رفع / مصعد",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali carefully lifted the box.",
+          "ar": "رفع علي الصندوق بعناية."
+        },
+        {
+          "en": "We got the lift to the fifth floor",
+          "ar": "ركبنا المصعد للطابق الخامس :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/lɪft/"
+    },
     {
       "id": "w_a2_likely",
       "en": "likely",
@@ -35,7 +132,6 @@
       "id": "w_a2_link",
       "en": "link",
       "ar": "رابط / يربط",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -55,7 +151,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/lɪŋk/"
     },
     {
       "id": "w_a2_listener",
@@ -80,32 +177,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_little",
-      "en": "little",
-      "ar": "قليلا",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_l_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I am a little afraid of going outside.",
-          "ar": "أنا خائف قليلاً من الخروج :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_lock",
       "en": "lock",
       "ar": "قفل / أقفلت",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -125,29 +199,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_look",
-      "en": "look",
-      "ar": "نظرة",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_l_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Take a look at these pictures.",
-          "ar": "ألق نظرة على هذه الصور :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/lɒk/"
     },
     {
       "id": "w_a2_lorry",
@@ -175,7 +228,6 @@
       "id": "w_a2_lost",
       "en": "lost",
       "ar": "ضائع / مفقود",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -191,7 +243,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/lɒst/"
     },
     {
       "id": "w_a2_loud",
@@ -245,7 +298,6 @@
       "id": "w_a2_lovely",
       "en": "lovely",
       "ar": "جميلة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -261,13 +313,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈlʌvli/"
     },
     {
       "id": "w_a2_low",
       "en": "low",
       "ar": "منخفض",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -287,13 +339,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ləʊ/"
     },
     {
       "id": "w_a2_luck",
       "en": "luck",
       "ar": "حظ",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -309,7 +361,30 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/lʊk/"
+    },
+    {
+      "id": "w_a2_lucky",
+      "en": "lucky",
+      "ar": "محظوظ",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is lucky to still have a job",
+          "ar": "علي محظوظ لأنه لا يزال لديه وظيفة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈlʌki/"
     }
   ]
 }

@@ -1,0 +1,579 @@
+{
+  "id": "lsn_b2_b_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 6: B Words - Part 2",
+  "slug": "b-words-2",
+  "order": 6,
+  "wordCount": 25,
+  "titleAr": "الوحدة 6: كلمات حرف B - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف B.",
+  "words": [
+    {
+      "id": "w_b2_bid",
+      "en": "bid",
+      "ar": "يعرض سعراً / عرض سعر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I bid fifty dollars for this painting.",
+          "ar": "أنا أعرض خمسين دولارًا مقابل هذه اللوحة."
+        },
+        {
+          "en": "The highest bid for this piece was $300.",
+          "ar": "كان أعلى عرض لهذه القطعة 300 دولار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_biological",
+      "en": "biological",
+      "ar": "بيولوجي / حيوي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is not my biological son, I adopted him.",
+          "ar": "إنه ليس إبني البيولوجي، لقد تبنيته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bitter",
+      "en": "bitter",
+      "ar": "مر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This drink leaves a bitter taste in the mouth.",
+          "ar": "يترك هذا المشروب طعما مرا في الفم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_blame",
+      "en": "blame",
+      "ar": "يلوم / اللوم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Don't put the blame on me.",
+          "ar": "لا تضع اللوم على عاتقي."
+        },
+        {
+          "en": "Nobody blames you for what happened.",
+          "ar": "لا أحد يلومك على ما حدث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_blanket",
+      "en": "blanket",
+      "ar": "بطانية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Fold the blanket and put it over there.",
+          "ar": "قم بطي البطانية وضعها هناك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_blind",
+      "en": "blind",
+      "ar": "أعمى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He went blind at the age of eight.",
+          "ar": "أصبح أعمى في سن الثامنة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bold",
+      "en": "bold",
+      "ar": "جريء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your decision was bold and interesting.",
+          "ar": "كان قرارك جريئًا ومثيرا للاهتمام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bombing",
+      "en": "bombing",
+      "ar": "قصف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Many houses were destroyed due to the heavy bombing.",
+          "ar": "العديد من المنازل دمرت بسبب القصف العنيف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bond",
+      "en": "bond",
+      "ar": "رابط / علاقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The workers formed strong bonds with each other.",
+          "ar": "شكل العمال روابط قوية مع بعضهم البعض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_booking",
+      "en": "booking",
+      "ar": "حجز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is a crowd waiting inside the booking hall.",
+          "ar": "هناك حشد من الناس ينتظرون داخل قاعة الحجز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_boost",
+      "en": "boost",
+      "ar": "يعزز / دفعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "These achievements will give us a great boost.",
+          "ar": "ستعطينا هذه الإنجازات دفعة كبيرة."
+        },
+        {
+          "en": "This plan will boost our profits.",
+          "ar": "سوف تعزز هذه الخطة أرباحنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bound",
+      "en": "bound",
+      "ar": "لا بد / محتم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You've studied hard, you are bound to pass the exam.",
+          "ar": "لقد درست بجد، ولا بد أن تنجح في الامتحان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_breast",
+      "en": "breast",
+      "ar": "ثدي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You should feed your baby from your breast.",
+          "ar": "يجب عليك إطعام طفلك من ثديك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_brick",
+      "en": "brick",
+      "ar": "طوب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our house is built of brick.",
+          "ar": "بيتنا مبني من الطوب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_brief",
+      "en": "brief",
+      "ar": "موجز / مختصر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Give me a brief summary of what happened.",
+          "ar": "أعطني ملخصا موجزا لما حدث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_briefly",
+      "en": "briefly",
+      "ar": "بإيجاز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Describe your role in the project briefly.",
+          "ar": "صف دورك في المشروع بإيجاز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_broad",
+      "en": "broad",
+      "ar": "عريض / واسع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We want the ad to reach a broad audience.",
+          "ar": "نريد أن يصل الإعلان إلى جمهور عريض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_broadcast",
+      "en": "broadcast",
+      "ar": "بث / يبث / شبكة بث",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He owns a famous television broadcast network.",
+          "ar": "يمتلك شبكة بث تلفزيوني مشهورة."
+        },
+        {
+          "en": "They broadcast programmes to learn English.",
+          "ar": "يبشون برامج لتعلم اللغة الإنجليزية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_broadcaster",
+      "en": "broadcaster",
+      "ar": "مذيع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He works as a local broadcaster.",
+          "ar": "يعمل كمذيع محلي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_broadly",
+      "en": "broadly",
+      "ar": "بشكل عام",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our situations are broadly similar.",
+          "ar": "أوضاعنا متشابهة بشكل عام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_budget",
+      "en": "budget",
+      "ar": "ميزانية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They set a big budget for marketing.",
+          "ar": "لقد وضعوا ميزانية كبيرة للتسويق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bug",
+      "en": "bug",
+      "ar": "خطأ برمي / علة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your software is full of bugs.",
+          "ar": "برنامجك مليء بال أخطاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bullet",
+      "en": "bullet",
+      "ar": "رصاصة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The policeman fired live bullets at the killer.",
+          "ar": "أطلق الشرطي الرصاص الحي على القاتل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bunch",
+      "en": "bunch",
+      "ar": "حفنة / مجموعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He says that lawyers are a bunch of thieves.",
+          "ar": "يقول أن المحامين هم حفنة من اللصوص."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bush",
+      "en": "bush",
+      "ar": "شجيرة",
+      "lessonId": "lsn_b2_b_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I found him hiding in the bushes.",
+          "ar": "وجدته مختبئا بين الشجيرات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/bʊʃ/"
+    }
+  ]
+}

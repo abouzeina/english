@@ -1,0 +1,215 @@
+{
+  "id": "lsn_a1_y_1",
+  "levelId": "lvl_1",
+  "title": "Y Words - Part 1",
+  "slug": "y-words-1",
+  "order": 47,
+  "wordCount": 9,
+  "titleAr": "كلمات حرف Y - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter Y.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف Y.",
+  "words": [
+    {
+      "id": "w_a1_wrong",
+      "lessonId": "lsn_a1_y_1",
+      "en": "wrong",
+      "translation": "خاطئ / خاطئة",
+      "ar": "خاطئ / خاطئة",
+      "pronunciation": "/ron/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That's the wrong answer.",
+          "ar": "تلك إجابة خاطئة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_yeah",
+      "lessonId": "lsn_a1_y_1",
+      "en": "yeah",
+      "translation": "نعم",
+      "ar": "نعم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Yeah, I agree with you.",
+          "ar": "نعم، أنا أتفق معك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_yellow",
+      "lessonId": "lsn_a1_y_1",
+      "en": "yellow",
+      "translation": "أصفر",
+      "ar": "أصفر",
+      "pronunciation": "/'jelou/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He wore a yellow shirt.",
+          "ar": "كان يرتدي قميصاً أصفر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_yes",
+      "lessonId": "lsn_a1_y_1",
+      "en": "yes",
+      "translation": "نعم",
+      "ar": "نعم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Yes, that is correct.",
+          "ar": "نعم، هذا صحيح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_yesterday",
+      "lessonId": "lsn_a1_y_1",
+      "en": "yesterday",
+      "translation": "بالأمس / أمس",
+      "ar": "بالأمس / أمس",
+      "pronunciation": "/ jes ter der/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I stayed home yesterday.",
+          "ar": "مكثت في المنزل بالأمس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_you",
+      "lessonId": "lsn_a1_y_1",
+      "en": "you",
+      "translation": "أنت / أنتم",
+      "ar": "أنت / أنتم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You are my best friend.",
+          "ar": "أنت أعز أصدقائي."
+        },
+        {
+          "en": "I missed you.",
+          "ar": "اشتقت لك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_young",
+      "lessonId": "lsn_a1_y_1",
+      "en": "young",
+      "translation": "صغير في السن",
+      "ar": "صغير في السن",
+      "pronunciation": "/jλη/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The young boy is running.",
+          "ar": "الصبي الصغير يركض."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_your",
+      "lessonId": "lsn_a1_y_1",
+      "en": "your",
+      "translation": "ضمير ملكية (لك / لكم)",
+      "ar": "ضمير ملكية (لك / لكم)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like your idea.",
+          "ar": "تعجبني فكرتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_yourself",
+      "lessonId": "lsn_a1_y_1",
+      "en": "yourself",
+      "translation": "نفسك",
+      "ar": "نفسك",
+      "pronunciation": "/jur self, jor self/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Have fun with yourself.",
+          "ar": "استمتع بوقتك مع نفسك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

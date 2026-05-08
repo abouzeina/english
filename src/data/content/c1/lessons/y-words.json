@@ -1,0 +1,79 @@
+{
+  "id": "lsn_c1_y",
+  "levelId": "lvl_c1",
+  "title": "Unit 51: Y Words",
+  "slug": "y-words",
+  "order": 51,
+  "wordCount": 3,
+  "titleAr": "الوحدة 51: كلمات حرف Y",
+  "description": "Master essential C1 vocabulary starting with the letter Y.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف Y.",
+  "words": [
+    {
+      "id": "w_c1_yell",
+      "en": "yell",
+      "ar": "يصرخ",
+      "lessonId": "lsn_c1_y",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اضطر للصرخ ليُسمع وسط الضوضاء.",
+          "ar": "Don't yell at me, I can hear you perfectly fine."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/jɛl/"
+    },
+    {
+      "id": "w_c1_yield",
+      "en": "yield",
+      "ar": "إنتاج / يخضع / يثمر",
+      "lessonId": "lsn_c1_y",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "من المتوقع أن يثمر الاستثمار عوائد عالية.",
+          "ar": "The driver had to yield to the pedestrians."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/jiːld/"
+    },
+    {
+      "id": "w_c1_youngster",
+      "en": "youngster",
+      "ar": "شاب / فتى",
+      "lessonId": "lsn_c1_y",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يهدف البرنامج إلى تشجيع الشباب على ممارسة الرياضة.",
+          "ar": "Many youngsters are worried about their future careers."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈjʌŋstə/"
+    }
+  ]
+}

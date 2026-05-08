@@ -1,0 +1,575 @@
+{
+  "id": "lsn_b1_f_1",
+  "levelId": "lvl_b1",
+  "slug": "f-words-1",
+  "title": "Unit 14: F Words - Part 1",
+  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with F.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف F.",
+  "order": 14,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_extra",
+      "en": "extra",
+      "ar": "ملحق / إضافي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you read the newspaper extra?",
+          "ar": "هل قرأت ملحق الجريدة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_faces",
+      "en": "faces",
+      "ar": "يواجه",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our project faces some difficulties.",
+          "ar": "مشروعنا يواجه بعض الصعوبات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fairly",
+      "en": "fairly",
+      "ar": "إلى حد ما",
+      "pronunciation": "/ feer-li/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It's a fairly common name.",
+          "ar": "إنه اسم شائع إلى حد ما."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_familiar",
+      "en": "familiar",
+      "ar": "مألوف",
+      "pronunciation": "/fe mıl jər/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This place looks familiar.",
+          "ar": "هذا المكان يبدو مألوف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fancy",
+      "en": "fancy",
+      "ar": "فاخر / يرغب في",
+      "pronunciation": "/'fæn-si/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They went to a fancy restaurant.",
+          "ar": "ذهبوا إلى مطعم فاخر."
+        },
+        {
+          "en": "Do you fancy eating something sweet?",
+          "ar": "هل ترغب في أكل شيء حلو ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_far",
+      "en": "far",
+      "ar": "بعيداً",
+      "pronunciation": "/far/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We live far from here.",
+          "ar": "نعيش بعيدًا عن هنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fascinating",
+      "en": "fascinating",
+      "ar": "فاتن / ساحر",
+      "pronunciation": "/ fæse, ner /",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was a fascinating basketball match.",
+          "ar": "كانت مباراة كرة سلة رائعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fashionable",
+      "en": "fashionable",
+      "ar": "عصري / مطابق للموضة",
+      "pronunciation": "/'fæfə nə bəl/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She likes to wear fashionable clothes.",
+          "ar": "هي تحب ارتداء ملابس عصرية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fasten",
+      "en": "fasten",
+      "ar": "يربط",
+      "pronunciation": "/'fæs.ən/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They asked us to fasten our seat belts.",
+          "ar": "طلبوا منا أن نربط أحزمة مقاعدنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_favor",
+      "en": "favor",
+      "ar": "معروف",
+      "pronunciation": "/ fer-vər/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do yourself a favor and quit smoking.",
+          "ar": "اعمل لنفسك معروفًا وأقلع عن التدخين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fear",
+      "en": "fear",
+      "ar": "يخاف من",
+      "pronunciation": "/fzer/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My daughter doesn't fear the dentist.",
+          "ar": "ابنتي لا تخاف من طبيب الأسنان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_featured",
+      "en": "featured",
+      "ar": "أبرزته / سمة",
+      "pronunciation": "/'fi-tfər/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The newspaper featured it inside its pages.",
+          "ar": "الجريدة أبرزته داخل صفحاتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fence",
+      "en": "fence",
+      "ar": "سور",
+      "pronunciation": "/fi-tfər/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I reached the fence of the park.",
+          "ar": "وصلت إلى سور المتنزه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fighting",
+      "en": "fighting",
+      "ar": "عراك / قتال",
+      "pronunciation": "/'far tin/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is resting after fighting.",
+          "ar": "إنه يستريح بعد العراك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_files",
+      "en": "files",
+      "ar": "ملفات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Could you review these files for me?",
+          "ar": "هل يمكنك مراجعة هذه الملفات من أجلي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_financial",
+      "en": "financial",
+      "ar": "مالي",
+      "pronunciation": "/far næn fəl/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We offer financial services.",
+          "ar": "نقدم خدمات مالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fired",
+      "en": "fired",
+      "ar": "طردوني / طرد",
+      "pronunciation": "/fazer/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am looking for a job after they fired me.",
+          "ar": "أبحث عن وظيفة بعد أن طردوني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fitness",
+      "en": "fitness",
+      "ar": "لياقة بدنية",
+      "pronunciation": "/'fit-nəs/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I read several fitness articles.",
+          "ar": "قرأت العديد من مقالات اللياقة البدنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fixed",
+      "en": "fixed",
+      "ar": "ثابتة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Follow the fixed instructions please.",
+          "ar": "اتبع التعليمات الثابتة من فضلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_flag",
+      "en": "flag",
+      "ar": "علم",
+      "pronunciation": "/flæg/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This flag is made of good materials.",
+          "ar": "هذا العلم مصنوع من مواد جيدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_floods",
+      "en": "floods",
+      "ar": "فيضانات / يفيض",
+      "pronunciation": "/flad/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They are predicting floods next month.",
+          "ar": "يتوقعون حدوث فيضانات الشهر المقبل."
+        },
+        {
+          "en": "The river flooded suddenly.",
+          "ar": "فاض النهر فجأة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_flour",
+      "en": "flour",
+      "ar": "طحين / دقيق",
+      "pronunciation": "/flaver/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This bowl contains some flour.",
+          "ar": "هذا الوعاء يحتوي على بعض الطحين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_flows",
+      "en": "flows",
+      "ar": "يتدفق / سيلان",
+      "pronunciation": "/flou/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The river flows towards the desert.",
+          "ar": "النهر يتدفق باتجاه الصحراء."
+        },
+        {
+          "en": "I can't stop the flow of my blood.",
+          "ar": "لا أستطيع إيقاف سيلان دمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_folded",
+      "en": "folded",
+      "ar": "طوى",
+      "pronunciation": "/fould/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He folded the paper and put it in his pocket.",
+          "ar": "هو طوى الورقة ووضعها في جيبه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_folks",
+      "en": "folks",
+      "ar": "ناس / عامة",
+      "pronunciation": "/fouk/",
+      "lessonId": "lsn_b1_f_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Like most folks, I like good jokes.",
+          "ar": "مثل معظم الناس، أحب النكات الجيدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

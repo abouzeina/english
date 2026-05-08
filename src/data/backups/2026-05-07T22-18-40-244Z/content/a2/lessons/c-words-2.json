@@ -1,0 +1,567 @@
+{
+  "id": "lsn_a2_c_2",
+  "levelId": "lvl_2",
+  "slug": "c-words-2",
+  "title": "Unit 7: C Words - Part 2",
+  "titleAr": "الوحدة 7: كلمات حرف C - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف C.",
+  "order": 7,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_chip",
+      "en": "chip",
+      "ar": "مقلية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Would you prefer boiled potatoes or chips ?",
+          "ar": "هل تفضل البطاطس المسلوقة أم المقلية : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_choice",
+      "en": "choice",
+      "ar": "خيار",
+      "pronunciation": "/tjozs/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There is no third choice.",
+          "ar": "لا يوجد خيار ثالث :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_church",
+      "en": "church",
+      "ar": "كنيسة",
+      "pronunciation": "/tf3rtj/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are many churches in Rome.",
+          "ar": "يوجد العديد من الكنائس في روما."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_cigarette",
+      "en": "cigarette",
+      "ar": "سيجارة",
+      "pronunciation": "/ sige ret/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He's smoking a cigarette.",
+          "ar": "إنه يدخن سيجارة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_circle",
+      "en": "circle",
+      "ar": "دائرة / يضع دائرة",
+      "pronunciation": "/'s3:.kal/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The students are sitting in a circle.",
+          "ar": "الطلاب يجلسون في دائرة."
+        },
+        {
+          "en": "Please circle the correct answer.",
+          "ar": "من فضلك ضع دائرة حول الإجابة الصحيحة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_classical",
+      "en": "classical",
+      "ar": "كلاسيكية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He likes classical music.",
+          "ar": "هو يحب الموسيقى الكلاسيكية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_clear",
+      "en": "clear",
+      "ar": "واضح",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Everything is clear to me.",
+          "ar": "كل شيء واضح بالنسبة لي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_clearly",
+      "en": "clearly",
+      "ar": "بوضوح",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please speak clearly.",
+          "ar": "من فضلك تحدث بوضوح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_clever",
+      "en": "clever",
+      "ar": "ذكي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is a clever child.",
+          "ar": "إنه طفل ذكي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_climate",
+      "en": "climate",
+      "ar": "مناخ",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What do you know about climate change?",
+          "ar": "ماذا تعرف عن تغير المناخ ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_close",
+      "en": "close",
+      "ar": "قريب",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The beach was so close.",
+          "ar": "كان الشاطئ قريبًا جدًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_closed",
+      "en": "closed",
+      "ar": "مغلق",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Her mouth was closed.",
+          "ar": "كان فمها مغلقًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_clothing",
+      "en": "clothing",
+      "ar": "ثياب",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They found blood on his clothing.",
+          "ar": "وجدوا دماء على ثيابه :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_cloud",
+      "en": "cloud",
+      "ar": "غيوم",
+      "pronunciation": "/klaud/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The moon is behind the clouds.",
+          "ar": "القمر خلف الغيوم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_coach",
+      "en": "coach",
+      "ar": "مدرب",
+      "pronunciation": "/kouts/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Even coaches need a coach.",
+          "ar": "حتى المدربين يحتاجون إلى مدرب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_coast",
+      "en": "coast",
+      "ar": "ساحل",
+      "pronunciation": "/koust/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Driving along the coast is wonderful.",
+          "ar": "القيادة على طول الساحل رائعة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_code",
+      "en": "code",
+      "ar": "رمز",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you remember the code?",
+          "ar": "هل تتذكر الرمز ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_colleague",
+      "en": "colleague",
+      "ar": "زميل",
+      "pronunciation": "/'ka:.li:g/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I know Ali. We are colleagues.",
+          "ar": "أنا أعرف علي نحن زملاء :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_collect",
+      "en": "collect",
+      "ar": "يجمع",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We collect plastic bottles.",
+          "ar": "نحن نجمع الزجاجات البلاستيكية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_column",
+      "en": "column",
+      "ar": "عمود",
+      "pronunciation": "/'ka-ləm/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He writes a daily column in the local newspaper",
+          "ar": "يكتب عمودًا يوميًا في الجريدة المحلية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_comedy",
+      "en": "comedy",
+      "ar": "كوميدي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's your favorite comedy movie ?",
+          "ar": "ما هو فيلمك الكوميدي المفضل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_comfortable",
+      "en": "comfortable",
+      "ar": "مريح / مرتاح",
+      "pronunciation": "/ kom fərtəbəl/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This room is comfortable. I'm comfortable here.",
+          "ar": "هذه الغرفة مريحة. أنا مرتاح هنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_comment",
+      "en": "comment",
+      "ar": "تعليق",
+      "pronunciation": "/'ka-ment/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Comments are always welcome",
+          "ar": "التعليقات دائما مرحب بها :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_communicate",
+      "en": "communicate",
+      "ar": "يتواصل",
+      "pronunciation": "/kə'mju-nı kert/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They can communicate using hand signs",
+          "ar": "يمكنهم أن يتواصلوا باستخدام إشارات اليد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_community",
+      "en": "community",
+      "ar": "مجتمع",
+      "pronunciation": "/kə'mju-nə-ti/",
+      "lessonId": "lsn_a2_c_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We are an open community.",
+          "ar": "نحن مجتمع مفتوح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

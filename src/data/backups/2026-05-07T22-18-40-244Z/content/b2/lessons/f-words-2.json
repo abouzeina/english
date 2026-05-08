@@ -1,0 +1,563 @@
+{
+  "id": "lsn_b2_f_2",
+  "levelId": "lvl_b2",
+  "slug": "f-words-2",
+  "title": "F Words - Part 2",
+  "titleAr": "كلمات حرف F - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter F.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف F.",
+  "order": 15,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_forum",
+      "en": "forum",
+      "ar": "منتدى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She was a member of a forum about health care services.",
+          "ar": "كانت عضوا في منتدى حول خدمات الرعاية الصحية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forward",
+      "en": "Forward",
+      "ar": "المسبق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Forward planning can save us a lot of expense.",
+          "ar": "التخطيط المسبق يمكن أن يوفر علينا الكثير من النفقات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fossils",
+      "en": "fossils",
+      "ar": "حفريات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They found fossils of animals in those rocks.",
+          "ar": "وجدوا حفريات الحيوانات في تلك الصخور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_foundation",
+      "en": "foundation",
+      "ar": "أساس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Respect is a solid foundation for marriage.",
+          "ar": "الاحترام هو أساس متين للزواج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_founded",
+      "en": "founded",
+      "ar": "أسس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My father founded the school in 1985.",
+          "ar": "أسس والدي المدرسة عام 1985."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_founder",
+      "en": "founder",
+      "ar": "مؤسس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Who is the founder of this beneficial Youtube channel?",
+          "ar": "من هو مؤسس هذه القناة اليوتيوبية المفيدة؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fraction",
+      "en": "fraction",
+      "ar": "نسبة قليلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Only a fraction of people believe that earth is flat.",
+          "ar": "نسبة قليلة فقط من الناس تعتقد أن الأرض مسطحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fragment",
+      "en": "fragment",
+      "ar": "قطعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We found a fragment of an old chair in the garden.",
+          "ar": "وجدنا قطعة من كرسي قديم في الحديقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_framework",
+      "en": "framework",
+      "ar": "الإطار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They fixed the metal framework of the ship.",
+          "ar": "قاموا بإصلاح الإطار المعدني للسفينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fraud",
+      "en": "fraud",
+      "ar": "الاحتيال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The police arrested him for fraud.",
+          "ar": "اعتقله الشرطة بتهمة الاحتيال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_free",
+      "en": "free",
+      "ar": "يطلقوا سراح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They decided to free 25 prisoners.",
+          "ar": "قرروا أن يطلقوا سراح 25 سجيناً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_freedom",
+      "en": "freedom",
+      "ar": "حرية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We demand freedom of speech.",
+          "ar": "نحن نطالب بحرية التعبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_freely",
+      "en": "freely",
+      "ar": "بحرية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You can talk about your opinions freely.",
+          "ar": "يمكنك التحدث عن آرائك بحرية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_frequency",
+      "en": "frequency",
+      "ar": "وتيرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I don't want to change my exercise frequency.",
+          "ar": "لا أريد تغيير وتيرة التدريب الخاصة بي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_frequent",
+      "en": "frequent",
+      "ar": "متكررا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Sudden death has become frequent these days.",
+          "ar": "لقد أصبح موت الفجأة متكررا هذه الأيام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fuelled",
+      "en": "fuelled",
+      "ar": "تعمل / تدار بـ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "These plants are fuelled by natural gas.",
+          "ar": "تعمل هذه المحطات بالغاز الطبيعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fulfill",
+      "en": "fulfill",
+      "ar": "الوفاء بـ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He didn't fulfill his duties toward his family.",
+          "ar": "لم يقم بالوفاء بواجباته تجاه أسرته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_full_time",
+      "en": "full - time",
+      "ar": "دوام كامل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We have 10 full - time employees.",
+          "ar": "لدينا 10 موظفين بدوام كامل"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fully",
+      "en": "fully",
+      "ar": "بشكل كامل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He didn't fully recover from the accident.",
+          "ar": "لم يتعافى بشكل كامل من الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_functions",
+      "en": "functions",
+      "ar": "يعمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I don't know how this machine functions.",
+          "ar": "لا أعرف كيف يعمل هذا الجهاز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fund",
+      "en": "fund",
+      "ar": "سيمول",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We don't know who will fund this research ?",
+          "ar": "لا نعرف من سيمول هذا البحث ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fundamental",
+      "en": "fundamental",
+      "ar": "جوهري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is a fundamental difference between the two ideas.",
+          "ar": "هناك فرق جوهري بين الفكرتين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fundamentally",
+      "en": "fundamentally",
+      "ar": "بشكل جوهري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The two methods are fundamentally different.",
+          "ar": "الطريقتان مختلفتان بشكل جوهري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_funding",
+      "en": "funding",
+      "ar": "التمويل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "How much is the government funding for scientific research?",
+          "ar": "ما حجم التمويل الحكومي للبحث العلمي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_funds",
+      "en": "funds",
+      "ar": "تمويل / نقص التمويل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They canceled the project because of a lack of funds.",
+          "ar": "ألغوا المشروع بسبب نقص التمويل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

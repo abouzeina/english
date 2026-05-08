@@ -1,0 +1,591 @@
+{
+  "id": "lsn_a1_h_1",
+  "levelId": "lvl_1",
+  "title": "H Words - Part 1",
+  "slug": "h-words-1",
+  "order": 17,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف H - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter H.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف H.",
+  "words": [
+    {
+      "id": "w_a1_gym",
+      "lessonId": "lsn_a1_h_1",
+      "en": "gym",
+      "translation": "صالة رياضية",
+      "ar": "صالة رياضية",
+      "pronunciation": "/dzım/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The gym is open all day.",
+          "ar": "الصالة الرياضية مفتوحة طوال اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hair",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hair",
+      "translation": "شعر",
+      "ar": "شعر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She has long, brown hair.",
+          "ar": "لديها شعر طويل بني اللون."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_half",
+      "lessonId": "lsn_a1_h_1",
+      "en": "half",
+      "translation": "نصف",
+      "ar": "نصف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I ate half of the pizza.",
+          "ar": "أكلت نصف البيتزا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hands",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hands",
+      "translation": "يدان / أيادي",
+      "ar": "يدان / أيادي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His hands were dirty.",
+          "ar": "كانت يداه ملطختان."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_happen",
+      "lessonId": "lsn_a1_h_1",
+      "en": "happen",
+      "translation": "يحدث",
+      "ar": "يحدث",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "What will happen next?",
+          "ar": "ماذا سيحدث بعد ذلك؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_happy",
+      "lessonId": "lsn_a1_h_1",
+      "en": "happy",
+      "translation": "سعيد",
+      "ar": "سعيد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You look very happy today.",
+          "ar": "تبدين سعيدة جداً اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hard",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hard",
+      "translation": "صعب / بجد",
+      "ar": "صعب / بجد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The test was very hard.",
+          "ar": "كان الاختبار صعباً للغاية."
+        },
+        {
+          "en": "He works hard every day.",
+          "ar": "إنه يعمل بجد كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hat",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hat",
+      "translation": "قبعة",
+      "ar": "قبعة",
+      "pronunciation": "/hæt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He forgot his hat at home.",
+          "ar": "لقد نسي قبعته في المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hate",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hate",
+      "translation": "يكره",
+      "ar": "يكره",
+      "pronunciation": "/hert/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Why do you hate him?",
+          "ar": "لماذا تكرهه؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_have",
+      "lessonId": "lsn_a1_h_1",
+      "en": "have",
+      "translation": "يمتلك / يتناول / يجب أن",
+      "ar": "يمتلك / يتناول / يجب أن",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I have a new phone.",
+          "ar": "أمتلك هاتفاً جديداً."
+        },
+        {
+          "en": "I have breakfast at 7 am.",
+          "ar": "أتناول الإفطار في السابعة صباحاً."
+        },
+        {
+          "en": "They have a lot of fun.",
+          "ar": "إنهم يحظون بالكثير من المرح معاً."
+        },
+        {
+          "en": "I have to finish my work first.",
+          "ar": "يجب أن أنهي عملي أولاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_he",
+      "lessonId": "lsn_a1_h_1",
+      "en": "he",
+      "translation": "هو",
+      "ar": "هو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He is my friend.",
+          "ar": "إنه أعز أصدقائي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_head",
+      "lessonId": "lsn_a1_h_1",
+      "en": "head",
+      "translation": "رأس",
+      "ar": "رأس",
+      "pronunciation": "/hed/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The hat fell off his head.",
+          "ar": "سقطت القبعة عن رأسه."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_health",
+      "lessonId": "lsn_a1_h_1",
+      "en": "health",
+      "translation": "صحة",
+      "ar": "صحة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This food is bad for your health.",
+          "ar": "هذا الطعام مضر بصحتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_healthy",
+      "lessonId": "lsn_a1_h_1",
+      "en": "healthy",
+      "translation": "صحي",
+      "ar": "صحي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Try to eat healthy food.",
+          "ar": "حاول أن تأكل طعاماً صحياً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hear",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hear",
+      "translation": "يسمع",
+      "ar": "يسمع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you hear that sound?",
+          "ar": "هل سمعت ذلك الصوت؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hello",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hello",
+      "translation": "مرحبا",
+      "ar": "مرحبا",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Hello, how are you today?",
+          "ar": "مرحباً كيف حالك اليوم؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_help",
+      "lessonId": "lsn_a1_h_1",
+      "en": "help",
+      "translation": "يساعد / مساعدة",
+      "ar": "يساعد / مساعدة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you help me please?",
+          "ar": "هل يمكنك أن تساعدني من فضلك؟"
+        },
+        {
+          "en": "I need some help.",
+          "ar": "أحتاج إلى بعض المساعدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_her",
+      "lessonId": "lsn_a1_h_1",
+      "en": "her",
+      "translation": "ها (ضمير ملكية) / مفعول به للمؤنث",
+      "ar": "ها (ضمير ملكية) / مفعول به للمؤنث",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She is in her room.",
+          "ar": "إنها في غرفتها."
+        },
+        {
+          "en": "I give her flowers every day.",
+          "ar": "أقدم لها الزهور كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_here",
+      "lessonId": "lsn_a1_h_1",
+      "en": "here",
+      "translation": "هنا / هاهو",
+      "ar": "هنا / هاهو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He is not here today.",
+          "ar": "إنه ليس هنا اليوم."
+        },
+        {
+          "en": "Here is your cup of coffee.",
+          "ar": "ها هو فنجان قهوتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hey",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hey",
+      "translation": "مهلاً / أنت (للنداء)",
+      "ar": "مهلاً / أنت (للنداء)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Hey, what are you doing?",
+          "ar": "أنت ماذا تفعل؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hi",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hi",
+      "translation": "مرحبا",
+      "ar": "مرحبا",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Hi, nice to meet you.",
+          "ar": "مرحباً سررت بلقائك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_high",
+      "lessonId": "lsn_a1_h_1",
+      "en": "high",
+      "translation": "مرتفع / عالي",
+      "ar": "مرتفع / عالي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This wall is too high.",
+          "ar": "هذا الجدار مرتفع للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_him",
+      "lessonId": "lsn_a1_h_1",
+      "en": "him",
+      "translation": "هـ (ضمير مفعول به للمذكر)",
+      "ar": "هـ (ضمير مفعول به للمذكر)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw him yesterday.",
+          "ar": "لقد رأيته بالأمس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_his",
+      "lessonId": "lsn_a1_h_1",
+      "en": "his",
+      "translation": "هـ (ضمير ملكية للمذكر)",
+      "ar": "هـ (ضمير ملكية للمذكر)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He lost his keys.",
+          "ar": "لقد أضاع مفاتيحه."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_history",
+      "lessonId": "lsn_a1_h_1",
+      "en": "history",
+      "translation": "تاريخ",
+      "ar": "تاريخ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love reading history books.",
+          "ar": "أحب قراءة كتب التاريخ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "id": "lsn_a1_o_1",
+  "levelId": "lvl_1",
+  "title": "O Words - Part 1",
+  "slug": "o-words-1",
+  "order": 29,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف O - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter O.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف O.",
+  "words": [
+    {
+      "id": "w_a1_nurse",
+      "lessonId": "lsn_a1_o_1",
+      "en": "nurse",
+      "translation": "ممرض",
+      "ar": "ممرض",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He wants to be a nurse.",
+          "ar": "يريد أن يصبح ممرضاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_oclock",
+      "lessonId": "lsn_a1_o_1",
+      "en": "o'clock",
+      "translation": "ساعة (للوقت)",
+      "ar": "ساعة (للوقت)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The class starts at 9 o'clock.",
+          "ar": "تبدأ الحصة في الساعة 9:00."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_object",
+      "lessonId": "lsn_a1_o_1",
+      "en": "object",
+      "translation": "قطعة / شيء",
+      "ar": "قطعة / شيء",
+      "pronunciation": "/'ab-dzıkt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The object is on the table.",
+          "ar": "القطعة على الطاولة."
+        },
+        {
+          "en": "The object broke into pieces.",
+          "ar": "تحطمت القطعة إلى أجزاء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_october",
+      "lessonId": "lsn_a1_o_1",
+      "en": "October",
+      "translation": "شهر أكتوبر",
+      "ar": "شهر أكتوبر",
+      "pronunciation": "/ak'tou bər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "October has 31 days.",
+          "ar": "يحتوي شهر أكتوبر على 31 يوماً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_of",
+      "lessonId": "lsn_a1_o_1",
+      "en": "of",
+      "translation": "لـ / من (حرف جر)",
+      "ar": "لـ / من (حرف جر)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The color of the car is red.",
+          "ar": "لون السيارة أحمر."
+        },
+        {
+          "en": "A lot of people came.",
+          "ar": "جاء الكثير من الناس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_off",
+      "lessonId": "lsn_a1_o_1",
+      "en": "off",
+      "translation": "يطفئ / من على",
+      "ar": "يطفئ / من على",
+      "pronunciation": "/of/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Turn off the lights.",
+          "ar": "أطفئ الأنوار."
+        },
+        {
+          "en": "The phone fell off the desk.",
+          "ar": "سقط الهاتف من على المكتب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_office",
+      "lessonId": "lsn_a1_o_1",
+      "en": "office",
+      "translation": "مكتب",
+      "ar": "مكتب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'm going to the office.",
+          "ar": "أنا ذاهب إلى المكتب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_often",
+      "lessonId": "lsn_a1_o_1",
+      "en": "often",
+      "translation": "كثيراً ما / كم مرة",
+      "ar": "كثيراً ما / كم مرة",
+      "pronunciation": "/  fən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I often go for walks.",
+          "ar": "أنا كثيراً ما أذهب للتنزه."
+        },
+        {
+          "en": "How often do you exercise?",
+          "ar": "كم مرة تمارس الرياضة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ok",
+      "lessonId": "lsn_a1_o_1",
+      "en": "OK",
+      "translation": "على ما يرام / حسناً",
+      "ar": "على ما يرام / حسناً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Everything is OK now.",
+          "ar": "كل شيء على ما يرام الآن."
+        },
+        {
+          "en": "OK, I understand now !!!",
+          "ar": "حسناً، لقد فهمت الآن !!!"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_old",
+      "lessonId": "lsn_a1_o_1",
+      "en": "old",
+      "translation": "قديم / كبير في السن / عمر",
+      "ar": "قديم / كبير في السن / عمر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I visited my old school.",
+          "ar": "زرت مدرستي القديمة."
+        },
+        {
+          "en": "My grandmother is very old.",
+          "ar": "جدتي كبيرة جداً في السن."
+        },
+        {
+          "en": "I met a fifteen-year old boy.",
+          "ar": "التقيت بصبي في الخامسة عشرة من عمره."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_on",
+      "lessonId": "lsn_a1_o_1",
+      "en": "on",
+      "translation": "على / في (للأيام) / مضاءة",
+      "ar": "على / في (للأيام) / مضاءة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We walked on the beach.",
+          "ar": "مشينا على الشاطئ."
+        },
+        {
+          "en": "The meeting is on Monday.",
+          "ar": "الاجتماع يوم الاثنين."
+        },
+        {
+          "en": "We are going on a trip.",
+          "ar": "نحن ذاهبون في رحلة."
+        },
+        {
+          "en": "The lights are on now.",
+          "ar": "الأضواء مضاءة الآن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_once",
+      "lessonId": "lsn_a1_o_1",
+      "en": "once",
+      "translation": "مرة واحدة / سابقاً",
+      "ar": "مرة واحدة / سابقاً",
+      "pronunciation": "/wons/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He visited me once.",
+          "ar": "زارني مرة واحدة."
+        },
+        {
+          "en": "She once worked here.",
+          "ar": "كانت تعمل هنا سابقاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_one",
+      "lessonId": "lsn_a1_o_1",
+      "en": "one",
+      "translation": "واحد / أحدهم / الشخص",
+      "ar": "واحد / أحدهم / الشخص",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Give me one minute.",
+          "ar": "أمهلني دقيقة واحدة."
+        },
+        {
+          "en": "One of them brought a camera.",
+          "ar": "أحضر أحدهم كاميرا."
+        },
+        {
+          "en": "He is the one who helped.",
+          "ar": "إنه الشخص الذي قدم المساعدة."
+        },
+        {
+          "en": "\"Which hat do you like?\" \"I like the red one.\"",
+          "ar": "\"أي قبعة تعجبك؟\" \"تعجبني القبعة الحمراء.\""
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_onions",
+      "lessonId": "lsn_a1_o_1",
+      "en": "onions",
+      "translation": "بصل",
+      "ar": "بصل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like onions in my salad.",
+          "ar": "أحب البصل في سلطتي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_online",
+      "lessonId": "lsn_a1_o_1",
+      "en": "online",
+      "translation": "عبر الإنترنت",
+      "ar": "عبر الإنترنت",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She works online from home.",
+          "ar": "إنها تعمل عبر الإنترنت من المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_only",
+      "lessonId": "lsn_a1_o_1",
+      "en": "only",
+      "translation": "فقط / الوحيد",
+      "ar": "فقط / الوحيد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I only want to help you.",
+          "ar": "أريد فقط أن أساعدك."
+        },
+        {
+          "en": "He is my only friend.",
+          "ar": "إنه صديقي الوحيد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_open",
+      "lessonId": "lsn_a1_o_1",
+      "en": "open",
+      "translation": "مفتوح / يفتح",
+      "ar": "مفتوح / يفتح",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The shop is open now.",
+          "ar": "المتجر مفتوح الآن."
+        },
+        {
+          "en": "Please open the book.",
+          "ar": "من فضلك افتح الكتاب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_opinion",
+      "lessonId": "lsn_a1_o_1",
+      "en": "opinion",
+      "translation": "رأي / وجهة نظر",
+      "ar": "رأي / وجهة نظر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I agree with your opinion.",
+          "ar": "أتفق مع وجهة نظرك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_opposite",
+      "lessonId": "lsn_a1_o_1",
+      "en": "opposite",
+      "translation": "مقابل / متعاكس / عكس",
+      "ar": "مقابل / متعاكس / عكس",
+      "pronunciation": "/'a pə zıt, a pə sıt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He sat opposite me.",
+          "ar": "جلس مقابلي."
+        },
+        {
+          "en": "They went in opposite ways.",
+          "ar": "ذهبا في اتجاهين متعاكسين."
+        },
+        {
+          "en": "Light is the opposite of dark.",
+          "ar": "الضوء هو عكس الظلام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_or",
+      "lessonId": "lsn_a1_o_1",
+      "en": "or",
+      "translation": "أم / أو",
+      "ar": "أم / أو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Tea or coffee?",
+          "ar": "شاي أم قهوة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_orange",
+      "lessonId": "lsn_a1_o_1",
+      "en": "orange",
+      "translation": "برتقالة / برتقالي",
+      "ar": "برتقالة / برتقالي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Give me an orange, please.",
+          "ar": "أعطني برتقالة من فضلك."
+        },
+        {
+          "en": "The orange cat is sleeping.",
+          "ar": "القطة البرتقالية نائمة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_order",
+      "lessonId": "lsn_a1_o_1",
+      "en": "order",
+      "translation": "يطلب / ترتيب",
+      "ar": "يطلب / ترتيب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He ordered a taxi for us.",
+          "ar": "لقد طلب لنا سيارة أجرة."
+        },
+        {
+          "en": "The names are listed in order.",
+          "ar": "الأسماء مدرجة بالترتيب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_other",
+      "lessonId": "lsn_a1_o_1",
+      "en": "other",
+      "translation": "الآخر",
+      "ar": "الآخر",
+      "pronunciation": "/ ло ǝг/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The other door is open.",
+          "ar": "الباب الآخر مفتوح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_our",
+      "lessonId": "lsn_a1_o_1",
+      "en": "our",
+      "translation": "ضمير ملكية (لنا)",
+      "ar": "ضمير ملكية (لنا)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Our house is very big.",
+          "ar": "منزلنا كبير جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_out",
+      "lessonId": "lsn_a1_o_1",
+      "en": "out",
+      "translation": "نخرج / للخارج",
+      "ar": "نخرج / للخارج",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's go out and play.",
+          "ar": "هيا لنخرج ونلعب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "lsn_a1_v_1",
+  "levelId": "lvl_1",
+  "title": "V Words - Part 1",
+  "slug": "v-words-1",
+  "order": 44,
+  "wordCount": 7,
+  "titleAr": "كلمات حرف V - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter V.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف V.",
+  "words": [
+    {
+      "id": "w_a1_until",
+      "lessonId": "lsn_a1_v_1",
+      "en": "until",
+      "translation": "حتى / إلى أن",
+      "ar": "حتى / إلى أن",
+      "pronunciation": "/ən tıl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Stay here until I return.",
+          "ar": "ابقَ هنا حتى أعود."
+        },
+        {
+          "en": "I won't leave until 8.",
+          "ar": "لن أغادر حتى الساعة الثامنة."
+        },
+        {
+          "en": "Let's wait until the rain stops.",
+          "ar": "لننتظر إلى أن يتوقف المطر."
+        },
+        {
+          "en": "Keep reading until you understand everything.",
+          "ar": "استمر في القراءة حتى تفهم كل شيء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_vacation",
+      "lessonId": "lsn_a1_v_1",
+      "en": "vacation",
+      "translation": "إجازة",
+      "ar": "إجازة",
+      "pronunciation": "/ver ker fən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need a vacation soon.",
+          "ar": "أحتاج إلى إجازة عما قريب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_vegetables",
+      "lessonId": "lsn_a1_v_1",
+      "en": "vegetables",
+      "translation": "خضروات",
+      "ar": "خضروات",
+      "pronunciation": "/'vedz tə bəl, vedzə tə bəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I grow vegetables at home.",
+          "ar": "أزرع الخضروات في المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_very",
+      "lessonId": "lsn_a1_v_1",
+      "en": "very",
+      "translation": "جداً",
+      "ar": "جداً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I am very tired today.",
+          "ar": "أنا متعب جداً اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_video",
+      "lessonId": "lsn_a1_v_1",
+      "en": "video",
+      "translation": "فيديو",
+      "ar": "فيديو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you see the video?",
+          "ar": "هل شاهدت الفيديو؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_village",
+      "lessonId": "lsn_a1_v_1",
+      "en": "village",
+      "translation": "قرية",
+      "ar": "قرية",
+      "pronunciation": "/'vil Id3/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The village is very small.",
+          "ar": "القرية صغيرة جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_visit",
+      "lessonId": "lsn_a1_v_1",
+      "en": "visit",
+      "translation": "زار / زيارة",
+      "ar": "زار / زيارة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I visited my aunt last week.",
+          "ar": "لقد زرت عمتي الأسبوع الماضي."
+        },
+        {
+          "en": "We enjoyed the short visit.",
+          "ar": "استمتعنا بالزيارة القصيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "lsn_c1_j",
+  "levelId": "lvl_c1",
+  "title": "Unit 19: J Words",
+  "slug": "j-words",
+  "order": 19,
+  "wordCount": 4,
+  "titleAr": "الوحدة 19: كلمات حرف J",
+  "description": "Master essential C1 vocabulary starting with the letter J.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف J.",
+  "words": [
+    {
+      "id": "w_c1_judicial",
+      "en": "judicial",
+      "ar": "قضائي",
+      "lessonId": "lsn_c1_j",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "النظام القضائي مصمم لضمان العدالة للجميع",
+          "ar": "He is waiting for a judicial review of his case."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dʒuˈdɪʃəl/"
+    },
+    {
+      "id": "w_c1_junction",
+      "en": "junction",
+      "ar": "مفترق طرق / ملتقى",
+      "lessonId": "lsn_c1_j",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وقع الحادث عند مفترق الطرق بين الطريقين الرئيسيين",
+          "ar": "The station is a major junction for trains traveling north."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdʒʌŋkʃən/"
+    },
+    {
+      "id": "w_c1_jurisdiction",
+      "en": "jurisdiction",
+      "ar": "ولاية قضائية / اختصاص",
+      "lessonId": "lsn_c1_j",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يقع الأمر ضمن الولاية القضائية للمحكمة الفيدرالية",
+          "ar": "The police have no jurisdiction in this part of the city."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/d͡ʒɔːɹɪsˈdɪkʃən/"
+    },
+    {
+      "id": "w_c1_justification",
+      "en": "justification",
+      "ar": "مبرر / تسويغ",
+      "lessonId": "lsn_c1_j",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا يوجد مبرر لسلوكه الفظ",
+          "ar": "He provided a legal justification for his actions."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌdʒʌstɪfɪˈkeɪʃən/"
+    }
+  ]
+}

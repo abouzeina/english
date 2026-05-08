@@ -1,0 +1,567 @@
+{
+  "id": "lsn_a2_s_1",
+  "levelId": "lvl_2",
+  "slug": "s-words-1",
+  "title": "Unit 35: S Words - Part 1",
+  "titleAr": "الوحدة 35: كلمات حرف S - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
+  "order": 35,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_running",
+      "en": "running",
+      "ar": "جري",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali always wears running shoes.",
+          "ar": "علي دائما يرتدي حذاء جري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sadly",
+      "en": "sadly",
+      "ar": "للأسف",
+      "pronunciation": "/ sæd-li/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sadly, I didn't catch the train",
+          "ar": "للأسف : لم ألحق القطار :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_safe",
+      "en": "safe",
+      "ar": "أمان",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you feel safe there?",
+          "ar": "هل شعرت بالأمان هناك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sail",
+      "en": "sail",
+      "ar": "يبحر",
+      "pronunciation": "/sexl/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali sailed back to the town",
+          "ar": "أبحر علي عائدا إلى المدينة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sailing",
+      "en": "sailing",
+      "ar": "إبحار / ركوب القوارب الشراعية",
+      "pronunciation": "/'ser lın/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sailing is one of my hobbies",
+          "ar": "ركوب القوارب الشراعية هو أحد هواياتي : إبحار :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_salary",
+      "en": "salary",
+      "ar": "راتب",
+      "pronunciation": "/ sæl-ər-i/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My salary increased in February.",
+          "ar": "زاد راتبي في فبراير :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sale",
+      "en": "sale",
+      "ar": "بيع",
+      "pronunciation": "/serl/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This house is for sale.",
+          "ar": "هذا المنزل للبيع :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sauce",
+      "en": "sauce",
+      "ar": "صلصة",
+      "pronunciation": "/sos/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It's not blood. It's tomato sauce.",
+          "ar": "إنه ليس دم. إنها صلصة طماطم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_save",
+      "en": "save",
+      "ar": "ينقذ",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We can't save everybody.",
+          "ar": "لا يمكننا أن ننقذ الجميع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_scared",
+      "en": "scared",
+      "ar": "خائف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali looked rather scared.",
+          "ar": "بدا علي خائفًا إلى حد ما."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_scary",
+      "en": "scary",
+      "ar": "مخيفة",
+      "pronunciation": "/'skeər i/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali often watches scary films.",
+          "ar": "غالبًا ما يشاهد علي أفلاما مخيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_scene",
+      "en": "scene",
+      "ar": "مشهد / منظر",
+      "pronunciation": "/sin/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He described the scene in detail.",
+          "ar": "وصف المشهد بالتفصيل : مَشْهَد : مَنْظَر :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_schedule",
+      "en": "schedule",
+      "ar": "جدول",
+      "pronunciation": "/'skedz-ul/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He has no time available in his regular schedule.",
+          "ar": "ليس لديه وقت متاح في جدوله المعتاد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_score",
+      "en": "score",
+      "ar": "درجة / سجل",
+      "pronunciation": "/skor/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They got a better score than us",
+          "ar": "حصلوا على درجة أفضل منا."
+        },
+        {
+          "en": "Ahmed scored 13 points for our team",
+          "ar": "سجل أحمد 13 نقطة لفريقنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_screen",
+      "en": "screen",
+      "ar": "شاشة",
+      "pronunciation": "/skrin/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali had a flat screen TV.",
+          "ar": "كان لدى علي شاشة تليفزيون مسطحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_search",
+      "en": "search",
+      "ar": "يبحث",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am searching for my brother",
+          "ar": "أنا أبحث عن أخي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_search_engine",
+      "en": "search engine",
+      "ar": "محرك بحث",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Which search engine do you use ?",
+          "ar": "ما هو محرك البحث الذي تستخدمه ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_season",
+      "en": "season",
+      "ar": "فصل",
+      "pronunciation": "/'si-zən/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Winter is my favorite season.",
+          "ar": "الشتاء هو فصلي المفضل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_seat",
+      "en": "seat",
+      "ar": "مقاعد",
+      "pronunciation": "/sit/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please return to your seats.",
+          "ar": "من فضلكم عودوا إلى مقاعدكم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_second",
+      "en": "second",
+      "ar": "ثاني / ثانية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our team came in second.",
+          "ar": "جاء فريقنا في المركز الثاني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_secondly",
+      "en": "secondly",
+      "ar": "ثانيا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Firstly, it's expensive, secondly, We don't need it",
+          "ar": "أولاً، إنه باهظ الثمن، ثانيا، لسنا بحاجة إليه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_secret",
+      "en": "secret",
+      "ar": "سر",
+      "pronunciation": "/ si-krət/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can you keep a secret?",
+          "ar": "هل يمكنك الاحتفاظ بسر ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_secretary",
+      "en": "secretary",
+      "ar": "سكرتير",
+      "pronunciation": "/sek rı ter i/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Leave your number with my secretary.",
+          "ar": "اترك رقمك مع سكرتيري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_seem",
+      "en": "seem",
+      "ar": "تبدو",
+      "pronunciation": "/sim/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You seem quite happy",
+          "ar": "أنت تبدو سعيدًا للغاية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sense",
+      "en": "sense",
+      "ar": "حواس",
+      "pronunciation": "/sens/",
+      "lessonId": "lsn_a2_s_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Humans have five senses.",
+          "ar": "البشر لديهم خمس حواس"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

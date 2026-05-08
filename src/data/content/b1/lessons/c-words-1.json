@@ -1,36 +1,14 @@
 {
   "id": "lsn_b1_c_1",
   "levelId": "lvl_b1",
+  "title": "Unit 5: C Words - Part 1",
   "slug": "c-words-1",
-  "title": "Unit 6: C Words - Part 1",
-  "titleAr": "الوحدة 6: كلمات حرف C - الجزء 1",
-  "description": "Expand your intermediate vocabulary with words starting with C.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف C.",
-  "order": 6,
-  "wordCount": 25,
+  "order": 5,
+  "wordCount": 19,
+  "titleAr": "الوحدة 5: كلمات حرف C - الجزء 1",
+  "description": "Master essential B1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف C.",
   "words": [
-    {
-      "id": "w_b1_by",
-      "en": "by",
-      "ar": "بجوار / بكلمة",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_c_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He walked by without saying a word.",
-          "ar": "مر بجواري دون أن ينطق بكلمة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_calm",
       "en": "calm",
@@ -135,7 +113,6 @@
       "id": "w_b1_cap",
       "en": "cap",
       "ar": "قبعة",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -151,7 +128,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/kæp/"
     },
     {
       "id": "w_b1_captain",
@@ -264,6 +242,28 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_centered",
+      "en": "centered",
+      "ar": "تركزت",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The discussion centered on the benefits of the internet.",
+          "ar": "تركزت المناقشة على فوائد الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈsɛn.təd/"
+    },
+    {
       "id": "w_b1_central",
       "en": "central",
       "ar": "وسطى / مركزي",
@@ -286,32 +286,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_centered",
-      "en": "centered",
-      "ar": "تركزت",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_c_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The discussion centered on the benefits of the internet.",
-          "ar": "تركزت المناقشة على فوائد الإنترنت."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_ceremony",
       "en": "ceremony",
       "ar": "حفل / مراسم",
-      "pronunciation": "sera mou ni/",
       "lessonId": "lsn_b1_c_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -327,51 +304,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_chain",
-      "en": "chain",
-      "ar": "سلسلة",
-      "pronunciation": "/tfexn/",
-      "lessonId": "lsn_b1_c_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He owns a big chain of bookstores.",
-          "ar": "يمتلك سلسلة كبيرة من المكتبات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_challenge",
-      "en": "challenge",
-      "ar": "تحد",
-      "pronunciation": "/ tfæl-end3/",
-      "lessonId": "lsn_b1_c_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "That sounds like a challenge.",
-          "ar": "هذا يبدو كأنه تحد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈsɛɹɪməni/"
     },
     {
       "id": "w_b1_champion",
@@ -399,7 +333,6 @@
       "id": "w_b1_channel",
       "en": "channel",
       "ar": "قناة",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -415,13 +348,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈtʃænəl/"
     },
     {
       "id": "w_b1_chapters",
       "en": "chapters",
       "ar": "فصول (الكتاب)",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -437,7 +370,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈt͡ʃæptəz/"
     },
     {
       "id": "w_b1_charge",
@@ -466,54 +400,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_cheap",
-      "en": "cheap",
-      "ar": "رخيص / ثمن بخس",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_c_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I got these shoes cheap.",
-          "ar": "حصلت على هذه الأحذية بثمن بخس."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_cheating",
-      "en": "cheating",
-      "ar": "يغش",
-      "pronunciation": "/tfit/",
-      "lessonId": "lsn_b1_c_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The teacher thought I was cheating.",
-          "ar": "ظن المعلم أنني كنت أغش."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_cheat",
       "en": "cheat",
       "ar": "غشاش",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -529,46 +418,21 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/tʃiːt/"
     },
     {
-      "id": "w_b1_cheerful",
-      "en": "cheerful",
-      "ar": "مبتهج / سعيد",
-      "pronunciation": "/ tfıər fəl/",
+      "id": "w_b1_cheating",
+      "en": "cheating",
+      "ar": "يغش",
+      "pronunciation": "/tfit/",
       "lessonId": "lsn_b1_c_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
       "examples": [
         {
-          "en": "He talked in a cheerful voice.",
-          "ar": "تحدث بصوت مبتهج."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_chemical",
-      "en": "chemical",
-      "ar": "كيميائي",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_c_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "These chemicals may affect bees.",
-          "ar": "هذه المواد الكيميائية قد تؤثر على النحل."
-        },
-        {
-          "en": "Do you use chemical products?",
-          "ar": "هل تستخدمون منتجات كيميائية ؟"
+          "en": "The teacher thought I was cheating.",
+          "ar": "ظن المعلم أنني كنت أغش."
         }
       ],
       "type": "word",

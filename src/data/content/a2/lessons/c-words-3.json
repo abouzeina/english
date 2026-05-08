@@ -1,14 +1,173 @@
 {
   "id": "lsn_a2_c_3",
-  "levelId": "lvl_2",
-  "slug": "c-words-3",
+  "levelId": "lvl_a2",
   "title": "Unit 8: C Words - Part 3",
-  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 3",
-  "description": "Build on your A2 vocabulary starting with the letter C.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف C.",
+  "slug": "c-words-3",
   "order": 8,
-  "wordCount": 25,
+  "wordCount": 19,
+  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 3",
+  "description": "Master essential A2 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف C.",
   "words": [
+    {
+      "id": "w_a2_collect",
+      "en": "collect",
+      "ar": "يجمع",
+      "lessonId": "lsn_a2_c_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We collect plastic bottles.",
+          "ar": "نحن نجمع الزجاجات البلاستيكية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kəˈlɛkt/"
+    },
+    {
+      "id": "w_a2_column",
+      "en": "column",
+      "ar": "عمود",
+      "pronunciation": "/'ka-ləm/",
+      "lessonId": "lsn_a2_c_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He writes a daily column in the local newspaper",
+          "ar": "يكتب عمودًا يوميًا في الجريدة المحلية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_comedy",
+      "en": "comedy",
+      "ar": "كوميدي",
+      "lessonId": "lsn_a2_c_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's your favorite comedy movie ?",
+          "ar": "ما هو فيلمك الكوميدي المفضل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈkɒmədi/"
+    },
+    {
+      "id": "w_a2_comfortable",
+      "en": "comfortable",
+      "ar": "مريح / مرتاح",
+      "pronunciation": "/ kom fərtəbəl/",
+      "lessonId": "lsn_a2_c_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This room is comfortable. I'm comfortable here.",
+          "ar": "هذه الغرفة مريحة. أنا مرتاح هنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_comment",
+      "en": "comment",
+      "ar": "تعليق",
+      "pronunciation": "/'ka-ment/",
+      "lessonId": "lsn_a2_c_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Comments are always welcome",
+          "ar": "التعليقات دائما مرحب بها :"
+        },
+        {
+          "en": "I can't comment on their decision.",
+          "ar": "لا يمكنني أن أعلق على قرارهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_communicate",
+      "en": "communicate",
+      "ar": "يتواصل",
+      "pronunciation": "/kə'mju-nı kert/",
+      "lessonId": "lsn_a2_c_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They can communicate using hand signs",
+          "ar": "يمكنهم أن يتواصلوا باستخدام إشارات اليد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_community",
+      "en": "community",
+      "ar": "مجتمع",
+      "pronunciation": "/kə'mju-nə-ti/",
+      "lessonId": "lsn_a2_c_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We are an open community.",
+          "ar": "نحن مجتمع مفتوح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_compete",
       "en": "compete",
@@ -57,7 +216,6 @@
       "id": "w_a2_complain",
       "en": "complain",
       "ar": "يشتكي",
-      "pronunciation": "",
       "lessonId": "lsn_a2_c_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -73,13 +231,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/kəmˈpleɪn/"
     },
     {
       "id": "w_a2_completely",
       "en": "completely",
       "ar": "تماما",
-      "pronunciation": "",
       "lessonId": "lsn_a2_c_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -95,7 +253,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/kəmˈpliːtli/"
     },
     {
       "id": "w_a2_condition",
@@ -193,7 +352,6 @@
       "id": "w_a2_contain",
       "en": "contain",
       "ar": "يحتوي",
-      "pronunciation": "",
       "lessonId": "lsn_a2_c_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -209,7 +367,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/kənˈteɪn/"
     },
     {
       "id": "w_a2_context",
@@ -259,7 +418,6 @@
       "id": "w_a2_continue",
       "en": "continue",
       "ar": "يستمر",
-      "pronunciation": "",
       "lessonId": "lsn_a2_c_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -275,301 +433,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_control",
-      "en": "control",
-      "ar": "سيطرة / يتحكم",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The teacher has no control over the children.",
-          "ar": "المعلم ليس لديه سيطرة على الأطفال :"
-        },
-        {
-          "en": "Can't you control your behavior. !!",
-          "ar": "ألا يمكن أن تتحكم بسلوكك :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_cook",
-      "en": "cook",
-      "ar": "طباخة",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She is a very good cook.",
-          "ar": "إنها طباخة ماهرة جدًا :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_cooker",
-      "en": "cooker",
-      "ar": "بوتجاز",
-      "pronunciation": "/'kuk-er/",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We bought a gas cooker.",
-          "ar": "اشترينا بوتجاز غاز :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_copy",
-      "en": "copy",
-      "ar": "نسخة / يقلد",
-      "pronunciation": "/'ka-pi/",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I have a copy of this book.",
-          "ar": "لدي نسخة من هذا الكتاب :"
-        },
-        {
-          "en": "He copies everything I do",
-          "ar": "هو يقلد كل ما أفعله :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_corner",
-      "en": "corner",
-      "ar": "زاوية",
-      "pronunciation": "/'kor-nər/",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali sat in the corner.",
-          "ar": "جلس علي في الزاوية :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_correctly",
-      "en": "correctly",
-      "ar": "بشكل صحيح",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He answered all questions correctly.",
-          "ar": "أجاب على جميع الأسئلة بشكل صحيح :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_count",
-      "en": "count",
-      "ar": "يعد",
-      "pronunciation": "/kaunt/",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She can count up to 10 in Chinese.",
-          "ar": "يمكنها أن تعد حتى 10 بالصينية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_couple",
-      "en": "couple",
-      "ar": "بعض",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "There are a couple of things I have to do",
-          "ar": "هناك بعض الأشياء التي علي القيام بها :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_cover",
-      "en": "cover",
-      "ar": "تغطي",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The clouds cover the sky.",
-          "ar": "الغيوم تغطي السماء :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_crazy",
-      "en": "crazy",
-      "ar": "مجنونة",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "What a crazy idea !!",
-          "ar": "يا لها من فكرة مجنونة : !!"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_creative",
-      "en": "creative",
-      "ar": "مبدعين",
-      "pronunciation": "/kri'er-trv/",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We just need to be creative.",
-          "ar": "نحن فقط بحاجة لأن نكون مبدعين :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_credit",
-      "en": "credit",
-      "ar": "ائتمان",
-      "pronunciation": "/'kred-It/",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Do you have a credit card?",
-          "ar": "هل لديك بطاقة ائتمان ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_crime",
-      "en": "crime",
-      "ar": "جريمة",
-      "pronunciation": "/kraım/",
-      "lessonId": "lsn_a2_c_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Crime is a big problem in large cities",
-          "ar": "الجريمة مشكلة كبيرة في المدن الكبيرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/kənˈtɪnjuː/"
     }
   ]
 }

@@ -1,36 +1,14 @@
 {
   "id": "lsn_a2_s_1",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 34: S Words - Part 1",
   "slug": "s-words-1",
-  "title": "Unit 35: S Words - Part 1",
-  "titleAr": "الوحدة 35: كلمات حرف S - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter S.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
-  "order": 35,
-  "wordCount": 25,
+  "order": 34,
+  "wordCount": 21,
+  "titleAr": "الوحدة 34: كلمات حرف S - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_a2_running",
-      "en": "running",
-      "ar": "جري",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali always wears running shoes.",
-          "ar": "علي دائما يرتدي حذاء جري."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_sadly",
       "en": "sadly",
@@ -57,7 +35,6 @@
       "id": "w_a2_safe",
       "en": "safe",
       "ar": "أمان",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -73,7 +50,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/seɪf/"
     },
     {
       "id": "w_a2_sail",
@@ -87,13 +65,18 @@
         {
           "en": "Ali sailed back to the town",
           "ar": "أبحر علي عائدا إلى المدينة :"
+        },
+        {
+          "en": "We went for a sail.",
+          "ar": "ذهبنا للإبحار."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -189,7 +172,6 @@
       "id": "w_a2_save",
       "en": "save",
       "ar": "ينقذ",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -205,13 +187,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/seɪv/"
     },
     {
       "id": "w_a2_scared",
       "en": "scared",
       "ar": "خائف",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -227,7 +209,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/skɛəd/"
     },
     {
       "id": "w_a2_scary",
@@ -285,13 +268,19 @@
         {
           "en": "He has no time available in his regular schedule.",
           "ar": "ليس لديه وقت متاح في جدوله المعتاد."
+        },
+        {
+          "en": "Can you schedule an appointment for next week?",
+          "ar": "هل يمكنك أن تحدد موعد في الأسبوع القادم؟"
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -322,32 +311,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_screen",
-      "en": "screen",
-      "ar": "شاشة",
-      "pronunciation": "/skrin/",
-      "lessonId": "lsn_a2_s_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali had a flat screen TV.",
-          "ar": "كان لدى علي شاشة تليفزيون مسطحة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_search",
       "en": "search",
       "ar": "يبحث",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -363,7 +329,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/sɜːt͡ʃ/"
     },
     {
       "id": "w_a2_search_engine",
@@ -421,35 +388,19 @@
         {
           "en": "Please return to your seats.",
           "ar": "من فضلكم عودوا إلى مقاعدكم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_second",
-      "en": "second",
-      "ar": "ثاني / ثانية",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "Our team came in second.",
-          "ar": "جاء فريقنا في المركز الثاني."
+          "en": "Can you seat them near the exit?",
+          "ar": "هل يمكنك أن تجلسهم بالقرب من المخرج ؟"
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -457,7 +408,6 @@
       "id": "w_a2_secondly",
       "en": "secondly",
       "ar": "ثانيا",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -473,7 +423,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈsɛkəndli/"
     },
     {
       "id": "w_a2_secret",
@@ -531,28 +482,6 @@
         {
           "en": "You seem quite happy",
           "ar": "أنت تبدو سعيدًا للغاية :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_sense",
-      "en": "sense",
-      "ar": "حواس",
-      "pronunciation": "/sens/",
-      "lessonId": "lsn_a2_s_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Humans have five senses.",
-          "ar": "البشر لديهم خمس حواس"
         }
       ],
       "type": "word",

@@ -1,0 +1,79 @@
+{
+  "id": "lsn_b1_a_3",
+  "levelId": "lvl_b1",
+  "slug": "a-words-3",
+  "title": "Unit 3: A Words - Part 3",
+  "titleAr": "الوحدة 3: كلمات حرف A - الجزء 3",
+  "description": "Expand your intermediate vocabulary with words starting with A.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف A.",
+  "order": 3,
+  "wordCount": 3,
+  "words": [
+    {
+      "id": "w_b1_authorities",
+      "en": "authorities",
+      "ar": "سلطات",
+      "pronunciation": "Bər ə ti/",
+      "lessonId": "lsn_b1_a_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed called the authorities.",
+          "ar": "اتصل أحمد بالسلطات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_average",
+      "en": "average",
+      "ar": "متوسط",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Oil price is expected to average 91 dollars per barrel.",
+          "ar": "ومن المتوقع أن يبلغ متوسط سعر النفط 91 دولارا للبرميل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_awarded",
+      "en": "awarded",
+      "ar": "منح / كافأ",
+      "pronunciation": "/ə'word/",
+      "lessonId": "lsn_b1_a_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They awarded both of them prizes.",
+          "ar": "منحوا كل منهما جائزتين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

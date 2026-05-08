@@ -1,14 +1,84 @@
 {
   "id": "lsn_b1_f_2",
   "levelId": "lvl_b1",
+  "title": "Unit 14: F Words - Part 2",
   "slug": "f-words-2",
-  "title": "Unit 15: F Words - Part 2",
-  "titleAr": "الوحدة 15: كلمات حرف F - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with F.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف F.",
-  "order": 15,
-  "wordCount": 16,
+  "order": 14,
+  "wordCount": 19,
+  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف F.",
   "words": [
+    {
+      "id": "w_b1_flows",
+      "en": "flows",
+      "ar": "يتدفق / سيلان",
+      "pronunciation": "/flou/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The river flows towards the desert.",
+          "ar": "النهر يتدفق باتجاه الصحراء."
+        },
+        {
+          "en": "I can't stop the flow of my blood.",
+          "ar": "لا أستطيع إيقاف سيلان دمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b2_fold",
+      "en": "fold",
+      "ar": "طية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "examples": [
+        {
+          "en": "She hid the note in a fold in her dress.",
+          "ar": "أخفت الرسالة في طية في فستانها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b1_folded",
+      "en": "folded",
+      "ar": "طوى",
+      "pronunciation": "/fould/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He folded the paper and put it in his pocket.",
+          "ar": "هو طوى الورقة ووضعها في جيبه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_b1_folk_art",
       "en": "folk art",
@@ -32,17 +102,17 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_following",
-      "en": "following",
-      "ar": "فيما يلي / التالي",
-      "pronunciation": "/ fa-lou-in/",
+      "id": "w_b1_folks",
+      "en": "folks",
+      "ar": "ناس / عامة",
+      "pronunciation": "/fouk/",
       "lessonId": "lsn_b1_f_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
       "examples": [
         {
-          "en": "The following is a list of conferences I attended.",
-          "ar": "فيما يلي قائمة بالمؤتمرات التي حضرتها."
+          "en": "Like most folks, I like good jokes.",
+          "ar": "مثل معظم الناس، أحب النكات الجيدة."
         }
       ],
       "type": "word",
@@ -105,7 +175,6 @@
       "id": "w_b1_frames",
       "en": "frames",
       "ar": "إطارات / يبروز",
-      "pronunciation": "",
       "lessonId": "lsn_b1_f_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -125,13 +194,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/fɹeɪmz/"
     },
     {
       "id": "w_b1_freeze",
       "en": "freeze",
       "ar": "يجمد",
-      "pronunciation": "",
       "lessonId": "lsn_b1_f_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -147,7 +216,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfɹiːz/"
     },
     {
       "id": "w_b1_frequently",
@@ -161,6 +231,28 @@
         {
           "en": "He borrows books from me frequently.",
           "ar": "يستعير مني كتبا بشكل متكرر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fried",
+      "en": "fried",
+      "ar": "قليت",
+      "pronunciation": "/fraid/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I fried the potatoes myself.",
+          "ar": "قليت البطاطس بنفسي."
         }
       ],
       "type": "word",
@@ -241,7 +333,6 @@
       "id": "w_b1_frightening",
       "en": "frightening",
       "ar": "مرعبة",
-      "pronunciation": "",
       "lessonId": "lsn_b1_f_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -257,7 +348,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfɹaɪtnɪŋ/"
     },
     {
       "id": "w_b1_frozen",
@@ -271,28 +363,6 @@
         {
           "en": "Heat the frozen fish.",
           "ar": "سخن السمك المجمد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_fried",
-      "en": "fried",
-      "ar": "قليت",
-      "pronunciation": "/fraid/",
-      "lessonId": "lsn_b1_f_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I fried the potatoes myself.",
-          "ar": "قليت البطاطس بنفسي."
         }
       ],
       "type": "word",

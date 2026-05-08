@@ -1,0 +1,251 @@
+{
+  "id": "lsn_a1_j",
+  "levelId": "lvl_a1",
+  "title": "Unit 20: J Words",
+  "slug": "j-words",
+  "order": 20,
+  "wordCount": 10,
+  "titleAr": "الوحدة 20: كلمات حرف J",
+  "description": "Master essential A1 vocabulary starting with the letter J.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف J.",
+  "words": [
+    {
+      "id": "w_a1_jacket",
+      "lessonId": "lsn_a1_j",
+      "en": "jacket",
+      "translation": "سترة",
+      "ar": "سترة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He put on his jacket.",
+          "ar": "لقد ارتدى سترته."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈd͡ʒæk.ɪt/"
+    },
+    {
+      "id": "w_a1_january",
+      "lessonId": "lsn_a1_j",
+      "en": "January",
+      "translation": "شهر يناير",
+      "ar": "شهر يناير",
+      "pronunciation": "/'dzæn ju er-i/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "January is the coldest month.",
+          "ar": "شهر يناير هو الشهر الأكثر برودة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_jeans",
+      "lessonId": "lsn_a1_j",
+      "en": "jeans",
+      "translation": "جينز",
+      "ar": "جينز",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I don't like to wear jeans.",
+          "ar": "لا أحب ارتداء الجينز."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/d͡ʒiːnz/"
+    },
+    {
+      "id": "w_a1_job",
+      "lessonId": "lsn_a1_j",
+      "en": "job",
+      "translation": "وظيفة",
+      "ar": "وظيفة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I got a new job.",
+          "ar": "حصلت على وظيفة جديدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/d͡ʒɒb/"
+    },
+    {
+      "id": "w_a1_join",
+      "lessonId": "lsn_a1_j",
+      "en": "join",
+      "translation": "ينضم",
+      "ar": "ينضم",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to join your group.",
+          "ar": "أريد أن أنضم إلى مجموعتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdʒɔɪn/"
+    },
+    {
+      "id": "w_a1_journey",
+      "lessonId": "lsn_a1_j",
+      "en": "journey",
+      "translation": "رحلة",
+      "ar": "رحلة",
+      "pronunciation": "/d33r-ni/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This journey will take two days.",
+          "ar": "ستستغرق هذه الرحلة يومين."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_juice",
+      "lessonId": "lsn_a1_j",
+      "en": "juice",
+      "translation": "عصير",
+      "ar": "عصير",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Who drank all the apple juice?",
+          "ar": "من شرب كل عصير التفاح؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/d͡ʒuːs/"
+    },
+    {
+      "id": "w_a1_july",
+      "lessonId": "lsn_a1_j",
+      "en": "July",
+      "translation": "شهر يوليو",
+      "ar": "شهر يوليو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'm traveling in July.",
+          "ar": "سأسافر في شهر يوليو."
+        },
+        {
+          "en": "She loves July the most.",
+          "ar": "إنها تحب شهر يوليو أكثر من غيره."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_june",
+      "lessonId": "lsn_a1_j",
+      "en": "June",
+      "translation": "شهر يونيو",
+      "ar": "شهر يونيو",
+      "pronunciation": "/dzun/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "June is the start of summer.",
+          "ar": "يونيو هو بداية الصيف."
+        },
+        {
+          "en": "She began her new job in early June.",
+          "ar": "لقد بدأت وظيفتها الجديدة في أوائل يونيو."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_just",
+      "lessonId": "lsn_a1_j",
+      "en": "just",
+      "translation": "فقط / للتو",
+      "ar": "فقط / للتو",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I just need five minutes.",
+          "ar": "أحتاج فقط لخمس دقائق."
+        },
+        {
+          "en": "I just got home.",
+          "ar": "لقد وصلت إلى المنزل للتو."
+        },
+        {
+          "en": "إنه معروف بكونه قائداً عادلاً ومنصفاً",
+          "ar": "The court aims to reach a just decision for both parties."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/d͡ʒʌst/"
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "id": "lsn_b1_s_3",
+  "levelId": "lvl_b1",
+  "slug": "s-words-3",
+  "title": "Unit 37: S Words - Part 3",
+  "titleAr": "الوحدة 37: كلمات حرف S - الجزء 3",
+  "description": "Expand your intermediate vocabulary with words starting with S.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف S.",
+  "order": 37,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_specifically",
+      "en": "specifically",
+      "ar": "على وجه التحديد",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I specifically mentioned your research in the book.",
+          "ar": "لقد ذكرت بحثك على وجه التحديد في الكتاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_spending",
+      "en": "spending",
+      "ar": "إنفاق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The government intends to increase spending on education.",
+          "ar": "الحكومة تعتزم زيادة الإنفاق على التعليم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_spicy",
+      "en": "spicy",
+      "ar": "كثير التوابل / حار",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We ate spicy food inside a small restaurant.",
+          "ar": "تناولنا طعامًا كثير التوابل داخل مطعم صغير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_spirit",
+      "en": "spirit",
+      "ar": "روح / معنويات",
+      "pronunciation": "/ spır It/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You may beat me but you can't break my spirit.",
+          "ar": "قد تهزمني، لكن لا يمكنك تحطيم روحي."
+        },
+        {
+          "en": "I am in high spirits today.",
+          "ar": "أنا في حالة معنوية عالية اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_spoken",
+      "en": "spoken",
+      "ar": "منطوقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Books are not enough You need to learn spoken English.",
+          "ar": "الكتب لا تكفي أنت بحاجة لتعلم اللغة الإنجليزية المنطوقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_spot",
+      "en": "spot",
+      "ar": "بقعة / نقطة",
+      "pronunciation": "/spat/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is my weak spot.",
+          "ar": "هذه هي نقطة ضعفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_spread",
+      "en": "spread",
+      "ar": "انتشر",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The news spread very fast.",
+          "ar": "انتشر الخبر بسرعة كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_stadium",
+      "en": "stadium",
+      "ar": "مدرج / ستاد",
+      "pronunciation": "/ ster diam/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Hundreds packed into the stadium to watch the match.",
+          "ar": "احتشد المئات في المدرج لمشاهدة المباراة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_staff",
+      "en": "staff",
+      "ar": "طاقم عمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need professional staff.",
+          "ar": "نحتاج إلى طاقم عمل محترف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_standards",
+      "en": "standards",
+      "ar": "مستويات المعيشة / معدلات قياسية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Living standards should be improved.",
+          "ar": "مستويات المعيشة يجب تحسينها."
+        },
+        {
+          "en": "He refused to pay more than standard rates.",
+          "ar": "رفض أن يدفع أكثر من المعدلات القياسية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_stated",
+      "en": "stated",
+      "ar": "ذكروا / صرحوا",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They clearly stated that point.",
+          "ar": "لقد ذكروا بوضوح هذه النقطة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_state",
+      "en": "state",
+      "ar": "حكومي / للمادة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We should improve the state education system.",
+          "ar": "يجب علينا تحسين نظام التعليم الحكومي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_statistics",
+      "en": "statistics",
+      "ar": "إحصائيات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your task today is analyzing crime statistics.",
+          "ar": "مهمتك اليوم هي تحليل إحصائيات الجريمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_statues",
+      "en": "statues",
+      "ar": "تماثيل",
+      "pronunciation": "/'stæts u/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This park has a lot of broken statues.",
+          "ar": "هذه الحديقة بها الكثير من التماثيل المكسورة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sticks",
+      "en": "sticks",
+      "ar": "أعواد / عصي",
+      "pronunciation": "/stık/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need dry sticks to start a fire.",
+          "ar": "نحتاج إلى أعواد جافة لإشعال النار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_stick",
+      "en": "Stick",
+      "ar": "علق / ألصق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Stick these photos in the corner.",
+          "ar": "علق هذه الصور في الزاوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_still",
+      "en": "still",
+      "ar": "ساكناً",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Stay still while I measure your height.",
+          "ar": "ابق ساكنا بينما أقيس طولك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_store",
+      "en": "store",
+      "ar": "يخزن",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can I store my books in your cupboard?",
+          "ar": "هل يمكنني أن أخزن كتبي في خزانتك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_strangers",
+      "en": "strangers",
+      "ar": "غرباء",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Excuse me, I don't argue with strangers.",
+          "ar": "معذرةً، أنا لا أتجادل مع الغرباء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_strength",
+      "en": "strength",
+      "ar": "قوة",
+      "pronunciation": "/streŋke/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I pushed against the door with all my strength.",
+          "ar": "دفعت الباب بكل قوتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_strings",
+      "en": "strings",
+      "ar": "خيوط",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Tie these two strings together.",
+          "ar": "اربط هذين الخيطين معا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_strongly",
+      "en": "strongly",
+      "ar": "بشدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I strongly disagree with your decision.",
+          "ar": "أنا أعارض قرارك بشدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_studios",
+      "en": "studios",
+      "ar": "استوديوهات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can record your song in our studios.",
+          "ar": "يمكنك تسجيل أغنيتك في الاستوديوهات الخاصة بنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_stuff",
+      "en": "stuff",
+      "ar": "أغراض",
+      "pronunciation": "/stf/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Leave your sister's stuff alone.",
+          "ar": "اترك أغراض أختك وشأنها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_substances",
+      "en": "substances",
+      "ar": "مواد",
+      "pronunciation": "/'sab-stans/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't mix these two substances.",
+          "ar": "لا تخلط هاتين المادتين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

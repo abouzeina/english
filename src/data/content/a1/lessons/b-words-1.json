@@ -1,47 +1,20 @@
 {
   "id": "lsn_a1_b_1",
-  "levelId": "lvl_1",
-  "title": "B Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 3: B Words - Part 1",
   "slug": "b-words-1",
   "order": 3,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف B - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter B.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف B.",
+  "wordCount": 21,
+  "titleAr": "الوحدة 3: كلمات حرف B - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف B.",
   "words": [
-    {
-      "id": "w_a1_away",
-      "lessonId": "lsn_a1_b_1",
-      "en": "away",
-      "translation": "بعيد / على بعد",
-      "ar": "بعيد / على بعد",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The beach is two miles away.",
-          "ar": "يقع الشاطئ على بعد ميلين."
-        },
-        {
-          "en": "His house is far away from the city center.",
-          "ar": "منزله بعيد عن وسط المدينة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_baby",
       "lessonId": "lsn_a1_b_1",
       "en": "baby",
       "translation": "طفل",
       "ar": "طفل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -59,7 +32,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbeɪbi/"
     },
     {
       "id": "w_a1_back",
@@ -67,7 +41,6 @@
       "en": "back",
       "translation": "ظهر / يعود",
       "ar": "ظهر / يعود",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -77,15 +50,22 @@
         {
           "en": "I'll be back soon.",
           "ar": "سوف أعود قريبًا."
+        },
+        {
+          "en": "My father backed me in my choice of major.",
+          "ar": "لقد دعمني والدي في اختياري للتخصص."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bæk/"
     },
     {
       "id": "w_a1_bad",
@@ -93,7 +73,6 @@
       "en": "bad",
       "translation": "سيء",
       "ar": "سيء",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -107,7 +86,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bæːd/"
     },
     {
       "id": "w_a1_bag",
@@ -115,7 +95,6 @@
       "en": "bag",
       "translation": "كيس / حقيبة",
       "ar": "كيس / حقيبة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -133,7 +112,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbæːɡ/"
     },
     {
       "id": "w_a1_ball",
@@ -141,7 +121,6 @@
       "en": "ball",
       "translation": "كرة",
       "ar": "كرة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -155,7 +134,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɔːl/"
     },
     {
       "id": "w_a1_banana",
@@ -163,7 +143,6 @@
       "en": "banana",
       "translation": "موز",
       "ar": "موز",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -177,7 +156,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bəˈnɑːnə/"
     },
     {
       "id": "w_a1_band",
@@ -207,7 +187,6 @@
       "en": "bank",
       "translation": "بنك",
       "ar": "بنك",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -221,7 +200,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bæŋk/"
     },
     {
       "id": "w_a1_bath",
@@ -229,7 +209,6 @@
       "en": "bath",
       "translation": "استحمام",
       "ar": "استحمام",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -243,7 +222,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɐːθ/"
     },
     {
       "id": "w_a1_bathroom",
@@ -251,7 +231,6 @@
       "en": "bathroom",
       "translation": "حمام",
       "ar": "حمام",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -265,7 +244,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbæθ.ɹuːm/"
     },
     {
       "id": "w_a1_be",
@@ -339,7 +319,6 @@
       "en": "because",
       "translation": "بسبب",
       "ar": "بسبب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -353,7 +332,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɪˈkɒz/"
     },
     {
       "id": "w_a1_become",
@@ -361,7 +341,6 @@
       "en": "become",
       "translation": "يصبح",
       "ar": "يصبح",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -375,7 +354,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bəˈkʊm/"
     },
     {
       "id": "w_a1_bed",
@@ -383,7 +363,6 @@
       "en": "bed",
       "translation": "فراش / سرير",
       "ar": "فراش / سرير",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -401,7 +380,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bed/"
     },
     {
       "id": "w_a1_bedroom",
@@ -409,7 +389,6 @@
       "en": "bedroom",
       "translation": "غرفة نوم",
       "ar": "غرفة نوم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -423,7 +402,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɛdɹʊm/"
     },
     {
       "id": "w_a1_beer",
@@ -448,34 +428,11 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_a1_before",
-      "lessonId": "lsn_a1_b_1",
-      "en": "before",
-      "translation": "قبل",
-      "ar": "قبل",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I usually read before bed.",
-          "ar": "عادة ما أقرأ قبل النوم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
       "id": "w_a1_begin",
       "lessonId": "lsn_a1_b_1",
       "en": "begin",
       "translation": "يبدأ",
       "ar": "يبدأ",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -489,7 +446,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/biˈɡɪn/"
     },
     {
       "id": "w_a1_beginning",
@@ -497,7 +455,6 @@
       "en": "beginning",
       "translation": "بداية",
       "ar": "بداية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -511,7 +468,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɪˈɡɪn.ɪŋ/"
     },
     {
       "id": "w_a1_behind",
@@ -529,62 +487,6 @@
         {
           "en": "The car is parked behind.",
           "ar": "السيارة مركونة في الخلف."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_believe",
-      "lessonId": "lsn_a1_b_1",
-      "en": "believe",
-      "translation": "يصدق / يؤمن",
-      "ar": "يصدق / يؤمن",
-      "pronunciation": "/bi'liv/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I don't believe you.",
-          "ar": "أنا لا أصدقك."
-        },
-        {
-          "en": "Believe me it's going to be okay.",
-          "ar": "صدقني سيكون كل شيء على ما يرام."
-        },
-        {
-          "en": "I believe this is true.",
-          "ar": "أنا أؤمن بأن هذا صحيح."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_below",
-      "lessonId": "lsn_a1_b_1",
-      "en": "below",
-      "translation": "تحت / بالأسفل",
-      "ar": "تحت / بالأسفل",
-      "pronunciation": "/br'lou/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The book is below the table.",
-          "ar": "الكتاب تحت الطاولة."
-        },
-        {
-          "en": "I left my bicycle below.",
-          "ar": "تركت دراجتي بالأسفل."
         }
       ],
       "difficulty": "A1",

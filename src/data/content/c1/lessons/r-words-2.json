@@ -1,0 +1,431 @@
+{
+  "id": "lsn_c1_r_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 35: R Words - Part 2",
+  "slug": "r-words-2",
+  "order": 35,
+  "wordCount": 19,
+  "titleAr": "الوحدة 35: كلمات حرف R - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف R.",
+  "words": [
+    {
+      "id": "w_c1_refusal",
+      "en": "refusal",
+      "ar": "رفض",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الرفض المفاجئ لطلبنا مفاجأة",
+          "ar": "His refusal to cooperate led to further problems."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈfjuːzl̩/"
+    },
+    {
+      "id": "w_c1_regain",
+      "en": "regain",
+      "ar": "يستعيد / يسترد",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحاول الحكومة استعادة السيطرة على الموقف",
+          "ar": "He slowly regained consciousness after the accident."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹiːˈɡeɪn/"
+    },
+    {
+      "id": "w_c1_regardless",
+      "en": "regardless",
+      "ar": "بغض النظر / بقطع النظر",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ينطبق القانون على الجميع، بغض النظر عن وضعهم الاجتماعي",
+          "ar": "He decided to go ahead with the plan regardless of the risks."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈɡɑːd.lɪs/"
+    },
+    {
+      "id": "w_c1_regime",
+      "en": "regime",
+      "ar": "نظام حكم / حمية غذائية أو تدريبية",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تُم الإطاحة بالنظام القديم في ثورة عنيفة",
+          "ar": "The athlete follows a very strict training regime."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹeɪˈʒiːm/"
+    },
+    {
+      "id": "w_c1_regulator",
+      "en": "regulator",
+      "ar": "منظم / أداة ضبط",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أنشأت الحكومة هيئة تنظيمية (منظم) جديدة للقطاع المالي",
+          "ar": "A pressure regulator is used to control the flow of gas."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɛɡ.juː.leɪt.ə/"
+    },
+    {
+      "id": "w_c1_regulatory",
+      "en": "regulatory",
+      "ar": "تنظيمي",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "للوكالة دور تنظيمي في قطاع الطاقة",
+          "ar": "We must comply with all regulatory requirements."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛɡjələtɹi/"
+    },
+    {
+      "id": "w_c1_rehabilitation",
+      "en": "rehabilitation",
+      "ar": "إعادة تأهيل",
+      "pronunciation": "ˌriːəˌbɪlɪˈteɪʃn",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يقدم المستشفى برنامجاً لإعادة تأهيل مرضى السكتة الدماغية",
+          "ar": "The criminal underwent a process of social rehabilitation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_reign",
+      "en": "reign",
+      "ar": "عهد / حكم / يسود",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "خلال عهد الملكة فيكتوريا، توسعت الإمبراطورية",
+          "ar": "Silence reigned in the library."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[ɹeɪn]/"
+    },
+    {
+      "id": "w_c1_rejection",
+      "en": "rejection",
+      "ar": "رفض",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قوبل طلبه برفض فوري",
+          "ar": "She found it difficult to deal with the rejection."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəˈdʒɛkʃən/"
+    },
+    {
+      "id": "w_c1_relevance",
+      "en": "relevance",
+      "ar": "صلة / علاقة بالموضوع / أهمية",
+      "pronunciation": "ˈreləvəns",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "شرح المعلم صلة التاريخ بحياتنا الحديثة",
+          "ar": "The evidence has no relevance to the case."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_reliability",
+      "en": "reliability",
+      "ar": "موثوقية",
+      "pronunciation": "rɪˌlaɪəˈbɪləti",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "موثوقية السيارة هي نقطة بيعها الرئيسية",
+          "ar": "We need to check the reliability of the data."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_reluctant",
+      "en": "reluctant",
+      "ar": "متردد / كاره",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان متردداً في مشاركة أفكاره مع بقية الفريق",
+          "ar": "She was reluctant to leave her home."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈlʌktənt/"
+    },
+    {
+      "id": "w_c1_remainder",
+      "en": "remainder",
+      "ar": "بقية / متبقي",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قضى بقية حياته في إيطاليا",
+          "ar": "I gave the remainder of the food to the dog."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəˈmeɪndə/"
+    },
+    {
+      "id": "w_c1_remains",
+      "en": "remains",
+      "ar": "بقايا / آثار / جثة",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم اكتشاف بقايا مدينة قديمة في الصحراء",
+          "ar": "The family is waiting for the victim's remains to be returned."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈmeɪnz/"
+    },
+    {
+      "id": "w_c1_remedy",
+      "en": "remedy",
+      "ar": "علاج / دواء / حل",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المشروب الساخن علاج جيد للبرد",
+          "ar": "The government is looking for a remedy for the economic crisis."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛmədi/"
+    },
+    {
+      "id": "w_c1_reminder",
+      "en": "reminder",
+      "ar": "تذكير",
+      "pronunciation": "rɪˈmaɪndə(r)",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يرسل لي التطبيق تذكراً بشرب الماء كل ساعة",
+          "ar": "The monument is a reminder of the city's history."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_removal",
+      "en": "removal",
+      "ar": "إزالة / نقل / عزل من المنصب",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت إزالة البقع القديمة صعبة",
+          "ar": "The council discussed the removal of the president from office."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəˈmuːvəl/"
+    },
+    {
+      "id": "w_c1_render",
+      "en": "render",
+      "ar": "يجعل / يقدم (خدمة) / يصور",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "جعل الحادث السيارة غير صالحة للاستعمال",
+          "ar": "They were happy to render assistance to the travelers."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛn.də/"
+    },
+    {
+      "id": "w_c1_renew",
+      "en": "renew",
+      "ar": "يجدد",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أنا بحاجة لتجديد جواز سفري قبل انتهاء صلاحيته",
+          "ar": "They decided to renew their contract for another year."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈnjuː/"
+    }
+  ]
+}

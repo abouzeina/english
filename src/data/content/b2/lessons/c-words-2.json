@@ -1,0 +1,579 @@
+{
+  "id": "lsn_b2_c_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 8: C Words - Part 2",
+  "slug": "c-words-2",
+  "order": 8,
+  "wordCount": 25,
+  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_b2_chief",
+      "en": "chief",
+      "ar": "رئيسي / مدير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is the chief financial officer in the company.",
+          "ar": "هو المدير المالي في الشركة."
+        },
+        {
+          "en": "Unemployment is the chief cause of poverty.",
+          "ar": "البطالة هي السبب الرئيسي للفقر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_choir",
+      "en": "choir",
+      "ar": "جوقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Who will lead the choir ?",
+          "ar": "من سيقود الجوقة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chop",
+      "en": "chop",
+      "ar": "يقطع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "First, chop the onions into small pieces.",
+          "ar": "أولاً، قطع البصل إلى قطع صغيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_circuit",
+      "en": "circuit",
+      "ar": "دائرة كهربائية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The book will teach you electrical circuit design.",
+          "ar": "الكتاب سوف يعلمك تصميم الدوائر الكهربائية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_circumstance",
+      "en": "circumstance",
+      "ar": "ظرف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We are facing difficult circumstances.",
+          "ar": "نحن نواجه ظروفا صعبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cite",
+      "en": "cite",
+      "ar": "يستشهد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You didn't cite any sources in your article.",
+          "ar": "أنت لم تستشهد بأية مصادر في مقالتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_citizen",
+      "en": "citizen",
+      "ar": "مواطن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You can get a job even if you are not a citizen in this country.",
+          "ar": "يمكنك الحصول على وظيفة حتى لو لم تكن مواطنا في هذا البلد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_civil",
+      "en": "civil",
+      "ar": "مدني / أهلي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We have to avoid civil war by any means.",
+          "ar": "علينا أن نتجنب الحرب الأهلية بأي وسيلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_civilization",
+      "en": "civilization",
+      "ar": "حضارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He published several books about Western civilization.",
+          "ar": "نشر عدة كتب عن الحضارة الغربية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_clarify",
+      "en": "clarify",
+      "ar": "يوضح",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This statement needs to be clarified.",
+          "ar": "هذا البيان يحتاج أن يوضح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈklæɹɪfaɪ/"
+    },
+    {
+      "id": "w_b2_classic",
+      "en": "classic",
+      "ar": "كلاسيكي",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our friend, Jalal, is one of the classic writers.",
+          "ar": "صديقنا جلال هو أحد الكتاب الكلاسيكيين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈklæ.sɪk/"
+    },
+    {
+      "id": "w_b2_classify",
+      "en": "classify",
+      "ar": "ترتب / تصنف",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your task is to classify these books by subject.",
+          "ar": "مهمتك هي أن ترتب هذه الكتب حسب الموضوع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈklæsɪfaɪ/"
+    },
+    {
+      "id": "w_b2_clerk",
+      "en": "clerk",
+      "ar": "موظف",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can you work with us as a sales clerk ?",
+          "ar": "هل يمكنك العمل معنا كموظف مبيعات ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/klɐːk/"
+    },
+    {
+      "id": "w_b2_cliff",
+      "en": "cliff",
+      "ar": "جرف",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I like to sit on top of this cliff when the sun rises.",
+          "ar": "أحب الجلوس على قمة هذا الجرف عندما تشرق الشمس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/klɪf/"
+    },
+    {
+      "id": "w_b2_clinic",
+      "en": "clinic",
+      "ar": "عيادة",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was treated in a local clinic.",
+          "ar": "وقد عولج في عيادة محلية."
+        },
+        {
+          "en": "I hear children's cries coming from the dentist's clinic.",
+          "ar": "أسمع صرخات أطفال قادمة من عيادة طبيب الأسنان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈklɪnɪk/"
+    },
+    {
+      "id": "w_b2_clip",
+      "en": "clip",
+      "ar": "مقطع",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Watch this clip and tell me your opinion.",
+          "ar": "شاهد هذا المقطع وأخبرني عن رأيك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/klɪp/"
+    },
+    {
+      "id": "w_b2_closely",
+      "en": "closely",
+      "ar": "بعناية",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "If you look closely at the painting, you'll find something odd.",
+          "ar": "إذا نظرت بعناية إلى اللوحة، ستجد شيئًا غريبًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkləʊsliː/"
+    },
+    {
+      "id": "w_b2_coincidence",
+      "en": "coincidence",
+      "ar": "مصادفة",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "What a coincidence! I didn't know that you were here.",
+          "ar": "يالها من مصادفة ! لم أكن أعلم أنك هنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəʊˈɪnsɪdəns/"
+    },
+    {
+      "id": "w_b2_collapse",
+      "en": "collapse",
+      "ar": "انهيار / ينهار",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The roof collapsed before we started the repair process.",
+          "ar": "انهار السقف قبل أن نبدأ عملية الإصلاح."
+        },
+        {
+          "en": "What are the reasons for the collapse of the Soviet Union ?",
+          "ar": "ما أسباب انهيار الاتحاد السوفيتي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəˈlæps/"
+    },
+    {
+      "id": "w_b2_collector",
+      "en": "collector",
+      "ar": "جامع",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Ali is a stamp collector.",
+          "ar": "علي هو جامع طوابع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəˈlɛktə(ɹ)/"
+    },
+    {
+      "id": "w_b2_colonies",
+      "en": "colonies",
+      "ar": "مستعمرات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "These countries were British colonies in the 18th century.",
+          "ar": "كانت هذه البلدان مستعمرات بريطانية في القرن الثامن عشر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_colorful",
+      "en": "colorful",
+      "ar": "ملونة",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This neighborhood is full of colorful buildings.",
+          "ar": "هذا الحي مليء بالمباني الملونة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkʌləfəl/"
+    },
+    {
+      "id": "w_b2_combination",
+      "en": "combination",
+      "ar": "مزيج",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The combination of milk and dates is very delicious.",
+          "ar": "مزيج الحليب والتمر لذيذ جدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kɒmbɪˈneɪʃən/"
+    },
+    {
+      "id": "w_b2_comfort",
+      "en": "comfort",
+      "ar": "رغد / راحة",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was living in comparative comfort.",
+          "ar": "كان يعيش في راحة نسبية."
+        },
+        {
+          "en": "I had enough money to live in comfort.",
+          "ar": "كان لدي ما يكفي من المال للعيش في رغد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkʊm.fət/"
+    },
+    {
+      "id": "w_b2_comforted",
+      "en": "comforted",
+      "ar": "أراحتني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your kind words comforted me.",
+          "ar": "كلماتك الطيبة أراحتني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

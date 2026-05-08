@@ -1,14 +1,251 @@
 {
   "id": "lsn_a1_r_2",
-  "levelId": "lvl_1",
-  "title": "R Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 36: R Words - Part 2",
   "slug": "r-words-2",
-  "order": 35,
-  "wordCount": 2,
-  "titleAr": "كلمات حرف R - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter R.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف R.",
+  "order": 36,
+  "wordCount": 13,
+  "titleAr": "الوحدة 36: كلمات حرف R - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف R.",
   "words": [
+    {
+      "id": "w_a1_restaurant",
+      "lessonId": "lsn_a1_r_2",
+      "en": "restaurant",
+      "translation": "مطعم",
+      "ar": "مطعم",
+      "pronunciation": "/morant, reste rant/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We ate at a restaurant yesterday.",
+          "ar": "تناولنا الطعام في مطعم بالأمس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_result",
+      "lessonId": "lsn_a1_r_2",
+      "en": "result",
+      "translation": "نتيجة",
+      "ar": "نتيجة",
+      "pronunciation": "/r zolt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The test result was good.",
+          "ar": "نتيجة اختبار جيدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_return",
+      "lessonId": "lsn_a1_r_2",
+      "en": "return",
+      "translation": "يعود / عودة",
+      "ar": "يعود / عودة",
+      "pronunciation": "/rt'tarn/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I will return soon.",
+          "ar": "سأعود قريباً."
+        },
+        {
+          "en": "His return to work was difficult.",
+          "ar": "كانت عودته إلى العمل صعبة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_rice",
+      "lessonId": "lsn_a1_r_2",
+      "en": "rice",
+      "translation": "أرز",
+      "ar": "أرز",
+      "pronunciation": "/rais/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The rice is ready.",
+          "ar": "الأرز جاهز."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_rich",
+      "lessonId": "lsn_a1_r_2",
+      "en": "rich",
+      "translation": "غني / ثري",
+      "ar": "غني / ثري",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to live a rich life.",
+          "ar": "أريد أن أعيش حياة غنية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪt͡ʃ/"
+    },
+    {
+      "id": "w_a1_ride",
+      "lessonId": "lsn_a1_r_2",
+      "en": "ride",
+      "translation": "يركب",
+      "ar": "يركب",
+      "pronunciation": "/rard/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He can't ride a bicycle.",
+          "ar": "لا يمكنه أن يركب دراجة هوائية."
+        },
+        {
+          "en": "I need a ride to the airport.",
+          "ar": "أحتاج إلى توصيلة إلى المطار :"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_right",
+      "lessonId": "lsn_a1_r_2",
+      "en": "right",
+      "translation": "يمين / صحيح / محق",
+      "ar": "يمين / صحيح / محق",
+      "pronunciation": "/rast/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Park your car on the right.",
+          "ar": "أوقف سيارتك على اليمين."
+        },
+        {
+          "en": "This is the right way.",
+          "ar": "هذه هي الطريقة الصحيحة."
+        },
+        {
+          "en": "Yes, you're right.",
+          "ar": "نعم أنت محق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_river",
+      "lessonId": "lsn_a1_r_2",
+      "en": "river",
+      "translation": "نهر",
+      "ar": "نهر",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The river looks beautiful.",
+          "ar": "يبدو النهر جميلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɪvə/"
+    },
+    {
+      "id": "w_a1_road",
+      "lessonId": "lsn_a1_r_2",
+      "en": "road",
+      "translation": "طريق",
+      "ar": "طريق",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The road is very long.",
+          "ar": "الطريق طويل جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəʊd/"
+    },
+    {
+      "id": "w_a1_room",
+      "lessonId": "lsn_a1_r_2",
+      "en": "room",
+      "translation": "غرفة",
+      "ar": "غرفة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I cleaned my room today.",
+          "ar": "قمت بتنظيف غرفتي اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹuːm/"
+    },
     {
       "id": "w_a1_routine",
       "lessonId": "lsn_a1_r_2",
@@ -21,12 +258,18 @@
         {
           "en": "My routine starts at 6 am.",
           "ar": "يبدأ روتيني في الساعة 6 صباحاً."
+        },
+        {
+          "en": "The doctor performed a routine check-up on the patient.",
+          "ar": "قام الطبيب بإجراء فحص روتيني للمريض."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -52,6 +295,33 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_run",
+      "lessonId": "lsn_a1_r_2",
+      "en": "run",
+      "translation": "يجري",
+      "ar": "يجري",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I run every morning.",
+          "ar": "أنا أجري كل صباح."
+        },
+        {
+          "en": "He goes for a run every morning.",
+          "ar": "يذهب للجري كل صباح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹʊn/"
     }
   ]
 }

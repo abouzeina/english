@@ -1,0 +1,325 @@
+{
+  "id": "lsn_b1_s_4",
+  "levelId": "lvl_b1",
+  "slug": "s-words-4",
+  "title": "Unit 38: S Words - Part 4",
+  "titleAr": "الوحدة 38: كلمات حرف S - الجزء 4",
+  "description": "Expand your intermediate vocabulary with words starting with S.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف S.",
+  "order": 38,
+  "wordCount": 14,
+  "words": [
+    {
+      "id": "w_b1_successfully",
+      "en": "successfully",
+      "ar": "بنجاح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have already successfully completed five courses.",
+          "ar": "لقد أكملت بالفعل خمس دورات بنجاح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sudden",
+      "en": "sudden",
+      "ar": "مفاجئ",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was a sudden change in temperature.",
+          "ar": "لقد كان تغيرا مفاجئًا في درجة الحرارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_suffered",
+      "en": "suffered",
+      "ar": "عانى / يعاني",
+      "pronunciation": "/ saf-er/",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He suffered from a rare illness.",
+          "ar": "عانى من مرض نادر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_suit",
+      "en": "suit",
+      "ar": "تناسب",
+      "pronunciation": "/sut/",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have a variety of dishes to suit all tastes.",
+          "ar": "لدينا أطباق متنوعة لتناسب جميع الأذواق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_suitable",
+      "en": "suitable",
+      "ar": "مناسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They are looking for a suitable site for their factory.",
+          "ar": "إنهم يبحثون عن موقع مناسب لمصنعهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_summary",
+      "en": "summary",
+      "ar": "ملخص",
+      "pronunciation": "/'sam-ər-i/",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The author published a summary of his book.",
+          "ar": "نشر المؤلف ملخصا لكتابه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_summarizes",
+      "en": "summarizes",
+      "ar": "يلخص",
+      "pronunciation": "/'sam ər azz/",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This essay summarizes some of my ideas.",
+          "ar": "هذا المقال يلخص بعض أفكاري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_supply",
+      "en": "supply",
+      "ar": "يزود / مؤونة / إمداد",
+      "pronunciation": "/sə'plar/",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The company will supply us with sports equipment.",
+          "ar": "الشركة سوف تزودنا بالمعدات الرياضية."
+        },
+        {
+          "en": "The food supply will run out by the end of April.",
+          "ar": "ستنفد مؤونة الغذاء بنهاية شهر أبريل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_supporters",
+      "en": "supporters",
+      "ar": "داعمون",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you have supporters to this cause?",
+          "ar": "هل لديكم داعمون لهذه القضية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_surely",
+      "en": "surely",
+      "ar": "من المؤكد / بالتأكيد",
+      "pronunciation": "/'fuer-li/",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Oil prices will surely rise soon.",
+          "ar": "من المؤكد أن أسعار النفط سترتفع قريباً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_surface",
+      "en": "surface",
+      "ar": "سطح",
+      "pronunciation": "/ s3r fes/",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need a flat surface to sit on.",
+          "ar": "نحتاج إلى سطح مستو لنجلس عليه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_survived",
+      "en": "survived",
+      "ar": "نجا / ينجو",
+      "pronunciation": "/sər varv/",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Most passengers survived the accident.",
+          "ar": "نجا معظم الركاب من الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_swim",
+      "en": "swim",
+      "ar": "سباحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "like to start my day with a quick swim.",
+          "ar": "أحب أن أبدأ يومي بسباحة سريعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_switched",
+      "en": "switched",
+      "ar": "بدلنا / تبديل",
+      "pronunciation": "/swit∫/",
+      "lessonId": "lsn_b1_s_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed and I switched places.",
+          "ar": "أنا وأحمد بدلنا الأماكن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

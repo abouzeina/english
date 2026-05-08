@@ -1,0 +1,496 @@
+{
+  "id": "lsn_b2_p_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 39: P Words - Part 2",
+  "slug": "p-words-2",
+  "order": 39,
+  "wordCount": 20,
+  "titleAr": "الوحدة 39: كلمات حرف P - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_b2_pension",
+      "en": "pension",
+      "ar": "معاشها",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She applied for her pension at age sixty-five.",
+          "ar": "تقدمت بطلب للحصول على معاشها في سن الخامسة والستين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɛnʃ(ə)n/"
+    },
+    {
+      "id": "w_b2_perceive",
+      "en": "perceive",
+      "ar": "ينظر",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "People often perceive beauty in various ways.",
+          "ar": "غالباً ما ينظر الناس إلى الجمال بطرق مختلفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəˈsiːv/"
+    },
+    {
+      "id": "w_b2_perception",
+      "en": "perception",
+      "ar": "الإدراك",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Perception can be influenced by past experiences.",
+          "ar": "يمكن أن يتأثر الإدراك بالتجارب السابقة."
+        },
+        {
+          "en": "تصور الجمهور للحكومة يتغير",
+          "ar": "She has a very clear perception of the situation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəˈsɛpʃ(ə)n/"
+    },
+    {
+      "id": "w_b2_permanent",
+      "en": "permanent",
+      "ar": "دائم",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I got a permanent solution for my back pain.",
+          "ar": "حصلت على حل دائم لآلام ظهري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɜːmənənt/"
+    },
+    {
+      "id": "w_b2_permanently",
+      "en": "permanently",
+      "ar": "بشكل نهائي",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The files were permanently deleted from the computer.",
+          "ar": "تم حذف الملفات بشكل نهائي من الكمبيوتر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɜːmənəntli/"
+    },
+    {
+      "id": "w_b2_permit",
+      "en": "permit",
+      "ar": "يسمحوا / تصريح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I forgot to bring my entry permit today.",
+          "ar": "لقد نسيت إحضار تصريح الدخول الخاص بي اليوم."
+        },
+        {
+          "en": "They won't permit anyone to enter the area.",
+          "ar": "لن يسمحوا لأي شخص بدخول المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_perspective",
+      "en": "perspective",
+      "ar": "وجهة نظري",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "From my perspective, the decision makes sense.",
+          "ar": "من وجهة نظري القرار منطقي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɚˈspɛktɪv/"
+    },
+    {
+      "id": "w_b2_phase",
+      "en": "phase",
+      "ar": "مرحلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Each phase builds upon the previous one.",
+          "ar": "تعتمد كل مرحلة على المرحلة السابقة لها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_phenomenon",
+      "en": "phenomenon",
+      "ar": "ظاهرة",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This cultural phenomenon has spread worldwide quickly.",
+          "ar": "انتشرت هذه الظاهرة الثقافية في جميع أنحاء العالم بسرعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɪˈnɒmənɒn/"
+    },
+    {
+      "id": "w_b2_philosophy",
+      "en": "philosophy",
+      "ar": "الفلسفة",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Philosophy examines the nature of human reality.",
+          "ar": "تبحث الفلسفة في طبيعة الواقع الإنساني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɪˈlɒsəfi/"
+    },
+    {
+      "id": "w_b2_pile",
+      "en": "pile",
+      "ar": "كومة / لا تكدسي",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Don't pile too many plates in the sink.",
+          "ar": "لا تكدسي الكثير من الأطباق في الحوض."
+        },
+        {
+          "en": "The kids jumped into a pile of leaves.",
+          "ar": "قفز الأطفال على كومة من أوراق الأشجار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/paɪl/"
+    },
+    {
+      "id": "w_b2_pill",
+      "en": "pill",
+      "ar": "القرص",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This pill will help you reduce your pain.",
+          "ar": "سيساعدك هذا القرص على تخفيف ألمك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɪl/"
+    },
+    {
+      "id": "w_b2_pitch",
+      "en": "pitch",
+      "ar": "أرض الملعب",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The players gathered on the pitch for practice.",
+          "ar": "تجمع اللاعبون على أرض الملعب للتدريب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɪtʃ/"
+    },
+    {
+      "id": "w_b2_pity",
+      "en": "pity",
+      "ar": "المؤسف",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It's a pity we missed the opportunity.",
+          "ar": "من المؤسف أننا أضعنا الفرصة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɪti/"
+    },
+    {
+      "id": "w_b2_placement",
+      "en": "placement",
+      "ar": "ترتيب",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He got excellent placement in the competition results.",
+          "ar": "حصل على ترتيب ممتاز في نتائج المسابقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpleɪsmənt/"
+    },
+    {
+      "id": "w_b2_plain",
+      "en": "plain",
+      "ar": "عادية",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The room looked simple with plain decorations.",
+          "ar": "بدت الغرفة بسيطة مع ديكورات عادية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pleɪn/"
+    },
+    {
+      "id": "w_b2_plus",
+      "en": "plus",
+      "ar": "بالإضافة / ميزة / أو أكثر",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Having flexible hours is a major plus.",
+          "ar": "يُعد الحصول على ساعات عمل مرنة ميزة كبيرة ."
+        },
+        {
+          "en": "The meal was delicious, plus it was healthy.",
+          "ar": "كانت الوجبة لذيذة، بالإضافة إلى أنها صحية."
+        },
+        {
+          "en": "The project will cost 10,000 riyals plus.",
+          "ar": "ستبلغ تكلفة المشروع 10,000 ريال أو أكثر."
+        },
+        {
+          "en": "Three plus four equals seven.",
+          "ar": "ثلاثة زائد أربعة يساوي سبعة."
+        },
+        {
+          "en": "Two plus two equals four.",
+          "ar": "اثنان زائد اثنان يساوي أربعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "B1",
+        "core",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/plʌs/"
+    },
+    {
+      "id": "w_b1_pointed",
+      "en": "pointed",
+      "ar": "أشار",
+      "pronunciation": "/'porn.txd/",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He pointed to a big stone and asked me to hold it.",
+          "ar": "أشار إلى حجر كبير وطلب مني أن أمسكه."
+        },
+        {
+          "en": "The artist used a pointed brush for detail.",
+          "ar": "استخدم الفنان فرشاة مدببة من أجل التفاصيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b2_popularity",
+      "en": "popularity",
+      "ar": "شعبيته",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Social media has boosted his popularity worldwide.",
+          "ar": "عززت وسائل التواصل الاجتماعي من شعبيته في جميع أنحاء العالم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌpɒp.jəˈlæɹ.ɪ.ti/"
+    },
+    {
+      "id": "w_b2_portion",
+      "en": "portion",
+      "ar": "جزء",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She gave a portion of her salary to charity.",
+          "ar": "تبرعت بجزء من راتبها للأعمال الخيرية."
+        },
+        {
+          "en": "جزء كبير من السكان يعيش في فقر",
+          "ar": "The restaurant serves generous portions of food."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpoəɹʃən/"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "id": "lsn_a2_s_2",
+  "levelId": "lvl_2",
+  "slug": "s-words-2",
+  "title": "Unit 36: S Words - Part 2",
+  "titleAr": "الوحدة 36: كلمات حرف S - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
+  "order": 36,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_separate",
+      "en": "separate",
+      "ar": "منفصل / مختلف",
+      "pronunciation": "/'sep-ər-ət/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was living two separate lives.",
+          "ar": "كان يعيش حياتين منفصلتين : مُخْتَلِف :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_series",
+      "en": "series",
+      "ar": "مسلسل",
+      "pronunciation": "/'szer-iz/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Which drama series do you like best?",
+          "ar": "ما هي أكثر المسلسلات الدرامية التي تفضلها ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_serious",
+      "en": "serious",
+      "ar": "جاد",
+      "pronunciation": "/ sıəriəs/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami was very serious.",
+          "ar": "سامي كان جادًا للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_serve",
+      "en": "serve",
+      "ar": "يخدم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was serving some customers",
+          "ar": "كان يخدم بعض العملاء :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_service",
+      "en": "service",
+      "ar": "خدمة",
+      "pronunciation": "/s3r-vis/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We complained about the service.",
+          "ar": "لقد اشتكينا من الخدمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_several",
+      "en": "several",
+      "ar": "عدة",
+      "pronunciation": "/'sevər-əl/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She speaks several languages.",
+          "ar": "هي تتحدث عدة لغات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_shake",
+      "en": "shake",
+      "ar": "رج",
+      "pronunciation": "/Jerk/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Shake the bottle before using",
+          "ar": "رج الزجاجة قبل الاستخدام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_shall",
+      "en": "shall",
+      "ar": "هل",
+      "pronunciation": "/fæl/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Shall we begin?",
+          "ar": "هل نبدأ ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_shape",
+      "en": "shape",
+      "ar": "شكل",
+      "pronunciation": "/fexp/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I like the shape of the building.",
+          "ar": "أحب شكل المبنى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sheet",
+      "en": "sheet",
+      "ar": "ملاءة",
+      "pronunciation": "/fit/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you wash the sheets today?",
+          "ar": "هل غسلت الملاءات اليوم ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ship",
+      "en": "ship",
+      "ar": "سفينة",
+      "pronunciation": "/xp/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The ship is sailing at three",
+          "ar": "السفينة ستبحر في الثالثة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_shoulder",
+      "en": "shoulder",
+      "ar": "كتف",
+      "pronunciation": "/'Joul-dər/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My left shoulder hurts.",
+          "ar": "كتفي الأيسر يؤلمني :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_shout",
+      "en": "shout",
+      "ar": "يصرخ / صيحة",
+      "pronunciation": "/fast/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please don't shout at the poor girl",
+          "ar": "من فضلك لا تصرخ على الفتاة المسكينة :"
+        },
+        {
+          "en": "I heard a shout.",
+          "ar": "سمعت صيحة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_shut",
+      "en": "shut",
+      "ar": "أغلق / مغمضتين",
+      "pronunciation": "/fat/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Shut the door quickly.",
+          "ar": "أغلق الباب بسرعة :"
+        },
+        {
+          "en": "Keep your eyes shut for a minute.",
+          "ar": "أبق عينيك مغمضتين لدقيقة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_side",
+      "en": "side",
+      "ar": "جانبية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Will there be side effects ?",
+          "ar": "هل ستكون هناك آثار جانبية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sign",
+      "en": "sign",
+      "ar": "علامات / يوقع",
+      "pronunciation": "/saın/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The first signs of winter appeared.",
+          "ar": "ظهرت أولى علامات الشتاء."
+        },
+        {
+          "en": "I signed the papers.",
+          "ar": "وقعت على الأوراق :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_silver",
+      "en": "silver",
+      "ar": "فضة / فضية",
+      "pronunciation": "/ sıl vər/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Gold is more expensive than silver.",
+          "ar": "الذهب أغلى من الفضة : فضَّة :"
+        },
+        {
+          "en": "I like silver cars.",
+          "ar": "أحب السيارات الفضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_simple",
+      "en": "simple",
+      "ar": "بسيطة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lived a simple life.",
+          "ar": "عاش حياة بسيطة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_since",
+      "en": "since",
+      "ar": "منذ / بما أن",
+      "pronunciation": "/sins/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We've lived here since 2004.",
+          "ar": "عشنا هنا منذ عام 2004 :"
+        },
+        {
+          "en": "I'll cook dinner since you're busy.",
+          "ar": "سأطبخ العشاء، بما أنك مشغول :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sing",
+      "en": "sing",
+      "ar": "غناء",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My little daughter enjoys singing.",
+          "ar": "ابنتي الصغيرة تستمتع بالغناء :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_single",
+      "en": "single",
+      "ar": "واحدة",
+      "pronunciation": "/'sın gel/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They won by a single point.",
+          "ar": "لقد فازوا بنقطة واحدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sir",
+      "en": "sir",
+      "ar": "سيدي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Good evening, sir. Can I help you ?",
+          "ar": "مساء الخير سيدي. أيمكنني مساعدتك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_site",
+      "en": "site",
+      "ar": "موقع",
+      "pronunciation": "/sart/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali was at the site this morning.",
+          "ar": "كان علي في الموقع هذا الصباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_size",
+      "en": "size",
+      "ar": "حجم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These boxes are the same size.",
+          "ar": "هذه الصناديق من نفس الحجم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ski",
+      "en": "ski",
+      "ar": "يتزلج / مزاليج",
+      "pronunciation": "/ski/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can ski on that hill.",
+          "ar": "يمكنك أن تتزلج على تلك الهضبة :"
+        },
+        {
+          "en": "They put their skis on.",
+          "ar": "لبسوا مز اليجهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

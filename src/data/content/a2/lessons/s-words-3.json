@@ -1,14 +1,84 @@
 {
   "id": "lsn_a2_s_3",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 36: S Words - Part 3",
   "slug": "s-words-3",
-  "title": "Unit 37: S Words - Part 3",
-  "titleAr": "الوحدة 37: كلمات حرف S - الجزء 3",
-  "description": "Build on your A2 vocabulary starting with the letter S.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
-  "order": 37,
-  "wordCount": 25,
+  "order": 36,
+  "wordCount": 21,
+  "titleAr": "الوحدة 36: كلمات حرف S - الجزء 3",
+  "description": "Master essential A2 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_a2_site",
+      "en": "site",
+      "ar": "موقع",
+      "pronunciation": "/sart/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali was at the site this morning.",
+          "ar": "كان علي في الموقع هذا الصباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_size",
+      "en": "size",
+      "ar": "حجم",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These boxes are the same size.",
+          "ar": "هذه الصناديق من نفس الحجم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/saɪz/"
+    },
+    {
+      "id": "w_a2_ski",
+      "en": "ski",
+      "ar": "يتزلج / مزاليج",
+      "pronunciation": "/ski/",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can ski on that hill.",
+          "ar": "يمكنك أن تتزلج على تلك الهضبة :"
+        },
+        {
+          "en": "They put their skis on.",
+          "ar": "لبسوا مز اليجهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_skiing",
       "en": "skiing",
@@ -76,32 +146,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_sleep",
-      "en": "sleep",
-      "ar": "نوم",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "You need to get some sleep.",
-          "ar": "أنت بحاجة للحصول على قسط من النوم :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_slowly",
       "en": "slowly",
       "ar": "ببطء",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -117,13 +164,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈsləʊli/"
     },
     {
       "id": "w_a2_smartphone",
       "en": "smartphone",
       "ar": "هاتف ذكي",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -139,7 +186,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈsmɑːtfəʊn/"
     },
     {
       "id": "w_a2_smell",
@@ -223,7 +271,6 @@
       "id": "w_a2_smoking",
       "en": "smoking",
       "ar": "تدخين",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -239,7 +286,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈsməʊkɪŋ/"
     },
     {
       "id": "w_a2_soap",
@@ -429,138 +477,6 @@
         {
           "en": "Who can solve the problem?",
           "ar": "من يستطيع أن يحل المشكلة ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_somewhere",
-      "en": "somewhere",
-      "ar": "مكان",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Let's go somewhere quiet.",
-          "ar": "لنهب إلى مكان هادئ :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_sort",
-      "en": "sort",
-      "ar": "نوع",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "What sort of soap is this?",
-          "ar": "أي نوع من الصابون هو هذا ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_source",
-      "en": "source",
-      "ar": "مصدر",
-      "pronunciation": "/sors/",
-      "lessonId": "lsn_a2_s_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "What's the source of this information?",
-          "ar": "ما هو مصدر هذه المعلومات : ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_speech",
-      "en": "speech",
-      "ar": "خطاب",
-      "pronunciation": "/spit∫/",
-      "lessonId": "lsn_a2_s_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "His speech lasted three hours.",
-          "ar": "استمر خطابه لثلاث ساعات :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_speed",
-      "en": "speed",
-      "ar": "سرعة",
-      "pronunciation": "/spid/",
-      "lessonId": "lsn_a2_s_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali started running at full speed.",
-          "ar": "بدأ علي بالركض بأقصى سرعة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_spider",
-      "en": "spider",
-      "ar": "عنكبوت / عناكب",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Are you afraid of spiders ?",
-          "ar": "هل تخاف من العناكب : ؟"
         }
       ],
       "type": "word",

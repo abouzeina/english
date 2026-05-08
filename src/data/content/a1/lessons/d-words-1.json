@@ -1,43 +1,20 @@
 {
   "id": "lsn_a1_d_1",
-  "levelId": "lvl_1",
-  "title": "D Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 9: D Words - Part 1",
   "slug": "d-words-1",
   "order": 9,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف D - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter D.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف D.",
+  "wordCount": 21,
+  "titleAr": "الوحدة 9: كلمات حرف D - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف D.",
   "words": [
-    {
-      "id": "w_a1_cut",
-      "lessonId": "lsn_a1_d_1",
-      "en": "cut",
-      "translation": "يقطع",
-      "ar": "يقطع",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I cut the apple in half.",
-          "ar": "قطعت التفاحة إلى نصفين."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_dad",
       "lessonId": "lsn_a1_d_1",
       "en": "dad",
       "translation": "أب / أبي",
       "ar": "أب / أبي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +28,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dæd/"
     },
     {
       "id": "w_a1_dance",
@@ -59,7 +37,6 @@
       "en": "dance",
       "translation": "يرقص / رقصة",
       "ar": "يرقص / رقصة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -77,7 +54,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/[dæːns]/"
     },
     {
       "id": "w_a1_dancer",
@@ -85,7 +63,6 @@
       "en": "dancer",
       "translation": "راقص",
       "ar": "راقص",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -99,7 +76,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdæns.ə(ɹ)/"
     },
     {
       "id": "w_a1_dancing",
@@ -107,7 +85,6 @@
       "en": "dancing",
       "translation": "الرقص",
       "ar": "الرقص",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -121,7 +98,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdæn.sɪŋ/"
     },
     {
       "id": "w_a1_dangerous",
@@ -129,7 +107,6 @@
       "en": "dangerous",
       "translation": "خطير",
       "ar": "خطير",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -143,7 +120,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdeɪnd͡ʒ(ə)ɹəs/"
     },
     {
       "id": "w_a1_dark",
@@ -151,7 +129,6 @@
       "en": "dark",
       "translation": "غامق / مظلم",
       "ar": "غامق / مظلم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -161,15 +138,21 @@
         {
           "en": "The room was dark and quiet.",
           "ar": "كانت الغرفة مظلمة وهادئة."
+        },
+        {
+          "en": "Are you afraid of the dark?",
+          "ar": "هل تخاف من الظلام ؟"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɑːk/"
     },
     {
       "id": "w_a1_date",
@@ -177,7 +160,6 @@
       "en": "date",
       "translation": "تاريخ",
       "ar": "تاريخ",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -191,7 +173,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/deɪt/"
     },
     {
       "id": "w_a1_daughter",
@@ -221,7 +204,6 @@
       "en": "day",
       "translation": "يوم",
       "ar": "يوم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -235,7 +217,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/deɪ/"
     },
     {
       "id": "w_a1_dear",
@@ -243,21 +226,26 @@
       "en": "dear",
       "translation": "عزيز",
       "ar": "عزيز",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "My dear friend visited yesterday.",
           "ar": "زارني صديقي العزيز بالأمس."
+        },
+        {
+          "en": "Oh dear !! I think I've lost my keys !!",
+          "ar": "ياويلي : !! : أعتقد أني أضعت مفاتيحي : !!"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/diːɹ/"
     },
     {
       "id": "w_a1_december",
@@ -331,7 +319,6 @@
       "en": "describe",
       "translation": "يصف",
       "ar": "يصف",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -345,7 +332,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dəˈskɹaɪb/"
     },
     {
       "id": "w_a1_description",
@@ -353,7 +341,6 @@
       "en": "description",
       "translation": "وصف",
       "ar": "وصف",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -367,7 +354,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈskɹɪpʃən/"
     },
     {
       "id": "w_a1_design",
@@ -375,7 +363,6 @@
       "en": "design",
       "translation": "تصميم / يصمم",
       "ar": "تصميم / يصمم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -393,7 +380,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈzaɪn/"
     },
     {
       "id": "w_a1_desk",
@@ -401,7 +389,6 @@
       "en": "desk",
       "translation": "مكتب",
       "ar": "مكتب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -415,7 +402,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɛsk/"
     },
     {
       "id": "w_a1_detail",
@@ -423,21 +411,27 @@
       "en": "detail",
       "translation": "نقطة / تفصيل",
       "ar": "نقطة / تفصيل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I missed one important detail.",
           "ar": "فاتتني نقطة واحدة مهمة."
+        },
+        {
+          "en": "We need someone to detail this plan.",
+          "ar": "نحن بحاجة إلى شخص ما ليعطينا تفاصيل هذه الخطة."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdiːteɪl/"
     },
     {
       "id": "w_a1_dialogues",
@@ -489,7 +483,6 @@
       "en": "died",
       "translation": "توفي",
       "ar": "توفي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -503,73 +496,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_diet",
-      "lessonId": "lsn_a1_d_1",
-      "en": "diet",
-      "translation": "نظام غذائي",
-      "ar": "نظام غذائي",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "My diet is very healthy.",
-          "ar": "نظامي الغذائي صحي للغاية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_different",
-      "lessonId": "lsn_a1_d_1",
-      "en": "different",
-      "translation": "مختلف",
-      "ar": "مختلف",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The two ideas are different.",
-          "ar": "الفكرتان مختلفتان."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_difference",
-      "lessonId": "lsn_a1_d_1",
-      "en": "difference",
-      "translation": "فرق",
-      "ar": "فرق",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The difference is small but important.",
-          "ar": "الفرق بسيط ولكنه مهم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/daɪd/"
     }
   ]
 }

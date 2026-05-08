@@ -1,0 +1,480 @@
+{
+  "id": "lsn_c1_a_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 3: A Words - Part 3",
+  "slug": "a-words-3",
+  "order": 3,
+  "wordCount": 21,
+  "titleAr": "الوحدة 3: كلمات حرف A - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف A.",
+  "words": [
+    {
+      "id": "w_c1_agricultural",
+      "en": "agricultural",
+      "ar": "زراعي",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يعتمد اقتصاد البلاد على المنتجات الزراعية.",
+          "ar": "Modern agricultural methods have increased crop yields."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌæɡɹɪˈkʌltjʊəɹəl/"
+    },
+    {
+      "id": "w_c1_aide",
+      "en": "aide",
+      "ar": "مساعد / مستشار",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "التقى الرئيس مع كبار مساعديه العسكريين.",
+          "ar": "She works as a nurse's aide in the local hospital."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/eɪd/"
+    },
+    {
+      "id": "w_c1_albeit",
+      "en": "albeit",
+      "ar": "وإن كان / ولو",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت رحلة ممتعة، وإن كانت مكلفة للغاية.",
+          "ar": "He accepted the job, albeit with some hesitation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɔːlˈbiː.ɪt/"
+    },
+    {
+      "id": "w_c1_alert",
+      "en": "alert",
+      "ar": "ينبه / تأهب / يقظ",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيقوم نظام الأمن بتنبيه الشرطة فوراً.",
+          "ar": "The troops were on high alert during the crisis."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈlɜːt/"
+    },
+    {
+      "id": "w_c1_alien",
+      "en": "alien",
+      "ar": "غريب / كائن فضائي (كصفة)",
+      "pronunciation": "ˈeɪliən",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "مفهوم الخصوصية غريب على بعض الثقافات.",
+          "ar": "They were accused of hiring alien workers illegally."
+        },
+        {
+          "en": "Do you think aliens exist?",
+          "ar": "هل تعتقد أن الكائنات الفضائية موجودة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_align",
+      "en": "align",
+      "ar": "يحاذي / يصطف / ينسق",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحتاج إلى محاذاة عجلات السيارة.",
+          "ar": "The company's goals align with my personal values."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/æˈlaɪn/"
+    },
+    {
+      "id": "w_c1_alignment",
+      "en": "alignment",
+      "ar": "محاذاة / تنسيق",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المحاذاة الصحيحة للعمود الفقري مهمة للصحة.",
+          "ar": "The project is in alignment with the national strategy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[əˈɫaɪnmənt]/"
+    },
+    {
+      "id": "w_c1_alike",
+      "en": "alike",
+      "ar": "متشابه / على حد سواء",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الأخوان يتشابهان كثيراً.",
+          "ar": "Success depends on hard work and luck alike."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈlaɪk/"
+    },
+    {
+      "id": "w_c1_allegation",
+      "en": "allegation",
+      "ar": "ادعاء / زعم",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحقق اللجنة في ادعاء الاحتيال.",
+          "ar": "He denied the allegation that he had taken bribes."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌæl.əˈɡeɪ.ʃən/"
+    },
+    {
+      "id": "w_c1_allege",
+      "en": "allege",
+      "ar": "يدعي / يزعم",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يزعم الضحايا أنهم تعرضوا لسوء المعاملة من قبل الشرطة.",
+          "ar": "They allege that the company hid the safety defects."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈlɛdʒ/"
+    },
+    {
+      "id": "w_c1_allegedly",
+      "en": "allegedly",
+      "ar": "كما يُزعم / حسبما قيل",
+      "pronunciation": "əˈledʒɪdli",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان متورطاً في السرقة كما يُزعم.",
+          "ar": "The painting was allegedly stolen from the museum."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_alliance",
+      "en": "alliance",
+      "ar": "تحالف",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "شكل البلدان تحالفاً عسكرياً.",
+          "ar": "A new political alliance was announced yesterday."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈlaɪ.əns/"
+    },
+    {
+      "id": "w_c1_allocate",
+      "en": "allocate",
+      "ar": "يخصص / يحدد",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ستخصص الحكومة أموالاً للتعليم.",
+          "ar": "You should allocate more time to your studies."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæl.ə.keɪt/"
+    },
+    {
+      "id": "w_c1_allocation",
+      "en": "allocation",
+      "ar": "تخصيص / حصة",
+      "pronunciation": "ˌæləˈkeɪʃn",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب أن يكون تخصيص الموارد عادلاً للجميع.",
+          "ar": "They are waiting for their budget allocation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_allowance",
+      "en": "allowance",
+      "ar": "مخصص مالي / سماح / مصروف",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يعطيني والداي مصروفاً شهرياً.",
+          "ar": "The baggage allowance is twenty kilograms."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈlaʊəns/"
+    },
+    {
+      "id": "w_c1_ally",
+      "en": "ally",
+      "ar": "حليف",
+      "pronunciation": "ˈælaɪ",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الولايات المتحدة حليف رئيسي للمملكة المتحدة.",
+          "ar": "She proved to be a loyal ally in the struggle."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_aluminium",
+      "en": "aluminium",
+      "ar": "ألومنيوم",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إطارات النوافذ مصنوعة من الألومنيوم.",
+          "ar": "Aluminium is a lightweight and durable metal."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈluːmɪnəm/"
+    },
+    {
+      "id": "w_c1_amateur",
+      "en": "amateur",
+      "ar": "هاوٍ / غير محترف",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المسابقة مفتوحة للاعبي الغولف الهواة والمحترفين.",
+          "ar": "The photos were taken by an amateur photographer."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæ.mə.tə/"
+    },
+    {
+      "id": "w_c1_ambassador",
+      "en": "ambassador",
+      "ar": "سفير",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمت دعوة السفير البريطاني إلى الحفل.",
+          "ar": "She acted as a cultural ambassador for her country."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/æmˈbæs.ə.də(ɹ)/"
+    },
+    {
+      "id": "w_c1_amend",
+      "en": "amend",
+      "ar": "يعدل / يصحح",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم تعديل القانون ليشمل تدابير سلامة جديدة.",
+          "ar": "He asked to amend his statement before signing it."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈmɛnd/"
+    },
+    {
+      "id": "w_c1_amendment",
+      "en": "amendment",
+      "ar": "تعديل",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "التعديل الأول يحمي حرية التعبير.",
+          "ar": "They proposed an amendment to the constitution."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ʌˈmɛnd.mənt/"
+    }
+  ]
+}

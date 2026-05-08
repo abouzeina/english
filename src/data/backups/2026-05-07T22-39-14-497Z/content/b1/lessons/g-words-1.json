@@ -1,0 +1,505 @@
+{
+  "id": "lsn_b1_g_1",
+  "levelId": "lvl_b1",
+  "slug": "g-words-1",
+  "title": "Unit 16: G Words - Part 1",
+  "titleAr": "الوحدة 16: كلمات حرف G - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with G.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف G.",
+  "order": 16,
+  "wordCount": 22,
+  "words": [
+    {
+      "id": "w_b1_further",
+      "en": "further",
+      "ar": "المزيد من",
+      "pronunciation": "/far öər/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have no further questions.",
+          "ar": "ليس لدينا المزيد من الأسئلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_garage",
+      "en": "garage",
+      "ar": "مرآب",
+      "pronunciation": "/gə razı/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You need permission to park in this garage.",
+          "ar": "أنت بحاجة إلى إذن لتوقف سيارتك في هذا المرآب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_gather",
+      "en": "gather",
+      "ar": "يجمع",
+      "pronunciation": "/'gæð-ər/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He likes to gather insects in the forest.",
+          "ar": "يحب أن يجمع الحشرات في الغابة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_generally",
+      "en": "generally",
+      "ar": "بشكل عام",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our lawyer is generally better than others.",
+          "ar": "محامينا بشكل عام أفضل من غيره."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_generation",
+      "en": "generation",
+      "ar": "جيل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The younger generation can't live without mobile phones.",
+          "ar": "جيل الشباب لا يستطيع العيش بدون الهواتف المحمولة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_generous",
+      "en": "generous",
+      "ar": "سخية / كريم",
+      "pronunciation": "/'dzen ər əs/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I received a generous gift from my brother.",
+          "ar": "تلقيت هدية سخية من أخي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_gentle",
+      "en": "gentle",
+      "ar": "لطيف",
+      "pronunciation": "/'dzen tal/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am gentle with children.",
+          "ar": "أنا لطيف مع الأطفال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_gentlemen",
+      "en": "gentlemen",
+      "ar": "سادة",
+      "pronunciation": "/dzen-təl-mən/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Good evening, ladies and gentlemen.",
+          "ar": "مساء الخير سيداتي و سادتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ghost",
+      "en": "ghost",
+      "ar": "شبح",
+      "pronunciation": "/goust/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This toy looks like a ghost.",
+          "ar": "هذه اللعبة تبدو وكأنها شبح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_giant",
+      "en": "giant",
+      "ar": "عملاق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There is no giant that lives in the forest.",
+          "ar": "لا يوجد عملاق يعيش في الغابة."
+        },
+        {
+          "en": "They made a giant carpet.",
+          "ar": "صنعوا سجادة عملاقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_glad",
+      "en": "glad",
+      "ar": "سعيد",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am glad that you won the competition.",
+          "ar": "أنا سعيد لأنك فزت بالمسابقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_global",
+      "en": "global",
+      "ar": "عالمي",
+      "pronunciation": "/'glou.bel/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Coronavirus is a global disaster.",
+          "ar": "فيروس كورونا هو كارثة عالمية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_gloves",
+      "en": "gloves",
+      "ar": "قفازات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Dry your gloves outside.",
+          "ar": "جفف قفازاتك بالخارج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_go",
+      "en": "go",
+      "ar": "دور",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is it my go now?",
+          "ar": "هل هو دوري الآن ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_goods",
+      "en": "goods",
+      "ar": "سلع",
+      "pronunciation": "/gudz/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We sell electrical goods.",
+          "ar": "نبيع السلع الكهربائية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_grades",
+      "en": "grades",
+      "ar": "درجات",
+      "pronunciation": "/grexd/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your grades are exactly like my grades.",
+          "ar": "درجاتك بالضبط مثل درجاتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_graduated",
+      "en": "graduated",
+      "ar": "تخرجت",
+      "pronunciation": "/ grædz u-ǝt/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I finally graduated from university.",
+          "ar": "أخيرًا تخرجت من الجامعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_graduates",
+      "en": "graduates",
+      "ar": "خريجين",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This job is for recent graduates.",
+          "ar": "هذه الوظيفة هي للخريجين الجدد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_grain",
+      "en": "grain",
+      "ar": "حبوب",
+      "pronunciation": "/greın/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My truck carries grain.",
+          "ar": "شاحنتي تحمل الحبوب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_grateful",
+      "en": "grateful",
+      "ar": "ممتن",
+      "pronunciation": "/ grert fel/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am grateful for your help.",
+          "ar": "أنا ممتن لمساعدتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_growth",
+      "en": "growth",
+      "ar": "نمو",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Milk is necessary for a child's growth.",
+          "ar": "الحليب ضروري لنمو الطفل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_guard",
+      "en": "guard",
+      "ar": "حارس / يحرس",
+      "pronunciation": "/gard/",
+      "lessonId": "lsn_b1_g_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our guard has a modern motorcycle.",
+          "ar": "حارسنا لديه دراجة نارية حديثة."
+        },
+        {
+          "en": "Three police officers guard him.",
+          "ar": "ثلاثة ضباط شرطة يحرسونه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "id": "lsn_c1_d_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 6: D Words - Part 1",
+  "slug": "d-words-1",
+  "order": 6,
+  "wordCount": 18,
+  "titleAr": "الوحدة 6: كلمات حرف D - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف D.",
+  "words": [
+    {
+      "id": "w_c1_deteriorate",
+      "en": "deteriorate",
+      "ar": "يتدهور / يسوء",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأت حالة المريض في التدهور بسرعة خلال الليل",
+          "ar": "The lack of maintenance caused the building to deteriorate."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈtɪəɹɪəɹeɪt/"
+    },
+    {
+      "id": "w_c1_devastate",
+      "en": "devastate",
+      "ar": "يدمر / يخرب",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكن الزلزال من تدمير المدينة الساحلية بأكملها",
+          "ar": "The news of the accident will devastate his family."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɛvəsteɪt/"
+    },
+    {
+      "id": "w_c1_devil",
+      "en": "devil",
+      "ar": "شيطان",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وُصف بأنه شيطان في هيئة بشر",
+          "ar": "The devil is in the details of this contract."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɛvəl/"
+    },
+    {
+      "id": "w_c1_devise",
+      "en": "devise",
+      "ar": "يبتكر / يخطط",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحتاج المهندسون إلى ابتكار نظام جديد لتنقية المياه",
+          "ar": "We must devise a strategy to increase our market share."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈvaɪz/"
+    },
+    {
+      "id": "w_c1_diagnose",
+      "en": "diagnose",
+      "ar": "يشخص",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استغرق الأمر شهوراً ليقوم الأطباء بتشخيص حالته النادرة",
+          "ar": "The mechanic was able to diagnose the engine problem quickly."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/daɪəɡˈnəʊz/"
+    },
+    {
+      "id": "w_c1_diagnosis",
+      "en": "diagnosis",
+      "ar": "تشخيص",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أكد الطبيب التشخيص بعد عدة فحوصات طبية",
+          "ar": "A correct diagnosis is the first step toward effective treatment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/daɪəɡˈnəʊsɪs/"
+    },
+    {
+      "id": "w_c1_dictate",
+      "en": "dictate",
+      "ar": "يملي / يفرض",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحب المدير إملاء الخطابات على مساعده الشخصي",
+          "ar": "Common sense should dictate how you handle the situation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪkˌteɪt/"
+    },
+    {
+      "id": "w_c1_dictator",
+      "en": "dictator",
+      "ar": "ديكتاتور / طاغية",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عانت الأمة لسنوات تحت حكم ديكتاتور قاسي",
+          "ar": "History shows that no dictator can remain in power forever."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪkˈteɪtə(ɹ)/"
+    },
+    {
+      "id": "w_c1_differentiate",
+      "en": "differentiate",
+      "ar": "يميز / يفرق",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "من الصعب التمييز بين التوأمين المتطابقين",
+          "ar": "Product quality is what helps differentiate us from our competitors."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪf.əˈɹɛn.ʃi.eɪt/"
+    },
+    {
+      "id": "w_c1_dignity",
+      "en": "dignity",
+      "ar": "كرامة / وقار",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "واجهت الموقف الصعب بشجاعة وكرامة",
+          "ar": "Every human being deserves to be treated with dignity."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪɡnɪti/"
+    },
+    {
+      "id": "w_c1_dilemma",
+      "en": "dilemma",
+      "ar": "معضلة / مأزق",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "واجه معضلة صعبة بين حياته المهنية وعائلته",
+          "ar": "The government is in a dilemma regarding the new tax laws."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/daɪˈlɛmə/"
+    },
+    {
+      "id": "w_c1_dimension",
+      "en": "dimension",
+      "ar": "بُعد / جانب",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أضاف الاكتشاف الجديد بُعداً جديداً تماماً للبحث",
+          "ar": "We need to measure every dimension of the room before buying furniture."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/daɪˈmɛnʃən/"
+    },
+    {
+      "id": "w_c1_diminish",
+      "en": "diminish",
+      "ar": "يقلل / يتلاشى",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا ينبغي لنا أن نقلل من أهمية مساهماته",
+          "ar": "The pain started to diminish after he took the medicine."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈmɪnɪʃ/"
+    },
+    {
+      "id": "w_c1_dip",
+      "en": "dip",
+      "ar": "ينغمس / ينخفض",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأت الشمس في الانخفاض تحت الأفق",
+          "ar": "Prices often dip during the holiday sales season."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪp/"
+    },
+    {
+      "id": "w_c1_diplomat",
+      "en": "diplomat",
+      "ar": "دبلوماسي",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قضى الدبلوماسي سنوات في التفاوض على معاهدة السلام",
+          "ar": "He was appointed as a senior diplomat to represent his country."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪ.plə.mæt/"
+    },
+    {
+      "id": "w_c1_diplomatic",
+      "en": "diplomatic",
+      "ar": "دبلوماسي",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الدولتان استعادة العلاقات الدبلوماسية",
+          "ar": "He used a very diplomatic approach to resolve the conflict."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌdɪpləˈmætɪk/"
+    },
+    {
+      "id": "w_c1_directory",
+      "en": "directory",
+      "ar": "دليل",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمكنك العثور على معلومات الاتصال الخاصة به في دليل الموظفين",
+          "ar": "The system maintains a directory of all registered users."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/daɪˈɹɛktəɹi/"
+    },
+    {
+      "id": "w_c1_disastrous",
+      "en": "disastrous",
+      "ar": "كارثي",
+      "lessonId": "lsn_c1_d_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان لقرار خفض الميزانية نتائج كارثية",
+          "ar": "The storm caused disastrous damage to the local infrastructure."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈzɑːstɹəs/"
+    }
+  ]
+}

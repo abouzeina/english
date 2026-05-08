@@ -1,0 +1,575 @@
+{
+  "id": "lsn_a2_a_1",
+  "levelId": "lvl_2",
+  "slug": "a-words-1",
+  "title": "Unit 1: A Words - Part 1",
+  "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف A.",
+  "order": 1,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_ability",
+      "en": "ability",
+      "ar": "قدرة",
+      "pronunciation": "/ə'bıl-ə-ti/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His ability in English is above average",
+          "ar": "قدرتة في اللغة الإنجليزية أعلى من المتوسط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_able",
+      "en": "able",
+      "ar": "قادر",
+      "pronunciation": "/'er-bəl/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I hope you'll be able to sleep.",
+          "ar": "أتمنى أن تكون قادرًا على النوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_abroad",
+      "en": "abroad",
+      "ar": "في الخارج / خارج البلاد",
+      "pronunciation": "/ə'brod/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My father didn't let me study abroad.",
+          "ar": "لم يسمح لي أبي بالدراسة خارج البلاد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_accept",
+      "en": "accept",
+      "ar": "يقبل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Thanks, but I can't accept your gift.",
+          "ar": "شكرا، لكن لا يمكنني أن أقبل هديتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_accident",
+      "en": "accident",
+      "ar": "حادث",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Memories of the accident are always with me",
+          "ar": "ذكريات الحادث دائما معي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_according",
+      "en": "according",
+      "ar": "بحسب / وفقا لـ",
+      "pronunciation": "/ə kər dın tu/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "According to the police, no one died.",
+          "ar": "بحسب قول الشرطة، لم يمت أحد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_achieve",
+      "en": "achieve",
+      "ar": "يحقق / ينجز",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Finally, Ali achieved his goal.",
+          "ar": "أخيرًا، حقق علي هدفه"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_act",
+      "en": "act",
+      "ar": "يتصرف",
+      "pronunciation": "/ækt/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He acted like he didn't know me",
+          "ar": "تصرف وكأنه لم يعرفني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_active",
+      "en": "active",
+      "ar": "نشيط",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He's an active child.",
+          "ar": "إنه طفل نشيط"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_actually",
+      "en": "actually",
+      "ar": "في الواقع",
+      "pronunciation": "/'æk-tfu- -li/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't actually live in Sana'a.",
+          "ar": "أنا في الواقع لا أعيش في صنعاء"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_adult",
+      "en": "adult",
+      "ar": "بالغ / راشد",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They have some adult monkeys.",
+          "ar": "لديهم بعض القرود البالغة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_advantage",
+      "en": "advantage",
+      "ar": "ميزة",
+      "pronunciation": "/əd væn txd3/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our plan has lots of advantage.",
+          "ar": "خطتنا لديها الكثير من المزايا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_adventure",
+      "en": "adventure",
+      "ar": "مغامرة",
+      "pronunciation": "/əd ven-tfər/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is your next adventure?",
+          "ar": "ما هي مغامرتك القادمة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_advertise",
+      "en": "advertise",
+      "ar": "يعلن / يروج",
+      "pronunciation": "/'æd-vər taız/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Many companies advertise their products on TV.",
+          "ar": "العديد من الشركات تروج لمنتجاتها على التلفاز"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_advertisement",
+      "en": "advertisement",
+      "ar": "إعلان",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The street was full of advertisements.",
+          "ar": "كان الشارع مليئًا بالإعلانات"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_advertising",
+      "en": "advertising",
+      "ar": "دعاية / إعلان",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali works in a small advertising company.",
+          "ar": "يعمل علي في شركة دعاية صغيرة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_affect",
+      "en": "affect",
+      "ar": "يؤثر",
+      "pronunciation": "/ə'fekt/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The cold climate affected his health.",
+          "ar": "أثر المناخ البارد على صحته"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_after",
+      "en": "after",
+      "ar": "بعد",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The letter \"d\" comes after the letter \" C \"",
+          "ar": "الحرف \" A \" يأتي بعد الحرف \" C \""
+        },
+        {
+          "en": "I could come next month or the month after.",
+          "ar": "يمكن أن آتي الشهر المقبل، أو الشهر الذي بعده"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_against",
+      "en": "against",
+      "ar": "ضد",
+      "pronunciation": "/ə'genst/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The evidence was against me.",
+          "ar": "كان الدليل ضدي"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_airline",
+      "en": "airline",
+      "ar": "شركة طيران",
+      "pronunciation": "/'eər lazn/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are many airlines in this airport",
+          "ar": "هناك العديد من شركات الطيران في هذا المطار"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_alive",
+      "en": "alive",
+      "ar": "على قيد الحياة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is your grandmother still alive ?",
+          "ar": "هل جدتك لا تزال على قيد الحياة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_all",
+      "en": "all",
+      "ar": "كل / بالكامل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She was dressed all in blue.",
+          "ar": "كانت ترتدي ملابس زرقاء بالكامل"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_all_right",
+      "en": "all right",
+      "ar": "حسنًا",
+      "pronunciation": "/ ol rast/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She will soon be all right.",
+          "ar": "ستكون بخير قريبا."
+        },
+        {
+          "en": "Can you come ? \"All right\"",
+          "ar": "هل تستطيع أن تأتي : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_allow",
+      "en": "allow",
+      "ar": "يسمح",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My father doesn't allow me to drive his car.",
+          "ar": "أبي لا يسمح لي بقيادة سيارته."
+        },
+        {
+          "en": "She allowed him to go alone.",
+          "ar": "سمحت له بالذهاب بمفرده"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_almost",
+      "en": "almost",
+      "ar": "تقريبا",
+      "pronunciation": "/ ǝl moust/",
+      "lessonId": "lsn_a2_a_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali eats rice almost every day.",
+          "ar": "علي يأكل الأرز كل يوم تقريبا"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

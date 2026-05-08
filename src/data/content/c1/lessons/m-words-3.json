@@ -1,0 +1,475 @@
+{
+  "id": "lsn_c1_m_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 25: M Words - Part 3",
+  "slug": "m-words-3",
+  "order": 25,
+  "wordCount": 21,
+  "titleAr": "الوحدة 25: كلمات حرف M - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter M.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف M.",
+  "words": [
+    {
+      "id": "w_c1_mill",
+      "en": "mill",
+      "ar": "مطحنة / مصنع",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يُرسل الحبوب إلى المطحنة ليُطحن ويُحول إلى دقيق",
+          "ar": "He worked in a paper mill for twenty years."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mɪl/"
+    },
+    {
+      "id": "w_c1_minimal",
+      "en": "minimal",
+      "ar": "أدنى / ضئيل جداً",
+      "pronunciation": "ˈmɪnɪməl",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الضرر الذي لحق بالسيارة ضئيلاً جداً",
+          "ar": "We achieved the results with minimal effort."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_minimize",
+      "en": "minimize",
+      "ar": "يقلل إلى أدنى حد / يهون من شأن",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب أن نحاول تقليل مخاطر الحوادث إلى أدنى حد",
+          "ar": "Do not try to minimize the importance of this discovery."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɪn.ə.maɪz/"
+    },
+    {
+      "id": "w_c1_mining",
+      "en": "mining",
+      "ar": "تعدين / مناجم",
+      "pronunciation": "ˈmaɪnɪŋ",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يعد تعدين الفحم مهنة خطرة",
+          "ar": "The economy of the region depends on mining."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_miracle",
+      "en": "miracle",
+      "ar": "معجزة",
+      "pronunciation": "ˈmɪrəkl",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت معجزة أنه نجا من الحادث",
+          "ar": "Modern medicine can perform miracles."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_misery",
+      "en": "misery",
+      "ar": "بؤس / شقاء",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "جلبت الحرب البؤس لملايين الناس",
+          "ar": "He lived a life of poverty and misery."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɪz(ə)ɹɪ/"
+    },
+    {
+      "id": "w_c1_misleading",
+      "en": "misleading",
+      "ar": "مضلل",
+      "pronunciation": "ˌmɪsˈliːdɪŋ",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تُعِرض الإعلان للنقد لكونه مضللاً",
+          "ar": "He gave the police misleading information about the suspect."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_missile",
+      "en": "missile",
+      "ar": "صاروخ / قذيفة",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أطلق الجيش صاروخاً على قاعدة العدو",
+          "ar": "Protesters threw stones and other missiles at the police."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɪsaɪl/"
+    },
+    {
+      "id": "w_c1_mob",
+      "en": "mob",
+      "ar": "غوغاء / حشد هائج",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تجمع حشد هائج من الغوغاء خارج مبنى المحكمة",
+          "ar": "The police had difficulty controlling the mob."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mɒb/"
+    },
+    {
+      "id": "w_c1_mobility",
+      "en": "mobility",
+      "ar": "حركية / تنقل",
+      "pronunciation": "məʊˈbɪləti",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الكرسي المتحرك الجديد يمنحه قدرة أكبر على الحركة",
+          "ar": "Social mobility is a key goal of our educational policy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mobilize",
+      "en": "mobilize",
+      "ar": "يحشد / يستنفر",
+      "pronunciation": "ˈməʊbəlaɪz",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحاول الجمعية الخيرية حشد الدعم الشعبي للحملة",
+          "ar": "The army was mobilized within hours of the invasion."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_moderate",
+      "en": "moderate",
+      "ar": "معتدل / متوسط",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لديه آراء معتدلة في معظم القضايا السياسية",
+          "ar": "The hotel offers rooms at a moderate price."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɑdəɹeɪt/"
+    },
+    {
+      "id": "w_c1_modification",
+      "en": "modification",
+      "ar": "تعديل / تغيير طفيف",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتطلب الخطة بعض التعديلات الطفيفة",
+          "ar": "We made a modification to the engine to improve performance."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌmɒdɪfɪˈkeɪʃən/"
+    },
+    {
+      "id": "w_c1_momentum",
+      "en": "momentum",
+      "ar": "زخم / قوة دفع",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تكتسب الحملة زخماً في جميع أنحاء البلاد",
+          "ar": "The car lost momentum as it went up the hill."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌmoʊˈmɛntəm/"
+    },
+    {
+      "id": "w_c1_monk",
+      "en": "monk",
+      "ar": "راهب",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قضى الراهب حياته في الصلاة والتأمل",
+          "ar": "He decided to leave the city and live as a monk."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mʌŋk/"
+    },
+    {
+      "id": "w_c1_monopoly",
+      "en": "monopoly",
+      "ar": "احتكار",
+      "pronunciation": "məˈnɒpəli",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمتلك الشركة احتكاراً لتزويد المياه المحلي",
+          "ar": "The government is trying to break up the telecommunications monopoly."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_morality",
+      "en": "morality",
+      "ar": "أخلاق / مبادئ أخلاقية",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يناقش الكتاب الأخلاقيات في الحروب الحديثة",
+          "ar": "He has a very strict sense of morality."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/məˈɹælɪti/"
+    },
+    {
+      "id": "w_c1_motive",
+      "en": "motive",
+      "ar": "دافع / حافز",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا تزال الشرطة تحاول تحديد الدافع وراء الجريمة",
+          "ar": "His primary motive was to help people in need."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈməʊtɪv/"
+    },
+    {
+      "id": "w_c1_motorist",
+      "en": "motorist",
+      "ar": "سائق سيارة",
+      "pronunciation": "ˈməʊtərɪst",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحذر الشرطة سائقي السيارات من الطرق الجليدية",
+          "ar": "Several motorists were injured in the pile-up."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_municipal",
+      "en": "municipal",
+      "ar": "بلدي / تابع للبلدية",
+      "pronunciation": "mjuːˈnɪsɪpl",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حكومة البلدية هي المسؤولة عن جمع النفايات",
+          "ar": "He works for the municipal library."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mutual",
+      "en": "mutual",
+      "ar": "متبادل",
+      "lessonId": "lsn_c1_m_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمتلك الدولتان مصلحة متبادلة في السلام",
+          "ar": "Respect is essential for a mutual relationship."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmjuːt͡ʃuəl/"
+    }
+  ]
+}

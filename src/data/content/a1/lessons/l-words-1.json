@@ -1,57 +1,40 @@
 {
   "id": "lsn_a1_l_1",
-  "levelId": "lvl_1",
-  "title": "L Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 22: L Words - Part 1",
   "slug": "l-words-1",
   "order": 22,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف L - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter L.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف L.",
+  "wordCount": 16,
+  "titleAr": "الوحدة 22: كلمات حرف L - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف L.",
   "words": [
-    {
-      "id": "w_a1_know",
-      "lessonId": "lsn_a1_l_1",
-      "en": "know",
-      "translation": "يعرف",
-      "ar": "يعرف",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I don't know his name.",
-          "ar": "أنا لا أعرف اسمه."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_land",
       "lessonId": "lsn_a1_l_1",
       "en": "land",
       "translation": "أرض",
       "ar": "أرض",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "We grew potatoes on our land.",
           "ar": "لقد زرعنا البطاطا في أرضنا."
+        },
+        {
+          "en": "The plane landed in a grass area",
+          "ar": "هبطت الطائرة في منطقة عشبية :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/lænd/"
     },
     {
       "id": "w_a1_language",
@@ -81,7 +64,6 @@
       "en": "large",
       "translation": "كبير",
       "ar": "كبير",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -95,33 +77,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_last",
-      "lessonId": "lsn_a1_l_1",
-      "en": "last",
-      "translation": "آخر / ماضي",
-      "ar": "آخر / ماضي",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "This is the last day of school.",
-          "ar": "هذا هو آخر يوم في المدرسة."
-        },
-        {
-          "en": "I met him last night.",
-          "ar": "التقيت به الليلة الماضية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɑːd͡ʒ/"
     },
     {
       "id": "w_a1_late",
@@ -129,7 +86,6 @@
       "en": "late",
       "translation": "متأخر",
       "ar": "متأخر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -147,7 +103,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/leɪt/"
     },
     {
       "id": "w_a1_later",
@@ -155,21 +112,26 @@
       "en": "later",
       "translation": "لاحقاً",
       "ar": "لاحقاً",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I'll see you later.",
           "ar": "أراك لاحقاً."
+        },
+        {
+          "en": "His mother died later that year.",
+          "ar": "توفيت والدته في وقت لاحق من ذلك العام :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈleɪtə/"
     },
     {
       "id": "w_a1_laugh",
@@ -203,7 +165,6 @@
       "en": "learn",
       "translation": "يتعلم",
       "ar": "يتعلم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -217,7 +178,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/lɜːn/"
     },
     {
       "id": "w_a1_leave",
@@ -225,21 +187,27 @@
       "en": "leave",
       "translation": "يغادر",
       "ar": "يغادر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I'll leave in five minutes.",
           "ar": "سأغادر خلال خمس دقائق."
+        },
+        {
+          "en": "She requested leave to take care of her sick child.",
+          "ar": "هي طلبت إجازة لرعاية طفلها المريض."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/liːv/"
     },
     {
       "id": "w_a1_left",
@@ -247,7 +215,6 @@
       "en": "left",
       "translation": "يسار / أيسر",
       "ar": "يسار / أيسر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -265,7 +232,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/lɛft/"
     },
     {
       "id": "w_a1_legs",
@@ -273,7 +241,6 @@
       "en": "legs",
       "translation": "ساقين / أرجل",
       "ar": "ساقين / أرجل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -287,7 +254,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/lɛɡz/"
     },
     {
       "id": "w_a1_lesson",
@@ -295,7 +263,6 @@
       "en": "lesson",
       "translation": "درس",
       "ar": "درس",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -309,7 +276,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɛsn̩/"
     },
     {
       "id": "w_a1_let",
@@ -317,7 +285,6 @@
       "en": "let",
       "translation": "يدع / يسمح",
       "ar": "يدع / يسمح",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -335,7 +302,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/lɛt/"
     },
     {
       "id": "w_a1_letter",
@@ -343,7 +311,6 @@
       "en": "letter",
       "translation": "حرف / رسالة",
       "ar": "حرف / رسالة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -365,7 +332,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/-ɾə(ɹ)/"
     },
     {
       "id": "w_a1_library",
@@ -395,7 +363,6 @@
       "en": "lie",
       "translation": "يستلقي",
       "ar": "يستلقي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -405,15 +372,21 @@
         {
           "en": "The baby was lying next to his mother in bed.",
           "ar": "كان الطفل مستلقياً بجانب أمه في السرير."
+        },
+        {
+          "en": "The lie got him in trouble.",
+          "ar": "أوقعهت الكذبة في ورطة."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/laɪ̯/"
     },
     {
       "id": "w_a1_life",
@@ -427,184 +400,6 @@
         {
           "en": "I love my life as it is.",
           "ar": "أحب حياتي كما هي."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_light",
-      "lessonId": "lsn_a1_l_1",
-      "en": "light",
-      "translation": "ضوء / إضاءة / فاتح (للون)",
-      "ar": "ضوء / إضاءة / فاتح (للون)",
-      "pronunciation": "/lart/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The light is low in this room.",
-          "ar": "الإضاءة ضعيفة في هذه الغرفة."
-        },
-        {
-          "en": "I forgot to turn off the lights.",
-          "ar": "لقد نسيت إطفاء الأنوار."
-        },
-        {
-          "en": "She has light brown hair.",
-          "ar": "شعرها بني فاتح."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_like",
-      "lessonId": "lsn_a1_l_1",
-      "en": "like",
-      "translation": "يحب / مثل",
-      "ar": "يحب / مثل",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I like chocolate ice cream.",
-          "ar": "أحب آيس كريم الشوكولاتة."
-        },
-        {
-          "en": "He speaks like his father.",
-          "ar": "إنه يتكلم مثل والده."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_line",
-      "lessonId": "lsn_a1_l_1",
-      "en": "line",
-      "translation": "خط / سطر",
-      "ar": "خط / سطر",
-      "pronunciation": "/laın/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Draw a line on the paper.",
-          "ar": "ارسم خطاً على الورقة."
-        },
-        {
-          "en": "Read the second line to me.",
-          "ar": "اقرأ لي السطر الثاني."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_lion",
-      "lessonId": "lsn_a1_l_1",
-      "en": "lion",
-      "translation": "أسد",
-      "ar": "أسد",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The lion is sleeping now.",
-          "ar": "الأسد نائم الآن."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_list",
-      "lessonId": "lsn_a1_l_1",
-      "en": "list",
-      "translation": "قائمة / يذكر (سرد)",
-      "ar": "قائمة / يذكر (سرد)",
-      "pronunciation": "/list/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Is my name on this list?",
-          "ar": "هل اسمي في هذه القائمة؟"
-        },
-        {
-          "en": "List the things you need.",
-          "ar": "اذكر الأشياء التي تحتاجها."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_listen",
-      "lessonId": "lsn_a1_l_1",
-      "en": "listen",
-      "translation": "يستمع",
-      "ar": "يستمع",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Please listen when I speak.",
-          "ar": "أرجوك استمع عندما أتحدث."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_little",
-      "lessonId": "lsn_a1_l_1",
-      "en": "little",
-      "translation": "قليل",
-      "ar": "قليل",
-      "pronunciation": "/lıt əل/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I need a little help.",
-          "ar": "أحتاج إلى القليل من المساعدة."
-        },
-        {
-          "en": "It's a little colder today.",
-          "ar": "الجو بارد قليلاً اليوم."
         }
       ],
       "difficulty": "A1",

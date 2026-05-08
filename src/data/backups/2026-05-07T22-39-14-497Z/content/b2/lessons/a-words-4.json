@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b2_a_4",
+  "levelId": "lvl_b2",
+  "slug": "a-words-4",
+  "title": "A Words - Part 4",
+  "titleAr": "كلمات حرف A - الجزء 4",
+  "description": "Learn essential B2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف A.",
+  "order": 4,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_arrow",
+      "en": "arrow",
+      "ar": "سهم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His hobby is hunting birds with arrows.",
+          "ar": "هواية صيد الطيور بالسهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_artificial_intelligence",
+      "en": "artificial intelligence",
+      "ar": "الذكاء الاصطناعي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am taking a course in artificial intelligence.",
+          "ar": "أنا آخذ دورة في الذكاء الاصطناعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_artistic",
+      "en": "artistic",
+      "ar": "فني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your child has artistic talent.",
+          "ar": "طفلك لديه موهبة فنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_artwork",
+      "en": "artwork",
+      "ar": "أعمال فنية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A collection of artworks from Asian cultures.",
+          "ar": "مجموعة من الأعمال الفنية من الثقافات الآسيوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ashamed",
+      "en": "ashamed",
+      "ar": "خجل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was ashamed of his behavior in the last meeting.",
+          "ar": "شعر بالخجل من تصرفاته في اللقاء الأخير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aside",
+      "en": "aside",
+      "ar": "جانباً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I took him aside to give him some instructions.",
+          "ar": "أخذته جانبًا لأعطيه بعض التعليمات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aspect",
+      "en": "aspect",
+      "ar": "جانب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The report aims to cover all aspects of the issue.",
+          "ar": "يهدف التقرير إلى تغطية جميع جوانب القضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_assess",
+      "en": "assess",
+      "ar": "يقيم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We have to assess the effects of these decisions.",
+          "ar": "علينا أن نقيم آثار هذه القرارات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_assessment",
+      "en": "assessment",
+      "ar": "تقييم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The teachers give assessments at the end of the day.",
+          "ar": "يقوم المعلمون بإجراء التقييمات في نهاية اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_asset",
+      "en": "asset",
+      "ar": "أصل / ممتلكات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He has over five million pounds in assets.",
+          "ar": "لديه أصول تزيد عن خمسة ملايين جنيه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_assign",
+      "en": "assign",
+      "ar": "يكلف / يعين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Another officer has been assigned to this case.",
+          "ar": "تم تكليف ضابط آخر لهذه القضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_assistance",
+      "en": "assistance",
+      "ar": "مساعدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Call us if you need technical assistance.",
+          "ar": "اتصل بنا إذا كنت بحاجة إلى المساعدة الفنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_associate",
+      "en": "associate",
+      "ar": "يربط",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We often associate green with success.",
+          "ar": "غالبا ما نربط اللون الأخضر بالنجاح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_associated",
+      "en": "associated",
+      "ar": "مرتبط بـ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We discussed the risks associated with eating fast food.",
+          "ar": "ناقشنا المخاطر المرتبطة بتناول الوجبات السريعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_association",
+      "en": "association",
+      "ar": "جمعية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The association meets two times a year.",
+          "ar": "تجتمع الجمعية مرتين في السنة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_assume",
+      "en": "assume",
+      "ar": "يفترض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I assume that such problems will continue to occur.",
+          "ar": "أنا أفترض أن مثل هذه المشاكل سوف تستمر في الحدوث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_assumption",
+      "en": "assumption",
+      "ar": "افتراض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your argument is based on some false assumptions.",
+          "ar": "حجتك مبنية على بعض الافتراضات الخاطئة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_assure",
+      "en": "assure",
+      "ar": "يؤكد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I assure you that we will make progress soon.",
+          "ar": "أؤكد لك أننا سنحرز تقدما عما قريب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_astonishing",
+      "en": "astonishing",
+      "ar": "مذهل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Grain prices rose at an astonishing rate.",
+          "ar": "ارتفعت أسعار الحبوب بمعدل مذهل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_attachment",
+      "en": "attachment",
+      "ar": "مرفق / ملفات مرفقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Download the attachment files and then respond.",
+          "ar": "قم بتحميل الملفات المرفقة ثم قم بالرد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_attempt",
+      "en": "attempt",
+      "ar": "يحاول / محاولة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They attempted to escape.",
+          "ar": "حاولوا الهروب."
+        },
+        {
+          "en": "You have only one attempt left.",
+          "ar": "لديك محاولة واحدة فقط متبقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_auction",
+      "en": "auction",
+      "ar": "مزاد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I prefer to buy furniture at auctions.",
+          "ar": "أفضل شراء الأثاث في المزادات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_audio",
+      "en": "audio",
+      "ar": "صوت / جودة صوت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Audio quality is poor in your videos.",
+          "ar": "جودة الصوت رديئة في مقاطع الفيديو الخاصة بك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_automatic",
+      "en": "automatic",
+      "ar": "أوتوماتيكي / تلقائي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "All doors in this apartment are automatic.",
+          "ar": "جميع الأبواب في هذه الشقة أوتوماتيكية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_automatically",
+      "en": "automatically",
+      "ar": "بشكل تلقائي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The door automatically locked after I entered.",
+          "ar": "قفل الباب بشكل تلقائي بعد أن دخلت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

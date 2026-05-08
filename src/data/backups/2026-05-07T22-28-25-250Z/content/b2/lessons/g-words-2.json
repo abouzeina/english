@@ -1,0 +1,166 @@
+{
+  "id": "lsn_b2_g_2",
+  "levelId": "lvl_b2",
+  "slug": "g-words-2",
+  "title": "G Words - Part 2",
+  "titleAr": "كلمات حرف G - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter G.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف G.",
+  "order": 28,
+  "wordCount": 9,
+  "words": [
+    {
+      "id": "w_b2_grand",
+      "en": "grand",
+      "ar": "كبيراً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_grant",
+      "en": "grant",
+      "ar": "منحة / منحه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_graphic",
+      "en": "graphic",
+      "ar": "الجرافيكي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_graphics",
+      "en": "graphics",
+      "ar": "الرسومات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_greatly",
+      "en": "greatly",
+      "ar": "بشكل كبير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_greenhouse",
+      "en": "greenhouse",
+      "ar": "الصوبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_grocery",
+      "en": "grocery",
+      "ar": "بقالات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_guarantee",
+      "en": "guarantee",
+      "ar": "ضمان / يضمن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_guidelines",
+      "en": "guidelines",
+      "ar": "إرشادات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

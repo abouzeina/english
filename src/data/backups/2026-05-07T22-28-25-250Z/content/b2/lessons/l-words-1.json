@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_l_1",
+  "levelId": "lvl_b2",
+  "slug": "l-words-1",
+  "title": "L Words - Part 1",
+  "titleAr": "كلمات حرف L - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter L.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف L.",
+  "order": 37,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_labor",
+      "en": "Labor",
+      "ar": "العمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ladder",
+      "en": "ladder",
+      "ar": "السلم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_landing",
+      "en": "landing",
+      "ar": "هبوط",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_landscape",
+      "en": "landscape",
+      "ar": "منظرًا طبيعيًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_lane",
+      "en": "lane",
+      "ar": "الطريق (الضيق)",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_largely",
+      "en": "largely",
+      "ar": "إلى حد كبير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_lately",
+      "en": "lately",
+      "ar": "مؤخراً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_latest",
+      "en": "latest",
+      "ar": "الأحدث",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_launch",
+      "en": "launch",
+      "ar": "إطلاق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_leadership",
+      "en": "Leadership",
+      "ar": "القيادة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_leaflets",
+      "en": "leaflets",
+      "ar": "منشورات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_league",
+      "en": "league",
+      "ar": "دوري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_lean",
+      "en": "lean",
+      "ar": "يتكئ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_leave",
+      "en": "leave",
+      "ar": "إجازة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_legend",
+      "en": "legend",
+      "ar": "أسطورة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_lens",
+      "en": "lens",
+      "ar": "عدسة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_leveled",
+      "en": "leveled",
+      "ar": "تسوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_license",
+      "en": "license",
+      "ar": "رخصته",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_lifetime",
+      "en": "lifetime",
+      "ar": "عمراً كاملاً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_lighting",
+      "en": "lighting",
+      "ar": "إضاءة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_likewise",
+      "en": "likewise",
+      "ar": "وكذلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_limitation",
+      "en": "limitation",
+      "ar": "محدوديته",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_limited",
+      "en": "limited",
+      "ar": "محدودة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_lined",
+      "en": "lined",
+      "ar": "بتبطين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_literally",
+      "en": "literally",
+      "ar": "حرفيا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

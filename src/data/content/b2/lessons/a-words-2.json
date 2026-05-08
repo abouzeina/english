@@ -1,0 +1,557 @@
+{
+  "id": "lsn_b2_a_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 2: A Words - Part 2",
+  "slug": "a-words-2",
+  "order": 2,
+  "wordCount": 24,
+  "titleAr": "الوحدة 2: كلمات حرف A - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف A.",
+  "words": [
+    {
+      "id": "w_b2_adequately",
+      "en": "adequately",
+      "ar": "بما فيه الكفاية / بشكل ملائم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I have watered the garden adequately.",
+          "ar": "لقد سقيت الحديقة بما فيه الكفاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_adjust",
+      "en": "adjust",
+      "ar": "يتأقلم / يضبط",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It took me a while to adjust to my new work.",
+          "ar": "استغرق الأمر مني بعض الوقت لـ أتأقلم مع عملي الجديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈdʒʌst/"
+    },
+    {
+      "id": "w_b2_administration",
+      "en": "administration",
+      "ar": "إدارة",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your documents are in the sales administration department.",
+          "ar": "مستنداتك موجودة في قسم إدارة المبيعات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ədˌmɪnəˈstɹeɪʃən/"
+    },
+    {
+      "id": "w_b2_adopt",
+      "en": "adopt",
+      "ar": "يتبنى",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is not my biological son, I adopted him.",
+          "ar": "إنه ليس إبني البيولوجي، لقد تبنيته."
+        },
+        {
+          "en": "They want to adopt a child.",
+          "ar": "يريدان أن يتبنيا طفلاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈdɒpt/"
+    },
+    {
+      "id": "w_b2_advance",
+      "en": "advance",
+      "ar": "يتقدم / يتأهل / مسبق",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our team will now advance to the next round.",
+          "ar": "سيتأهل فريقنا الآن إلى الدور التالي."
+        },
+        {
+          "en": "There are major advances in modern teaching methods.",
+          "ar": "هناك تطورات كبيرة في طرق التدريس الحديثة."
+        },
+        {
+          "en": "They didn't give us advance warning of this change.",
+          "ar": "لم يعطونا تحذيرا مسبقا بهذا التغيير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ədˈvaːns/"
+    },
+    {
+      "id": "w_b2_affair",
+      "en": "affair",
+      "ar": "شأن / قضية",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is an expert on foreign affairs.",
+          "ar": "هو خبير في الشؤون الخارجية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈfɛə/"
+    },
+    {
+      "id": "w_b2_affordable",
+      "en": "affordable",
+      "ar": "معقول السعر / ميسور التكلفة",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We offer quality services at affordable prices.",
+          "ar": "نحن نقدم خدمات عالية الجودة بأسعار معقولة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈfɔː(ɹ).də.bəl/"
+    },
+    {
+      "id": "w_b2_afterward",
+      "en": "afterward",
+      "ar": "بعد ذلك",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Let's eat now and study afterward.",
+          "ar": "دعونا نأكل الآن وندرس بعد ذلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɑːftə.wəd/"
+    },
+    {
+      "id": "w_b2_agency",
+      "en": "agency",
+      "ar": "وكالة",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I managed to find a job through an employment agency.",
+          "ar": "تمكنت من العثور على وظيفة عبر وكالة توظيف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈeɪ.dʒən.si/"
+    },
+    {
+      "id": "w_b2_agenda",
+      "en": "agenda",
+      "ar": "جدول أعمال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Let's move to the next item on the agenda.",
+          "ar": "دعنا ننتقل إلى البند التالي في جدول الأعمال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aggressive",
+      "en": "aggressive",
+      "ar": "عدواني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His reaction was aggressive towards me.",
+          "ar": "كانت ردة فعله عدوانية تجاهي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_agriculture",
+      "en": "agriculture",
+      "ar": "زراعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Agriculture is more important than industry in this country.",
+          "ar": "الزراعة أهم من الصناعة في هذا البلد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aid",
+      "en": "aid",
+      "ar": "مساعدات / يساعد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The charity has aided thousands of poor families.",
+          "ar": "قدمت المؤسسة الخيرية مساعدات لآلاف الأسر الفقيرة."
+        },
+        {
+          "en": "We've offered medical aid to victims.",
+          "ar": "قدمنا المساعدات الطبية للضحايا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aids",
+      "en": "AIDS",
+      "ar": "الإيدز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Five cases of AIDS have been reported.",
+          "ar": "خمس حالات إصابة بالإيدز تم الإبلاغ عنها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aircraft",
+      "en": "aircraft",
+      "ar": "طائرات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I want to study aircraft engineering.",
+          "ar": "أريد أن أدرس هندسة الطائرات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_alongside",
+      "en": "alongside",
+      "ar": "جنبا إلى جنب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is learning alongside his brother.",
+          "ar": "يتعلم جنبا إلى جنب مع أخيه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_alter",
+      "en": "alter",
+      "ar": "يغير / يتبدل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You didn't tell us that the schedule has altered.",
+          "ar": "لم تخبرونا أن الجدول الزمني قد تغير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_altogether",
+      "en": "altogether",
+      "ar": "كلياً / تماماً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "That's a different situation altogether.",
+          "ar": "هذا وضع مختلف كليا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ambulance",
+      "en": "ambulance",
+      "ar": "سيارة إسعاف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Three ambulances were seen at the scene.",
+          "ar": "شوهدت ثلاث سيارات إسعاف في مكان الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_amusing",
+      "en": "amusing",
+      "ar": "مسلي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Let me show you this amusing game.",
+          "ar": "اسمح لي أن أعرض عليك هذه اللعبة المسلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_analyst",
+      "en": "analyst",
+      "ar": "محلل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He works as a data analyst.",
+          "ar": "يعمل كمحلل بيانات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ancestor",
+      "en": "ancestor",
+      "ar": "سلف / أجداد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My ancestors are from Yemen.",
+          "ar": "أجدادي من اليمن ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anger",
+      "en": "anger",
+      "ar": "غضب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He shut the door with anger.",
+          "ar": "أغلق الباب بغضب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_angle",
+      "en": "angle",
+      "ar": "زاوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A square has four angles.",
+          "ar": "المربع له أربع زوايا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

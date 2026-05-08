@@ -1,0 +1,299 @@
+{
+  "id": "lsn_c1_u",
+  "levelId": "lvl_c1",
+  "title": "Unit 46: U Words",
+  "slug": "u-words",
+  "order": 46,
+  "wordCount": 13,
+  "titleAr": "الوحدة 46: كلمات حرف U",
+  "description": "Master essential C1 vocabulary starting with the letter U.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف U.",
+  "words": [
+    {
+      "id": "w_c1_undergraduate",
+      "en": "undergraduate",
+      "ar": "طالب جامعي (قبل التخرج)",
+      "pronunciation": "ˌʌndəˈɡrædʒuət",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هي طالبة جامعية تدرس القانون.",
+          "ar": "The course is designed for undergraduate students."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_underlying",
+      "en": "underlying",
+      "ar": "أساسي / كامن",
+      "pronunciation": "ˌʌndəˈlaɪɪŋ",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا يزال السبب الأساسي للمشكلة غير معروف.",
+          "ar": "There is an underlying tension between the two groups."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_undermine",
+      "en": "undermine",
+      "ar": "يقوض / يضعف",
+      "pronunciation": "ˌʌndəˈmaɪn",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قوضت الفضيحة ثقة الجمهور في الحكومة.",
+          "ar": "Constant criticism can undermine a person's confidence."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_undoubtedly",
+      "en": "undoubtedly",
+      "ar": "بلا شك / يقيناً",
+      "pronunciation": "ʌnˈdaʊtɪdli",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هذا بلا شك أفضل فيلم لهذا العام.",
+          "ar": "He is undoubtedly one of the greatest scientists in history."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_unify",
+      "en": "unify",
+      "ar": "يوحد",
+      "pronunciation": "ˈjuːnɪfaɪ",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حاول الزعيم الجديد توحيد البلاد بعد الحرب.",
+          "ar": "The project aims to unify the different research methods."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_unprecedented",
+      "en": "unprecedented",
+      "ar": "غير مسبوق",
+      "pronunciation": "ʌnˈpresɪdentɪd",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "واجهت الشركة تحديات غير مسبوقة خلال الجائحة.",
+          "ar": "The rise in global temperatures is unprecedented in human history."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_unveil",
+      "en": "unveil",
+      "ar": "يكشف النقاب عن",
+      "pronunciation": "ˌʌnˈveɪl",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تخطط الشركة للكشف عن منتجها الجديد الأسبوع المقبل.",
+          "ar": "The statue was unveiled during a special ceremony."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_upcoming",
+      "en": "upcoming",
+      "ar": "قادم",
+      "pronunciation": "ˈʌpkʌmɪŋ",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحن نستعد للانتخابات القادمة.",
+          "ar": "Details of the upcoming events will be announced soon."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_upgrade",
+      "en": "upgrade",
+      "ar": "ترقية / يطور",
+      "pronunciation": "ˈʌpɡreɪd",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت تطوير برنامج الكمبيوتر الخاص بي.",
+          "ar": "The airline gave us a free upgrade to business class."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_uphold",
+      "en": "uphold",
+      "ar": "يدعم / يحافظ على / يؤيد",
+      "pronunciation": "ʌpˈhəʊld",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت المحكمة تأييد القرار السابق.",
+          "ar": "We must uphold the principles of justice and equality."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_utility",
+      "en": "utility",
+      "ar": "منفعة / مرفق عام",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المبنى متصل بجميع المرافق العامة.",
+          "ar": "The software has a high utility for data analysis."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/juːˈtɪl.ɪ.ti/"
+    },
+    {
+      "id": "w_c1_utilize",
+      "en": "utilize",
+      "ar": "يستخدم / يستغل",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب على الشركة استغلال مواردها بشكل أكثر فعالية.",
+          "ar": "He learned how to utilize new technology in his work."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈjuːtɨlaɪz/"
+    },
+    {
+      "id": "w_c1_utterly",
+      "en": "utterly",
+      "ar": "تماماً / كلياً",
+      "lessonId": "lsn_c1_u",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت الفكرة سخيفة تماماً.",
+          "ar": "She was utterly exhausted after the long journey."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈʌt.ə(ɹ).li/"
+    }
+  ]
+}

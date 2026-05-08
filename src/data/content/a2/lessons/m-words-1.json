@@ -1,41 +1,18 @@
 {
   "id": "lsn_a2_m_1",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 24: M Words - Part 1",
   "slug": "m-words-1",
-  "title": "Unit 25: M Words - Part 1",
-  "titleAr": "الوحدة 25: كلمات حرف M - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter M.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف M.",
-  "order": 25,
-  "wordCount": 25,
+  "order": 24,
+  "wordCount": 17,
+  "titleAr": "الوحدة 24: كلمات حرف M - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter M.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف M.",
   "words": [
-    {
-      "id": "w_a2_lucky",
-      "en": "lucky",
-      "ar": "محظوظ",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_m_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali is lucky to still have a job",
-          "ar": "علي محظوظ لأنه لا يزال لديه وظيفة :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_mail",
       "en": "mail",
       "ar": "بريد / يرسل بالبريد",
-      "pronunciation": "",
       "lessonId": "lsn_a2_m_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -55,7 +32,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/meɪ̯l/"
     },
     {
       "id": "w_a2_major",
@@ -83,7 +61,6 @@
       "id": "w_a2_male",
       "en": "male",
       "ar": "ذكر",
-      "pronunciation": "",
       "lessonId": "lsn_a2_m_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -99,7 +76,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/meɪl/"
     },
     {
       "id": "w_a2_manage",
@@ -127,7 +105,6 @@
       "id": "w_a2_manager",
       "en": "manager",
       "ar": "مدير",
-      "pronunciation": "",
       "lessonId": "lsn_a2_m_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -143,7 +120,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈmæn.ɪ.dʒə/"
     },
     {
       "id": "w_a2_manner",
@@ -227,6 +205,33 @@
         {
           "en": "We sell building materials.",
           "ar": "نبيع مواد البناء :"
+        },
+        {
+          "en": "The auction featured several valuable material goods.",
+          "ar": "اشتمل المزاد على العديد من السلع المادية الثمينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_math",
+      "en": "math",
+      "ar": "رياضيات",
+      "lessonId": "lsn_a2_m_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She hated the math teacher.",
+          "ar": "هي كرهت مدرس الرياضيات."
         }
       ],
       "type": "word",
@@ -235,7 +240,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/mɑːθ/"
     },
     {
       "id": "w_a2_mathematics",
@@ -249,28 +255,6 @@
         {
           "en": "He's good at mathematics.",
           "ar": "إنه بارع في الرياضيات :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_math",
-      "en": "math",
-      "ar": "رياضيات",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_m_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She hated the math teacher.",
-          "ar": "هي كرهت مدرس الرياضيات."
         }
       ],
       "type": "word",
@@ -297,28 +281,6 @@
         {
           "en": "After his death nothing matters anymore.",
           "ar": "بعد وفاته، لم يعد هناك شيء يهم :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_may",
-      "en": "may",
-      "ar": "قد",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_m_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "It may or may not be true.",
-          "ar": "قد يكون صحيحا وقد لا يكون :"
         }
       ],
       "type": "word",
@@ -377,7 +339,6 @@
       "id": "w_a2_medicine",
       "en": "medicine",
       "ar": "طب",
-      "pronunciation": "",
       "lessonId": "lsn_a2_m_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -393,7 +354,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈmed(ɪ).sn̩/"
     },
     {
       "id": "w_a2_memory",
@@ -429,153 +391,18 @@
         {
           "en": "I never mentioned your name.",
           "ar": "أنا لم اذكر اسمك أبدًا :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_metal",
-      "en": "metal",
-      "ar": "معدن",
-      "pronunciation": "/ metal/",
-      "lessonId": "lsn_a2_m_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Gold is a very expensive metal.",
-          "ar": "الذهب معدن باهظ الثمن :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_method",
-      "en": "method",
-      "ar": "طريقة",
-      "pronunciation": "/'mee-ǝd/",
-      "lessonId": "lsn_a2_m_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They found out a new method.",
-          "ar": "اكتشفوا طريقة جديدة :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_middle",
-      "en": "middle",
-      "ar": "منتصف / أوسط",
-      "pronunciation": "/'mid el/",
-      "lessonId": "lsn_a2_m_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali stood in the middle.",
-          "ar": "وقف علي في المنتصف."
         },
         {
-          "en": "He's the middle child of three.",
-          "ar": "إنه الطفل الأوسط لثلاثة أطفال :"
+          "en": "The conference didn't get a mention in the newspapers.",
+          "ar": "لم يحصل المؤتمر على ذكر في الصحف."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_might",
-      "en": "might",
-      "ar": "قد / ربما",
-      "pronunciation": "/mart/",
-      "lessonId": "lsn_a2_m_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "What he said might be true.",
-          "ar": "ما قاله قد يكون صحيحا : قد / ربما :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_mind",
-      "en": "mind",
-      "ar": "عقل / يمانع",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_m_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I have no idea how his mind works !!",
-          "ar": "ليس لدي فكرة كيف يعمل عقله !!"
-        },
-        {
-          "en": "Do you mind if I open the window?",
-          "ar": "هل تمانع إذا فتحت النافذة : ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_mine",
-      "en": "mine",
-      "ar": "لي / خاصتي",
-      "pronunciation": "/main/",
-      "lessonId": "lsn_a2_m_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This bicycle is mine.",
-          "ar": "هذه دراجتي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     }

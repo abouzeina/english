@@ -12,19 +12,22 @@ import { cn } from "@/lib/utils";
 import dynamic from "next/dynamic";
 
 const ListeningMode = dynamic(() => import("./ListeningMode").then(m => m.ListeningMode), {
+  ssr: false,
   loading: () => <div className="py-20 text-center font-cairo text-slate-500 animate-pulse">جاري تحميل مسجل الصوت...</div>
 });
 
 const QuizEngine = dynamic(() => import("./QuizEngine").then(m => m.QuizEngine), {
+  ssr: false,
   loading: () => <div className="py-20 text-center font-cairo text-slate-500 animate-pulse">جاري تحميل نظام الاختبار...</div>
 });
 
 interface LessonViewerProps {
   lesson: Lesson;
   words: WordItem[];
+  levelSlug?: string;
 }
 
-export function LessonViewer({ lesson, words }: LessonViewerProps) {
+export function LessonViewer({ lesson, words, levelSlug }: LessonViewerProps) {
   const [activeMode, setActiveMode] = useState<"flashcards" | "listening" | "quiz">("flashcards");
   
   // Atomic Selectors
@@ -42,7 +45,7 @@ export function LessonViewer({ lesson, words }: LessonViewerProps) {
   return (
     <div className="max-w-5xl mx-auto py-8 px-4 pb-32 md:pb-8">
       <div className="flex items-center gap-2 text-sm text-slate-500 font-cairo mb-6">
-        <Link href={`/levels/${lesson.levelId}`} className="hover:text-emerald-600 transition-colors">
+        <Link href={`/levels/${levelSlug || lesson.levelId}`} className="hover:text-emerald-600 transition-colors">
           رجوع للمستوى
         </Link>
         <ChevronRight className="w-4 h-4 rotate-180" />

@@ -1,0 +1,595 @@
+{
+  "id": "lsn_b2_r_1",
+  "levelId": "lvl_b2",
+  "slug": "r-words-1",
+  "title": "R Words - Part 1",
+  "titleAr": "كلمات حرف R - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter R.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف R.",
+  "order": 50,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_recognition",
+      "en": "recognition",
+      "ar": "التعرف على",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our software includes speech recognition technology.",
+          "ar": "يتضمن برنامجنا تقنية التعرف على الكلام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_recover",
+      "en": "recover",
+      "ar": "تستعيد / التعافي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Recovery from the injury will take several months.",
+          "ar": "سيستغرق التعافي من الإصابة عدة أشهر."
+        },
+        {
+          "en": "She hopes to recover her strength after illness.",
+          "ar": "إنها تأمل أن تستعيد قوتها بعد المرض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_recruit",
+      "en": "recruit",
+      "ar": "تعيين / مجند",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company plans to recruit more employees next month.",
+          "ar": "تخطط الشركة لتعيين المزيد من الموظفين الشهر المقبل."
+        },
+        {
+          "en": "The manager assigned tasks to each new recruit today.",
+          "ar": "قام المدير بتعيين مهام لكل مجند جديد اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_recruitment",
+      "en": "recruitment",
+      "ar": "التوظيف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He manages the recruitment department in the company.",
+          "ar": "إنه يدير قسم التوظيف في الشركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_reduction",
+      "en": "reduction",
+      "ar": "تخفيض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The government promised a reduction in taxes next year.",
+          "ar": "وعدت الحكومة بتخفيض الضرائب في العام المقبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_referee",
+      "en": "referee",
+      "ar": "الحكم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The referee handed out several yellow cards today.",
+          "ar": "أشهر الحكم العديد من البطاقات الصفراء اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_refugees",
+      "en": "refugees",
+      "ar": "اللاجئون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The refugees received food and medical aid from volunteers.",
+          "ar": "تلقى اللاجئون مساعدات غذائية وطبية من المتطوعين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_regard",
+      "en": "regard",
+      "ar": "أعتبر / تقديراً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I always regard my family as a source of support.",
+          "ar": "أنا دائما أعتبر عائلتي مصدر دعم لي."
+        },
+        {
+          "en": "They hold a high regard for his intelligence.",
+          "ar": "إنهم يكنون تقديراً كبيراً لذكائه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_regional",
+      "en": "regional",
+      "ar": "الإقليمية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They discussed regional policies at the meeting today.",
+          "ar": "ناقشوا السياسات الإقليمية في الاجتماع اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_register",
+      "en": "register",
+      "ar": "السجل / سجل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was added to the official register yesterday.",
+          "ar": "تمت إضافته إلى السجل الرسمي بالأمس."
+        },
+        {
+          "en": "Please register your name at the front desk.",
+          "ar": "من فضلك سجل اسمك في مكتب الاستقبال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_registration",
+      "en": "registration",
+      "ar": "التسجيل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Registration is required before attending the conference.",
+          "ar": "التسجيل مطلوب قبل حضور المؤتمر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_regret",
+      "en": "regret",
+      "ar": "يندم / ندم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He will regret not taking this job opportunity.",
+          "ar": "سوف يندم على عدم اغتنام فرصة العمل هذه."
+        },
+        {
+          "en": "The team has no regret about the decision made.",
+          "ar": "لا يشعر الفريق بأي ندم على القرار الذي تم اتخاذه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_regulated",
+      "en": "regulated",
+      "ar": "نظمت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Authorities regulated the price of fuel in the region.",
+          "ar": "نظمت السلطات سعر الوقود في المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_regulation",
+      "en": "regulation",
+      "ar": "اللائحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The regulation requires all employees to wear uniforms.",
+          "ar": "تلزم اللائحة جميع الموظفين بارتداء الزي الرسمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_reinforce",
+      "en": "reinforce",
+      "ar": "سيعزز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The new evidence will reinforce the original conclusion.",
+          "ar": "الدليل الجديد سيعزز الاستنتاج الأصلي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_relatively",
+      "en": "relatively",
+      "ar": "نسبياً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The task is relatively simple once you understand it.",
+          "ar": "تصبح المهمة بسيطة نسبياً بمجرد فهمك لها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_relevant",
+      "en": "relevant",
+      "ar": "ذات الصلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Only relevant questions should be asked during interviews.",
+          "ar": "يجب فقط طرح الأسئلة ذات الصلة أثناء المقابلات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_relief",
+      "en": "relief",
+      "ar": "ارتياح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Passing the final exam was a great relief.",
+          "ar": "كان اجتياز الامتحان النهائي مصدر ارتياح كبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_relies",
+      "en": "relies",
+      "ar": "تعتمد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She often relies on her parents for financial help.",
+          "ar": "وغالباً ما تعتمد على والديها للحصول على المساعدة المالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_relieve",
+      "en": "relieve",
+      "ar": "سيخفف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This medication will relieve the pain immediately.",
+          "ar": "سيخفف هذا الدواء الألم على الفور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_relieved",
+      "en": "relieved",
+      "ar": "بالارتياح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I'm relieved that my package arrived on time.",
+          "ar": "أشعر بالارتياح لوصول الطرد الخاص بي في الوقت المحدد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_remark",
+      "en": "remark",
+      "ar": "تعليق / أشاد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The guest remarked about the excellent service at dinner.",
+          "ar": "أشاد الضيف بالخدمة الممتازة على العشاء."
+        },
+        {
+          "en": "The teacher's remark about my essay was encouraging.",
+          "ar": "كان تعليق المعلم على مقالتي مشجعاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_remarkable",
+      "en": "remarkable",
+      "ar": "الرائعة / لافت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The building's remarkable architecture attracts tourists.",
+          "ar": "تجذب الهندسة المعمارية الرائعة للمبنى السياح."
+        },
+        {
+          "en": "The solution was remarkably simple, yet highly effective.",
+          "ar": "كان الحل بسيطاً بشكل لافت، ولكنه فعال للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_reporting",
+      "en": "reporting",
+      "ar": "التقارير الصحفية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Quality reporting can influence public opinion.",
+          "ar": "يمكن للتقارير الصحفية عالية الجودة أن تؤثر على الرأي العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_representative",
+      "en": "representative",
+      "ar": "ممثل / تمثل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Each department has a representative at the meeting.",
+          "ar": "كل قسم لديه ممثل في الاجتماع."
+        },
+        {
+          "en": "The samples are not representative of the region's diversity.",
+          "ar": "العينات لا تمثل التنوع في المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

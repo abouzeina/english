@@ -1,0 +1,79 @@
+{
+  "id": "lsn_b1_r_3",
+  "levelId": "lvl_b1",
+  "slug": "r-words-3",
+  "title": "Unit 34: R Words - Part 3",
+  "titleAr": "الوحدة 34: كلمات حرف R - الجزء 3",
+  "description": "Expand your intermediate vocabulary with words starting with R.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف R.",
+  "order": 34,
+  "wordCount": 3,
+  "words": [
+    {
+      "id": "w_b1_rows",
+      "en": "rows",
+      "ar": "صفوف",
+      "pronunciation": "/rou/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Draw a table with 5 rows and 3 columns.",
+          "ar": "ارسم جدولاً مكونا من 5 صفوف و 3 أعمدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_royal",
+      "en": "royal",
+      "ar": "ملكية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have a friend from the royal family.",
+          "ar": "لدي صديق من العائلة الملكية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_rugby",
+      "en": "rugby",
+      "ar": "رجبي",
+      "pronunciation": "/ rag-bi/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We don't play rugby in our community.",
+          "ar": "نحن لا نلعب الرجبي في مجتمعنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

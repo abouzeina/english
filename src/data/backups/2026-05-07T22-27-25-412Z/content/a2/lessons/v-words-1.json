@@ -1,0 +1,167 @@
+{
+  "id": "lsn_a2_v_1",
+  "levelId": "lvl_2",
+  "slug": "v-words-1",
+  "title": "Unit 43: V Words - Part 1",
+  "titleAr": "الوحدة 43: كلمات حرف V - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter V.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف V.",
+  "order": 43,
+  "wordCount": 7,
+  "words": [
+    {
+      "id": "w_a2_usual",
+      "en": "usual",
+      "ar": "معتاد",
+      "pronunciation": "/'ju zu-ǝl/",
+      "lessonId": "lsn_a2_v_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He sat in his usual seat at the back",
+          "ar": "جلس في مقعده المعتاد في الخلف :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_valley",
+      "en": "valley",
+      "ar": "وادي",
+      "pronunciation": "/val-i/",
+      "lessonId": "lsn_a2_v_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The valley is getting narrow",
+          "ar": "الوادي يصبح ضيقًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_van",
+      "en": "van",
+      "ar": "حافلة صغيرة",
+      "pronunciation": "/væn/",
+      "lessonId": "lsn_a2_v_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed spent the night in his van.",
+          "ar": "أمضى أحمد الليلة في حافلته الصغيرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_variety",
+      "en": "variety",
+      "ar": "تشكيلة",
+      "pronunciation": "/və'rarı ti/",
+      "lessonId": "lsn_a2_v_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They are made in a variety of sizes.",
+          "ar": "تم صنعها في تشكيلة من الأحجام : تشكيلة من بعض الأشياء أو الأشخاص :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_vehicle",
+      "en": "vehicle",
+      "ar": "مركبة",
+      "pronunciation": "/ vi-r-kəl/",
+      "lessonId": "lsn_a2_v_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My father owns three vehicles.",
+          "ar": "والدي يمتلك ثلاث مركبات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_view",
+      "en": "view",
+      "ar": "منظر",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_v_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We got a room with a beautiful view.",
+          "ar": "حصلنا على غرفة مطلة على منظر جميل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_virus",
+      "en": "virus",
+      "ar": "فيروس",
+      "pronunciation": "/'var-res/",
+      "lessonId": "lsn_a2_v_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Cold weather does not kill the virus.",
+          "ar": "الطقس البارد لا يقتل الفيروس :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

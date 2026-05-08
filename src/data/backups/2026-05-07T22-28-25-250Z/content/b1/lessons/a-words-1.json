@@ -1,0 +1,579 @@
+{
+  "id": "lsn_b1_a_1",
+  "levelId": "lvl_b1",
+  "slug": "a-words-1",
+  "title": "Unit 1: A Words - Part 1",
+  "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with A.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف A.",
+  "order": 1,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_absolutely",
+      "en": "absolutely",
+      "ar": "بكل تأكيد / قطعيًا",
+      "pronunciation": "/'æb.sə lut li/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "That's absolutely true.",
+          "ar": "ذلك صحيح بكل تأكيد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_academic",
+      "en": "academic",
+      "ar": "دراسي / أكاديمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The academic year began in September.",
+          "ar": "بدأ العام الدراسي في سبتمبر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_access",
+      "en": "access",
+      "ar": "الوصول إلى / يصل إلى",
+      "pronunciation": "/'æk.ses/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This bridge gives access to the island.",
+          "ar": "هذا الجسر يتيح الوصول إلى الجزيرة."
+        },
+        {
+          "en": "You can access your information on this page.",
+          "ar": "يمكنك أن تصل إلى معلوماتك في هذه الصفحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_accommodation",
+      "en": "accommodation",
+      "ar": "سكن / أماكن للمبيت",
+      "pronunciation": "ə ka-mə der Jən/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need accommodation for five people.",
+          "ar": "نحن بحاجة إلى سكن لخمسة أشخاص."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_account",
+      "en": "account",
+      "ar": "حساب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you have a Twitter account?",
+          "ar": "هل تملك حساب في تويتر ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_achievement",
+      "en": "achievement",
+      "ar": "إنجاز",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is your greatest achievement?",
+          "ar": "ما هو أعظم إنجازاتك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_act",
+      "en": "act",
+      "ar": "فعل / عمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The act of writing is easy for me.",
+          "ar": "فعل الكتابة سهل بالنسبة لي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ads",
+      "en": "ads",
+      "ar": "إعلانات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This website has too many ads.",
+          "ar": "هذا الموقع يحتوي على الكثير من الإعلانات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_additions",
+      "en": "additions",
+      "ar": "إضافات",
+      "pronunciation": "/ə'dzf-an/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We made several additions to the plan.",
+          "ar": "قمنا بالعديد من الإضافات إلى الخطة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_admire",
+      "en": "admire",
+      "ar": "يعجب بـ",
+      "pronunciation": "/əd maıər/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I admire your work.",
+          "ar": "أنا معجب بعملك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_admit",
+      "en": "admit",
+      "ar": "يعترف",
+      "pronunciation": "/ǝd mit/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali refused to admit it.",
+          "ar": "رفض علي أن يعترف بذلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_advanced",
+      "en": "advanced",
+      "ar": "متقدم",
+      "pronunciation": "/əd vænst/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is taking an advanced course in English.",
+          "ar": "يأخذ دورة متقدمة في اللغة الإنجليزية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_advise",
+      "en": "advise",
+      "ar": "ينصح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What would you advise, Ahmed?",
+          "ar": "بماذا تنصح يا احمد ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_afford",
+      "en": "afford",
+      "ar": "يقدر مالياً (على شراء شيء)",
+      "pronunciation": "/ə'ford/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can you afford a new phone?",
+          "ar": "هل تقدر أن تشتري هاتف جديد ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_aged",
+      "en": "aged",
+      "ar": "مسن / بعمر",
+      "pronunciation": "/exd3d/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "As she aged, her memory got worse.",
+          "ar": "مع تقدمها في العمر، ساءت ذاكرتها."
+        },
+        {
+          "en": "The class is open to children aged 6 or older.",
+          "ar": "الفصل مفتوح للأطفال بعمر 6 سنوات أو أكبر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_agent",
+      "en": "agent",
+      "ar": "وكيل",
+      "pronunciation": "/'ex dzənt/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can you recommend a good travel agent?",
+          "ar": "هل يمكنك أن ترشح لي وكيل سفريات جيد ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_agreement",
+      "en": "agreement",
+      "ar": "اتفاق",
+      "pronunciation": "/ə'gri-mənt/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Everyone came to an agreement.",
+          "ar": "توصل الجميع إلى اتفاق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ahead",
+      "en": "ahead",
+      "ar": "قدماً / في المقدمة",
+      "pronunciation": "/ə'hed/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please go ahead without me.",
+          "ar": "أرجوك إمض قدما بدوني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_aim",
+      "en": "aim",
+      "ar": "هدف / يهدف إلى",
+      "pronunciation": "/exm/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our main aim is to provide a high quality service.",
+          "ar": "هدفنا الرئيسي هو تقديم خدمة عالية الجودة."
+        },
+        {
+          "en": "We should aim for better results.",
+          "ar": "يجب أن نهدف إلى نتائج أفضل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_alarm",
+      "en": "alarm",
+      "ar": "إنذار / منبه",
+      "pronunciation": "/ə'larm/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He fixed the alarm system.",
+          "ar": "أصلح نظام الإنذار."
+        },
+        {
+          "en": "Set your alarm clock for 6:00 am.",
+          "ar": "اضبط المنبه على الساعة 6:00 صباحًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_album",
+      "en": "album",
+      "ar": "ألبوم",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed showed us his photo album.",
+          "ar": "عرض علينا أحمد ألبوم الصور الخاص به."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_alcohol",
+      "en": "alcohol",
+      "ar": "كحول / خمور",
+      "pronunciation": "/'ælke hol/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't drink alcohol at all.",
+          "ar": "أنا لا أشرب الخمور على الإطلاق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_alternative",
+      "en": "alternative",
+      "ar": "بديل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have an alternative solution.",
+          "ar": "لدي حل بديل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_amazed",
+      "en": "amazed",
+      "ar": "مندهش",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I was amazed at the results.",
+          "ar": "كنت مندهشا من النتائج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ambition",
+      "en": "ambition",
+      "ar": "طموح",
+      "pronunciation": "/æm bxf-en/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Her ambition is to become a doctor.",
+          "ar": "طموحها أن تصبح طبيبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

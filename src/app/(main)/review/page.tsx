@@ -13,7 +13,12 @@ import { fetchWordsByIds } from "@/lib/content/actions";
 import { GuestNotice } from "@/components/auth/guest-notice";
 
 export default function ReviewPage() {
-  const hasHydrated = useWafiStore(s => true) ?? false;
+  const [hasHydrated, setHasHydrated] = useState(false);
+  
+  useEffect(() => {
+    setHasHydrated(true);
+  }, []);
+
   const startSession = useAppStore(s => s.startSession);
   const endSession = useAppStore(s => s.endSession);
   const updateWordProgress = useAppStore(s => s.updateWordProgress);
@@ -25,6 +30,13 @@ export default function ReviewPage() {
   const [isListenFirst, setIsListenFirst] = useState(false);
   const [sessionStats, setSessionStats] = useState<any>(null);
   const [isLoadingNext, setIsLoadingNext] = useState(false);
+  const nextTimeoutRef = React.useRef<NodeJS.Timeout | null>(null);
+
+  useEffect(() => {
+    return () => {
+      if (nextTimeoutRef.current) clearTimeout(nextTimeoutRef.current);
+    };
+  }, []);
 
   // 1. Initialize queue
   useEffect(() => {
@@ -65,7 +77,8 @@ export default function ReviewPage() {
 
   const handleNext = useCallback((quality: number) => {
     if (currentIndex < queue.length - 1) {
-      setTimeout(() => {
+      if (nextTimeoutRef.current) clearTimeout(nextTimeoutRef.current);
+      nextTimeoutRef.current = setTimeout(() => {
         setCurrentIndex(prev => prev + 1);
       }, 150); 
     } else {

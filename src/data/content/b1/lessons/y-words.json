@@ -1,0 +1,57 @@
+{
+  "id": "lsn_b1_y",
+  "levelId": "lvl_b1",
+  "title": "Unit 41: Y Words",
+  "slug": "y-words",
+  "order": 41,
+  "wordCount": 2,
+  "titleAr": "الوحدة 41: كلمات حرف Y",
+  "description": "Master essential B1 vocabulary starting with the letter Y.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف Y.",
+  "words": [
+    {
+      "id": "w_b1_yard",
+      "en": "yard",
+      "ar": "فناء / حوش",
+      "pronunciation": "/jard/",
+      "lessonId": "lsn_b1_y",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We entered the yard through the back gate.",
+          "ar": "دخلنا الفناء عبر البوابة الخلفية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_youth",
+      "en": "youth",
+      "ar": "شبابي",
+      "pronunciation": "/jue/",
+      "lessonId": "lsn_b1_y",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I played basketball during my youth.",
+          "ar": "لعبت كرة السلة خلال شبابي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

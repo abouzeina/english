@@ -1,0 +1,149 @@
+{
+  "id": "lsn_a2_q_1",
+  "levelId": "lvl_2",
+  "slug": "q-words-1",
+  "title": "Unit 32: Q Words - Part 1",
+  "titleAr": "الوحدة 32: كلمات حرف Q - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter Q.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف Q.",
+  "order": 32,
+  "wordCount": 6,
+  "words": [
+    {
+      "id": "w_a2_purpose",
+      "en": "purpose",
+      "ar": "غرض / هدف",
+      "pronunciation": "/ par-pes/",
+      "lessonId": "lsn_a2_q_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the main purpose of this plan?",
+          "ar": "ما هو الغرض الرئيسي من هذه الخطة | هَدف / غاية / غَرَض | : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_quality",
+      "en": "quality",
+      "ar": "جودة",
+      "pronunciation": "/ kwa lə-ti/",
+      "lessonId": "lsn_a2_q_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These products are of the same quality.",
+          "ar": "هذه المنتجات من نفس الجودة :"
+        },
+        {
+          "en": "Quality is more important than quantity.",
+          "ar": "الجودة أهم بكثير من الكمية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_quantity",
+      "en": "quantity",
+      "ar": "كمية",
+      "pronunciation": "/ kwan  -ţi/",
+      "lessonId": "lsn_a2_q_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Quality is more important than quantity.",
+          "ar": "الجودة أهم بكثير من الكمية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_queen",
+      "en": "queen",
+      "ar": "ملكة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_q_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Next year the queen will visit China.",
+          "ar": "العام القادم ستزور الملكة الصين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_question",
+      "en": "question",
+      "ar": "يستجوب",
+      "pronunciation": "/'kwes tfən/",
+      "lessonId": "lsn_a2_q_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The police questioned him for three hours",
+          "ar": "استجوبته الشرطة لثلاث ساعات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_quietly",
+      "en": "quietly",
+      "ar": "بهدوء",
+      "pronunciation": "/ kwar It li/",
+      "lessonId": "lsn_a2_q_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He can move quietly and quickly.",
+          "ar": "يمكنه أن يتحرك بهدوء وبسرعة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

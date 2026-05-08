@@ -1,0 +1,35 @@
+{
+  "id": "lsn_a1_n_2",
+  "levelId": "lvl_1",
+  "title": "N Words - Part 2",
+  "slug": "n-words-2",
+  "order": 28,
+  "wordCount": 1,
+  "titleAr": "كلمات حرف N - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter N.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف N.",
+  "words": [
+    {
+      "id": "w_a1_number",
+      "lessonId": "lsn_a1_n_2",
+      "en": "number",
+      "translation": "رقم",
+      "ar": "رقم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Call me at this number.",
+          "ar": "اتصل بي على هذا الرقم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

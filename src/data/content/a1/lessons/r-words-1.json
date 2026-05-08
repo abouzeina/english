@@ -1,44 +1,14 @@
 {
   "id": "lsn_a1_r_1",
-  "levelId": "lvl_1",
-  "title": "R Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 35: R Words - Part 1",
   "slug": "r-words-1",
-  "order": 34,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف R - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter R.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف R.",
+  "order": 35,
+  "wordCount": 14,
+  "titleAr": "الوحدة 35: كلمات حرف R - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف R.",
   "words": [
-    {
-      "id": "w_a1_quite",
-      "lessonId": "lsn_a1_r_1",
-      "en": "quite",
-      "translation": "إلى حد ما",
-      "ar": "إلى حد ما",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The test was quite easy.",
-          "ar": "كان الاختبار سهلاً إلى حد ما."
-        },
-        {
-          "en": "He's quite a good actor.",
-          "ar": "إنه ممثل جيد إلى حد ما."
-        },
-        {
-          "en": "That name is quite common in our country.",
-          "ar": "هذا الاسم شائع إلى حد ما في بلدنا."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_radio",
       "lessonId": "lsn_a1_r_1",
@@ -88,28 +58,6 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_a1_reads",
-      "lessonId": "lsn_a1_r_1",
-      "en": "reads",
-      "translation": "يقرأ",
-      "ar": "يقرأ",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "He reads before bed.",
-          "ar": "إنه يقرأ قبل النوم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
       "id": "w_a1_reader",
       "lessonId": "lsn_a1_r_1",
       "en": "reader",
@@ -137,7 +85,6 @@
       "en": "reading",
       "translation": "القراءة",
       "ar": "القراءة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -151,7 +98,30 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹidiŋ/"
+    },
+    {
+      "id": "w_a1_reads",
+      "lessonId": "lsn_a1_r_1",
+      "en": "reads",
+      "translation": "يقرأ",
+      "ar": "يقرأ",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He reads before bed.",
+          "ar": "إنه يقرأ قبل النوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹiːdz/"
     },
     {
       "id": "w_a1_ready",
@@ -291,7 +261,6 @@
       "en": "remember",
       "translation": "يتذكر",
       "ar": "يتذكر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -305,7 +274,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈmɛmbə/"
     },
     {
       "id": "w_a1_repeat",
@@ -319,12 +289,17 @@
         {
           "en": "Please repeat what you said.",
           "ar": "من فضلك أعد ما قلته."
+        },
+        {
+          "en": "We should prevent a repeat of that attack.",
+          "ar": "يجب أن نمنع تكرار ذلك الهجوم."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -335,253 +310,26 @@
       "en": "report",
       "translation": "تقرير",
       "ar": "تقرير",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "This report needs more details.",
           "ar": "هذا التقرير يحتاج إلى مزيد من التفاصيل."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_restaurant",
-      "lessonId": "lsn_a1_r_1",
-      "en": "restaurant",
-      "translation": "مطعم",
-      "ar": "مطعم",
-      "pronunciation": "/morant, reste rant/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "We ate at a restaurant yesterday.",
-          "ar": "تناولنا الطعام في مطعم بالأمس."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_result",
-      "lessonId": "lsn_a1_r_1",
-      "en": "result",
-      "translation": "نتيجة",
-      "ar": "نتيجة",
-      "pronunciation": "/r zolt/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The test result was good.",
-          "ar": "نتيجة اختبار جيدة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_return",
-      "lessonId": "lsn_a1_r_1",
-      "en": "return",
-      "translation": "يعود / عودة",
-      "ar": "يعود / عودة",
-      "pronunciation": "/rt'tarn/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I will return soon.",
-          "ar": "سأعود قريباً."
         },
         {
-          "en": "His return to work was difficult.",
-          "ar": "كانت عودته إلى العمل صعبة."
+          "en": "Other researchers reported similar results",
+          "ar": "ذكر باحثون آخرون نتائج مماثلة."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_rice",
-      "lessonId": "lsn_a1_r_1",
-      "en": "rice",
-      "translation": "أرز",
-      "ar": "أرز",
-      "pronunciation": "/rais/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The rice is ready.",
-          "ar": "الأرز جاهز."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_rich",
-      "lessonId": "lsn_a1_r_1",
-      "en": "rich",
-      "translation": "غني / ثري",
-      "ar": "غني / ثري",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I want to live a rich life.",
-          "ar": "أريد أن أعيش حياة غنية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_ride",
-      "lessonId": "lsn_a1_r_1",
-      "en": "ride",
-      "translation": "يركب",
-      "ar": "يركب",
-      "pronunciation": "/rard/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "He can't ride a bicycle.",
-          "ar": "لا يمكنه أن يركب دراجة هوائية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_right",
-      "lessonId": "lsn_a1_r_1",
-      "en": "right",
-      "translation": "يمين / صحيح / محق",
-      "ar": "يمين / صحيح / محق",
-      "pronunciation": "/rast/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Park your car on the right.",
-          "ar": "أوقف سيارتك على اليمين."
-        },
-        {
-          "en": "This is the right way.",
-          "ar": "هذه هي الطريقة الصحيحة."
-        },
-        {
-          "en": "Yes, you're right.",
-          "ar": "نعم أنت محق."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_river",
-      "lessonId": "lsn_a1_r_1",
-      "en": "river",
-      "translation": "نهر",
-      "ar": "نهر",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The river looks beautiful.",
-          "ar": "يبدو النهر جميلاً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_road",
-      "lessonId": "lsn_a1_r_1",
-      "en": "road",
-      "translation": "طريق",
-      "ar": "طريق",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The road is very long.",
-          "ar": "الطريق طويل جداً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_room",
-      "lessonId": "lsn_a1_r_1",
-      "en": "room",
-      "translation": "غرفة",
-      "ar": "غرفة",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I cleaned my room today.",
-          "ar": "قمت بتنظيف غرفتي اليوم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɹəˈpoːt/"
     }
   ]
 }

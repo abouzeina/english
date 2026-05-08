@@ -1,36 +1,14 @@
 {
   "id": "lsn_a1_e_1",
-  "levelId": "lvl_1",
-  "title": "E Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 11: E Words - Part 1",
   "slug": "e-words-1",
   "order": 11,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف E - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter E.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف E.",
+  "wordCount": 17,
+  "titleAr": "الوحدة 11: كلمات حرف E - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف E.",
   "words": [
-    {
-      "id": "w_a1_dvd",
-      "lessonId": "lsn_a1_e_1",
-      "en": "DVD",
-      "translation": "قرص فيديو",
-      "ar": "قرص فيديو",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I watched a DVD yesterday.",
-          "ar": "شاهدت قرص فيديو بالأمس."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_each",
       "lessonId": "lsn_a1_e_1",
@@ -43,28 +21,6 @@
         {
           "en": "Each child has a chair.",
           "ar": "كل طفل لديه كرسي."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_ears",
-      "lessonId": "lsn_a1_e_1",
-      "en": "ears",
-      "translation": "آذان / أذنان",
-      "ar": "آذان / أذنان",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I cleaned my ears today.",
-          "ar": "نظفت أذناي اليوم."
         }
       ],
       "difficulty": "A1",
@@ -102,6 +58,28 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_a1_ears",
+      "lessonId": "lsn_a1_e_1",
+      "en": "ears",
+      "translation": "آذان / أذنان",
+      "ar": "آذان / أذنان",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I cleaned my ears today.",
+          "ar": "نظفت أذناي اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪəz/"
+    },
+    {
       "id": "w_a1_east",
       "lessonId": "lsn_a1_e_1",
       "en": "east",
@@ -137,7 +115,6 @@
       "en": "easy",
       "translation": "سهل",
       "ar": "سهل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -151,7 +128,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈiːzi/"
     },
     {
       "id": "w_a1_eat",
@@ -159,7 +137,6 @@
       "en": "eat",
       "translation": "يأكل / يتناول",
       "ar": "يأكل / يتناول",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -173,7 +150,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/iːt/"
     },
     {
       "id": "w_a1_eggs",
@@ -181,7 +159,6 @@
       "en": "eggs",
       "translation": "بيض",
       "ar": "بيض",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -195,7 +172,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɛɡz/"
     },
     {
       "id": "w_a1_eight",
@@ -203,7 +181,6 @@
       "en": "eight",
       "translation": "ثمانية",
       "ar": "ثمانية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -217,7 +194,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/eɪt/"
     },
     {
       "id": "w_a1_eighteen",
@@ -225,7 +203,6 @@
       "en": "eighteen",
       "translation": "ثمانية عشر",
       "ar": "ثمانية عشر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -239,7 +216,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈeɪ.tiːn/"
     },
     {
       "id": "w_a1_eighty",
@@ -247,7 +225,6 @@
       "en": "eighty",
       "translation": "ثمانين",
       "ar": "ثمانين",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -261,7 +238,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/[ˈ(ʔ)eɪ̯ɾi]/"
     },
     {
       "id": "w_a1_elephant",
@@ -291,7 +269,6 @@
       "en": "eleven",
       "translation": "إحدى عشرة",
       "ar": "إحدى عشرة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -305,7 +282,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈlɛv.ən/"
     },
     {
       "id": "w_a1_else",
@@ -335,7 +313,6 @@
       "en": "email",
       "translation": "رسالة إلكترونية / بريد إلكتروني",
       "ar": "رسالة إلكترونية / بريد إلكتروني",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -353,7 +330,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈiːmeɪl/"
     },
     {
       "id": "w_a1_end",
@@ -361,7 +339,6 @@
       "en": "end",
       "translation": "نهاية / ينهي",
       "ar": "نهاية / ينهي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -379,7 +356,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɛnd/"
     },
     {
       "id": "w_a1_enjoy",
@@ -387,7 +365,6 @@
       "en": "enjoy",
       "translation": "يستمتع",
       "ar": "يستمتع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -401,7 +378,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ənˈd͡ʒɔɪ/"
     },
     {
       "id": "w_a1_enough",
@@ -423,160 +401,6 @@
         {
           "en": "Enough is enough; I'm leaving.",
           "ar": "هذا يكفي؛ أنا راحل."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_euros",
-      "lessonId": "lsn_a1_e_1",
-      "en": "euros",
-      "translation": "يورو",
-      "ar": "يورو",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The ticket costs 20 euros.",
-          "ar": "تبلغ تكلفة التذكرة 20 يورو."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_even",
-      "lessonId": "lsn_a1_e_1",
-      "en": "even",
-      "translation": "حتى",
-      "ar": "حتى",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I can't even imagine that.",
-          "ar": "لا يمكنني حتى تخيل ذلك."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_evening",
-      "lessonId": "lsn_a1_e_1",
-      "en": "evening",
-      "translation": "مساء",
-      "ar": "مساء",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "We meet every evening.",
-          "ar": "نحن نلتقي كل مساء."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_event",
-      "lessonId": "lsn_a1_e_1",
-      "en": "event",
-      "translation": "فعالية",
-      "ar": "فعالية",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The school event begins at 10 am.",
-          "ar": "تبدأ فعالية المدرسة في العاشرة صباحاً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_ever",
-      "lessonId": "lsn_a1_e_1",
-      "en": "ever",
-      "translation": "على الإطلاق",
-      "ar": "على الإطلاق",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "This is the hardest test ever.",
-          "ar": "هذا أصعب اختبار على الإطلاق."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_every",
-      "lessonId": "lsn_a1_e_1",
-      "en": "every",
-      "translation": "كل",
-      "ar": "كل",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I drink coffee every morning.",
-          "ar": "أنا أشرب القهوة كل صباح."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_everybody",
-      "lessonId": "lsn_a1_e_1",
-      "en": "everybody",
-      "translation": "الجميع",
-      "ar": "الجميع",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Is everybody here?",
-          "ar": "هل الجميع هنا؟"
         }
       ],
       "difficulty": "A1",

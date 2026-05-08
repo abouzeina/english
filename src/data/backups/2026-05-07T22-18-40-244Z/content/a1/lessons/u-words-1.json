@@ -1,0 +1,281 @@
+{
+  "id": "lsn_a1_u_1",
+  "levelId": "lvl_1",
+  "title": "U Words - Part 1",
+  "slug": "u-words-1",
+  "order": 43,
+  "wordCount": 12,
+  "titleAr": "كلمات حرف U - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter U.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف U.",
+  "words": [
+    {
+      "id": "w_a1_types",
+      "lessonId": "lsn_a1_u_1",
+      "en": "types",
+      "translation": "أنواع",
+      "ar": "أنواع",
+      "pronunciation": "/tarp/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like these types of games.",
+          "ar": "أحب هذه الأنواع من الألعاب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_umbrella",
+      "lessonId": "lsn_a1_u_1",
+      "en": "umbrella",
+      "translation": "مظلة",
+      "ar": "مظلة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Take your umbrella today.",
+          "ar": "خذ مظلتك اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_uncle",
+      "lessonId": "lsn_a1_u_1",
+      "en": "uncle",
+      "translation": "عم / خال",
+      "ar": "عم / خال",
+      "pronunciation": "/ ŋkəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My uncle visited us.",
+          "ar": "زارنا خالي/عمي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_under",
+      "lessonId": "lsn_a1_u_1",
+      "en": "under",
+      "translation": "تحت",
+      "ar": "تحت",
+      "pronunciation": "/ʌndər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We sat under the tree.",
+          "ar": "جلسنا تحت الشجرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_understand",
+      "lessonId": "lsn_a1_u_1",
+      "en": "understand",
+      "translation": "تفهم / يفهم",
+      "ar": "تفهم / يفهم",
+      "pronunciation": "/an dər stænd/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Do you understand?",
+          "ar": "هل تفهم؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_university",
+      "lessonId": "lsn_a1_u_1",
+      "en": "university",
+      "translation": "جامعة",
+      "ar": "جامعة",
+      "pronunciation": "/ju nə vər sə ţi/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I study at Cairo University.",
+          "ar": "أنا أدرس في جامعة القاهرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_up",
+      "lessonId": "lsn_a1_u_1",
+      "en": "up",
+      "translation": "أعلى / قف",
+      "ar": "أعلى / قف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I looked up the street.",
+          "ar": "نظرت إلى أعلى الشارع."
+        },
+        {
+          "en": "Stand up and come with me.",
+          "ar": "قف وتعال معي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_upstairs",
+      "lessonId": "lsn_a1_u_1",
+      "en": "upstairs",
+      "translation": "الطابق العلوي",
+      "ar": "الطابق العلوي",
+      "pronunciation": "/ ʌp'steərz/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Come upstairs with me.",
+          "ar": "تعال معي إلى الطابق العلوي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_us",
+      "lessonId": "lsn_a1_u_1",
+      "en": "us",
+      "translation": "نا (ضمير مفعول به)",
+      "ar": "نا (ضمير مفعول به)",
+      "pronunciation": "/s/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She told us everything.",
+          "ar": "لقد أخبرتنا بكل شيء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_use",
+      "lessonId": "lsn_a1_u_1",
+      "en": "use",
+      "translation": "يستخدم",
+      "ar": "يستخدم",
+      "pronunciation": "/juz/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You can use my phone.",
+          "ar": "يمكنك أن تستخدم هاتفي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_useful",
+      "lessonId": "lsn_a1_u_1",
+      "en": "useful",
+      "translation": "مفيدة",
+      "ar": "مفيدة",
+      "pronunciation": "/ jus fəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Your advice was useful.",
+          "ar": "كانت نصيحتك مفيدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_usually",
+      "lessonId": "lsn_a1_u_1",
+      "en": "usually",
+      "translation": "عادة",
+      "ar": "عادة",
+      "pronunciation": "/ ju zuǝli/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I usually go to bed early.",
+          "ar": "عادة ما أخلد إلى النوم مبكراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "en": "academic",
+    "translation": "أكاديمي / دراسي",
+    "ipa": "/ˌækəˈdɛmɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She had a successful academic career.",
+        "ar": "لقد حظيت بمسيرة أكاديمية ناجحة."
+      }
+    ]
+  },
+  {
+    "en": "account",
+    "translation": "حساب / تقرير",
+    "ipa": "/əˈkaʊnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I need to open a new bank account.",
+        "ar": "أحتاج إلى فتح حساب بنكي جديد."
+      }
+    ]
+  },
+  {
+    "en": "alarm",
+    "translation": "منبه / إنذار",
+    "ipa": "/əˈlɑːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I forgot to set my alarm last night.",
+        "ar": "نسيت ضبط المنبه الليلة الماضية."
+      }
+    ]
+  },
+  {
+    "en": "border",
+    "translation": "حدود",
+    "ipa": "/ˈbɔːdə/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They crossed the border safely.",
+        "ar": "لقد عبروا الحدود بأمان."
+      }
+    ]
+  },
+  {
+    "en": "chain",
+    "translation": "سلسلة",
+    "ipa": "/tʃeɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bicycle chain broke while I was riding.",
+        "ar": "انقطعت سلسلة الدراجة بينما كنت أقودها."
+      }
+    ]
+  },
+  {
+    "en": "challenge",
+    "translation": "تحدي / يتحدى",
+    "ipa": "/ˈtʃælɪndʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Learning a new language is a big challenge.",
+        "ar": "تعلم لغة جديدة يمثل تحديًا كبيرًا."
+      }
+    ]
+  },
+  {
+    "en": "complex",
+    "translation": "معقد / مركب",
+    "ipa": "/ˈkɒmplɛks/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The math problem was too complex to solve quickly.",
+        "ar": "كانت مسألة الرياضيات معقدة لدرجة يصعب حلها بسرعة."
+      }
+    ]
+  },
+  {
+    "en": "current",
+    "translation": "حالي / تيار",
+    "ipa": "/ˈkʌrənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "What is your current address?",
+        "ar": "ما هو عنوانك الحالي؟"
+      }
+    ]
+  },
+  {
+    "en": "disappointed",
+    "translation": "محبط / خائب الأمل",
+    "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I was disappointed with the movie ending.",
+        "ar": "شعرت بخيبة أمل من نهاية الفيلم."
+      }
+    ]
+  },
+  {
+    "en": "discount",
+    "translation": "خصم / تخفيض",
+    "ipa": "/ˈdɪskaʊnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Do you offer a discount for students?",
+        "ar": "هل تقدمون خصمًا للطلاب؟"
+      }
+    ]
+  },
+  {
+    "en": "hire",
+    "translation": "يوظف / يستأجر",
+    "ipa": "/haɪə/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company plans to hire fifty new engineers.",
+        "ar": "تخطط الشركة لتوظيف خمسين مهندسًا جديدًا."
+      }
+    ]
+  },
+  {
+    "en": "hunt",
+    "translation": "يصطاد / يبحث",
+    "ipa": "/hʌnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Lions hunt mostly at night.",
+        "ar": "تصطاد الأسود في الغالب ليلاً."
+      }
+    ]
+  },
+  {
+    "en": "latest",
+    "translation": "أحدث / الأخير",
+    "ipa": "/ˈleɪtɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Have you heard the latest news?",
+        "ar": "هل سمعت أحدث الأخبار؟"
+      }
+    ]
+  },
+  {
+    "en": "medium",
+    "translation": "متوسط",
+    "ipa": "/ˈmiːdiəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I wear a medium size shirt.",
+        "ar": "أرتدي قميصًا مقاسه متوسط."
+      }
+    ]
+  },
+  {
+    "en": "net",
+    "translation": "شبكة / صافي",
+    "ipa": "/nɛt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The fisherman repaired his net.",
+        "ar": "قام الصياد بإصلاح شبكته."
+      }
+    ]
+  },
+  {
+    "en": "official",
+    "translation": "رسمي / مسؤول",
+    "ipa": "/əˈfɪʃəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Arabic is the official language of Egypt.",
+        "ar": "اللغة العربية هي اللغة الرسمية لمصر."
+      }
+    ]
+  },
+  {
+    "en": "passion",
+    "translation": "شغف / عاطفة",
+    "ipa": "/ˈpæʃən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She has a real passion for music.",
+        "ar": "لديها شغف حقيقي بالموسيقى."
+      }
+    ]
+  },
+  {
+    "en": "plot",
+    "translation": "حبكة / يتآمر",
+    "ipa": "/plɒt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The plot of the novel was very confusing.",
+        "ar": "كانت حبكة الرواية مربكة للغاية."
+      }
+    ]
+  },
+  {
+    "en": "plus",
+    "translation": "زائد / بالإضافة إلى",
+    "ipa": "/plʌs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Two plus two equals four.",
+        "ar": "اثنان زائد اثنان يساوي أربعة."
+      }
+    ]
+  },
+  {
+    "en": "profit",
+    "translation": "ربح / مكسب",
+    "ipa": "/ˈprɒfɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The store made a huge profit this year.",
+        "ar": "حقق المتجر ربحًا ضخمًا هذا العام."
+      }
+    ]
+  }
+]

@@ -1,0 +1,591 @@
+{
+  "id": "lsn_a1_s_1",
+  "levelId": "lvl_1",
+  "title": "S Words - Part 1",
+  "slug": "s-words-1",
+  "order": 36,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف S - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_a1_run",
+      "lessonId": "lsn_a1_s_1",
+      "en": "run",
+      "translation": "يجري",
+      "ar": "يجري",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I run every morning.",
+          "ar": "أنا أجري كل صباح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sad",
+      "lessonId": "lsn_a1_s_1",
+      "en": "sad",
+      "translation": "حزين",
+      "ar": "حزين",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You look sad. What happened?",
+          "ar": "تبدو حزيناً ماذا حدث؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_salad",
+      "lessonId": "lsn_a1_s_1",
+      "en": "salad",
+      "translation": "سلطة",
+      "ar": "سلطة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We eat salad every day.",
+          "ar": "نحن نأكل السلطة كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_salt",
+      "lessonId": "lsn_a1_s_1",
+      "en": "salt",
+      "translation": "ملح",
+      "ar": "ملح",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The meat needs more salt.",
+          "ar": "اللحم يحتاج إلى المزيد من الملح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_same",
+      "lessonId": "lsn_a1_s_1",
+      "en": "same",
+      "translation": "نفس / الشيء نفسه",
+      "ar": "نفس / الشيء نفسه",
+      "pronunciation": "/serm/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We met at the same place.",
+          "ar": "التقينا في نفس المكان."
+        },
+        {
+          "en": "They chose the same thing.",
+          "ar": "اختاروا نفس الشيء."
+        },
+        {
+          "en": "I feel the same as you.",
+          "ar": "أشعر بنفس شعورك."
+        },
+        {
+          "en": "You and I think the same way.",
+          "ar": "أنا وأنت نفكر بنفس الطريقة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sandwich",
+      "lessonId": "lsn_a1_s_1",
+      "en": "sandwich",
+      "translation": "شطيرة",
+      "ar": "شطيرة",
+      "pronunciation": "/'sænd wItf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She made me a sandwich.",
+          "ar": "لقد أعدت لي شطيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_saturday",
+      "lessonId": "lsn_a1_s_1",
+      "en": "Saturday",
+      "translation": "يوم السبت / أيام السبت",
+      "ar": "يوم السبت / أيام السبت",
+      "pronunciation": "/'sæt ər-der/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I don't like Saturdays.",
+          "ar": "لا أحب أيام السبت."
+        },
+        {
+          "en": "We sometimes visit our cousins on Saturday.",
+          "ar": "أحياناً نزور أبناء عمومتنا في يوم السبت."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_say",
+      "lessonId": "lsn_a1_s_1",
+      "en": "say",
+      "translation": "يقول",
+      "ar": "يقول",
+      "pronunciation": "/sex/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please say something.",
+          "ar": "أرجوك قل شيئاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_school",
+      "lessonId": "lsn_a1_s_1",
+      "en": "school",
+      "translation": "مدرسة",
+      "ar": "مدرسة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The school is near my home.",
+          "ar": "المدرسة قريبة من منزلي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_science",
+      "lessonId": "lsn_a1_s_1",
+      "en": "science",
+      "translation": "العلم / العلوم",
+      "ar": "العلم / العلوم",
+      "pronunciation": "/'sar əns/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Science makes life easier.",
+          "ar": "العلم يجعل الحياة أسهل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_scientist",
+      "lessonId": "lsn_a1_s_1",
+      "en": "scientist",
+      "translation": "عالم",
+      "ar": "عالم",
+      "pronunciation": "/'sar en tist/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to become a scientist.",
+          "ar": "أريد أن أصبح عالماً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_second",
+      "lessonId": "lsn_a1_s_1",
+      "en": "second",
+      "translation": "ثوان / لحظة / المركز الثاني",
+      "ar": "ثوان / لحظة / المركز الثاني",
+      "pronunciation": "/'sek-end/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Wait a few seconds, please.",
+          "ar": "انتظر بضع ثوان من فضلك."
+        },
+        {
+          "en": "Wait a second.",
+          "ar": "انتظر لحظة."
+        },
+        {
+          "en": "He won second place.",
+          "ar": "فاز بالمركز الثاني."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_section",
+      "lessonId": "lsn_a1_s_1",
+      "en": "section",
+      "translation": "جزء / قسم",
+      "ar": "جزء / قسم",
+      "pronunciation": "/'sek fən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Read the last section again.",
+          "ar": "اقرأ الجزء الأخير مرة أخرى."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_see",
+      "lessonId": "lsn_a1_s_1",
+      "en": "see",
+      "translation": "يرى",
+      "ar": "يرى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you see those birds?",
+          "ar": "هل يمكنك أن ترى أولئك الطيور؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sell",
+      "lessonId": "lsn_a1_s_1",
+      "en": "sell",
+      "translation": "يبيع / نبيع",
+      "ar": "يبيع / نبيع",
+      "pronunciation": "/sel/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We sell fruit and vegetables.",
+          "ar": "نحن نبيع الفاكهة والخضروات."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_send",
+      "lessonId": "lsn_a1_s_1",
+      "en": "send",
+      "translation": "يرسل",
+      "ar": "يرسل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I will send you money.",
+          "ar": "سأرسل لك نقوداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sentence",
+      "lessonId": "lsn_a1_s_1",
+      "en": "sentence",
+      "translation": "جملة",
+      "ar": "جملة",
+      "pronunciation": "/'sen təns/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Give me a short sentence.",
+          "ar": "أعطني جملة قصيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_september",
+      "lessonId": "lsn_a1_s_1",
+      "en": "September",
+      "translation": "شهر سبتمبر",
+      "ar": "شهر سبتمبر",
+      "pronunciation": "/sep tem-bər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "School starts in September.",
+          "ar": "تبدأ الدراسة في سبتمبر."
+        },
+        {
+          "en": "September is the ninth month.",
+          "ar": "سبتمبر هو الشهر التاسع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_seven",
+      "lessonId": "lsn_a1_s_1",
+      "en": "seven",
+      "translation": "سبعة / السابعة",
+      "ar": "سبعة / السابعة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She woke up at seven.",
+          "ar": "لقد استيقظت في السابعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_seventeen",
+      "lessonId": "lsn_a1_s_1",
+      "en": "seventeen",
+      "translation": "سبعة عشر",
+      "ar": "سبعة عشر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He is seventeen years old.",
+          "ar": "يبلغ من العمر سبعة عشر عاماً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_seventy",
+      "lessonId": "lsn_a1_s_1",
+      "en": "seventy",
+      "translation": "سبعين",
+      "ar": "سبعين",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The old man is seventy now.",
+          "ar": "الرجل العجوز في السبعين من عمره الآن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_share",
+      "lessonId": "lsn_a1_s_1",
+      "en": "share",
+      "translation": "نتشارك / يتشارك",
+      "ar": "نتشارك / يتشارك",
+      "pronunciation": "/feər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's share the cake.",
+          "ar": "دعنا نتشارك الكعكة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_she",
+      "lessonId": "lsn_a1_s_1",
+      "en": "she",
+      "translation": "هي / إنها",
+      "ar": "هي / إنها",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She enjoys reading books.",
+          "ar": "إنها تستمتع بقراءة الكتب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sheep",
+      "lessonId": "lsn_a1_s_1",
+      "en": "sheep",
+      "translation": "أغنام",
+      "ar": "أغنام",
+      "pronunciation": "/fip/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Sheep like to stay together.",
+          "ar": "تحب الأغنام البقاء مع بعضها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_shirt",
+      "lessonId": "lsn_a1_s_1",
+      "en": "shirt",
+      "translation": "قميص",
+      "ar": "قميص",
+      "pronunciation": "/f3rt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Where is my blue shirt?",
+          "ar": "أين قميصي الأزرق؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

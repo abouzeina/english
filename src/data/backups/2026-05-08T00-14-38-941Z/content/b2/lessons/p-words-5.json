@@ -1,0 +1,259 @@
+{
+  "id": "lsn_b2_p_5",
+  "levelId": "lvl_b2",
+  "slug": "p-words-5",
+  "title": "P Words - Part 5",
+  "titleAr": "كلمات حرف P - الجزء 5",
+  "description": "Learn essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف P.",
+  "order": 48,
+  "wordCount": 11,
+  "words": [
+    {
+      "id": "w_b2_publications",
+      "en": "publications",
+      "ar": "المنشورات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This is a list of recent publications on this subject.",
+          "ar": "هذه قائمة بالمنشورات الأخيرة حول هذا الموضوع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_publicity",
+      "en": "publicity",
+      "ar": "ضجة إعلامية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company received positive publicity after the event.",
+          "ar": "تلقت الشركة ضجة إعلامية إيجابية بعد الفعالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_publishing",
+      "en": "publishing",
+      "ar": "عالم النشر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I entered the world of publishing recently.",
+          "ar": "دخلت عالم النشر مؤراً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_punk",
+      "en": "punk",
+      "ar": "بنك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Punk is a genre of loud, aggressive rock music.",
+          "ar": "الـ (بنك) هو نوع من موسيقى الروك الصاخبة والعدوانية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pupil",
+      "en": "pupil",
+      "ar": "تلميذ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Every pupil wore a uniform to school.",
+          "ar": "ارتدى كل تلميذ زياً موحداً للمدرسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_purchase",
+      "en": "purchase",
+      "ar": "يشتروا / عملية شراء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His first big purchase was a new laptop.",
+          "ar": "أول عملية شراء كبيرة قام بها كانت لابتوب جديد."
+        },
+        {
+          "en": "They want to purchase a small cottage nearby.",
+          "ar": "يرغبون أن يشتروا كوخًا صغيرًا في مكان قريب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pure",
+      "en": "pure",
+      "ar": "الصافية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Pure joy filled her heart after hearing the news.",
+          "ar": "ملأت الفرحة الصافية قلبها بعد سماعها الخبر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_purely",
+      "en": "purely",
+      "ar": "بحتة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The decision was purely based on financial reasons.",
+          "ar": "استند القرار إلى أسباب مالية بحتة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pursue",
+      "en": "pursue",
+      "ar": "أتابع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I want to pursue my passion for photography.",
+          "ar": "أريد أن أتابع شغفي في التصوير الفوتوغرافي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pursuit",
+      "en": "pursuit",
+      "ar": "السعي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He focused on the pursuit of personal growth.",
+          "ar": "لقد ركز على السعي لأجل تحقيق النمو الشخصي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_puzzle",
+      "en": "puzzle",
+      "ar": "الأحجية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I solved the puzzle after several attempts.",
+          "ar": "قمت بحل الأحجية بعد عدة محاولات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "id": "lsn_b2_i_4",
+  "levelId": "lvl_b2",
+  "title": "Unit 28: I Words - Part 4",
+  "slug": "i-words-4",
+  "order": 28,
+  "wordCount": 19,
+  "titleAr": "الوحدة 28: كلمات حرف I - الجزء 4",
+  "description": "Master essential B2 vocabulary starting with the letter I.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف I.",
+  "words": [
+    {
+      "id": "w_b2_insurance",
+      "en": "insurance",
+      "ar": "التأمين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They offer various types of insurance plans.",
+          "ar": "التحق بمعهد الإدارة الأعمال لاكتساب مهارات إدارية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_integrate",
+      "en": "integrate",
+      "ar": "يندمج",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The new software will integrate with our existing systems.",
+          "ar": "سوف يندمج البرنامج الجديد مع أنظمتنا الحالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_intellectual",
+      "en": "intellectual",
+      "ar": "فكرية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She enjoys intellectual discussions.",
+          "ar": "هي تستمتع بالنقاشات الفكرية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_intended",
+      "en": "intended",
+      "ar": "المستهدف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The intended audience for the movie is teenagers.",
+          "ar": "الجمهور المستهدف للفيلم هم المراهقون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_intense",
+      "en": "intense",
+      "ar": "شديد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He has an intense passion for traveling.",
+          "ar": "لديه شغف شديد بالسفر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_interact",
+      "en": "interact",
+      "ar": "التواصل",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He prefers to interact face-to-face rather than online.",
+          "ar": "يفضل التواصل وجهاً لوجه بدلاً من التواصل عبر الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪntəɹˈækt/"
+    },
+    {
+      "id": "w_b2_interaction",
+      "en": "interaction",
+      "ar": "التفاعل",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The interaction between the characters was fascinating.",
+          "ar": "التفاعل بين الشخصيات كان رائعاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɪntəɹˈækʃən/"
+    },
+    {
+      "id": "w_b2_internal",
+      "en": "internal",
+      "ar": "داخلية",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company is facing internal challenges.",
+          "ar": "تواجه الشركة تحديات داخلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈtɝnəl/"
+    },
+    {
+      "id": "w_b2_interpret",
+      "en": "interpret",
+      "ar": "تفسر",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can you interpret this ancient text?",
+          "ar": "هل يمكنك أن تفسر هذا النص القديم؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈtɜː.pɹɪt/"
+    },
+    {
+      "id": "w_b2_interpretation",
+      "en": "interpretation",
+      "ar": "تفسيرًا",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Political speeches often require careful interpretation.",
+          "ar": "غالبا ما تتطلب الخطابات السياسية تفسيرًا متأنيا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪntəpɹəˈteɪʃən/"
+    },
+    {
+      "id": "w_b2_interrupt",
+      "en": "interrupt",
+      "ar": "تقاطعني",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Please don't interrupt me while speaking.",
+          "ar": "من فضلك لا تقاطعني أثناء الحديث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɪntəˈɹʌpt/"
+    },
+    {
+      "id": "w_b2_interval",
+      "en": "interval",
+      "ar": "فترة",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She rested during the lunch interval.",
+          "ar": "هي استراحت خلال فترة الغداء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪntəvəl/"
+    },
+    {
+      "id": "w_b2_invade",
+      "en": "invade",
+      "ar": "تغزو",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Insects can invade homes during summer.",
+          "ar": "يمكن أن تغزو الحشرات المنازل خلال فصل الصيف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈveɪd/"
+    },
+    {
+      "id": "w_b2_invasion",
+      "en": "invasion",
+      "ar": "غزو",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They prepared for a possible invasion.",
+          "ar": "لقد استعدوا لغزو محتمل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈveɪʒən/"
+    },
+    {
+      "id": "w_b2_investigation",
+      "en": "investigation",
+      "ar": "التحقيق",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The investigation into the accident concluded.",
+          "ar": "انتهى التحقيق في الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˌvɛstəˈɡeɪʃən/"
+    },
+    {
+      "id": "w_b2_investments",
+      "en": "investments",
+      "ar": "الاستثمارات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The government encouraged foreign investments.",
+          "ar": "لقد شجعت الحكومة الاستثمارات الأجنبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_investor",
+      "en": "investor",
+      "ar": "مستثمر",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is a successful real estate investor.",
+          "ar": "إنه مستثمر عقاري ناجح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈvɛstɚ/"
+    },
+    {
+      "id": "w_b2_isolated",
+      "en": "isolated",
+      "ar": "معزولة / عزل",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was isolated from the other prisoners right away.",
+          "ar": "لقد تم عزله عن السجناء الآخرين على الفور."
+        },
+        {
+          "en": "The island remained isolated during storms.",
+          "ar": "ظلت الجزيرة معزولة أثناء العواصف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈaɪsəleɪtɪd/"
+    },
+    {
+      "id": "w_b2_issued",
+      "en": "issued",
+      "ar": "أصدر",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The professor issued a new assignment.",
+          "ar": "أصدر البروفيسور تكليفاً جديداً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪsjuːd/"
+    }
+  ]
+}

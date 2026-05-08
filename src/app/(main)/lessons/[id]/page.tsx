@@ -38,7 +38,11 @@ export default async function LessonPage({
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-background">
-      <LessonViewer lesson={lessonWithWords} words={lessonWithWords.words} />
+      <LessonViewer 
+        lesson={lessonWithWords} 
+        words={lessonWithWords.words} 
+        levelSlug={levelSlug}
+      />
     </div>
   );
 }

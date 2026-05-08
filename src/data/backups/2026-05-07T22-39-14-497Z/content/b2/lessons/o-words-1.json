@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_o_1",
+  "levelId": "lvl_b2",
+  "slug": "o-words-1",
+  "title": "O Words - Part 1",
+  "titleAr": "كلمات حرف O - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter O.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف O.",
+  "order": 42,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_obesity",
+      "en": "obesity",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_obey",
+      "en": "obey",
+      "ar": "????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_object",
+      "en": "object",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_objective",
+      "en": "objective",
+      "ar": "???? / ??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_obligations",
+      "en": "obligations",
+      "ar": "??????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_observation",
+      "en": "observation",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_observe",
+      "en": "observe",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_observer",
+      "en": "observer",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_obstacle",
+      "en": "obstacle",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_obtain",
+      "en": "obtain",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_occasionally",
+      "en": "occasionally",
+      "ar": "?? ??? ????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_occupation",
+      "en": "occupation",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_occupied",
+      "en": "occupied",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_offend",
+      "en": "offend",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_offender",
+      "en": "offender",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_offense",
+      "en": "offense",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_offensive",
+      "en": "offensive",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_official",
+      "en": "official",
+      "ar": "?????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ongoing",
+      "en": "ongoing",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_opening",
+      "en": "opening",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_openly",
+      "en": "openly",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_opera",
+      "en": "opera",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_operate",
+      "en": "operate",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_operator",
+      "en": "operator",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_opponent",
+      "en": "opponent",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

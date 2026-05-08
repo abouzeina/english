@@ -1,0 +1,385 @@
+{
+  "id": "lsn_b2_c_2",
+  "levelId": "lvl_b2",
+  "slug": "c-words-2",
+  "title": "C Words - Part 2",
+  "titleAr": "كلمات حرف C - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف C.",
+  "order": 10,
+  "wordCount": 16,
+  "words": [
+    {
+      "id": "w_b2_charming",
+      "en": "charming",
+      "ar": "ساحر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He greeted me with his charming smile.",
+          "ar": "لقد سلّم علي بابتسامته الساحرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chart",
+      "en": "chart",
+      "ar": "يتتبع / يخطط",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This book charts the history of the city.",
+          "ar": "هذا الكتاب يتتبع تاريخ المدينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chase",
+      "en": "chase",
+      "ar": "يلاحق / مطاردة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The criminals were caught by police after a long chase.",
+          "ar": "تم القبض على المجرمين من قبل الشرطة بعد مطاردة طويلة."
+        },
+        {
+          "en": "The kids chased the dog all day.",
+          "ar": "الأطفال لاحقوا الكلب طوال اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cheek",
+      "en": "cheek",
+      "ar": "خد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He kissed the baby on his pink cheeks.",
+          "ar": "قبل الطفل في خديه الورديين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cheer",
+      "en": "cheer",
+      "ar": "يهتف / هتاف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The fans cheered for the winning team.",
+          "ar": "هتف المشجعون للفريق الفائز."
+        },
+        {
+          "en": "We heard a loud cheer when he got up on the stage.",
+          "ar": "سمعنا هتافا عاليا عندما صعد على المسرح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chief",
+      "en": "chief",
+      "ar": "رئيسي / مدير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is the chief financial officer in the company.",
+          "ar": "هو المدير المالي في الشركة."
+        },
+        {
+          "en": "Unemployment is the chief cause of poverty.",
+          "ar": "البطالة هي السبب الرئيسي للفقر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_choir",
+      "en": "choir",
+      "ar": "جوقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Who will lead the choir ?",
+          "ar": "من سيقود الجوقة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chop",
+      "en": "chop",
+      "ar": "يقطع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "First, chop the onions into small pieces.",
+          "ar": "أولاً، قطع البصل إلى قطع صغيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_circuit",
+      "en": "circuit",
+      "ar": "دائرة كهربائية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The book will teach you electrical circuit design.",
+          "ar": "الكتاب سوف يعلمك تصميم الدوائر الكهربائية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_circumstance",
+      "en": "circumstance",
+      "ar": "ظرف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We are facing difficult circumstances.",
+          "ar": "نحن نواجه ظروفا صعبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cite",
+      "en": "cite",
+      "ar": "يستشهد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You didn't cite any sources in your article.",
+          "ar": "أنت لم تستشهد بأية مصادر في مقالتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_citizen",
+      "en": "citizen",
+      "ar": "مواطن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You can get a job even if you are not a citizen in this country.",
+          "ar": "يمكنك الحصول على وظيفة حتى لو لم تكن مواطنا في هذا البلد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_civil",
+      "en": "civil",
+      "ar": "مدني / أهلي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We have to avoid civil war by any means.",
+          "ar": "علينا أن نتجنب الحرب الأهلية بأي وسيلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_civilization",
+      "en": "civilization",
+      "ar": "حضارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He published several books about Western civilization.",
+          "ar": "نشر عدة كتب عن الحضارة الغربية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_clarify",
+      "en": "clarify",
+      "ar": "يوضح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This statement needs to be clarified.",
+          "ar": "هذا البيان يحتاج أن يوضح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_classic",
+      "en": "classic",
+      "ar": "كلاسيكي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our friend, Jalal, is one of the classic writers.",
+          "ar": "صديقنا جلال هو أحد الكتاب الكلاسيكيين."
+        },
+        {
+          "en": "سنقوم بتوزيع الصحيفة مجاناً هذا الأسبوع. Word: distributionTranslation: التوزيعPronunciation:Examples:We faced some difficulties in distribution this time. واجهنا بعض الصعوبات في التوزيع هذه المرة. Word: districtsTranslation: مناطقPronunciation:Examples:We have visited some historic districts. لقد قمنا بزيارة بعض المناطق التاريخية. Word: disturbedTranslation: أزعجتناPronunciation:Examples:The news disturbed us. أزعجتنا الأخبار. Word: diveTranslation: تغوص / الغوصPronunciation:Examples:We can't allow you to dive here without proper training. لا يمكننا أن نسمح لك أن تغوص هنا بدون تدريب مناسب. They did a deep dive to search for the missing piece. لقد قاموا بالغوص العميق للبحث عن القطعة المفقودة. Word: diverseTranslation: متنوعةPronunciation:Examples:We invited some people from diverse backgrounds.",
+          "ar": "قمنا بدعوة بعض الأشخاص من خلفيات متنوعة. Word: diversityTranslation: تنوعPronunciation:Examples:We should celebrate the diversity of our community. يجب أن نحتفل بتنوع مجتمعنا. Word: divideTranslation: فجوةPronunciation:Examples:There is a great divide between the rich and the poor. هناك فجوة كبيرة بين الأغنياء والفقراء. Word: divisionTranslation: تقسيمPronunciation:Examples:We need a fair division of the money. نحن بحاجة إلى تقسيم عادل للمال. Word: divorceTranslation: طلاق / طلقPronunciation:Examples:She hasn't married since her divorce five years ago. لم تتزوج منذ طلاقها قبل خمس سنوات. Adil divorced his wife after only two years of marriage. طلق عادل زوجته بعد عامين فقط من الزواج. Word: documentTranslation: أوثقPronunciation:Examples:I record these videos to document our local traditions. أقوم بتسجيل مقاطع الفيديو هذه لأوثق تقاليدنا المحلية. Word: domesticTranslation: المنزليةPronunciation:Examples:The government reduced domestic electricity prices. خفضت الحكومة أسعار الكهرباء المنزلية. Word: dominateTranslation: تهيمنPronunciation:Examples:You always dominate the conversation. أنت تهيمن دائما على المحادثة. Word: dominantTranslation: مهيمنPronunciation:Examples:Banks have a dominant role in some countries. للبنوك دور مهيمن في بعض البلدان. Word: donationsTranslation: تبرعاتPronunciation:Examples:All donations will go directly to the poor families. جميع التبرعات سوف تذهب مباشرة إلى الأسر الفقيرة. Word: dotTranslation: النقطةPronunciation:Examples:You forgot the dot above the letter j."
+        },
+        {
+          "en": "يالها من مصادفة ! لم أكن أعلم أنك هنا. Word: collapseTranslation: انهيار / ينهارPronunciation:Examples:The roof collapsed before we started the repair process. انهار السقف قبل أن نبدأ عملية الإصلاح. What are the reasons for the collapse of the Soviet Union ? ما أسباب انهيار الاتحاد السوفيتي ؟ Word: collectorTranslation: جامعPronunciation:Examples:Ali is a stamp collector. علي هو جامع طوابع. Word: coloniesTranslation: مستعمراتPronunciation:Examples:These countries were British colonies in the 18th century. كانت هذه البلدان مستعمرات بريطانية في القرن الثامن عشر. Word: colorfulTranslation: ملونةPronunciation:Examples:This neighborhood is full of colorful buildings. هذا الحي مليء بالمباني الملونة. Word: combinationTranslation: مزيجPronunciation:Examples:The combination of milk and dates is very delicious. مزيج الحليب والتمر لذيذ جدا. Word: comfortedTranslation: أراحتنيPronunciation:Examples:Your kind words comforted me. كلماتك الطيبة أراحتني. Word: comfortTranslation: رغد / راحةPronunciation:Examples:I had enough money to live in comfort. كان لدي ما يكفي من المال للعيش في رغد. He was living in comparative comfort. كان يعيش في راحة نسبية. Word: comicTranslation: هزلية / رسوميةPronunciation:Examples:I'm trying to write a comic novel. أحاول أن أكتب رواية هزلية. Don't waste your time by reading comic books. لا تضيع وقتك بقراءة المجلات الرسومية. Word: commandTranslation: أمرPronunciation:Examples:I am under your command. أنا تحت أمرك . He commanded the soldiers to attack. أمر الجنود بالهجوم. Word: commanderTranslation: قائدPronunciation:Examples:Who is the commander of the border forces? من هو قائد قوات الحدود ؟ Word: commissionTranslation: عمولةPronunciation:Examples:They will give you a 15% commission on any sale you do. سوف يعطونك عمولة 15% على أي عملية بيع تقوم بها. Word: commissionedTranslation: تكليفهPronunciation:Examples:He has been commissioned to design the cover of the book. تم تكليفه بتصميم غلاف الكتاب. Word: commitmentTranslation: التزاماPronunciation:Examples:Learning another language requires a strong commitment. تعلم لغة أخرى يتطلب التزاما قويًا. Word: committeeTranslation: اللجنةPronunciation:Examples:Did the committee approve the budget? هل أقرت اللجنة الميزانية؟ Word: commonlyTranslation: عادةPronunciation:Examples:This plant is commonly used to treat colds. يستخدم هذا النبات عادة لعلاج نزلات البرد. Word: completionTranslation: الانتهاءPronunciation:Examples:What is the completion date of this project? ما هو تاريخ الانتهاء من هذا المشروع ؟ Word: complexTranslation: مجمعPronunciation:Examples:We're going to move to a housing complex. سننتقل إلى مجمع سكني. Word: complicatedTranslation: معقدةPronunciation:Examples:These instructions seem very complicated. تبدو هذه التعليمات معقدة للغاية. Word: componentsTranslation: المكوناتPronunciation:Examples:What are the essential components of this device? ما هي المكونات الأساسية لهذا الجهاز؟ Word: composeTranslation: أكتبPronunciation:Examples:He has taught me how to compose a poem. لقد علمني كيف أكتب قصيدة. Word: composerTranslation: ملحنPronunciation:Examples:My favorite composer is Mozart. الملحن المفضل عندي هو موزارت. Word: compoundTranslation: مركبPronunciation:Examples:We prepared this chemical compound in the lab. قمنا بتحضير هذا المركب الكيميائي في المختبر. Word: comprehensiveTranslation: شاملPronunciation:Examples:We have a comprehensive exam next week. لدينا امتحان شامل الاسبوع القادم. Word: comprisesTranslation: تضمPronunciation:Examples:The collection comprises 150 ancient pieces. تضم المجموعة 150 قطعة قديمة. Word: compulsoryTranslation: إلزاميPronunciation:Examples:In some countries, voting is compulsory. في بعض البلدان، التصويت إلزامي. Word: ConcentrationTranslation: التركيزPronunciation:Examples:Concentration is key to success. التركيز هو مفتاح النجاح. Word: conceptTranslation: مفهومPronunciation:Examples:The concept of beauty has changed over the past decades. لقد تغير مفهوم الجمال خلال العقود الماضية. Word: concernTranslation: يقلقني / قلقPronunciation:Examples:What concerns me is his lack of experience. ما يقلقني هو قلة خبرته. There is growing concern about false news in social media. هناك قلق متزايد بشأن الأخبار الكاذبة في وسائل التواصل الاجتماعي. Word: concernedTranslation: قلقPronunciation:Examples:I am concerned about my father's health. أنا قلق بشأن صحة والدي. Word: concreteTranslation: خرسانية / ملموسًاPronunciation:Examples:They built concrete blocks around the building. قاموا ببناء كتل خرسانية حول المبنى. Give me a concrete example. أعطني مثالا ملموسًا. Word: conductingTranslation: نجريPronunciation:Examples:We're conducting a survey as part of the research. نحن نجري استطلاعا كجزء من البحث. Word: conductTranslation: سلوكPronunciation:Examples:It's a complaint about the conduct of one of our employees. إنها شكوى بشأن سلوك أحد موظفينا. Word: confessTranslation: يعترفPronunciation:Examples:He was forced to confess. لقد أجبر على أن يعترف. Word: confidenceTranslation: الثقة بالنفسPronunciation:Examples:I often lose confidence when I speak in public. غالبا ما أفقد الثقة بالنفس عندما أتحدث أمام الجمهور. Word: conflictsTranslation: صراعات / يتعارضانPronunciation:Examples:A book about the impacts of political conflicts in Africa. كتاب عن تأثيرات الصراعات السياسية في أفريقيا. These two reports conflict with each other. هذان التقريران يتعارضان مع بعضهما البعض. Word: confusingTranslation: محيراPronunciation:Examples:We are facing a confusing situation. نحن نواجه وضعا محيرا. Word: confusionTranslation: التباس / غموضPronunciation:Examples:There is some confusion about this law. هناك بعض الالتباس حول هذا القانون. Word: consciousTranslation: واعياًPronunciation:Examples:Will I be conscious throughout the operation? هل سأكون واعياً طوال العملية؟ Word: consequentlyTranslation: وبالتاليPronunciation:Examples:He made many mistakes and consequently got fired. لقد ارتكب العديد من الأخطاء وبالتالي تم طرده. Word: conservationTranslation: الحفاظPronunciation:Examples:This article is about energy conservation. هذه المقالة هي عن الحفاظ على الطاقة. Word: conservativeTranslation: محافظانPronunciation:Examples:My parents are very conservative. والداي محافظان للغاية. Word: considerableTranslation: كبيرًاPronunciation:Examples:These meetings waste a considerable amount of time. هذه الاجتماعات تضيع قدرًا كبيرًا من الوقت. Word: considerablyTranslation: بشكل كبيرPronunciation:Examples:Pollution levels have considerably increased. وقد ارتفعت مستويات التلوث بشكل كبير. Word: considerationTranslation: النظرPronunciation:Examples:Your request is currently under consideration. طلبك قيد النظر حاليا. Word: consistentTranslation: ثابتاًPronunciation:Examples:Stay consistent with your exercise routine. ابق ثابتاً على روتين التدريب الخاص بك. Word: consistentlyTranslation: باستمرارPronunciation:Examples:Our professor is consistently on time every morning. أستاذنا متواجد في الوقت المحدد باستمرار كل صباح. Word: conspiracy theoryTranslation: نظرية المؤامرةPronunciation:Examples:Do you believe in conspiracy theory? هل تؤمن بنظرية المؤامرة ؟ Word: constantTranslation: متواصلPronunciation:Examples:Those people live in constant fear. أولئك الناس يعيشون في خوف متواصل. Word: constantlyTranslation: باستمرارPronunciation:Examples:Your child is constantly bothering us. ابنك يزعجنا باستمرار. Word: constructedTranslation: إنشاءPronunciation:Examples:The museum was constructed in 1920. تم إنشاء المتحف في 1920. Word: constructionTranslation: بناءPronunciation:Examples:The construction of the bridge will take one year. سيستغرق بناء الجسر سنة واحدة. Word: consultTranslation: استشرPronunciation:Examples:Consult your doctor if the symptoms appear again. استشر طبيبك إذا ظهرت الأعراض مرة أخرى. Word: consultantsTranslation: مستشاريهPronunciation:Examples:The president meets with his consultants regularly. يجتمع الرئيس مع مستشاريه بانتظام. Word: consumptionTranslation: استهلاكPronunciation:Examples:In winter, natural gas consumption increases. في الشتاء يزداد استهلاك الغاز الطبيعي. Word: contemporaryTranslation: معاصرينPronunciation:Examples:I don't read novels by contemporary authors. أنا لا أقرأ روايات لمؤلفين معاصرين. Word: contestTranslation: مسابقةPronunciation:Examples:The kids have a drawing contest tomorrow.",
+          "ar": "الأطفال لديهم مسابقة رسم غدًا. Word: contestedTranslation: تنافسواPronunciation:Examples:They contested the title of Best Player in Europe. لقد تنافسوا على لقب أفضل لاعب في أوروبا. Word: contractTranslation: عقدPronunciation:Examples:Review the employment contract before you sign. قم بمراجعة عقد العمل قبل التوقيع عليه. Word: contractedTranslation: انكمشPronunciation:Examples:The economy contracted by 5 per cent last year. انكمش الاقتصاد بنسبة 5 في المائة العام الماضي. Word: contributedTranslation: ساهمتPronunciation:Examples:What factors contributed to the spread of the disease? ما هي العوامل التي ساهمت في انتشار المرض؟ Word: contributionTranslation: مساهمةPronunciation:Examples:I made a small contribution to this campaign. قدمت مساهمة صغيرة لهذه الحملة. Word: controversialTranslation: مثيرة للجدلPronunciation:Examples:Please avoid topics that might be controversial. يرجى تجنب المواضيع التي قد تكون مثيرة للجدل. Word: controversyTranslation: الجدلPronunciation:Examples:The controversy continues about his new movie. ويستمر الجدل حول فيلمه الجديد. Word: convenienceTranslation: مريحPronunciation:Examples:It is a great convenience to have the bus stop so near. إنه لشيء مريح للغاية أن يكون موقف الحافلات قريب جدًا. Word: conventionTranslation: عرف إجتماعيPronunciation:Examples:This is an important social convention. هذا عرف إجتماعي مهم. Word: conventionalTranslation: التقليديةPronunciation:Examples:Just follow the conventional methods. فقط اتبع الطرق التقليدية. Word: convertingTranslation: يعتنقونPronunciation:Examples:A lot of people are converting to Islam in western countries. الكثير من الناس يعتنقون الإسلام في الدول الغربية. Word: conveyTranslation: تنقلPronunciation:Examples:Words cannot convey my feelings. الكلمات لا تستطيع أن تنقل مشاعري. Word: convincedTranslation: مقتنعPronunciation:Examples:I am convinced that he is innocent. أنا مقتنع بأنه بريء. Word: convincingTranslation: مقنعةPronunciation:Examples:Your argument is not convincing. حجتك غير مقنعة . Word: copeTranslation: تتخطى الأمرPronunciation:Examples:It was a difficult time, but you will cope. لقد كان وقتا عصيبًا، لكنك ستتخطى الأمر. Word: coreTranslation: جوهر / أساسيةPronunciation:Examples:The report didn't mention the core of the problem. التقرير لم يذكر جوهر المشكلة. What's the core issue in today's discussion? ما هي القضية الأساسية في نقاش اليوم؟ Word: corporateTranslation: الشركاتPronunciation:Examples:This country has high corporate taxes. هذا البلد لديه ضرائب عالية على الشركات. Word: corporationTranslation: شركةPronunciation:Examples:The two brothers formed a corporation. قام الأخوان بتكوين شركة. Word: corridorTranslation: ممرPronunciation:Examples:He led us through a narrow corridor to our room. قادنا عبر ممر ضيق إلى غرفتنا. Word: councilTranslation: مجلسPronunciation:Examples:I have served on the town council for two years. لقد عملت في مجلس المدينة لمدة عامين. Word: counterTranslation: المنضدةPronunciation:Examples:Tell the man behind the counter what you want. أخبر الرجل الذي يقف خلف المنضدة بما تريد. Word: countiesTranslation: المقاطعاتPronunciation:Examples:I haven't visited northern counties before. لم أزر المقاطعات الشمالية من قبل. Word: courageTranslation: الشجاعةPronunciation:Examples:He had the courage to speak in front of the public. كان لديه الشجاعة للتحدث أمام الجمهور. Word: coverageTranslation: تغطيةPronunciation:Examples:The president's speech had wide press coverage. حظي خطاب الرئيس بتغطية صحفية واسعة. Word: cracksTranslation: شقوق / يتصدعPronunciation:Examples:We have to fix the wall, it has many cracks. علينا أن نصلح الجدار، فبه شقوق كثيرة. Don't step on this ice, it will crack. لا تطأ على هذا الجليد، سوف يتصدع. Word: craftTranslation: حرفةPronunciation:Examples:You should learn a craft alongside your major. يجب أن تتعلم حرفة بجانب تخصصك. Word: crashTranslation: تحطم / اصطدمتPronunciation:Examples:Several people died in the train crash. عدة أشخاص توفوا في تحطم القطار. A truck went out of control and crashed into three cars. خرجت شاحنة عن السيطرة واصطدمت بثلاث سيارات. Word: creationTranslation: إنشاءPronunciation:Examples:This is the best content creation software. هذا هو أفضل برنامج لـ إنشاء المحتوى. Word: CreativityTranslation: الإبداعPronunciation:Examples:Creativity is a skill that we need in our work field. الإبداع مهارة نحتاجها في مجال عملنا. Word: creaturesTranslation: كائناتPronunciation:Examples:It was an underwater trip to see sea creatures. كانت رحلة تحت الماء لرؤية الكائنات البحرية. Word: creditTranslation: نضيف لحسابكPronunciation:Examples:We will credit your account with 200 pounds. سوف نضيف لحسابك 200 جنيه. Word: crewTranslation: فريقPronunciation:Examples:I am the leader of the support crew. أنا قائد فريق الدعم. Word: crisisTranslation: أزمةPronunciation:Examples:The government is facing a financial crisis due to Covid-19. تواجه الحكومة أزمة مالية بسبب وباء كوفد -19. Word: criteriaTranslation: معاييرPronunciation:Examples:By these criteria, few people participated. وفقا لهذه المعايير، شارك عدد قليل من الناس. Word: criticTranslation: ناقدPronunciation:Examples:I am a film critic. أنا ناقد سينمائي. Word: criticalTranslation: حرجةPronunciation:Examples:One of the victims is in a critical condition. أحد الضحايا في حالة حرجة. Word: criticallyTranslation: بشكل انتقاديPronunciation:Examples:He spoke critically of the president's war strategy. تحدث بشكل انتقادي عن استراتيجية الرئيس في الحرب. Word: criticismTranslation: انتقاديPronunciation:Examples:My only criticism of the car is that it's small. انتقادي الوحيد للسيارة هو أنها صغيرة. Word: criticizedTranslation: انتقدتPronunciation:Examples:The press strongly criticized the government. انتقدت الصحافة الحكومة بشدة. Word: cropsTranslation: محاصيلPronunciation:Examples:These fields produce rice crops. تنتج هذه الحقول محاصيل الأرز. Word: crucialTranslation: جوهرياPronunciation:Examples:School plays a crucial role in improving children's behavior. تلعب المدرسة دورا جوهريا في تحسين سلوك الأطفال. Word: cruiseTranslation: رحلات بحريةPronunciation:Examples:We traveled on a luxury cruise ship. سافرنا على متن سفينة رحلات بحرية فاخرة. We spent three weeks cruising Europe. لقد أمضينا ثلاثة أسابيع في رحلة بحرية إلى أوروبا. Word: criesTranslation: صرخاتPronunciation:Examples:I hear children's cries coming from the dentist's clinic. أسمع صرخات أطفال قادمة من عيادة طبيب الأسنان. Word: cueTranslation: إشارتكPronunciation:Examples:When I raise my hand, that's your cue to appear. عندما أرفع يدي، فهذا إشارتك لأن تظهر. Word: cureTranslation: علاج / دواءPronunciation:Examples:Is there a cure for cancer? هل هناك علاج للسرطان ؟ They didn't find any medicine to cure this disease. لم يجدوا أي دواء لعلاج هذا المرض. Word: curiousTranslation: فضولPronunciation:Examples:We were curious to know who will be the new boss. كان لدينا فضول لمعرفة من سيكون الرئيس الجديد. Word: currentTranslation: التيارPronunciation:Examples:You can't swim against the current. لا يمكنك السباحة ضد التيار. Word: curriculumTranslation: المنهج الدراسيPronunciation:Examples:They updated the curriculum last year. لقد قاموا بتحديث المنهج الدراسي في العام الماضي. Word: curveTranslation: منعطف / ينعطفPronunciation:Examples:Slow down, there is a tight curve ahead. تمهل هناك منعطف ضيق أمامك. The road curves towards the south. الطريق ينعطف نحو الجنوب. Word: curvedTranslation: منحنيةPronunciation:Examples:I bought a new phone with a curved screen. اشتريت هاتفا جديدًا بشاشة منحنية. Word: cuteTranslation: لطيفةPronunciation:Examples:It is a cute little cat. إنها قطة صغيرة لطيفة. ===================="
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

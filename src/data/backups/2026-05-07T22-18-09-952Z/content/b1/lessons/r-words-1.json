@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b1_r_1",
+  "levelId": "lvl_b1",
+  "slug": "r-words-1",
+  "title": "Unit 32: R Words - Part 1",
+  "titleAr": "الوحدة 32: كلمات حرف R - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with R.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف R.",
+  "order": 32,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_quotations",
+      "en": "quotations",
+      "ar": "اقتباسات",
+      "pronunciation": "/kworter.Jan/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He uses a lot of quotations in his lectures.",
+          "ar": "إنه يستخدم الكثير من الاقتباسات في محاضراته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_racing",
+      "en": "racing",
+      "ar": "سباقات",
+      "pronunciation": "/'rex.sın/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you enjoy motorcycle racing?",
+          "ar": "هل تستمتع بسباقات الدراجات النارية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_range",
+      "en": "range",
+      "ar": "نطاق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is outside the range of my experience.",
+          "ar": "هذا خارج نطاق خبرتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_rare",
+      "en": "rare",
+      "ar": "نادر",
+      "pronunciation": "/rer/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He suffers from a rare disease.",
+          "ar": "إنه يعاني من مرض نادر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_rarely",
+      "en": "rarely",
+      "ar": "نادراً",
+      "pronunciation": "/'rer.li/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami is rarely seen in public lately.",
+          "ar": "نادرًا ما يُرى سامي في الأماكن العامة مؤخرًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_reaction",
+      "en": "reaction",
+      "ar": "رد فعل",
+      "pronunciation": "/ri´æk.ən/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What was the listeners' reaction?",
+          "ar": "ماذا كان رد فعل المستمعين ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_reality",
+      "en": "reality",
+      "ar": "واقع",
+      "pronunciation": "/ri´æl.ə.ţi/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He will have to face reality sooner or later.",
+          "ar": "سيتعين عليه مواجهة الواقع عاجلاً أم آجلاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_receipt",
+      "en": "receipt",
+      "ar": "إيصال",
+      "pronunciation": "/ri'si:t/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please email me the receipt for the last payment.",
+          "ar": "من فضلكم أرسلوا لي ( عبر الإيميل) إيصال الدفع الأخير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_recommendation",
+      "en": "recommendation",
+      "ar": "توصية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I followed my father's recommendation to study abroad.",
+          "ar": "اتبعت توصية والدي للدراسة في الخارج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_references",
+      "en": "references",
+      "ar": "مراجع",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can't write a research paper with no references?",
+          "ar": "لا يمكنك كتابة ورقة بحثية بدون مراجع ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_regularly",
+      "en": "regularly",
+      "ar": "بانتظام",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They meet regularly to discuss the progress of the project.",
+          "ar": "يجتمعون بانتظام لمناقشة تقدم المشروع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_rejected",
+      "en": "rejected",
+      "ar": "رفض",
+      "pronunciation": "/r1'dzekt/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The bank rejected my credit card.",
+          "ar": "رفض البنك بطاقتي الائتمانية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_relate",
+      "en": "relate",
+      "ar": "يربط",
+      "pronunciation": "/rx lext/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Try to relate the two ideas in your mind.",
+          "ar": "حاول أن تربط الفكرتين في عقلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_related",
+      "en": "related",
+      "ar": "مرتبط بـ",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your illness is related to your lifestyle.",
+          "ar": "مرضك مرتبط بنمط حياتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_relation",
+      "en": "relation",
+      "ar": "علاقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There is a relation between crime and culture.",
+          "ar": "هناك علاقة بين الجريمة والثقافة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_relatives",
+      "en": "relatives",
+      "ar": "أقارب",
+      "pronunciation": "/'rel.e.tv/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My relatives disappear when I need them.",
+          "ar": "أقاربي يختفون عندما أحتاجهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_relative",
+      "en": "relative",
+      "ar": "نسبية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What are the relative advantages of traveling?",
+          "ar": "ما هي المزايا النسبية للسفر ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_relaxed",
+      "en": "relaxed",
+      "ar": "مرتاحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She seemed relaxed before the operation.",
+          "ar": "بدت مرتاحة قبل العملية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_relaxing",
+      "en": "relaxing",
+      "ar": "مريح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I spent a relaxing week in the fields.",
+          "ar": "قضيت أسبوعًا مريحًا في الحقول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_release",
+      "en": "release",
+      "ar": "يطلق سراح / إطلاق سراح",
+      "pronunciation": "/rx li:s/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "When will they release him from prison?",
+          "ar": "متى سوف يطلقون سراحه من السجن ؟"
+        },
+        {
+          "en": "We expect an early release.",
+          "ar": "نتوقع إطلاق سراح مبكر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_reliable",
+      "en": "reliable",
+      "ar": "موثوق به",
+      "pronunciation": "/rı laz.ə.bal/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need to employ a reliable person.",
+          "ar": "أحتاج إلى توظيف شخص موثوق به."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_religion",
+      "en": "religion",
+      "ar": "دين",
+      "pronunciation": "/rx'līdz.ən/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We don't talk about religion or politics here.",
+          "ar": "نحن لا نتحدث عن الدين أو السياسة هنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_religious",
+      "en": "religious",
+      "ar": "ديني",
+      "pronunciation": "/rī līdz.es/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need to improve religious education.",
+          "ar": "نحن بحاجة إلى تحسين التعليم الديني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_remain",
+      "en": "remain",
+      "ar": "تبقى",
+      "pronunciation": "/rx mein/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Prices will remain high this month.",
+          "ar": "الأسعار سوف تبقى مرتفعة هذا الشهر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_remind",
+      "en": "Remind",
+      "ar": "ذكرني",
+      "pronunciation": "/rı maind/",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Remind me to invite Sami.",
+          "ar": "ذكرني أن أدعو سامي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "lsn_b2_m_3",
+  "levelId": "lvl_b2",
+  "slug": "m-words-3",
+  "title": "M Words - Part 3",
+  "titleAr": "كلمات حرف M - الجزء 3",
+  "description": "Learn essential B2 vocabulary starting with the letter M.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف M.",
+  "order": 40,
+  "wordCount": 16,
+  "words": [
+    {
+      "id": "w_b2_monument",
+      "en": "monument",
+      "ar": "????? ????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_moral",
+      "en": "moral",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_morals",
+      "en": "morals",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_moreover",
+      "en": "moreover",
+      "ar": "??? ????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mortgage",
+      "en": "mortgage",
+      "ar": "??? ?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mosque",
+      "en": "mosque",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_motion",
+      "en": "motion",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_motivate",
+      "en": "motivate",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_motivation",
+      "en": "motivation",
+      "ar": "????? ???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_motor",
+      "en": "motor",
+      "ar": "?????? / ?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mount",
+      "en": "mount",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_moving",
+      "en": "moving",
+      "ar": "????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_multiple",
+      "en": "multiple",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_multiply",
+      "en": "multiply",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mysterious",
+      "en": "mysterious",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_myth",
+      "en": "myth",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "id": "lsn_a2_t_2",
+  "levelId": "lvl_2",
+  "slug": "t-words-2",
+  "title": "Unit 41: T Words - Part 2",
+  "titleAr": "الوحدة 41: كلمات حرف T - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter T.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف T.",
+  "order": 41,
+  "wordCount": 17,
+  "words": [
+    {
+      "id": "w_a2_tour",
+      "en": "tour",
+      "ar": "جولة",
+      "pronunciation": "/tuer/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are there any tours of the city?",
+          "ar": "هل يوجد جولات بالمدينة : جولة : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_tourism",
+      "en": "tourism",
+      "ar": "سياحة",
+      "pronunciation": "/ tur Iz əm/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Will this affect tourism?",
+          "ar": "هل سيؤثر هذا على السياحة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_toward",
+      "en": "toward",
+      "ar": "نحو",
+      "pronunciation": "/to:rdz/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He walked toward the door.",
+          "ar": "مشى نحو الباب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_towel",
+      "en": "towel",
+      "ar": "منشفة",
+      "pronunciation": "/ tau el/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you have another towel ?",
+          "ar": "هل لديك منشفة أخرى ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_tower",
+      "en": "tower",
+      "ar": "برج",
+      "pronunciation": "/ taver/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The Eiffel Tower is made of steel.",
+          "ar": "برج إيفل مصنوع من الفولاذ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_toy",
+      "en": "toy",
+      "ar": "لعبة",
+      "pronunciation": "/tor/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He broke his new toy.",
+          "ar": "كسر لعبته الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_track",
+      "en": "track",
+      "ar": "مسار",
+      "pronunciation": "/træk/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We're on the wrong track.",
+          "ar": "نحن على المسار الخطأ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_tradition",
+      "en": "tradition",
+      "ar": "تقاليد",
+      "pronunciation": "/trə dıs.ən/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Each country has its own traditions.",
+          "ar": "كل دولة لها تقاليدها الخاصة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_traditional",
+      "en": "traditional",
+      "ar": "تقليدي",
+      "pronunciation": "/trə dışə-nəl/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is a traditional Japanese art.",
+          "ar": "هذا فن ياباني تقليدي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_train",
+      "en": "train",
+      "ar": "تدرب",
+      "pronunciation": "/trein/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The team trained hard.",
+          "ar": "الفريق تدرب بجد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_trainer",
+      "en": "trainer",
+      "ar": "مدرب",
+      "pronunciation": "/ trex-nər/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali isn't a horse trainer.",
+          "ar": "علي ليس مدرب خيول :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_training",
+      "en": "training",
+      "ar": "تدريب",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He has some training in teaching.",
+          "ar": "لديه بعض التدريب في التدريس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_transport",
+      "en": "transport",
+      "ar": "مواصلات",
+      "pronunciation": "/ træns port/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We use public transport.",
+          "ar": "نحن نستخدم المواصلات العامة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_traveler",
+      "en": "traveler",
+      "ar": "مسافر / مسافرون",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Travelers might stop at the village.",
+          "ar": "قد يتوقف المسافرون عند القرية : ربما :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_trouble",
+      "en": "trouble",
+      "ar": "مشكلة",
+      "pronunciation": "/ trab-el/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I didn't mean to cause any trouble.",
+          "ar": "لم أقصد التسبب في أي مشكلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_truck",
+      "en": "truck",
+      "ar": "شاحنة",
+      "pronunciation": "/trak/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Where can I park this truck?",
+          "ar": "أين يمكنني ركن هذه الشاحنة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_twin",
+      "en": "twin",
+      "ar": "توأم",
+      "pronunciation": "/twin/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She gave birth to twin girls.",
+          "ar": "أنجبت فتاتين توأمين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

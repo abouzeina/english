@@ -1,0 +1,61 @@
+{
+  "id": "lsn_a2_h_2",
+  "levelId": "lvl_2",
+  "slug": "h-words-2",
+  "title": "Unit 18: H Words - Part 2",
+  "titleAr": "الوحدة 18: كلمات حرف H - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter H.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف H.",
+  "order": 18,
+  "wordCount": 2,
+  "words": [
+    {
+      "id": "w_a2_huge",
+      "en": "huge",
+      "ar": "ضخمة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_h_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "China is a huge country.",
+          "ar": "الصين دولة ضخمة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_human",
+      "en": "human",
+      "ar": "البشر / بشري",
+      "pronunciation": "/hju mən/",
+      "lessonId": "lsn_a2_h_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Water is important for humans.",
+          "ar": "الماء مهم للبشر :"
+        },
+        {
+          "en": "The head is a part of the human body.",
+          "ar": "الرأس هو جزء من الجسم البشري :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

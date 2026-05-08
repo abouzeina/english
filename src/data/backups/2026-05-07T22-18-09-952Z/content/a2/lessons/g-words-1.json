@@ -1,0 +1,421 @@
+{
+  "id": "lsn_a2_g_1",
+  "levelId": "lvl_2",
+  "slug": "g-words-1",
+  "title": "Unit 16: G Words - Part 1",
+  "titleAr": "الوحدة 16: كلمات حرف G - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter G.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف G.",
+  "order": 16,
+  "wordCount": 18,
+  "words": [
+    {
+      "id": "w_a2_future",
+      "en": "future",
+      "ar": "مستقبلية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He met his future wife in the library.",
+          "ar": "التقى بزوجته المستقبلية في المكتبة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_gallery",
+      "en": "gallery",
+      "ar": "معرض فني",
+      "pronunciation": "/'gælər i/",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Where's the nearest art gallery?",
+          "ar": "أين أقرب معرض فني : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_gap",
+      "en": "gap",
+      "ar": "فجوة / ثغرة",
+      "pronunciation": "/gæp/",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are gaps in his teeth.",
+          "ar": "هناك فجوات في أسنانه : فَجوة | ثغرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_gas",
+      "en": "gas",
+      "ar": "غاز",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali cooks with gas.",
+          "ar": "علي يطبخ بالغاز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_gate",
+      "en": "gate",
+      "ar": "بوابة",
+      "pronunciation": "/gert/",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali waited outside the gate.",
+          "ar": "انتظر علي خارج البوابة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_general",
+      "en": "general",
+      "ar": "عام",
+      "pronunciation": "/'dzen rel,  dzen ər-əl/",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The general opinion is against the war",
+          "ar": "الرأي العام ضد الحرب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_gift",
+      "en": "gift",
+      "ar": "هدية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali bought his wife a gift.",
+          "ar": "اشترى علي لزوجته هدية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_goal",
+      "en": "goal",
+      "ar": "هدف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He achieved his goals.",
+          "ar": "لقد حقق أهدافه :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_god",
+      "en": "God",
+      "ar": "الله",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you believe in God?",
+          "ar": "هل تؤمن بالله تعالى : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_gold",
+      "en": "gold",
+      "ar": "ذهب / ذهبية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Gold can't buy everything.",
+          "ar": "الذهب لا يستطيع أن يشتري كل شيء :"
+        },
+        {
+          "en": "I'll buy the gold watch.",
+          "ar": "سأشتري الساعة الذهبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_golf",
+      "en": "golf",
+      "ar": "الجولف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We should play golf sometime.",
+          "ar": "يجب أن نلعب الجولف في وقت ما :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_good",
+      "en": "good",
+      "ar": "الخير",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Always do the good.",
+          "ar": "دائما افعل الخير :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_government",
+      "en": "government",
+      "ar": "حكومة",
+      "pronunciation": "/gavər mənt/",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They formed a new government.",
+          "ar": "شكلوا حكومة جديدة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_grass",
+      "en": "grass",
+      "ar": "العشب",
+      "pronunciation": "/græs/",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He sat on the grass.",
+          "ar": "جلس على العشب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_guest",
+      "en": "guest",
+      "ar": "ضيف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali greeted his guests.",
+          "ar": "رحب علي بضيوفة :"
+        },
+        {
+          "en": "They're my guests.",
+          "ar": "إنهم ضيوفي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ground",
+      "en": "ground",
+      "ar": "أرضية",
+      "pronunciation": "/graund/",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Let's find common ground.",
+          "ar": "دعونا نجد أرضية مشتركة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_guide",
+      "en": "guide",
+      "ar": "مرشد / يَهدي",
+      "pronunciation": "/gard/",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This museum needs a new guide.",
+          "ar": "هذا المتحف يحتاج إلى مرشد جديد :"
+        },
+        {
+          "en": "God guided him to Islam.",
+          "ar": "الله هداه إلى الإسلام :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_gun",
+      "en": "gun",
+      "ar": "أسلحة / سلاح ناري",
+      "pronunciation": "/gʌn/",
+      "lessonId": "lsn_a2_g_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Put those guns away.",
+          "ar": "ضع تلك الأسلحة بعيدًا : سلاح ناري :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

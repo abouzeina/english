@@ -1,21 +1,42 @@
 {
   "id": "lsn_a1_t_3",
-  "levelId": "lvl_1",
-  "title": "T Words - Part 3",
+  "levelId": "lvl_a1",
+  "title": "Unit 43: T Words - Part 3",
   "slug": "t-words-3",
-  "order": 42,
-  "wordCount": 20,
-  "titleAr": "كلمات حرف T - الجزء 3",
-  "description": "Learn essential A1 vocabulary starting with the letter T.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف T.",
+  "order": 43,
+  "wordCount": 23,
+  "titleAr": "الوحدة 43: كلمات حرف T - الجزء 3",
+  "description": "Master essential A1 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف T.",
   "words": [
+    {
+      "id": "w_a1_tonight",
+      "lessonId": "lsn_a1_t_3",
+      "en": "tonight",
+      "translation": "الليلة / هذا المساء",
+      "ar": "الليلة / هذا المساء",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's meet tonight.",
+          "ar": "دعنا نلتقي هذا المساء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/təˈnaɪt/"
+    },
     {
       "id": "w_a1_too",
       "lessonId": "lsn_a1_t_3",
       "en": "too",
       "translation": "جداً / أيضاً",
       "ar": "جداً / أيضاً",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -37,7 +58,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tuː/"
     },
     {
       "id": "w_a1_tooth",
@@ -111,7 +133,6 @@
       "en": "town",
       "translation": "بلدة",
       "ar": "بلدة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -125,7 +146,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/taʊn/"
     },
     {
       "id": "w_a1_traffic_light",
@@ -155,21 +177,26 @@
       "en": "train",
       "translation": "قطار",
       "ar": "قطار",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "The train arrived late.",
           "ar": "وصل القطار متأخراً."
+        },
+        {
+          "en": "The team trained hard.",
+          "ar": "الفريق تدرب بجد."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tɹeɪn/"
     },
     {
       "id": "w_a1_travel",
@@ -177,7 +204,6 @@
       "en": "travel",
       "translation": "يسافر / سفريات",
       "ar": "يسافر / سفريات",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -195,7 +221,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹævəl/"
     },
     {
       "id": "w_a1_trees",
@@ -203,7 +230,6 @@
       "en": "trees",
       "translation": "أشجار",
       "ar": "أشجار",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -217,7 +243,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tɹiːz/"
     },
     {
       "id": "w_a1_trip",
@@ -225,7 +252,6 @@
       "en": "trip",
       "translation": "رحلة",
       "ar": "رحلة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -239,7 +265,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tɹɪp/"
     },
     {
       "id": "w_a1_trousers",
@@ -343,7 +370,6 @@
       "en": "turn",
       "translation": "استدار / دور",
       "ar": "استدار / دور",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -361,7 +387,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tɜːn/"
     },
     {
       "id": "w_a1_tv",
@@ -457,12 +484,56 @@
       "en": "two",
       "translation": "اثنان",
       "ar": "اثنان",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "They need two more chairs.",
           "ar": "يحتاجون إلى كرسيين إضافيين."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tuː/"
+    },
+    {
+      "id": "w_b1_type",
+      "en": "Type",
+      "ar": "اكتب (يدخل بيانات)",
+      "pronunciation": "",
+      "lessonId": "lsn_a1_t_3",
+      "levelId": "lvl_a1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Type your email and press enter.",
+          "ar": "اكتب بريدك الإلكتروني واضغط على إدخال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a1_types",
+      "lessonId": "lsn_a1_t_3",
+      "en": "types",
+      "translation": "أنواع",
+      "ar": "أنواع",
+      "pronunciation": "/tarp/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like these types of games.",
+          "ar": "أحب هذه الأنواع من الألعاب."
         }
       ],
       "difficulty": "A1",

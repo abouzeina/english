@@ -1,0 +1,241 @@
+{
+  "id": "lsn_b2_j_1",
+  "levelId": "lvl_b2",
+  "slug": "j-words-1",
+  "title": "J Words - Part 1",
+  "titleAr": "كلمات حرف J - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter J.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف J.",
+  "order": 25,
+  "wordCount": 10,
+  "words": [
+    {
+      "id": "w_b2_jail",
+      "en": "jail",
+      "ar": "سجن / حبس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The criminal escaped from jail last night.",
+          "ar": "هرب المجرم من السجن الليلة الماضية."
+        },
+        {
+          "en": "The judge decided to jail the thieves.",
+          "ar": "قرر القاضي حبس اللصوص."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_jet",
+      "en": "jet",
+      "ar": "الطائرة (النفاثة)",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The passengers cheered as the pilot landed the jet perfectly.",
+          "ar": "ابتهج الركاب عندما هبط الطيار بالطائرة بشكل مثالي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_joint",
+      "en": "joint",
+      "ar": "مشترك / مفصل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He has pain in his knee joint.",
+          "ar": "يعاني من ألم في مفصل ركبته."
+        },
+        {
+          "en": "The project was a joint effort between departments.",
+          "ar": "كان المشروع جهداً مشتركاً بين الإدارات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_journalism",
+      "en": "journalism",
+      "ar": "الصحافة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She attended a conference on digital journalism.",
+          "ar": "هي حضرت مؤتمراً حول الصحافة الرقمية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_joy",
+      "en": "joy",
+      "ar": "بالبهجة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The children's laughter filled the room with joy.",
+          "ar": "ضحكات الأطفال ملأت الغرفة بالبهجة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_judgment",
+      "en": "judgment",
+      "ar": "حكم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The court will deliver its judgment tomorrow.",
+          "ar": "سوف تصدر المحكمة حكمها غدًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_junior",
+      "en": "junior",
+      "ar": "المبتدئون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The junior members of the team will meet soon.",
+          "ar": "سيجتمع أعضاء الفريق المبتدئون قريباً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_jury",
+      "en": "jury",
+      "ar": "هيئة المحلفين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The judge thanked the jury for their service.",
+          "ar": "شكر القاضي هيئة المحلفين على خدمتهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_justice",
+      "en": "justice",
+      "ar": "العدالة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Education is key to social justice.",
+          "ar": "التعليم هو أساس العدالة الاجتماعية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_justify",
+      "en": "justify",
+      "ar": "يبرر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_j_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The author used a lot of data to justify his theory.",
+          "ar": "استخدم المؤلف الكثير من البيانات ليبرر نظريته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

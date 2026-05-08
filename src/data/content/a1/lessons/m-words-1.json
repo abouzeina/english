@@ -1,36 +1,14 @@
 {
   "id": "lsn_a1_m_1",
-  "levelId": "lvl_1",
-  "title": "M Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 24: M Words - Part 1",
   "slug": "m-words-1",
   "order": 24,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف M - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter M.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف M.",
+  "wordCount": 18,
+  "titleAr": "الوحدة 24: كلمات حرف M - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter M.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف M.",
   "words": [
-    {
-      "id": "w_a1_lunch",
-      "lessonId": "lsn_a1_m_1",
-      "en": "lunch",
-      "translation": "غداء",
-      "ar": "غداء",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Lunch is ready; come and eat.",
-          "ar": "الغداء جاهز؛ تعالوا وتناولوا الطعام."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_machine",
       "lessonId": "lsn_a1_m_1",
@@ -103,7 +81,6 @@
       "en": "make",
       "translation": "يُعد / يجعل",
       "ar": "يُعد / يجعل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -113,15 +90,22 @@
         {
           "en": "The news made her happy.",
           "ar": "الأخبار جعلتها سعيدة."
+        },
+        {
+          "en": "I need to know the make of this car.",
+          "ar": "أريد أن أعرف طراز هذه السيارة."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/meɪk/"
     },
     {
       "id": "w_a1_man",
@@ -129,7 +113,6 @@
       "en": "man",
       "translation": "رجل",
       "ar": "رجل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -143,7 +126,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/[mɛn]/"
     },
     {
       "id": "w_a1_many",
@@ -151,7 +135,6 @@
       "en": "many",
       "translation": "العديد / كم عدد",
       "ar": "العديد / كم عدد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -169,7 +152,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈmæni/"
     },
     {
       "id": "w_a1_map",
@@ -177,7 +161,6 @@
       "en": "map",
       "translation": "خريطة",
       "ar": "خريطة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -191,7 +174,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/mæp/"
     },
     {
       "id": "w_a1_march",
@@ -205,12 +189,18 @@
         {
           "en": "March comes after February.",
           "ar": "يأتي شهر مارس بعد شهر فبراير."
+        },
+        {
+          "en": "انضم آلاف الأشخاص إلى مسيرة الاحتجاج",
+          "ar": "The soldiers marched through the streets of the city."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -221,21 +211,26 @@
       "en": "market",
       "translation": "سوق",
       "ar": "سوق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "They sell flowers at the market.",
           "ar": "يبيعون الزهور في السوق."
+        },
+        {
+          "en": "We need new ways to market our services.",
+          "ar": "نحن بحاجة إلى طرق جديدة لتسويق خدماتنا."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɑːkɪt/"
     },
     {
       "id": "w_a1_married",
@@ -297,12 +292,17 @@
         {
           "en": "The weather is perfect in May.",
           "ar": "الطقس مثالي في شهر مايو."
+        },
+        {
+          "en": "It may or may not be true.",
+          "ar": "قد يكون صحيحا وقد لا يكون :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -335,7 +335,6 @@
       "en": "me",
       "translation": "ني (ضمير مفعول به)",
       "ar": "ني (ضمير مفعول به)",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -349,7 +348,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/miː/"
     },
     {
       "id": "w_a1_meal",
@@ -379,7 +379,6 @@
       "en": "mean",
       "translation": "يقصد",
       "ar": "يقصد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -393,7 +392,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/miːn/"
     },
     {
       "id": "w_a1_meaning",
@@ -401,7 +401,6 @@
       "en": "meaning",
       "translation": "معنى",
       "ar": "معنى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -415,7 +414,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈmiːnɪŋ/"
     },
     {
       "id": "w_a1_meat",
@@ -429,142 +429,6 @@
         {
           "en": "I prefer chicken over meat.",
           "ar": "أنا أفضل الدجاج على اللحم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_meet",
-      "lessonId": "lsn_a1_m_1",
-      "en": "meet",
-      "translation": "يقابل",
-      "ar": "يقابل",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Did you meet the new teacher?",
-          "ar": "هل قابلت المعلمة الجديدة؟"
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_meeting",
-      "lessonId": "lsn_a1_m_1",
-      "en": "meeting",
-      "translation": "اجتماع / لقاء",
-      "ar": "اجتماع / لقاء",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The meeting starts at 3 pm.",
-          "ar": "يبدأ الاجتماع في الساعة 3 عصراً."
-        },
-        {
-          "en": "The meeting felt like a dream.",
-          "ar": "بدأ اللقاء وكأنه حلم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_member",
-      "lessonId": "lsn_a1_m_1",
-      "en": "member",
-      "translation": "عضو",
-      "ar": "عضو",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I'm a member of this group.",
-          "ar": "أنا عضو في هذه المجموعة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_menu",
-      "lessonId": "lsn_a1_m_1",
-      "en": "menu",
-      "translation": "قائمة الطعام",
-      "ar": "قائمة الطعام",
-      "pronunciation": "/men-ju/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Could I see the menu, please?",
-          "ar": "هل يمكنني رؤية قائمة الطعام من فضلك؟"
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_message",
-      "lessonId": "lsn_a1_m_1",
-      "en": "message",
-      "translation": "رسالة",
-      "ar": "رسالة",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Did you get my message?",
-          "ar": "هل تلقيت رسالتي؟"
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_meters",
-      "lessonId": "lsn_a1_m_1",
-      "en": "meters",
-      "translation": "أمتار",
-      "ar": "أمتار",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The pool is 25 meters long.",
-          "ar": "يبلغ طول حوض السباحة 25 متراً."
         }
       ],
       "difficulty": "A1",

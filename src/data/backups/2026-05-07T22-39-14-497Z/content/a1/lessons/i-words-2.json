@@ -1,0 +1,241 @@
+{
+  "id": "lsn_a1_i_2",
+  "levelId": "lvl_1",
+  "title": "I Words - Part 2",
+  "slug": "i-words-2",
+  "order": 20,
+  "wordCount": 10,
+  "titleAr": "كلمات حرف I - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter I.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف I.",
+  "words": [
+    {
+      "id": "w_a1_prepare",
+      "lessonId": "lsn_a1_i_2",
+      "en": "prepare",
+      "translation": "تجهيز / يجهز",
+      "ar": "تجهيز / يجهز",
+      "pronunciation": "/pri'peər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I am preparing my bag.",
+          "ar": "أنا أجهز حقيبتي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_present",
+      "lessonId": "lsn_a1_i_2",
+      "en": "present",
+      "translation": "هدية / حالي",
+      "ar": "هدية / حالي",
+      "pronunciation": "/ prez ənt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My wife gave me a present.",
+          "ar": "أعطتني زوجتي هدية."
+        },
+        {
+          "en": "The present weather is warm.",
+          "ar": "الطقس الحالي دافئ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_pretty",
+      "lessonId": "lsn_a1_i_2",
+      "en": "pretty",
+      "translation": "جميل / جداً / إلى حد ما",
+      "ar": "جميل / جداً / إلى حد ما",
+      "pronunciation": "/ prit-i/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You are pretty today.",
+          "ar": "أنت جميلة اليوم."
+        },
+        {
+          "en": "The movie was pretty good.",
+          "ar": "الفيلم جيد جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_price",
+      "lessonId": "lsn_a1_i_2",
+      "en": "price",
+      "translation": "سعر",
+      "ar": "سعر",
+      "pronunciation": "/prais/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The price is too high.",
+          "ar": "السعر مرتفع للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_probably",
+      "lessonId": "lsn_a1_i_2",
+      "en": "probably",
+      "translation": "من المحتمل / على الأرجح",
+      "ar": "من المحتمل / على الأرجح",
+      "pronunciation": "/'pra be-bli/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She is probably at home.",
+          "ar": "إنها على الأرجح في المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_problem",
+      "lessonId": "lsn_a1_i_2",
+      "en": "problem",
+      "translation": "مشكلة",
+      "ar": "مشكلة",
+      "pronunciation": "/'pra bləm/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I have a small problem.",
+          "ar": "لدي مشكلة صغيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_product",
+      "lessonId": "lsn_a1_i_2",
+      "en": "product",
+      "translation": "منتج",
+      "ar": "منتج",
+      "pronunciation": "/ pra dəkt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This product is very useful.",
+          "ar": "هذا المنتج مفيد للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_program",
+      "lessonId": "lsn_a1_i_2",
+      "en": "program",
+      "translation": "برنامج",
+      "ar": "برنامج",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I missed my favorite program.",
+          "ar": "فاتني برنامجي المفضل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_project",
+      "lessonId": "lsn_a1_i_2",
+      "en": "project",
+      "translation": "مشروع",
+      "ar": "مشروع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We started a new project.",
+          "ar": "بدأنا مشروعاً جديداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_purple",
+      "lessonId": "lsn_a1_i_2",
+      "en": "purple",
+      "translation": "أرجواني",
+      "ar": "أرجواني",
+      "pronunciation": "/'p3rpəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The purple flower is pretty.",
+          "ar": "الزهرة الأرجوانية جميلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

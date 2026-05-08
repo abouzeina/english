@@ -1,0 +1,485 @@
+{
+  "id": "lsn_c1_t_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 44: T Words - Part 2",
+  "slug": "t-words-2",
+  "order": 44,
+  "wordCount": 21,
+  "titleAr": "الوحدة 44: كلمات حرف T - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف T.",
+  "words": [
+    {
+      "id": "w_c1_thread",
+      "en": "thread",
+      "ar": "خيط",
+      "pronunciation": "θred",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استخدمت إبرة وخيطاً لإصلاح القميص.",
+          "ar": "I lost the thread of the conversation after the interruption."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_threshold",
+      "en": "threshold",
+      "ar": "عتبة / حد أدنى",
+      "pronunciation": "ˈθreʃhəʊld",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وقفت على عتبة المنزل.",
+          "ar": "The company's income is below the tax threshold."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_thrilled",
+      "en": "thrilled",
+      "ar": "مبتهج / شديد الحماس",
+      "pronunciation": "θrɪld",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كنت مبتهجاً لسماع الأخبار الجيدة.",
+          "ar": "She was absolutely thrilled with her birthday present."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_thrive",
+      "en": "thrive",
+      "ar": "يزدهر / ينمو بقوة",
+      "pronunciation": "θraɪv",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يستمر العمل في الازدهار رغم الأزمة الاقتصادية.",
+          "ar": "Some plants thrive in dry conditions."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_tide",
+      "en": "tide",
+      "ar": "مد وجزر / اتجاه",
+      "pronunciation": "taɪd",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المد قادم، لذا يجب أن ننقل أشياءنا.",
+          "ar": "There is a growing tide of public opinion against the new law."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_tighten",
+      "en": "tighten",
+      "ar": "يشد / يضيق",
+      "pronunciation": "ˈtaɪtn",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الحكومة تشديد التدابير الأمنية.",
+          "ar": "You should tighten the screws to make the chair stable."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_timber",
+      "en": "timber",
+      "ar": "خشب البناء",
+      "pronunciation": "ˈtɪmbə(r)",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم بناء المنزل باستخدام خشب البناء المحلي.",
+          "ar": "The company exports timber to several countries."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_timely",
+      "en": "timely",
+      "ar": "في الوقت المناسب",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان التحذير في وقت مناسب جداً وأنقذ العديد من الأرواح.",
+          "ar": "We appreciate your timely response to our request."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtaɪmli/"
+    },
+    {
+      "id": "w_c1_tobacco",
+      "en": "tobacco",
+      "ar": "تبغ",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "زادت الحكومة الضريبة على منتجات التبغ.",
+          "ar": "He decided to quit smoking tobacco for health reasons."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/təˈbækoʊ/"
+    },
+    {
+      "id": "w_c1_tolerance",
+      "en": "tolerance",
+      "ar": "تسامح / تحمل",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تشتهر المدينة بتسامحها الديني.",
+          "ar": "He has a high tolerance for pain."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɒləɹəns/"
+    },
+    {
+      "id": "w_c1_tolerate",
+      "en": "tolerate",
+      "ar": "يتسامح / يتحمل",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لن تتسامح المدرسة مع أي شكل من أشكال التنمر.",
+          "ar": "I can't tolerate the noise from the construction site anymore."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɒl.ə.ɹeɪt/"
+    },
+    {
+      "id": "w_c1_toll",
+      "en": "toll",
+      "ar": "ضريبة / عدد الضحايا / رسوم عبور",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يستمر عدد ضحايا الزلزال في الارتفاع.",
+          "ar": "You have to pay a toll to use this bridge."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/toʊl/"
+    },
+    {
+      "id": "w_c1_torture",
+      "en": "torture",
+      "ar": "تعذيب / يعذب",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعرض السجين لتعذيب جسدي وعقلي.",
+          "ar": "It was torture to sit through the long and boring meeting."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɔːt͡ʃə(ɹ)/"
+    },
+    {
+      "id": "w_c1_toss",
+      "en": "toss",
+      "ar": "يرمي بخفة / يقذف",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "رمى الكرة لصديقه بخفة.",
+          "ar": "She tossed the salad with some olive oil and lemon."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tɑs/"
+    },
+    {
+      "id": "w_c1_total",
+      "en": "total",
+      "ar": "يبلغ إجماليه",
+      "pronunciation": "ˈtəʊtl",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يبلغ إجمالي التكاليف أكثر من خمسة آلاف دولار.",
+          "ar": "The number of victims totals twelve so far."
+        },
+        {
+          "en": "The total is one hundred riyal.",
+          "ar": "المجموع مئة ريال."
+        },
+        {
+          "en": "What are your total sales last month?",
+          "ar": "ما هو إجمالي مبيعاتكم الشهر الماضي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_toxic",
+      "en": "toxic",
+      "ar": "سام",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المواد الكيميائية سامة للغاية للبشر والحيوانات.",
+          "ar": "They are working in a toxic environment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɒk.sɪk/"
+    },
+    {
+      "id": "w_c1_trademark",
+      "en": "trademark",
+      "ar": "علامة تجارية",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سجلت الشركة شعارها الجديد كعلامة تجارية.",
+          "ar": "His sense of humor is his personal trademark."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹeɪdmɑː(ɹ)k/"
+    },
+    {
+      "id": "w_c1_trail",
+      "en": "trail",
+      "ar": "ممر / يتتبع أثر",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يؤدي ممر المشي إلى قمة الجبل.",
+          "ar": "The police followed the trail of the suspect."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tɹeɪl/"
+    },
+    {
+      "id": "w_c1_trailer",
+      "en": "trailer",
+      "ar": "مقطورة / إعلان فيلم",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت الشاحنة تسحب مقطورة كبيرة مليئة بالبضائع.",
+          "ar": "I saw the trailer for the new movie yesterday."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹeɪlə(ɹ)/"
+    },
+    {
+      "id": "w_c1_transaction",
+      "en": "transaction",
+      "ar": "معاملة (تجارية)",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمت المعاملة عبر الإنترنت بنجاح.",
+          "ar": "All financial transactions are recorded in the system."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tɹænˈzækʃən/"
+    },
+    {
+      "id": "w_c1_transcript",
+      "en": "transcript",
+      "ar": "نسخة / سجل الدرجات",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك تقديم نسخة رسمية من سجل درجاتك.",
+          "ar": "The court published a transcript of the trial."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹænskɹɪpt/"
+    }
+  ]
+}

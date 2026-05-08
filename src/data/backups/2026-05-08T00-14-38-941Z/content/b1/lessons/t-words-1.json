@@ -1,0 +1,575 @@
+{
+  "id": "lsn_b1_t_1",
+  "levelId": "lvl_b1",
+  "slug": "t-words-1",
+  "title": "Unit 39: T Words - Part 1",
+  "titleAr": "الوحدة 39: كلمات حرف T - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with T.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف T.",
+  "order": 39,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_symptoms",
+      "en": "symptoms",
+      "ar": "أعراض",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "(A): What are your symptoms? (B): A headache.",
+          "ar": "( أ ) : ما هي الأعراض التي تعاني منها ؟ : ( ب ) : صداع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tail",
+      "en": "tail",
+      "ar": "ذيله / ذيل",
+      "pronunciation": "/texl/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The dog bit his tail.",
+          "ar": "عض الكلب ذيله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_talent",
+      "en": "talent",
+      "ar": "مواهب",
+      "pronunciation": "/'tæl ənt/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There is a talent competition on TV right now.",
+          "ar": "هناك مسابقة مواهب على التلفاز الآن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_talented",
+      "en": "talented",
+      "ar": "موهوب",
+      "pronunciation": "/'tæl en-trd/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your son is talented and creative in drawing.",
+          "ar": "ابنك موهوب ومبدع في الرسم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tape",
+      "en": "tape",
+      "ar": "شريط لاصق",
+      "pronunciation": "/texp/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need a double - sided tape.",
+          "ar": "أحتاج إلى شريط لاصق أبو وجهين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tax",
+      "en": "tax",
+      "ar": "ضريبة / يفرض ضرائب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is your company's profits after tax?",
+          "ar": "ما هي أرباح شركتك بعد الضريبة ؟"
+        },
+        {
+          "en": "The government wants to tax the rich.",
+          "ar": "الحكومة تريد أن تفرض ضرائب على الأغنياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_technical",
+      "en": "technical",
+      "ar": "فني",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The technical support is available 24 hours.",
+          "ar": "الدعم الفني متاح 24 ساعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_techniques",
+      "en": "techniques",
+      "ar": "أسلوب فني / تقنية",
+      "pronunciation": "/tek'nik/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We used advanced techniques to collect data.",
+          "ar": "استخدمنا طرق متقدمة لجمع البيانات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tend",
+      "en": "tend",
+      "ar": "يميل إلى",
+      "pronunciation": "/tend/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I tend to agree with your view.",
+          "ar": "أنا أميل إلى الاتفاق مع وجهة نظرك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tent",
+      "en": "tent",
+      "ar": "خيمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who will put up the tent?",
+          "ar": "من الذي سوف ينصب الخيمة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_that",
+      "en": "that",
+      "ar": "لهذه الدرجة / إلى هذا الحد",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It is that simple.",
+          "ar": "الأمر بهذه البساطة."
+        },
+        {
+          "en": "He never expected to be quite this successful.",
+          "ar": "لم يتوقع أبدًا أن يكون ناجحًا إلى هذا الحد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_theirs",
+      "en": "theirs",
+      "ar": "ملكهم / جيشهم",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is that our army or theirs?",
+          "ar": "هل هذا جيشنا أم جيشهم ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_theme",
+      "en": "theme",
+      "ar": "الفكرة الرئيسية",
+      "pronunciation": "/0im/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the theme of this novel?",
+          "ar": "ما هي الفكرة الرئيسية من هذه الرواية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_theory",
+      "en": "theory",
+      "ar": "نظرية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can you prove your theory?",
+          "ar": "هل تستطيع أن تثبت نظريتك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_therefore",
+      "en": "therefore",
+      "ar": "إذن",
+      "pronunciation": "/'deər fər/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I think, therefore I am.",
+          "ar": "أنا أفكر، إذن أنا موجود."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_though",
+      "en": "Though",
+      "ar": "على الرغم من / لكن",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Though she has many friends, she feels lonely.",
+          "ar": "على الرغم من أن لديها العديد من الأصدقاء ، إلا أنها تشعر بالوحدة."
+        },
+        {
+          "en": "It is an ancient book you can read it though.",
+          "ar": "إنه كتاب قديم، لكن يمكنك قراءته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_throat",
+      "en": "throat",
+      "ar": "حلق / حنجرة",
+      "pronunciation": "/erout/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need to drink my throat is dry.",
+          "ar": "أنا بحاجة للشرب، حلقي ناشف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_throughout",
+      "en": "throughout",
+      "ar": "طوال / عبر",
+      "pronunciation": "/ eru aut/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The library is open daily throughout the year.",
+          "ar": "المكتبة مفتوحة يوميًا طوال العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tight",
+      "en": "tight",
+      "ar": "ضيق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can't wear these pants they are too tight.",
+          "ar": "لا يمكنني ارتداء هذا البنطلون، إنه ضيق جدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_till",
+      "en": "till",
+      "ar": "حتى",
+      "pronunciation": "/txl/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We will celebrate till morning.",
+          "ar": "سنحتفل حتى الصباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tin",
+      "en": "tin",
+      "ar": "علبة (معدنية)",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Be careful when you hold that tin of paint.",
+          "ar": "كن حذرًا عندما تحمل علبة الطلاء تلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tiny",
+      "en": "tiny",
+      "ar": "ضئيلة / صغير جداً",
+      "pronunciation": "/ tar-ni/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can't eat but a tiny amount of food.",
+          "ar": "لا أستطيع أن آكل إلا كمية ضئيلة من الطعام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tipped",
+      "en": "tipped",
+      "ar": "إكرامية",
+      "pronunciation": "/txp/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I tipped the waiter already.",
+          "ar": "لقد أعطيت النادل إكرامية بالفعل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_toes",
+      "en": "toes",
+      "ar": "أصابع قدم",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My toes are frozen.",
+          "ar": "أصابع قدمي متجمدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tongue",
+      "en": "tongue",
+      "ar": "لسان",
+      "pronunciation": "/τη/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He bit his tongue while he was eating.",
+          "ar": "عض لسانه بينما كان يأكل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

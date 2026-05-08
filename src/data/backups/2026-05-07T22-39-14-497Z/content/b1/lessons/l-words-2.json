@@ -1,0 +1,105 @@
+{
+  "id": "lsn_b1_l_2",
+  "levelId": "lvl_b1",
+  "slug": "l-words-2",
+  "title": "Unit 23: L Words - Part 2",
+  "titleAr": "الوحدة 23: كلمات حرف L - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with L.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف L.",
+  "order": 23,
+  "wordCount": 4,
+  "words": [
+    {
+      "id": "w_b1_locate",
+      "en": "locate",
+      "ar": "يحدد مكان / يقع",
+      "pronunciation": "/'lou-kext/",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We are trying to locate the missing soldier.",
+          "ar": "نحاول أن نحدد مكان الجندي المفقود."
+        },
+        {
+          "en": "The building is located in front of the lake.",
+          "ar": "المبنى يقع أمام البحيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_location",
+      "en": "location",
+      "ar": "مكان",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They meet weekly in a secret location.",
+          "ar": "يجتمعون أسبوعيًا في مكان سري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_lonely",
+      "en": "lonely",
+      "ar": "وحدة / وحيدة",
+      "pronunciation": "/'loun-li/",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The queen felt lonely in the castle.",
+          "ar": "شعرت الملكة بالوحدة في القلعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_loss",
+      "en": "loss",
+      "ar": "فقدان",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I want to report the loss of an electric bike.",
+          "ar": "أريد الإبلاغ عن فقدان دراجة كهربائية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

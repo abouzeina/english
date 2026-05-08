@@ -1,0 +1,105 @@
+{
+  "id": "lsn_b1_y_1",
+  "levelId": "lvl_b1",
+  "slug": "y-words-1",
+  "title": "Unit 45: Y Words - Part 1",
+  "titleAr": "الوحدة 45: كلمات حرف Y - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with Y.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف Y.",
+  "order": 45,
+  "wordCount": 4,
+  "words": [
+    {
+      "id": "w_b1_written",
+      "en": "written",
+      "ar": "كتابي / مكتوب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_y_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have a written test tomorrow.",
+          "ar": "لدي اختبار كتابي غدًا."
+        },
+        {
+          "en": "My name is written wrong.",
+          "ar": "اسمي مكتوب بشكل خاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_yard",
+      "en": "yard",
+      "ar": "فناء / حوش",
+      "pronunciation": "/jard/",
+      "lessonId": "lsn_b1_y_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We entered the yard through the back gate.",
+          "ar": "دخلنا الفناء عبر البوابة الخلفية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_young",
+      "en": "young",
+      "ar": "صغارها",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_y_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We watched it while it was carrying its young on its back.",
+          "ar": "شاهدناها بينما كانت تحمل صغارها على ظهرها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_youth",
+      "en": "youth",
+      "ar": "شبابي",
+      "pronunciation": "/jue/",
+      "lessonId": "lsn_b1_y_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I played basketball during my youth.",
+          "ar": "لعبت كرة السلة خلال شبابي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

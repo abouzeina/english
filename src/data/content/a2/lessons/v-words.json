@@ -1,0 +1,145 @@
+{
+  "id": "lsn_a2_v",
+  "levelId": "lvl_a2",
+  "title": "Unit 42: V Words",
+  "slug": "v-words",
+  "order": 42,
+  "wordCount": 6,
+  "titleAr": "الوحدة 42: كلمات حرف V",
+  "description": "Master essential A2 vocabulary starting with the letter V.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف V.",
+  "words": [
+    {
+      "id": "w_a2_valley",
+      "en": "valley",
+      "ar": "وادي",
+      "pronunciation": "/val-i/",
+      "lessonId": "lsn_a2_v",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The valley is getting narrow",
+          "ar": "الوادي يصبح ضيقًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_van",
+      "en": "van",
+      "ar": "حافلة صغيرة",
+      "pronunciation": "/væn/",
+      "lessonId": "lsn_a2_v",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed spent the night in his van.",
+          "ar": "أمضى أحمد الليلة في حافلته الصغيرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_variety",
+      "en": "variety",
+      "ar": "تشكيلة",
+      "pronunciation": "/və'rarı ti/",
+      "lessonId": "lsn_a2_v",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They are made in a variety of sizes.",
+          "ar": "تم صنعها في تشكيلة من الأحجام : تشكيلة من بعض الأشياء أو الأشخاص :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_vehicle",
+      "en": "vehicle",
+      "ar": "مركبة",
+      "pronunciation": "/ vi-r-kəl/",
+      "lessonId": "lsn_a2_v",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My father owns three vehicles.",
+          "ar": "والدي يمتلك ثلاث مركبات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_virus",
+      "en": "virus",
+      "ar": "فيروس",
+      "pronunciation": "/'var-res/",
+      "lessonId": "lsn_a2_v",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Cold weather does not kill the virus.",
+          "ar": "الطقس البارد لا يقتل الفيروس :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_voice",
+      "en": "voice",
+      "ar": "صوت / أصوات",
+      "pronunciation": "/vǝrs/",
+      "lessonId": "lsn_a2_v",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I heard voices outside.",
+          "ar": "سمعت أصواتًا في الخارج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "id": "lsn_c1_s_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 39: S Words - Part 2",
+  "slug": "s-words-2",
+  "order": 39,
+  "wordCount": 24,
+  "titleAr": "الوحدة 39: كلمات حرف S - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_c1_sexuality",
+      "en": "sexuality",
+      "ar": "حياة جنسية / ميول جنسية",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يستكشف الكتاب موضوعات الهوية والميول الجنسية",
+          "ar": "She is very open about her sexuality."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɛksjuˈælɪti/"
+    },
+    {
+      "id": "w_c1_shareholder",
+      "en": "shareholder",
+      "ar": "مساهم / صاحب أسهم",
+      "pronunciation": "ˈʃeəhəʊldə(r)",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صوت المساهمون ضد الاندماج",
+          "ar": "The company is committed to increasing value for its shareholders."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_shatter",
+      "en": "shatter",
+      "ar": "يتحطم / يهشم",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحطم الزجاج إلى ألف قطعة",
+          "ar": "The news shattered her hopes for the future."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈʃæt.ə(ɹ)/"
+    },
+    {
+      "id": "w_c1_shed",
+      "en": "shed",
+      "ar": "يسقط / يذرف / كوخ",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تسقط العديد من الأشجار أوراقها في الخريف",
+          "ar": "She shed tears of joy when she heard the news."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ʃɛd/"
+    },
+    {
+      "id": "w_c1_sheer",
+      "en": "sheer",
+      "ar": "محض / خالص / حاد (ميل)",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان نجاح المشروع بسبب العمل الشاق المحض",
+          "ar": "The mountain rose in a sheer cliff from the sea."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈʃɪə/"
+    },
+    {
+      "id": "w_c1_shipping",
+      "en": "shipping",
+      "ar": "شحن / ملاحة",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تكلفة الشحن غير مشمولة في السعر",
+          "ar": "The port is a major center for international shipping."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈʃɪpɪŋ/"
+    },
+    {
+      "id": "w_c1_slam",
+      "en": "slam",
+      "ar": "يغلق بقوة (يرزع) / ينتقد بشدة",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "رزع الباب عندما غادر الغرفة",
+          "ar": "The critics slammed the new movie for its poor script."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/slæm/"
+    },
+    {
+      "id": "w_c1_slap",
+      "en": "slap",
+      "ar": "يصفع / صفعة",
+      "pronunciation": "slæp",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صفعته على وجهه بعد أن أهانها",
+          "ar": "The judge gave him a slap on the wrist for the minor offense."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_slash",
+      "en": "slash",
+      "ar": "يخفض بشكل كبير / يمزق بسلاح حاد",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الشركة خفض أسعارها بشكل كبير لجذب المزيد من العملاء",
+          "ar": "Someone had slashed the tires of his car."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/slaʃ/"
+    },
+    {
+      "id": "w_c1_slavery",
+      "en": "slavery",
+      "ar": "عبودية",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كافح الكثير من الناس من أجل إلغاء العبودية.",
+          "ar": "Modern forms of slavery still exist in some parts of the world."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsleɪvəɹi/"
+    },
+    {
+      "id": "w_c1_slot",
+      "en": "slot",
+      "ar": "فتحة / خانة زمنية",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وضع عملة معدنية في فتحة الآلة.",
+          "ar": "The show has been moved to a later time slot."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/slɒt/"
+    },
+    {
+      "id": "w_c1_smash",
+      "en": "smash",
+      "ar": "يحطم / يهشم",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اضطر إلى تحطيم النافذة للدخول إلى المنزل.",
+          "ar": "The waves smash against the rocks during the storm."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/smæʃ/"
+    },
+    {
+      "id": "w_c1_snap",
+      "en": "snap",
+      "ar": "يكسر بسرعة / يفرقع",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "انكسر الغصن الجاف تحت ثقله.",
+          "ar": "He snapped his fingers to get the waiter's attention."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/snæp/"
+    },
+    {
+      "id": "w_c1_soak",
+      "en": "soak",
+      "ar": "ينقع / يغمر",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك نقع الفاصوليا طوال الليل قبل الطهي.",
+          "ar": "His clothes were soaked through by the heavy rain."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səʊk/"
+    },
+    {
+      "id": "w_c1_soar",
+      "en": "soar",
+      "ar": "يحلق / يرتفع عالياً",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأ النسر يحلق عالياً فوق الجبال.",
+          "ar": "Stock prices are expected to soar next month."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɔː/"
+    },
+    {
+      "id": "w_c1_socialist",
+      "en": "socialist",
+      "ar": "اشتراكي",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمتلك الحزب مبادئ اشتراكية قوية.",
+          "ar": "He joined a socialist organization during his university years."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsəʊʃəlɪst/"
+    },
+    {
+      "id": "w_c1_sole",
+      "en": "sole",
+      "ar": "وحيد / منفرد",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الناجي الوحيد من تحطم الطائرة.",
+          "ar": "The company is under the sole management of the CEO."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səʊl/"
+    },
+    {
+      "id": "w_c1_solely",
+      "en": "solely",
+      "ar": "فقط / حصرياً",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اعتمد القرار حصرياً على العوامل الاقتصادية.",
+          "ar": "He is solely responsible for the success of the project."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsəʊl.li/"
+    },
+    {
+      "id": "w_c1_solicitor",
+      "en": "solicitor",
+      "ar": "محامٍ",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك استشارة محامٍ قبل توقيع العقد.",
+          "ar": "The solicitor prepared all the necessary legal documents."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səˈlɪsɪtə/"
+    },
+    {
+      "id": "w_c1_solidarity",
+      "en": "solidarity",
+      "ar": "تضامن",
+      "pronunciation": "ˌsɒlɪˈdærəti",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أظهر المجتمع تضامناً مع الضحايا.",
+          "ar": "Workers went on strike in solidarity with their colleagues."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_solo",
+      "en": "solo",
+      "ar": "منفرد / فردي",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أدت رقصة منفردة على المسرح.",
+          "ar": "The pilot completed his first solo flight yesterday."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsoʊ.loʊ/"
+    },
+    {
+      "id": "w_c1_sovereignty",
+      "en": "sovereignty",
+      "ar": "سيادة",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قاتلت الأمة بجد لحماية سيادتها.",
+          "ar": "The treaty recognizes the sovereignty of each state."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɒv.ɹən.ti/"
+    },
+    {
+      "id": "w_c1_spam",
+      "en": "spam",
+      "ar": "رسائل مزعجة",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صندوق الوارد الخاص بي مليء برسائل البريد الإلكتروني المزعجة غير المرغوب فيها.",
+          "ar": "The filter helps to block most of the spam."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈspæm/"
+    },
+    {
+      "id": "w_c1_span",
+      "en": "span",
+      "ar": "يمتد / مدى",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "امتدت حياته المهنية لأكثر من أربعين عاماً.",
+          "ar": "The bridge has a span of several hundred meters."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/spæn/"
+    }
+  ]
+}

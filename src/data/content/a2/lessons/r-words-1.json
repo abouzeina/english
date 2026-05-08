@@ -1,41 +1,18 @@
 {
   "id": "lsn_a2_r_1",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 32: R Words - Part 1",
   "slug": "r-words-1",
-  "title": "Unit 33: R Words - Part 1",
-  "titleAr": "الوحدة 33: كلمات حرف R - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter R.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف R.",
-  "order": 33,
-  "wordCount": 25,
+  "order": 32,
+  "wordCount": 24,
+  "titleAr": "الوحدة 32: كلمات حرف R - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف R.",
   "words": [
-    {
-      "id": "w_a2_quickly",
-      "en": "quickly",
-      "ar": "بسرعة",
-      "pronunciation": "/'kwik-li/",
-      "lessonId": "lsn_a2_r_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He can move quietly and quickly.",
-          "ar": "يمكنه أن يتحرك بهدوء وبسرعة :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_race",
       "en": "race",
       "ar": "سباق / يتسابق",
-      "pronunciation": "",
       "lessonId": "lsn_a2_r_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -55,7 +32,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɹeɪs/"
     },
     {
       "id": "w_a2_railway",
@@ -105,7 +83,6 @@
       "id": "w_a2_rate",
       "en": "rate",
       "ar": "معدل",
-      "pronunciation": "",
       "lessonId": "lsn_a2_r_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -121,7 +98,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɹeɪt/"
     },
     {
       "id": "w_a2_rather",

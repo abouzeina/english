@@ -1,0 +1,579 @@
+{
+  "id": "lsn_b1_e_2",
+  "levelId": "lvl_b1",
+  "slug": "e-words-2",
+  "title": "Unit 13: E Words - Part 2",
+  "titleAr": "الوحدة 13: كلمات حرف E - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with E.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف E.",
+  "order": 13,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_entertainment",
+      "en": "entertainment",
+      "ar": "ترفيه",
+      "pronunciation": "/ en-tər tezn mənt/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What should we do for entertainment?",
+          "ar": "ماذا يجب أن نفعل من أجل الترفيه ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_entrance",
+      "en": "entrance",
+      "ar": "مدخل",
+      "pronunciation": "/'en-trans/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Omar was running towards the entrance.",
+          "ar": "كان عمر يركض نحو المدخل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_entry",
+      "en": "entry",
+      "ar": "دخول",
+      "pronunciation": "/ en-tri/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Entry is free for members and guests.",
+          "ar": "الدخول مجاني للأعضاء والضيوف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_environmental",
+      "en": "environmental",
+      "ar": "بيئية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We must pay attention to environmental problems.",
+          "ar": "يجب أن ننتبه إلى المشاكل البيئية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_episode",
+      "en": "episode",
+      "ar": "حلقة",
+      "pronunciation": "/'epe soud/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I missed the last episode of that series.",
+          "ar": "فاتتني الحلقة الأخيرة من هذا المسلسل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_equal",
+      "en": "equal",
+      "ar": "متساوي / يساوي",
+      "pronunciation": "/'i-kwal/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I divided the cake into three equal parts.",
+          "ar": "قسمت الكيكة إلى ثلاثة أجزاء متساوية."
+        },
+        {
+          "en": "Five and five equals ten.",
+          "ar": "خمسة وخمسة يساوي عشرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_equally",
+      "en": "equally",
+      "ar": "بالتساوي",
+      "pronunciation": "/i-kwə-li/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I divided the money equally among my children.",
+          "ar": "قسمت المال بالتساوي بين أولادي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_escaped",
+      "en": "escaped",
+      "ar": "هربوا / هرب",
+      "pronunciation": "/1 skerp/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Two criminals escaped from prison.",
+          "ar": "مجرمان هربا من السجن."
+        },
+        {
+          "en": "It was one of the greatest escapes.",
+          "ar": "كانت واحدة من أعظم حالات الهروب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_essential",
+      "en": "essential",
+      "ar": "أساسي",
+      "pronunciation": "/r'sen-Jal/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Listening is an essential activity for learning English.",
+          "ar": "الاستماع هو نشاط أساسي لتعلم اللغة الإنجليزية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_eventually",
+      "en": "eventually",
+      "ar": "أخيراً",
+      "pronunciation": "/r'ven-tu- -li/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Eventually the pain disappeared.",
+          "ar": "أخيرًا اختفى الألم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_examined",
+      "en": "examined",
+      "ar": "فحصاني / فحص",
+      "pronunciation": "/1gzæm-In/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Two doctors examined me.",
+          "ar": "طبيبان فحصاني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_except",
+      "en": "except",
+      "ar": "باستثناء / إلا",
+      "pronunciation": "/xk sept/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Everybody is here except Sami.",
+          "ar": "الجميع هنا باستثناء سامي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_exchanged",
+      "en": "exchanged",
+      "ar": "تبادلت / تبادل",
+      "pronunciation": "/1ks tfernd3/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I exchanged seats with Ali.",
+          "ar": "تبادلت المقاعد مع علي."
+        },
+        {
+          "en": "It was a great exchange of ideas.",
+          "ar": "لقد كان تبادلا رائعًا للأفكار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_excitement",
+      "en": "excitement",
+      "ar": "حماس / إثارة",
+      "pronunciation": "/ık'sart mənt/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your visits bring great excitement to us.",
+          "ar": "زياراتك تجلب لنا حماسًا كبيرًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_exhibition",
+      "en": "exhibition",
+      "ar": "معرض",
+      "pronunciation": "/ek.sə'bzj.ən/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The exhibition is now open.",
+          "ar": "المعرض مفتوح الآن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_expand",
+      "en": "expand",
+      "ar": "يوسع",
+      "pronunciation": "/ık'spænd/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We want to expand the house.",
+          "ar": "نريد أن نوسع المنزل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_expected",
+      "en": "expected",
+      "ar": "متوقع",
+      "pronunciation": "/ık'spekt/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Strong winds are expected.",
+          "ar": "رياح قوية متوقعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_expedition",
+      "en": "expedition",
+      "ar": "بعثة",
+      "pronunciation": "/ek-spə dıf-ən/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who was the leader of your expedition?",
+          "ar": "من كان قائد بعثتكم ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_experiencing",
+      "en": "experiencing",
+      "ar": "يواجه / يمر بتجربة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am currently experiencing problems with my computer.",
+          "ar": "أواجه حاليا مشاكل مع حاسوبي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_experienced",
+      "en": "experienced",
+      "ar": "متمرس / ذو خبرة",
+      "pronunciation": "/ık'spıər-i-ənst/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is an experienced teacher.",
+          "ar": "إنه مدرس متمرس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_experimented",
+      "en": "experimented",
+      "ar": "أجرى تجارب",
+      "pronunciation": "/ık'sper mənt/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I experimented until I got the perfect recipe.",
+          "ar": "أجريت تجارب حتى حصلت على الوصفة المثالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_explode",
+      "en": "explode",
+      "ar": "ينفجر",
+      "pronunciation": "/1k sploud/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I thought my head would explode.",
+          "ar": "ظننت أن رأسي سينفجر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_explore",
+      "en": "explore",
+      "ar": "يستكشف",
+      "pronunciation": "/ık'splor/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He likes to explore mountains.",
+          "ar": "يحب أن يستكشف الجبال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_explosion",
+      "en": "explosion",
+      "ar": "انفجار",
+      "pronunciation": "/ık'splou zen/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The explosion killed five people.",
+          "ar": "قتل الانفجار خمسة أشخاص."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_export",
+      "en": "export",
+      "ar": "يصدر / تصدير",
+      "pronunciation": "/'ek-sport/",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They export tea to Europe.",
+          "ar": "يصدرون الشاي إلى أوروبا."
+        },
+        {
+          "en": "There is a ban on the export of cloth.",
+          "ar": "هناك حظر على تصدير القماش."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

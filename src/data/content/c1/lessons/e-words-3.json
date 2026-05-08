@@ -1,0 +1,546 @@
+{
+  "id": "lsn_c1_e_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 11: E Words - Part 3",
+  "slug": "e-words-3",
+  "order": 11,
+  "wordCount": 24,
+  "titleAr": "الوحدة 11: كلمات حرف E - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف E.",
+  "words": [
+    {
+      "id": "w_c1_eternal",
+      "en": "eternal",
+      "ar": "أبدي / خالد",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كتب الشاعر عن جمال الحب الأبدي",
+          "ar": "She is an eternal optimist regardless of the circumstances."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈtɜːnəl/"
+    },
+    {
+      "id": "w_c1_evacuate",
+      "en": "evacuate",
+      "ar": "يخلي",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أمرت السلطات السكان بإخلاء المبنى",
+          "ar": "We had to evacuate the area due to the flood warning."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈvæk.ju.eɪt/"
+    },
+    {
+      "id": "w_c1_evoke",
+      "en": "evoke",
+      "ar": "يثير / يستحضر",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تثير الصور القديمة ذكريات طفولتي",
+          "ar": "His music is designed to evoke a sense of deep peace."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈvəʊk/"
+    },
+    {
+      "id": "w_c1_evolutionary",
+      "en": "evolutionary",
+      "ar": "تطوري",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "درس العالم التاريخ التطوري لهذا النوع",
+          "ar": "Adaptation is a key part of the evolutionary process."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌevəˈl(j)uːʃənɹi/"
+    },
+    {
+      "id": "w_c1_exaggerate",
+      "en": "exaggerate",
+      "ar": "يبالغ",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه يميل للمبالغة في إنجازاته لإثارة إعجاب الناس",
+          "ar": "Don't exaggerate the problem; it is not as bad as you think."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛɡˈzæ.dʒə.ɹeɪt/"
+    },
+    {
+      "id": "w_c1_excellence",
+      "en": "excellence",
+      "ar": "تميز / تفوق",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تلتزم الجامعة بالتميز الأكاديمي",
+          "ar": "He received an award for excellence in customer service."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛksələns/"
+    },
+    {
+      "id": "w_c1_exceptional",
+      "en": "exceptional",
+      "ar": "استثنائي",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لديها موهبة استثنائية في عزف البيانو",
+          "ar": "The company achieved exceptional growth this year."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈsɛpʃənəl/"
+    },
+    {
+      "id": "w_c1_excess",
+      "en": "excess",
+      "ar": "فائض / زيادة",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك إزالة أي مياه زائدة من الحاوية",
+          "ar": "The store has a large excess of winter clothing."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əkˈsɛs/"
+    },
+    {
+      "id": "w_c1_exclusion",
+      "en": "exclusion",
+      "ar": "استبعاد",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استبعاد مجموعات معينة من التصويت أمر غير عادل",
+          "ar": "Dietary exclusion is necessary for managing food allergies."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪksˈkluːʒən/"
+    },
+    {
+      "id": "w_c1_exclusive",
+      "en": "exclusive",
+      "ar": "حصري / مقصور",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نشرت المجلة مقابلة حصرية مع النجم",
+          "ar": "Membership in the club is exclusive to local residents."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈsklu.sɪv/"
+    },
+    {
+      "id": "w_c1_exclusively",
+      "en": "exclusively",
+      "ar": "حصرياً / فقط",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يبيع المتجر ملابس مصممة حصرياً للنساء",
+          "ar": "The research was funded exclusively by private donations."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈskluːsɪvli/"
+    },
+    {
+      "id": "w_c1_execute",
+      "en": "execute",
+      "ar": "ينفذ / يعدم",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أُمر الجنود بتنفيذ الخطة فوراً",
+          "ar": "The state decided to execute the prisoner for his crimes."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛksɪˌkjuːt/"
+    },
+    {
+      "id": "w_c1_execution",
+      "en": "execution",
+      "ar": "تنفيذ / إعدام",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أنقذ التنفيذ الناجح للمهمة العديد من الأرواح",
+          "ar": "They gathered to protest against the public execution."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌek.sɪˈkjuː.ʃən/"
+    },
+    {
+      "id": "w_c1_exert",
+      "en": "exert",
+      "ar": "يبذل / يمارس",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان عليه بذل كل قوته لفتح الباب الثقيل",
+          "ar": "Parents exert a lot of influence over their children's choices."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪɡˈzɜːt/"
+    },
+    {
+      "id": "w_c1_exile",
+      "en": "exile",
+      "ar": "منفي / نفي",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عاش الزعيم السابق في المنفى لأكثر من عشرين عاماً",
+          "ar": "He was forced into exile after the revolution."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛkˌsaɪl/"
+    },
+    {
+      "id": "w_c1_expenditure",
+      "en": "expenditure",
+      "ar": "إنفاق / مصاريف",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحتاج الحكومة لتقليل إنفاقها العسكري",
+          "ar": "We track our monthly expenditure using a simple app."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛkˈspɛndɪt͡ʃə/"
+    },
+    {
+      "id": "w_c1_experimental",
+      "en": "experimental",
+      "ar": "تجريبي",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يختبر العلماء عقاراً تجريبياً للسرطان",
+          "ar": "He enjoys listening to experimental music from different cultures."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɨkspɛɹəˈmɛntəl/"
+    },
+    {
+      "id": "w_c1_expire",
+      "en": "expire",
+      "ar": "تنتهي صلاحيته / يزفر",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ستنتهي صلاحية جواز سفري في نهاية هذا الشهر",
+          "ar": "Make sure to check when the insurance policy will expire."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛkˈspaɪ.ə(ɹ)/"
+    },
+    {
+      "id": "w_c1_explicit",
+      "en": "explicit",
+      "ar": "صريح / واضح",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعطى المدير تعليمات صريحة حول كيفية إنهاء المهمة",
+          "ar": "The film contains explicit scenes that are not suitable for children."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈsplɪsɪt/"
+    },
+    {
+      "id": "w_c1_explicitly",
+      "en": "explicitly",
+      "ar": "بشكل صريح",
+      "pronunciation": "ɪkˈsplɪsɪtli",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمنع القواعد بشكل صريح التدخين داخل المبنى",
+          "ar": "He explicitly stated that he would not accept the offer."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_exploitation",
+      "en": "exploitation",
+      "ar": "استغلال",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحارب نقابة العمال استغلال العمال",
+          "ar": "The exploitation of natural resources must be sustainable."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɛksplɔɪˈteɪʃn̩/"
+    },
+    {
+      "id": "w_c1_explosive",
+      "en": "explosive",
+      "ar": "متفجر / مادة متفجرة",
+      "pronunciation": "ɪkˈspləʊsɪv",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا يزال الوضع في المنطقة متفجراً للغاية",
+          "ar": "Special teams were called to remove the explosive device."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_extract",
+      "en": "extract",
+      "ar": "يستخرج / يقتلع",
+      "pronunciation": "ɪkˈstrækt",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اضطر طبيب الأسنان لاقتلاع السن المتضررة",
+          "ar": "Scientists found a way to extract energy from sunlight."
+        },
+        {
+          "en": "The following extract is taken from his new book.",
+          "ar": "الاقتباس التالي مأخوذ من كتابه الجديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_extremist",
+      "en": "extremist",
+      "ar": "متطرف",
+      "lessonId": "lsn_c1_e_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتخذ الحكومة تدابير لمكافحة الجماعات المتطرفة",
+          "ar": "He was criticized for his extremist views on immigration."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛkˈstɹiːmɪst/"
+    }
+  ]
+}

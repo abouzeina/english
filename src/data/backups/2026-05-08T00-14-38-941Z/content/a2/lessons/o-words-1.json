@@ -1,0 +1,355 @@
+{
+  "id": "lsn_a2_o_1",
+  "levelId": "lvl_2",
+  "slug": "o-words-1",
+  "title": "Unit 28: O Words - Part 1",
+  "titleAr": "الوحدة 28: كلمات حرف O - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter O.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف O.",
+  "order": 28,
+  "wordCount": 15,
+  "words": [
+    {
+      "id": "w_a2_nut",
+      "en": "nut",
+      "ar": "جوز",
+      "pronunciation": "/n ts/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The animals were busy collecting nuts.",
+          "ar": "كانت الحيوانات مشغولة بجمع الجوز :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ocean",
+      "en": "ocean",
+      "ar": "محيط",
+      "pronunciation": "/'ou fen/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We can see the ocean from our house",
+          "ar": "يمكننا أن نرى المحيط من منزلنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_offer",
+      "en": "offer",
+      "ar": "عرض / يعرض",
+      "pronunciation": "/  fər/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They offered me a new job.",
+          "ar": "عرضوا علي وظيفة جديدة :"
+        },
+        {
+          "en": "That's my final offer.",
+          "ar": "هذا هو عرضي الأخير :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_officer",
+      "en": "officer",
+      "ar": "ضابط",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you still want to be an officer ?",
+          "ar": "هل ما زلت تريد أن تصبح ضابطًا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_oil",
+      "en": "oil",
+      "ar": "زيت",
+      "pronunciation": "/ǝl/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I bought a bottle of salad oil.",
+          "ar": "اشتريت زجاجة من زيت السلطة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_opportunity",
+      "en": "opportunity",
+      "ar": "فرصة",
+      "pronunciation": "/ a pər tu-nə ti/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is your last opportunity.",
+          "ar": "هذه فرصتك الأخيرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_option",
+      "en": "option",
+      "ar": "خيار",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You have only two options.",
+          "ar": "لديك خياران فقط :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ordinary",
+      "en": "ordinary",
+      "ar": "عادي",
+      "pronunciation": "/or dən er i/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm just an ordinary guy.",
+          "ar": "أنا مجرد شخص عادي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_organization",
+      "en": "organization",
+      "ar": "منظمة",
+      "pronunciation": "/or-gə nə zeı fən/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He works with local organizations.",
+          "ar": "يعمل مع المنظمات المحلية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_organize",
+      "en": "organize",
+      "ar": "ينظم",
+      "pronunciation": "/or gə nazzd/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He organized some big events",
+          "ar": "نظم بعض الفعاليات الكبيرة : مُنَظَّم / مُرَتَّب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_original",
+      "en": "original",
+      "ar": "أصلية",
+      "pronunciation": "/ə'rzdzə nəl/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We should go back to the original plan.",
+          "ar": "يجب أن نعود إلى الخطة الأصلية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ourselves",
+      "en": "ourselves",
+      "ar": "بأنفسنا",
+      "pronunciation": "/auer selvz/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We can do that ourselves.",
+          "ar": "يمكننا أن نفعل ذلك بأنفسنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_outside",
+      "en": "outside",
+      "ar": "خارج / في الخارج",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Leave your shoes outside the house.",
+          "ar": "اترك حذائك خارج المنزل."
+        },
+        {
+          "en": "The outside door is locked.",
+          "ar": "الباب الخارجي مغلق."
+        },
+        {
+          "en": "You can't open the door from the outside.",
+          "ar": "لا يمكنك فتح الباب من الخارج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_oven",
+      "en": "oven",
+      "ar": "فرن",
+      "pronunciation": "/  ǝn/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This bread is fresh from the oven.",
+          "ar": "هذا الخبز طازج من الفرن :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_own",
+      "en": "own",
+      "ar": "تملك",
+      "pronunciation": "/ ท/",
+      "lessonId": "lsn_a2_o_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you own all these books?",
+          "ar": "هل تملك كل هذه الكتب ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

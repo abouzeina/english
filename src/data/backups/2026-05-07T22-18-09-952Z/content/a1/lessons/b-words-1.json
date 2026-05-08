@@ -1,0 +1,599 @@
+{
+  "id": "lsn_a1_b_1",
+  "levelId": "lvl_1",
+  "title": "B Words - Part 1",
+  "slug": "b-words-1",
+  "order": 3,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف B - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter B.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف B.",
+  "words": [
+    {
+      "id": "w_a1_away",
+      "lessonId": "lsn_a1_b_1",
+      "en": "away",
+      "translation": "بعيد / على بعد",
+      "ar": "بعيد / على بعد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The beach is two miles away.",
+          "ar": "يقع الشاطئ على بعد ميلين."
+        },
+        {
+          "en": "His house is far away from the city center.",
+          "ar": "منزله بعيد عن وسط المدينة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_baby",
+      "lessonId": "lsn_a1_b_1",
+      "en": "baby",
+      "translation": "طفل",
+      "ar": "طفل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The baby wants to sleep.",
+          "ar": "الطفل يريد أن ينام."
+        },
+        {
+          "en": "She had a baby last month.",
+          "ar": "لقد رزقت بطفل الشهر الماضي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_back",
+      "lessonId": "lsn_a1_b_1",
+      "en": "back",
+      "translation": "ظهر / يعود",
+      "ar": "ظهر / يعود",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He was lying on his back.",
+          "ar": "كان مستلقيًا على ظهره."
+        },
+        {
+          "en": "I'll be back soon.",
+          "ar": "سوف أعود قريبًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bad",
+      "lessonId": "lsn_a1_b_1",
+      "en": "bad",
+      "translation": "سيء",
+      "ar": "سيء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That's a bad idea.",
+          "ar": "هذه فكرة سيئة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bag",
+      "lessonId": "lsn_a1_b_1",
+      "en": "bag",
+      "translation": "كيس / حقيبة",
+      "ar": "كيس / حقيبة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Take the bag with you.",
+          "ar": "خذ الكيس معك."
+        },
+        {
+          "en": "My bags are in the car.",
+          "ar": "حقائبي في السيارة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ball",
+      "lessonId": "lsn_a1_b_1",
+      "en": "ball",
+      "translation": "كرة",
+      "ar": "كرة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I bought a ball for my child.",
+          "ar": "اشتريت كرة لطفي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_banana",
+      "lessonId": "lsn_a1_b_1",
+      "en": "banana",
+      "translation": "موز",
+      "ar": "موز",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I had three bananas for breakfast.",
+          "ar": "تناولت ثلاث موزات على الإفطار."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_band",
+      "lessonId": "lsn_a1_b_1",
+      "en": "band",
+      "translation": "فرقة",
+      "ar": "فرقة",
+      "pronunciation": "/bænd/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The band is playing my favorite song.",
+          "ar": "تعزف الفرقة أغنيتي المفضلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bank",
+      "lessonId": "lsn_a1_b_1",
+      "en": "bank",
+      "translation": "بنك",
+      "ar": "بنك",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The bank opens at nine.",
+          "ar": "يفتح البنك في الساعة التاسعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bath",
+      "lessonId": "lsn_a1_b_1",
+      "en": "bath",
+      "translation": "استحمام",
+      "ar": "استحمام",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The boy needs a bath.",
+          "ar": "يحتاج الصبي إلى الاستحمام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bathroom",
+      "lessonId": "lsn_a1_b_1",
+      "en": "bathroom",
+      "translation": "حمام",
+      "ar": "حمام",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need to use the bathroom.",
+          "ar": "أحتاج إلى استخدام الحمام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_be",
+      "lessonId": "lsn_a1_b_1",
+      "en": "be",
+      "translation": "كن",
+      "ar": "كن",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Be strong, my friend.",
+          "ar": "كن قوياً يا صديقي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_beach",
+      "lessonId": "lsn_a1_b_1",
+      "en": "beach",
+      "translation": "شاطئ",
+      "ar": "شاطئ",
+      "pronunciation": "/bitf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love walking on the beach.",
+          "ar": "أحب المشي على الشاطئ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_beautiful",
+      "lessonId": "lsn_a1_b_1",
+      "en": "beautiful",
+      "translation": "جميل",
+      "ar": "جميل",
+      "pronunciation": "/'bju-tr fəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They live in a beautiful house.",
+          "ar": "إنهم يعيشون في منزل جميل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_because",
+      "lessonId": "lsn_a1_b_1",
+      "en": "because",
+      "translation": "بسبب",
+      "ar": "بسبب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I am late because of traffic.",
+          "ar": "تأخرت بسبب الازدحام المروري."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_become",
+      "lessonId": "lsn_a1_b_1",
+      "en": "become",
+      "translation": "يصبح",
+      "ar": "يصبح",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to become a doctor.",
+          "ar": "أريد أن أصبح طبيبًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bed",
+      "lessonId": "lsn_a1_b_1",
+      "en": "bed",
+      "translation": "فراش / سرير",
+      "ar": "فراش / سرير",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He went to bed early tonight.",
+          "ar": "لقد ذهب إلى الفراش مبكرًا الليلة."
+        },
+        {
+          "en": "This bed is too small for me.",
+          "ar": "هذا السرير صغير جدًا بالنسبة لي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bedroom",
+      "lessonId": "lsn_a1_b_1",
+      "en": "bedroom",
+      "translation": "غرفة نوم",
+      "ar": "غرفة نوم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Your bedroom is clean today.",
+          "ar": "غرفة نومك نظيفة اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_beer",
+      "lessonId": "lsn_a1_b_1",
+      "en": "beer",
+      "translation": "بيرة",
+      "ar": "بيرة",
+      "pronunciation": "/biǝr/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We don't drink beer.",
+          "ar": "نحن لا نشرب البيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_before",
+      "lessonId": "lsn_a1_b_1",
+      "en": "before",
+      "translation": "قبل",
+      "ar": "قبل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I usually read before bed.",
+          "ar": "عادة ما أقرأ قبل النوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_begin",
+      "lessonId": "lsn_a1_b_1",
+      "en": "begin",
+      "translation": "يبدأ",
+      "ar": "يبدأ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They begin work at eight.",
+          "ar": "يبدأون العمل في الساعة الثامنة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_beginning",
+      "lessonId": "lsn_a1_b_1",
+      "en": "beginning",
+      "translation": "بداية",
+      "ar": "بداية",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This is just the beginning.",
+          "ar": "هذه هي البداية فقط."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_behind",
+      "lessonId": "lsn_a1_b_1",
+      "en": "behind",
+      "translation": "خلف",
+      "ar": "خلف",
+      "pronunciation": "/bı haınd/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She stood behind the desk.",
+          "ar": "وقفت خلف المكتب."
+        },
+        {
+          "en": "The car is parked behind.",
+          "ar": "السيارة مركونة في الخلف."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_believe",
+      "lessonId": "lsn_a1_b_1",
+      "en": "believe",
+      "translation": "يصدق / يؤمن",
+      "ar": "يصدق / يؤمن",
+      "pronunciation": "/bi'liv/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I don't believe you.",
+          "ar": "أنا لا أصدقك."
+        },
+        {
+          "en": "Believe me it's going to be okay.",
+          "ar": "صدقني سيكون كل شيء على ما يرام."
+        },
+        {
+          "en": "I believe this is true.",
+          "ar": "أنا أؤمن بأن هذا صحيح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_below",
+      "lessonId": "lsn_a1_b_1",
+      "en": "below",
+      "translation": "تحت / بالأسفل",
+      "ar": "تحت / بالأسفل",
+      "pronunciation": "/br'lou/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The book is below the table.",
+          "ar": "الكتاب تحت الطاولة."
+        },
+        {
+          "en": "I left my bicycle below.",
+          "ar": "تركت دراجتي بالأسفل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

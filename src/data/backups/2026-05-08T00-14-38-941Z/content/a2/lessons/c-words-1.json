@@ -1,0 +1,579 @@
+{
+  "id": "lsn_a2_c_1",
+  "levelId": "lvl_2",
+  "slug": "c-words-1",
+  "title": "Unit 6: C Words - Part 1",
+  "titleAr": "الوحدة 6: كلمات حرف C - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف C.",
+  "order": 6,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_button",
+      "en": "button",
+      "ar": "زر",
+      "pronunciation": "/'bat-ən/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Press the button to turn on the machine.",
+          "ar": "اضغط على الزر لتشغيل الآلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_camp",
+      "en": "camp",
+      "ar": "معسكر / يخيم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Soldiers built their camp near the river",
+          "ar": "بنى الجنود معسكرهم بالقرب من النهر :"
+        },
+        {
+          "en": "We camped in the woods.",
+          "ar": "خيمنا في الغابة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_camping",
+      "en": "camping",
+      "ar": "التخييم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali likes camping on the beach.",
+          "ar": "يحب علي التخييم على الشاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_can",
+      "en": "can",
+      "ar": "علبة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I bought three cans of beans.",
+          "ar": "اشتريت ثلاث علب فاصوليا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_care",
+      "en": "care",
+      "ar": "رعاية / يهتم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He needs a lot of care because he is very sick",
+          "ar": "يحتاج إلى رعاية كبيرة لأنه مريض جدا :"
+        },
+        {
+          "en": "Nobody cares about my situation",
+          "ar": "لا أحد يهتم بحالتي : مَوْقِف | وضع | حالة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_careful",
+      "en": "careful",
+      "ar": "حريص",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We're very careful drivers.",
+          "ar": "نحن سائقون حريصون جدًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_carefully",
+      "en": "carefully",
+      "ar": "بعناية",
+      "pronunciation": "/ keər fəl/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Read each question carefully.",
+          "ar": "اقرأ كل سؤال بعناية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_carpet",
+      "en": "carpet",
+      "ar": "سجادة",
+      "pronunciation": "/'kar prt/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need to clean the carpet.",
+          "ar": "نحن بحاجة لتنظيف السجادة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_cartoon",
+      "en": "cartoon",
+      "ar": "رسوم متحركة",
+      "pronunciation": "/kar tun/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I usually watch cartoons with my children.",
+          "ar": "عادة ما أشاهد الرسوم المتحركة مع أطفالي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_case",
+      "en": "case",
+      "ar": "حالة",
+      "pronunciation": "/kers/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "In case of fire, use the stairs",
+          "ar": "في حالة نشوب حريق، استخدم الدرج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_cash",
+      "en": "cash",
+      "ar": "نقود",
+      "pronunciation": "/kæf/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali gave Sami some cash.",
+          "ar": "علي أعطى سامي بعض النقود."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_castle",
+      "en": "castle",
+      "ar": "قلعة",
+      "pronunciation": "/'kæs el/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The king lives inside his castle.",
+          "ar": "الملك يعيش داخل قلعته :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_catch",
+      "en": "catch",
+      "ar": "يمسك",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Catch me if you can",
+          "ar": "أمسكني إن استطعت :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_cause",
+      "en": "cause",
+      "ar": "سبب / يسبب",
+      "pronunciation": "/koz/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What was the cause of death ?",
+          "ar": "ماذا كان سبب الوفاة : سَبَب | داع : ؟"
+        },
+        {
+          "en": "Bad driving causes accidents.",
+          "ar": "القيادة السيئة تسبب الحوادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_celebrate",
+      "en": "celebrate",
+      "ar": "يحتفل",
+      "pronunciation": "/'sel.ə.brext/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you celebrate Earth Day?",
+          "ar": "هل تحتفل بيوم الأرض ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_celebrity",
+      "en": "celebrity",
+      "ar": "مشهور",
+      "pronunciation": "/sə'leb-rə-ti/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Celebrities are just people",
+          "ar": "المشاهير مجرد أناس :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_certain",
+      "en": "certain",
+      "ar": "واثق",
+      "pronunciation": "/'s3r-ten/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm certain that Ali will attend the meeting",
+          "ar": "أنا واثق من أن علي سيحضر الاجتماع :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_certainly",
+      "en": "certainly",
+      "ar": "بالتأكيد",
+      "pronunciation": "/'s3r ten-li/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Yes, I certainly agree.",
+          "ar": "نعم، أنا طبعًا أوافق : بالتأكيد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_chance",
+      "en": "chance",
+      "ar": "فرصة",
+      "pronunciation": "/tjæns/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We will give you one more chance.",
+          "ar": "سوف نمنحك فرصة واحدة أخرى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_character",
+      "en": "character",
+      "ar": "شخصية",
+      "pronunciation": "/ kær-ək-tər/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is the main character in the film.",
+          "ar": "إنه الشخصية الرئيسية في الفيلم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_charity",
+      "en": "charity",
+      "ar": "جمعية خيرية",
+      "pronunciation": "/tfær- -ţi/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She gave half her money to charity.",
+          "ar": "أعطت نصف مالها للجمعيات الخيرية : مُؤَسَّسَة خَيْريَّة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_chat",
+      "en": "chat",
+      "ar": "دردشة / يدردش",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did he leave the group chat ?",
+          "ar": "هل غادر الدردشة الجماعية ؟"
+        },
+        {
+          "en": "They're chatting with their friends.",
+          "ar": "إنهم يدردشون مع أصدقائهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_check",
+      "en": "check",
+      "ar": "فاتورة",
+      "pronunciation": "/tfek/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can I have the check, please?",
+          "ar": "هل يمكنني الحصول على الفاتورة من فضلك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_chef",
+      "en": "chef",
+      "ar": "شيف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have a very good chef.",
+          "ar": "لدينا شيف بارع جدا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_chemistry",
+      "en": "chemistry",
+      "ar": "كيمياء",
+      "pronunciation": "/ kem-ə-stri/",
+      "lessonId": "lsn_a2_c_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I met your chemistry teacher.",
+          "ar": "قابلت مدرس الكيمياء الخاص بك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

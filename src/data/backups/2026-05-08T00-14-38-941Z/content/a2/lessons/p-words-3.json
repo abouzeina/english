@@ -1,0 +1,421 @@
+{
+  "id": "lsn_a2_p_3",
+  "levelId": "lvl_2",
+  "slug": "p-words-3",
+  "title": "Unit 31: P Words - Part 3",
+  "titleAr": "الوحدة 31: كلمات حرف P - الجزء 3",
+  "description": "Build on your A2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف P.",
+  "order": 31,
+  "wordCount": 18,
+  "words": [
+    {
+      "id": "w_a2_printer",
+      "en": "printer",
+      "ar": "طابعة",
+      "pronunciation": "/ prın-tər/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There's something wrong with the printer.",
+          "ar": "هناك عطل ما في الطابعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_prison",
+      "en": "prison",
+      "ar": "سجن",
+      "pronunciation": "/'prız ən/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was sent to prison for three years",
+          "ar": "تم إرساله إلى السجن لمدة ثلاث سنوات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_prize",
+      "en": "prize",
+      "ar": "جائزة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ten teams competed for the prize.",
+          "ar": "تنافست عشرة فرق على الجائزة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_process",
+      "en": "process",
+      "ar": "عملية",
+      "pronunciation": "/ pra-ses/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You need to repeat the same process.",
+          "ar": "تحتاج إلى تكرار نفس العملية : سلسلة من التغيرات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_produce",
+      "en": "produce",
+      "ar": "ينتج",
+      "pronunciation": "/prə'dus/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need to produce our own food.",
+          "ar": "نحن بحاجة إلى أن ننتج طعامنا بأنفسنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_professional",
+      "en": "professional",
+      "ar": "محترف",
+      "pronunciation": "/prə fef ə-nəl/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is a professional driver.",
+          "ar": "علي سائق محترف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_professor",
+      "en": "professor",
+      "ar": "بروفيسور / أستاذ جامعي",
+      "pronunciation": "/pre'fes ər/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The professor lectured on physics.",
+          "ar": "حاضر البروفيسور في الفيزياء : أعطى الأستاذ الجامعي محاضرة في الفيزياء :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_profile",
+      "en": "profile",
+      "ar": "ملف شخصي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have to change my profile picture.",
+          "ar": "لا بد أن أغير صورة ملفي الشخصي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_program",
+      "en": "program",
+      "ar": "برنامج",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Copy this program to your computer.",
+          "ar": "انسخ هذا البرنامج إلى حاسوبك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_progress",
+      "en": "progress",
+      "ar": "تقدم",
+      "pronunciation": "/'pra-gres/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I think you are making progress.",
+          "ar": "أعتقد أنك تحرز تقدمًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_promise",
+      "en": "promise",
+      "ar": "وعد",
+      "pronunciation": "/ pra mıs/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You must keep your promises.",
+          "ar": "يجب أن تفي بوعودك."
+        },
+        {
+          "en": "Promise me you won't tell anybody",
+          "ar": "عدني أنك لن تخبر أحداً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pronounce",
+      "en": "pronounce",
+      "ar": "ينطق",
+      "pronunciation": "/pre nauns/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't know how to pronounce his name.",
+          "ar": "لا أعرف كيف أنطق اسمه :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_protect",
+      "en": "protect",
+      "ar": "يحمي",
+      "pronunciation": "/pra tekt/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Why didn't you protect me?",
+          "ar": "لماذا لم تحميني : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_provide",
+      "en": "provide",
+      "ar": "يوفر",
+      "pronunciation": "/pre vazd/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed didn't provide any detail",
+          "ar": "لم يوفر أحمد أية تفاصيل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pub",
+      "en": "pub",
+      "ar": "حانة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We don't have pubs in our culture",
+          "ar": "ليس لدينا حانات في ثقافتنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_public",
+      "en": "public",
+      "ar": "عام / جمهور",
+      "pronunciation": "/'pab-lik/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is a public beach.",
+          "ar": "هذا شاطئ عام."
+        },
+        {
+          "en": "The library is open to the public.",
+          "ar": "المكتبة مفتوحة للعامة للجمهور :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_publish",
+      "en": "publish",
+      "ar": "ينشر",
+      "pronunciation": "/ pab-lzf/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He published two books.",
+          "ar": "نشر كتابين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pull",
+      "en": "pull",
+      "ar": "يسحب",
+      "pronunciation": "/pul/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I pulled as hard as I could",
+          "ar": "سحبت بأقصى ما أستطيع :"
+        },
+        {
+          "en": "You push, we pull.",
+          "ar": "أنت ادفع ونحن سنسحب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

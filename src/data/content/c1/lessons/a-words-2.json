@@ -1,0 +1,475 @@
+{
+  "id": "lsn_c1_a_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 2: A Words - Part 2",
+  "slug": "a-words-2",
+  "order": 2,
+  "wordCount": 21,
+  "titleAr": "الوحدة 2: كلمات حرف A - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف A.",
+  "words": [
+    {
+      "id": "w_c1_acquisition",
+      "en": "acquisition",
+      "ar": "استحواذ / اكتساب",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اكتساب مهارات جديدة يستغرق وقتاً وجهداً.",
+          "ar": "The company announced the acquisition of its rival."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/æ.kwɪ.ˈzɪ.ʃən/"
+    },
+    {
+      "id": "w_c1_acre",
+      "en": "acre",
+      "ar": "فدان (وحدة مساحة)",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تغطي المزرعة أكثر من خمسين فداناً من الأرض.",
+          "ar": "He bought a small house with an acre of garden."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈeɪ.kə/"
+    },
+    {
+      "id": "w_c1_activation",
+      "en": "activation",
+      "ar": "تفعيل / تنشيط",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "انتظر تفعيل حسابك الجديد.",
+          "ar": "The activation of the alarm system is automatic."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/æktɪˈveɪʃən/"
+    },
+    {
+      "id": "w_c1_activist",
+      "en": "activist",
+      "ar": "ناشط",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هي ناشطة في مجال حقوق الإنسان.",
+          "ar": "The environmental activist protested against the project."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæk.tɪ.vɪst/"
+    },
+    {
+      "id": "w_c1_acute",
+      "en": "acute",
+      "ar": "حاد / شديد",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعاني المنطقة من نقص حاد في المياه.",
+          "ar": "He felt an acute pain in his chest."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈkjuːt/"
+    },
+    {
+      "id": "w_c1_adaptation",
+      "en": "adaptation",
+      "ar": "تكييف / اقتباس",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الفيلم هو اقتباس أمين للرواية.",
+          "ar": "Plants need adaptation to survive in the desert."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌædæpˈteɪʃən/"
+    },
+    {
+      "id": "w_c1_adhere",
+      "en": "adhere",
+      "ar": "يلتزم / يلتصق",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب على جميع الموظفين الالتزام بقواعد السلامة في الشركة.",
+          "ar": "The paint will not adhere to a greasy surface."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ædˈhiɹ/"
+    },
+    {
+      "id": "w_c1_adjacent",
+      "en": "adjacent",
+      "ar": "مجاور / محاذٍ",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المكتبة مجاورة لمبنى العلوم.",
+          "ar": "We have rooms in adjacent buildings."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈdʒeɪ.sənt/"
+    },
+    {
+      "id": "w_c1_adjustment",
+      "en": "adjustment",
+      "ar": "تعديل / ضبط",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لقد أجريت بعض التعديلات الطفيفة على الخطة.",
+          "ar": "Moving to a new city requires a lot of adjustment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈdʒʌst.mənt/"
+    },
+    {
+      "id": "w_c1_administer",
+      "en": "administer",
+      "ar": "يدير / يعطي (علاجاً)",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيقوم المعلم بإجراء الامتحان النهائي غداً.",
+          "ar": "The nurse is trained to administer the medication."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ədˈmɪnɪstɚ/"
+    },
+    {
+      "id": "w_c1_administrative",
+      "en": "administrative",
+      "ar": "إداري",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هي تتولى جميع المهام الإدارية في المكتب.",
+          "ar": "The position involves a lot of administrative work."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ədˈmɪ.nɪs.tɹəˌtɪv/"
+    },
+    {
+      "id": "w_c1_administrator",
+      "en": "administrator",
+      "ar": "مدير / مسؤول إداري",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يعمل كمسؤول نظام لشركة تقنية.",
+          "ar": "The school administrator addressed the parents' concerns."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ədˈmɪnɪstɹeɪtə/"
+    },
+    {
+      "id": "w_c1_admission",
+      "en": "admission",
+      "ar": "قبول / اعتراف",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "القبول في الجامعة تنافسي للغاية.",
+          "ar": "His silence was taken as an admission of guilt."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ædˈmɪʃ.ən/"
+    },
+    {
+      "id": "w_c1_adolescent",
+      "en": "adolescent",
+      "ar": "مراهق",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سلوك المراهقين قد يكون من الصعب التعامل معه.",
+          "ar": "The clinic specializes in treating adolescent patients."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌædəˈlɛsənt/"
+    },
+    {
+      "id": "w_c1_adoption",
+      "en": "adoption",
+      "ar": "تبني / اتخاذ",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قرروا المضي قدماً في تبني طفل.",
+          "ar": "The adoption of new technology improved productivity."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈdɒp.ʃən/"
+    },
+    {
+      "id": "w_c1_adverse",
+      "en": "adverse",
+      "ar": "ضار / معاكس",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قد يكون للدواء آثار جانبية ضارة.",
+          "ar": "They sailed despite the adverse weather conditions."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ədˈvɜ(ɹ)s/"
+    },
+    {
+      "id": "w_c1_advocate",
+      "en": "advocate",
+      "ar": "يدافع / يؤيد / محامٍ أو مؤيد",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هي مؤيدة قوية لحماية البيئة.",
+          "ar": "We should advocate for the rights of the disabled."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæd.və.keɪt/"
+    },
+    {
+      "id": "w_c1_aesthetic",
+      "en": "aesthetic",
+      "ar": "جمالي / علم الجمال",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم تصميم المبنى لكل من الوظيفة والجمال.",
+          "ar": "He has a keen aesthetic sense in his artwork."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/iːs.ˈθe.tɪk/"
+    },
+    {
+      "id": "w_c1_affection",
+      "en": "affection",
+      "ar": "عاطفة / مودة",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لديها مودة عميقة لأجدادها.",
+          "ar": "He showed his affection by bringing her flowers."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈfɛkʃən/"
+    },
+    {
+      "id": "w_c1_aftermath",
+      "en": "aftermath",
+      "ar": "ما بعد الكارثة / عاقبة",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "واجهت المدينة تعافياً طويلاً في أعقاب الحرب.",
+          "ar": "Many people lost their jobs in the aftermath of the crisis."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæf.təˌmæθ/"
+    },
+    {
+      "id": "w_c1_aggression",
+      "en": "aggression",
+      "ar": "عدوان",
+      "lessonId": "lsn_c1_a_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أظهر الكلب علامات عدوان تجاه الغرباء.",
+          "ar": "The government condemned the act of foreign aggression."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈɡɹɛʃən/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lsn_b2_k",
+  "levelId": "lvl_b2",
+  "title": "Unit 30: K Words",
+  "slug": "k-words",
+  "order": 30,
+  "wordCount": 1,
+  "titleAr": "الوحدة 30: كلمات حرف K",
+  "description": "Master essential B2 vocabulary starting with the letter K.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف K.",
+  "words": [
+    {
+      "id": "w_b2_kit",
+      "en": "kit",
+      "ar": "عدة",
+      "lessonId": "lsn_b2_k",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Did you pack the camping kit for the weekend trip?",
+          "ar": "هل حزمتم عدة التخييم لرحلة نهاية الأسبوع ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kɪt/"
+    }
+  ]
+}

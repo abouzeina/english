@@ -1,0 +1,431 @@
+{
+  "id": "lsn_b2_i_3",
+  "levelId": "lvl_b2",
+  "title": "Unit 27: I Words - Part 3",
+  "slug": "i-words-3",
+  "order": 27,
+  "wordCount": 19,
+  "titleAr": "الوحدة 27: كلمات حرف I - الجزء 3",
+  "description": "Master essential B2 vocabulary starting with the letter I.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف I.",
+  "words": [
+    {
+      "id": "w_b2_initiative",
+      "en": "initiative",
+      "ar": "المبادرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The initiative aims to help the homeless.",
+          "ar": "تهدف المبادرة لمساعدة المشردين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ink",
+      "en": "ink",
+      "ar": "الحبر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He prefers to write with blue ink.",
+          "ar": "هو يفضل الكتابة بالحبر الأزرق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inner",
+      "en": "inner",
+      "ar": "الداخلي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She discovered her inner creativity through painting.",
+          "ar": "لقد اكتشفت إبداعها الداخلي من خلال الرسم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_innovation",
+      "en": "Innovation",
+      "ar": "الابتكار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Innovation can solve many global problems.",
+          "ar": "يمكن للابتكار أن يحل العديد من المشاكل العالمية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_innovative",
+      "en": "innovative",
+      "ar": "مبتكرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He introduced an innovative marketing strategy.",
+          "ar": "هو قدم استراتيجية تسويقية مبتكرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_input",
+      "en": "input",
+      "ar": "مدخلات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She gathered input from various experts.",
+          "ar": "لقد جمعت مدخلات من خبراء مختلفين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inquiry",
+      "en": "inquiry",
+      "ar": "استفسارًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The school received an inquiry from a parent.",
+          "ar": "تلقت المدرسة استفسارًا من أحد الوالدين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_insert",
+      "en": "insert",
+      "ar": "يدرج",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He decided to insert a new paragraph in his essay.",
+          "ar": "قرر أن يدرج فقرة جديدة في مقالته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_insight",
+      "en": "insight",
+      "ar": "نظرة ثاقبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His experience gave him insight into the issue.",
+          "ar": "لقد أعطته خبرته نظرة ثاقبة في هذه القضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_insists",
+      "en": "insists",
+      "ar": "يصر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He insists on paying for dinner every time.",
+          "ar": "هو يصر على دفع ثمن العشاء في كل مرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inspector",
+      "en": "inspector",
+      "ar": "مفتش",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He works as a food safety inspector.",
+          "ar": "يعمل كمفتش السلامة الأغذية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inspire",
+      "en": "inspire",
+      "ar": "تلهم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her courage will inspire future generations.",
+          "ar": "شجاعتها سوف تلهم الأجيال القادمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_install",
+      "en": "install",
+      "ar": "يركب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He decided to install a fence around the yard.",
+          "ar": "قرر أن يركب سياجا حول الفناء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_installation",
+      "en": "installation",
+      "ar": "تنصيب / تركيب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The installation of the new software took an hour.",
+          "ar": "استغرق تنصيب البرنامج الجديد ساعة واحدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_instance",
+      "en": "instance",
+      "ar": "حالة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There was no previous instance of such a mistake.",
+          "ar": "لم تكن هناك حالة سابقة لمثل هذا الخطأ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_instant",
+      "en": "instant",
+      "ar": "فورية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The coffee provides an instant boost of energy.",
+          "ar": "تمنح القهوة دفعة فورية من الطاقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_instantly",
+      "en": "instantly",
+      "ar": "على الفور",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He instantly recognized my voice.",
+          "ar": "لقد تعرف على صوتي على الفور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_institute",
+      "en": "institute",
+      "ar": "معهد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He attended a business institute to gain management skills.",
+          "ar": "التحق بمعهد الإدارة الأعمال لاكتساب مهارات إدارية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_institution",
+      "en": "institution",
+      "ar": "مؤسسة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The bank is a respected financial institution.",
+          "ar": "يُعد البنك مؤسسة مالية محترمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

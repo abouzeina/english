@@ -1,0 +1,421 @@
+{
+  "id": "lsn_b2_n_1",
+  "levelId": "lvl_b2",
+  "slug": "n-words-1",
+  "title": "N Words - Part 1",
+  "titleAr": "كلمات حرف N - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter N.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف N.",
+  "order": 41,
+  "wordCount": 24,
+  "words": [
+    {
+      "id": "w_b2_naked",
+      "en": "naked",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_narrow",
+      "en": "narrow",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_nasty",
+      "en": "nasty",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_nationals",
+      "en": "nationals",
+      "ar": "?????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_navigation",
+      "en": "navigation",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_nearby",
+      "en": "nearby",
+      "ar": "????? ????? / ?? ??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_neat",
+      "en": "neat",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_necessity",
+      "en": "necessity",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_negative",
+      "en": "negative",
+      "ar": "?????? ???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_negotiate",
+      "en": "negotiate",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_negotiation",
+      "en": "negotiation",
+      "ar": "?????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_nerve",
+      "en": "nerve",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_neutral",
+      "en": "neutral",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_nevertheless",
+      "en": "nevertheless",
+      "ar": "??? ???",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_newly",
+      "en": "newly",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_nightmare",
+      "en": "nightmare",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_norm",
+      "en": "norm",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_notebooks",
+      "en": "notebooks",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_notion",
+      "en": "notion",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_novelist",
+      "en": "novelist",
+      "ar": "????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_nowadays",
+      "en": "nowadays",
+      "ar": "??? ??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_numerous",
+      "en": "numerous",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_nursing",
+      "en": "nursing",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_nutrition",
+      "en": "nutrition",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

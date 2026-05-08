@@ -1,0 +1,461 @@
+{
+  "id": "lsn_b2_m_3",
+  "levelId": "lvl_b2",
+  "title": "Unit 34: M Words - Part 3",
+  "slug": "m-words-3",
+  "order": 34,
+  "wordCount": 20,
+  "titleAr": "الوحدة 34: كلمات حرف M - الجزء 3",
+  "description": "Master essential B2 vocabulary starting with the letter M.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف M.",
+  "words": [
+    {
+      "id": "w_b2_modify",
+      "en": "modify",
+      "ar": "نعدل",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We need to modify the schedule for tomorrow.",
+          "ar": "نحتاج أن نعدل الجدول الزمني ليوم غد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɒdɪfaɪ/"
+    },
+    {
+      "id": "w_b2_monitor",
+      "en": "monitor",
+      "ar": "شاشة خارجية / يراقب",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Doctors carefully monitor the baby's heart rate.",
+          "ar": "يراقب الأطباء بعناية معدل ضربات قلب الطفل."
+        },
+        {
+          "en": "He connected his laptop to an external monitor.",
+          "ar": "قام بتوصيل حاسوبه المحمول بشاشة خارجية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɒnɨtə/"
+    },
+    {
+      "id": "w_b2_monster",
+      "en": "monster",
+      "ar": "الوحش",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The monster in the story scared the children.",
+          "ar": "الوحش في القصة أخاف الأطفال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɒnstə(ɹ)/"
+    },
+    {
+      "id": "w_b2_monthly",
+      "en": "monthly",
+      "ar": "شهرياً",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company holds a monthly meeting for updates.",
+          "ar": "تعقد الشركة اجتماعاً شهرياً للاطلاع على آخر المستجدات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmʌnθli/"
+    },
+    {
+      "id": "w_b2_monument",
+      "en": "monument",
+      "ar": "النصب التذكاري",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The monument stands tall in the central square.",
+          "ar": "يقف النصب التذكاري شامخاً في الساحة المركزية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɒnjʊmənt/"
+    },
+    {
+      "id": "w_b2_moral",
+      "en": "moral",
+      "ar": "أخلاقي",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The story has a clear moral lesson.",
+          "ar": "تحتوي القصة على درس أخلاقي واضح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɒɹəl/"
+    },
+    {
+      "id": "w_b2_morals",
+      "en": "morals",
+      "ar": "الأخلاق",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Morals influence how people treat others.",
+          "ar": "تؤثر الأخلاق على كيفية تعامل الناس مع الآخرين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɒɹəlz/"
+    },
+    {
+      "id": "w_b2_moreover",
+      "en": "moreover",
+      "ar": "كما أنها",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She's very talented; moreover, she works hard.",
+          "ar": "إنها موهوبة جداً؛ كما أنها تعمل بجد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mɔːˈɹəʊvə/"
+    },
+    {
+      "id": "w_b2_mortgage",
+      "en": "mortgage",
+      "ar": "قرض عقاري",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I applied for a mortgage yesterday.",
+          "ar": "تقدمت بطلب للحصول على قرض عقاري بالأمس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɔː.ɡɪdʒ/"
+    },
+    {
+      "id": "w_b2_mosque",
+      "en": "mosque",
+      "ar": "المسجد",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The mosque is crowded during Friday prayers.",
+          "ar": "يزدحم المسجد أثناء صلاة الجمعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mɒsk/"
+    },
+    {
+      "id": "w_b2_motion",
+      "en": "motion",
+      "ar": "حركة",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We study the motion of the planets.",
+          "ar": "نحن ندرس حركة الكواكب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈməʊʃən/"
+    },
+    {
+      "id": "w_b2_motivate",
+      "en": "motivate",
+      "ar": "سيحفز",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your speech will motivate the team to succeed.",
+          "ar": "خطابك سيحفز الفريق على النجاح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈməʊtɪveɪt/"
+    },
+    {
+      "id": "w_b2_motivation",
+      "en": "motivation",
+      "ar": "دافعه الرئيسي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Losing weight is his main motivation for running.",
+          "ar": "فقدان الوزن هو دافعه الرئيسي للجري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_motor",
+      "en": "motor",
+      "ar": "المحرك / بمحرك",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The motor in the car needs repairs.",
+          "ar": "يحتاج المحرك في السيارة إلى إصلاحات."
+        },
+        {
+          "en": "They bought a motor boat for fishing trips.",
+          "ar": "اشتروا قارباً بمحرك لرحلات الصيد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈməʊtə/"
+    },
+    {
+      "id": "w_b2_mount",
+      "en": "mount",
+      "ar": "تنظيم",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She plans to mount a photo exhibition this year.",
+          "ar": "هي تخطط لتنظيم معرض للصور الفوتوغرافية هذا العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/maʊnt/"
+    },
+    {
+      "id": "w_b2_moving",
+      "en": "moving",
+      "ar": "المتحركة",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She watched the moving clouds with joy.",
+          "ar": "هي راقبت الغيوم المتحركة بفرح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmuːvɪŋ/"
+    },
+    {
+      "id": "w_b2_multiple",
+      "en": "multiple",
+      "ar": "العديد",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The project has multiple stages to complete.",
+          "ar": "يحتوي المشروع على العديد من المراحل لإكماله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmʌltɪpl̩/"
+    },
+    {
+      "id": "w_b2_multiply",
+      "en": "multiply",
+      "ar": "يتضاعف",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The population began to multiply after the war.",
+          "ar": "بدأ عدد السكان يتضاعف بعد الحرب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmʌltɪplaɪ/"
+    },
+    {
+      "id": "w_b2_mysterious",
+      "en": "mysterious",
+      "ar": "غامضة",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She received a mysterious letter with no name.",
+          "ar": "تلقت رسالة غامضة بدون اسم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mɪˈstɪəɹi.əs/"
+    },
+    {
+      "id": "w_b2_myth",
+      "en": "myth",
+      "ar": "أسطورة",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Many stories began as an ancient myth.",
+          "ar": "بدأت العديد من القصص كأسطورة قديمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mɪθ/"
+    }
+  ]
+}

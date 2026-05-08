@@ -1,0 +1,575 @@
+{
+  "id": "lsn_a1_a_1",
+  "levelId": "lvl_1",
+  "title": "A Words - Part 1",
+  "slug": "a-words-1",
+  "order": 1,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف A - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف A.",
+  "words": [
+    {
+      "id": "w_a1_about",
+      "lessonId": "lsn_a1_a_1",
+      "en": "about",
+      "translation": "حوالي / عن",
+      "ar": "حوالي / عن",
+      "pronunciation": "/ə'baut/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The cake costs about 10.",
+          "ar": "تبلغ تكلفة الكعكة حوالي 10."
+        },
+        {
+          "en": "Tell me more about yourself.",
+          "ar": "أخبرني المزيد عن نفسك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_above",
+      "lessonId": "lsn_a1_a_1",
+      "en": "above",
+      "translation": "فوق",
+      "ar": "فوق",
+      "pronunciation": "/ə'bov/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The clock is above the door.",
+          "ar": "الساعة فوق الباب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_across",
+      "lessonId": "lsn_a1_a_1",
+      "en": "across",
+      "translation": "عبر / على الجانب الآخر",
+      "ar": "عبر / على الجانب الآخر",
+      "pronunciation": "/ə'kros/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He swam across the river.",
+          "ar": "سبح عبر النهر / قطع النهر سباحة."
+        },
+        {
+          "en": "They live across the river.",
+          "ar": "يعيشون على الجانب الآخر من النهر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_action",
+      "lessonId": "lsn_a1_a_1",
+      "en": "action",
+      "translation": "أفعال / عمل",
+      "ar": "أفعال / عمل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We need action not words.",
+          "ar": "نحن بحاجة إلى الأفعال لا الأقوال."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_activities",
+      "lessonId": "lsn_a1_a_1",
+      "en": "activities",
+      "translation": "أنشطة",
+      "ar": "أنشطة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They completed the activities.",
+          "ar": "لقد أكملوا الأنشطة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_actor",
+      "lessonId": "lsn_a1_a_1",
+      "en": "actor",
+      "translation": "ممثل",
+      "ar": "ممثل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like this actor.",
+          "ar": "يعجبني هذا الممثل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_actress",
+      "lessonId": "lsn_a1_a_1",
+      "en": "actress",
+      "translation": "ممثلة",
+      "ar": "ممثلة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She is a good actress.",
+          "ar": "إنها ممثلة جيدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_add",
+      "lessonId": "lsn_a1_a_1",
+      "en": "add",
+      "translation": "يضيف",
+      "ar": "يضيف",
+      "pronunciation": "/æd/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Don't forget to add salt.",
+          "ar": "لا تنس أن تضيف الملح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_address",
+      "lessonId": "lsn_a1_a_1",
+      "en": "address",
+      "translation": "عنوان",
+      "ar": "عنوان",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Write your address here.",
+          "ar": "اكتب عنوانك هنا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_adults",
+      "lessonId": "lsn_a1_a_1",
+      "en": "adults",
+      "translation": "بالغون / بالغان",
+      "ar": "بالغون / بالغان",
+      "pronunciation": "/ə'dʌlt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They are both adults now.",
+          "ar": "كلاهما بالغان الآن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_advice",
+      "lessonId": "lsn_a1_a_1",
+      "en": "advice",
+      "translation": "نصيحة",
+      "ar": "نصيحة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Thank you for your advice.",
+          "ar": "أشكرك على نصيحتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_afraid",
+      "lessonId": "lsn_a1_a_1",
+      "en": "afraid",
+      "translation": "خائف",
+      "ar": "خائف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Don't be afraid.",
+          "ar": "لا تكن خائفا / لا تخف."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_after",
+      "lessonId": "lsn_a1_a_1",
+      "en": "after",
+      "translation": "بعد",
+      "ar": "بعد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Call me after class.",
+          "ar": "اتصل بي بعد الدرس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_afternoon",
+      "lessonId": "lsn_a1_a_1",
+      "en": "afternoon",
+      "translation": "بعد الظهر",
+      "ar": "بعد الظهر",
+      "pronunciation": "/&",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They left early this afternoon.",
+          "ar": "غادروا في وقت مبكر من بعد ظهر اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_again",
+      "lessonId": "lsn_a1_a_1",
+      "en": "again",
+      "translation": "مرة أخرى",
+      "ar": "مرة أخرى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I lost my keys again.",
+          "ar": "فقدت مفاتيحي مرة أخرى."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_age",
+      "lessonId": "lsn_a1_a_1",
+      "en": "age",
+      "translation": "عمر",
+      "ar": "عمر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His age is five now.",
+          "ar": "عمره خمس سنوات."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ago",
+      "lessonId": "lsn_a1_a_1",
+      "en": "ago",
+      "translation": "قبل",
+      "ar": "قبل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We met years ago.",
+          "ar": "التقينا قبل سنوات."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_agree",
+      "lessonId": "lsn_a1_a_1",
+      "en": "agree",
+      "translation": "يوافق",
+      "ar": "يوافق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I agree. You are right.",
+          "ar": "أوافقك الرأي / أنت على حق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_air",
+      "lessonId": "lsn_a1_a_1",
+      "en": "air",
+      "translation": "هواء",
+      "ar": "هواء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Open the window for air.",
+          "ar": "افتح النافذة لأجل الهواء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_airport",
+      "lessonId": "lsn_a1_a_1",
+      "en": "airport",
+      "translation": "مطار",
+      "ar": "مطار",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This airport is very big.",
+          "ar": "هذا المطار كبير جدًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_all",
+      "lessonId": "lsn_a1_a_1",
+      "en": "all",
+      "translation": "جميع / كل / طوال",
+      "ar": "جميع / كل / طوال",
+      "pronunciation": "/ol/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "All the students are here.",
+          "ar": "جميع الطلاب هنا."
+        },
+        {
+          "en": "We worked all day on this.",
+          "ar": "عملنا طوال اليوم على هذا الأمر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_also",
+      "lessonId": "lsn_a1_a_1",
+      "en": "also",
+      "translation": "أيضا",
+      "ar": "أيضا",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I also want to join you.",
+          "ar": "أريد أن أنضم إليكم أيضا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_always",
+      "lessonId": "lsn_a1_a_1",
+      "en": "always",
+      "translation": "دائما",
+      "ar": "دائما",
+      "pronunciation": "/'ol weiz/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She always wakes early.",
+          "ar": "إنها تستيقظ مبكرًا دائمًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_amazing",
+      "lessonId": "lsn_a1_a_1",
+      "en": "amazing",
+      "translation": "رائع / مذهل",
+      "ar": "رائع / مذهل",
+      "pronunciation": "/ə'mer-zın/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's an amazing story.",
+          "ar": "إنها قصة رائعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_and",
+      "lessonId": "lsn_a1_a_1",
+      "en": "and",
+      "translation": "و",
+      "ar": "و",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Ali and I left early.",
+          "ar": "غادرت أنا وعلي مبكرًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

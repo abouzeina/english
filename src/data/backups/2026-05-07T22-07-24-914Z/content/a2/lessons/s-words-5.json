@@ -1,0 +1,267 @@
+{
+  "id": "lsn_a2_s_5",
+  "levelId": "lvl_2",
+  "slug": "s-words-5",
+  "title": "Unit 39: S Words - Part 5",
+  "titleAr": "الوحدة 39: كلمات حرف S - الجزء 5",
+  "description": "Build on your A2 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
+  "order": 39,
+  "wordCount": 11,
+  "words": [
+    {
+      "id": "w_a2_suggest",
+      "en": "suggest",
+      "ar": "يقترح",
+      "pronunciation": "/sə'dzest/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I suggest we give Ali a second chance",
+          "ar": "أقترح أن نعطي علي فرصة ثانية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_suggestion",
+      "en": "suggestion",
+      "ar": "اقتراح",
+      "pronunciation": "/sə'dzes.tfən/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have a couple of suggestions.",
+          "ar": "لدي بعض الاقتراحات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_suit",
+      "en": "suit",
+      "ar": "بدلة",
+      "pronunciation": "/su:t/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami is wearing a new suit today.",
+          "ar": "سامي يرتدي بدلة جديدة اليوم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_support",
+      "en": "support",
+      "ar": "دعم / يدعم",
+      "pronunciation": "/sə'pɔ:rt/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They offered me advice and support.",
+          "ar": "قدموا لي النصيحة والدعم."
+        },
+        {
+          "en": "How do you support yourselves ?",
+          "ar": "كيف تدعمون أنفسكم ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_suppose",
+      "en": "suppose",
+      "ar": "يظن",
+      "pronunciation": "/sə'pouz/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lives here, I suppose.",
+          "ar": "إنه يعيش هنا، على ما أظن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_surprise",
+      "en": "surprise",
+      "ar": "مفاجأة / يفاجئ",
+      "pronunciation": "/sə'praız/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What a surprise to see you here !!",
+          "ar": "يا لها من مفاجأة أن أراك هنا : !!"
+        },
+        {
+          "en": "What happened didn't surprise me.",
+          "ar": "ما حدث لم يفاجئني :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_surprised",
+      "en": "surprised",
+      "ar": "متفاجئا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He looked surprised when I told him",
+          "ar": "بدا متفاجئا عندما أخبرته :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_surprising",
+      "en": "surprising",
+      "ar": "مفاجئ / غير متوقع",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A surprising number of people came.",
+          "ar": "جاء عدد مفاجئ غير متوقع من الناس :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_survey",
+      "en": "survey",
+      "ar": "استطلاع الرأي",
+      "pronunciation": "/'s3:.ver/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Their research used a survey method.",
+          "ar": "استخدم بحثهم طريقة استطلاع الرأي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_sweet",
+      "en": "sweet",
+      "ar": "حلو / حلويات",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I bought some sweet potatoes.",
+          "ar": "اشتريت بعض البطاطا الحلوة."
+        },
+        {
+          "en": "I always brush my teeth after eating sweets.",
+          "ar": "أنا دائما أغسل أسناني بعد تناول الحلويات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_symbol",
+      "en": "symbol",
+      "ar": "رمز",
+      "pronunciation": "/'sım.bəl/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The symbol \" & \" means \" and",
+          "ar": "الرمز \" & \" يعني \" و \"."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,14 +1,165 @@
 {
   "id": "lsn_a2_m_2",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 25: M Words - Part 2",
   "slug": "m-words-2",
-  "title": "Unit 26: M Words - Part 2",
-  "titleAr": "الوحدة 26: كلمات حرف M - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter M.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف M.",
-  "order": 26,
-  "wordCount": 10,
+  "order": 25,
+  "wordCount": 17,
+  "titleAr": "الوحدة 25: كلمات حرف M - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter M.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف M.",
   "words": [
+    {
+      "id": "w_a2_metal",
+      "en": "metal",
+      "ar": "معدن",
+      "pronunciation": "/ metal/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Gold is a very expensive metal.",
+          "ar": "الذهب معدن باهظ الثمن :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_method",
+      "en": "method",
+      "ar": "طريقة",
+      "pronunciation": "/'mee-ǝd/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They found out a new method.",
+          "ar": "اكتشفوا طريقة جديدة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_middle",
+      "en": "middle",
+      "ar": "منتصف / أوسط",
+      "pronunciation": "/'mid el/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali stood in the middle.",
+          "ar": "وقف علي في المنتصف."
+        },
+        {
+          "en": "He's the middle child of three.",
+          "ar": "إنه الطفل الأوسط لثلاثة أطفال :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_might",
+      "en": "might",
+      "ar": "قد / ربما",
+      "pronunciation": "/mart/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What he said might be true.",
+          "ar": "ما قاله قد يكون صحيحا : قد / ربما :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_mind",
+      "en": "mind",
+      "ar": "عقل / يمانع",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have no idea how his mind works !!",
+          "ar": "ليس لدي فكرة كيف يعمل عقله !!"
+        },
+        {
+          "en": "Do you mind if I open the window?",
+          "ar": "هل تمانع إذا فتحت النافذة : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/maɪnd/"
+    },
+    {
+      "id": "w_a2_mine",
+      "en": "mine",
+      "ar": "لي / خاصتي",
+      "pronunciation": "/main/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This bicycle is mine.",
+          "ar": "هذه دراجتي."
+        },
+        {
+          "en": "That mine belongs to the government.",
+          "ar": "ذلك المنجم ملك للحكومة."
+        },
+        {
+          "en": "The mine is known for its valuable minerals.",
+          "ar": "يشتهر المنجم بمعادنه الثمينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_mirror",
       "en": "mirror",
@@ -35,7 +186,6 @@
       "id": "w_a2_missing",
       "en": "missing",
       "ar": "مفقودة / ضائعة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_m_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -51,7 +201,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈmɪsɪŋ/"
     },
     {
       "id": "w_a2_mobile",
@@ -83,7 +234,6 @@
       "id": "w_a2_monkey",
       "en": "monkey",
       "ar": "قرد / قرود",
-      "pronunciation": "",
       "lessonId": "lsn_a2_m_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -99,7 +249,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈmʌŋki/"
     },
     {
       "id": "w_a2_moon",
@@ -193,7 +344,6 @@
       "id": "w_a2_musical",
       "en": "musical",
       "ar": "موسيقي",
-      "pronunciation": "",
       "lessonId": "lsn_a2_m_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -201,15 +351,21 @@
         {
           "en": "He began a new job in a musical career.",
           "ar": "بدأ وظيفة جديدة في مهنة موسيقية :"
+        },
+        {
+          "en": "The actors performed well in this musical.",
+          "ar": "الممثلون كان أداؤهم جيدًا في هذه المسرحية الموسيقية."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈmju.zɪ.kəl/"
     },
     {
       "id": "w_a2_musician",
@@ -232,6 +388,28 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_myself",
+      "en": "myself",
+      "ar": "نفسي",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I consider myself happy.",
+          "ar": "أعتبر نفسي سعيدًا : يأخُذ بِعَيْن الاعتبار | يَعْتَبِر :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/maɪˈsɛlf/"
     }
   ]
 }

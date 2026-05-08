@@ -1,21 +1,124 @@
 {
   "id": "lsn_a1_h_2",
-  "levelId": "lvl_1",
-  "title": "H Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 18: H Words - Part 2",
   "slug": "h-words-2",
   "order": 18,
-  "wordCount": 15,
-  "titleAr": "كلمات حرف H - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter H.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف H.",
+  "wordCount": 20,
+  "titleAr": "الوحدة 18: كلمات حرف H - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter H.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف H.",
   "words": [
+    {
+      "id": "w_a1_high",
+      "lessonId": "lsn_a1_h_2",
+      "en": "high",
+      "translation": "مرتفع / عالي",
+      "ar": "مرتفع / عالي",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This wall is too high.",
+          "ar": "هذا الجدار مرتفع للغاية."
+        },
+        {
+          "en": "He can jump high.",
+          "ar": "يمكنه أن يقفز عاليا."
+        },
+        {
+          "en": "The company's profits reached a new high.",
+          "ar": "وصلت أرباح الشركة إلى مستوى مرتفع جديد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/haɪ/"
+    },
+    {
+      "id": "w_a1_him",
+      "lessonId": "lsn_a1_h_2",
+      "en": "him",
+      "translation": "هـ (ضمير مفعول به للمذكر)",
+      "ar": "هـ (ضمير مفعول به للمذكر)",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw him yesterday.",
+          "ar": "لقد رأيته بالأمس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əm/"
+    },
+    {
+      "id": "w_a1_his",
+      "lessonId": "lsn_a1_h_2",
+      "en": "his",
+      "translation": "هـ (ضمير ملكية للمذكر)",
+      "ar": "هـ (ضمير ملكية للمذكر)",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He lost his keys.",
+          "ar": "لقد أضاع مفاتيحه."
+        },
+        {
+          "en": "The choice was his.",
+          "ar": "الاختيار كان اختياره :"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈhɪz/"
+    },
+    {
+      "id": "w_a1_history",
+      "lessonId": "lsn_a1_h_2",
+      "en": "history",
+      "translation": "تاريخ",
+      "ar": "تاريخ",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love reading history books.",
+          "ar": "أحب قراءة كتب التاريخ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈhɪst(ə)ɹi/"
+    },
     {
       "id": "w_a1_hobby",
       "lessonId": "lsn_a1_h_2",
       "en": "hobby",
       "translation": "هواية",
       "ar": "هواية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -29,7 +132,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈhɒ.bi/"
     },
     {
       "id": "w_a1_holiday",
@@ -37,7 +141,6 @@
       "en": "holiday",
       "translation": "إجازة / عطلة",
       "ar": "إجازة / عطلة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +154,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈhɒlɪdeɪ/"
     },
     {
       "id": "w_a1_home",
@@ -59,7 +163,6 @@
       "en": "home",
       "translation": "منزل",
       "ar": "منزل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -69,15 +172,21 @@
         {
           "en": "We stayed home all day.",
           "ar": "بقينا في المنزل طوال اليوم."
+        },
+        {
+          "en": "Ali talked about his home life.",
+          "ar": "تحدث علي عن حياته المنزلية :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/(h)əʊm/"
     },
     {
       "id": "w_a1_homework",
@@ -85,7 +194,6 @@
       "en": "homework",
       "translation": "واجب منزلي",
       "ar": "واجب منزلي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -99,7 +207,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈhəʊmˌwɜːk/"
     },
     {
       "id": "w_a1_hope",
@@ -107,21 +216,26 @@
       "en": "hope",
       "translation": "يأمل / يرجو",
       "ar": "يأمل / يرجو",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I hope everything goes well.",
           "ar": "أرجو أن يسير كل شيء على ما يرام."
+        },
+        {
+          "en": "He told me all his hopes and dreams.",
+          "ar": "أخبرني بكل آماله وأحلامه :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/həʊp/"
     },
     {
       "id": "w_a1_horse",
@@ -129,7 +243,6 @@
       "en": "horse",
       "translation": "حصان",
       "ar": "حصان",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -143,7 +256,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hɔːs/"
     },
     {
       "id": "w_a1_hospital",
@@ -151,7 +265,6 @@
       "en": "hospital",
       "translation": "مستشفى",
       "ar": "مستشفى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -165,7 +278,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈhɒs.pɪ.tl̩/"
     },
     {
       "id": "w_a1_hot",
@@ -173,7 +287,6 @@
       "en": "hot",
       "translation": "حار",
       "ar": "حار",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -187,7 +300,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hɒt/"
     },
     {
       "id": "w_a1_hotel",
@@ -195,7 +309,6 @@
       "en": "hotel",
       "translation": "فندق",
       "ar": "فندق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -209,7 +322,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/(h)əʊˈtɛl/"
     },
     {
       "id": "w_a1_hour",
@@ -217,7 +331,6 @@
       "en": "hour",
       "translation": "ساعة / مدة زمنية",
       "ar": "ساعة / مدة زمنية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -231,7 +344,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈaʊɚ/"
     },
     {
       "id": "w_a1_house",
@@ -239,7 +353,6 @@
       "en": "house",
       "translation": "منزل",
       "ar": "منزل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -253,7 +366,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hʌʊs/"
     },
     {
       "id": "w_a1_how",
@@ -261,7 +375,6 @@
       "en": "how",
       "translation": "كيف / كم",
       "ar": "كيف / كم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -279,7 +392,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hæŏ/"
     },
     {
       "id": "w_a1_however",
@@ -287,7 +401,6 @@
       "en": "however",
       "translation": "لكن / مع ذلك",
       "ar": "لكن / مع ذلك",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -301,7 +414,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hɑʊˈɛvə/"
     },
     {
       "id": "w_a1_hundred",
@@ -309,7 +423,6 @@
       "en": "hundred",
       "translation": "مئة",
       "ar": "مئة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -323,7 +436,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈhʌndɚd/"
     },
     {
       "id": "w_a1_hungry",
@@ -331,7 +445,6 @@
       "en": "hungry",
       "translation": "جائع",
       "ar": "جائع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -345,7 +458,30 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈhʌŋ.ɡɹi/"
+    },
+    {
+      "id": "w_a1_husband",
+      "lessonId": "lsn_a1_h_2",
+      "en": "husband",
+      "translation": "زوج",
+      "ar": "زوج",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My husband loves to cook.",
+          "ar": "زوجي يحب الطبخ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈhʌz.bənd/"
     }
   ]
 }

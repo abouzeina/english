@@ -1,0 +1,299 @@
+{
+  "id": "lsn_c1_v_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 47: V Words - Part 1",
+  "slug": "v-words-1",
+  "order": 47,
+  "wordCount": 13,
+  "titleAr": "الوحدة 47: كلمات حرف V - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter V.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف V.",
+  "words": [
+    {
+      "id": "w_c1_vacuum",
+      "en": "vacuum",
+      "ar": "فراغ / مكنسة كهربائية",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا يمكن للصوت أن ينتقل عبر الفراغ.",
+          "ar": "She used the vacuum to clean the living room carpet."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvæ.kjuː.əm/"
+    },
+    {
+      "id": "w_c1_vague",
+      "en": "vague",
+      "ar": "غامض / غير واضح",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان وصفه للمشتبه به غامضاً جداً.",
+          "ar": "She had a vague idea of where the house was."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/veɪɡ/"
+    },
+    {
+      "id": "w_c1_validity",
+      "en": "validity",
+      "ar": "صحة / صلاحية",
+      "pronunciation": "vəˈlɪdəti",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "شكك العلماء في صحة نتائج البحث.",
+          "ar": "The validity of the passport is ten years."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_vanish",
+      "en": "vanish",
+      "ar": "يختفي",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "جعل الساحر الأرنب يختفي في الهواء.",
+          "ar": "My keys seem to have vanished completely."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvænɪʃ/"
+    },
+    {
+      "id": "w_c1_variable",
+      "en": "variable",
+      "ar": "متغير",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الطقس متغير جداً في هذه المنطقة.",
+          "ar": "Interest rates are one of the main variables in the economy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɛəɹ.i.ə.bl̩/"
+    },
+    {
+      "id": "w_c1_varied",
+      "en": "varied",
+      "ar": "متنوع",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يقدم المطعم قائمة متنوعة لتناسب جميع الأذواق.",
+          "ar": "She has a varied career history in different industries."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɛəɹid/"
+    },
+    {
+      "id": "w_c1_vein",
+      "en": "vein",
+      "ar": "وريد / عرق",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كافح الطبيب للعثور على وريد للحقن.",
+          "ar": "There is a vein of gold running through the rock."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/veɪn/"
+    },
+    {
+      "id": "w_c1_venture",
+      "en": "venture",
+      "ar": "مشروع مخاطرة / يجازف",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أثبت المشروع التجاري الجديد نجاحه الكبير.",
+          "ar": "He decided to venture into the dark forest alone."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɛn.t͡ʃə/"
+    },
+    {
+      "id": "w_c1_verbal",
+      "en": "verbal",
+      "ar": "لفظي / شفوي",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعطته الشركة تحذيراً لفظياً بسبب تأخره.",
+          "ar": "He has strong verbal communication skills."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɜː.bəl/"
+    },
+    {
+      "id": "w_c1_verdict",
+      "en": "verdict",
+      "ar": "حكم (قضائي)",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توصلت هيئة المحلفين إلى حكم بالبراءة (غير مذنب).",
+          "ar": "The public's verdict on the new policy was negative."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɝ.dɪkt/"
+    },
+    {
+      "id": "w_c1_verify",
+      "en": "verify",
+      "ar": "يتحقق من",
+      "pronunciation": "ˈverɪfaɪ",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحتاج البنك للتحقق من هويتك قبل فتح حساب.",
+          "ar": "Please verify that all the information provided is correct."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_verse",
+      "en": "verse",
+      "ar": "بيت شعر / آية",
+      "pronunciation": "vɜːs",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "القصيدة مكتوبة بنظام الشعر الحر.",
+          "ar": "He read a beautiful verse from the holy book."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_vessel",
+      "en": "vessel",
+      "ar": "وعاء / سفينة",
+      "pronunciation": "ˈvesl",
+      "lessonId": "lsn_c1_v_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استُخدم الوعاء القديم لتخزين الزيت.",
+          "ar": "The ship was a large commercial vessel."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

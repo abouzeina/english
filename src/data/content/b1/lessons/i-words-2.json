@@ -1,14 +1,220 @@
 {
   "id": "lsn_b1_i_2",
   "levelId": "lvl_b1",
+  "title": "Unit 18: I Words - Part 2",
   "slug": "i-words-2",
-  "title": "Unit 19: I Words - Part 2",
-  "titleAr": "الوحدة 19: كلمات حرف I - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with I.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف I.",
-  "order": 19,
-  "wordCount": 6,
+  "order": 18,
+  "wordCount": 15,
+  "titleAr": "الوحدة 18: كلمات حرف I - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter I.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف I.",
   "words": [
+    {
+      "id": "w_b1_indirect",
+      "en": "indirect",
+      "ar": "غير مباشر",
+      "pronunciation": "/ ın də rekt/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are many indirect effects of using social media.",
+          "ar": "هناك العديد من الآثار غير المباشرة لاستخدام وسائل التواصل الاجتماعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_indoor",
+      "en": "indoor",
+      "ar": "داخلي",
+      "pronunciation": "/ In dor/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I suggest we play some indoor games.",
+          "ar": "أقترح أن نلعب بعض الألعاب الداخلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_indoors",
+      "en": "indoors",
+      "ar": "بالداخل",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Many plants can be grown indoors.",
+          "ar": "العديد من النباتات يمكن زراعتها بالداخل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ɪnˈdɔːz/"
+    },
+    {
+      "id": "w_b1_influence",
+      "en": "influence",
+      "ar": "يؤثر / تأثير",
+      "pronunciation": "/'ın-flu-ens/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't want to influence your decision.",
+          "ar": "لا أريد أن أؤثر على قرارك."
+        },
+        {
+          "en": "What is the influence of climate change on forests?",
+          "ar": "ما هو تأثير التغير المناخي على الغابات ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ingredients",
+      "en": "ingredients",
+      "ar": "مكونات",
+      "pronunciation": "/ın'gri-di-ənt/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This medicine contains only natural ingredients.",
+          "ar": "هذا الدواء يحتوي على مكونات طبيعية فقط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_injured",
+      "en": "injured",
+      "ar": "أصابة / يؤذي / مصابة",
+      "pronunciation": "/'ın dzər/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I injured my knee.",
+          "ar": "تعرضت لإصابة في ركبتي."
+        },
+        {
+          "en": "My injured knee hurts.",
+          "ar": "ركبتي المصابة تؤلمني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_innocent",
+      "en": "innocent",
+      "ar": "أبرياء / بريء",
+      "pronunciation": "/'ın əsənt/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Some innocent people were killed.",
+          "ar": "قُتل بعض الأبرياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_intelligence",
+      "en": "intelligence",
+      "ar": "ذكاء",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We should control the intelligence of machines.",
+          "ar": "يجب أن نتحكم في ذكاء الآلات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ɪnˈtɛl.ɪ.d͡ʒəns/"
+    },
+    {
+      "id": "w_b1_intend",
+      "en": "intend",
+      "ar": "ينوي",
+      "pronunciation": "/ın tend/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I intend to learn a foreign language this year.",
+          "ar": "أنا أنوي تعلم لغة أجنبية هذا العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_b1_intentions",
       "en": "intentions",
@@ -76,14 +282,18 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_involved",
+      "id": "w_a2_involved",
       "en": "involved",
-      "ar": "متورطين",
+      "ar": "تضمنت",
       "pronunciation": "/In valvd/",
       "lessonId": "lsn_b1_i_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
       "examples": [
+        {
+          "en": "Many of the crimes involved drugs.",
+          "ar": "العديد من الجرائم تضمنت المخدرات :"
+        },
         {
           "en": "Definitely they were involved.",
           "ar": "بالتأكيد كانوا متورطين."
@@ -92,8 +302,8 @@
       "type": "word",
       "difficulty": "B1",
       "tags": [
-        "B1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },

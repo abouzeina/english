@@ -1,0 +1,369 @@
+{
+  "id": "lsn_b1_o_1",
+  "levelId": "lvl_b1",
+  "slug": "o-words-1",
+  "title": "Unit 26: O Words - Part 1",
+  "titleAr": "الوحدة 26: كلمات حرف O - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with O.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف O.",
+  "order": 26,
+  "wordCount": 16,
+  "words": [
+    {
+      "id": "w_b1_nuclear",
+      "en": "nuclear",
+      "ar": "نووية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A nuclear bomb is extremely dangerous.",
+          "ar": "القنبلة النووية خطيرة للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_obvious",
+      "en": "obvious",
+      "ar": "واضحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "For obvious reasons, I complained.",
+          "ar": "الأسباب واضحة، أنا اشتكيت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_obviously",
+      "en": "Obviously",
+      "ar": "من الواضح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Obviously, you are not comfortable.",
+          "ar": "من الواضح أنك لست مرتاحا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_occasions",
+      "en": "occasions",
+      "ar": "مناسبات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have met on several occasions.",
+          "ar": "لقد التقينا في عدة مناسبات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_occurred",
+      "en": "occurred",
+      "ar": "وقعت / حدثت",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Four attacks occurred in the past month.",
+          "ar": "أربع هجمات وقعت الشهر الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_odd",
+      "en": "odd",
+      "ar": "غريب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I noticed something odd about your friend.",
+          "ar": "لاحظت شيئًا غريبا في صديقك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_official",
+      "en": "official",
+      "ar": "رسمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It is an official decision.",
+          "ar": "إنه قرار رسمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_old_fashioned",
+      "en": "old-fashioned",
+      "ar": "الطراز القديم",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This cupboard is made in the old-fashioned way.",
+          "ar": "هذه الخزانة مصنوعة على الطراز القديم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_once",
+      "en": "once",
+      "ar": "حالما",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can get some rest once you arrive home.",
+          "ar": "يمكنك الحصول على قسط من الراحة حالما تصل إلى المنزل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_operation",
+      "en": "operation",
+      "ar": "عملية جراحية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He had an operation on his shoulder.",
+          "ar": "أجرى عملية جراحية في كتفه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_organized",
+      "en": "organized",
+      "ar": "منظم",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My father is very organized.",
+          "ar": "والدي منظم جدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_organizer",
+      "en": "organizer",
+      "ar": "منظم",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami is the organizer of this race.",
+          "ar": "سامي هو منظم هذا السباق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_original",
+      "en": "original",
+      "ar": "الأصل / الأصلية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is a copy of the document the original is with me.",
+          "ar": "هذه نسخة من الوثيقة، الأصل معي."
+        },
+        {
+          "en": "Where is the original version of the article?",
+          "ar": "أين النسخة الأصلية من المقال ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_originally",
+      "en": "originally",
+      "ar": "في الأصل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The hospital was originally a church.",
+          "ar": "كان المستشفى في الأصل كنيسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ought_to",
+      "en": "ought to",
+      "ar": "يجب عليك",
+      "pronunciation": "/ɔt/",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You ought to apologize to your professor.",
+          "ar": "يجب عليك أن تعتذر لأستاذك الجامعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_outdoor",
+      "en": "outdoor",
+      "ar": "خارجي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_o_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The hotel has an outdoor swimming pool.",
+          "ar": "يحتوي الفندق على حوض سباحة خارجي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -3,17 +3,19 @@
 import { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { WordItem } from "@/types";
+import { getBestEnglishVoice } from "@/utils/audioVoice";
 import { useWafiStore, useAppStore } from "@/store/useAppStore";
 import { Button } from "@/components/ui/button";
 import { Volume2, Trophy, RotateCcw, CheckCircle2, XCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { QuizErrorBoundary } from "@/components/error-boundaries";
 
 interface QuizEngineProps {
   words: WordItem[];
   lessonId: string;
 }
 
-export function QuizEngine({ words, lessonId }: QuizEngineProps) {
+function QuizEngineInternal({ words, lessonId }: QuizEngineProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
@@ -22,7 +24,6 @@ export function QuizEngine({ words, lessonId }: QuizEngineProps) {
   
   // Atomic Selectors
   const markLessonCompleted = useAppStore(s => s.markLessonCompleted);
-  const hasHydrated = useWafiStore(s => true) ?? false;
 
   // Generate Questions
   const questions = useMemo(() => {
@@ -54,6 +55,10 @@ export function QuizEngine({ words, lessonId }: QuizEngineProps) {
 
   const playWord = (text: string) => {
     const u = new SpeechSynthesisUtterance(text);
+    const bestVoice = getBestEnglishVoice();
+    if (bestVoice) {
+      u.voice = bestVoice;
+    }
     u.lang = "en-US";
     window.speechSynthesis.cancel();
     window.speechSynthesis.speak(u);
@@ -243,5 +248,13 @@ export function QuizEngine({ words, lessonId }: QuizEngineProps) {
         </motion.div>
       </AnimatePresence>
     </div>
+  );
+}
+
+export function QuizEngine(props: QuizEngineProps) {
+  return (
+    <QuizErrorBoundary>
+      <QuizEngineInternal {...props} />
+    </QuizErrorBoundary>
   );
 }

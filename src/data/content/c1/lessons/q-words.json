@@ -1,0 +1,35 @@
+{
+  "id": "lsn_c1_q",
+  "levelId": "lvl_c1",
+  "title": "Unit 33: Q Words",
+  "slug": "q-words",
+  "order": 33,
+  "wordCount": 1,
+  "titleAr": "الوحدة 33: كلمات حرف Q",
+  "description": "Master essential C1 vocabulary starting with the letter Q.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف Q.",
+  "words": [
+    {
+      "id": "w_c1_quota",
+      "en": "quota",
+      "ar": "حصة / نصيب محدد",
+      "lessonId": "lsn_c1_q",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حددت الحكومة حصة للسيارات المستوردة",
+          "ar": "We have already met our sales quota for the month."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkwoʊtə/"
+    }
+  ]
+}

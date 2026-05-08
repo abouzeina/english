@@ -1,0 +1,567 @@
+{
+  "id": "lsn_a2_d_1",
+  "levelId": "lvl_2",
+  "slug": "d-words-1",
+  "title": "Unit 10: D Words - Part 1",
+  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter D.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف D.",
+  "order": 10,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_cycle",
+      "en": "cycle",
+      "ar": "دراجة / يقود الدراجة",
+      "pronunciation": "/'saı kəl/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I cycle to work.",
+          "ar": "أنا أقود الدراجة إلى العمل :"
+        },
+        {
+          "en": "They completed their journey by cycle.",
+          "ar": "أكملوا رحلتهم بالدراجة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_daily",
+      "en": "daily",
+      "ar": "يومي",
+      "pronunciation": "/'der-li/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is that your daily routine ?",
+          "ar": "هل ذلك هو روتينك اليومي : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_danger",
+      "en": "danger",
+      "ar": "خطر",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are we in danger?",
+          "ar": "هل نحن في خطر ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_dark",
+      "en": "dark",
+      "ar": "ظلام",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are you afraid of the dark?",
+          "ar": "هل تخاف من الظلام ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_data",
+      "en": "data",
+      "ar": "بيانات",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The scientists want more data",
+          "ar": "العلماء يريدون المزيد من البيانات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_dead",
+      "en": "dead",
+      "ar": "متوفية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My Grandmother is dead; She died last year.",
+          "ar": "جدتي متوفية. ماتت العام الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_deal",
+      "en": "deal",
+      "ar": "تتعامل مع",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How would you deal with the problem?",
+          "ar": "كيف ستتعامل مع المشكلة | يتعامل مع | : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_dear",
+      "en": "dear",
+      "ar": "عزيزي / يا ويلي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Oh dear !! I think I've lost my keys !!",
+          "ar": "ياويلي : !! : أعتقد أني أضعت مفاتيحي : !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_death",
+      "en": "death",
+      "ar": "موت",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I believe there's life after death ?",
+          "ar": "أنا أؤمن أن هناك حياة بعد الموت : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_decision",
+      "en": "decision",
+      "ar": "قرار",
+      "pronunciation": "/dr'sız en/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This wasn't an easy decision for us",
+          "ar": "لم يكن هذا قرارا سهلاً بالنسبة لنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_deep",
+      "en": "deep",
+      "ar": "عميق",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The snow was very deep.",
+          "ar": "كان الثلج عميقًا جدا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_definitely",
+      "en": "definitely",
+      "ar": "بالتأكيد",
+      "pronunciation": "/ def  -nıt-li/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali was definitely afraid.",
+          "ar": "كان علي خائفًا بالتأكيد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_degree",
+      "en": "degree",
+      "ar": "شهادة",
+      "pronunciation": "/dı' gri/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Where did you get your degree?",
+          "ar": "من أين حصلت على شهادتك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_dentist",
+      "en": "dentist",
+      "ar": "طبيب الأسنان",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can the dentist see me today ?",
+          "ar": "هل يستطيع طبيب الأسنان رؤيتي اليوم ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_department",
+      "en": "department",
+      "ar": "قسم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who manages this department ?",
+          "ar": "من يدير هذا القسم : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_depend",
+      "en": "depend",
+      "ar": "تعتمد",
+      "pronunciation": "/dr'pend/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can depend on me.",
+          "ar": "تستطيع أن تعتمد علي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_desert",
+      "en": "desert",
+      "ar": "صحراء",
+      "pronunciation": "/'dez ǝrt/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Camels are the ships of the desert.",
+          "ar": "الجمال هن سفن الصحراء :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_designer",
+      "en": "designer",
+      "ar": "مصمم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali became a game designer.",
+          "ar": "أصبح علي مصمم ألعاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_destroy",
+      "en": "destroy",
+      "ar": "دمر",
+      "pronunciation": "/dr strɔ1/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The fire destroyed three houses.",
+          "ar": "دمر الحريق ثلاثة منازل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_detective",
+      "en": "detective",
+      "ar": "محقق",
+      "pronunciation": "/dr tek txv/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He wanted to be a detective.",
+          "ar": "أراد أن يكون محققًا : تَحَرّي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_device",
+      "en": "device",
+      "ar": "جهاز",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This device doesn't work",
+          "ar": "هذا الجهاز لا يعمل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_develop",
+      "en": "develop",
+      "ar": "تطور",
+      "pronunciation": "/di'vel ǝp/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You should develop your writing skills.",
+          "ar": "يجب أن تطور مهاراتك الكتابية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_diary",
+      "en": "diary",
+      "ar": "يوميات",
+      "pronunciation": "/'dar  -ri/",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Would you allow me to read your diary ?",
+          "ar": "هل تسمح لي بقراءة يومياتك : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_differently",
+      "en": "differently",
+      "ar": "بشكل مختلف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'll play this time differently.",
+          "ar": "سألعب هذه المرة بشكل مختلف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_digital",
+      "en": "digital",
+      "ar": "رقمية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't like digital watches.",
+          "ar": "لا أحب الساعات الرقمية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

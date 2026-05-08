@@ -15,6 +15,7 @@ export function SyncManager() {
   const setLastSynced = useSyncStore(state => state.setLastSynced);
   const isInitialMount = useRef(true);
   const isRemoteUpdate = useRef(false);
+  const unsubscribers = useRef<Array<() => void>>([]);
 
   // 1. Initial Data Fetch & Migration
   useEffect(() => {
@@ -164,17 +165,18 @@ export function SyncManager() {
           }
         });
 
-        return () => {
-          unsubProgress();
-          unsubFavs();
-          unsubSRS();
-        };
+        unsubscribers.current.push(unsubProgress, unsubFavs, unsubSRS);
       } catch (error) {
         console.error("[SyncManager] Initial sync failed:", error);
       }
     };
 
     performSync();
+
+    return () => {
+      unsubscribers.current.forEach(unsub => unsub());
+      unsubscribers.current = [];
+    };
   }, [user?.uid]);
 
   // 2. Continuous Sync (Watch for changes)

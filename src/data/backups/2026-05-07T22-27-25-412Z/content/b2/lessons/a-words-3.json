@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_a_3",
+  "levelId": "lvl_b2",
+  "slug": "a-words-3",
+  "title": "A Words - Part 3",
+  "titleAr": "كلمات حرف A - الجزء 3",
+  "description": "Learn essential B2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف A.",
+  "order": 3,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_amusing",
+      "en": "amusing",
+      "ar": "مسلي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_analyst",
+      "en": "analyst",
+      "ar": "محلل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ancestor",
+      "en": "ancestor",
+      "ar": "سلف / أجداد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anger",
+      "en": "anger",
+      "ar": "غضب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_angle",
+      "en": "angle",
+      "ar": "زاوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_animation",
+      "en": "animation",
+      "ar": "رسوم متحركة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anniversary",
+      "en": "anniversary",
+      "ar": "ذكرى سنوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_annual",
+      "en": "annual",
+      "ar": "سنوي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_annually",
+      "en": "annually",
+      "ar": "سنوياً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anticipate",
+      "en": "anticipate",
+      "ar": "يتوقع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anxiety",
+      "en": "anxiety",
+      "ar": "قلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anxious",
+      "en": "anxious",
+      "ar": "قلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_apology",
+      "en": "apology",
+      "ar": "اعتذار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_apparent",
+      "en": "apparent",
+      "ar": "واضح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_apparently",
+      "en": "apparently",
+      "ar": "يبدو أن / بوضوح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_appeal",
+      "en": "appeal",
+      "ar": "إعجاب / جاذبية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_applicant",
+      "en": "applicant",
+      "ar": "متقدم للوظيفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_approach",
+      "en": "approach",
+      "ar": "يقترب / أسلوب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_appropriate",
+      "en": "appropriate",
+      "ar": "مناسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_appropriately",
+      "en": "appropriately",
+      "ar": "بشكل مناسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_approval",
+      "en": "approval",
+      "ar": "رضا / موافقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_approve",
+      "en": "approve",
+      "ar": "يوافق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_arise",
+      "en": "arise",
+      "ar": "تنشأ / تظهر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_armed",
+      "en": "armed",
+      "ar": "مسلح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_arms",
+      "en": "arms",
+      "ar": "أسلحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

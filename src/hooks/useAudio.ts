@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
+import { getBestEnglishVoice } from "@/utils/audioVoice";
 
 interface UseAudioProps {
   text: string;
@@ -15,39 +16,48 @@ export function useAudio({ text, lang = "en-US" }: UseAudioProps) {
   // Initialize and select a high-quality voice
   useEffect(() => {
     const loadVoices = () => {
-      const voices = window.speechSynthesis.getVoices();
-      // Try to find a good English voice (e.g., Google or a natural sounding local voice)
-      const preferredVoice = voices.find(
-        (v) => v.lang.includes(lang.split("-")[0]) && (v.name.includes("Google") || v.name.includes("Natural"))
-      );
-      setVoice(preferredVoice || voices.find((v) => v.lang.includes(lang.split("-")[0])) || voices[0]);
+      const bestVoice = getBestEnglishVoice();
+      if (bestVoice) setVoice(bestVoice);
     };
 
     loadVoices();
-    if (speechSynthesis.onvoiceschanged !== undefined) {
-      speechSynthesis.onvoiceschanged = loadVoices;
+    if (typeof window !== "undefined" && window.speechSynthesis) {
+      window.speechSynthesis.addEventListener("voiceschanged", loadVoices);
+      return () => {
+        window.speechSynthesis.removeEventListener("voiceschanged", loadVoices);
+      };
     }
   }, [lang]);
+
+  const [playId, setPlayId] = useState(0);
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const play = useCallback(() => {
     if (!text || !window.speechSynthesis) return;
     
     // Cancel any ongoing speech
     window.speechSynthesis.cancel();
+    
+    const newId = playId + 1;
+    setPlayId(newId);
 
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = lang;
-    utterance.rate = speed;
-    if (voice) {
-      utterance.voice = voice;
-    }
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
 
-    utterance.onstart = () => setIsPlaying(true);
-    utterance.onend = () => setIsPlaying(false);
-    utterance.onerror = () => setIsPlaying(false);
+    timeoutRef.current = setTimeout(() => {
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = lang;
+      utterance.rate = speed;
+      if (voice) {
+        utterance.voice = voice;
+      }
 
-    window.speechSynthesis.speak(utterance);
-  }, [text, lang, speed, voice]);
+      utterance.onstart = () => setIsPlaying(true);
+      utterance.onend = () => setIsPlaying(false);
+      utterance.onerror = () => setIsPlaying(false);
+
+      window.speechSynthesis.speak(utterance);
+    }, 50);
+  }, [text, lang, speed, voice, playId]);
 
   const stop = useCallback(() => {
     if (!window.speechSynthesis) return;
@@ -58,6 +68,7 @@ export function useAudio({ text, lang = "en-US" }: UseAudioProps) {
   // Cleanup on unmount
   useEffect(() => {
     return () => {
+      if (timeoutRef.current) clearTimeout(timeoutRef.current);
       stop();
     };
   }, [stop]);

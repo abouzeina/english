@@ -1,0 +1,563 @@
+{
+  "id": "lsn_c1_e_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 9: E Words - Part 1",
+  "slug": "e-words-1",
+  "order": 9,
+  "wordCount": 25,
+  "titleAr": "الوحدة 9: كلمات حرف E - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف E.",
+  "words": [
+    {
+      "id": "w_c1_eager",
+      "en": "eager",
+      "ar": "متلهف / حريص",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الطلاب متلهفين للتعرف على المشروع الجديد",
+          "ar": "He is eager to prove his skills in the new job."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈiːɡə/"
+    },
+    {
+      "id": "w_c1_earnings",
+      "en": "earnings",
+      "ar": "أرباح / مكاسب",
+      "pronunciation": "ˈɜːnɪŋz",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أبلغت الشركة عن زيادة كبيرة في الأرباح السنوية",
+          "ar": "Her earnings as a freelancer vary from month to month."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_ease",
+      "en": "ease",
+      "ar": "سهولة / يسهل",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اجتاز الامتحان الصعب بسهولة ملحوظة",
+          "ar": "New technology will help ease the burden of manual labor."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/iːz/"
+    },
+    {
+      "id": "w_c1_echo",
+      "en": "echo",
+      "ar": "يتردد / صدى",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأت خطواته تتردد (يصدر لها صدى) في الممر الفارغ",
+          "ar": "The walls of the canyon echo back every sound you make."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛkəʊ/"
+    },
+    {
+      "id": "w_c1_ecological",
+      "en": "ecological",
+      "ar": "بيئي",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تسبب التسرب النفطي في كارثة بيئية في المنطقة",
+          "ar": "We must promote ecological balance for future generations."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌiːkəˈlɒd͡ʒɪkl̩/"
+    },
+    {
+      "id": "w_c1_educator",
+      "en": "educator",
+      "ar": "مربي / معلم",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنها مربية محترمة جداً في مجال العلوم",
+          "ar": "The goal of every educator is to inspire their students."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛdjʊkeɪtə/"
+    },
+    {
+      "id": "w_c1_effectiveness",
+      "en": "effectiveness",
+      "ar": "فعالية",
+      "pronunciation": "ɪˈfektɪvnəs",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قيمت الدراسة فعالية العقار الجديد",
+          "ar": "Good communication is key to organizational effectiveness."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_efficiency",
+      "en": "efficiency",
+      "ar": "كفاءة",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحتاج لتحسين كفاءة استخدام الطاقة في منزلنا",
+          "ar": "The manager praised the team for their work efficiency."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈfɪʃn̩si/"
+    },
+    {
+      "id": "w_c1_ego",
+      "en": "ego",
+      "ar": "الأنا / الغرور",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمنعه غروره الكبير (الأنا) من الاعتراف بأخطائه",
+          "ar": "Winning the award was a great boost to his ego."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈiːɡəʊ/"
+    },
+    {
+      "id": "w_c1_elaborate",
+      "en": "elaborate",
+      "ar": "مفصل / معقد",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قدم المهندس المعماري خطة مفصلة للمتحف الجديد",
+          "ar": "They prepared an elaborate meal to celebrate the anniversary."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈlæbəɹeɪt/"
+    },
+    {
+      "id": "w_c1_electoral",
+      "en": "electoral",
+      "ar": "انتخابي",
+      "pronunciation": "ɪˈlektərəl",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يستعد المرشحون للحملة الانتخابية القادمة",
+          "ar": "Electoral reform is necessary to ensure fair representation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_elevate",
+      "en": "elevate",
+      "ar": "يرفع / يعلي",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الترقية الجديدة سترفعه إلى منصب رفيع",
+          "ar": "Art has the power to elevate the human spirit."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛləveɪt/"
+    },
+    {
+      "id": "w_c1_eligible",
+      "en": "eligible",
+      "ar": "مؤهل / مستحق",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المواطنون فوق الثامنة عشرة فقط هم المؤهلون للتصويت",
+          "ar": "He is eligible for a full scholarship based on his grades."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛlɪdʒəb(ə)l/"
+    },
+    {
+      "id": "w_c1_elite",
+      "en": "elite",
+      "ar": "نخبة",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تجذب الجامعة نخبة طلاب الأمة",
+          "ar": "She belongs to an elite group of specialized surgeons."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/eɪˈliːt/"
+    },
+    {
+      "id": "w_c1_embark",
+      "en": "embark",
+      "ar": "يباشر / يركب",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المستكشف مستعد لمباشرة رحلة جديدة",
+          "ar": "Passengers began to embark the ship early in the morning."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛmˈbɑːk/"
+    },
+    {
+      "id": "w_c1_embarrassment",
+      "en": "embarrassment",
+      "ar": "خجل / إحراج",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "احمر وجهه خجلاً عندما أدرك خطأه",
+          "ar": "Financial problems can be a source of great embarrassment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪmˈbæɹəsmənt/"
+    },
+    {
+      "id": "w_c1_embassy",
+      "en": "embassy",
+      "ar": "سفارة",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحتاج لزيارة السفارة للتقدم بطلب للحصول على تأشيرة",
+          "ar": "The embassy hosted a reception for the visiting dignitaries."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛmbəsi/"
+    },
+    {
+      "id": "w_c1_embed",
+      "en": "embed",
+      "ar": "يغرس / يدمج",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قرر المراسل أن ينضم (يُدمج) مع الوحدة العسكرية",
+          "ar": "The microchip is designed to embed directly into the device."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əmˈbɛd/"
+    },
+    {
+      "id": "w_c1_embody",
+      "en": "embody",
+      "ar": "يجسد / يمثل",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المقصود من التمثال الجديد هو تجسيد روح الحرية",
+          "ar": "She managed to embody the character perfectly in the film."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪmˈbɒdi/"
+    },
+    {
+      "id": "w_c1_emergence",
+      "en": "emergence",
+      "ar": "ظهور / بروز",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "غير ظهور التكنولوجيا الجديدة الصناعة للأبد",
+          "ar": "We are witnessing the emergence of a new global power."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈmɜːdʒ(ə)ns/"
+    },
+    {
+      "id": "w_c1_empirical",
+      "en": "empirical",
+      "ar": "تجريبي",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قدم العالم أدلة تجريبية لدعم نظريته",
+          "ar": "This study is based on empirical observation rather than logic."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪmˈpɪɹɪkəl/"
+    },
+    {
+      "id": "w_c1_empower",
+      "en": "empower",
+      "ar": "يمكن / يفوض",
+      "pronunciation": "ɪmˈpaʊə(r)",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يهدف القانون الجديد لتمكين أصحاب المشاريع الصغيرة",
+          "ar": "Education is a powerful tool to empower young people."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_enact",
+      "en": "enact",
+      "ar": "يسن / يشرع",
+      "pronunciation": "ɪˈnækt",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تخطط الحكومة لسن لوائح بيئية جديدة",
+          "ar": "It takes time for the council to enact a new law."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_encompass",
+      "en": "encompass",
+      "ar": "يشمل / يحيط",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صُممت الدورة لتشمل جميع جوانب التسويق",
+          "ar": "The new park will encompass over fifty acres of land."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛnˈkʌm.pəs/"
+    },
+    {
+      "id": "w_c1_encouragement",
+      "en": "encouragement",
+      "ar": "تشجيع",
+      "lessonId": "lsn_c1_e_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعطت كلمات المعلم الطلاب الكثير من التشجيع",
+          "ar": "With a little encouragement, he finally finished the book."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[ɪnˈkʌɹɪdʒmənt]/"
+    }
+  ]
+}

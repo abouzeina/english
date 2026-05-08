@@ -1,0 +1,30 @@
+{
+  "id": "lsn_b2_e_3",
+  "levelId": "lvl_b2",
+  "slug": "e-words-3",
+  "title": "E Words - Part 3",
+  "titleAr": "كلمات حرف E - الجزء 3",
+  "description": "Learn essential B2 vocabulary starting with the letter E.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف E.",
+  "order": 23,
+  "wordCount": 1,
+  "words": [
+    {
+      "id": "w_b2_extremes",
+      "en": "extremes",
+      "ar": "درجات قصوى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

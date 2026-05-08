@@ -1,21 +1,42 @@
 {
   "id": "lsn_a1_s_2",
-  "levelId": "lvl_1",
-  "title": "S Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 38: S Words - Part 2",
   "slug": "s-words-2",
-  "order": 37,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف S - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter S.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف S.",
+  "order": 38,
+  "wordCount": 23,
+  "titleAr": "الوحدة 38: كلمات حرف S - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_a1_shirt",
+      "lessonId": "lsn_a1_s_2",
+      "en": "shirt",
+      "translation": "قميص",
+      "ar": "قميص",
+      "pronunciation": "/f3rt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Where is my blue shirt?",
+          "ar": "أين قميصي الأزرق؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_a1_shoe",
       "lessonId": "lsn_a1_s_2",
       "en": "shoe",
       "translation": "حذاء / فردة حذاء",
       "ar": "حذاء / فردة حذاء",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -29,7 +50,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ʃuː/"
     },
     {
       "id": "w_a1_shop",
@@ -37,7 +59,6 @@
       "en": "shop",
       "translation": "محل / يتسوق / التسوق",
       "ar": "محل / يتسوق / التسوق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -59,7 +80,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ʃɒp/"
     },
     {
       "id": "w_a1_short",
@@ -141,7 +163,6 @@
       "en": "show",
       "translation": "برنامج / عرض / أراني / يُظهر",
       "ar": "برنامج / عرض / أراني / يُظهر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -163,7 +184,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ʃəʊ/"
     },
     {
       "id": "w_a1_shower",
@@ -193,7 +215,6 @@
       "en": "sick",
       "translation": "مريض",
       "ar": "مريض",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -207,7 +228,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sɪk/"
     },
     {
       "id": "w_a1_similar",
@@ -232,26 +254,26 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_a1_sings",
+      "id": "w_a2_sing",
+      "en": "sing",
+      "ar": "غناء",
       "lessonId": "lsn_a1_s_2",
-      "en": "sings",
-      "translation": "تغني",
-      "ar": "تغني",
-      "pronunciation": "",
-      "type": "word",
+      "levelId": "lvl_a1",
+      "categoryId": "general",
       "examples": [
         {
-          "en": "She sings very well.",
-          "ar": "إنها تغني بشكل جيد جداً."
+          "en": "My little daughter enjoys singing.",
+          "ar": "ابنتي الصغيرة تستمتع بالغناء :"
         }
       ],
+      "type": "word",
       "difficulty": "A1",
       "tags": [
         "A1",
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "ipa": "/sɪŋ/"
     },
     {
       "id": "w_a1_singer",
@@ -276,12 +298,33 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_a1_sings",
+      "lessonId": "lsn_a1_s_2",
+      "en": "sings",
+      "translation": "تغني",
+      "ar": "تغني",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She sings very well.",
+          "ar": "إنها تغني بشكل جيد جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɪŋz/"
+    },
+    {
       "id": "w_a1_sister",
       "lessonId": "lsn_a1_s_2",
       "en": "sister",
       "translation": "أخت",
       "ar": "أخت",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -295,7 +338,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɪs.tə/"
     },
     {
       "id": "w_a1_sit",
@@ -303,7 +347,6 @@
       "en": "sit",
       "translation": "يجلس",
       "ar": "يجلس",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -317,7 +360,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sɪt/"
     },
     {
       "id": "w_a1_situation",
@@ -347,7 +391,6 @@
       "en": "six",
       "translation": "ستة",
       "ar": "ستة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -361,7 +404,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sɪks/"
     },
     {
       "id": "w_a1_sixteen",
@@ -369,7 +413,6 @@
       "en": "sixteen",
       "translation": "ستة عشر / سادسة عشرة",
       "ar": "ستة عشر / سادسة عشرة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -383,7 +426,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɪks.tiːn/"
     },
     {
       "id": "w_a1_sixty",
@@ -391,7 +435,6 @@
       "en": "sixty",
       "translation": "ستين",
       "ar": "ستين",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -405,7 +448,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɪkstɪ/"
     },
     {
       "id": "w_a1_skill",
@@ -435,7 +479,6 @@
       "en": "skirt",
       "translation": "تنورة",
       "ar": "تنورة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -449,7 +492,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/skɜːt/"
     },
     {
       "id": "w_a1_sleep",
@@ -457,21 +501,26 @@
       "en": "sleep",
       "translation": "ينام",
       "ar": "ينام",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Did you sleep well?",
           "ar": "هل نمت جيداً؟"
+        },
+        {
+          "en": "You need to get some sleep.",
+          "ar": "أنت بحاجة للحصول على قسط من النوم :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sliːp/"
     },
     {
       "id": "w_a1_slow",
@@ -485,110 +534,6 @@
         {
           "en": "My computer is slow.",
           "ar": "الكمبيوتر الخاص بي بطيء."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_small",
-      "lessonId": "lsn_a1_s_2",
-      "en": "small",
-      "translation": "صغير / صغيرة",
-      "ar": "صغير / صغيرة",
-      "pronunciation": "/smol/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I grew up in a small village.",
-          "ar": "لقد نشأت في قرية صغيرة."
-        },
-        {
-          "en": "I saw a small snake.",
-          "ar": "رأيت ثعباناً صغيراً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_snake",
-      "lessonId": "lsn_a1_s_2",
-      "en": "snake",
-      "translation": "ثعبان",
-      "ar": "ثعبان",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I saw a small snake.",
-          "ar": "رأيت ثعباناً صغيراً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_snow",
-      "lessonId": "lsn_a1_s_2",
-      "en": "snow",
-      "translation": "ثلج / تساقطت الثلوج",
-      "ar": "ثلج / تساقطت الثلوج",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I like to walk in the snow.",
-          "ar": "أحب المشي في الثلج."
-        },
-        {
-          "en": "It snowed last night.",
-          "ar": "لقد تساقطت الثلوج الليلة الماضية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_so",
-      "lessonId": "lsn_a1_s_2",
-      "en": "so",
-      "translation": "جداً / لذا / إذن",
-      "ar": "جداً / لذا / إذن",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "It's so hot today.",
-          "ar": "الجو حار جداً اليوم."
-        },
-        {
-          "en": "I was tired, so I slept.",
-          "ar": "كنت متعباً لذا نمت."
-        },
-        {
-          "en": "So what happens next?",
-          "ar": "إذن، ماذا سيحدث بعد ذلك؟"
         }
       ],
       "difficulty": "A1",

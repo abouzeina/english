@@ -1,0 +1,484 @@
+{
+  "id": "lsn_a1_p_3",
+  "levelId": "lvl_a1",
+  "title": "Unit 33: P Words - Part 3",
+  "slug": "p-words-3",
+  "order": 33,
+  "wordCount": 20,
+  "titleAr": "الوحدة 33: كلمات حرف P - الجزء 3",
+  "description": "Master essential A1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_a1_policeman",
+      "lessonId": "lsn_a1_p_3",
+      "en": "policeman",
+      "translation": "شرطي",
+      "ar": "شرطي",
+      "pronunciation": "/pə'lis mən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a policeman at school.",
+          "ar": "رأيت شرطياً في المدرسة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_pool",
+      "lessonId": "lsn_a1_p_3",
+      "en": "pool",
+      "translation": "حوض سباحة",
+      "ar": "حوض سباحة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The pool is very clean.",
+          "ar": "حوض السباحة نظيف جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pul/"
+    },
+    {
+      "id": "w_a1_poor",
+      "lessonId": "lsn_a1_p_3",
+      "en": "poor",
+      "translation": "فقير",
+      "ar": "فقير",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They are a poor family.",
+          "ar": "إنهم عائلة فقيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/poː/"
+    },
+    {
+      "id": "w_a1_popular",
+      "lessonId": "lsn_a1_p_3",
+      "en": "popular",
+      "translation": "شعبية / مشهور",
+      "ar": "شعبية / مشهور",
+      "pronunciation": "/'pa-pjə lər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This song is very popular.",
+          "ar": "هذه الأغنية تحظى بشعبية كبيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_positive",
+      "lessonId": "lsn_a1_p_3",
+      "en": "positive",
+      "translation": "إيجابي",
+      "ar": "إيجابي",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Be positive; every-thing will be OK.",
+          "ar": "كن إيجابياً؛ كل شيء سيكون على ما يرام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɒzɪ̈tɪv/"
+    },
+    {
+      "id": "w_a1_possible",
+      "lessonId": "lsn_a1_p_3",
+      "en": "possible",
+      "translation": "ممكن",
+      "ar": "ممكن",
+      "pronunciation": "/'pa-sə bəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Is it possible to finish today?",
+          "ar": "هل من الممكن أن ننتهي اليوم؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_post",
+      "lessonId": "lsn_a1_p_3",
+      "en": "post",
+      "translation": "بريد / منشور / يرسل",
+      "ar": "بريد / منشور / يرسل",
+      "type": "word",
+      "examples": [
+        {
+          "en": "There's a n the post.",
+          "ar": "هناك رسالة في البريد."
+        },
+        {
+          "en": "My post got many likes.",
+          "ar": "حصل منشوري على العديد من الإعجابات."
+        },
+        {
+          "en": "I forgot to post the letter.",
+          "ar": "لقد نسيت أن أرسل الرسالة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəʊst/"
+    },
+    {
+      "id": "w_a1_potatoes",
+      "lessonId": "lsn_a1_p_3",
+      "en": "potatoes",
+      "translation": "بطاطس",
+      "ar": "بطاطس",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need to buy some potatoes.",
+          "ar": "أحتاج إلى شراء بعض البطاطس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəˈteɪtəʊz/"
+    },
+    {
+      "id": "w_a1_pounds",
+      "lessonId": "lsn_a1_p_3",
+      "en": "pounds",
+      "translation": "جنيهات",
+      "ar": "جنيهات",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The ticket costs 30 pounds.",
+          "ar": "تبلغ تكلفة التذكرة 30 جنيهاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/paʊndz/"
+    },
+    {
+      "id": "w_a1_practice",
+      "lessonId": "lsn_a1_p_3",
+      "en": "practice",
+      "translation": "تمرين / يتدرب",
+      "ar": "تمرين / يتدرب",
+      "pronunciation": "/præk tis/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I have practice after school.",
+          "ar": "لدي تمرين بعد المدرسة."
+        },
+        {
+          "en": "Practice writing in English.",
+          "ar": "تدرب على الكتابة باللغة الإنجليزية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_prefer",
+      "lessonId": "lsn_a1_p_3",
+      "en": "prefer",
+      "translation": "يفضل",
+      "ar": "يفضل",
+      "pronunciation": "/pri'f3r/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I prefer tea over coffee.",
+          "ar": "أفضل الشاي على القهوة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_prepare",
+      "lessonId": "lsn_a1_p_3",
+      "en": "prepare",
+      "translation": "تجهيز / يجهز",
+      "ar": "تجهيز / يجهز",
+      "pronunciation": "/pri'peər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I am preparing my bag.",
+          "ar": "أنا أجهز حقيبتي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_present",
+      "lessonId": "lsn_a1_p_3",
+      "en": "present",
+      "translation": "هدية / حالي",
+      "ar": "هدية / حالي",
+      "pronunciation": "/ prez ənt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My wife gave me a present.",
+          "ar": "أعطتني زوجتي هدية."
+        },
+        {
+          "en": "The present weather is warm.",
+          "ar": "الطقس الحالي دافئ."
+        },
+        {
+          "en": "She presented the information to her colleagues.",
+          "ar": "قدمت هي المعلومات لزميلاتها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_pretty",
+      "lessonId": "lsn_a1_p_3",
+      "en": "pretty",
+      "translation": "جميل / جداً / إلى حد ما",
+      "ar": "جميل / جداً / إلى حد ما",
+      "pronunciation": "/ prit-i/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You are pretty today.",
+          "ar": "أنت جميلة اليوم."
+        },
+        {
+          "en": "The movie was pretty good.",
+          "ar": "الفيلم جيد جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_price",
+      "lessonId": "lsn_a1_p_3",
+      "en": "price",
+      "translation": "سعر",
+      "ar": "سعر",
+      "pronunciation": "/prais/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The price is too high.",
+          "ar": "السعر مرتفع للغاية."
+        },
+        {
+          "en": "They have to price their goods fairly for customers.",
+          "ar": "يجب عليهم أن يسعروا بضائعهم بشكل عادل للعملاء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_probably",
+      "lessonId": "lsn_a1_p_3",
+      "en": "probably",
+      "translation": "من المحتمل / على الأرجح",
+      "ar": "من المحتمل / على الأرجح",
+      "pronunciation": "/'pra be-bli/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She is probably at home.",
+          "ar": "إنها على الأرجح في المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_problem",
+      "lessonId": "lsn_a1_p_3",
+      "en": "problem",
+      "translation": "مشكلة",
+      "ar": "مشكلة",
+      "pronunciation": "/'pra bləm/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I have a small problem.",
+          "ar": "لدي مشكلة صغيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_product",
+      "lessonId": "lsn_a1_p_3",
+      "en": "product",
+      "translation": "منتج",
+      "ar": "منتج",
+      "pronunciation": "/ pra dəkt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This product is very useful.",
+          "ar": "هذا المنتج مفيد للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_purple",
+      "lessonId": "lsn_a1_p_3",
+      "en": "purple",
+      "translation": "أرجواني",
+      "ar": "أرجواني",
+      "pronunciation": "/'p3rpəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The purple flower is pretty.",
+          "ar": "الزهرة الأرجوانية جميلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_put",
+      "lessonId": "lsn_a1_p_3",
+      "en": "put",
+      "translation": "ضع / يضع",
+      "ar": "ضع / يضع",
+      "pronunciation": "/put/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Put the phone away.",
+          "ar": "ضع الهاتف جانباً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

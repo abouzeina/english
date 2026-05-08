@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_f_1",
+  "levelId": "lvl_b2",
+  "slug": "f-words-1",
+  "title": "F Words - Part 1",
+  "titleAr": "كلمات حرف F - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter F.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف F.",
+  "order": 24,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_firefighters",
+      "en": "firefighters",
+      "ar": "رجال الإطفاء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fireworks",
+      "en": "fireworks",
+      "ar": "الألعاب النارية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_firm",
+      "en": "firm",
+      "ar": "شركة / مكتب / حازم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_firmly",
+      "en": "firmly",
+      "ar": "بقوة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fix",
+      "en": "fix",
+      "ar": "حل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_flames",
+      "en": "flames",
+      "ar": "اللهب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_flash",
+      "en": "flash",
+      "ar": "وميض / الوميض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_flavor",
+      "en": "flavor",
+      "ar": "طعم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_flexible",
+      "en": "flexible",
+      "ar": "مرنة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_floats",
+      "en": "floats",
+      "ar": "يطفو",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fold",
+      "en": "fold",
+      "ar": "طية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_folding",
+      "en": "folding",
+      "ar": "قابل للطي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_following",
+      "en": "following",
+      "ar": "بعد / عقب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fond",
+      "en": "fond",
+      "ar": "مولع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fool",
+      "en": "fool",
+      "ar": "أحمق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forbade",
+      "en": "forbade",
+      "ar": "منعت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forecast",
+      "en": "forecast",
+      "ar": "التنبؤ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forecasts",
+      "en": "forecasts",
+      "ar": "توقعات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forgive",
+      "en": "forgive",
+      "ar": "أسامح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_format",
+      "en": "format",
+      "ar": "هيئته / نمطه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_formation",
+      "en": "formation",
+      "ar": "تشكل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_former",
+      "en": "former",
+      "ar": "سابق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_formerly",
+      "en": "formerly",
+      "ar": "سابقا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fortunate",
+      "en": "fortunate",
+      "ar": "حسن حظ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fortune",
+      "en": "fortune",
+      "ar": "ثروة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

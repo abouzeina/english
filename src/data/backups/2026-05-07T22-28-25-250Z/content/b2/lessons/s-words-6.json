@@ -1,0 +1,275 @@
+{
+  "id": "lsn_b2_s_6",
+  "levelId": "lvl_b2",
+  "slug": "s-words-6",
+  "title": "S Words - Part 6",
+  "titleAr": "كلمات حرف S - الجزء 6",
+  "description": "Learn essential B2 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف S.",
+  "order": 57,
+  "wordCount": 11,
+  "words": [
+    {
+      "id": "w_b2_surround",
+      "en": "surround",
+      "ar": "تحيط / المحيطة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He explored the surrounding villages during his trip.",
+          "ar": "قام باستكشاف القرى المحيطة خلال رحلته."
+        },
+        {
+          "en": "She loves to surround herself with positive people.",
+          "ar": "تحب أن تحيط نفسها بالأشخاص الإيجابيين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_survey",
+      "en": "survey",
+      "ar": "مسح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He surveyed the damage after the storm passed.",
+          "ar": "قام بمسح الأضرار بعد مرور العاصفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_survival",
+      "en": "survival",
+      "ar": "بقاء / للناجين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The doctors fought for the patient's survival.",
+          "ar": "كافح الأطباء من أجل بقاء المريض على قيد الحياة."
+        },
+        {
+          "en": "The survivors of the flood were given medical aid.",
+          "ar": "تم تقديم المساعدة الطبية للناجين من الفيضان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_suspect",
+      "en": "suspect",
+      "ar": "أشك / المشتبه به",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I suspect he's hiding the truth from us.",
+          "ar": "أشك أنه يخفي الحقيقة عنا."
+        },
+        {
+          "en": "The police questioned the suspect for several hours.",
+          "ar": "استجوبت الشرطة المشتبه به لعدة ساعات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_suspended",
+      "en": "suspended",
+      "ar": "معلقًا / تعليق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The bridge was suspended by thick steel cables.",
+          "ar": "كان الجسر معلقًا بكابلات فولاذية سميكة."
+        },
+        {
+          "en": "The school decided to suspend classes due to bad weather.",
+          "ar": "قررت المدرسة تعليق الدراسة بسبب سوء الأحوال الجوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sustainable",
+      "en": "sustainable",
+      "ar": "المستدامة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We should focus on using sustainable energy sources.",
+          "ar": "يجب أن نركز على استخدام مصادر الطاقة المستدامة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_swallowed",
+      "en": "swallowed",
+      "ar": "ابتلعت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She accidentally swallowed a small coin.",
+          "ar": "ابتلعت عن طريق الخطأ عملة معدنية صغيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sweeps",
+      "en": "sweeps",
+      "ar": "تكنس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She sweeps the kitchen floor every morning.",
+          "ar": "إنها تكنس أرضية المطبخ كل صباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_switch",
+      "en": "switch",
+      "ar": "المفتاح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Press the switch to turn on the fan.",
+          "ar": "اضغط على المفتاح لتشغيل المروحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_swore",
+      "en": "swore",
+      "ar": "أقسم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He swore to tell the truth in court.",
+          "ar": "لقد أقسم على قول الحقيقة في المحكمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sympathy",
+      "en": "sympathy",
+      "ar": "تعاطف / متعاطفا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My wife's sympathy helped me feel less alone.",
+          "ar": "لقد ساعدني تعاطف زوجتي على تقليل شعوري بالوحدة."
+        },
+        {
+          "en": "The judge was sympathetic but remained fair.",
+          "ar": "كان القاضي متعاطفا لكن ظل منصفا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

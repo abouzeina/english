@@ -1,0 +1,579 @@
+{
+  "id": "lsn_b2_m_1",
+  "levelId": "lvl_b2",
+  "slug": "m-words-1",
+  "title": "M Words - Part 1",
+  "titleAr": "كلمات حرف M - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter M.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف M.",
+  "order": 38,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_magnificent",
+      "en": "magnificent",
+      "ar": "رائعة ومشوقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The novel's plot was magnificent and engaging.",
+          "ar": "كانت حبكة الرواية رائعة ومشوقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_maintain",
+      "en": "maintain",
+      "ar": "نحافظ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We should maintain the equipment to ensure it works well.",
+          "ar": "يجب علينا أن نحافظ على المعدات لضمان عملها بشكل جيد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_majority",
+      "en": "majority",
+      "ar": "اغلبية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The majority of the audience enjoyed the performance.",
+          "ar": "استمتع اغلبية الجمهور بالعرض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_make",
+      "en": "make",
+      "ar": "طراز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I need to know the make of this car.",
+          "ar": "أريد أن أعرف طراز هذه السيارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_make_up",
+      "en": "make-up",
+      "ar": "مكياجاً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The actress wore heavy make-up for the role.",
+          "ar": "وضعت الممثلة مكياجاً كثيفاً من أجل الدور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_manufactures",
+      "en": "manufactures",
+      "ar": "تقوم الشركة بتصنيع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company manufactures electronic devices.",
+          "ar": "تقوم الشركة بتصنيع الأجهزة الإلكترونية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_manufacturing",
+      "en": "manufacturing",
+      "ar": "التصنيع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The manufacturing process takes several steps.",
+          "ar": "تستغرق عملية التصنيع عدة خطوات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mapped",
+      "en": "mapped",
+      "ar": "رسم خريطة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They mapped the network of roads in the region.",
+          "ar": "قاموا برسم خريطة لشبكة الطرق في المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_marathon",
+      "en": "marathon",
+      "ar": "الماراثون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The marathon attracted runners from around the world.",
+          "ar": "جذب الماراثون عدائين من جميع أنحاء العالم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_margin",
+      "en": "margin",
+      "ar": "هامش",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We need to increase our profit margin.",
+          "ar": "نحن بحاجة إلى زيادة هامش الربح لدينا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_marker",
+      "en": "marker",
+      "ar": "قلم تحديد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She used a red marker to highlight the text.",
+          "ar": "استخدمت قلم تحديد أحمر لتمييز النص."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_martial",
+      "en": "martial",
+      "ar": "قتالية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The movie features intense martial scenes.",
+          "ar": "يتميز الفيلم بمشاهد قتالية مكثفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mass",
+      "en": "mass",
+      "ar": "حاشدة / كتلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The mass of the material was too heavy to lift.",
+          "ar": "كانت كتلة المادة ثقيلة للغاية بحيث لا يمكن رفعها."
+        },
+        {
+          "en": "They organized a mass protest for the cause.",
+          "ar": "نظموا مظاهرة حاشدة من أجل القضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_massive",
+      "en": "massive",
+      "ar": "اضرار فادحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The storm caused massive damage to the area.",
+          "ar": "تسببت العاصفة في اضرار فادحة بالمنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_master",
+      "en": "master",
+      "ar": "لقب استاذ / إتقان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He earned the title of master after years of training.",
+          "ar": "حصل على لقب استاذ بعد سنوات من التدريب."
+        },
+        {
+          "en": "They practiced daily to master the needed skills.",
+          "ar": "كانوا يتدربون يومياً لإتقان المهارات المطلوبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_matching",
+      "en": "matching",
+      "ar": "متناسقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The designer ensured the fabric patterns were matching.",
+          "ar": "حرص المصمم على أن تكون أنماط الأقمشة متناسقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mate",
+      "en": "mate",
+      "ar": "رفيقتها / تتزاوج",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She invited her mate to the party.",
+          "ar": "دعت رفيقتها إلى الحفلة."
+        },
+        {
+          "en": "The birds mate during the spring season.",
+          "ar": "تتزاوج الطيور خلال فصل الربيع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_material",
+      "en": "material",
+      "ar": "مادية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The auction featured several valuable material goods.",
+          "ar": "اشتمل المزاد على العديد من السلع المادية الثمينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_maximum",
+      "en": "maximum",
+      "ar": "كحد أقصى / القصوى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She set the oven to its maximum temperature.",
+          "ar": "هي ضبطت الفرن على درجة الحرارة القصوى."
+        },
+        {
+          "en": "The box can hold a maximum of 10 pounds.",
+          "ar": "يمكن للصندوق حمل 10 أرطال كحد أقصى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mayor",
+      "en": "mayor",
+      "ar": "المحافظ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The mayor gave a speech about local issues.",
+          "ar": "ألقى المحافظ خطاباً حول القضايا المحلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_means",
+      "en": "means",
+      "ar": "وسيلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She used art as a means of expression.",
+          "ar": "استخدمت الفن كوسيلة للتعبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_measurement",
+      "en": "measurement",
+      "ar": "القياس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Measurement errors can lead to big problems.",
+          "ar": "أخطاء القياس يمكن أن تؤدي إلى مشاكل كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mechanic",
+      "en": "mechanic",
+      "ar": "الميكانيكي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The mechanic recommended replacing the old tires.",
+          "ar": "أوصى الميكانيكي باستبدال الإطارات القديمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mechanical",
+      "en": "mechanical",
+      "ar": "ميكانيكية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The robot has complex mechanical systems inside it.",
+          "ar": "يحتوي الروبوت على انظمة ميكانيكية معقدة بداخله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mechanism",
+      "en": "mechanism",
+      "ar": "آلية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The cooling mechanism functions well under pressure.",
+          "ar": "آلية التبريد تعمل بشكل جيد تحت الضغط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "id": "lsn_a2_n",
+  "levelId": "lvl_a2",
+  "title": "Unit 26: N Words",
+  "slug": "n-words",
+  "order": 26,
+  "wordCount": 16,
+  "titleAr": "الوحدة 26: كلمات حرف N",
+  "description": "Master essential A2 vocabulary starting with the letter N.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف N.",
+  "words": [
+    {
+      "id": "w_a2_narrow",
+      "en": "narrow",
+      "ar": "ضيق",
+      "pronunciation": "/'ner.ou/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We went along a narrow road.",
+          "ar": "ذهبنا في طريق ضيق :"
+        },
+        {
+          "en": "The options began to narrow as time passed.",
+          "ar": "بدأت الخيارات تضيق مع مرور الوقت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_national",
+      "en": "national",
+      "ar": "وطنية",
+      "pronunciation": "/'næs.ən.əl/ /'næſ.nal/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Thailand has many national parks.",
+          "ar": "تايلاند لديها العديد من المتنزهات الوطنية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_nature",
+      "en": "nature",
+      "ar": "طبيعة",
+      "pronunciation": "/ nex-tfer/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "In spring, nature turns green.",
+          "ar": "في الربيع، تتحول الطبيعة إلى اللون الأخضر :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_nearly",
+      "en": "nearly",
+      "ar": "تقريبا",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I've worked here for nearly three years",
+          "ar": "لقد عملت هنا منذ ثلاث سنوات تقريبا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈniːɹli/"
+    },
+    {
+      "id": "w_a2_necessary",
+      "en": "necessary",
+      "ar": "ضروري",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is all of that necessary ?",
+          "ar": "هل كل هذا ضروري ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈnɛsəsɹɪ/"
+    },
+    {
+      "id": "w_a2_neck",
+      "en": "neck",
+      "ar": "رقبة",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Take your hands off my neck.",
+          "ar": "ارفع يديك عن رقبتي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/nɛk/"
+    },
+    {
+      "id": "w_a2_nervous",
+      "en": "nervous",
+      "ar": "متوتر",
+      "pronunciation": "/n3r ves/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Everybody was nervous.",
+          "ar": "كان الجميع متوترين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_noise",
+      "en": "noise",
+      "ar": "ضجيج",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "That noise woke me",
+          "ar": "أيقظني هذا الضجيج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/nɔɪz/"
+    },
+    {
+      "id": "w_a2_noisy",
+      "en": "noisy",
+      "ar": "مزعج",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have noisy neighbors.",
+          "ar": "لدينا جيران مزعجين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈnɔːɪzɪ/"
+    },
+    {
+      "id": "w_a2_none",
+      "en": "none",
+      "ar": "لا أحد",
+      "pronunciation": "/n^n/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "None of them speaks English.",
+          "ar": "لا أحد منهم يتحدث الانجليزية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_normal",
+      "en": "normal",
+      "ar": "طبيعي",
+      "pronunciation": "/normal/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I guess that's normal.",
+          "ar": "أعتقد أن هذا طبيعي :"
+        },
+        {
+          "en": "After the vacation, life returned to normal.",
+          "ar": "بعد الإجازة، عادت الحياة إلى طبيعتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_normally",
+      "en": "normally",
+      "ar": "عادة",
+      "pronunciation": "/'nor-mə li/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It normally takes 10 minutes to get there",
+          "ar": "عادة ما يستغرق الوصول إلى هناك 10 دقائق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_notice",
+      "en": "notice",
+      "ar": "يلاحظ / إشعار",
+      "pronunciation": "/ nou ţis/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you notice any change?",
+          "ar": "هل لاحظت أي تغيير : ؟"
+        },
+        {
+          "en": "Sami got a notice from the bank",
+          "ar": "تلقى سامي إشعارًا من البنك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_novel",
+      "en": "novel",
+      "ar": "رواية",
+      "pronunciation": "/na-vəl/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He has written three novels.",
+          "ar": "كتب ثلاث روايات :"
+        },
+        {
+          "en": "اقترح العالم حلاً مبتكراً للمشكلة",
+          "ar": "It was a novel idea that no one had thought of before."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_nowhere",
+      "en": "nowhere",
+      "ar": "لا مكان",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There was nowhere we could hide",
+          "ar": "لم يكن هناك مكان يمكننا الاختباء فيه :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈnəʊ.wɛə/"
+    },
+    {
+      "id": "w_a2_nut",
+      "en": "nut",
+      "ar": "جوز",
+      "pronunciation": "/n ts/",
+      "lessonId": "lsn_a2_n",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The animals were busy collecting nuts.",
+          "ar": "كانت الحيوانات مشغولة بجمع الجوز :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

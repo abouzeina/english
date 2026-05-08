@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_a_1",
+  "levelId": "lvl_b2",
+  "slug": "a-words-1",
+  "title": "A Words - Part 1",
+  "titleAr": "كلمات حرف A - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف A.",
+  "order": 1,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_abandon",
+      "en": "abandon",
+      "ar": "يتخلى عن / يترك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_absolute",
+      "en": "absolute",
+      "ar": "مطلق / حقيقي",
+      "pronunciation": "abse loot",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_absorb",
+      "en": "absorb",
+      "ar": "يمتص",
+      "pronunciation": "əb zôrb",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_abstract",
+      "en": "abstract",
+      "ar": "مجرد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_academic",
+      "en": "academic",
+      "ar": "أكاديمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accent",
+      "en": "accent",
+      "ar": "لكنة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_acceptable",
+      "en": "acceptable",
+      "ar": "مقبول",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accidentally",
+      "en": "accidentally",
+      "ar": "عن طريق الخطأ / بالصدفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accommodate",
+      "en": "accommodate",
+      "ar": "يتسع لـ / يستوعب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accompany",
+      "en": "accompany",
+      "ar": "يرافق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accomplish",
+      "en": "accomplish",
+      "ar": "ينجز / يحقق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_account",
+      "en": "account",
+      "ar": "يعتبر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accountant",
+      "en": "accountant",
+      "ar": "محاسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accuracy",
+      "en": "accuracy",
+      "ar": "دقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accurate",
+      "en": "accurate",
+      "ar": "دقيق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accurately",
+      "en": "accurately",
+      "ar": "بدقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accuse",
+      "en": "accuse",
+      "ar": "يتهم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_acid",
+      "en": "acid",
+      "ar": "حمض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_acknowledge",
+      "en": "acknowledge",
+      "ar": "يقر بـ / يعترف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_acquire",
+      "en": "acquire",
+      "ar": "يكتسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_activate",
+      "en": "activate",
+      "ar": "يشغل / ينشط",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_actual",
+      "en": "actual",
+      "ar": "فعلي / حقيقي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_adapt",
+      "en": "adapt",
+      "ar": "يتأقلم / يتكيف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_addiction",
+      "en": "addiction",
+      "ar": "إدمان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_additional",
+      "en": "additional",
+      "ar": "إضافي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

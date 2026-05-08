@@ -1,67 +1,18 @@
 {
   "id": "lsn_a2_f_2",
-  "levelId": "lvl_2",
-  "slug": "f-words-2",
+  "levelId": "lvl_a2",
   "title": "Unit 15: F Words - Part 2",
-  "titleAr": "الوحدة 15: كلمات حرف F - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter F.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف F.",
+  "slug": "f-words-2",
   "order": 15,
-  "wordCount": 23,
+  "wordCount": 18,
+  "titleAr": "الوحدة 15: كلمات حرف F - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف F.",
   "words": [
-    {
-      "id": "w_a2_firstly",
-      "en": "firstly",
-      "ar": "أولا",
-      "pronunciation": "/farst-li/",
-      "lessonId": "lsn_a2_f_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Firstly you have to tell your parents.",
-          "ar": "أولاً : عليك أن تخبر والديك | بدايةً / أولاً | :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_fish",
-      "en": "fish",
-      "ar": "يصطاد",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_f_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I am going to fish in the river.",
-          "ar": "انا ذاهب لأصطاد السمك في النهر."
-        },
-        {
-          "en": "Fishing is my favorite hobby",
-          "ar": "صيد السمك هوايتي المفضلة :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_fit",
       "en": "fit",
       "ar": "لائق بدنيا / يناسب",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -73,21 +24,27 @@
         {
           "en": "Does this shirt fit you ?",
           "ar": "هل يناسبك هذا القميص : ؟ : هل هو مقاسك : ؟"
+        },
+        {
+          "en": "أصابته نوبة سعال مفاجئة خلال الاجتماع",
+          "ar": "She is a perfect fit for the new managerial position."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/fɪt/"
     },
     {
       "id": "w_a2_fix",
       "en": "fix",
       "ar": "يصلح",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -95,43 +52,27 @@
         {
           "en": "We can fix anything.",
           "ar": "يمكننا أن نصلح أي شيء :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_flat",
-      "en": "flat",
-      "ar": "مسطحة",
-      "pronunciation": "/flæt/",
-      "lessonId": "lsn_a2_f_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "Some people think that the earth is flat.",
-          "ar": "يعتقد بعض الناس أن الأرض مسطحة : مُفَرَّغ من الهواء :"
+          "en": "There is no quick fix for this problem.",
+          "ar": "لا يوجد حل سريع لهذه المشكلة."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfɪks/"
     },
     {
       "id": "w_a2_flu",
       "en": "flu",
       "ar": "أنفلونزا",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -147,13 +88,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/flʉː/"
     },
     {
       "id": "w_a2_fly",
       "en": "fly",
       "ar": "ذبابة / يطير",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -165,21 +106,26 @@
         {
           "en": "Flies are flying insects.",
           "ar": "الذباب هي حشرات طائرة :"
+        },
+        {
+          "en": "This bird can fly fast.",
+          "ar": "يمكن لهذا الطائر أن يطير بسرعة."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "A1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/flaɪ/"
     },
     {
       "id": "w_a2_flying",
       "en": "flying",
       "ar": "طيران",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -195,7 +141,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈflaɪ.ɪŋ/"
     },
     {
       "id": "w_a2_focus",
@@ -235,13 +182,24 @@
         {
           "en": "Answer the following questions.",
           "ar": "اجب على الاسئلة التالية :"
+        },
+        {
+          "en": "The following is a list of conferences I attended.",
+          "ar": "فيما يلي قائمة بالمؤتمرات التي حضرتها."
+        },
+        {
+          "en": "He married following his wife's death.",
+          "ar": "تزوج بعد وفاة زوجته."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -315,7 +273,6 @@
       "id": "w_a2_formal",
       "en": "formal",
       "ar": "رسمي",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -331,7 +288,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfɔːməl/"
     },
     {
       "id": "w_a2_fortunately",
@@ -367,35 +325,19 @@
         {
           "en": "We must keep moving forward.",
           "ar": "يجب أن نستمر في المضي قدمًا :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_free",
-      "en": "free",
-      "ar": "مجانا",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_f_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "I got this book free.",
-          "ar": "حصلت على هذا الكتاب مجانا."
+          "en": "Forward planning can save us a lot of expense.",
+          "ar": "التخطيط المسبق يمكن أن يوفر علينا الكثير من النفقات."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -403,7 +345,6 @@
       "id": "w_a2_fresh",
       "en": "fresh",
       "ar": "طازج",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -419,7 +360,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/fɹɛʃ/"
     },
     {
       "id": "w_a2_fridge",
@@ -447,7 +389,6 @@
       "id": "w_a2_frog",
       "en": "frog",
       "ar": "ضفدع",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -463,29 +404,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_fun",
-      "en": "fun",
-      "ar": "ممتعة",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_f_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Basketball is a fun game to play.",
-          "ar": "كرة السلة هي لعبة ممتعة للعب."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/fɹɒɡ/"
     },
     {
       "id": "w_a2_furniture",
@@ -521,13 +441,18 @@
         {
           "en": "Can you give me some further information?",
           "ar": "هل يمكنك إعطائي بعض المعلومات الإضافية : أكثر : ؟"
+        },
+        {
+          "en": "We have no further questions.",
+          "ar": "ليس لدينا المزيد من الأسئلة."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     }

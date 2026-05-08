@@ -1,0 +1,167 @@
+{
+  "id": "lsn_a2_i_2",
+  "levelId": "lvl_2",
+  "slug": "i-words-2",
+  "title": "Unit 20: I Words - Part 2",
+  "titleAr": "الوحدة 20: كلمات حرف I - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter I.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف I.",
+  "order": 20,
+  "wordCount": 7,
+  "words": [
+    {
+      "id": "w_a2_introduction",
+      "en": "introduction",
+      "ar": "مقدمة",
+      "pronunciation": "/ın-trə dak Jən/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Thank you for the introduction.",
+          "ar": "شكرا لك على المقدمة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_invent",
+      "en": "invent",
+      "ar": "اخترع",
+      "pronunciation": "/In'vent/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who invented the telephone?",
+          "ar": "من اخترع الهاتف : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_invention",
+      "en": "invention",
+      "ar": "اختراع",
+      "pronunciation": "/In ven fən/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Telephone is an important invention.",
+          "ar": "الهاتف اختراع مهم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_invite",
+      "en": "invite",
+      "ar": "دعوت",
+      "pronunciation": "/ın vaxt/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you invite Ali ?",
+          "ar": "هل دعوت علي : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_invitation",
+      "en": "invitation",
+      "ar": "دعوة",
+      "pronunciation": "/ In-vi ter ſen/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I received an invitation to the party.",
+          "ar": "تلقيت دعوة للحفلة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_involved",
+      "en": "involved",
+      "ar": "تضمنت",
+      "pronunciation": "/In valvd/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Many of the crimes involved drugs.",
+          "ar": "العديد من الجرائم تضمنت المخدرات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_item",
+      "en": "item",
+      "ar": "عناصر",
+      "pronunciation": "/'ar təm/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Those items are very useful",
+          "ar": "هذه العناصر مفيدة للغاية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

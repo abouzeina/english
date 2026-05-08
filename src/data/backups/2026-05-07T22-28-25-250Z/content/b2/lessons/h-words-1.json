@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_h_1",
+  "levelId": "lvl_b2",
+  "slug": "h-words-1",
+  "title": "H Words - Part 1",
+  "titleAr": "كلمات حرف H - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter H.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف H.",
+  "order": 29,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_habitat",
+      "en": "habitat",
+      "ar": "موطن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_handle",
+      "en": "handle",
+      "ar": "مقبض / يتعامل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_harbor",
+      "en": "harbor",
+      "ar": "ميناء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_harm",
+      "en": "harm",
+      "ar": "أذى / آذيت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_harmful",
+      "en": "harmful",
+      "ar": "ضار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_headquarters",
+      "en": "headquarters",
+      "ar": "المقر الرئيسي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_heal",
+      "en": "heal",
+      "ar": "تلتئم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_healthcare",
+      "en": "healthcare",
+      "ar": "الرعاية الصحية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hearing",
+      "en": "hearing",
+      "ar": "السمع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_heaven",
+      "en": "heaven",
+      "ar": "الجنة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_heel",
+      "en": "heel",
+      "ar": "كعبه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hell",
+      "en": "hell",
+      "ar": "الأمرين (عذاب)",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_helmet",
+      "en": "helmet",
+      "ar": "الخوذة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hence",
+      "en": "hence",
+      "ar": "وبالتالي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_herbs",
+      "en": "herbs",
+      "ar": "الأعشاب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hesitated",
+      "en": "hesitated",
+      "ar": "تردد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hidden",
+      "en": "hidden",
+      "ar": "المخفية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_high",
+      "en": "high",
+      "ar": "مستوى مرتفع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_highway",
+      "en": "highway",
+      "ar": "الطريق السريع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hilarious",
+      "en": "hilarious",
+      "ar": "مضحكة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hip",
+      "en": "hip",
+      "ar": "وركي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hire",
+      "en": "hire",
+      "ar": "تأجير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_historian",
+      "en": "historian",
+      "ar": "مؤرخ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hold",
+      "en": "hold",
+      "ar": "قبضتها",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hollow",
+      "en": "hollow",
+      "ar": "أجوف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

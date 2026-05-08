@@ -1,43 +1,20 @@
 {
   "id": "lsn_a1_c_1",
-  "levelId": "lvl_1",
-  "title": "C Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 6: C Words - Part 1",
   "slug": "c-words-1",
   "order": 6,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف C - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter C.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف C.",
+  "wordCount": 22,
+  "titleAr": "الوحدة 6: كلمات حرف C - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف C.",
   "words": [
-    {
-      "id": "w_a1_bye",
-      "lessonId": "lsn_a1_c_1",
-      "en": "bye",
-      "translation": "مع السلامة / وداعاً",
-      "ar": "مع السلامة / وداعاً",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Bye, see you tomorrow.",
-          "ar": "مع السلامة أراك غدًا."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_cafe",
       "lessonId": "lsn_a1_c_1",
       "en": "cafe",
       "translation": "مقهى",
       "ar": "مقهى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +28,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkæfeɪ/"
     },
     {
       "id": "w_a1_cake",
@@ -59,7 +37,6 @@
       "en": "cake",
       "translation": "كعكة",
       "ar": "كعكة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -73,7 +50,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/keɪk/"
     },
     {
       "id": "w_a1_call",
@@ -81,7 +59,6 @@
       "en": "call",
       "translation": "يتصل / يطلق اسم / مكالمة",
       "ar": "يتصل / يطلق اسم / مكالمة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -103,7 +80,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kɔːɫ/"
     },
     {
       "id": "w_a1_camera",
@@ -111,7 +89,6 @@
       "en": "camera",
       "translation": "كاميرا",
       "ar": "كاميرا",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -125,33 +102,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_can",
-      "lessonId": "lsn_a1_c_1",
-      "en": "can",
-      "translation": "يستطيع",
-      "ar": "يستطيع",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I can help you.",
-          "ar": "أستطيع مساعدتك."
-        },
-        {
-          "en": "Can you cook?",
-          "ar": "هل تستطيعين أن تطبخي؟"
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkæməɹə/"
     },
     {
       "id": "w_a1_cannot",
@@ -159,7 +111,6 @@
       "en": "cannot",
       "translation": "لا يستطيع",
       "ar": "لا يستطيع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -173,7 +124,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kəˈnɑt/"
     },
     {
       "id": "w_a1_capital",
@@ -181,7 +133,6 @@
       "en": "capital",
       "translation": "عاصمة / حروف كبيرة",
       "ar": "عاصمة / حروف كبيرة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -203,7 +154,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkæp.ɪ.təl/"
     },
     {
       "id": "w_a1_car",
@@ -211,7 +163,6 @@
       "en": "car",
       "translation": "سيارة",
       "ar": "سيارة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -225,7 +176,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kɑː/"
     },
     {
       "id": "w_a1_card",
@@ -233,7 +185,6 @@
       "en": "card",
       "translation": "بطاقة / ورق مقوى",
       "ar": "بطاقة / ورق مقوى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -255,7 +206,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kaːd/"
     },
     {
       "id": "w_a1_career",
@@ -263,7 +215,6 @@
       "en": "career",
       "translation": "مجال / عمل / مسيرة مهنية",
       "ar": "مجال / عمل / مسيرة مهنية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -277,7 +228,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kəˈɹɪə/"
     },
     {
       "id": "w_a1_carrot",
@@ -285,7 +237,6 @@
       "en": "carrot",
       "translation": "جزر",
       "ar": "جزر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -299,7 +250,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkæɹ.ət/"
     },
     {
       "id": "w_a1_carrying",
@@ -307,7 +259,6 @@
       "en": "carrying",
       "translation": "تحمل",
       "ar": "تحمل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -321,7 +272,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkæɹiɪŋ/"
     },
     {
       "id": "w_a1_cat",
@@ -329,7 +281,6 @@
       "en": "cat",
       "translation": "قطة",
       "ar": "قطة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -343,7 +294,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kat/"
     },
     {
       "id": "w_a1_cd",
@@ -373,7 +325,6 @@
       "en": "cents",
       "translation": "سنت",
       "ar": "سنت",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -387,29 +338,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_city_center",
-      "lessonId": "lsn_a1_c_1",
-      "en": "city center",
-      "translation": "وسط المدينة",
-      "ar": "وسط المدينة",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "She lives in the city center.",
-          "ar": "إنها تعيش في وسط المدينة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sɛn/"
     },
     {
       "id": "w_a1_century",
@@ -443,21 +373,27 @@
       "en": "chair",
       "translation": "كرسي",
       "ar": "كرسي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "The chair in my office is old.",
           "ar": "الكرسي في مكتبي قديم."
+        },
+        {
+          "en": "Who will chair the meeting ?",
+          "ar": "من سيترأس الاجتماع ؟"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/t͡ʃɛə(ɹ)/"
     },
     {
       "id": "w_a1_change",
@@ -491,21 +427,27 @@
       "en": "chart",
       "translation": "رسم بياني",
       "ar": "رسم بياني",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Can you explain this chart?",
           "ar": "هل يمكنك شرح هذا الرسم البياني؟"
+        },
+        {
+          "en": "This book charts the history of the city.",
+          "ar": "هذا الكتاب يتتبع تاريخ المدينة."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tʃɑːt/"
     },
     {
       "id": "w_a1_cheap",
@@ -513,21 +455,26 @@
       "en": "cheap",
       "translation": "رخيص",
       "ar": "رخيص",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "The food here is cheap.",
           "ar": "الطعام هنا رخيص."
+        },
+        {
+          "en": "I got these shoes cheap.",
+          "ar": "حصلت على هذه الأحذية بثمن بخس."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/t͡ʃiːp/"
     },
     {
       "id": "w_a1_check",
@@ -535,21 +482,26 @@
       "en": "check",
       "translation": "يتأكد",
       "ar": "يتأكد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Check the time, please.",
           "ar": "تأكد من الوقت من فضلك."
+        },
+        {
+          "en": "Can I have the check, please?",
+          "ar": "هل يمكنني الحصول على الفاتورة من فضلك ؟"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/t͡ʃɛk/"
     },
     {
       "id": "w_a1_cheese",
@@ -557,7 +509,6 @@
       "en": "cheese",
       "translation": "جبن",
       "ar": "جبن",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -571,7 +522,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/t͡ʃiz/"
     },
     {
       "id": "w_a1_chicken",
@@ -579,7 +531,6 @@
       "en": "chicken",
       "translation": "دجاج",
       "ar": "دجاج",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -593,7 +544,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈt͡ʃɪkɪn/"
     }
   ]
 }

@@ -1,0 +1,501 @@
+{
+  "id": "lsn_b2_l",
+  "levelId": "lvl_b2",
+  "title": "Unit 31: L Words",
+  "slug": "l-words",
+  "order": 31,
+  "wordCount": 22,
+  "titleAr": "الوحدة 31: كلمات حرف L",
+  "description": "Master essential B2 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف L.",
+  "words": [
+    {
+      "id": "w_b2_labor",
+      "en": "Labor",
+      "ar": "العمل",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Labor law protects workers' rights.",
+          "ar": "قانون العمل يحمي حقوق العمال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈleɪ.bɚ/"
+    },
+    {
+      "id": "w_b2_ladder",
+      "en": "ladder",
+      "ar": "السلم",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He climbed the ladder to reach the roof.",
+          "ar": "هو صعد على السلم ليبلغ السطح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈladə/"
+    },
+    {
+      "id": "w_b2_landing",
+      "en": "landing",
+      "ar": "هبوط",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The plane made a smooth landing.",
+          "ar": "قامت الطائرة بهبوط سلس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlændɪŋ/"
+    },
+    {
+      "id": "w_b2_landscape",
+      "en": "landscape",
+      "ar": "منظرًا طبيعيًا",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She painted a landscape with rolling hills.",
+          "ar": "هي رسمت منظرًا طبيعيًا به تلال متدحرجة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlandskeɪp/"
+    },
+    {
+      "id": "w_b2_lane",
+      "en": "lane",
+      "ar": "الطريق (الضيق)",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The narrow lane led to the park.",
+          "ar": "أدى الطريق الضيق إلى الحديقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/leɪn/"
+    },
+    {
+      "id": "w_b2_largely",
+      "en": "largely",
+      "ar": "إلى حد كبير",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The decision was largely influenced by cost.",
+          "ar": "تأثر القرار إلى حد كبير بالتكلفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[ˈlaːdʒ.li]/"
+    },
+    {
+      "id": "w_b2_lately",
+      "en": "lately",
+      "ar": "مؤخراً",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Have you noticed any changes lately?",
+          "ar": "هل لاحظت أي تغييرات مؤخراً؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈleɪt.li/"
+    },
+    {
+      "id": "w_b2_launch",
+      "en": "launch",
+      "ar": "إطلاق",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The campaign launch received a lot of media coverage.",
+          "ar": "حظي إطلاق الحملة بتغطية إعلامية كبيرة."
+        },
+        {
+          "en": "The company plans to launch a new service soon.",
+          "ar": "تخطط الشركة لإطلاق خدمة جديدة قريباً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/lɔːnt͡ʃ/"
+    },
+    {
+      "id": "w_b2_leadership",
+      "en": "Leadership",
+      "ar": "القيادة",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Leadership training is important for managers.",
+          "ar": "التدريب على القيادة أمر مهم للمدراء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈliːdəʃɪp/"
+    },
+    {
+      "id": "w_b2_leaflets",
+      "en": "leaflets",
+      "ar": "منشورات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A volunteer gave out leaflets at the entrance.",
+          "ar": "قام أحد المتطوعين بتوزيع منشورات عند المدخل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_league",
+      "en": "league",
+      "ar": "دوري",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He volunteers as a coach for the youth league.",
+          "ar": "هو يتطوع كمدرب في دوري الشباب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/liːɡ/"
+    },
+    {
+      "id": "w_b2_lean",
+      "en": "lean",
+      "ar": "يتكئ",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He likes to lean against the wall when he talks.",
+          "ar": "يحب أن يتكئ على الحائط عندما يتحدث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/liːn/"
+    },
+    {
+      "id": "w_b2_legend",
+      "en": "legend",
+      "ar": "أسطورة",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The movie is based on an ancient Greek legend.",
+          "ar": "الفيلم مبني على أسطورة يونانية قديمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɛdʒ.ənd/"
+    },
+    {
+      "id": "w_b2_lens",
+      "en": "lens",
+      "ar": "عدسة",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The lens cap protects the camera lens from dust.",
+          "ar": "غطاء العدسة يحمي عدسة الكاميرا من الغبار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/lɛnz/"
+    },
+    {
+      "id": "w_b2_leveled",
+      "en": "leveled",
+      "ar": "تسوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They leveled the ground to make it suitable for the garden.",
+          "ar": "قاموا بتسوية الأرض لجعلها مناسبة للحديقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_lifetime",
+      "en": "lifetime",
+      "ar": "عمراً كاملاً",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It took a lifetime to perfect his craft.",
+          "ar": "استغرق منه الأمر عمراً كاملاً لإتقان حرفته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlaɪftaɪm/"
+    },
+    {
+      "id": "w_b2_lighting",
+      "en": "lighting",
+      "ar": "إضاءة",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The stage lighting was set for the performance.",
+          "ar": "تم إعداد إضاءة المسرح لأجل العرض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlaɪtɪŋ/"
+    },
+    {
+      "id": "w_b2_likewise",
+      "en": "likewise",
+      "ar": "وكذلك",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He made a positive impression, and his partner did likewise.",
+          "ar": "لقد ترك انطباعاً إيجابياً، وكذلك فعل شريكه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlaɪkˌwaɪz/"
+    },
+    {
+      "id": "w_b2_limitation",
+      "en": "limitation",
+      "ar": "محدوديته",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His physical limitation affects his performance.",
+          "ar": "تؤثر محدوديته البدنية على ادائه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/lɪmɪˈteɪʃən/"
+    },
+    {
+      "id": "w_b2_limited",
+      "en": "limited",
+      "ar": "محدودة",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His knowledge is limited in this field.",
+          "ar": "معرفته محدودة في هذا المجال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɪmɪtɪd/"
+    },
+    {
+      "id": "w_b2_lined",
+      "en": "lined",
+      "ar": "بتبطين",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I lined the sides of the box with fabric.",
+          "ar": "قمت بتبطين جوانب الصندوق بالقماش."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/laɪnd/"
+    },
+    {
+      "id": "w_b2_literally",
+      "en": "literally",
+      "ar": "حرفيا",
+      "lessonId": "lsn_b2_l",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The room is literally freezing cold.",
+          "ar": "الغرفة حرفيا متجمدة من البرد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɪtəɹəli/"
+    }
+  ]
+}

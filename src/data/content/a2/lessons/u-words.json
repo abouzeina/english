@@ -1,0 +1,260 @@
+{
+  "id": "lsn_a2_u",
+  "levelId": "lvl_a2",
+  "title": "Unit 41: U Words",
+  "slug": "u-words",
+  "order": 41,
+  "wordCount": 11,
+  "titleAr": "الوحدة 41: كلمات حرف U",
+  "description": "Master essential A2 vocabulary starting with the letter U.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف U.",
+  "words": [
+    {
+      "id": "w_a2_underground",
+      "en": "underground",
+      "ar": "تحت الأرض",
+      "pronunciation": "/ n-der graund/",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I parked the car underground.",
+          "ar": "أوقفت السيارة تحت الأرض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_understanding",
+      "en": "understanding",
+      "ar": "فهم",
+      "pronunciation": "/ An der stæn dın/",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have a deep understanding of physics.",
+          "ar": "لدي فهم عميق بالفيزياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_unfortunately",
+      "en": "unfortunately",
+      "ar": "للأسف / لسوء الحظ",
+      "pronunciation": "/an for-tsənət-li/",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Unfortunately, the report is true",
+          "ar": "للأسف، التقرير صحيح : لسوء الحظ :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_unhappy",
+      "en": "unhappy",
+      "ar": "تعيس",
+      "pronunciation": "/ʌn' hæpi/",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you think Ali is unhappy?",
+          "ar": "هل تعتقد أن علي تعيس ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_uniform",
+      "en": "uniform",
+      "ar": "زي",
+      "pronunciation": "/ju-nə form/",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Take off your school uniform.",
+          "ar": "اخلع زيك المدرسي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_unit",
+      "en": "unit",
+      "ar": "وحدة / وحدات",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I studied 3 units of my English book",
+          "ar": "درست 3 وحدات من كتاب اللغة الإنجليزية الخاص بي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈjuː.nɪt/"
+    },
+    {
+      "id": "w_a2_united",
+      "en": "united",
+      "ar": "متحدة",
+      "pronunciation": "/ju nart/",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am traveling to The United Arab Emirates.",
+          "ar": "أنا مسافر إلى الإمارات العربية المتحدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_unusual",
+      "en": "unusual",
+      "ar": "غير عادية",
+      "pronunciation": "/ʌn'ju-zu-el/",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you smell something unusual ?",
+          "ar": "هل تشم رائحة غير عادية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_used_to",
+      "en": "used to",
+      "ar": "اعتدنا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We used to play in the park",
+          "ar": "اعتدنا أن نلعب في الحديقة :"
+        },
+        {
+          "en": "I need some time to get used to this bike.",
+          "ar": "أحتاج لبعض الوقت حتى أعتاد على هذه الدراجة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_user",
+      "en": "user",
+      "ar": "مستخدم",
+      "pronunciation": "/'ju-zər/",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "About 68% of Instagram users are female.",
+          "ar": "حوالي 68 من مستخدمي إنستجرام هم من الإناث :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_usual",
+      "en": "usual",
+      "ar": "معتاد",
+      "pronunciation": "/'ju zu-ǝl/",
+      "lessonId": "lsn_a2_u",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He sat in his usual seat at the back",
+          "ar": "جلس في مقعده المعتاد في الخلف :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

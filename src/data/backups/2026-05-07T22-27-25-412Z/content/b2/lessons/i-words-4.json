@@ -1,0 +1,64 @@
+{
+  "id": "lsn_b2_i_4",
+  "levelId": "lvl_b2",
+  "slug": "i-words-4",
+  "title": "I Words - Part 4",
+  "titleAr": "كلمات حرف I - الجزء 4",
+  "description": "Learn essential B2 vocabulary starting with the letter I.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف I.",
+  "order": 34,
+  "wordCount": 3,
+  "words": [
+    {
+      "id": "w_b2_investor",
+      "en": "investor",
+      "ar": "مستثمر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_isolated",
+      "en": "isolated",
+      "ar": "معزولة / عزل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_issued",
+      "en": "issued",
+      "ar": "أصدر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

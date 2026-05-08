@@ -1,0 +1,575 @@
+{
+  "id": "lsn_b2_c_4",
+  "levelId": "lvl_b2",
+  "slug": "c-words-4",
+  "title": "C Words - Part 4",
+  "titleAr": "كلمات حرف C - الجزء 4",
+  "description": "Learn essential B2 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف C.",
+  "order": 12,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_concept",
+      "en": "concept",
+      "ar": "مفهوم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The concept of beauty has changed over the past decades.",
+          "ar": "لقد تغير مفهوم الجمال خلال العقود الماضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_concern",
+      "en": "concern",
+      "ar": "يقلقني / قلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is growing concern about false news in social media.",
+          "ar": "هناك قلق متزايد بشأن الأخبار الكاذبة في وسائل التواصل الاجتماعي."
+        },
+        {
+          "en": "What concerns me is his lack of experience.",
+          "ar": "ما يقلقني هو قلة خبرته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_concerned",
+      "en": "concerned",
+      "ar": "قلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am concerned about my father's health.",
+          "ar": "أنا قلق بشأن صحة والدي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_concrete",
+      "en": "concrete",
+      "ar": "خرسانية / ملموسًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Give me a concrete example.",
+          "ar": "أعطني مثالا ملموسًا."
+        },
+        {
+          "en": "They built concrete blocks around the building.",
+          "ar": "قاموا ببناء كتل خرسانية حول المبنى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conduct",
+      "en": "conduct",
+      "ar": "سلوك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It's a complaint about the conduct of one of our employees.",
+          "ar": "إنها شكوى بشأن سلوك أحد موظفينا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conducting",
+      "en": "conducting",
+      "ar": "نجري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We're conducting a survey as part of the research.",
+          "ar": "نحن نجري استطلاعا كجزء من البحث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_confess",
+      "en": "confess",
+      "ar": "يعترف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was forced to confess.",
+          "ar": "لقد أجبر على أن يعترف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_confidence",
+      "en": "confidence",
+      "ar": "الثقة بالنفس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I often lose confidence when I speak in public.",
+          "ar": "غالبا ما أفقد الثقة بالنفس عندما أتحدث أمام الجمهور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conflicts",
+      "en": "conflicts",
+      "ar": "صراعات / يتعارضان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A book about the impacts of political conflicts in Africa.",
+          "ar": "كتاب عن تأثيرات الصراعات السياسية في أفريقيا."
+        },
+        {
+          "en": "These two reports conflict with each other.",
+          "ar": "هذان التقريران يتعارضان مع بعضهما البعض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_confusing",
+      "en": "confusing",
+      "ar": "محيرا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We are facing a confusing situation.",
+          "ar": "نحن نواجه وضعا محيرا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_confusion",
+      "en": "confusion",
+      "ar": "التباس / غموض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is some confusion about this law.",
+          "ar": "هناك بعض الالتباس حول هذا القانون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conscious",
+      "en": "conscious",
+      "ar": "واعياً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Will I be conscious throughout the operation?",
+          "ar": "هل سأكون واعياً طوال العملية؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_consequently",
+      "en": "consequently",
+      "ar": "وبالتالي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He made many mistakes and consequently got fired.",
+          "ar": "لقد ارتكب العديد من الأخطاء وبالتالي تم طرده."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conservation",
+      "en": "conservation",
+      "ar": "الحفاظ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This article is about energy conservation.",
+          "ar": "هذه المقالة هي عن الحفاظ على الطاقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conservative",
+      "en": "conservative",
+      "ar": "محافظان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My parents are very conservative.",
+          "ar": "والداي محافظان للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_considerable",
+      "en": "considerable",
+      "ar": "كبيرًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "These meetings waste a considerable amount of time.",
+          "ar": "هذه الاجتماعات تضيع قدرًا كبيرًا من الوقت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_considerably",
+      "en": "considerably",
+      "ar": "بشكل كبير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Pollution levels have considerably increased.",
+          "ar": "وقد ارتفعت مستويات التلوث بشكل كبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_consideration",
+      "en": "consideration",
+      "ar": "النظر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your request is currently under consideration.",
+          "ar": "طلبك قيد النظر حاليا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_consistent",
+      "en": "consistent",
+      "ar": "ثابتاً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Stay consistent with your exercise routine.",
+          "ar": "ابق ثابتاً على روتين التدريب الخاص بك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_consistently",
+      "en": "consistently",
+      "ar": "باستمرار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our professor is consistently on time every morning.",
+          "ar": "أستاذنا متواجد في الوقت المحدد باستمرار كل صباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conspiracy_theory",
+      "en": "conspiracy theory",
+      "ar": "نظرية المؤامرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Do you believe in conspiracy theory?",
+          "ar": "هل تؤمن بنظرية المؤامرة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_constant",
+      "en": "constant",
+      "ar": "متواصل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Those people live in constant fear.",
+          "ar": "أولئك الناس يعيشون في خوف متواصل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_constantly",
+      "en": "constantly",
+      "ar": "باستمرار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your child is constantly bothering us.",
+          "ar": "ابنك يزعجنا باستمرار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_constructed",
+      "en": "constructed",
+      "ar": "إنشاء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The museum was constructed in 1920.",
+          "ar": "تم إنشاء المتحف في 1920."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_construction",
+      "en": "construction",
+      "ar": "بناء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The construction of the bridge will take one year.",
+          "ar": "سيستغرق بناء الجسر سنة واحدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "id": "lsn_a2_w_1",
+  "levelId": "lvl_2",
+  "slug": "w-words-1",
+  "title": "Unit 44: W Words - Part 1",
+  "titleAr": "الوحدة 44: كلمات حرف W - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter W.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف W.",
+  "order": 44,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_voice",
+      "en": "voice",
+      "ar": "صوت / أصوات",
+      "pronunciation": "/vǝrs/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I heard voices outside.",
+          "ar": "سمعت أصواتًا في الخارج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wait",
+      "en": "wait",
+      "ar": "انتظار",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It's going to be a long wait.",
+          "ar": "سيكون انتظارا طويلاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_war",
+      "en": "war",
+      "ar": "حرب",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The war lasted two years.",
+          "ar": "استمرت الحرب عامين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wash",
+      "en": "wash",
+      "ar": "غسل",
+      "pronunciation": "/waf/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My towel is ready for a wash.",
+          "ar": "منشفتي جاهزة للغسل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_washing",
+      "en": "washing",
+      "ar": "غسيل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't have time to do the washing.",
+          "ar": "ليس لدي وقت للغسيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wave",
+      "en": "wave",
+      "ar": "أمواج",
+      "pronunciation": "/werv/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The sea waves were shaking the ship",
+          "ar": "كانت أمواج البحر تهز السفينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_weak",
+      "en": "weak",
+      "ar": "ضعيف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is a weak person.",
+          "ar": "علي شخص ضعيف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_web",
+      "en": "web",
+      "ar": "شبكة الإنترنت",
+      "pronunciation": "/web/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I found the information on the Web.",
+          "ar": "وجدت المعلومات على شبكة الإنترنت :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wedding",
+      "en": "wedding",
+      "ar": "زفاف",
+      "pronunciation": "/'wed in/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I made the wedding cake.",
+          "ar": "لقد صنعت كعكة الزفاف :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_weight",
+      "en": "weight",
+      "ar": "وزن",
+      "pronunciation": "/wext/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You need to lose some weight.",
+          "ar": "تحتاج إلى إنقاص بعض الوزن :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_welcome",
+      "en": "welcome",
+      "ar": "ترحيب",
+      "pronunciation": "/ wel kəm/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Thanks for your warm welcome !!",
+          "ar": "شكرًا على ترحيبكم الحار : !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wet",
+      "en": "wet",
+      "ar": "مبللة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't put the wet towel in the bag.",
+          "ar": "لا تضع المنشفة المبللة في الكيس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wheel",
+      "en": "wheel",
+      "ar": "عجلة",
+      "pronunciation": "/hwil/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This truck has 8 wheels.",
+          "ar": "هذه الشاحنة لها 8 عجلات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_while",
+      "en": "while",
+      "ar": "بينما / خلال",
+      "pronunciation": "/hwaıl/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please listen while I speak.",
+          "ar": "فضلك استمع بينما أتحدث : بَيْنَما : خِلال : : من"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_whole",
+      "en": "whole",
+      "ar": "طوال / كله",
+      "pronunciation": "/houl/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We talked the whole night.",
+          "ar": "تحدثنا الليل بطوله :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_whose",
+      "en": "whose",
+      "ar": "لمن",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Whose car is this?",
+          "ar": "لمن هذه السيارة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wide",
+      "en": "wide",
+      "ar": "واسعة / عريض",
+      "pronunciation": "/ward/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our living room has wide windows.",
+          "ar": "غرفة المعيشة لدينا لها نوافذ واسعة : عريض :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wild",
+      "en": "wild",
+      "ar": "برية",
+      "pronunciation": "/warld/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Wild animals live in forests.",
+          "ar": "الحيوانات البرية تعيش في الغابات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wind",
+      "en": "wind",
+      "ar": "رياح",
+      "pronunciation": "/wind/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The wind is blowing from the north",
+          "ar": "الرياح تهب من الشمال :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_winner",
+      "en": "winner",
+      "ar": "فائز",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "One of us could be the winner.",
+          "ar": "يمكن أن يكون أحدنا هو الفائز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wish",
+      "en": "wish",
+      "ar": "أمنية / يتمنى",
+      "pronunciation": "/wxf/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A goal without a plan is just a wish.",
+          "ar": "هدف بدون خطة هو مجرد أمنية :"
+        },
+        {
+          "en": "I wish we could live here",
+          "ar": "أتمنى لو أمكننا العيش هنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wood",
+      "en": "wood",
+      "ar": "خشب",
+      "pronunciation": "/wud/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need a piece of wood.",
+          "ar": "أحتاج قطعة من الخشب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_wooden",
+      "en": "wooden",
+      "ar": "خشبية",
+      "pronunciation": "/wud-en/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Wooden chairs are expensive",
+          "ar": "الكراسي الخشبية غالية الثمن :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_working",
+      "en": "working",
+      "ar": "عمل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can't smoke during working hours.",
+          "ar": "لا يمكنك التدخين خلال ساعات العمل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_worried",
+      "en": "worried",
+      "ar": "قلق",
+      "pronunciation": "/'w3r-id/",
+      "lessonId": "lsn_a2_w_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am very worried.",
+          "ar": "أنا قلق للغاية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

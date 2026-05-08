@@ -1,0 +1,79 @@
+{
+  "id": "lsn_c1_k",
+  "levelId": "lvl_c1",
+  "title": "Unit 20: K Words",
+  "slug": "k-words",
+  "order": 20,
+  "wordCount": 3,
+  "titleAr": "الوحدة 20: كلمات حرف K",
+  "description": "Master essential C1 vocabulary starting with the letter K.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف K.",
+  "words": [
+    {
+      "id": "w_c1_kidnap",
+      "en": "kidnap",
+      "ar": "يختطف",
+      "pronunciation": "ˈkɪdnæp",
+      "lessonId": "lsn_c1_k",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حاولت العصابة اختطاف رجل الأعمال الثري",
+          "ar": "The police are working to find the man who was kidnapped."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_kidney",
+      "en": "kidney",
+      "ar": "كلية",
+      "lessonId": "lsn_c1_k",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ينتظر المريض عملية زراعة كلية",
+          "ar": "Drinking water is essential for healthy kidney function."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɪdni/"
+    },
+    {
+      "id": "w_c1_kingdom",
+      "en": "kingdom",
+      "ar": "مملكة",
+      "lessonId": "lsn_c1_k",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتكون المملكة المتحدة من أربع دول مختلفة",
+          "ar": "The lion is often called the king of the animal kingdom."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɪŋdəm/"
+    }
+  ]
+}

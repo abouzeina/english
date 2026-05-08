@@ -1,0 +1,149 @@
+{
+  "id": "lsn_b1_i_2",
+  "levelId": "lvl_b1",
+  "slug": "i-words-2",
+  "title": "Unit 19: I Words - Part 2",
+  "titleAr": "الوحدة 19: كلمات حرف I - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with I.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف I.",
+  "order": 19,
+  "wordCount": 6,
+  "words": [
+    {
+      "id": "w_b1_intentions",
+      "en": "intentions",
+      "ar": "نوايا",
+      "pronunciation": "/zn'ten-Jen/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What are your future intentions?",
+          "ar": "ما هي نواياك المستقبلية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_invested",
+      "en": "invested",
+      "ar": "استثمر",
+      "pronunciation": "/In'vest/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He invested his money abroad.",
+          "ar": "هو استثمر أمواله في الخارج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_investigating",
+      "en": "investigating",
+      "ar": "تحقق في",
+      "pronunciation": "/ın'ves tz gert/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The police are investigating the crime.",
+          "ar": "الشرطة تحقق في الجريمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_involved",
+      "en": "involved",
+      "ar": "متورطين",
+      "pronunciation": "/In valvd/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Definitely they were involved.",
+          "ar": "بالتأكيد كانوا متورطين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_iron",
+      "en": "iron",
+      "ar": "حديدية / يكوي",
+      "pronunciation": "/' -ǝrn/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The house has an iron gate.",
+          "ar": "المنزل له بوابة حديدية."
+        },
+        {
+          "en": "Where can I iron my coat?",
+          "ar": "أين يمكنني أن أكوي معطفي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_issues",
+      "en": "issues",
+      "ar": "قضايا",
+      "pronunciation": "/'xf-u/",
+      "lessonId": "lsn_b1_i_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We spoke about several issues.",
+          "ar": "تحدثنا عن عدة قضايا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

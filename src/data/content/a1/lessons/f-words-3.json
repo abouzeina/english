@@ -1,21 +1,241 @@
 {
   "id": "lsn_a1_f_3",
-  "levelId": "lvl_1",
-  "title": "F Words - Part 3",
+  "levelId": "lvl_a1",
+  "title": "Unit 15: F Words - Part 3",
   "slug": "f-words-3",
   "order": 15,
-  "wordCount": 8,
-  "titleAr": "كلمات حرف F - الجزء 3",
-  "description": "Learn essential A1 vocabulary starting with the letter F.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف F.",
+  "wordCount": 18,
+  "titleAr": "الوحدة 15: كلمات حرف F - الجزء 3",
+  "description": "Master essential A1 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف F.",
   "words": [
+    {
+      "id": "w_a1_for",
+      "lessonId": "lsn_a1_f_3",
+      "en": "for",
+      "translation": "لـ / لأجل / لمدة",
+      "ar": "لـ / لأجل / لمدة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I bought flowers for you.",
+          "ar": "اشتريت زهوراً لك."
+        },
+        {
+          "en": "I waited for an hour.",
+          "ar": "انتظرت لمدة ساعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_forget",
+      "lessonId": "lsn_a1_f_3",
+      "en": "forget",
+      "translation": "ينسى",
+      "ar": "ينسى",
+      "pronunciation": "/fe get/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Don't forget to call me.",
+          "ar": "لا تنس أن تتصل بي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_form",
+      "lessonId": "lsn_a1_f_3",
+      "en": "form",
+      "translation": "شكل / يشكل",
+      "ar": "شكل / يشكل",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Running is a form of exercise.",
+          "ar": "الجري هو شكل من أشكال التمارين الرياضية."
+        },
+        {
+          "en": "The children formed a line.",
+          "ar": "شكل الأطفال صفاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɔːm/"
+    },
+    {
+      "id": "w_a1_forty",
+      "lessonId": "lsn_a1_f_3",
+      "en": "forty",
+      "translation": "أربعين",
+      "ar": "أربعين",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The project will take forty days.",
+          "ar": "سيستغرق المشروع أربعين يوماً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔɹti/"
+    },
+    {
+      "id": "w_a1_four",
+      "lessonId": "lsn_a1_f_3",
+      "en": "four",
+      "translation": "أربعة",
+      "ar": "أربعة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "There are four people here.",
+          "ar": "يوجد أربعة أشخاص هنا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/foː/"
+    },
+    {
+      "id": "w_a1_fourteen",
+      "lessonId": "lsn_a1_f_3",
+      "en": "fourteen",
+      "translation": "أربعة عشر",
+      "ar": "أربعة عشر",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He is fourteen years old.",
+          "ar": "يبلغ من العمر أربعة عشر عاماً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔː.tiːn/"
+    },
+    {
+      "id": "w_a1_fourth",
+      "lessonId": "lsn_a1_f_3",
+      "en": "fourth",
+      "translation": "رابع",
+      "ar": "رابع",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Today is the fourth of July.",
+          "ar": "اليوم هو الرابع من يوليو."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɔːθ/"
+    },
+    {
+      "id": "w_a1_free",
+      "lessonId": "lsn_a1_f_3",
+      "en": "free",
+      "translation": "مجاني / متاح / متفرغ",
+      "ar": "مجاني / متاح / متفرغ",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The tickets are free today.",
+          "ar": "التذاكر مجانية اليوم."
+        },
+        {
+          "en": "I'm free after five o'clock.",
+          "ar": "أنا متاح بعد الساعة الخامسة."
+        },
+        {
+          "en": "I got this book free.",
+          "ar": "حصلت على هذا الكتاب مجانا."
+        },
+        {
+          "en": "They decided to free 25 prisoners.",
+          "ar": "قرروا أن يطلقوا سراح 25 سجيناً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɹiː/"
+    },
+    {
+      "id": "w_a1_friday",
+      "lessonId": "lsn_a1_f_3",
+      "en": "Friday",
+      "translation": "يوم الجمعة",
+      "ar": "يوم الجمعة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Friday is my favorite day.",
+          "ar": "الجمعة هو يومي المفضل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_a1_friend",
       "lessonId": "lsn_a1_f_3",
       "en": "friend",
       "translation": "صديق",
       "ar": "صديق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -29,7 +249,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fɹɛnd/"
     },
     {
       "id": "w_a1_friendly",
@@ -37,7 +258,6 @@
       "en": "friendly",
       "translation": "ودود",
       "ar": "ودود",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +271,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɹɛndli/"
     },
     {
       "id": "w_a1_from",
@@ -59,7 +280,6 @@
       "en": "from",
       "translation": "من",
       "ar": "من",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -73,7 +293,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fɹɒm/"
     },
     {
       "id": "w_a1_front",
@@ -81,7 +302,6 @@
       "en": "front",
       "translation": "أمامي / مقدمة / أمام",
       "ar": "أمامي / مقدمة / أمام",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -103,7 +323,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fɹʌnt/"
     },
     {
       "id": "w_a1_fruit",
@@ -111,7 +332,6 @@
       "en": "fruit",
       "translation": "فواكه",
       "ar": "فواكه",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -125,7 +345,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fɹuːt/"
     },
     {
       "id": "w_a1_full",
@@ -133,7 +354,6 @@
       "en": "full",
       "translation": "مليء",
       "ar": "مليء",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -147,7 +367,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fʊl/"
     },
     {
       "id": "w_a1_fun",
@@ -155,21 +376,26 @@
       "en": "fun",
       "translation": "متعة / مرح",
       "ar": "متعة / مرح",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I learn English just for fun.",
           "ar": "أتعلم اللغة الإنجليزية لأجل المتعة فقط."
+        },
+        {
+          "en": "Basketball is a fun game to play.",
+          "ar": "كرة السلة هي لعبة ممتعة للعب."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fʊn/"
     },
     {
       "id": "w_a1_funny",
@@ -177,7 +403,6 @@
       "en": "funny",
       "translation": "مضحك",
       "ar": "مضحك",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -189,6 +414,34 @@
       "tags": [
         "A1",
         "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfʊnɪ/"
+    },
+    {
+      "id": "w_a1_future",
+      "lessonId": "lsn_a1_f_3",
+      "en": "future",
+      "translation": "مستقبل",
+      "ar": "مستقبل",
+      "pronunciation": "/'fju.tfa/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Think about your future.",
+          "ar": "فكر في مستقبلك."
+        },
+        {
+          "en": "He met his future wife in the library.",
+          "ar": "التقى بزوجته المستقبلية في المكتبة :"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false

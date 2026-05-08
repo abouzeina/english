@@ -1,0 +1,476 @@
+{
+  "id": "lsn_b2_p_3",
+  "levelId": "lvl_b2",
+  "title": "Unit 40: P Words - Part 3",
+  "slug": "p-words-3",
+  "order": 40,
+  "wordCount": 20,
+  "titleAr": "الوحدة 40: كلمات حرف P - الجزء 3",
+  "description": "Master essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_b2_pose",
+      "en": "pose",
+      "ar": "يشكل",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This decision could pose challenges for the team.",
+          "ar": "قد يشكل هذا القرار تحديات للفريق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəʊz/"
+    },
+    {
+      "id": "w_b2_positives",
+      "en": "positives",
+      "ar": "الإيجابيات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He considered the positives and negatives before deciding.",
+          "ar": "لقد فكر في الإيجابيات والسلبيات قبل اتخاذ القرار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_possess",
+      "en": "possess",
+      "ar": "يمتلك",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He does not possess the required skills for this job.",
+          "ar": "هو لا يمتلك المهارات المطلوبة لهذه الوظيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəˈzɛs/"
+    },
+    {
+      "id": "w_b2_potential",
+      "en": "potential",
+      "ar": "إمكاناته / محتملاً / من المحتمل",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He realized his true potential after many failures.",
+          "ar": "لقد أدرك إمكاناته الحقيقية بعد العديد من الإخفاقات."
+        },
+        {
+          "en": "The new system is potentially more efficient than before.",
+          "ar": "من المحتمل أن يكون النظام الجديد أكثر كفاءة من السابق."
+        },
+        {
+          "en": "They saw him as a potential leader for change.",
+          "ar": "لقد رأوا فيه قائداً محتملاً للتغيير."
+        },
+        {
+          "en": "المشروع لديه القدرة (إمكانية) على النجاح",
+          "ar": "We need to reach our potential customers."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəˈtɛnʃəl/"
+    },
+    {
+      "id": "w_b2_praise",
+      "en": "praise",
+      "ar": "ثناء",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The coach's praise boosted the team's confidence.",
+          "ar": "عزز ثناء المدرب ثقة الفريق في نفسه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹeɪz/"
+    },
+    {
+      "id": "w_b2_praised",
+      "en": "praised",
+      "ar": "أشاد",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He praised her ability to solve problems quickly.",
+          "ar": "أشاد بقدرتها على حل المشاكل بسرعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹeɪzd/"
+    },
+    {
+      "id": "w_b2_precede",
+      "en": "precede",
+      "ar": "تسبق",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Warming exercises will precede any intense physical activity.",
+          "ar": "سوف تسبق تمارين الإحماء أي نشاط بدني مكثف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹiːˈsiːd/"
+    },
+    {
+      "id": "w_b2_precious",
+      "en": "precious",
+      "ar": "غالية",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This ring holds precious memories of our wedding day.",
+          "ar": "يحمل هذا الخاتم ذكريات غالية من يوم زفافنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɛʃəs/"
+    },
+    {
+      "id": "w_b2_precise",
+      "en": "precise",
+      "ar": "دقيقة",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His instructions were clear and precise for everyone.",
+          "ar": "كانت تعليماته واضحة ودقيقة للجميع."
+        },
+        {
+          "en": "كانت التعليمات دقيقة جداً",
+          "ar": "He provided a precise description of the suspect."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɪˈsaɪs/"
+    },
+    {
+      "id": "w_b2_precisely",
+      "en": "precisely",
+      "ar": "بدقة",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They placed the furniture precisely as requested.",
+          "ar": "لقد وضعوا الأثاث على النحو المطلوب بدقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɪˈsaɪsli/"
+    },
+    {
+      "id": "w_b2_predictable",
+      "en": "predictable",
+      "ar": "متوقعاً",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Their behavior became predictable over the years.",
+          "ar": "أصبح سلوكهم متوقعاً على مر السنين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɪˈdɪktəbl̩/"
+    },
+    {
+      "id": "w_c1_preference",
+      "en": "preference",
+      "ar": "تفضيل",
+      "pronunciation": "ˈprefrəns",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "هل لديك تفضيل لأي نوع معين من الطعام؟",
+          "ar": "Preference will be given to candidates with experience."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_preferences",
+      "en": "preferences",
+      "ar": "التفضيلاتك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The restaurant offers many options to suit preferences.",
+          "ar": "يقدم المطعم العديد من الخيارات التي تناسب مختلف التفضيلاتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pregnant",
+      "en": "pregnant",
+      "ar": "حامل",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She had mixed emotions about being pregnant.",
+          "ar": "كانت لديها مشاعر مختلطة حول كونها حامل."
+        },
+        {
+          "en": "إنها حامل في شهرها السادس",
+          "ar": "The hospital provides care for pregnant women."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɛɡnənt/"
+    },
+    {
+      "id": "w_b2_preparation",
+      "en": "preparation",
+      "ar": "التحضير",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Preparation for the trip took several days.",
+          "ar": "استغرق التحضير للرحلة عدة أيام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɛpəˈɹeɪʃən/"
+    },
+    {
+      "id": "w_b2_presence",
+      "en": "presence",
+      "ar": "حضوره",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His strong presence left a lasting impression.",
+          "ar": "وقد ترك حضوره القوي انطباعاً دائماً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɛzəns/"
+    },
+    {
+      "id": "w_b2_preserve",
+      "en": "preserve",
+      "ar": "يحافظون",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They preserve memories through photo albums and stories.",
+          "ar": "يحافظون على الذكريات من خلال ألبومات الصور والقصص."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈzɜːv/"
+    },
+    {
+      "id": "w_b2_pride",
+      "en": "pride",
+      "ar": "اعتزازه",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His pride in his team was obvious.",
+          "ar": "كان اعتزازه بفريقه واضحاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹaɪd/"
+    },
+    {
+      "id": "w_b2_primarily",
+      "en": "primarily",
+      "ar": "في المقام الأول",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This diet consists primarily of fresh vegetables.",
+          "ar": "يتكون هذا النظام الغذائي في المقام الأول من الخضروات الطازجة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹaɪˈmɛɹəli/"
+    },
+    {
+      "id": "w_b2_prime",
+      "en": "prime",
+      "ar": "هدفه الأساسي",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Safety is their prime objective on every mission.",
+          "ar": "السلامة هي هدفهم الأساسي في كل مهمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹaɪ̯m/"
+    }
+  ]
+}

@@ -1,19 +1,162 @@
 {
   "id": "lsn_b1_b_2",
   "levelId": "lvl_b1",
+  "title": "Unit 4: B Words - Part 2",
   "slug": "b-words-2",
-  "title": "Unit 5: B Words - Part 2",
-  "titleAr": "الوحدة 5: كلمات حرف B - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with B.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف B.",
-  "order": 5,
-  "wordCount": 8,
+  "order": 4,
+  "wordCount": 14,
+  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف B.",
   "words": [
+    {
+      "id": "w_b1_bite",
+      "en": "bite",
+      "ar": "يعض / قضمة",
+      "pronunciation": "/bart/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I promise I won't bite you.",
+          "ar": "أعدك أنني لن أعضك."
+        },
+        {
+          "en": "Ali took another bite of his sandwich.",
+          "ar": "أخذ علي قضمة أخرى من شطيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_blocks",
+      "en": "blocks",
+      "ar": "يمنع / يسد / مربعات سكنية",
+      "pronunciation": "/blak/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This wall blocks the wind.",
+          "ar": "هذا الجدار يمنع الريح."
+        },
+        {
+          "en": "Walk three blocks and then turn right.",
+          "ar": "امش ثلاث مربعات سكنية ثم انعطف يمينا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_boarded",
+      "en": "boarded",
+      "ar": "صعد على متن",
+      "pronunciation": "/bord/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami boarded the plane.",
+          "ar": "صعد سامي على متن الطائرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bombs",
+      "en": "bombs",
+      "ar": "قنابل / يقصف",
+      "pronunciation": "/bam/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Many cities were destroyed by bombs.",
+          "ar": "العديد من المدن دمرت بواسطة القنابل."
+        },
+        {
+          "en": "They bombed several air ports.",
+          "ar": "قصفوا عدة مطارات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bother",
+      "en": "bother",
+      "ar": "يزعج",
+      "pronunciation": "/'ba-dər/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I won't bother you.",
+          "ar": "لن أزعجك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_branches",
+      "en": "branches",
+      "ar": "فروع",
+      "pronunciation": "/brænt /",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have branches everywhere.",
+          "ar": "لدينا فروع في كل مكان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_b1_brand",
       "en": "brand",
       "ar": "ماركة / يسم بـ",
-      "pronunciation": "",
       "lessonId": "lsn_b1_b_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -33,7 +176,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɹand/"
     },
     {
       "id": "w_b1_brave",
@@ -83,7 +227,6 @@
       "id": "w_b1_breathe",
       "en": "breathe",
       "ar": "يتنفس",
-      "pronunciation": "",
       "lessonId": "lsn_b1_b_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -99,13 +242,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɹiːð/"
     },
     {
       "id": "w_b1_breathing",
       "en": "breathing",
       "ar": "تنفس (اسم)",
-      "pronunciation": "",
       "lessonId": "lsn_b1_b_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -121,7 +264,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈbɹiːðɪŋ/"
     },
     {
       "id": "w_b1_bride",

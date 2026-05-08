@@ -25,7 +25,14 @@ export interface Category {
   slug: string;
   title: string;
   titleAr: string;
+  descriptionAr?: string;
   type: string;
+  subcategories?: {
+    id: string;
+    titleAr: string;
+    wordCount: number;
+    words: any[];
+  }[];
 }
 
 export interface Example {

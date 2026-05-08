@@ -1,62 +1,14 @@
 {
   "id": "lsn_b1_p_3",
   "levelId": "lvl_b1",
+  "title": "Unit 27: P Words - Part 3",
   "slug": "p-words-3",
-  "title": "Unit 29: P Words - Part 3",
-  "titleAr": "الوحدة 29: كلمات حرف P - الجزء 3",
-  "description": "Expand your intermediate vocabulary with words starting with P.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف P.",
-  "order": 29,
-  "wordCount": 25,
+  "order": 27,
+  "wordCount": 23,
+  "titleAr": "الوحدة 27: كلمات حرف P - الجزء 3",
+  "description": "Master essential B1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف P.",
   "words": [
-    {
-      "id": "w_b1_presentation",
-      "en": "presentation",
-      "ar": "عرض تقديمي",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He spoke about three solutions in his presentation.",
-          "ar": "تحدث عن ثلاثة حلول في عرضه التقديمي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_press",
-      "en": "Press",
-      "ar": "اضغط / صحافة",
-      "pronunciation": "/pres/",
-      "lessonId": "lsn_b1_p_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Press the button after writing the comment.",
-          "ar": "اضغط على الزر بعد كتابة التعليق."
-        },
-        {
-          "en": "The lecture was reported in the press.",
-          "ar": "نشرت المحاضرة في الصحف."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_pressure",
       "en": "pressure",
@@ -179,13 +131,19 @@
         {
           "en": "Our primary purpose is to help them.",
           "ar": "هدفنا الأساسي هو مساعدتهم."
+        },
+        {
+          "en": "اهتمامنا الأساسي هو سلامة الأطفال",
+          "ar": "The discovery was of primary importance to science."
         }
       ],
       "type": "word",
       "difficulty": "B1",
       "tags": [
         "B1",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -366,50 +324,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_profit",
-      "en": "profit",
-      "ar": "أرباح",
-      "pronunciation": "/'pra:.frt/",
-      "lessonId": "lsn_b1_p_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I hope I can raise my profit.",
-          "ar": "آمل أن أتمكن من زيادة أرباحي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_program",
-      "en": "program",
-      "ar": "يبرمج",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We will teach you how to program.",
-          "ar": "سوف نعلمك كيف تبرمج."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_promote",
       "en": "promote",
       "ar": "يروج",
@@ -421,13 +335,19 @@
         {
           "en": "We invented a new way to promote our products.",
           "ar": "اخترعنا طريقة جديدة لنروج لمنتجاتنا."
+        },
+        {
+          "en": "تهدف الحملة إلى الترويج للأكل الصحي",
+          "ar": "He was promoted to manager last month."
         }
       ],
       "type": "word",
       "difficulty": "B1",
       "tags": [
         "B1",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -520,28 +440,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_protest",
-      "en": "protest",
-      "ar": "احتجاج",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We joined the protest movement.",
-          "ar": "انضممنا إلى الحركة الاحتجاج."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_proud",
       "en": "proud",
       "ar": "فخور",
@@ -553,6 +451,72 @@
         {
           "en": "I am proud of my work as a journalist.",
           "ar": "أنا فخور بعملي كصحفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_prove",
+      "en": "prove",
+      "ar": "يثبت",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can you prove that your method is the best?",
+          "ar": "هل يمكنك أن تثبت أن طريقتك هي الأفضل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_punished",
+      "en": "punished",
+      "ar": "عاقبوا",
+      "pronunciation": "/pʌn.1/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They punished the child by forcing him to taste a lemon.",
+          "ar": "عاقبوا الطفل بإجباره على تذوق الليمون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_punishment",
+      "en": "punishment",
+      "ar": "عقوبة",
+      "pronunciation": "/pan.[/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the punishment for this crime?",
+          "ar": "ما هي عقوبة هذه الجريمة ؟"
         }
       ],
       "type": "word",

@@ -1,0 +1,219 @@
+{
+  "id": "lsn_b2_g_2",
+  "levelId": "lvl_b2",
+  "slug": "g-words-2",
+  "title": "G Words - Part 2",
+  "titleAr": "كلمات حرف G - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter G.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف G.",
+  "order": 18,
+  "wordCount": 9,
+  "words": [
+    {
+      "id": "w_b2_grand",
+      "en": "grand",
+      "ar": "كبيراً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was a grand celebration for their wedding anniversary.",
+          "ar": "كان احتفالاً كبيراً بذكرى زواجهما."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_grant",
+      "en": "grant",
+      "ar": "منحة / منحه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was granted permission to access the records.",
+          "ar": "تم منحه الإذن بالوصول إلى السجلات."
+        },
+        {
+          "en": "She applied for a research grant to fund her project.",
+          "ar": "تقدمت بطلب للحصول على منحة بحثية لتمويل مشروعها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_graphic",
+      "en": "graphic",
+      "ar": "الجرافيكي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Its graphic design caught everyone's attention.",
+          "ar": "لفت تصميمه الجرافيكي انتباه الجميع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_graphics",
+      "en": "graphics",
+      "ar": "الرسومات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They hired a team to improve the graphics on their app.",
+          "ar": "لقد وظفوا فريقاً لتحسين الرسومات في تطبيقهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_greatly",
+      "en": "greatly",
+      "ar": "بشكل كبير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company's profits have greatly increased since 2010.",
+          "ar": "زادت أرباح الشركة بشكل كبير منذ عام 2010."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_greenhouse",
+      "en": "greenhouse",
+      "ar": "الصوبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The greenhouse was filled with a variety of plants.",
+          "ar": "كانت الصوبة مليئة بمجموعة متنوعة من النباتات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_grocery",
+      "en": "grocery",
+      "ar": "بقالات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They compared prices at several grocery stores.",
+          "ar": "قارنوا الأسعار في عدة بقالات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_guarantee",
+      "en": "guarantee",
+      "ar": "ضمان / يضمن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The fridge comes with a ten-year guarantee.",
+          "ar": "تأتي الثلاجة بضمان لمدة عشر سنوات."
+        },
+        {
+          "en": "The store guarantees next day delivery for all online orders.",
+          "ar": "يضمن المتجر التوصيل في اليوم التالي لجميع الطلبات عبر الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_guidelines",
+      "en": "guidelines",
+      "ar": "إرشادات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Please review the company guidelines carefully.",
+          "ar": "يرجى مراجعة إرشادات الشركة بعناية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

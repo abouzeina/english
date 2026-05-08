@@ -1,0 +1,387 @@
+{
+  "id": "lsn_a2_e_2",
+  "levelId": "lvl_2",
+  "slug": "e-words-2",
+  "title": "Unit 13: E Words - Part 2",
+  "titleAr": "الوحدة 13: كلمات حرف E - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter E.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف E.",
+  "order": 13,
+  "wordCount": 17,
+  "words": [
+    {
+      "id": "w_a2_essay",
+      "en": "essay",
+      "ar": "مقال",
+      "pronunciation": "/'es-ex/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Write a short essay.",
+          "ar": "اكتب مقالاً قصيرا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_everyday",
+      "en": "everyday",
+      "ar": "يومية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "TV plays an important part in everyday life.",
+          "ar": "يلعب التلفاز دورًا مهمًا في الحياة اليومية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_everywhere",
+      "en": "everywhere",
+      "ar": "في كل مكان",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There's ice everywhere.",
+          "ar": "يوجد جليد في كل مكان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_evidence",
+      "en": "evidence",
+      "ar": "أدلة",
+      "pronunciation": "/'ev   dəns/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have discovered new evidence.",
+          "ar": "لقد اكتشفت أدلة جديدة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_exact",
+      "en": "exact",
+      "ar": "دقيقة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Give me an exact answer.",
+          "ar": "أعطني إجابة دقيقة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_exactly",
+      "en": "exactly",
+      "ar": "بالضبط",
+      "pronunciation": "/zg'zækt-li/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What exactly do you mean?",
+          "ar": "ماذا تعني بالضبط : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_excellent",
+      "en": "excellent",
+      "ar": "ممتاز",
+      "pronunciation": "/ek se lənt/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You are an excellent chef.",
+          "ar": "أنت طاه ممتاز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_except",
+      "en": "except",
+      "ar": "ما عدا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We work every day except Friday.",
+          "ar": "نحن نعمل كل يوم ما عدا الجمعة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_exist",
+      "en": "exist",
+      "ar": "يتواجد",
+      "pronunciation": "/1g'zIst/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Nobody can exist without food.",
+          "ar": "لا يمكن لأحد أن يعيش بدون طعام : يتواجد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_expect",
+      "en": "expect",
+      "ar": "تتوقع",
+      "pronunciation": "/1k'spekt/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you expect us to believe you?",
+          "ar": "هل تتوقع منا أن نصدقك : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_experience",
+      "en": "experience",
+      "ar": "خبرة",
+      "pronunciation": "/ık'spzər-i-əns/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you have work experience?",
+          "ar": "هل لديك خبرة في العمل : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_experiment",
+      "en": "experiment",
+      "ar": "تجارب",
+      "pronunciation": "/ık'sper   mənt/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't like the idea of experiments on animals.",
+          "ar": "لا أحب فكرة إجراء التجارب على الحيوانات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_expert",
+      "en": "expert",
+      "ar": "خبير",
+      "pronunciation": "/'ek sp3rt/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Nobody can be an expert at everything.",
+          "ar": "لا أحد يستطيع أن يكون خبيرا في كل شيء :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_explanation",
+      "en": "explanation",
+      "ar": "تفسير",
+      "pronunciation": "/ek-splə nex fən/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you have any explanations ?",
+          "ar": "هل لديك أية تفسيرات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_express",
+      "en": "express",
+      "ar": "يعبر",
+      "pronunciation": "/ık'spres/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Express your feelings.",
+          "ar": "عبر عن مشاعرك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_expression",
+      "en": "expression",
+      "ar": "عبارة / تعبير",
+      "pronunciation": "/1k'spref.ən/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I didn't hear that expression before.",
+          "ar": "لم أسمع بهذه العبارة من قبل : تعبير :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_extreme",
+      "en": "extreme",
+      "ar": "قارس",
+      "pronunciation": "/xk'strim/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Extreme cold covered Europe",
+          "ar": "برد قارس غطى أوروبا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,14 +1,151 @@
 {
   "id": "lsn_a2_s_4",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 37: S Words - Part 4",
   "slug": "s-words-4",
-  "title": "Unit 38: S Words - Part 4",
-  "titleAr": "الوحدة 38: كلمات حرف S - الجزء 4",
-  "description": "Build on your A2 vocabulary starting with the letter S.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
-  "order": 38,
-  "wordCount": 25,
+  "order": 37,
+  "wordCount": 20,
+  "titleAr": "الوحدة 37: كلمات حرف S - الجزء 4",
+  "description": "Master essential A2 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_a2_somewhere",
+      "en": "somewhere",
+      "ar": "مكان",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Let's go somewhere quiet.",
+          "ar": "لنهب إلى مكان هادئ :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈsʌm.hweːɹ/"
+    },
+    {
+      "id": "w_a2_sort",
+      "en": "sort",
+      "ar": "نوع",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What sort of soap is this?",
+          "ar": "أي نوع من الصابون هو هذا ؟"
+        },
+        {
+          "en": "Sort these books on that narrow shelf.",
+          "ar": "رتب هذه الكتب على ذلك الرف الضيق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "ipa": "/sɔːt/"
+    },
+    {
+      "id": "w_a2_source",
+      "en": "source",
+      "ar": "مصدر",
+      "pronunciation": "/sors/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's the source of this information?",
+          "ar": "ما هو مصدر هذه المعلومات : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_speech",
+      "en": "speech",
+      "ar": "خطاب",
+      "pronunciation": "/spit∫/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His speech lasted three hours.",
+          "ar": "استمر خطابه لثلاث ساعات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_speed",
+      "en": "speed",
+      "ar": "سرعة",
+      "pronunciation": "/spid/",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali started running at full speed.",
+          "ar": "بدأ علي بالركض بأقصى سرعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_spider",
+      "en": "spider",
+      "ar": "عنكبوت / عناكب",
+      "lessonId": "lsn_a2_s_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are you afraid of spiders ?",
+          "ar": "هل تخاف من العناكب : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/[ˈspʌɪ̯ɾə(ɹ)]/"
+    },
     {
       "id": "w_a2_spoon",
       "en": "spoon",
@@ -79,7 +216,6 @@
       "id": "w_a2_stairs",
       "en": "stairs",
       "ar": "درج",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_4",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -95,7 +231,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈstɛəz/"
     },
     {
       "id": "w_a2_stamp",
@@ -120,50 +257,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_star",
-      "en": "star",
-      "ar": "يلعب دور البطولة",
-      "pronunciation": "/star/",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He starred in that movie.",
-          "ar": "لعب دور البطولة في هذا الفيلم :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_start",
-      "en": "start",
-      "ar": "بداية",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Explain everything from the start.",
-          "ar": "اشرح كل شيء من البداية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_state",
       "en": "state",
       "ar": "ولاية",
@@ -175,35 +268,18 @@
         {
           "en": "Sami moved to another state.",
           "ar": "انتقل سامي إلى ولاية أخرى :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_stay",
-      "en": "stay",
-      "ar": "إقامة",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "I enjoyed my stay in Alexandria.",
-          "ar": "استمتعت بإقامتي في الإسكندرية."
+          "en": "We should improve the state education system.",
+          "ar": "يجب علينا تحسين نظام التعليم الحكومي."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -211,7 +287,6 @@
       "id": "w_a2_steal",
       "en": "steal",
       "ar": "سرق",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_4",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -227,13 +302,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/stiːl/"
     },
     {
       "id": "w_a2_step",
       "en": "step",
       "ar": "خطوة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_4",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -249,7 +324,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/stɛp/"
     },
     {
       "id": "w_a2_stomach",
@@ -299,7 +375,6 @@
       "id": "w_a2_store",
       "en": "store",
       "ar": "متجر",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_4",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -307,15 +382,21 @@
         {
           "en": "Ali is closing the store.",
           "ar": "علي يغلق المتجر."
+        },
+        {
+          "en": "Can I store my books in your cupboard?",
+          "ar": "هل يمكنني أن أخزن كتبي في خزانتك ؟"
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/stɔː/"
     },
     {
       "id": "w_a2_storm",
@@ -377,190 +458,6 @@
         {
           "en": "A strange thing happened yesterday.",
           "ar": "حدث شيء غريب بالأمس :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_strategy",
-      "en": "strategy",
-      "ar": "استراتيجية",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Perhaps we need a better strategy.",
-          "ar": "ربما نحتاج إلى استراتيجية أفضل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_stress",
-      "en": "stress",
-      "ar": "إجهاد / شدد",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I try to avoid stress.",
-          "ar": "أحاول أن أتجنب الإجهاد."
-        },
-        {
-          "en": "He stressed the need to solve the problem",
-          "ar": "شدد على ضرورة حل المشكلة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_structure",
-      "en": "structure",
-      "ar": "بنية",
-      "pronunciation": "/ strok.tje/",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The structure of our society has changed",
-          "ar": "بنية مجتمعنا قد تغيرت"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_stupid",
-      "en": "stupid",
-      "ar": "غبي",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Does that sound stupid?",
-          "ar": "هل هذا يبدو غبيًا ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_succeed",
-      "en": "succeed",
-      "ar": "تنجح",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Study hard, and you'll succeed.",
-          "ar": "ادرس بجد وسوف تنجح."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_successful",
-      "en": "successful",
-      "ar": "ناجحة",
-      "pronunciation": "/sək ses.fǝl/",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The plan was successful.",
-          "ar": "الخطة كانت ناجحة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_such",
-      "en": "such",
-      "ar": "مثل / من هذا القبيل",
-      "pronunciation": "/satj/",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Children say such stupid things",
-          "ar": "يقول الأطفال أشياء غبية من هذا القبيل :"
-        },
-        {
-          "en": "Some animals, such as lions, eat meat.",
-          "ar": "بعض الحيوانات مثل الأسود، تأكل اللحوم :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_suddenly",
-      "en": "suddenly",
-      "ar": "فجأة",
-      "pronunciation": "/sad.ǝn.li/",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Suddenly everyone stopped talking",
-          "ar": "فجأة توقف الجميع عن الكلام."
         }
       ],
       "type": "word",

@@ -1,14 +1,80 @@
 {
   "id": "lsn_a2_e_2",
-  "levelId": "lvl_2",
-  "slug": "e-words-2",
+  "levelId": "lvl_a2",
   "title": "Unit 13: E Words - Part 2",
-  "titleAr": "الوحدة 13: كلمات حرف E - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter E.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف E.",
+  "slug": "e-words-2",
   "order": 13,
-  "wordCount": 17,
+  "wordCount": 21,
+  "titleAr": "الوحدة 13: كلمات حرف E - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف E.",
   "words": [
+    {
+      "id": "w_a2_equipment",
+      "en": "equipment",
+      "ar": "معدات",
+      "pronunciation": "/1' kwzp mənt/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They didn't have good equipment.",
+          "ar": "لم يكن لديهم معدات جيد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_error",
+      "en": "error",
+      "ar": "خطأ",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you find any errors?",
+          "ar": "هل وجدت أي أخطاء ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈɛɹə(ɹ)/"
+    },
+    {
+      "id": "w_a2_especially",
+      "en": "especially",
+      "ar": "خاصة",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She likes fruit, especially apples.",
+          "ar": "هي تحب الفاكهة، وخاصة التفاح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/əˈspɛʃ(ə)li/"
+    },
     {
       "id": "w_a2_essay",
       "en": "essay",
@@ -35,7 +101,6 @@
       "id": "w_a2_everyday",
       "en": "everyday",
       "ar": "يومية",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -51,13 +116,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈɛvɹiˌdeɪ/"
     },
     {
       "id": "w_a2_everywhere",
       "en": "everywhere",
       "ar": "في كل مكان",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -73,7 +138,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɛv.ɹi.(h)weə(ɹ)/"
     },
     {
       "id": "w_a2_evidence",
@@ -101,7 +167,6 @@
       "id": "w_a2_exact",
       "en": "exact",
       "ar": "دقيقة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -117,7 +182,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɪɡˈzækt/"
     },
     {
       "id": "w_a2_exactly",
@@ -167,7 +233,6 @@
       "id": "w_a2_except",
       "en": "except",
       "ar": "ما عدا",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -175,15 +240,21 @@
         {
           "en": "We work every day except Friday.",
           "ar": "نحن نعمل كل يوم ما عدا الجمعة :"
+        },
+        {
+          "en": "Everybody is here except Sami.",
+          "ar": "الجميع هنا باستثناء سامي."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɪkˈsɛpt/"
     },
     {
       "id": "w_a2_exist",
@@ -373,6 +444,28 @@
         {
           "en": "Extreme cold covered Europe",
           "ar": "برد قارس غطى أوروبا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_extremely",
+      "en": "extremely",
+      "ar": "للغاية / جدا",
+      "pronunciation": "/Ik strim li/",
+      "lessonId": "lsn_a2_e_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This question is extremely difficult.",
+          "ar": "هذا السؤال صعب للغاية : للغاية | جداً | إلى أبعد حد :"
         }
       ],
       "type": "word",

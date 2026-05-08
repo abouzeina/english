@@ -1,26 +1,92 @@
 {
   "id": "lsn_a1_f_2",
-  "levelId": "lvl_1",
-  "title": "F Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 14: F Words - Part 2",
   "slug": "f-words-2",
   "order": 14,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف F - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter F.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف F.",
+  "wordCount": 19,
+  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف F.",
   "words": [
     {
-      "id": "w_a1_final",
+      "id": "w_a1_fifteen",
       "lessonId": "lsn_a1_f_2",
-      "en": "final",
-      "translation": "نهائي",
-      "ar": "نهائي",
-      "pronunciation": "",
+      "en": "fifteen",
+      "translation": "خمسة عشر",
+      "ar": "خمسة عشر",
       "type": "word",
       "examples": [
         {
-          "en": "The final exam is tomorrow.",
-          "ar": "الامتحان النهائي غدًا."
+          "en": "She bought fifteen books.",
+          "ar": "لقد اشترت خمسة عشر كتاباً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɪfˈtiːn/"
+    },
+    {
+      "id": "w_a1_fifth",
+      "lessonId": "lsn_a1_f_2",
+      "en": "fifth",
+      "translation": "خامس",
+      "ar": "خامس",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They live on the fifth floor.",
+          "ar": "إنهم يعيشون في الطابق الخامس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɪft/"
+    },
+    {
+      "id": "w_a1_fifty",
+      "lessonId": "lsn_a1_f_2",
+      "en": "fifty",
+      "translation": "خمسين",
+      "ar": "خمسين",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I ran fifty miles last week.",
+          "ar": "لقد ركضت خمسين ميلاً الأسبوع الماضي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɪfti/"
+    },
+    {
+      "id": "w_a1_fill",
+      "lessonId": "lsn_a1_f_2",
+      "en": "fill",
+      "translation": "يملأ",
+      "ar": "يملأ",
+      "pronunciation": "/f1l/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please fill my bottle.",
+          "ar": "من فضلك املأ قارورتي."
         }
       ],
       "difficulty": "A1",
@@ -32,12 +98,65 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_a1_film",
+      "lessonId": "lsn_a1_f_2",
+      "en": "film",
+      "translation": "فيلم",
+      "ar": "فيلم",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The film was very interesting.",
+          "ar": "كان الفيلم ممتعاً للغاية."
+        },
+        {
+          "en": "They are filming in Alexandria right now",
+          "ar": "إنهم يصورون في الإسكندرية حاليا :"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[ˈfɪlm̩]/"
+    },
+    {
+      "id": "w_a1_final",
+      "lessonId": "lsn_a1_f_2",
+      "en": "final",
+      "translation": "نهائي",
+      "ar": "نهائي",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The final exam is tomorrow.",
+          "ar": "الامتحان النهائي غدًا."
+        },
+        {
+          "en": "My answer is final.",
+          "ar": "إجابتي نهائية :"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfaɪ.nəl/"
+    },
+    {
       "id": "w_a1_find",
       "lessonId": "lsn_a1_f_2",
       "en": "find",
       "translation": "يجد",
       "ar": "يجد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +170,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/faɪnd/"
     },
     {
       "id": "w_a1_fine",
@@ -59,21 +179,27 @@
       "en": "fine",
       "translation": "بخير",
       "ar": "بخير",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Omar looks fine now.",
           "ar": "يبدو عمر بخير الآن."
+        },
+        {
+          "en": "أمرته المحكمة بدفع غرامة باهظة بسبب السرعة",
+          "ar": "The police will fine anyone caught littering in the park."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fæːn/"
     },
     {
       "id": "w_a1_finish",
@@ -81,21 +207,26 @@
       "en": "finish",
       "translation": "ينهي",
       "ar": "ينهي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I want to finish my work first.",
           "ar": "أريد أن أنهي عملي أولاً."
+        },
+        {
+          "en": "I enjoyed the movie from start to finish",
+          "ar": "استمتعت بالفيلم من البداية إلى النهاية :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɪnɪʃ/"
     },
     {
       "id": "w_a1_fire",
@@ -103,7 +234,6 @@
       "en": "fire",
       "translation": "نار",
       "ar": "نار",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -117,7 +247,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɑeə(ɹ)/"
     },
     {
       "id": "w_a1_first",
@@ -125,7 +256,6 @@
       "en": "first",
       "translation": "أول / أولاً",
       "ar": "أول / أولاً",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -135,37 +265,21 @@
         {
           "en": "I'll go first then you.",
           "ar": "سأبدأ أنا أولاً ثم أنت."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_fish",
-      "lessonId": "lsn_a1_f_2",
-      "en": "fish",
-      "translation": "سمك / أسماك",
-      "ar": "سمك / أسماك",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
+        },
         {
-          "en": "The fish swam near our boat.",
-          "ar": "سبحت الأسماك بالقرب من قاربنا."
+          "en": "I was the first to arrive.",
+          "ar": "كنت أول من وصل."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fɪrst/"
     },
     {
       "id": "w_a1_flat",
@@ -173,21 +287,26 @@
       "en": "flat",
       "translation": "شقة",
       "ar": "شقة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I live in a small flat.",
           "ar": "أعيش في شقة صغيرة."
+        },
+        {
+          "en": "Some people think that the earth is flat.",
+          "ar": "يعتقد بعض الناس أن الأرض مسطحة : مُفَرَّغ من الهواء :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/flæt/"
     },
     {
       "id": "w_a1_flight",
@@ -217,7 +336,6 @@
       "en": "floor",
       "translation": "طابق / أرضية",
       "ar": "طابق / أرضية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -231,7 +349,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/flɔː/"
     },
     {
       "id": "w_a1_flower",
@@ -239,7 +358,6 @@
       "en": "flower",
       "translation": "زهرة",
       "ar": "زهرة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -253,29 +371,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_fly",
-      "lessonId": "lsn_a1_f_2",
-      "en": "fly",
-      "translation": "يطير",
-      "ar": "يطير",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "This bird can fly fast.",
-          "ar": "يمكن لهذا الطائر أن يطير بسرعة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈflaʊ.ə/"
     },
     {
       "id": "w_a1_follow",
@@ -283,7 +380,6 @@
       "en": "follow",
       "translation": "يلحق / يتبع",
       "ar": "يلحق / يتبع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -297,7 +393,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɒləʊ/"
     },
     {
       "id": "w_a1_food",
@@ -305,7 +402,6 @@
       "en": "food",
       "translation": "طعام",
       "ar": "طعام",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -319,7 +415,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fuːd/"
     },
     {
       "id": "w_a1_foot",
@@ -327,7 +424,6 @@
       "en": "foot",
       "translation": "قدم",
       "ar": "قدم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -341,7 +437,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/[fʊt̚]/"
     },
     {
       "id": "w_a1_football",
@@ -355,216 +452,6 @@
         {
           "en": "Football is a popular sport.",
           "ar": "كرة القدم رياضة شعبية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_for",
-      "lessonId": "lsn_a1_f_2",
-      "en": "for",
-      "translation": "لـ / لأجل / لمدة",
-      "ar": "لـ / لأجل / لمدة",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I bought flowers for you.",
-          "ar": "اشتريت زهوراً لك."
-        },
-        {
-          "en": "I waited for an hour.",
-          "ar": "انتظرت لمدة ساعة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_forget",
-      "lessonId": "lsn_a1_f_2",
-      "en": "forget",
-      "translation": "ينسى",
-      "ar": "ينسى",
-      "pronunciation": "/fe get/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Don't forget to call me.",
-          "ar": "لا تنس أن تتصل بي."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_form",
-      "lessonId": "lsn_a1_f_2",
-      "en": "form",
-      "translation": "شكل / يشكل",
-      "ar": "شكل / يشكل",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Running is a form of exercise.",
-          "ar": "الجري هو شكل من أشكال التمارين الرياضية."
-        },
-        {
-          "en": "The children formed a line.",
-          "ar": "شكل الأطفال صفاً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_four",
-      "lessonId": "lsn_a1_f_2",
-      "en": "four",
-      "translation": "أربعة",
-      "ar": "أربعة",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "There are four people here.",
-          "ar": "يوجد أربعة أشخاص هنا."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_fourth",
-      "lessonId": "lsn_a1_f_2",
-      "en": "fourth",
-      "translation": "رابع",
-      "ar": "رابع",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Today is the fourth of July.",
-          "ar": "اليوم هو الرابع من يوليو."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_fourteen",
-      "lessonId": "lsn_a1_f_2",
-      "en": "fourteen",
-      "translation": "أربعة عشر",
-      "ar": "أربعة عشر",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "He is fourteen years old.",
-          "ar": "يبلغ من العمر أربعة عشر عاماً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_forty",
-      "lessonId": "lsn_a1_f_2",
-      "en": "forty",
-      "translation": "أربعين",
-      "ar": "أربعين",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The project will take forty days.",
-          "ar": "سيستغرق المشروع أربعين يوماً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_free",
-      "lessonId": "lsn_a1_f_2",
-      "en": "free",
-      "translation": "مجاني / متاح / متفرغ",
-      "ar": "مجاني / متاح / متفرغ",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The tickets are free today.",
-          "ar": "التذاكر مجانية اليوم."
-        },
-        {
-          "en": "I'm free after five o'clock.",
-          "ar": "أنا متاح بعد الساعة الخامسة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_friday",
-      "lessonId": "lsn_a1_f_2",
-      "en": "Friday",
-      "translation": "يوم الجمعة",
-      "ar": "يوم الجمعة",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Friday is my favorite day.",
-          "ar": "الجمعة هو يومي المفضل."
         }
       ],
       "difficulty": "A1",

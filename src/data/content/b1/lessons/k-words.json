@@ -1,0 +1,131 @@
+{
+  "id": "lsn_b1_k",
+  "levelId": "lvl_b1",
+  "title": "Unit 20: K Words",
+  "slug": "k-words",
+  "order": 20,
+  "wordCount": 5,
+  "titleAr": "الوحدة 20: كلمات حرف K",
+  "description": "Master essential B1 vocabulary starting with the letter K.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف K.",
+  "words": [
+    {
+      "id": "w_b1_keen",
+      "en": "keen",
+      "ar": "متلهف / شديد الاهتمام",
+      "pronunciation": "/ki:n/",
+      "lessonId": "lsn_b1_k",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am keen to go abroad.",
+          "ar": "أنا متلهف للسفر إلى الخارج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_keyboard",
+      "en": "keyboard",
+      "ar": "لوحة مفاتيح",
+      "lessonId": "lsn_b1_k",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My keyboard isn't connected to the computer.",
+          "ar": "لوحة المفاتيح الخاصة بي غير متصلة بالكمبيوتر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈkiːbɔːd/"
+    },
+    {
+      "id": "w_b1_kick",
+      "en": "kick",
+      "ar": "يركل / يرفس / ركلة",
+      "pronunciation": "/kxk/",
+      "lessonId": "lsn_b1_k",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Why did you kick the empty bottle?",
+          "ar": "لماذا ركلت الزجاجة الفارغة ؟"
+        },
+        {
+          "en": "He made a goal with one kick.",
+          "ar": "صنع هدفًا بركلة واحدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_killing",
+      "en": "killing",
+      "ar": "قتل",
+      "lessonId": "lsn_b1_k",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Killing animals is not allowed in this forest.",
+          "ar": "قتل الحيوانات غير مسموح به في هذه الغابة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈkɪl.ɪŋ/"
+    },
+    {
+      "id": "w_b1_kiss",
+      "en": "kiss",
+      "ar": "يقبل / قبلة",
+      "pronunciation": "/kıs/",
+      "lessonId": "lsn_b1_k",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I recommend you kiss your children more.",
+          "ar": "أوصيك أن تقبل أطفالك أكثر."
+        },
+        {
+          "en": "He shook my hand and gave me a kiss on the head.",
+          "ar": "صافحني وأعطاني قبلة على رأسي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

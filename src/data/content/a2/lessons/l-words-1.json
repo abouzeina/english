@@ -1,36 +1,14 @@
 {
   "id": "lsn_a2_l_1",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 22: L Words - Part 1",
   "slug": "l-words-1",
-  "title": "Unit 23: L Words - Part 1",
-  "titleAr": "الوحدة 23: كلمات حرف L - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter L.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف L.",
-  "order": 23,
-  "wordCount": 25,
+  "order": 22,
+  "wordCount": 17,
+  "titleAr": "الوحدة 22: كلمات حرف L - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف L.",
   "words": [
-    {
-      "id": "w_a2_knowledge",
-      "en": "knowledge",
-      "ar": "معرفة",
-      "pronunciation": "/'na līdz/",
-      "lessonId": "lsn_a2_l_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Education is the key to knowledge.",
-          "ar": "التعليم هو مفتاح المعرفة :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_lab",
       "en": "lab",
@@ -79,7 +57,6 @@
       "id": "w_a2_lake",
       "en": "lake",
       "ar": "بحيرة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -95,7 +72,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/leɪk/"
     },
     {
       "id": "w_a2_lamp",
@@ -120,32 +98,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_land",
-      "en": "land",
-      "ar": "هبطت",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_l_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The plane landed in a grass area",
-          "ar": "هبطت الطائرة في منطقة عشبية :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_laptop",
       "en": "laptop",
       "ar": "كمبيوتر محمول",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -161,7 +116,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈlæp.tɒp/"
     },
     {
       "id": "w_a2_last",
@@ -183,35 +139,22 @@
         {
           "en": "How long does the match last?",
           "ar": "ما هي المدة التي تستغرقها المباراة ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_later",
-      "en": "later",
-      "ar": "لاحق",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_l_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "His mother died later that year.",
-          "ar": "توفيت والدته في وقت لاحق من ذلك العام :"
+          "en": "This is the last day of school.",
+          "ar": "هذا هو آخر يوم في المدرسة."
+        },
+        {
+          "en": "I met him last night.",
+          "ar": "التقيت به الليلة الماضية."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "A1"
       ],
       "confidence": "high"
     },
@@ -249,13 +192,19 @@
         {
           "en": "You're not above the law.",
           "ar": "أنت لست فوق القانون :"
+        },
+        {
+          "en": "يجب على الجميع الانصياع للقانون بغض النظر عن مكانتهم",
+          "ar": "He decided to study law at the national university."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -285,7 +234,6 @@
       "id": "w_a2_lazy",
       "en": "lazy",
       "ar": "كسول",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -301,7 +249,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈleɪzi/"
     },
     {
       "id": "w_a2_lead",
@@ -315,13 +264,18 @@
         {
           "en": "Where does this road lead ?",
           "ar": "إلى أين يقود هذا الطريق : ؟"
+        },
+        {
+          "en": "Sami is in the lead in today's race.",
+          "ar": "سامي في الصدارة في سباق اليوم."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -351,7 +305,6 @@
       "id": "w_a2_learning",
       "en": "learning",
       "ar": "تعلم",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -367,7 +320,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈlɜːnɪŋ/"
     },
     {
       "id": "w_a2_least",
@@ -447,7 +401,6 @@
       "id": "w_a2_lend",
       "en": "lend",
       "ar": "يعير",
-      "pronunciation": "",
       "lessonId": "lsn_a2_l_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -463,121 +416,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_less",
-      "en": "less",
-      "ar": "أقل",
-      "pronunciation": "/les/",
-      "lessonId": "lsn_a2_l_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "You should eat less red meat.",
-          "ar": "يجب أن تأكل لحوم حمراء أقل :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_level",
-      "en": "level",
-      "ar": "مستوى",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_l_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "What is your level in English ?",
-          "ar": "ما هو مستواك في اللغة الإنجليزية : ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_lifestyle",
-      "en": "lifestyle",
-      "ar": "نمط الحياة",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_l_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali enjoyed the country lifestyle.",
-          "ar": "استمتع علي بنمط الحياة الريفي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_lift",
-      "en": "lift",
-      "ar": "رفع / مصعد",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_l_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali carefully lifted the box.",
-          "ar": "رفع علي الصندوق بعناية."
-        },
-        {
-          "en": "We got the lift to the fifth floor",
-          "ar": "ركبنا المصعد للطابق الخامس :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_light",
-      "en": "light",
-      "ar": "أشعل / يشعل",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_l_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He lit a match to light the fire.",
-          "ar": "أشعل عود ثقاب ليشعل النار."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/lɛnd/"
     }
   ]
 }

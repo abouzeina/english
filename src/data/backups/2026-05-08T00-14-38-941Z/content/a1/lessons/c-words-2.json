@@ -1,0 +1,583 @@
+{
+  "id": "lsn_a1_c_2",
+  "levelId": "lvl_1",
+  "title": "C Words - Part 2",
+  "slug": "c-words-2",
+  "order": 7,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف C - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_a1_child",
+      "lessonId": "lsn_a1_c_2",
+      "en": "child",
+      "translation": "طفل",
+      "ar": "طفل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She has one child.",
+          "ar": "لديها طفل واحد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_chocolate",
+      "lessonId": "lsn_a1_c_2",
+      "en": "chocolate",
+      "translation": "شوكولاتة",
+      "ar": "شوكولاتة",
+      "pronunciation": "/'tfoklət, 'tfo kə lەت/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I enjoy chocolate with my coffee.",
+          "ar": "استمتع بالشوكولاتة مع قهوتي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_choose",
+      "lessonId": "lsn_a1_c_2",
+      "en": "choose",
+      "translation": "يختار",
+      "ar": "يختار",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Choose any book you want.",
+          "ar": "اختر أي كتاب تريده."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cinema",
+      "lessonId": "lsn_a1_c_2",
+      "en": "cinema",
+      "translation": "سينما",
+      "ar": "سينما",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The cinema is near my house.",
+          "ar": "تقع السينما بالقرب من منزلي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_city",
+      "lessonId": "lsn_a1_c_2",
+      "en": "city",
+      "translation": "مدينة",
+      "ar": "مدينة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She lives in the city.",
+          "ar": "إنها تعيش في المدينة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_class",
+      "lessonId": "lsn_a1_c_2",
+      "en": "class",
+      "translation": "صف / حصص دراسية",
+      "ar": "صف / حصص دراسية",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We have six classes every day.",
+          "ar": "لدينا ست حصص دراسية كل يوم."
+        },
+        {
+          "en": "Our class is very large.",
+          "ar": "صفنا كبير جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_classroom",
+      "lessonId": "lsn_a1_c_2",
+      "en": "classroom",
+      "translation": "فصل دراسي",
+      "ar": "فصل دراسي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The classroom is full of students.",
+          "ar": "الفصل مليء بالطلاب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_clean",
+      "lessonId": "lsn_a1_c_2",
+      "en": "clean",
+      "translation": "نظيف / ينظف",
+      "ar": "نظيف / ينظف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The kitchen is clean.",
+          "ar": "المطبخ نظيف."
+        },
+        {
+          "en": "Please clean your room.",
+          "ar": "نظف غرفتك من فضلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_climb",
+      "lessonId": "lsn_a1_c_2",
+      "en": "climb",
+      "translation": "يصعد / يتسلق",
+      "ar": "يصعد / يتسلق",
+      "pronunciation": "/klaım/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Why did you climb?",
+          "ar": "لماذا صعدت؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_clock",
+      "lessonId": "lsn_a1_c_2",
+      "en": "clock",
+      "translation": "ساعة حائط / منبه",
+      "ar": "ساعة حائط / منبه",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The clock is broken.",
+          "ar": "الساعة معطلة."
+        },
+        {
+          "en": "We bought a clock for the living room.",
+          "ar": "اشترينا ساعة لغرفة المعيشة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_close",
+      "lessonId": "lsn_a1_c_2",
+      "en": "close",
+      "translation": "يغلق",
+      "ar": "يغلق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Close the door behind you.",
+          "ar": "أغلقي الباب خلفك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_clothes",
+      "lessonId": "lsn_a1_c_2",
+      "en": "clothes",
+      "translation": "ملابس",
+      "ar": "ملابس",
+      "pronunciation": "/klouz, klouz/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She bought new clothes.",
+          "ar": "اشترت ملابس جديدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_club",
+      "lessonId": "lsn_a1_c_2",
+      "en": "club",
+      "translation": "نادي",
+      "ar": "نادي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The club has many members.",
+          "ar": "يضم النادي العديد من الأعضاء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_coat",
+      "lessonId": "lsn_a1_c_2",
+      "en": "coat",
+      "translation": "معطف",
+      "ar": "معطف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He wears a black coat.",
+          "ar": "إنه يرتدي معطف أسود."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_coffee",
+      "lessonId": "lsn_a1_c_2",
+      "en": "coffee",
+      "translation": "قهوة",
+      "ar": "قهوة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I drink coffee every morning.",
+          "ar": "أنا أشرب القهوة كل صباح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cold",
+      "lessonId": "lsn_a1_c_2",
+      "en": "cold",
+      "translation": "بارد / نزلة برد",
+      "ar": "بارد / نزلة برد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's cold outside tonight.",
+          "ar": "الجو بارد في الخارج الليلة."
+        },
+        {
+          "en": "She has a cold today.",
+          "ar": "إنها مصابة بنزلة برد اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_college",
+      "lessonId": "lsn_a1_c_2",
+      "en": "college",
+      "translation": "جامعة / كلية",
+      "ar": "جامعة / كلية",
+      "pronunciation": "/kə'mju nəti ka līdz/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "College life is very exciting.",
+          "ar": "الحياة الجامعية مشوقة للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_color",
+      "lessonId": "lsn_a1_c_2",
+      "en": "color",
+      "translation": "لون",
+      "ar": "لون",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Blue is my favorite color.",
+          "ar": "الأزرق هو لوني المفضل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_come",
+      "lessonId": "lsn_a1_c_2",
+      "en": "come",
+      "translation": "يأتي",
+      "ar": "يأتي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They will come tomorrow.",
+          "ar": "سوف يأتون غداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_common",
+      "lessonId": "lsn_a1_c_2",
+      "en": "common",
+      "translation": "شائعة",
+      "ar": "شائعة",
+      "pronunciation": "/'ka mən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That is a common problem.",
+          "ar": "هذه مشكلة شائعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_company",
+      "lessonId": "lsn_a1_c_2",
+      "en": "company",
+      "translation": "شركة",
+      "ar": "شركة",
+      "pronunciation": "/ kam pə ni/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He works for a big company.",
+          "ar": "إنه يعمل في شركة كبيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_compare",
+      "lessonId": "lsn_a1_c_2",
+      "en": "compare",
+      "translation": "يقارن",
+      "ar": "يقارن",
+      "pronunciation": "/kəm peər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's compare our results.",
+          "ar": "دعونا نقارن نتائجنا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_complete",
+      "lessonId": "lsn_a1_c_2",
+      "en": "complete",
+      "translation": "يكمل / مكتمل",
+      "ar": "يكمل / مكتمل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They will complete it tomorrow.",
+          "ar": "سوف يكملونه غداً."
+        },
+        {
+          "en": "The project is complete.",
+          "ar": "اكتمل المشروع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_computer",
+      "lessonId": "lsn_a1_c_2",
+      "en": "computer",
+      "translation": "كمبيوتر",
+      "ar": "كمبيوتر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He uses a computer at work.",
+          "ar": "إنه يستخدم الكمبيوتر في العمل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_concert",
+      "lessonId": "lsn_a1_c_2",
+      "en": "concert",
+      "translation": "حفل موسيقي",
+      "ar": "حفل موسيقي",
+      "pronunciation": "/ kan sart/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I bought concert tickets today.",
+          "ar": "اشتريت تذاكر الحفل الموسيقي اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

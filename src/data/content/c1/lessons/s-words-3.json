@@ -1,0 +1,541 @@
+{
+  "id": "lsn_c1_s_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 40: S Words - Part 3",
+  "slug": "s-words-3",
+  "order": 40,
+  "wordCount": 24,
+  "titleAr": "الوحدة 40: كلمات حرف S - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_c1_spare",
+      "en": "spare",
+      "ar": "يستغني عن / يرحم",
+      "pronunciation": "speə(r)",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هل يمكنك تخصيص بضع دقائق للتحدث؟",
+          "ar": "The king decided to spare the prisoner's life."
+        },
+        {
+          "en": "The hotel provided a spare blanket for guests.",
+          "ar": "الفندق وفر بطانية إضافية للنزلاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_spark",
+      "en": "spark",
+      "ar": "يثير / يشعل",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قد تثير السياسة الجديدة الكثير من الاحتجاجات.",
+          "ar": "The engine produced a small spark before starting."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/spɑːk/"
+    },
+    {
+      "id": "w_c1_specialized",
+      "en": "specialized",
+      "ar": "متخصص",
+      "pronunciation": "ˈspeʃəlaɪzd",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يقدم المستشفى رعاية متخصصة لمرضى القلب.",
+          "ar": "He has specialized knowledge in computer programming."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_specification",
+      "en": "specification",
+      "ar": "مواصفات",
+      "pronunciation": "ˌspesɪfɪˈkeɪʃn",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم بناء الآلة وفقاً لمواصفات العميل.",
+          "ar": "Each component must meet the technical specifications."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_specimen",
+      "en": "specimen",
+      "ar": "عينة",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "فحص العلماء العينة تحت المجهر.",
+          "ar": "This is a rare specimen of an ancient plant."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈspɛsɪmɪn/"
+    },
+    {
+      "id": "w_c1_spectacle",
+      "en": "spectacle",
+      "ar": "مشهد / عرض",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان غروب الشمس فوق المحيط مشهداً رائعاً.",
+          "ar": "The festival was a colorful spectacle for the tourists."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈspɛktəkl̩/"
+    },
+    {
+      "id": "w_c1_spectrum",
+      "en": "spectrum",
+      "ar": "طيف / مدى واسع",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمكن تقسيم الضوء إلى طيف من الألوان.",
+          "ar": "The research covers a wide spectrum of topics."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈspektɹəm/"
+    },
+    {
+      "id": "w_c1_sphere",
+      "en": "sphere",
+      "ar": "مجال / كرة",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الأرض ليست كرة كاملة.",
+          "ar": "He is a very influential person in the political sphere."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sfɪə/"
+    },
+    {
+      "id": "w_c1_spin",
+      "en": "spin",
+      "ar": "يدور / يغزل",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/spɪn/"
+    },
+    {
+      "id": "w_c1_spine",
+      "en": "spine",
+      "ar": "عمود فقري",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تسببت الإصابة في تلف عموده الفقري.",
+          "ar": "The book's title is printed on its spine."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/spaɪn/"
+    },
+    {
+      "id": "w_c1_spotlight",
+      "en": "spotlight",
+      "ar": "بقعة ضوء / تسليط الضوء",
+      "pronunciation": "ˈspɒtlaɪt",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وقفت المغنية تحت بقعة الضوء على المسرح.",
+          "ar": "The scandal put the company in the media spotlight."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_spouse",
+      "en": "spouse",
+      "ar": "زوج أو زوجة",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الموظفون مدعوون لإحضار أزواجهم إلى الحفلة.",
+          "ar": "He lives with his spouse and two children."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/spaʊs/"
+    },
+    {
+      "id": "w_c1_spy",
+      "en": "spy",
+      "ar": "يتجسس / جاسوس",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم القبض عليه وهو يحاول التجسس على القاعدة العسكرية.",
+          "ar": "She worked as a spy during the war."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/spaɪ/"
+    },
+    {
+      "id": "w_c1_squad",
+      "en": "squad",
+      "ar": "فرقة / مجموعة",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وصلت فرقة الشرطة بسرعة إلى مسرح الجريمة.",
+          "ar": "He was selected to join the national football squad."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈskwɒd/"
+    },
+    {
+      "id": "w_c1_squeeze",
+      "en": "squeeze",
+      "ar": "يعصر / يضغط",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكنت من عصر بعض العصير الطازج من البرتقالة.",
+          "ar": "We tried to squeeze five people into the small car."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/skwiːz/"
+    },
+    {
+      "id": "w_c1_stab",
+      "en": "stab",
+      "ar": "يطعن",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حاول طعن المهاجم بسكين.",
+          "ar": "She felt a sharp stab of pain in her back."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stæb/"
+    },
+    {
+      "id": "w_c1_stability",
+      "en": "stability",
+      "ar": "استقرار",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تسعى البلاد لتحقيق الاستقرار السياسي والاقتصادي.",
+          "ar": "The new laws were designed to ensure financial stability."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stəˈbɪlɪti/"
+    },
+    {
+      "id": "w_c1_stabilize",
+      "en": "stabilize",
+      "ar": "يستقر / يثبت",
+      "pronunciation": "ˈsteɪbəlaɪz",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحاول الأطباء تثبيت حالة المريض.",
+          "ar": "Prices began to stabilize after the long inflation period."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_stake",
+      "en": "stake",
+      "ar": "حصة / رهينة",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لديه حصة شخصية في نجاح الشركة.",
+          "ar": "The reputation of the brand is at stake."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/steɪk/"
+    },
+    {
+      "id": "w_c1_standing",
+      "en": "standing",
+      "ar": "مكانة / دائم",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتمتع بمكانة اجتماعية عالية في المجتمع.",
+          "ar": "The group has a standing invitation to use the facility."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈstændɪŋ/"
+    },
+    {
+      "id": "w_c1_stark",
+      "en": "stark",
+      "ar": "صارخ / قاسي",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هناك تباين صارخ بين الحيين.",
+          "ar": "The island has a stark, desolate beauty."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɑːk/"
+    },
+    {
+      "id": "w_c1_statistical",
+      "en": "statistical",
+      "ar": "إحصائي",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يوفر التقرير بيانات إحصائية عن السكان.",
+          "ar": "There is no statistical evidence to support this claim."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stəˈtɪstɪkəl/"
+    },
+    {
+      "id": "w_c1_steer",
+      "en": "steer",
+      "ar": "يقود / يوجه",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "من الصعب توجيه القارب في الرياح القوية.",
+          "ar": "The teacher tried to steer the conversation back to the topic."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɪə(ɹ)/"
+    },
+    {
+      "id": "w_c1_storage",
+      "en": "storage",
+      "ar": "تخزين",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم الاحتفاظ بالأثاث في وحدة تخزين لعدة أشهر.",
+          "ar": "The phone has 128 gigabytes of internal storage. يحتوي الهاتف على 128 غيغابايت من سعة التخزين الداخلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈstɔ.ɹɪd͡ʒ/"
+    }
+  ]
+}

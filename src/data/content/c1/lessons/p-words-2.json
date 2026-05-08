@@ -1,0 +1,501 @@
+{
+  "id": "lsn_c1_p_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 30: P Words - Part 2",
+  "slug": "p-words-2",
+  "order": 30,
+  "wordCount": 22,
+  "titleAr": "الوحدة 30: كلمات حرف P - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_c1_plug",
+      "en": "plug",
+      "ar": "يسد / يوصل بالكهرباء / قابس",
+      "pronunciation": "plʌɡ",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سدت التسريب في الأنبوب ببعض القماش",
+          "ar": "Don't forget to pull the plug out after using the iron."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_plunge",
+      "en": "plunge",
+      "ar": "يغطس / ينغمس / ينخفض بحدة",
+      "pronunciation": "plʌndʒ",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "انخفضت درجة الحرارة إلى ما تحت الصفر فجأة خلال الليل",
+          "ar": "He took a deep breath and plunged into the cold water."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pole",
+      "en": "pole",
+      "ar": "قطب / عمود",
+      "pronunciation": "pəʊl",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وصل المستكشفون إلى القطب الشمالي بعد رحلة صعبة",
+          "ar": "The flag was flying from a tall wooden pole."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_poll",
+      "en": "poll",
+      "ar": "استطلاع رأي",
+      "pronunciation": "pəʊl",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يظهر استطلاع رأي حديث أن معظم الناس يؤيدون القانون الجديد",
+          "ar": "The opinion polls suggest that the election will be very close."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pond",
+      "en": "pond",
+      "ar": "بركة",
+      "pronunciation": "pɒnd",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يستمتع الأطفال بإطعام البط في بركة القرية",
+          "ar": "There is a small fish pond in our backyard."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_portfolio",
+      "en": "portfolio",
+      "ar": "محفظة استثمارية / ملف أعمال",
+      "pronunciation": "pɔːtˈfəʊliəʊ",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك تنويع محفظتك الاستثمارية",
+          "ar": "The artist showed us his portfolio of sketches."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_portray",
+      "en": "portray",
+      "ar": "يصور / يجسد",
+      "pronunciation": "pɔːˈtreɪ",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يصور الفيلم حياة عالم مشهور",
+          "ar": "The actor portrayed the villain with great skill."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_post_war",
+      "en": "post-war",
+      "ar": "ما بعد الحرب",
+      "pronunciation": "ˌpəʊst ˈwɔː(r)",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "شهدت البلاد نمواً اقتصادياً سريعاً في فترة ما بعد الحرب",
+          "ar": "Post-war architecture is often very different from earlier styles."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_postpone",
+      "en": "postpone",
+      "ar": "يؤجل",
+      "pronunciation": "pəˈspəʊn",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم تأجيل الاجتماع حتى الأسبوع المقبل",
+          "ar": "We decided to postpone our holiday because of the weather."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_practitioner",
+      "en": "practitioner",
+      "ar": "ممارس (مهني) / طبيب ممارس",
+      "pronunciation": "prækˈtɪʃənə(r)",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنها ممارس قانوني لديها سنوات عديدة من الخبرة",
+          "ar": "He is a general practitioner in a small town."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_preach",
+      "en": "preach",
+      "ar": "يعظ / يبشر",
+      "pronunciation": "priːtʃ",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ألقى الكاهن عظة عن أهمية التسامح",
+          "ar": "He is always preaching to us about the dangers of smoking."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_precedent",
+      "en": "precedent",
+      "ar": "سابقة (قانونية أو تاريخية)",
+      "pronunciation": "ˈpresɪdənt",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حدد قرار القاضي سابقة للقضايا المستقبلية",
+          "ar": "There is no historical precedent for this kind of event."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_precision",
+      "en": "precision",
+      "ar": "دقة / ضبط",
+      "pronunciation": "prɪˈsɪʒn",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتطلب الأجهزة درجة عالية من الدقة",
+          "ar": "He spoke with great precision and clarity."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_predator",
+      "en": "predator",
+      "ar": "مفترس / كائن مفترس",
+      "pronunciation": "ˈpredətə(r)",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الأسود هي المفترسات الرئيسية في هذه المنطقة",
+          "ar": "The small fish are easy prey for predators."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_predecessor",
+      "en": "predecessor",
+      "ar": "سلف / الشخص السابق في المنصب",
+      "pronunciation": "ˈpriːdəsesə(r)",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الرئيس الجديد أكثر شعبية بكثير من سلفه",
+          "ar": "The current model is a great improvement on its predecessor."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_predominantly",
+      "en": "predominantly",
+      "ar": "غالباً / في الغالب / بشكل مسيطر",
+      "pronunciation": "prɪˈdɒmɪnəntli",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سكان الجزيرة في الغالب من الشباب",
+          "ar": "The disease affects predominantly older men."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_prejudice",
+      "en": "prejudice",
+      "ar": "تحيز / تعصب / ضرر",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب أن نعمل معاً للتغلب على التحيز العنصري",
+          "ar": "The judge's comments could prejudice the outcome of the trial."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɛd͡ʒədɪs/"
+    },
+    {
+      "id": "w_c1_preliminary",
+      "en": "preliminary",
+      "ar": "تمهيدي / أولي",
+      "pronunciation": "prɪˈlɪmɪnəri",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أُعلنت النتائج الأولية للانتخابات ليلة أمس",
+          "ar": "We need to have a preliminary meeting to discuss the plan."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_premier",
+      "en": "premier",
+      "ar": "رئيس وزراء / أول / رائد",
+      "pronunciation": "ˈpremiə(r)",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعلن رئيس الوزراء عن سياسة الحكومة الجديدة اليوم",
+          "ar": "This is the premier collection of modern art in the country."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_premise",
+      "en": "premise",
+      "ar": "فرضية / منطلق",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعتمد النظرية على فرضية خاطئة",
+          "ar": "We started from the premise that all people are equal."
+        },
+        {
+          "en": "يعتمد الجدال بالكامل على فرضية خاطئة",
+          "ar": "We started with the premise that everyone deserves an education."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɛ.mɪs/"
+    },
+    {
+      "id": "w_c1_premium",
+      "en": "premium",
+      "ar": "قسط تأمين / مكافأة / ممتاز (عالي الجودة)",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك دفع قسط شهري لتأمينك الصحي",
+          "ar": "The company offers a premium service for its best customers."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹimiəm/"
+    },
+    {
+      "id": "w_c1_prescribe",
+      "en": "prescribe",
+      "ar": "يصف علاجاً / يحدد (رسمياً)",
+      "pronunciation": "prɪˈskraɪb",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وصف الطبيب بعض المضادات الحيوية للعدوى",
+          "ar": "The regulations prescribe the maximum weight for the vehicle."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

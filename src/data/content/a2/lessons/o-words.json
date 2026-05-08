@@ -1,0 +1,281 @@
+{
+  "id": "lsn_a2_o",
+  "levelId": "lvl_a2",
+  "title": "Unit 27: O Words",
+  "slug": "o-words",
+  "order": 27,
+  "wordCount": 12,
+  "titleAr": "الوحدة 27: كلمات حرف O",
+  "description": "Master essential A2 vocabulary starting with the letter O.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف O.",
+  "words": [
+    {
+      "id": "w_a2_ocean",
+      "en": "ocean",
+      "ar": "محيط",
+      "pronunciation": "/'ou fen/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We can see the ocean from our house",
+          "ar": "يمكننا أن نرى المحيط من منزلنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_offer",
+      "en": "offer",
+      "ar": "عرض / يعرض",
+      "pronunciation": "/  fər/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They offered me a new job.",
+          "ar": "عرضوا علي وظيفة جديدة :"
+        },
+        {
+          "en": "That's my final offer.",
+          "ar": "هذا هو عرضي الأخير :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_officer",
+      "en": "officer",
+      "ar": "ضابط",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you still want to be an officer ?",
+          "ar": "هل ما زلت تريد أن تصبح ضابطًا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈɑfɪsɚ/"
+    },
+    {
+      "id": "w_a2_oil",
+      "en": "oil",
+      "ar": "زيت",
+      "pronunciation": "/ǝl/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I bought a bottle of salad oil.",
+          "ar": "اشتريت زجاجة من زيت السلطة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_opportunity",
+      "en": "opportunity",
+      "ar": "فرصة",
+      "pronunciation": "/ a pər tu-nə ti/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is your last opportunity.",
+          "ar": "هذه فرصتك الأخيرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_option",
+      "en": "option",
+      "ar": "خيار",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You have only two options.",
+          "ar": "لديك خياران فقط :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈɒpʃən/"
+    },
+    {
+      "id": "w_a2_ordinary",
+      "en": "ordinary",
+      "ar": "عادي",
+      "pronunciation": "/or dən er i/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm just an ordinary guy.",
+          "ar": "أنا مجرد شخص عادي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_organization",
+      "en": "organization",
+      "ar": "منظمة",
+      "pronunciation": "/or-gə nə zeı fən/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He works with local organizations.",
+          "ar": "يعمل مع المنظمات المحلية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_organize",
+      "en": "organize",
+      "ar": "ينظم",
+      "pronunciation": "/or gə nazzd/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He organized some big events",
+          "ar": "نظم بعض الفعاليات الكبيرة : مُنَظَّم / مُرَتَّب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ourselves",
+      "en": "ourselves",
+      "ar": "بأنفسنا",
+      "pronunciation": "/auer selvz/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We can do that ourselves.",
+          "ar": "يمكننا أن نفعل ذلك بأنفسنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_oven",
+      "en": "oven",
+      "ar": "فرن",
+      "pronunciation": "/  ǝn/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This bread is fresh from the oven.",
+          "ar": "هذا الخبز طازج من الفرن :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_owner",
+      "en": "owner",
+      "ar": "مالك",
+      "pronunciation": "/ ou ner/",
+      "lessonId": "lsn_a2_o",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who is the owner of this house?",
+          "ar": "من هو مالك هذا المنزل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

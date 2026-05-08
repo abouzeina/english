@@ -1,0 +1,563 @@
+{
+  "id": "lsn_a2_p_1",
+  "levelId": "lvl_2",
+  "slug": "p-words-1",
+  "title": "Unit 29: P Words - Part 1",
+  "titleAr": "الوحدة 29: كلمات حرف P - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف P.",
+  "order": 29,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_owner",
+      "en": "owner",
+      "ar": "مالك",
+      "pronunciation": "/ ou ner/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who is the owner of this house?",
+          "ar": "من هو مالك هذا المنزل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pack",
+      "en": "pack",
+      "ar": "يحزم",
+      "pronunciation": "/pæk/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Pack your bags and leave.",
+          "ar": "احزم حقائبك واتركها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pain",
+      "en": "pain",
+      "ar": "ألم",
+      "pronunciation": "/pern/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What usually causes the pain ?",
+          "ar": "ما الذي يسبب الألم عادةً : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_painter",
+      "en": "painter",
+      "ar": "رسام",
+      "pronunciation": "/peın tər/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was born to be a painter.",
+          "ar": "ولد ليكون رساما :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_palace",
+      "en": "palace",
+      "ar": "قصر",
+      "pronunciation": "/pæles/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He guided me to the palace.",
+          "ar": "هو قادني إلى القصر :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pants",
+      "en": "pants",
+      "ar": "بنطلون",
+      "pronunciation": "/pænts/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your pants don't fit",
+          "ar": "بنطلونك لا يناسب مقاسك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_parking",
+      "en": "parking",
+      "ar": "ركن",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There is no parking here in the morning.",
+          "ar": "لا يوجد ركن للسيارات هنا في الصباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_particular",
+      "en": "particular",
+      "ar": "معين / خاص",
+      "pronunciation": "/pər tık jə-lər/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He needs this particular book.",
+          "ar": "هو يحتاج هذا الكتاب بالذات : مُعَيَّن : خاص :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pass",
+      "en": "pass",
+      "ar": "ينجح",
+      "pronunciation": "/pæs/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did he pass the exam?",
+          "ar": "هل نجح هو في الامتحان ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_passenger",
+      "en": "passenger",
+      "ar": "ركاب",
+      "pronunciation": "/ pæsən-dzər/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The bus is full of passengers.",
+          "ar": "الحافلة مليئة بالركاب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_past",
+      "en": "past",
+      "ar": "مضى",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A month went past and nothing had changed",
+          "ar": "شهر مضى ولم يتغير شيء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_patient",
+      "en": "patient",
+      "ar": "مريض",
+      "pronunciation": "/'per Jənt/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The doctor is with another patient.",
+          "ar": "الطبيب مع مريض آخر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pattern",
+      "en": "pattern",
+      "ar": "نمط / أسلوب",
+      "pronunciation": "/'pætern/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you like this pattern?",
+          "ar": "هل يعجبك هذا النمط : أسلوب : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pay",
+      "en": "pay",
+      "ar": "راتب",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My job is hard, but the pay is good.",
+          "ar": "عملي صعب، لكن الراتب جيد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_peace",
+      "en": "peace",
+      "ar": "سلام / هدوء",
+      "pronunciation": "/pis/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The people want peace.",
+          "ar": "الشعب يريد السلام : هدوء :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_penny",
+      "en": "penny",
+      "ar": "فلس",
+      "pronunciation": "/'pen.i/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It won't cost you a penny.",
+          "ar": "لن يكلفك فلسا واحدًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_per",
+      "en": "per",
+      "ar": "لكل / في",
+      "pronunciation": "/p3r/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He earns 30 dollars per day.",
+          "ar": "يكسب 30 دولارًا في اليوم : لكل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_percent",
+      "en": "percent",
+      "ar": "بالمائة",
+      "pronunciation": "/per sent/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We use only 10 percent of our brain.",
+          "ar": "نستخدم 10 بالمائة فقط من أدمغتنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_perform",
+      "en": "perform",
+      "ar": "يؤدي / يعرض",
+      "pronunciation": "/pər form/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The play was first performed in 2003.",
+          "ar": "تم عرض المسرحية لأول مرة في عام 2003 :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_perhaps",
+      "en": "perhaps",
+      "ar": "ربما",
+      "pronunciation": "/pər hæps/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Perhaps we could talk later.",
+          "ar": "ربما يمكننا التحدث لاحقا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_permission",
+      "en": "permission",
+      "ar": "إذن",
+      "pronunciation": "/pər mıf-ən/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He entered my room without permission.",
+          "ar": "دخل غرفتي بدون إذن :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_personality",
+      "en": "personality",
+      "ar": "شخصية",
+      "pronunciation": "/pər-sə nələ ti/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She has a strong personality.",
+          "ar": "لديها شخصية قوية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pet",
+      "en": "pet",
+      "ar": "حيوانات أليفة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't have pets.",
+          "ar": "ليس لدي حيوانات أليفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_petrol",
+      "en": "petrol",
+      "ar": "بنزين",
+      "pronunciation": "/'pet-rəl/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Where is the petrol station?",
+          "ar": "أين محطة البنزين ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_photograph",
+      "en": "photograph",
+      "ar": "يصور",
+      "pronunciation": "/'fou te græf/",
+      "lessonId": "lsn_a2_p_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I like to photograph mountains.",
+          "ar": "أحب أن أصور الجبال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

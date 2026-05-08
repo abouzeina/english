@@ -1,80 +1,14 @@
 {
   "id": "lsn_b1_a_2",
   "levelId": "lvl_b1",
-  "slug": "a-words-2",
   "title": "Unit 2: A Words - Part 2",
-  "titleAr": "الوحدة 2: كلمات حرف A - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with A.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف A.",
+  "slug": "a-words-2",
   "order": 2,
-  "wordCount": 25,
+  "wordCount": 24,
+  "titleAr": "الوحدة 2: كلمات حرف A - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف A.",
   "words": [
-    {
-      "id": "w_b1_ambitious",
-      "en": "ambitious",
-      "ar": "طموح (صفة)",
-      "pronunciation": "/æm bıf-es/",
-      "lessonId": "lsn_b1_a_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "You aren't ambitious enough.",
-          "ar": "أنت لست طموحا بما فيه الكفاية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_analyzed",
-      "en": "analyzed",
-      "ar": "حللوا",
-      "pronunciation": "/'æn.el.arz/",
-      "lessonId": "lsn_b1_a_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They analyzed the results.",
-          "ar": "هم حللوا النتائج."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_analysis",
-      "en": "analysis",
-      "ar": "تحليل",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_a_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Your analysis of the situation is correct.",
-          "ar": "تحليلك للوضع صحيح."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_announced",
       "en": "announced",
@@ -98,32 +32,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_announce",
-      "en": "announce",
-      "ar": "يُعلن",
-      "pronunciation": "/ə'nauns/",
-      "lessonId": "lsn_b1_a_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They announced the results yesterday.",
-          "ar": "أعلنوا عن النتائج بالأمس."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_announcement",
       "en": "announcement",
       "ar": "بيان / إعلان",
-      "pronunciation": "ə'nauns mənt/",
       "lessonId": "lsn_b1_a_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -139,13 +50,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈnaʊns.mɛnt/"
     },
     {
       "id": "w_b1_annoy",
       "en": "annoy",
       "ar": "يُزعج",
-      "pronunciation": "",
       "lessonId": "lsn_b1_a_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -161,7 +72,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈnɔɪ/"
     },
     {
       "id": "w_b1_annoyed",
@@ -211,7 +123,6 @@
       "id": "w_b1_apart",
       "en": "apart",
       "ar": "منفصل / متباعد",
-      "pronunciation": "ə'part/",
       "lessonId": "lsn_b1_a_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -227,13 +138,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈpɑː(ɹ)t/"
     },
     {
       "id": "w_b1_apologize",
       "en": "apologize",
       "ar": "يعتذر",
-      "pronunciation": "ə'pa-lə dzaız/",
       "lessonId": "lsn_b1_a_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -253,7 +164,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈpɒləd͡ʒaɪz/"
     },
     {
       "id": "w_b1_application",
@@ -303,7 +215,6 @@
       "id": "w_b1_appreciate",
       "en": "appreciate",
       "ar": "يقدر / يمتن",
-      "pronunciation": "ə'prēSHē āt",
       "lessonId": "lsn_b1_a_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -319,13 +230,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈpɹiː.si.eɪt/"
     },
     {
       "id": "w_b1_approximately",
       "en": "approximately",
       "ar": "تقريباً",
-      "pronunciation": "ə'prak-sı-mətli/",
       "lessonId": "lsn_b1_a_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -341,7 +252,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈpɹɒk.sɪ.mət.li/"
     },
     {
       "id": "w_b1_arrested",
@@ -391,7 +303,6 @@
       "id": "w_b1_arrival",
       "en": "arrival",
       "ar": "وصول",
-      "pronunciation": "ə'rīvəl",
       "lessonId": "lsn_b1_a_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -407,7 +318,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈɹaɪ.vəl/"
     },
     {
       "id": "w_b1_assignment",
@@ -435,7 +347,6 @@
       "id": "w_b1_assist",
       "en": "assist",
       "ar": "يساعد",
-      "pronunciation": "",
       "lessonId": "lsn_b1_a_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -451,7 +362,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈsɪst/"
     },
     {
       "id": "w_b1_atmosphere",
@@ -501,7 +413,6 @@
       "id": "w_b1_attitude",
       "en": "attitude",
       "ar": "موقف (تجاه شيء)",
-      "pronunciation": "æt 1-tju:d/",
       "lessonId": "lsn_b1_a_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -517,7 +428,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈætɪˌtjuːd/"
     },
     {
       "id": "w_b1_attracted",
@@ -562,6 +474,72 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_authorities",
+      "en": "authorities",
+      "ar": "سلطات",
+      "pronunciation": "Bər ə ti/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed called the authorities.",
+          "ar": "اتصل أحمد بالسلطات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_awarded",
+      "en": "awarded",
+      "ar": "منح / كافأ",
+      "pronunciation": "/ə'word/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They awarded both of them prizes.",
+          "ar": "منحوا كل منهما جائزتين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_aware",
+      "en": "aware",
+      "ar": "مدرك / ملم بالشيء",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm aware of your problems.",
+          "ar": "أنا مدرك لمشاكلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/əˈweːɹ/"
     }
   ]
 }

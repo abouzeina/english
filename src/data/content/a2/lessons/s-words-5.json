@@ -1,14 +1,198 @@
 {
   "id": "lsn_a2_s_5",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 38: S Words - Part 5",
   "slug": "s-words-5",
-  "title": "Unit 39: S Words - Part 5",
-  "titleAr": "الوحدة 39: كلمات حرف S - الجزء 5",
-  "description": "Build on your A2 vocabulary starting with the letter S.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
-  "order": 39,
-  "wordCount": 11,
+  "order": 38,
+  "wordCount": 20,
+  "titleAr": "الوحدة 38: كلمات حرف S - الجزء 5",
+  "description": "Master essential A2 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_a2_strategy",
+      "en": "strategy",
+      "ar": "استراتيجية",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Perhaps we need a better strategy.",
+          "ar": "ربما نحتاج إلى استراتيجية أفضل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈstɹætədʒi/"
+    },
+    {
+      "id": "w_a2_stress",
+      "en": "stress",
+      "ar": "إجهاد / شدد",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I try to avoid stress.",
+          "ar": "أحاول أن أتجنب الإجهاد."
+        },
+        {
+          "en": "He stressed the need to solve the problem",
+          "ar": "شدد على ضرورة حل المشكلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/stɹɛs/"
+    },
+    {
+      "id": "w_a2_structure",
+      "en": "structure",
+      "ar": "بنية",
+      "pronunciation": "/ strok.tje/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The structure of our society has changed",
+          "ar": "بنية مجتمعنا قد تغيرت"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_stupid",
+      "en": "stupid",
+      "ar": "غبي",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Does that sound stupid?",
+          "ar": "هل هذا يبدو غبيًا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈstjuːpɪd/"
+    },
+    {
+      "id": "w_a2_succeed",
+      "en": "succeed",
+      "ar": "تنجح",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Study hard, and you'll succeed.",
+          "ar": "ادرس بجد وسوف تنجح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/səkˈsiːd/"
+    },
+    {
+      "id": "w_a2_successful",
+      "en": "successful",
+      "ar": "ناجحة",
+      "pronunciation": "/sək ses.fǝl/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The plan was successful.",
+          "ar": "الخطة كانت ناجحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_such",
+      "en": "such",
+      "ar": "مثل / من هذا القبيل",
+      "pronunciation": "/satj/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Children say such stupid things",
+          "ar": "يقول الأطفال أشياء غبية من هذا القبيل :"
+        },
+        {
+          "en": "Some animals, such as lions, eat meat.",
+          "ar": "بعض الحيوانات مثل الأسود، تأكل اللحوم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_suddenly",
+      "en": "suddenly",
+      "ar": "فجأة",
+      "pronunciation": "/sad.ǝn.li/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Suddenly everyone stopped talking",
+          "ar": "فجأة توقف الجميع عن الكلام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_suggest",
       "en": "suggest",
@@ -65,13 +249,18 @@
         {
           "en": "Sami is wearing a new suit today.",
           "ar": "سامي يرتدي بدلة جديدة اليوم :"
+        },
+        {
+          "en": "We have a variety of dishes to suit all tastes.",
+          "ar": "لدينا أطباق متنوعة لتناسب جميع الأذواق."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -153,7 +342,6 @@
       "id": "w_a2_surprised",
       "en": "surprised",
       "ar": "متفاجئا",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_5",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -169,13 +357,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/səˈpɹaɪzd/"
     },
     {
       "id": "w_a2_surprising",
       "en": "surprising",
       "ar": "مفاجئ / غير متوقع",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_5",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -191,7 +379,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/səˈpɹaɪzɪŋ/"
     },
     {
       "id": "w_a2_survey",
@@ -205,13 +394,19 @@
         {
           "en": "Their research used a survey method.",
           "ar": "استخدم بحثهم طريقة استطلاع الرأي :"
+        },
+        {
+          "en": "He surveyed the damage after the storm passed.",
+          "ar": "قام بمسح الأضرار بعد مرور العاصفة."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -219,7 +414,6 @@
       "id": "w_a2_sweet",
       "en": "sweet",
       "ar": "حلو / حلويات",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_5",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -239,7 +433,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/swiːt/"
     },
     {
       "id": "w_a2_symbol",
@@ -262,6 +457,28 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_system",
+      "en": "system",
+      "ar": "نظام",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The system is working well",
+          "ar": "النظام يعمل بشكل جيد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈsɪstəm/"
     }
   ]
 }

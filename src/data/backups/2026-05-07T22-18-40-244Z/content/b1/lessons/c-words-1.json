@@ -1,0 +1,583 @@
+{
+  "id": "lsn_b1_c_1",
+  "levelId": "lvl_b1",
+  "slug": "c-words-1",
+  "title": "Unit 6: C Words - Part 1",
+  "titleAr": "الوحدة 6: كلمات حرف C - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with C.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف C.",
+  "order": 6,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_by",
+      "en": "by",
+      "ar": "بجوار / بكلمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He walked by without saying a word.",
+          "ar": "مر بجواري دون أن ينطق بكلمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_calm",
+      "en": "calm",
+      "ar": "هادئ / يهدأ / هدوء",
+      "pronunciation": "/kam/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We all need to stay calm.",
+          "ar": "نحن جميعا بحاجة إلى أن نبقى هادئين."
+        },
+        {
+          "en": "The storm has calmed down.",
+          "ar": "هدأت العاصفة."
+        },
+        {
+          "en": "I enjoy the calm of the ocean.",
+          "ar": "أنا أستمتع بهدوء المحيط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_campaign",
+      "en": "campaign",
+      "ar": "حملة / يخوض حملة",
+      "pronunciation": "/kæmpern/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Police started a campaign to reduce road accidents.",
+          "ar": "بدأت الشرطة حملة للحد من حوادث الطرق."
+        },
+        {
+          "en": "We are campaigning to save the public park.",
+          "ar": "نخوض حملة لإنقاذ المتنزه العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_campus",
+      "en": "campus",
+      "ar": "حرم جامعي",
+      "pronunciation": "/'kæm-pəs/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami is still somewhere on campus.",
+          "ar": "سامي لا يزال في مكان ما في الحرم الجامعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_candidates",
+      "en": "candidates",
+      "ar": "مرشحين / مُمتحنين",
+      "pronunciation": "/'kæn.də dert/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "None of the candidates have won.",
+          "ar": "لم يفز أحد من المرشحين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cap",
+      "en": "cap",
+      "ar": "قبعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Where did you buy that cap?",
+          "ar": "من أين اشتريت هذه القبعة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_captain",
+      "en": "captain",
+      "ar": "قائد / كابتن",
+      "pronunciation": "/'kæp.tn/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is the captain of our team.",
+          "ar": "علي هو قائد فريقنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_careless",
+      "en": "careless",
+      "ar": "مستهتر / لا مبالي",
+      "pronunciation": "/'keər-ləs/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed is a very careless driver.",
+          "ar": "أحمد سائق مستهتر جدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_category",
+      "en": "category",
+      "ar": "فئة",
+      "pronunciation": "/'kæţ gor·i/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What category of books do you like to read?",
+          "ar": "ما فئة الكتب التي تحب قراءتها ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ceiling",
+      "en": "ceiling",
+      "ar": "سقف",
+      "pronunciation": "/'si-lın/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He painted the ceiling blue.",
+          "ar": "طلى السقف باللون الأزرق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_celebration",
+      "en": "celebration",
+      "ar": "احتفال",
+      "pronunciation": "/ sela brex fən/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "That was a big celebration.",
+          "ar": "كان ذلك احتفالاً كبيراً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_central",
+      "en": "central",
+      "ar": "وسطى / مركزي",
+      "pronunciation": "/'sen trǝl/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Cuba is in Central America.",
+          "ar": "تقع كوبا في أمريكا الوسطى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_centered",
+      "en": "centered",
+      "ar": "تركزت",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The discussion centered on the benefits of the internet.",
+          "ar": "تركزت المناقشة على فوائد الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ceremony",
+      "en": "ceremony",
+      "ar": "حفل / مراسم",
+      "pronunciation": "sera mou ni/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was a beautiful wedding ceremony.",
+          "ar": "لقد كان حفل زفاف جميل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_chain",
+      "en": "chain",
+      "ar": "سلسلة",
+      "pronunciation": "/tfexn/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He owns a big chain of bookstores.",
+          "ar": "يمتلك سلسلة كبيرة من المكتبات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_challenge",
+      "en": "challenge",
+      "ar": "تحد",
+      "pronunciation": "/ tfæl-end3/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "That sounds like a challenge.",
+          "ar": "هذا يبدو كأنه تحد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_champion",
+      "en": "champion",
+      "ar": "بطل",
+      "pronunciation": "/'tfæm-pi-ən/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was the champion for three years.",
+          "ar": "كان البطل لمدة ثلاث سنوات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_channel",
+      "en": "channel",
+      "ar": "قناة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You are watching my channel.",
+          "ar": "أنت تشاهد قناتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_chapters",
+      "en": "chapters",
+      "ar": "فصول (الكتاب)",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How many chapters did you read?",
+          "ar": "كم عدد الفصول التي قرأتها ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_charge",
+      "en": "charge",
+      "ar": "يتقاضى ثمن / رسوم",
+      "pronunciation": "/tfardz/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How much did they charge you for the dinner?",
+          "ar": "كم تقاضوا منك مالاً مقابل العشاء ؟"
+        },
+        {
+          "en": "Is there a service charge?",
+          "ar": "هناك رسوم للخدمة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cheap",
+      "en": "cheap",
+      "ar": "رخيص / ثمن بخس",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I got these shoes cheap.",
+          "ar": "حصلت على هذه الأحذية بثمن بخس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cheating",
+      "en": "cheating",
+      "ar": "يغش",
+      "pronunciation": "/tfit/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The teacher thought I was cheating.",
+          "ar": "ظن المعلم أنني كنت أغش."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cheat",
+      "en": "cheat",
+      "ar": "غشاش",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am not a cheat.",
+          "ar": "أنا لست غشاشا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cheerful",
+      "en": "cheerful",
+      "ar": "مبتهج / سعيد",
+      "pronunciation": "/ tfıər fəl/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He talked in a cheerful voice.",
+          "ar": "تحدث بصوت مبتهج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_chemical",
+      "en": "chemical",
+      "ar": "كيميائي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These chemicals may affect bees.",
+          "ar": "هذه المواد الكيميائية قد تؤثر على النحل."
+        },
+        {
+          "en": "Do you use chemical products?",
+          "ar": "هل تستخدمون منتجات كيميائية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

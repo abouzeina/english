@@ -1,0 +1,57 @@
+{
+  "id": "lsn_b1_j_1",
+  "levelId": "lvl_b1",
+  "slug": "j-words-1",
+  "title": "Unit 20: J Words - Part 1",
+  "titleAr": "الوحدة 20: كلمات حرف J - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with J.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف J.",
+  "order": 20,
+  "wordCount": 2,
+  "words": [
+    {
+      "id": "w_b1_it",
+      "en": "IT",
+      "ar": "تكنولوجيا المعلومات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_j_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I studied IT in university.",
+          "ar": "درست تكنولوجيا المعلومات في الجامعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_journal",
+      "en": "journal",
+      "ar": "مجلة متخصصة",
+      "pronunciation": "/'d33r.nel/",
+      "lessonId": "lsn_b1_j_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I published my research in a medical journal.",
+          "ar": "نشرت بحثي في مجلة طبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

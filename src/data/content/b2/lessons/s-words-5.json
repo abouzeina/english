@@ -1,0 +1,589 @@
+{
+  "id": "lsn_b2_s_5",
+  "levelId": "lvl_b2",
+  "title": "Unit 50: S Words - Part 5",
+  "slug": "s-words-5",
+  "order": 50,
+  "wordCount": 24,
+  "titleAr": "الوحدة 50: كلمات حرف S - الجزء 5",
+  "description": "Master essential B2 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_b2_strict",
+      "en": "strict",
+      "ar": "صارمة / منعا باتا",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Smoking is strictly prohibited inside the building.",
+          "ar": "التدخين ممنوع منعا باتا داخل المبنى."
+        },
+        {
+          "en": "The school has strict policies on student behavior.",
+          "ar": "لدى المدرسة سياسات صارمة بشأن سلوك الطلاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɹɪkt/"
+    },
+    {
+      "id": "w_b2_strike",
+      "en": "strike",
+      "ar": "الإضراب / ضربت / ضربة حظ",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A sudden stroke of luck changed his life.",
+          "ar": "ضربة حظ مفاجئة غيرت حياته."
+        },
+        {
+          "en": "The branches struck the window during the storm.",
+          "ar": "ضربت الأغصان النافذة أثناء العاصفة."
+        },
+        {
+          "en": "The strike lasted for nearly two weeks.",
+          "ar": "استمر الإضراب لمدة أسبوعين تقريبا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɹaɪk/"
+    },
+    {
+      "id": "w_b2_structured",
+      "en": "structured",
+      "ar": "رتب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He structured his speech carefully.",
+          "ar": "لقد رتب خطابه بعناية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_struggle",
+      "en": "struggle",
+      "ar": "كافح / النضال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The struggle for freedom lasted many years.",
+          "ar": "استمر النضال من أجل الحرية سنوات عديدة."
+        },
+        {
+          "en": "The team struggled but finally won the game.",
+          "ar": "كافح الفريق لكنه فاز في النهاية بالمباراة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stuffed",
+      "en": "stuffed",
+      "ar": "حشو",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He stuffed his shoes with newspaper to dry them.",
+          "ar": "قام بحشو حذائه بالجرائد لتجفيفه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stunning",
+      "en": "stunning",
+      "ar": "بديعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The wedding decorations looked absolutely stunning.",
+          "ar": "بدت ديكورات الزفاف بديعة للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_submit",
+      "en": "submit",
+      "ar": "تقديم",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They failed to submit the required documents.",
+          "ar": "فشلوا في تقديم المستندات المطلوبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səbˈmɪt/"
+    },
+    {
+      "id": "w_b2_subsequent",
+      "en": "subsequent",
+      "ar": "اللاحقة / وبعد ذلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He trained daily and subsequently won the championship.",
+          "ar": "كان يتدرب يوميًا وبعد ذلك فاز بالبطولة."
+        },
+        {
+          "en": "She improved in subsequent attempts after practicing more.",
+          "ar": "لقد تحسنت في المحاولات اللاحقة بعد أن تدربت أكثر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_suburb",
+      "en": "suburb",
+      "ar": "الضاحية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The suburb is connected to the city by train.",
+          "ar": "ترتبط الضاحية بالمدينة عبر القطار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_suffering",
+      "en": "suffering",
+      "ar": "معاناتها",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She hid her suffering behind a fake smile.",
+          "ar": "أخفت معاناتها وراء ابتسامة مزيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sufficient",
+      "en": "sufficient",
+      "ar": "كافية / بما يكفي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He wasn't sufficiently trained for the new position.",
+          "ar": "لم يتم تدريبه بما يكفي للمنصب الجديد."
+        },
+        {
+          "en": "We need sufficient evidence to support the claim.",
+          "ar": "نحتاج إلى أدلة كافية لدعم الادعاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sum",
+      "en": "sum",
+      "ar": "مبلغ / تلخص",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can you sum up the movie with one sentence?",
+          "ar": "هل يمكنك أن تلخص الفيلم بجملة واحدة ؟"
+        },
+        {
+          "en": "She donated a huge sum to the charity.",
+          "ar": "تبرعت بمبلغ ضخم للمؤسسة الخيرية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_super",
+      "en": "super",
+      "ar": "ممتازة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The chef created a super meal for the guests.",
+          "ar": "أعد الشيف وجبة ممتازة للضيوف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_surgeon",
+      "en": "surgeon",
+      "ar": "الجراح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The surgeon used advanced technology during the operation.",
+          "ar": "استخدم الجراح تقنية متقدمة أثناء العملية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_surgery",
+      "en": "surgery",
+      "ar": "عملية جراحية",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The doctor recommended surgery for his heart condition.",
+          "ar": "أوصى الطبيب بإجراء عملية جراحية لحالة قلبه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɜːdʒəɹi/"
+    },
+    {
+      "id": "w_b2_surround",
+      "en": "surround",
+      "ar": "تحيط / المحيطة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He explored the surrounding villages during his trip.",
+          "ar": "قام باستكشاف القرى المحيطة خلال رحلته."
+        },
+        {
+          "en": "She loves to surround herself with positive people.",
+          "ar": "تحب أن تحيط نفسها بالأشخاص الإيجابيين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_survival",
+      "en": "survival",
+      "ar": "بقاء / للناجين",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The doctors fought for the patient's survival.",
+          "ar": "كافح الأطباء من أجل بقاء المريض على قيد الحياة."
+        },
+        {
+          "en": "The survivors of the flood were given medical aid.",
+          "ar": "تم تقديم المساعدة الطبية للناجين من الفيضان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɚˈvaɪvəl/"
+    },
+    {
+      "id": "w_b2_suspect",
+      "en": "suspect",
+      "ar": "أشك / المشتبه به",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I suspect he's hiding the truth from us.",
+          "ar": "أشك أنه يخفي الحقيقة عنا."
+        },
+        {
+          "en": "The police questioned the suspect for several hours.",
+          "ar": "استجوبت الشرطة المشتبه به لعدة ساعات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_suspended",
+      "en": "suspended",
+      "ar": "معلقًا / تعليق",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The bridge was suspended by thick steel cables.",
+          "ar": "كان الجسر معلقًا بكابلات فولاذية سميكة."
+        },
+        {
+          "en": "The school decided to suspend classes due to bad weather.",
+          "ar": "قررت المدرسة تعليق الدراسة بسبب سوء الأحوال الجوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səˈspɛndɪd/"
+    },
+    {
+      "id": "w_b2_sustainable",
+      "en": "sustainable",
+      "ar": "المستدامة",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We should focus on using sustainable energy sources.",
+          "ar": "يجب أن نركز على استخدام مصادر الطاقة المستدامة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səˈsteɪnəbəl/"
+    },
+    {
+      "id": "w_b2_swallowed",
+      "en": "swallowed",
+      "ar": "ابتلعت",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She accidentally swallowed a small coin.",
+          "ar": "ابتلعت عن طريق الخطأ عملة معدنية صغيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈswɒl.əʊd/"
+    },
+    {
+      "id": "w_b2_sweeps",
+      "en": "sweeps",
+      "ar": "تكنس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She sweeps the kitchen floor every morning.",
+          "ar": "إنها تكنس أرضية المطبخ كل صباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_swore",
+      "en": "swore",
+      "ar": "أقسم",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He swore to tell the truth in court.",
+          "ar": "لقد أقسم على قول الحقيقة في المحكمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/swɔː/"
+    },
+    {
+      "id": "w_b2_sympathy",
+      "en": "sympathy",
+      "ar": "تعاطف / متعاطفا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My wife's sympathy helped me feel less alone.",
+          "ar": "لقد ساعدني تعاطف زوجتي على تقليل شعوري بالوحدة."
+        },
+        {
+          "en": "The judge was sympathetic but remained fair.",
+          "ar": "كان القاضي متعاطفا لكن ظل منصفا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

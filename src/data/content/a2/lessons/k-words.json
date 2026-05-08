@@ -1,0 +1,172 @@
+{
+  "id": "lsn_a2_k",
+  "levelId": "lvl_a2",
+  "title": "Unit 21: K Words",
+  "slug": "k-words",
+  "order": 21,
+  "wordCount": 7,
+  "titleAr": "الوحدة 21: كلمات حرف K",
+  "description": "Master essential A2 vocabulary starting with the letter K.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف K.",
+  "words": [
+    {
+      "id": "w_a2_kid",
+      "en": "kid",
+      "ar": "أطفال",
+      "lessonId": "lsn_a2_k",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you have any kids ?",
+          "ar": "هل لديك أطفال ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kɪd/"
+    },
+    {
+      "id": "w_a2_kill",
+      "en": "kill",
+      "ar": "يقتل",
+      "lessonId": "lsn_a2_k",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Three people were killed in the accident.",
+          "ar": "قُتِل ثلاثة أشخاص في الحادث :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kɪl/"
+    },
+    {
+      "id": "w_a2_king",
+      "en": "king",
+      "ar": "ملك",
+      "lessonId": "lsn_a2_k",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The king himself was there.",
+          "ar": "كان الملك نفسه هناك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kɪŋ/"
+    },
+    {
+      "id": "w_a2_knee",
+      "en": "knee",
+      "ar": "ركبة",
+      "pronunciation": "/ni/",
+      "lessonId": "lsn_a2_k",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you hurt your knee?",
+          "ar": "هل جرحت ركبتك : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_knife",
+      "en": "knife",
+      "ar": "سكين",
+      "pronunciation": "/narf/",
+      "lessonId": "lsn_a2_k",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Cut the cake with that knife.",
+          "ar": "اقطع الكعكة بهذه السكين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_knock",
+      "en": "knock",
+      "ar": "يطرق",
+      "pronunciation": "/nak/",
+      "lessonId": "lsn_a2_k",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please knock before you come in",
+          "ar": "من فضلك اطرق قبل أن تدخل :"
+        },
+        {
+          "en": "Did you hear a knock on the door?",
+          "ar": "هل سمعت طرقًا على الباب ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_knowledge",
+      "en": "knowledge",
+      "ar": "معرفة",
+      "pronunciation": "/'na līdz/",
+      "lessonId": "lsn_a2_k",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Education is the key to knowledge.",
+          "ar": "التعليم هو مفتاح المعرفة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

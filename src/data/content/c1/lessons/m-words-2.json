@@ -1,0 +1,475 @@
+{
+  "id": "lsn_c1_m_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 24: M Words - Part 2",
+  "slug": "m-words-2",
+  "order": 24,
+  "wordCount": 21,
+  "titleAr": "الوحدة 24: كلمات حرف M - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter M.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف M.",
+  "words": [
+    {
+      "id": "w_c1_meaningful",
+      "en": "meaningful",
+      "ar": "ذو معنى / هادف",
+      "pronunciation": "ˈmiːnɪŋfl",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أجرينا محادثة هادفة للغاية حول مستقبلنا",
+          "ar": "The award is very meaningful to him."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_meantime",
+      "en": "meantime",
+      "ar": "في هذه الأثناء",
+      "pronunciation": "ˈmiːntaɪm",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيراك الطبيب قريباً، وفي هذه الأثناء، يرجى الانتظار هنا",
+          "ar": "I will finish my work; you can go for a walk in the meantime."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_medieval",
+      "en": "medieval",
+      "ar": "من العصور الوسطى",
+      "pronunciation": "ˌmediˈiːvl",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تشتهر المدينة بقلعتها التي تعود للعصور الوسطى",
+          "ar": "The museum has a collection of medieval weapons."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_meditation",
+      "en": "meditation",
+      "ar": "تأمل",
+      "pronunciation": "ˌmedɪˈteɪʃn",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تساعد اليوغا والتأمل في تقليل التوتر",
+          "ar": "He spends an hour in meditation every morning."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_melody",
+      "en": "melody",
+      "ar": "لحن",
+      "pronunciation": "ˈmelədi",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صفرت لحناً بسيطاً",
+          "ar": "The song has a very catchy melody."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_memo",
+      "en": "memo",
+      "ar": "مذكرة (داخلية)",
+      "pronunciation": "ˈmeməʊ",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أرسل المدير مذكرة إلى جميع أعضاء طاقم العمل",
+          "ar": "I wrote a quick memo to remind myself of the meeting."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_memoir",
+      "en": "memoir",
+      "ar": "مذكرات (سيرة ذاتية)",
+      "pronunciation": "ˈmemwɑː(r)",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نشر السياسي مذكراته بعد تركه لمنصبه",
+          "ar": "The book is a moving memoir of her childhood."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_memorial",
+      "en": "memorial",
+      "ar": "نصب تذكاري",
+      "pronunciation": "məˈmɔːriəl",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم بناء نصب تذكاري لتكريم ضحايا الحرب",
+          "ar": "The park serves as a memorial to the former president."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mentor",
+      "en": "mentor",
+      "ar": "موجه / ناصح خبير",
+      "pronunciation": "ˈmentɔː(r)",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لقد كان موجهاً للعديد من رواد الأعمال الشباب",
+          "ar": "She credits her success to her mentor."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_merchant",
+      "en": "merchant",
+      "ar": "تاجر",
+      "pronunciation": "ˈmɜːtʃənt",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت المدينة ذات يوم مركزاً للتجار الأثرياء",
+          "ar": "He is a wine merchant who travels all over Europe."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mercy",
+      "en": "mercy",
+      "ar": "رحمة",
+      "pronunciation": "ˈmɜːsi",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توسل السجين طلباً للرحمة",
+          "ar": "The judge showed mercy and gave him a lighter sentence."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mere",
+      "en": "mere",
+      "ar": "مجرد",
+      "pronunciation": "mɪə(r)",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استغرق الأمر مجرد خمس دقائق لإنهاء المهمة",
+          "ar": "The mere thought of food made him feel sick."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_merely",
+      "en": "merely",
+      "ar": "مجرد / فحسب",
+      "pronunciation": "ˈmɪəli",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه مجرد طفل ولا يدرك العواقب",
+          "ar": "I am merely stating the facts."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_merge",
+      "en": "merge",
+      "ar": "يندمج / يدمج",
+      "pronunciation": "mɜːdʒ",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الشركتان الاندماج العام الماضي",
+          "ar": "The small streams merge to form a large river."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_merger",
+      "en": "merger",
+      "ar": "اندماج",
+      "pronunciation": "ˈmɜːdʒə(r)",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "خلق اندماج البنكين عملاقاً مالياً",
+          "ar": "Employees are worried about their jobs after the merger."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_merit",
+      "en": "merit",
+      "ar": "ميزة / استحقاق / جدارة",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المشروع له ميزات كثيرة ويستحق التمويل",
+          "ar": "Promotion should be based on merit, not on seniority."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɛɹət/"
+    },
+    {
+      "id": "w_c1_methodology",
+      "en": "methodology",
+      "ar": "منهجية / علم المناهج",
+      "pronunciation": "ˌmeθəˈdɒlədʒi",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحن بحاجة إلى تغيير منهجية البحث الخاصة بنا",
+          "ar": "The study explains the methodology used to collect data."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_midst",
+      "en": "midst",
+      "ar": "وسط / خضم",
+      "pronunciation": "mɪdst",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وجدت نفسها في خضم جدال حاد",
+          "ar": "The building stands in the midst of the city."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_migration",
+      "en": "migration",
+      "ar": "هجرة",
+      "pronunciation": "maɪˈɡreɪʃn",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعد الهجرة الموسمية للطيور ظاهرة رائعة",
+          "ar": "Economic migration has increased significantly recently."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_militant",
+      "en": "militant",
+      "ar": "مناضل / عدواني / متشدد",
+      "pronunciation": "ˈmɪlɪtənt",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اتخذت المجموعة نهجاً أكثر تشدداً في الاحتجاجات",
+          "ar": "He was known for his militant views on social reform."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_militia",
+      "en": "militia",
+      "ar": "ميليشيا / قوات مدنية",
+      "pronunciation": "məˈlɪʃə",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "دافعت الميليشيا المحلية عن البلدة من الغزاة",
+          "ar": "He joined a volunteer militia to protect his neighborhood."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b1_p_1",
+  "levelId": "lvl_b1",
+  "slug": "p-words-1",
+  "title": "Unit 27: P Words - Part 1",
+  "titleAr": "الوحدة 27: كلمات حرف P - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with P.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف P.",
+  "order": 27,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_outdoors",
+      "en": "outdoors",
+      "ar": "خارج المنزل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The rain prevented us from eating outdoors.",
+          "ar": "منعنا المطر من تناول الطعام خارج المنزل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pack",
+      "en": "pack",
+      "ar": "علبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I saw him buying a pack of cigarettes.",
+          "ar": "رأيته يشتري علبة سجائر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_packages",
+      "en": "packages",
+      "ar": "طرود",
+      "pronunciation": "/pæk.xd3/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We don't accept large packages.",
+          "ar": "نحن لا نقبل الطرود الكبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_painful",
+      "en": "painful",
+      "ar": "مؤلمة",
+      "pronunciation": "/'pern.fol/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Actually, the injuries were painful.",
+          "ar": "في الواقع، كانت الإصابات مؤلمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pale",
+      "en": "pale",
+      "ar": "شاحب",
+      "pronunciation": "/perl/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You look pale, Is everything okay?",
+          "ar": "تبدو شاحبا ، هل كل شيء على ما يرام ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pans",
+      "en": "pans",
+      "ar": "مقالي",
+      "pronunciation": "/pæn/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The cook needs some new pans.",
+          "ar": "الطباخ يحتاج إلى بعض المقالي الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_participate",
+      "en": "participate",
+      "ar": "يشارك",
+      "pronunciation": "/pa:r tis.e.pert/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I didn't participate in the discussion.",
+          "ar": "لم أشارك في النقاش."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_particularly",
+      "en": "particularly",
+      "ar": "خصوصاً",
+      "pronunciation": "/pa:r'trs.ə.pext/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Invite your friends particularly Ali.",
+          "ar": "قم بدعوة أصدقائك، خصوصًا علي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_passes",
+      "en": "passes",
+      "ar": "تصاريح مرور",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The gate guards asked to see our passes.",
+          "ar": "حراس البوابة طلبوا رؤية تصاريح المرور الخاصة بنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_passion",
+      "en": "passion",
+      "ar": "شغف",
+      "pronunciation": "/'pæs.ən/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The passion will drive you to achieve your goals.",
+          "ar": "الشغف سيقودك إلى تحقيق أهدافك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_path",
+      "en": "path",
+      "ar": "طريق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I discovered a secret path in the valley.",
+          "ar": "اكتشفت طريقاً سريا في الوادي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_payment",
+      "en": "payment",
+      "ar": "دفع / عملية دفع",
+      "pronunciation": "/'pex.mənt/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you accept payment by credit card?",
+          "ar": "هل تقبلون الدفع ببطاقة الائتمان ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_peaceful",
+      "en": "peaceful",
+      "ar": "سلمي",
+      "pronunciation": "/'pi:s.fəl/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They shook their hands after a peaceful meeting.",
+          "ar": "تصافحا بعد لقاء سلمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_percentage",
+      "en": "percentage",
+      "ar": "نسبة مئوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The city has a high percentage of green spaces.",
+          "ar": "المدينة بها نسبة عالية من المساحات الخضراء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_perfectly",
+      "en": "perfectly",
+      "ar": "تماماً",
+      "pronunciation": "/'ps:.fekt.li/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It's perfectly normal to ride your motorcycle here.",
+          "ar": "من الطبيعي تماما أن تركب دراجتك النارية هنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_performance",
+      "en": "performance",
+      "ar": "أداء",
+      "pronunciation": "/pə-'fo:r.məns/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The performance of the team was excellent.",
+          "ar": "كان أداء الفريق ممتازا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_personally",
+      "en": "Personally",
+      "ar": "شخصياً",
+      "pronunciation": "/p3.sen.al.i/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Personally, I prefer the second option.",
+          "ar": "أنا شخصياً أفضل الخيار الثاني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_persuaded",
+      "en": "persuaded",
+      "ar": "أقنعته",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I persuaded him to reduce the prices.",
+          "ar": "أنا أقنعته بتخفيض الأسعار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_photographer",
+      "en": "photographer",
+      "ar": "مصور",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do we need a wedding photographer?",
+          "ar": "هل نحتاج لمصور زفاف ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_photography",
+      "en": "Photography",
+      "ar": "تصوير فوتوغرافي",
+      "pronunciation": "/fə ta:.grə.fi/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Photography is one of my hobbies.",
+          "ar": "التصوير الفوتوغرافي هو إحدى هواياتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pin",
+      "en": "pin",
+      "ar": "دبوس / يثبت",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami wears a silver pin on his coat.",
+          "ar": "سامي يرتدي دبوسًا فضيا في معطفه."
+        },
+        {
+          "en": "Pin the map to the wall.",
+          "ar": "ثبت الخريطة على الحائط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pipes",
+      "en": "pipes",
+      "ar": "أنابيب",
+      "pronunciation": "/paxp/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My task today is to fix the pipes.",
+          "ar": "مهمتي اليوم هي إصلاح الأنابيب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_placed",
+      "en": "placed",
+      "ar": "وضع",
+      "pronunciation": "/plers/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He placed his hand on my shoulder.",
+          "ar": "وضع يده على كتفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_planning",
+      "en": "planning",
+      "ar": "تخطيط",
+      "pronunciation": "/'plez.0/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Each department has its own planning process.",
+          "ar": "كل قسم له عملية التخطيط الخاصة به."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pleasant",
+      "en": "pleasant",
+      "ar": "سارة",
+      "pronunciation": "/'plez.ent/",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What a pleasant surprise!!",
+          "ar": "يا لها من مفاجئة سارة !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

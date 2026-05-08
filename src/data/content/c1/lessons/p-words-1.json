@@ -1,0 +1,501 @@
+{
+  "id": "lsn_c1_p_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 29: P Words - Part 1",
+  "slug": "p-words-1",
+  "order": 29,
+  "wordCount": 22,
+  "titleAr": "الوحدة 29: كلمات حرف P - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_c1_pad",
+      "en": "pad",
+      "ar": "وسادة / حشوة / دفتر ملاحظات",
+      "pronunciation": "pæd",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استخدمت حشوة كتف لجعل الجاكيت يبدو مناسباً أكثر",
+          "ar": "I always keep a writing pad next to my bed."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_parameter",
+      "en": "parameter",
+      "ar": "معيار / حد / بارامتر",
+      "pronunciation": "pəˈræmɪtə(r)",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أُجريت الدراسة ضمن معايير صارمة",
+          "ar": "The computer model uses several different parameters."
+        },
+        {
+          "en": "نحن بحاجة إلى تحديد معايير (حدود) الدراسة",
+          "ar": "The computer program allows you to set several parameters."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_parental",
+      "en": "parental",
+      "ar": "أبوي / متعلق بالوالدين",
+      "pronunciation": "pəˈrentl",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "مشاركة الوالدين أمر حاسم لنجاح الطفل في المدرسة",
+          "ar": "She took a leave of absence for parental duties."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_patrol",
+      "en": "patrol",
+      "ar": "دورية / يجوب المكان للحراسة",
+      "pronunciation": "pəˈtrəʊl",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجوب ضباط الشرطة الشوارع في الليل في دوريات",
+          "ar": "The border patrol arrested three people trying to cross illegally."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_patron",
+      "en": "patron",
+      "ar": "راعٍ / زبون دائم",
+      "pronunciation": "ˈpeɪtrən",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يبحث مركز الفنون المحلي عن راعٍ ثري",
+          "ar": "She is a regular patron of this restaurant."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_peak",
+      "en": "peak",
+      "ar": "قمة / ذروة",
+      "pronunciation": "piːk",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وصل إلى ذروة مسيرته المهنية في سن الأربعين",
+          "ar": "The mountain peak was covered in snow."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_peasant",
+      "en": "peasant",
+      "ar": "فلاح / قروي بسيط",
+      "pronunciation": "ˈpeznt",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يوضح المتحف كيف عاش الفلاحون المحليون منذ قرون",
+          "ar": "Most of the population were poor peasants."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_peculiar",
+      "en": "peculiar",
+      "ar": "غريب / مميز لـ",
+      "pronunciation": "pɪˈkjuːliə(r)",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان للطعام طعم غريب لم يعجبني",
+          "ar": "This custom is peculiar to this part of the country."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_persist",
+      "en": "persist",
+      "ar": "يستمر / يصر",
+      "pronunciation": "pəˈsɪst",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إذا استمرت الأعراض، يجب عليك مراجعة الطبيب",
+          "ar": "He persisted in his search for the truth."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_persistent",
+      "en": "persistent",
+      "ar": "مستمر / ملح / دؤوب",
+      "pronunciation": "pəˈsɪstənt",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تأثرت المنطقة بأمطار مستمرة",
+          "ar": "He is a persistent salesman who won't take no for an answer."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_personnel",
+      "en": "personnel",
+      "ar": "طاقم الموظفين / شؤون العاملين",
+      "pronunciation": "ˌpɜːsəˈnel",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تقوم الشركة بتقليص موظفيها لخفض التكاليف",
+          "ar": "Please contact the personnel department for more information."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_petition",
+      "en": "petition",
+      "ar": "عريضة / التماس",
+      "pronunciation": "pəˈtɪʃn",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وقع آلاف الأشخاص عريضة ضد الضريبة الجديدة",
+          "ar": "They presented a petition to the local council."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_philosopher",
+      "en": "philosopher",
+      "ar": "فيلسوف",
+      "pronunciation": "fəˈlɒsəfə(r)",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان سقراط فيلسوفاً يونانياً مشهوراً",
+          "ar": "He is a leading philosopher in the field of ethics."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_philosophical",
+      "en": "philosophical",
+      "ar": "فلسفي",
+      "pronunciation": "ˌfɪləˈsɒfɪkl",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "دار بين الصديقين نقاش فلسفي طويل",
+          "ar": "He took a philosophical approach to his failure."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_physician",
+      "en": "physician",
+      "ar": "طبيب (بشري)",
+      "pronunciation": "fɪˈzɪʃn",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم علاجه من قبل طبيب العائلة",
+          "ar": "The hospital is looking for an experienced physician."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pioneer",
+      "en": "pioneer",
+      "ar": "رائد / يبتكر",
+      "pronunciation": "ˌpaɪəˈnɪə(r)",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت رائدة في مجال علوم الكمبيوتر",
+          "ar": "The company pioneered the use of solar energy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pipeline",
+      "en": "pipeline",
+      "ar": "خط أنابيب / قيد التنفيذ",
+      "pronunciation": "ˈpaɪplaɪn",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيمتد خط أنابيب النفط الجديد عبر الصحراء",
+          "ar": "There are several new projects in the pipeline."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pirate",
+      "en": "pirate",
+      "ar": "قرصان / يقرصن",
+      "pronunciation": "ˈpaɪrət",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعرضت السفينة لهجوم من قبل قراصنة في المحيط الهندي",
+          "ar": "The company is trying to stop people from pirating its software."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pit",
+      "en": "pit",
+      "ar": "حفرة / منجم",
+      "pronunciation": "pɪt",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حفر العمال حفرة عميقة في الأرض",
+          "ar": "The coal pit was closed down many years ago."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_plea",
+      "en": "plea",
+      "ar": "نداء / التماس / دفع (قانوني)",
+      "pronunciation": "pliː",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وجهت العائلة نداءً عاطفياً لعودة ابنهم سالماً",
+          "ar": "He entered a plea of not guilty to the charges."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_plead",
+      "en": "plead",
+      "ar": "يتوسل / يدفع (قانونياً)",
+      "pronunciation": "pliːd",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توسلت إليه أن يغير رأيه",
+          "ar": "The defendant pleaded guilty to the crime."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pledge",
+      "en": "pledge",
+      "ar": "يتعهد / عهد / وعد",
+      "pronunciation": "pledʒ",
+      "lessonId": "lsn_c1_p_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعهدت الحكومة بخفض الضرائب",
+          "ar": "He made a solemn pledge to tell the truth."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

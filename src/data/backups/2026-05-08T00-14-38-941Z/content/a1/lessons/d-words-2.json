@@ -1,0 +1,429 @@
+{
+  "id": "lsn_a1_d_2",
+  "levelId": "lvl_1",
+  "title": "D Words - Part 2",
+  "slug": "d-words-2",
+  "order": 10,
+  "wordCount": 18,
+  "titleAr": "كلمات حرف D - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter D.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف D.",
+  "words": [
+    {
+      "id": "w_a1_difficult",
+      "lessonId": "lsn_a1_d_2",
+      "en": "difficult",
+      "translation": "صعب",
+      "ar": "صعب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The test was very difficult today.",
+          "ar": "كان الاختبار صعباً جداً اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dinner",
+      "lessonId": "lsn_a1_d_2",
+      "en": "dinner",
+      "translation": "عشاء",
+      "ar": "عشاء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Dinner is ready come and eat.",
+          "ar": "العشاء جاهز تعال وتناول الطعام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dirty",
+      "lessonId": "lsn_a1_d_2",
+      "en": "dirty",
+      "translation": "متسخ",
+      "ar": "متسخ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The kitchen is dirty after cooking.",
+          "ar": "المطبخ متسخ بعد الطهي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_discuss",
+      "lessonId": "lsn_a1_d_2",
+      "en": "discuss",
+      "translation": "يناقش",
+      "ar": "يناقش",
+      "pronunciation": "/dı skʌs/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's discuss the plan tomorrow.",
+          "ar": "دعونا نناقش الخطة غدًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dish",
+      "lessonId": "lsn_a1_d_2",
+      "en": "dish",
+      "translation": "طبق",
+      "ar": "طبق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please wash the dish after you eat.",
+          "ar": "يرجى غسل الطبق بعد تناول الطعام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_do",
+      "lessonId": "lsn_a1_d_2",
+      "en": "do",
+      "translation": "يفعل",
+      "ar": "يفعل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Do you like this book?",
+          "ar": "هل يعجبك هذا الكتاب؟"
+        },
+        {
+          "en": "Do as I tell you.",
+          "ar": "افعل ما أقول لك."
+        },
+        {
+          "en": "I will do my homework later.",
+          "ar": "سوف أقوم بواجبي المنزلي في وقت لاحق."
+        },
+        {
+          "en": "Did you do well on the exam?",
+          "ar": "هل أبليت بلاءً حسناً في الامتحان؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_doctor",
+      "lessonId": "lsn_a1_d_2",
+      "en": "doctor",
+      "translation": "طبيب",
+      "ar": "طبيب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need to see the doctor.",
+          "ar": "أحتاج إلى زيارة الطبيب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dog",
+      "lessonId": "lsn_a1_d_2",
+      "en": "dog",
+      "translation": "كلب",
+      "ar": "كلب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The dog loves to play outside.",
+          "ar": "يحب الكلب اللعب في الخارج."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dollars",
+      "lessonId": "lsn_a1_d_2",
+      "en": "dollars",
+      "translation": "دولارات",
+      "ar": "دولارات",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He paid ten dollars for lunch.",
+          "ar": "دفع عشرة دولارات مقابل الغداء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_door",
+      "lessonId": "lsn_a1_d_2",
+      "en": "door",
+      "translation": "باب",
+      "ar": "باب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He opened the door for me.",
+          "ar": "لقد فتح هو لي الباب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_down",
+      "lessonId": "lsn_a1_d_2",
+      "en": "down",
+      "translation": "أسفل / للأسفل",
+      "ar": "أسفل / للأسفل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The sun is going down.",
+          "ar": "الشمس تغرب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_downstairs",
+      "lessonId": "lsn_a1_d_2",
+      "en": "downstairs",
+      "translation": "الطابق الأسفل",
+      "ar": "الطابق الأسفل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'll wait for you downstairs.",
+          "ar": "سأنتظرك في الطابق الأسفل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_draw",
+      "lessonId": "lsn_a1_d_2",
+      "en": "draw",
+      "translation": "يرسم",
+      "ar": "يرسم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like to draw in my free time.",
+          "ar": "أحب أن أرسم في وقت فراغي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dress",
+      "lessonId": "lsn_a1_d_2",
+      "en": "dress",
+      "translation": "فستان / فساتين / ملابسه / ارتديت",
+      "ar": "فستان / فساتين / ملابسه / ارتديت",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That red dress looks beautiful.",
+          "ar": "هذا الفستان الأحمر يبدو جميلاً."
+        },
+        {
+          "en": "I dressed quickly then left.",
+          "ar": "ارتديت ملابسي بسرعة وغادرت."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_drink",
+      "lessonId": "lsn_a1_d_2",
+      "en": "drink",
+      "translation": "يشرب / مشروب",
+      "ar": "يشرب / مشروب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I drink coffee every morning.",
+          "ar": "أشرب القهوة كل صباح."
+        },
+        {
+          "en": "She ordered a cold drink.",
+          "ar": "لقد طلبت مشروباً بارداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_drive",
+      "lessonId": "lsn_a1_d_2",
+      "en": "drive",
+      "translation": "يقود",
+      "ar": "يقود",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I drive my car to work every day.",
+          "ar": "أقود سيارتي إلى العمل كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_driver",
+      "lessonId": "lsn_a1_d_2",
+      "en": "driver",
+      "translation": "سائق",
+      "ar": "سائق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The driver turned left quickly.",
+          "ar": "انعطف السائق يساراً بسرعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_during",
+      "lessonId": "lsn_a1_d_2",
+      "en": "during",
+      "translation": "خلال",
+      "ar": "خلال",
+      "pronunciation": "/'duer ın/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I left during the meeting.",
+          "ar": "غادرت خلال الاجتماع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

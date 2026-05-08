@@ -1,0 +1,79 @@
+{
+  "id": "lsn_a2_w_2",
+  "levelId": "lvl_2",
+  "slug": "w-words-2",
+  "title": "Unit 45: W Words - Part 2",
+  "titleAr": "الوحدة 45: كلمات حرف W - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter W.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف W.",
+  "order": 45,
+  "wordCount": 3,
+  "words": [
+    {
+      "id": "w_a2_worry",
+      "en": "worry",
+      "ar": "يقلق",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_w_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed worries me.",
+          "ar": "أحمد يقلقني :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_worse",
+      "en": "worse",
+      "ar": "أسوأ",
+      "pronunciation": "/w3rs/",
+      "lessonId": "lsn_a2_w_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The situation is getting worse.",
+          "ar": "الوضع يزداد سوءًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_worst",
+      "en": "worst",
+      "ar": "الأسوأ",
+      "pronunciation": "/w3rst/",
+      "lessonId": "lsn_a2_w_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have to expect the worst.",
+          "ar": "علينا أن نتوقع الأسوأ :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

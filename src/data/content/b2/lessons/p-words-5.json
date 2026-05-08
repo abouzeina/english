@@ -1,0 +1,497 @@
+{
+  "id": "lsn_b2_p_5",
+  "levelId": "lvl_b2",
+  "title": "Unit 42: P Words - Part 5",
+  "slug": "p-words-5",
+  "order": 42,
+  "wordCount": 20,
+  "titleAr": "الوحدة 42: كلمات حرف P - الجزء 5",
+  "description": "Master essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_b2_proposal",
+      "en": "proposal",
+      "ar": "المقترح",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The proposal aims to improve employee work conditions.",
+          "ar": "يهدف المقترح إلى تحسين ظروف عمل الموظفين."
+        },
+        {
+          "en": "تدرس اللجنة اقتراحاً لإنشاء حديقة جديدة",
+          "ar": "He accepted her proposal of marriage."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈpəʊzəl/"
+    },
+    {
+      "id": "w_b2_proposed",
+      "en": "proposed",
+      "ar": "اقترح",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He proposed adding more resources to the team.",
+          "ar": "اقترح إضافة المزيد من المصادر للفريق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈpəʊzd/"
+    },
+    {
+      "id": "w_b2_prospect",
+      "en": "prospect",
+      "ar": "إمكانية",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They discussed the prospect of expanding into Asia.",
+          "ar": "وناقشوا إمكانية التوسع في آسيا."
+        },
+        {
+          "en": "هناك احتمال ضئيل للتوصل لاتفاق",
+          "ar": "The job offers excellent career prospects."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɒspɛkt/"
+    },
+    {
+      "id": "w_b2_protection",
+      "en": "protection",
+      "ar": "حماية",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The child wore a helmet for extra protection.",
+          "ar": "ارتدى الطفل خوذة لحماية إضافية."
+        },
+        {
+          "en": "يوفر القانون حماية للمستهلكين",
+          "ar": "Wearing a helmet is essential for your protection."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈtɛkʃən/"
+    },
+    {
+      "id": "w_b2_protein",
+      "en": "protein",
+      "ar": "بروتين",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Protein powders are often used for muscle recovery.",
+          "ar": "غالبا ما تستخدم مساحيق البروتين لتعافي العضلات."
+        },
+        {
+          "en": "اللحوم والبيض مصادر جيدة للبروتين",
+          "ar": "Protein is essential for muscle growth."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹəʊti.ɪn/"
+    },
+    {
+      "id": "w_b2_protesters",
+      "en": "protesters",
+      "ar": "المتظاهرون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The protesters raised signs demanding immediate action.",
+          "ar": "رفع المتظاهرون لافتات تطالب باتخاذ إجراءات فورية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_psychological",
+      "en": "psychological",
+      "ar": "النفسي",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Psychological stress can affect physical health.",
+          "ar": "يمكن أن يؤثر الضغط النفسي على الصحة البدنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌsaɪkəˈlɒdʒɪkl/"
+    },
+    {
+      "id": "w_b2_psychologist",
+      "en": "psychologist",
+      "ar": "المعالج النفسي",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The psychologist helped him manage his anxiety.",
+          "ar": "ساعده المعالج النفسي في السيطرة على قلقه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌsaɪˈkɑl.ə.d͡ʒɪst/"
+    },
+    {
+      "id": "w_b2_psychology",
+      "en": "psychology",
+      "ar": "علم النفس",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She studied psychology to understand human behavior.",
+          "ar": "درست علم النفس لفهم السلوك البشري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/saɪˈkɒlədʒɪ/"
+    },
+    {
+      "id": "w_c1_publication",
+      "en": "publication",
+      "ar": "منشور / نشر / إصدار",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "الكتاب هو إصدار حديث",
+          "ar": "The publication of the report was delayed."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌpʌblɪˈkeɪʃən/"
+    },
+    {
+      "id": "w_b2_publications",
+      "en": "publications",
+      "ar": "المنشورات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This is a list of recent publications on this subject.",
+          "ar": "هذه قائمة بالمنشورات الأخيرة حول هذا الموضوع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_publishing",
+      "en": "publishing",
+      "ar": "عالم النشر",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I entered the world of publishing recently.",
+          "ar": "دخلت عالم النشر مؤراً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpʌblɪʃɪŋ/"
+    },
+    {
+      "id": "w_b2_punk",
+      "en": "punk",
+      "ar": "بنك",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Punk is a genre of loud, aggressive rock music.",
+          "ar": "الـ (بنك) هو نوع من موسيقى الروك الصاخبة والعدوانية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pʌŋk/"
+    },
+    {
+      "id": "w_b2_pupil",
+      "en": "pupil",
+      "ar": "تلميذ",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Every pupil wore a uniform to school.",
+          "ar": "ارتدى كل تلميذ زياً موحداً للمدرسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpjuːpəl/"
+    },
+    {
+      "id": "w_b2_purchase",
+      "en": "purchase",
+      "ar": "يشتروا / عملية شراء",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His first big purchase was a new laptop.",
+          "ar": "أول عملية شراء كبيرة قام بها كانت لابتوب جديد."
+        },
+        {
+          "en": "They want to purchase a small cottage nearby.",
+          "ar": "يرغبون أن يشتروا كوخًا صغيرًا في مكان قريب."
+        },
+        {
+          "en": "اشترى سيارة جديدة الأسبوع الماضي",
+          "ar": "The receipt is proof of purchase."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɜːtʃəs/"
+    },
+    {
+      "id": "w_b2_pure",
+      "en": "pure",
+      "ar": "الصافية",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Pure joy filled her heart after hearing the news.",
+          "ar": "ملأت الفرحة الصافية قلبها بعد سماعها الخبر."
+        },
+        {
+          "en": "الماء نقي وآمن للشرب",
+          "ar": "Her decision was based on pure common sense."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpjɔː/"
+    },
+    {
+      "id": "w_b2_purely",
+      "en": "purely",
+      "ar": "بحتة",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The decision was purely based on financial reasons.",
+          "ar": "استند القرار إلى أسباب مالية بحتة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpjɔːli/"
+    },
+    {
+      "id": "w_b2_pursue",
+      "en": "pursue",
+      "ar": "أتابع",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I want to pursue my passion for photography.",
+          "ar": "أريد أن أتابع شغفي في التصوير الفوتوغرافي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəˈʃu/"
+    },
+    {
+      "id": "w_b2_pursuit",
+      "en": "pursuit",
+      "ar": "السعي",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He focused on the pursuit of personal growth.",
+          "ar": "لقد ركز على السعي لأجل تحقيق النمو الشخصي."
+        },
+        {
+          "en": "انتقل للمدينة سعياً وراء حياة أفضل",
+          "ar": "The police were in hot pursuit of the stolen car."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəˈsʉːt/"
+    },
+    {
+      "id": "w_b2_puzzle",
+      "en": "puzzle",
+      "ar": "الأحجية",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I solved the puzzle after several attempts.",
+          "ar": "قمت بحل الأحجية بعد عدة محاولات."
+        },
+        {
+          "en": "لا يزال الغموض لغزاً بالنسبة للشرطة",
+          "ar": "I enjoy doing crossword puzzles."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpʌzəl/"
+    }
+  ]
+}

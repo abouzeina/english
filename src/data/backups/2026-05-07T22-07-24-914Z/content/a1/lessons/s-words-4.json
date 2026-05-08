@@ -1,0 +1,307 @@
+{
+  "id": "lsn_a1_s_4",
+  "levelId": "lvl_1",
+  "title": "S Words - Part 4",
+  "slug": "s-words-4",
+  "order": 39,
+  "wordCount": 13,
+  "titleAr": "كلمات حرف S - الجزء 4",
+  "description": "Learn essential A1 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_a1_stories",
+      "lessonId": "lsn_a1_s_4",
+      "en": "stories",
+      "translation": "قصص",
+      "ar": "قصص",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love listening to stories.",
+          "ar": "أحب الاستماع إلى القصص."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_strong",
+      "lessonId": "lsn_a1_s_4",
+      "en": "strong",
+      "translation": "قوي",
+      "ar": "قوي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You have strong arms.",
+          "ar": "لديك ذراعان قويتان."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_student",
+      "lessonId": "lsn_a1_s_4",
+      "en": "student",
+      "translation": "طالب",
+      "ar": "طالب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He is a new student.",
+          "ar": "إنه طالب جديد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_study",
+      "lessonId": "lsn_a1_s_4",
+      "en": "study",
+      "translation": "أدرس / دراسة",
+      "ar": "أدرس / دراسة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I study before sleeping.",
+          "ar": "أنا أدرس قبل النوم."
+        },
+        {
+          "en": "Did you finish your studies?",
+          "ar": "هل أنهيت دراستك؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_style",
+      "lessonId": "lsn_a1_s_4",
+      "en": "style",
+      "translation": "أسلوب",
+      "ar": "أسلوب",
+      "pronunciation": "/starl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like your writing style.",
+          "ar": "يعجبني أسلوبك في الكتابة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_subject",
+      "lessonId": "lsn_a1_s_4",
+      "en": "subject",
+      "translation": "موضوع / مادة",
+      "ar": "موضوع / مادة",
+      "pronunciation": "/'sab dzəkt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Don't talk about this subject.",
+          "ar": "لا تتحدث عن هذا الموضوع."
+        },
+        {
+          "en": "History is a boring subject.",
+          "ar": "التاريخ مادة مملة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_success",
+      "lessonId": "lsn_a1_s_4",
+      "en": "success",
+      "translation": "نجاح",
+      "ar": "نجاح",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His success made me happy.",
+          "ar": "لقد أسعدني نجاحه."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_summer",
+      "lessonId": "lsn_a1_s_4",
+      "en": "summer",
+      "translation": "صيف",
+      "ar": "صيف",
+      "pronunciation": "/ /sam ər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Summer days are long.",
+          "ar": "أيام الصيف طويلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sun",
+      "lessonId": "lsn_a1_s_4",
+      "en": "sun",
+      "translation": "شمس",
+      "ar": "شمس",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love the morning sun.",
+          "ar": "أحب شمس الصباح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sunday",
+      "lessonId": "lsn_a1_s_4",
+      "en": "Sunday",
+      "translation": "يوم الأحد",
+      "ar": "يوم الأحد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The shop will open on Sunday.",
+          "ar": "سيفتح المتجر يوم الأحد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_supermarket",
+      "lessonId": "lsn_a1_s_4",
+      "en": "supermarket",
+      "translation": "سوبر ماركت",
+      "ar": "سوبر ماركت",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He works at a supermarket.",
+          "ar": "إنه يعمل في سوبر ماركت."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sure",
+      "lessonId": "lsn_a1_s_4",
+      "en": "sure",
+      "translation": "متأكد",
+      "ar": "متأكد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I am sure she is coming.",
+          "ar": "أنا متأكد من أنها قادمة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sweater",
+      "lessonId": "lsn_a1_s_4",
+      "en": "sweater",
+      "translation": "سترة",
+      "ar": "سترة",
+      "pronunciation": "/ sweter/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This sweater keeps me warm.",
+          "ar": "هذه السترة تبقيني دافئاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "id": "lsn_c1_w_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 49: W Words - Part 1",
+  "slug": "w-words-1",
+  "order": 49,
+  "wordCount": 14,
+  "titleAr": "الوحدة 49: كلمات حرف W - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter W.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف W.",
+  "words": [
+    {
+      "id": "w_c1_ward",
+      "en": "ward",
+      "ar": "جناح (في مستشفى) / قسم",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم إدخاله إلى جناح الجراحة بالأمس.",
+          "ar": "The city is divided into several administrative wards."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/wɔːd/"
+    },
+    {
+      "id": "w_c1_warehouse",
+      "en": "warehouse",
+      "ar": "مستودع / مخزن",
+      "pronunciation": "ˈweəhaʊs",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يتم تخزين البضائع في مستودع كبير بالقرب من الميناء.",
+          "ar": "The company is planning to build a new distribution warehouse."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_warfare",
+      "en": "warfare",
+      "ar": "حرب / صراع",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "دمرت سنوات من الحرب الأهلية البلاد.",
+          "ar": "Cyber warfare is a growing threat in the modern world."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈwɔːfɛə/"
+    },
+    {
+      "id": "w_c1_warrant",
+      "en": "warrant",
+      "ar": "مذكرة / يبرر",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الشرطة لديها مذكرة لاعتقاله.",
+          "ar": "The situation does not warrant such a drastic reaction."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈwɒɹənt/"
+    },
+    {
+      "id": "w_c1_warrior",
+      "en": "warrior",
+      "ar": "محارب",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحكي القصة مغامرات محارب شجاع.",
+          "ar": "The ancient warriors used swords and shields in battle."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈwɒɹɪə/"
+    },
+    {
+      "id": "w_c1_weaken",
+      "en": "weaken",
+      "ar": "يضعف",
+      "pronunciation": "ˈwiːkən",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استمرت الفضيحة في إضعاف موقف الحكومة.",
+          "ar": "The illness had weakened him significantly."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_weave",
+      "en": "weave",
+      "ar": "ينسج",
+      "pronunciation": "wiːv",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعلمت كيفية نسج السلال من مواد محلية.",
+          "ar": "The story weaves together several different plot lines."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_weed",
+      "en": "weed",
+      "ar": "عشبة ضارة",
+      "pronunciation": "wiːd",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الحديقة مليئة بالأعشاب الضارة التي يجب إزالتها.",
+          "ar": "He spent the afternoon weeding the flower beds."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_wellbeing",
+      "en": "wellbeing",
+      "ar": "رفاهية / صحة ورخاء",
+      "pronunciation": "ˈwelbiːɪŋ",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الحكومة مسؤولة عن رفاهية مواطنيها.",
+          "ar": "Regular exercise is essential for physical and mental wellbeing."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_whatsoever",
+      "en": "whatsoever",
+      "ar": "على الإطلاق",
+      "pronunciation": "ˌwɒtsəʊˈevə(r)",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لم يكن لديه أي خبرة على الإطلاق في هذا المجال.",
+          "ar": "There is no evidence whatsoever to support the claim."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_whereby",
+      "en": "whereby",
+      "ar": "الذي بموجبه / من خلاله",
+      "pronunciation": "weəˈbaɪ",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وقعوا اتفاقية يتم بموجبها بيع الشركة.",
+          "ar": "The system provides a mechanism whereby complaints can be resolved."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_whip",
+      "en": "whip",
+      "ar": "يجلد / سوط",
+      "pronunciation": "wɪp",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استخدم سوطاً لسياقة الخيول.",
+          "ar": "The wind began to whip the trees back and forth."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_whoever",
+      "en": "whoever",
+      "ar": "أياً كان / من",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أياً كان من فعل هذا يجب أن يُعاقب.",
+          "ar": "The prize will be given to whoever finishes first."
+        },
+        {
+          "en": "Whoever arrives first will get the best seat.",
+          "ar": "أياً يكن الذي يصل أولاً سيحصل على أفضل مقعد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/huˈɛvə/"
+    },
+    {
+      "id": "w_c1_wholly",
+      "en": "wholly",
+      "ar": "تماماً / كلياً",
+      "pronunciation": "ˈhəʊlli",
+      "lessonId": "lsn_c1_w_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "التقرير مبني تماماً على معلومات غير دقيقة.",
+          "ar": "I am not wholly convinced by his argument."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

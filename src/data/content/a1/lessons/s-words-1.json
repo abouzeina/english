@@ -1,43 +1,20 @@
 {
   "id": "lsn_a1_s_1",
-  "levelId": "lvl_1",
-  "title": "S Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 37: S Words - Part 1",
   "slug": "s-words-1",
-  "order": 36,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف S - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter S.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف S.",
+  "order": 37,
+  "wordCount": 23,
+  "titleAr": "الوحدة 37: كلمات حرف S - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_a1_run",
-      "lessonId": "lsn_a1_s_1",
-      "en": "run",
-      "translation": "يجري",
-      "ar": "يجري",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I run every morning.",
-          "ar": "أنا أجري كل صباح."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_sad",
       "lessonId": "lsn_a1_s_1",
       "en": "sad",
       "translation": "حزين",
       "ar": "حزين",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +28,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sæd/"
     },
     {
       "id": "w_a1_salad",
@@ -59,7 +37,6 @@
       "en": "salad",
       "translation": "سلطة",
       "ar": "سلطة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -73,7 +50,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsæləd/"
     },
     {
       "id": "w_a1_salt",
@@ -81,7 +59,6 @@
       "en": "salt",
       "translation": "ملح",
       "ar": "ملح",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -95,7 +72,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sɔlt/"
     },
     {
       "id": "w_a1_same",
@@ -191,12 +169,18 @@
         {
           "en": "Please say something.",
           "ar": "أرجوك قل شيئاً."
+        },
+        {
+          "en": "يجب أن يكون لكل شخص رأي في كيفية إدارة المدرسة",
+          "ar": "I have no say in the decision."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -207,7 +191,6 @@
       "en": "school",
       "translation": "مدرسة",
       "ar": "مدرسة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -221,7 +204,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/skuːl/"
     },
     {
       "id": "w_a1_science",
@@ -287,12 +271,17 @@
         {
           "en": "He won second place.",
           "ar": "فاز بالمركز الثاني."
+        },
+        {
+          "en": "Our team came in second.",
+          "ar": "جاء فريقنا في المركز الثاني."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -325,7 +314,6 @@
       "en": "see",
       "translation": "يرى",
       "ar": "يرى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -339,7 +327,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/siː/"
     },
     {
       "id": "w_a1_sell",
@@ -369,7 +358,6 @@
       "en": "send",
       "translation": "يرسل",
       "ar": "يرسل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -383,7 +371,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sɛnd/"
     },
     {
       "id": "w_a1_sentence",
@@ -397,12 +386,18 @@
         {
           "en": "Give me a short sentence.",
           "ar": "أعطني جملة قصيرة."
+        },
+        {
+          "en": "The court will sentence the criminal next Monday.",
+          "ar": "المحكمة سوف تصدر حكمها على المجرم يوم الاثنين المقبل."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -439,7 +434,6 @@
       "en": "seven",
       "translation": "سبعة / السابعة",
       "ar": "سبعة / السابعة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -453,7 +447,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛv.ən/"
     },
     {
       "id": "w_a1_seventeen",
@@ -461,7 +456,6 @@
       "en": "seventeen",
       "translation": "سبعة عشر",
       "ar": "سبعة عشر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -475,7 +469,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛv.ən.tiːn/"
     },
     {
       "id": "w_a1_seventy",
@@ -483,7 +478,6 @@
       "en": "seventy",
       "translation": "سبعين",
       "ar": "سبعين",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -497,7 +491,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛv.ən.di/"
     },
     {
       "id": "w_a1_share",
@@ -511,12 +506,17 @@
         {
           "en": "Let's share the cake.",
           "ar": "دعنا نتشارك الكعكة."
+        },
+        {
+          "en": "Our share of the profits increased this year.",
+          "ar": "حصتنا من الأرباح زادت هذا العام."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -527,7 +527,6 @@
       "en": "she",
       "translation": "هي / إنها",
       "ar": "هي / إنها",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -541,7 +540,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ʃiː/"
     },
     {
       "id": "w_a1_sheep",
@@ -555,28 +555,6 @@
         {
           "en": "Sheep like to stay together.",
           "ar": "تحب الأغنام البقاء مع بعضها."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_shirt",
-      "lessonId": "lsn_a1_s_1",
-      "en": "shirt",
-      "translation": "قميص",
-      "ar": "قميص",
-      "pronunciation": "/f3rt/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Where is my blue shirt?",
-          "ar": "أين قميصي الأزرق؟"
         }
       ],
       "difficulty": "A1",

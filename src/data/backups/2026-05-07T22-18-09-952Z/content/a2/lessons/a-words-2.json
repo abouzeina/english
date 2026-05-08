@@ -1,0 +1,571 @@
+{
+  "id": "lsn_a2_a_2",
+  "levelId": "lvl_2",
+  "slug": "a-words-2",
+  "title": "Unit 2: A Words - Part 2",
+  "titleAr": "الوحدة 2: كلمات حرف A - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف A.",
+  "order": 2,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_along",
+      "en": "along",
+      "ar": "على طول / مع",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They walked slowly along the road.",
+          "ar": "ساروا ببطء على طول الطريق."
+        },
+        {
+          "en": "He started singing, and we all sang along.",
+          "ar": "بدأ بالغناء، وبدأنا جميعًا بالغناء معه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_already",
+      "en": "already",
+      "ar": "بالفعل / مسبقا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is already making progress",
+          "ar": "علي يحرز تقدمًا بالفعل"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_alternative",
+      "en": "alternative",
+      "ar": "بديل",
+      "pronunciation": "/əl tər nə tv/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are no other alternatives.",
+          "ar": "لا توجد بدائل أخرى"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_although",
+      "en": "although",
+      "ar": "على الرغم من",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Although small, the kitchen is well designed",
+          "ar": "على الرغم من صغر حجم المطبخ، إلا أنه مصمم بشكل جيد"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_among",
+      "en": "among",
+      "ar": "بين / من بين",
+      "pronunciation": "/ə'mʌŋ/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The house is among the trees.",
+          "ar": "المنزل بين الأشجار"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_amount",
+      "en": "amount",
+      "ar": "قدر / كمية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your project needs a large amount of money.",
+          "ar": "يحتاج مشروعك إلى قدر كبير من المال"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ancient",
+      "en": "ancient",
+      "ar": "قديم / عتيق",
+      "pronunciation": "/'ein Jent/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is a very ancient book.",
+          "ar": "هذا كتاب قديم جدا"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ankle",
+      "en": "ankle",
+      "ar": "كاحل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He broke his ankle.",
+          "ar": "كسر كاحله"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_any",
+      "en": "any",
+      "ar": "أي / على الإطلاق",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "That film wasn't any good.",
+          "ar": "لم يكن الفيلم جيدًا على الإطلاق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_anymore",
+      "en": "anymore",
+      "ar": "بعد الآن",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Nobody believes that anymore.",
+          "ar": "لم يعد أحد يصدق بذلك"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_anybody",
+      "en": "anybody",
+      "ar": "أي شخص / أحد",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Does anybody want another piece of cake?",
+          "ar": "هل يريد أي شخص قطعة أخرى من الكعكة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_anyway",
+      "en": "anyway",
+      "ar": "على أي حال",
+      "pronunciation": "/'en-i wer/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The idea is stupid anyway.",
+          "ar": "الفكرة غبية على أي حال"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_anywhere",
+      "en": "anywhere",
+      "ar": "في أي مكان",
+      "pronunciation": "/'en-i hweǝr/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sit down anywhere you want.",
+          "ar": "اجلس في أي مكان تريد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_app",
+      "en": "app",
+      "ar": "تطبيق",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A lot of people use this app.",
+          "ar": "الكثير من الناس يستخدمون هذا التطبيق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_appear",
+      "en": "appear",
+      "ar": "يظهر / يبدو",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He often appears on TV.",
+          "ar": "غالبا ما يظهر على شاشة التلفاز"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_appearance",
+      "en": "appearance",
+      "ar": "مظهر",
+      "pronunciation": "/ə'pıər-əns/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He has a friendly appearance.",
+          "ar": "لديه مظهر ودود"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_apply",
+      "en": "apply",
+      "ar": "يتقدم بطلب",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali applied for the job.",
+          "ar": "تقدم علي للوظيفة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_architect",
+      "en": "architect",
+      "ar": "مهندس معماري",
+      "pronunciation": "/ar-kz tekt/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali wants to be a successful architect.",
+          "ar": "يريد علي أن يكون مهندسا معماريا ناجحًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_architecture",
+      "en": "architecture",
+      "ar": "هندسة معمارية",
+      "pronunciation": "/ar-kı tek tfər/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She is studying architecture.",
+          "ar": "إنها تدرس الهندسة المعمارية"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_argue",
+      "en": "argue",
+      "ar": "يجادل",
+      "pronunciation": "/'ar-gju/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't argue with me.",
+          "ar": "لا تجادلني"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_argument",
+      "en": "argument",
+      "ar": "جدال / نقاش",
+      "pronunciation": "/'ar-gjə-mənt/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I try to avoid arguments.",
+          "ar": "أحاول أن أتجنب الجدال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_army",
+      "en": "army",
+      "ar": "جيش",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My cousin joined the army.",
+          "ar": "ابن عمي انضم إلى الجيش."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_arrange",
+      "en": "arrange",
+      "ar": "يرتب / ينظم",
+      "pronunciation": "/ə'reindz/",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can we arrange a meeting?",
+          "ar": "هل يمكن أن نرتب لقاء : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_arrangement",
+      "en": "arrangement",
+      "ar": "ترتيب / تنظيم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "All the arrangements were made by Ali.",
+          "ar": "تم إجراء جميع الترتيبات من قبل علي"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_as",
+      "en": "as",
+      "ar": "مثل / كـ / بينما",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You're as tall as your brother.",
+          "ar": "أنت طويل كأخيك."
+        },
+        {
+          "en": "Leave the papers as they are",
+          "ar": "اترك الأوراق كما هي"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

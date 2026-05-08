@@ -1,0 +1,79 @@
+{
+  "id": "lsn_b2_f_3",
+  "levelId": "lvl_b2",
+  "slug": "f-words-3",
+  "title": "F Words - Part 3",
+  "titleAr": "كلمات حرف F - الجزء 3",
+  "description": "Learn essential B2 vocabulary starting with the letter F.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف F.",
+  "order": 26,
+  "wordCount": 3,
+  "words": [
+    {
+      "id": "w_b2_funds",
+      "en": "funds",
+      "ar": "تمويل / نقص التمويل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They canceled the project because of a lack of funds.",
+          "ar": "ألغوا المشروع بسبب نقص التمويل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_furious",
+      "en": "furious",
+      "ar": "غاضبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She was furious when she discovered that I had lied to her.",
+          "ar": "كانت غاضبة عندما اكتشفت أنني كذبت عليها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_furthermore",
+      "en": "furthermore",
+      "ar": "علاوة على ذلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He didn't call; furthermore, he didn't show up.",
+          "ar": "لم يتصل؛ علاوة على ذلك، لم يحضر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

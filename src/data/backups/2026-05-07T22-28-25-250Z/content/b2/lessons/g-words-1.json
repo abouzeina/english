@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_g_1",
+  "levelId": "lvl_b2",
+  "slug": "g-words-1",
+  "title": "G Words - Part 1",
+  "titleAr": "كلمات حرف G - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter G.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف G.",
+  "order": 27,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_gain",
+      "en": "gain",
+      "ar": "زيادة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gained",
+      "en": "gained",
+      "ar": "اكتسبت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gaming",
+      "en": "gaming",
+      "ar": "الألعاب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gang",
+      "en": "gang",
+      "ar": "عصابة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gay",
+      "en": "gay",
+      "ar": "شاذ جنسيا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_genders",
+      "en": "genders",
+      "ar": "الجنسين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_generate",
+      "en": "generate",
+      "ar": "ينشئ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_genes",
+      "en": "genes",
+      "ar": "الجينات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_genetic",
+      "en": "genetic",
+      "ar": "وراثي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_genius",
+      "en": "genius",
+      "ar": "عبقريا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_genre",
+      "en": "genre",
+      "ar": "النوع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_genuine",
+      "en": "genuine",
+      "ar": "حقيقي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_genuinely",
+      "en": "genuinely",
+      "ar": "حقًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gesture",
+      "en": "gesture",
+      "ar": "حركة بسيطة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gig",
+      "en": "gig",
+      "ar": "عرض موسيقي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_globalization",
+      "en": "Globalization",
+      "ar": "العولمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_globe",
+      "en": "globe",
+      "ar": "المعمورة / العالم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_golden",
+      "en": "golden",
+      "ar": "ذهبية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_goodness",
+      "en": "goodness",
+      "ar": "الخير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gorgeous",
+      "en": "gorgeous",
+      "ar": "رائعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_govern",
+      "en": "govern",
+      "ar": "تحكم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_governor",
+      "en": "governor",
+      "ar": "الحاكم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_grabbed",
+      "en": "grabbed",
+      "ar": "أمسكت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_grade",
+      "en": "grade",
+      "ar": "يصحح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gradually",
+      "en": "gradually",
+      "ar": "تدريجياً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

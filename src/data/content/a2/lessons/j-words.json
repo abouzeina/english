@@ -1,0 +1,153 @@
+{
+  "id": "lsn_a2_j",
+  "levelId": "lvl_a2",
+  "title": "Unit 20: J Words",
+  "slug": "j-words",
+  "order": 20,
+  "wordCount": 6,
+  "titleAr": "الوحدة 20: كلمات حرف J",
+  "description": "Master essential A2 vocabulary starting with the letter J.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف J.",
+  "words": [
+    {
+      "id": "w_a2_jam",
+      "en": "jam",
+      "ar": "مربى",
+      "lessonId": "lsn_a2_j",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She made jam from the apples.",
+          "ar": "صنعت مربى من التفاح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈdʒæːm/"
+    },
+    {
+      "id": "w_a2_jazz",
+      "en": "jazz",
+      "ar": "جاز",
+      "lessonId": "lsn_a2_j",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am very interested in jazz.",
+          "ar": "أنا مهتم جدًا بموسيقى الجاز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/d͡ʒæz/"
+    },
+    {
+      "id": "w_a2_jewelry",
+      "en": "jewelry",
+      "ar": "مجوهرات",
+      "pronunciation": "/dzu əl-ri/",
+      "lessonId": "lsn_a2_j",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She wears a lot of jewelry.",
+          "ar": "إنها ترتدي الكثير من المجوهرات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_joke",
+      "en": "joke",
+      "ar": "نكتة / أمزح",
+      "pronunciation": "/dzouk/",
+      "lessonId": "lsn_a2_j",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your joke is not funny",
+          "ar": "نكتك ليست مضحكة :"
+        },
+        {
+          "en": "I'm joking, of course.",
+          "ar": "أنا أمزح بالطبع :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_journalist",
+      "en": "journalist",
+      "ar": "صحفي",
+      "pronunciation": "/d33r nəl ist/",
+      "lessonId": "lsn_a2_j",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are you a journalist or a detective ?",
+          "ar": "هل أنت صحفي أم محقق : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_jump",
+      "en": "jump",
+      "ar": "قفز / قفزة",
+      "pronunciation": "/d3amp/",
+      "lessonId": "lsn_a2_j",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali jumped off his bed",
+          "ar": "قفز علي من سريره."
+        },
+        {
+          "en": "There is a jump in prices these days",
+          "ar": "هناك قفزة في الأسعار هذه الأيام :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

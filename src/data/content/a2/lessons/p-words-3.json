@@ -1,14 +1,64 @@
 {
   "id": "lsn_a2_p_3",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 30: P Words - Part 3",
   "slug": "p-words-3",
-  "title": "Unit 31: P Words - Part 3",
-  "titleAr": "الوحدة 31: كلمات حرف P - الجزء 3",
-  "description": "Build on your A2 vocabulary starting with the letter P.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف P.",
-  "order": 31,
-  "wordCount": 18,
+  "order": 30,
+  "wordCount": 21,
+  "titleAr": "الوحدة 30: كلمات حرف P - الجزء 3",
+  "description": "Master essential A2 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف P.",
   "words": [
+    {
+      "id": "w_a2_prevent",
+      "en": "prevent",
+      "ar": "يمنع",
+      "pronunciation": "/prx'vent/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Bad weather prevented us from leaving.",
+          "ar": "منعنا : سوء الأحوال الجوية من المغادرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_print",
+      "en": "print",
+      "ar": "يطبع",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have to print 100 pages.",
+          "ar": "علي أن أطبع 100 صفحة :"
+        },
+        {
+          "en": "The print on the invitation was elegant and clear.",
+          "ar": "كانت الطباعة على الدعوة أنيقة وواضحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "ipa": "/pɹɪnt/"
+    },
     {
       "id": "w_a2_printer",
       "en": "printer",
@@ -57,7 +107,6 @@
       "id": "w_a2_prize",
       "en": "prize",
       "ar": "جائزة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_p_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -73,7 +122,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/pɹaɪz/"
     },
     {
       "id": "w_a2_process",
@@ -87,13 +137,24 @@
         {
           "en": "You need to repeat the same process.",
           "ar": "تحتاج إلى تكرار نفس العملية : سلسلة من التغيرات :"
+        },
+        {
+          "en": "She's still trying to process their sudden departure.",
+          "ar": "لا تزال تحاول استيعاب رحيلهم المفاجئ."
+        },
+        {
+          "en": "عملية السلام بطيئة وصعبة",
+          "ar": "Learning a new language is a long process."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced",
+        "C1"
       ],
       "confidence": "high"
     },
@@ -109,13 +170,19 @@
         {
           "en": "We need to produce our own food.",
           "ar": "نحن بحاجة إلى أن ننتج طعامنا بأنفسنا :"
+        },
+        {
+          "en": "Local farms supply the best quality produce.",
+          "ar": "توفر المزارع المحلية أفضل المنتجات الزراعية ذات الجودة العالية."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -131,13 +198,19 @@
         {
           "en": "Ali is a professional driver.",
           "ar": "علي سائق محترف."
+        },
+        {
+          "en": "قدم نصيحة مهنية (احترافية) في هذا الأمر",
+          "ar": "She is a professional musician."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -167,7 +240,6 @@
       "id": "w_a2_profile",
       "en": "profile",
       "ar": "ملف شخصي",
-      "pronunciation": "",
       "lessonId": "lsn_a2_p_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -175,59 +247,60 @@
         {
           "en": "I have to change my profile picture.",
           "ar": "لا بد أن أغير صورة ملفي الشخصي."
+        },
+        {
+          "en": "نشرت الصحيفة نبذة عن المرشح",
+          "ar": "You can update your profile on the website."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈpɹəʊfaɪl/"
     },
     {
-      "id": "w_a2_program",
-      "en": "program",
-      "ar": "برنامج",
-      "pronunciation": "",
+      "id": "w_a1_program",
       "lessonId": "lsn_a2_p_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
+      "en": "program",
+      "translation": "برنامج",
+      "ar": "برنامج",
+      "type": "word",
       "examples": [
+        {
+          "en": "I missed my favorite program.",
+          "ar": "فاتني برنامجي المفضل."
+        },
         {
           "en": "Copy this program to your computer.",
           "ar": "انسخ هذا البرنامج إلى حاسوبك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_progress",
-      "en": "progress",
-      "ar": "تقدم",
-      "pronunciation": "/'pra-gres/",
-      "lessonId": "lsn_a2_p_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "I think you are making progress.",
-          "ar": "أعتقد أنك تحرز تقدمًا."
+          "en": "We will teach you how to program.",
+          "ar": "سوف نعلمك كيف تبرمج."
+        },
+        {
+          "en": "تطلق الحكومة برنامجاً جديداً لمساعدة العاطلين عن العمل",
+          "ar": "What is your favorite television program?"
         }
       ],
-      "type": "word",
       "difficulty": "A2",
       "tags": [
+        "core",
         "A2",
-        "core"
+        "B1",
+        "C1",
+        "advanced"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹoʊˌɡɹæm/",
+      "levelId": "lvl_a2"
     },
     {
       "id": "w_a2_promise",
@@ -325,7 +398,6 @@
       "id": "w_a2_pub",
       "en": "pub",
       "ar": "حانة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_p_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -341,7 +413,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/pʊb/"
     },
     {
       "id": "w_a2_public",
@@ -381,13 +454,19 @@
         {
           "en": "He published two books.",
           "ar": "نشر كتابين :"
+        },
+        {
+          "en": "تنشر الشركة عدة صحف يومية",
+          "ar": "He decided to publish his memoirs."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -407,6 +486,55 @@
         {
           "en": "You push, we pull.",
           "ar": "أنت ادفع ونحن سنسحب :"
+        },
+        {
+          "en": "I gave the door a strong pull.",
+          "ar": "أعطيت الباب شدة قوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_purpose",
+      "en": "purpose",
+      "ar": "غرض / هدف",
+      "pronunciation": "/ par-pes/",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the main purpose of this plan?",
+          "ar": "ما هو الغرض الرئيسي من هذه الخطة | هَدف / غاية / غَرَض | : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_push",
+      "en": "push",
+      "ar": "دفعة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_3",
+      "levelId": "lvl_a2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Give it a push?",
+          "ar": "أعطها دفعة ؟"
         }
       ],
       "type": "word",

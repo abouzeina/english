@@ -1,19 +1,150 @@
 {
   "id": "lsn_a2_a_3",
-  "levelId": "lvl_2",
-  "slug": "a-words-3",
+  "levelId": "lvl_a2",
   "title": "Unit 3: A Words - Part 3",
-  "titleAr": "الوحدة 3: كلمات حرف A - الجزء 3",
-  "description": "Build on your A2 vocabulary starting with the letter A.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف A.",
+  "slug": "a-words-3",
   "order": 3,
-  "wordCount": 13,
+  "wordCount": 20,
+  "titleAr": "الوحدة 3: كلمات حرف A - الجزء 3",
+  "description": "Master essential A2 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف A.",
   "words": [
+    {
+      "id": "w_a2_architecture",
+      "en": "architecture",
+      "ar": "هندسة معمارية",
+      "pronunciation": "/ar-kı tek tfər/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She is studying architecture.",
+          "ar": "إنها تدرس الهندسة المعمارية"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_argue",
+      "en": "argue",
+      "ar": "يجادل",
+      "pronunciation": "/'ar-gju/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't argue with me.",
+          "ar": "لا تجادلني"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_argument",
+      "en": "argument",
+      "ar": "جدال / نقاش",
+      "pronunciation": "/'ar-gjə-mənt/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I try to avoid arguments.",
+          "ar": "أحاول أن أتجنب الجدال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_army",
+      "en": "army",
+      "ar": "جيش",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My cousin joined the army.",
+          "ar": "ابن عمي انضم إلى الجيش."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈɑː.miː/"
+    },
+    {
+      "id": "w_a2_arrange",
+      "en": "arrange",
+      "ar": "يرتب / ينظم",
+      "pronunciation": "/ə'reindz/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can we arrange a meeting?",
+          "ar": "هل يمكن أن نرتب لقاء : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_arrangement",
+      "en": "arrangement",
+      "ar": "ترتيب / تنظيم",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "All the arrangements were made by Ali.",
+          "ar": "تم إجراء جميع الترتيبات من قبل علي"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/əˈɹeɪnd͡ʒmənt/"
+    },
     {
       "id": "w_a2_asleep",
       "en": "asleep",
       "ar": "نائم",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -29,7 +160,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈsliːp/"
     },
     {
       "id": "w_a2_assistant",
@@ -105,7 +237,6 @@
       "id": "w_a2_attend",
       "en": "attend",
       "ar": "يحضر",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -121,7 +252,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈtɛnd/"
     },
     {
       "id": "w_a2_attention",
@@ -193,7 +325,6 @@
       "id": "w_a2_author",
       "en": "author",
       "ar": "كاتب / مؤلف",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -209,7 +340,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈɔː.θə/"
     },
     {
       "id": "w_a2_available",
@@ -237,7 +369,6 @@
       "id": "w_a2_average",
       "en": "average",
       "ar": "متوسط / معدل",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_3",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -245,15 +376,21 @@
         {
           "en": "What's the average age of students in this class ?",
           "ar": "ما هو متوسط عمر الطلاب في هذا الفصل ؟"
+        },
+        {
+          "en": "Oil price is expected to average 91 dollars per barrel.",
+          "ar": "ومن المتوقع أن يبلغ متوسط سعر النفط 91 دولارا للبرميل."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈævəɹɪd͡ʒ/"
     },
     {
       "id": "w_a2_avoid",
@@ -289,6 +426,28 @@
         {
           "en": "Ali has won many awards this year.",
           "ar": "حصل علي على العديد من الجوائز هذا العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_awful",
+      "en": "awful",
+      "ar": "فظيع / كريه",
+      "pronunciation": "/  fəl/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There's an awful smell in here.",
+          "ar": "هناك رائحة كريهة هنا"
         }
       ],
       "type": "word",

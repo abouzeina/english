@@ -1,0 +1,549 @@
+{
+  "id": "lsn_b2_a_3",
+  "levelId": "lvl_b2",
+  "title": "Unit 3: A Words - Part 3",
+  "slug": "a-words-3",
+  "order": 3,
+  "wordCount": 24,
+  "titleAr": "الوحدة 3: كلمات حرف A - الجزء 3",
+  "description": "Master essential B2 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف A.",
+  "words": [
+    {
+      "id": "w_b2_animation",
+      "en": "animation",
+      "ar": "رسوم متحركة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My kids and I watch a new animation movie every week.",
+          "ar": "أنا وأطفالي نشاهد فيلم رسوم متحركة جديد كل أسبوع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anniversary",
+      "en": "anniversary",
+      "ar": "ذكرى سنوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Tomorrow is our wedding anniversary.",
+          "ar": "غدًا هو ذكرى زواجنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_annual",
+      "en": "annual",
+      "ar": "سنوي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The annual growth rate of the company is 15%.",
+          "ar": "معدل النمو السنوي للشركة هو 15%."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_annually",
+      "en": "annually",
+      "ar": "سنوياً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The conference is held annually.",
+          "ar": "يعقد المؤتمر سنوياً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anticipate",
+      "en": "anticipate",
+      "ar": "يتوقع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I anticipate many teams will participate.",
+          "ar": "أتوقع أن تشارك العديد من الفرق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anxiety",
+      "en": "anxiety",
+      "ar": "قلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My colleague suffers from social anxiety.",
+          "ar": "زميلي يعاني من القلق الاجتماعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anxious",
+      "en": "anxious",
+      "ar": "قلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your mother is anxious about your future.",
+          "ar": "والدتك قلقة على مستقبلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_apology",
+      "en": "apology",
+      "ar": "اعتذار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I offer you my apology for anything I did wrong.",
+          "ar": "أقدم لك اعتذاري عن أي خطأ فعلته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_apparent",
+      "en": "apparent",
+      "ar": "واضح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "For no apparent reason, the request was rejected.",
+          "ar": "وبدون سبب واضح، تم رفض الطلب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_apparently",
+      "en": "apparently",
+      "ar": "يبدو أن / بوضوح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I thought he had retired, but apparently he hasn't.",
+          "ar": "اعتقدت أنه قد تقاعد، ولكن يبدو أنه لم يفعل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_appeal",
+      "en": "appeal",
+      "ar": "إعجاب / جاذبية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Did the painting appeal to you ?",
+          "ar": "هل نالت اللوحة إعجابك ؟"
+        },
+        {
+          "en": "Their products lack commercial appeal.",
+          "ar": "منتجاتهم تفتقر إلى الجاذبية التجارية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_applicant",
+      "en": "applicant",
+      "ar": "متقدم للوظيفة",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There were over 200 applicants for the job.",
+          "ar": "كان هناك أكثر من 200 متقدم للوظيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæp.lə.kɪnt/"
+    },
+    {
+      "id": "w_b2_approach",
+      "en": "approach",
+      "ar": "يقترب / أسلوب",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A strong storm is approaching our area.",
+          "ar": "عاصفة قوية تقترب من منطقتنا."
+        },
+        {
+          "en": "We need an alternative approach to deal with this problem.",
+          "ar": "نحن بحاجة إلى أسلوب بديل للتعامل مع هذه المشكلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈpɹəʊt͡ʃ/"
+    },
+    {
+      "id": "w_b2_appropriate",
+      "en": "appropriate",
+      "ar": "مناسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "When is the appropriate time to announce the results ?",
+          "ar": "متى هو الوقت المناسب لاعلان النتائج ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_appropriately",
+      "en": "appropriately",
+      "ar": "بشكل مناسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They didn't act appropriately in the hall.",
+          "ar": "لم يتصرفوا بشكل مناسب في القاعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_approval",
+      "en": "approval",
+      "ar": "رضا / موافقة",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He wanted to win her mother's approval.",
+          "ar": "أراد أن يفوز برضا والدتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈpɹuːvəl/"
+    },
+    {
+      "id": "w_b2_approve",
+      "en": "approve",
+      "ar": "يوافق",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She didn't quite approve of the way her son wears clothes.",
+          "ar": "لم توافق تمامًا على الطريقة التي يرتدي بها ابنها الملابس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈpɹuːv/"
+    },
+    {
+      "id": "w_b2_arise",
+      "en": "arise",
+      "ar": "تنشأ / تظهر",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A serious problem can arise if we stop production.",
+          "ar": "يمكن أن تنشأ مشكلة خطيرة إذا توقفنا عن الإنتاج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈɹaɪz/"
+    },
+    {
+      "id": "w_b2_armed",
+      "en": "armed",
+      "ar": "مسلح",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Four armed men were seen at the scene.",
+          "ar": "شوهد أربعة رجال مسلحين في مكان الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɑːmd/"
+    },
+    {
+      "id": "w_b2_arms",
+      "en": "arms",
+      "ar": "أسلحة",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Police officers in this country do not usually carry arms.",
+          "ar": "ضابط الشرطة في هذا البلد لا يحملون أسلحة في العادة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɑːmz/"
+    },
+    {
+      "id": "w_b2_arrow",
+      "en": "arrow",
+      "ar": "سهم",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His hobby is hunting birds with arrows.",
+          "ar": "هواية صيد الطيور بالسهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæɹ.əʊ/"
+    },
+    {
+      "id": "w_b2_artificial_intelligence",
+      "en": "artificial intelligence",
+      "ar": "الذكاء الاصطناعي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am taking a course in artificial intelligence.",
+          "ar": "أنا آخذ دورة في الذكاء الاصطناعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_artistic",
+      "en": "artistic",
+      "ar": "فني",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your child has artistic talent.",
+          "ar": "طفلك لديه موهبة فنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɑːˈtɪstɪk/"
+    },
+    {
+      "id": "w_b2_artwork",
+      "en": "artwork",
+      "ar": "أعمال فنية",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A collection of artworks from Asian cultures.",
+          "ar": "مجموعة من الأعمال الفنية من الثقافات الآسيوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɑːtˌwɜːk/"
+    }
+  ]
+}

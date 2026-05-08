@@ -1,0 +1,145 @@
+{
+  "id": "lsn_b2_b_3",
+  "levelId": "lvl_b2",
+  "slug": "b-words-3",
+  "title": "B Words - Part 3",
+  "titleAr": "كلمات حرف B - الجزء 3",
+  "description": "Learn essential B2 vocabulary starting with the letter B.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف B.",
+  "order": 8,
+  "wordCount": 6,
+  "words": [
+    {
+      "id": "w_b2_bug",
+      "en": "bug",
+      "ar": "خطأ برمي / علة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your software is full of bugs.",
+          "ar": "برنامجك مليء بال أخطاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bullet",
+      "en": "bullet",
+      "ar": "رصاصة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The policeman fired live bullets at the killer.",
+          "ar": "أطلق الشرطي الرصاص الحي على القاتل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bunch",
+      "en": "bunch",
+      "ar": "حفنة / مجموعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He says that lawyers are a bunch of thieves.",
+          "ar": "يقول أن المحامين هم حفنة من اللصوص."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_burn",
+      "en": "burn",
+      "ar": "حرق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He suffered serious burns but survived.",
+          "ar": "أصيب بحروق خطيرة لكنه نجا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bush",
+      "en": "bush",
+      "ar": "شجيرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I found him hiding in the bushes.",
+          "ar": "وجدته مختبئا بين الشجيرات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_but",
+      "en": "but",
+      "ar": "إلا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is no god but Allah.",
+          "ar": "لا إله إلا الله"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

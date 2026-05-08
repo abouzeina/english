@@ -1,0 +1,426 @@
+{
+  "id": "lsn_c1_r_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 36: R Words - Part 3",
+  "slug": "r-words-3",
+  "order": 36,
+  "wordCount": 19,
+  "titleAr": "الوحدة 36: كلمات حرف R - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف R.",
+  "words": [
+    {
+      "id": "w_c1_renowned",
+      "en": "renowned",
+      "ar": "مشهور / ذائع الصيت",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنها عالمة مشهورة في مجال علم الوراثة",
+          "ar": "The restaurant is renowned for its excellent seafood."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈnaʊnd/"
+    },
+    {
+      "id": "w_c1_rental",
+      "en": "rental",
+      "ar": "إيجار / قيمة إيجارية",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الإيجار الشهري للشقة مرتفع جداً",
+          "ar": "We are looking for a car rental office near the airport."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛntəl/"
+    },
+    {
+      "id": "w_c1_replacement",
+      "en": "replacement",
+      "ar": "بديل / استبدال",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحن بحاجة لإيجاد بديل للنافذة المكسورة",
+          "ar": "The replacement of the old system will take several months."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈpleɪsmənt/"
+    },
+    {
+      "id": "w_c1_reportedly",
+      "en": "reportedly",
+      "ar": "حسب التقارير / يقال أن",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يقال حسب التقارير أن الرئيس يفكر في سياسة جديدة",
+          "ar": "The accident was reportedly caused by human error."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈpɔːtɪdli/"
+    },
+    {
+      "id": "w_c1_representation",
+      "en": "representation",
+      "ar": "تمثيل / عرض / تصوير",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لكل منطقة تمثيل في البرلمان الوطني",
+          "ar": "The lawyer provided legal representation for the defendant."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɹɛp.ɹə.zɛn.ˈteɪ.ʃən/"
+    },
+    {
+      "id": "w_c1_reproduce",
+      "en": "reproduce",
+      "ar": "يتكاثر / يعيد إنتاج / ينسخ",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتكاثر معظم الحيوانات عن طريق وضع البيض أو الولادة",
+          "ar": "It is difficult to reproduce the exact results of the experiment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɹi.pɹoʊˈdjus/"
+    },
+    {
+      "id": "w_c1_reproduction",
+      "en": "reproduction",
+      "ar": "تكاثر / إعادة إنتاج / نسخة",
+      "pronunciation": "ˌriːprəˈdʌkʃn",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يتضمن الكتاب عدة نسخ ملونة من اللوحات",
+          "ar": "The study focuses on the reproduction of various species."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_republic",
+      "en": "republic",
+      "ar": "جمهورية",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أصبحت البلاد جمهورية بعد الثورة",
+          "ar": "He was elected president of the republic."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[ɹɪˈpʌblɪk]/"
+    },
+    {
+      "id": "w_c1_resemble",
+      "en": "resemble",
+      "ar": "يشبه",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يشبه الأخوان بعضهما البعض كثيراً",
+          "ar": "The building resembles a giant pyramid."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈzɛmb(ə)l/"
+    },
+    {
+      "id": "w_c1_reside",
+      "en": "reside",
+      "ar": "يقيم / يسكن / يكمن في",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تقيم العائلة في قرية صغيرة في الجبال",
+          "ar": "The power to change the law resides with the parliament."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈzaɪd/"
+    },
+    {
+      "id": "w_c1_residence",
+      "en": "residence",
+      "ar": "سكن / إقامة / منزل",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المقر الرسمي لإقامة الرئيس هو البيت الأبيض",
+          "ar": "You must provide proof of residence to apply for the job."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛz.ɪ.dəns/"
+    },
+    {
+      "id": "w_c1_residential",
+      "en": "residential",
+      "ar": "سكني",
+      "pronunciation": "ˌrezɪˈdenʃl",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المنطقة سكنية بشكل أساسي وبها محلات قليلة",
+          "ar": "The company is building a new residential complex."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_residue",
+      "en": "residue",
+      "ar": "بقايا / مخلفات (كيميائية)",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يترك مبيد الآفات بقايا سامة على الفاكهة",
+          "ar": "The cleaning fluid left a sticky residue on the table."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛzɪdjuː/"
+    },
+    {
+      "id": "w_c1_resignation",
+      "en": "resignation",
+      "ar": "استقالة / استسلام (للأمر الواقع)",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعلن المدير استقالته بالأمس",
+          "ar": "She accepted the news with a sense of resignation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɛzɪɡˈneɪʃən/"
+    },
+    {
+      "id": "w_c1_resistance",
+      "en": "resistance",
+      "ar": "مقاومة / معارضة",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "واجهت الخطة الجديدة الكثير من المقاومة من السكان المحليين",
+          "ar": "The body's resistance to infection decreases with age."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈzɪstəns/"
+    },
+    {
+      "id": "w_c1_respective",
+      "en": "respective",
+      "ar": "خاص بكل منهما / على التوالي",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عاد الأطفال إلى منازلهم الخاصة (كل إلى منزله)",
+          "ar": "The winners received their respective awards."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈspɛktɪv/"
+    },
+    {
+      "id": "w_c1_respectively",
+      "en": "respectively",
+      "ar": "على التوالي",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈspɛktɪvli/"
+    },
+    {
+      "id": "w_c1_restoration",
+      "en": "restoration",
+      "ar": "ترميم / استعادة / إرجاع",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استغرق ترميم المبنى القديم عامين",
+          "ar": "The country is working towards the restoration of democracy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɛstəˈɹeɪʃən/"
+    },
+    {
+      "id": "w_c1_restraint",
+      "en": "restraint",
+      "ar": "ضبط نفس / قيود / كبح",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أظهر ضبط نفس كبيراً في عدم الغضب",
+          "ar": "The government is calling for wage restraint."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈstɹeɪnt/"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "id": "lsn_c1_d_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 7: D Words - Part 2",
+  "slug": "d-words-2",
+  "order": 7,
+  "wordCount": 17,
+  "titleAr": "الوحدة 7: كلمات حرف D - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف D.",
+  "words": [
+    {
+      "id": "w_c1_discard",
+      "en": "discard",
+      "ar": "يتخلص من / ينبذ",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يرجى التخلص من أي مستندات قديمة في سلة المهملات",
+          "ar": "He decided to discard his old habits and start fresh."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪskɑːd/"
+    },
+    {
+      "id": "w_c1_discharge",
+      "en": "discharge",
+      "ar": "يطلق سراح / يفرغ",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيقوم المستشفى بإخراج (إطلاق سراح) المريض غداً صباحاً",
+          "ar": "Factories must not discharge toxic waste into the river."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪstʃɑːdʒ/"
+    },
+    {
+      "id": "w_c1_disclose",
+      "en": "disclose",
+      "ar": "يكشف / يعلن",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "رفضت الشركة الكشف عن تفاصيل الاندماج",
+          "ar": "He promised not to disclose any confidential information."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈkləʊz/"
+    },
+    {
+      "id": "w_c1_disclosure",
+      "en": "disclosure",
+      "ar": "كشف / إفصاح",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أدى الإفصاح الكامل عن الحقائق إلى محاكمة عادلة",
+          "ar": "Any financial disclosure must be signed by the auditor."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈkləʊʒə(ɹ)/"
+    },
+    {
+      "id": "w_c1_discourse",
+      "en": "discourse",
+      "ar": "خطاب / نقاش",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يقدم الكتاب خطاباً عميقاً عن الفلسفة الحديثة",
+          "ar": "Political discourse should be based on mutual respect."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈkɔː(ɹ)s/"
+    },
+    {
+      "id": "w_c1_discretion",
+      "en": "discretion",
+      "ar": "حرية التصرف / حصافة",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب على الآباء استخدام حرية تصرفهم عند السماح للأطفال بدخول الإنترنت",
+          "ar": "The doctor handled the sensitive matter with great discretion."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈskɹɛʃən/"
+    },
+    {
+      "id": "w_c1_discrimination",
+      "en": "discrimination",
+      "ar": "تمييز",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هناك قوانين مطبقة لمنع التمييز العنصري",
+          "ar": "Discrimination in hiring is strictly prohibited by the company."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪskɹɪmɪˈneɪʃən/"
+    },
+    {
+      "id": "w_c1_dismissal",
+      "en": "dismissal",
+      "ar": "إقالة / رفض",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إقالته المفاجئة من الشركة فاجأت الجميع",
+          "ar": "The dismissal of the case was due to a lack of evidence."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[dɪsˈmɪsəɫ]/"
+    },
+    {
+      "id": "w_c1_displace",
+      "en": "displace",
+      "ar": "يهجر / يزيح",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكنت الحرب من تهجير آلاف العائلات من منازلهم",
+          "ar": "New technologies often displace older methods of production."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈpleɪs/"
+    },
+    {
+      "id": "w_c1_disposal",
+      "en": "disposal",
+      "ar": "تخلص من / تصرف",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "التخلص السليم من النفايات ضروري للصحة البيئية",
+          "ar": "The team has a large budget at its disposal for the project."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[dɪsˈpəʊzəɫ]/"
+    },
+    {
+      "id": "w_c1_dispose",
+      "en": "dispose",
+      "ar": "يتخلص من",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك التخلص من النفايات الكيميائية بطريقة آمنة",
+          "ar": "The company needs to dispose of its old equipment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈspəʊz/"
+    },
+    {
+      "id": "w_c1_dispute",
+      "en": "dispute",
+      "ar": "نزاع / يجادل",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استمر النزاع الإقليمي بين الدولتين لسنوات",
+          "ar": "No one can dispute the facts presented in the report."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪs.pjuːt/"
+    },
+    {
+      "id": "w_c1_disrupt",
+      "en": "disrupt",
+      "ar": "يعطل / يشوش",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حاول المتظاهرون تعطيل المؤتمر الدولي",
+          "ar": "A heavy snowstorm can disrupt the entire transport network."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈɹʌpt/"
+    },
+    {
+      "id": "w_c1_disruption",
+      "en": "disruption",
+      "ar": "تعطيل / اضطراب",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تسبب الإضراب في تعطيل كبير لخدمات القطارات",
+          "ar": "Technological disruption is changing the way we do business."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈɹʌpʃən/"
+    },
+    {
+      "id": "w_c1_dissolve",
+      "en": "dissolve",
+      "ar": "يذيب / يحل",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحتاج لإذابة السكر في الماء الساخن أولاً",
+          "ar": "The king decided to dissolve the parliament and call for elections."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈzɒlv/"
+    },
+    {
+      "id": "w_c1_distinction",
+      "en": "distinction",
+      "ar": "تميز / فرق",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تخرج من الجامعة بأعلى درجات التميز",
+          "ar": "There is a clear distinction between right and wrong."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈstɪŋkʃən/"
+    },
+    {
+      "id": "w_c1_distinctive",
+      "en": "distinctive",
+      "ar": "مميز / فارق",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يُعرف الطائر بريشه الأزرق المميز",
+          "ar": "Each culture has its own distinctive traditions and customs."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈstɪŋktɪv/"
+    }
+  ]
+}

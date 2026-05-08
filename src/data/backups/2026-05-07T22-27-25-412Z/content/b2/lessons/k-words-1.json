@@ -1,0 +1,30 @@
+{
+  "id": "lsn_b2_k_1",
+  "levelId": "lvl_b2",
+  "slug": "k-words-1",
+  "title": "K Words - Part 1",
+  "titleAr": "كلمات حرف K - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter K.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف K.",
+  "order": 36,
+  "wordCount": 1,
+  "words": [
+    {
+      "id": "w_b2_kit",
+      "en": "kit",
+      "ar": "عدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_k_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

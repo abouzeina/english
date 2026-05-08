@@ -1,0 +1,373 @@
+{
+  "id": "lsn_b1_f_2",
+  "levelId": "lvl_b1",
+  "slug": "f-words-2",
+  "title": "Unit 15: F Words - Part 2",
+  "titleAr": "الوحدة 15: كلمات حرف F - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with F.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف F.",
+  "order": 15,
+  "wordCount": 16,
+  "words": [
+    {
+      "id": "w_b1_folk_art",
+      "en": "folk art",
+      "ar": "فنون شعبية / فولكلوري",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have some knowledge of folk art.",
+          "ar": "لدي بعض المعرفة بالفنون الشعبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_following",
+      "en": "following",
+      "ar": "فيما يلي / التالي",
+      "pronunciation": "/ fa-lou-in/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The following is a list of conferences I attended.",
+          "ar": "فيما يلي قائمة بالمؤتمرات التي حضرتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_force",
+      "en": "force",
+      "ar": "قوة / يجبر",
+      "pronunciation": "/fors/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They used force against us.",
+          "ar": "استخدموا القوة ضدنا."
+        },
+        {
+          "en": "No one forced me to make that decision.",
+          "ar": "لا أحد أجبرني على اتخاذ هذا القرار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_forever",
+      "en": "forever",
+      "ar": "إلى الأبد",
+      "pronunciation": "/fər ev ər/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I lost those documents forever.",
+          "ar": "فقدت تلك الوثائق إلى الأبد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_frames",
+      "en": "frames",
+      "ar": "إطارات / يبروز",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We make picture frames in our factory.",
+          "ar": "نصنع إطارات الصور في مصنعنا."
+        },
+        {
+          "en": "I framed the picture of the forest.",
+          "ar": "أنا بروزت صورة الغابة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_freeze",
+      "en": "freeze",
+      "ar": "يجمد",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The fridge can't freeze the water.",
+          "ar": "الثلاجة لا تستطيع أن تجمد الماء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_frequently",
+      "en": "frequently",
+      "ar": "بشكل متكرر",
+      "pronunciation": "/ fri kwent-li/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He borrows books from me frequently.",
+          "ar": "يستعير مني كتبا بشكل متكرر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_friendship",
+      "en": "friendship",
+      "ar": "صداقة",
+      "pronunciation": "/'frend-frp/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our friendship has lasted two years.",
+          "ar": "صداقتنا استمرت عامين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_frighten",
+      "en": "frighten",
+      "ar": "يخيف",
+      "pronunciation": "/'frax ten/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Those criminals don't frighten me.",
+          "ar": "أولئك المجرمون لا يخيفونني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_frightened",
+      "en": "frightened",
+      "ar": "مرعوب",
+      "pronunciation": "/ frax tend/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Why are you frightened, there is no danger.",
+          "ar": "لماذا أنت مرعوب، لا يوجد خطر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_frightening",
+      "en": "frightening",
+      "ar": "مرعبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Her diary contains some frightening events.",
+          "ar": "مذكراتها تحتوي على بعض الأحداث المرعبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_frozen",
+      "en": "frozen",
+      "ar": "مجمد",
+      "pronunciation": "/frou-zen/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Heat the frozen fish.",
+          "ar": "سخن السمك المجمد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fried",
+      "en": "fried",
+      "ar": "قليت",
+      "pronunciation": "/fraid/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I fried the potatoes myself.",
+          "ar": "قليت البطاطس بنفسي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fuel",
+      "en": "fuel",
+      "ar": "وقود",
+      "pronunciation": "/'fju-ǝl/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I noticed the fuel was low.",
+          "ar": "لاحظت أن الوقود كان منخفضًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_function",
+      "en": "function",
+      "ar": "وظيفة / عمل",
+      "pronunciation": "/ Jen/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the function of this tool?",
+          "ar": "ما هي وظيفة هذه الأداة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_fur",
+      "en": "fur",
+      "ar": "فراء",
+      "pronunciation": "/f3r/",
+      "lessonId": "lsn_b1_f_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The cat's fur became wet.",
+          "ar": "أصبح فراء القطة مبتلاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

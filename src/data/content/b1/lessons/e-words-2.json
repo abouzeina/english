@@ -1,13 +1,13 @@
 {
   "id": "lsn_b1_e_2",
   "levelId": "lvl_b1",
+  "title": "Unit 12: E Words - Part 2",
   "slug": "e-words-2",
-  "title": "Unit 13: E Words - Part 2",
-  "titleAr": "الوحدة 13: كلمات حرف E - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with E.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف E.",
-  "order": 13,
-  "wordCount": 25,
+  "order": 12,
+  "wordCount": 24,
+  "titleAr": "الوحدة 12: كلمات حرف E - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف E.",
   "words": [
     {
       "id": "w_b1_entertainment",
@@ -260,28 +260,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_except",
-      "en": "except",
-      "ar": "باستثناء / إلا",
-      "pronunciation": "/xk sept/",
-      "lessonId": "lsn_b1_e_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Everybody is here except Sami.",
-          "ar": "الجميع هنا باستثناء سامي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_exchanged",
       "en": "exchanged",
       "ar": "تبادلت / تبادل",
@@ -418,28 +396,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_experiencing",
-      "en": "experiencing",
-      "ar": "يواجه / يمر بتجربة",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_e_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I am currently experiencing problems with my computer.",
-          "ar": "أواجه حاليا مشاكل مع حاسوبي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_experienced",
       "en": "experienced",
       "ar": "متمرس / ذو خبرة",
@@ -451,6 +407,28 @@
         {
           "en": "He is an experienced teacher.",
           "ar": "إنه مدرس متمرس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_experiencing",
+      "en": "experiencing",
+      "ar": "يواجه / يمر بتجربة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_e_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am currently experiencing problems with my computer.",
+          "ar": "أواجه حاليا مشاكل مع حاسوبي."
         }
       ],
       "type": "word",

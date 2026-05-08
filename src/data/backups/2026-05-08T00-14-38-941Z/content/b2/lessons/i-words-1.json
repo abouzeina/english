@@ -1,0 +1,563 @@
+{
+  "id": "lsn_b2_i_1",
+  "levelId": "lvl_b2",
+  "slug": "i-words-1",
+  "title": "I Words - Part 1",
+  "titleAr": "كلمات حرف I - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter I.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف I.",
+  "order": 31,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_icon",
+      "en": "icon",
+      "ar": "أيقونة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Click on the settings icon to change the color.",
+          "ar": "انقر على أيقونة الإعدادات لتغيير اللون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_id",
+      "en": "ID",
+      "ar": "بطاقتك الشخصية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can I see your ID, please?",
+          "ar": "هل بإمكاني أن أرى بطاقتك الشخصية من فضلك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ideals",
+      "en": "ideals",
+      "ar": "المثل العليا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They share the same ideals about education.",
+          "ar": "إنهم يتشاركون نفس المثل العليا حول التعليم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_identical",
+      "en": "identical",
+      "ar": "متطابقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The houses in the neighborhood look identical.",
+          "ar": "تبدو المنازل في الحي متطابقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_illusion",
+      "en": "illusion",
+      "ar": "وهم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He lived with the illusion that money could buy happiness.",
+          "ar": "لقد عاش بوهم أن المال يمكن أن يشتري السعادة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_illustrate",
+      "en": "illustrate",
+      "ar": "توضيح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She drew a diagram to illustrate how the machine works.",
+          "ar": "رسمت مخططاً لتوضيح كيفية عمل الآلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_illustration",
+      "en": "illustration",
+      "ar": "رسم توضيحي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Each chapter in the book begins with an illustration.",
+          "ar": "يبدأ كل فصل في الكتاب برسم توضيحي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_imagination",
+      "en": "imagination",
+      "ar": "المخيلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A strong imagination is essential for problem-solving.",
+          "ar": "المخيلة القوية شيء أساسي لحل المشكلات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_immigration",
+      "en": "immigration",
+      "ar": "الهجرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He faced many challenges during the immigration process.",
+          "ar": "واجه العديد من التحديات خلال عملية الهجرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_immune",
+      "en": "immune",
+      "ar": "مناعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Some people are naturally immune to certain viruses.",
+          "ar": "بعض الأشخاص لديهم مناعة طبيعية ضد بعض الفيروسات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_impatient",
+      "en": "impatient",
+      "ar": "متلهفا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was impatient for his turn to speak during the meeting.",
+          "ar": "كان متلهفا لدوره في التحدث خلال الاجتماع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_implement",
+      "en": "implement",
+      "ar": "تنفيذ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company is ready to implement the new policy.",
+          "ar": "الشركة مستعدة لتنفيذ السياسة الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_implications",
+      "en": "implications",
+      "ar": "آثار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The decision has serious implications for our future.",
+          "ar": "القرار له آثار خطيرة على مستقبلنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_implied",
+      "en": "implied",
+      "ar": "أوحت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His smile implied that he knew something we didn't.",
+          "ar": "ابتسامته أوحت بأنه يعرف شيئاً لم نكن نعرفه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_impose",
+      "en": "impose",
+      "ar": "تفرض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The government will impose new taxes on luxury goods.",
+          "ar": "سوف تفرض الحكومة ضرائب جديدة على السلع الكمالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_impressed",
+      "en": "impressed",
+      "ar": "معجبا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I was impressed with the results of the experiment.",
+          "ar": "كنت معجبا بنتائج التجربة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_impresses",
+      "en": "impresses",
+      "ar": "يبهرني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He impresses me every time I meet him.",
+          "ar": "إنه يبهرني في كل مرة أقابله فيها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incentive",
+      "en": "incentive",
+      "ar": "كحافز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They offer a discount as an incentive to attract customers.",
+          "ar": "يقدمون خصمًا كحافز لجذب العملاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inch",
+      "en": "inch",
+      "ar": "بوصة واحدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He moved an inch closer to the edge of the cliff.",
+          "ar": "اقترب بوصة واحدة من حافة الجرف المنحدر)."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incident",
+      "en": "incident",
+      "ar": "الحادث",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The police are investigating the incident.",
+          "ar": "الشرطة تحقق في الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_income",
+      "en": "income",
+      "ar": "دخلنا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We are saving part of our income for medical expenses.",
+          "ar": "نحن ندخر جزءًا من دخلنا للنفقات الطبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incorporate",
+      "en": "incorporate",
+      "ar": "إدخال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The chef likes to incorporate fresh herbs into his dishes.",
+          "ar": "يحب الشيف إدخال الأعشاب الطازجة في أطباقه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incorrect",
+      "en": "incorrect",
+      "ar": "غير صحيحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The map gave incorrect directions to the beach.",
+          "ar": "أعطت الخريطة اتجاهات غير صحيحة إلى الشاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_increasingly",
+      "en": "increasingly",
+      "ar": "بشكل متزايد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The cost of living is becoming increasingly expensive.",
+          "ar": "أصبحت تكاليف المعيشة باهظة بشكل متزايد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_independence",
+      "en": "independence",
+      "ar": "الاستقلال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He works hard to achieve financial independence.",
+          "ar": "يعمل بجد لتحقيق الاستقلال المالي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,14 +1,106 @@
 {
   "id": "lsn_b1_s_3",
   "levelId": "lvl_b1",
+  "title": "Unit 34: S Words - Part 3",
   "slug": "s-words-3",
-  "title": "Unit 37: S Words - Part 3",
-  "titleAr": "الوحدة 37: كلمات حرف S - الجزء 3",
-  "description": "Expand your intermediate vocabulary with words starting with S.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف S.",
-  "order": 37,
-  "wordCount": 25,
+  "order": 34,
+  "wordCount": 20,
+  "titleAr": "الوحدة 34: كلمات حرف S - الجزء 3",
+  "description": "Master essential B1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_b1_soil",
+      "en": "soil",
+      "ar": "تراب / تربة",
+      "pronunciation": "/sozl/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I like the smell of soil after rain.",
+          "ar": "أحب رائحة التراب بعد المطر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_solid",
+      "en": "solid",
+      "ar": "صلب / حالة صلبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Only ski on solid ice.",
+          "ar": "تزلج فقط على الجليد الصلب."
+        },
+        {
+          "en": "Three states of matter solid, liquid, and gas.",
+          "ar": "ثلاث حالات للمادة : الصلبة والسائلة والغازية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_southern",
+      "en": "southern",
+      "ar": "جنوبي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I live in the southern part of the region.",
+          "ar": "أعيش في الجزء الجنوبي من المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b2_specialize",
+      "en": "specialize",
+      "ar": "يتخصص",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "examples": [
+        {
+          "en": "He decided to specialize in artificial intelligence research.",
+          "ar": "قرر أن يتخصص في أبحاث الذكاء الاصطناعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_b1_specifically",
       "en": "specifically",
@@ -157,13 +249,19 @@
         {
           "en": "The news spread very fast.",
           "ar": "انتشر الخبر بسرعة كبيرة."
+        },
+        {
+          "en": "The rapid spread of fire caused massive damage.",
+          "ar": "تسبب الانتشار السريع للحريق في أضرار جسيمة."
         }
       ],
       "type": "word",
       "difficulty": "B1",
       "tags": [
         "B1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -260,28 +358,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_state",
-      "en": "state",
-      "ar": "حكومي / للمادة",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We should improve the state education system.",
-          "ar": "يجب علينا تحسين نظام التعليم الحكومي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_statistics",
       "en": "statistics",
       "ar": "إحصائيات",
@@ -326,28 +402,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_sticks",
-      "en": "sticks",
-      "ar": "أعواد / عصي",
-      "pronunciation": "/stık/",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We need dry sticks to start a fire.",
-          "ar": "نحتاج إلى أعواد جافة لإشعال النار."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_stick",
       "en": "Stick",
       "ar": "علق / ألصق",
@@ -370,39 +424,17 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_still",
-      "en": "still",
-      "ar": "ساكناً",
-      "pronunciation": "",
+      "id": "w_b1_sticks",
+      "en": "sticks",
+      "ar": "أعواد / عصي",
+      "pronunciation": "/stık/",
       "lessonId": "lsn_b1_s_3",
       "levelId": "lvl_b1",
       "categoryId": "general",
       "examples": [
         {
-          "en": "Stay still while I measure your height.",
-          "ar": "ابق ساكنا بينما أقيس طولك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_store",
-      "en": "store",
-      "ar": "يخزن",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Can I store my books in your cupboard?",
-          "ar": "هل يمكنني أن أخزن كتبي في خزانتك ؟"
+          "en": "We need dry sticks to start a fire.",
+          "ar": "نحتاج إلى أعواد جافة لإشعال النار."
         }
       ],
       "type": "word",
@@ -425,138 +457,6 @@
         {
           "en": "Excuse me, I don't argue with strangers.",
           "ar": "معذرةً، أنا لا أتجادل مع الغرباء."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_strength",
-      "en": "strength",
-      "ar": "قوة",
-      "pronunciation": "/streŋke/",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I pushed against the door with all my strength.",
-          "ar": "دفعت الباب بكل قوتي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_strings",
-      "en": "strings",
-      "ar": "خيوط",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Tie these two strings together.",
-          "ar": "اربط هذين الخيطين معا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_strongly",
-      "en": "strongly",
-      "ar": "بشدة",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I strongly disagree with your decision.",
-          "ar": "أنا أعارض قرارك بشدة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_studios",
-      "en": "studios",
-      "ar": "استوديوهات",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "You can record your song in our studios.",
-          "ar": "يمكنك تسجيل أغنيتك في الاستوديوهات الخاصة بنا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_stuff",
-      "en": "stuff",
-      "ar": "أغراض",
-      "pronunciation": "/stf/",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Leave your sister's stuff alone.",
-          "ar": "اترك أغراض أختك وشأنها."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_substances",
-      "en": "substances",
-      "ar": "مواد",
-      "pronunciation": "/'sab-stans/",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Don't mix these two substances.",
-          "ar": "لا تخلط هاتين المادتين."
         }
       ],
       "type": "word",

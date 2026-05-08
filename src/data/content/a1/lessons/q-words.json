@@ -1,0 +1,162 @@
+{
+  "id": "lsn_a1_q",
+  "levelId": "lvl_a1",
+  "title": "Unit 34: Q Words",
+  "slug": "q-words",
+  "order": 34,
+  "wordCount": 6,
+  "titleAr": "الوحدة 34: كلمات حرف Q",
+  "description": "Master essential A1 vocabulary starting with the letter Q.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف Q.",
+  "words": [
+    {
+      "id": "w_a1_quarter",
+      "lessonId": "lsn_a1_q",
+      "en": "quarter",
+      "translation": "ربع",
+      "ar": "ربع",
+      "pronunciation": "/'kwor tər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's a quarter past two.",
+          "ar": "إنها الثانية والربع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_question",
+      "lessonId": "lsn_a1_q",
+      "en": "question",
+      "translation": "سؤال",
+      "ar": "سؤال",
+      "pronunciation": "/'kwes-tfən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please answer my question.",
+          "ar": "الرجاء الإجابة على سؤالي."
+        },
+        {
+          "en": "The police questioned him for three hours",
+          "ar": "استجوبته الشرطة لثلاث ساعات."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_quick",
+      "lessonId": "lsn_a1_q",
+      "en": "quick",
+      "translation": "سريع / بسرعة",
+      "ar": "سريع / بسرعة",
+      "pronunciation": "/kwık/ /'kwık-li/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I took a quick shower.",
+          "ar": "أخذت دشاً سريعاً."
+        },
+        {
+          "en": "They left school quickly.",
+          "ar": "لقد غادروا المدرسة بسرعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a2_quickly",
+      "en": "quickly",
+      "ar": "بسرعة",
+      "pronunciation": "/'kwik-li/",
+      "lessonId": "lsn_a1_q",
+      "levelId": "lvl_a1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He can move quietly and quickly.",
+          "ar": "يمكنه أن يتحرك بهدوء وبسرعة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a1_quiet",
+      "lessonId": "lsn_a1_q",
+      "en": "quiet",
+      "translation": "هادئ",
+      "ar": "هادئ",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This park is always quiet.",
+          "ar": "هذه الحديقة هادئة دائماً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkwaɪ.ət/"
+    },
+    {
+      "id": "w_a1_quite",
+      "lessonId": "lsn_a1_q",
+      "en": "quite",
+      "translation": "إلى حد ما",
+      "ar": "إلى حد ما",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The test was quite easy.",
+          "ar": "كان الاختبار سهلاً إلى حد ما."
+        },
+        {
+          "en": "He's quite a good actor.",
+          "ar": "إنه ممثل جيد إلى حد ما."
+        },
+        {
+          "en": "That name is quite common in our country.",
+          "ar": "هذا الاسم شائع إلى حد ما في بلدنا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kwaɪt/"
+    }
+  ]
+}

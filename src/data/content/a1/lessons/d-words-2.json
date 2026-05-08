@@ -1,21 +1,86 @@
 {
   "id": "lsn_a1_d_2",
-  "levelId": "lvl_1",
-  "title": "D Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 10: D Words - Part 2",
   "slug": "d-words-2",
   "order": 10,
-  "wordCount": 18,
-  "titleAr": "كلمات حرف D - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter D.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف D.",
+  "wordCount": 21,
+  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف D.",
   "words": [
+    {
+      "id": "w_a1_diet",
+      "lessonId": "lsn_a1_d_2",
+      "en": "diet",
+      "translation": "نظام غذائي",
+      "ar": "نظام غذائي",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My diet is very healthy.",
+          "ar": "نظامي الغذائي صحي للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdaɪət/"
+    },
+    {
+      "id": "w_a1_difference",
+      "lessonId": "lsn_a1_d_2",
+      "en": "difference",
+      "translation": "فرق",
+      "ar": "فرق",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The difference is small but important.",
+          "ar": "الفرق بسيط ولكنه مهم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪfəɹən(t)s/"
+    },
+    {
+      "id": "w_a1_different",
+      "lessonId": "lsn_a1_d_2",
+      "en": "different",
+      "translation": "مختلف",
+      "ar": "مختلف",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The two ideas are different.",
+          "ar": "الفكرتان مختلفتان."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪf.(ə)ɹ.ənt/"
+    },
     {
       "id": "w_a1_difficult",
       "lessonId": "lsn_a1_d_2",
       "en": "difficult",
       "translation": "صعب",
       "ar": "صعب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -29,7 +94,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪfɪkəlt/"
     },
     {
       "id": "w_a1_dinner",
@@ -37,7 +103,6 @@
       "en": "dinner",
       "translation": "عشاء",
       "ar": "عشاء",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +116,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪnə/"
     },
     {
       "id": "w_a1_dirty",
@@ -59,7 +125,6 @@
       "en": "dirty",
       "translation": "متسخ",
       "ar": "متسخ",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -73,7 +138,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɜːti/"
     },
     {
       "id": "w_a1_discuss",
@@ -103,7 +169,6 @@
       "en": "dish",
       "translation": "طبق",
       "ar": "طبق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -117,7 +182,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɪʃ/"
     },
     {
       "id": "w_a1_do",
@@ -125,7 +191,6 @@
       "en": "do",
       "translation": "يفعل",
       "ar": "يفعل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -151,7 +216,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dʉː/"
     },
     {
       "id": "w_a1_doctor",
@@ -159,7 +225,6 @@
       "en": "doctor",
       "translation": "طبيب",
       "ar": "طبيب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -173,7 +238,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɒktə/"
     },
     {
       "id": "w_a1_dog",
@@ -181,7 +247,6 @@
       "en": "dog",
       "translation": "كلب",
       "ar": "كلب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -195,7 +260,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɑɡ/"
     },
     {
       "id": "w_a1_dollars",
@@ -203,7 +269,6 @@
       "en": "dollars",
       "translation": "دولارات",
       "ar": "دولارات",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -217,7 +282,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɒləz/"
     },
     {
       "id": "w_a1_door",
@@ -225,7 +291,6 @@
       "en": "door",
       "translation": "باب",
       "ar": "باب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -239,7 +304,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɔː/"
     },
     {
       "id": "w_a1_down",
@@ -247,7 +313,6 @@
       "en": "down",
       "translation": "أسفل / للأسفل",
       "ar": "أسفل / للأسفل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -261,7 +326,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/daʊn/"
     },
     {
       "id": "w_a1_downstairs",
@@ -269,21 +335,26 @@
       "en": "downstairs",
       "translation": "الطابق الأسفل",
       "ar": "الطابق الأسفل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I'll wait for you downstairs.",
           "ar": "سأنتظرك في الطابق الأسفل."
+        },
+        {
+          "en": "Please use the downstairs bathroom.",
+          "ar": "الرجاء استخدام حمام الطابق السفلي :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/daʊnˈstɛəz/"
     },
     {
       "id": "w_a1_draw",
@@ -291,7 +362,6 @@
       "en": "draw",
       "translation": "يرسم",
       "ar": "يرسم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -305,7 +375,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɹɔː/"
     },
     {
       "id": "w_a1_dress",
@@ -313,7 +384,6 @@
       "en": "dress",
       "translation": "فستان / فساتين / ملابسه / ارتديت",
       "ar": "فستان / فساتين / ملابسه / ارتديت",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -331,7 +401,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɹɛs/"
     },
     {
       "id": "w_a1_drink",
@@ -339,7 +410,6 @@
       "en": "drink",
       "translation": "يشرب / مشروب",
       "ar": "يشرب / مشروب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -357,29 +427,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_drive",
-      "lessonId": "lsn_a1_d_2",
-      "en": "drive",
-      "translation": "يقود",
-      "ar": "يقود",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I drive my car to work every day.",
-          "ar": "أقود سيارتي إلى العمل كل يوم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɹɪŋk/"
     },
     {
       "id": "w_a1_driver",
@@ -387,7 +436,6 @@
       "en": "driver",
       "translation": "سائق",
       "ar": "سائق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -401,7 +449,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɹaɪ.və(ɹ)/"
     },
     {
       "id": "w_a1_during",
@@ -415,6 +464,28 @@
         {
           "en": "I left during the meeting.",
           "ar": "غادرت خلال الاجتماع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dvd",
+      "lessonId": "lsn_a1_d_2",
+      "en": "DVD",
+      "translation": "قرص فيديو",
+      "ar": "قرص فيديو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I watched a DVD yesterday.",
+          "ar": "شاهدت قرص فيديو بالأمس."
         }
       ],
       "difficulty": "A1",

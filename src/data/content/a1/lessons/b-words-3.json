@@ -1,21 +1,130 @@
 {
   "id": "lsn_a1_b_3",
-  "levelId": "lvl_1",
-  "title": "B Words - Part 3",
+  "levelId": "lvl_a1",
+  "title": "Unit 5: B Words - Part 3",
   "slug": "b-words-3",
   "order": 5,
-  "wordCount": 15,
-  "titleAr": "كلمات حرف B - الجزء 3",
-  "description": "Learn essential A1 vocabulary starting with the letter B.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف B.",
+  "wordCount": 21,
+  "titleAr": "الوحدة 5: كلمات حرف B - الجزء 3",
+  "description": "Master essential A1 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف B.",
   "words": [
+    {
+      "id": "w_a1_both",
+      "lessonId": "lsn_a1_b_3",
+      "en": "both",
+      "translation": "كلاهما",
+      "ar": "كلاهما",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They both enjoy swimming.",
+          "ar": "كلاهما يستمتعان بالسباحة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/bəʊθ/"
+    },
+    {
+      "id": "w_a1_bottle",
+      "lessonId": "lsn_a1_b_3",
+      "en": "bottle",
+      "translation": "قارورة / زجاجة",
+      "ar": "قارورة / زجاجة",
+      "pronunciation": "/'ba təl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need to buy a bottle of water.",
+          "ar": "أحتاج لشراء قارورة ماء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_box",
+      "lessonId": "lsn_a1_b_3",
+      "en": "box",
+      "translation": "علبة / صندوق",
+      "ar": "علبة / صندوق",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can I open the box?",
+          "ar": "هل يمكنني فتح العلبة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/bɒks/"
+    },
+    {
+      "id": "w_a1_boy",
+      "lessonId": "lsn_a1_b_3",
+      "en": "boy",
+      "translation": "صبي / ولد",
+      "ar": "صبي / ولد",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a boy riding his bicycle.",
+          "ar": "رأيت صبيًا يركب دراجته الهوائية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/bɔːə/"
+    },
+    {
+      "id": "w_a1_boyfriend",
+      "lessonId": "lsn_a1_b_3",
+      "en": "boyfriend",
+      "translation": "عشيق / حبيب",
+      "ar": "عشيق / حبيب",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She doesn't have a boyfriend.",
+          "ar": "ليس لديها حبيب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɔɪfɹənd/"
+    },
     {
       "id": "w_a1_bread",
       "lessonId": "lsn_a1_b_3",
       "en": "bread",
       "translation": "خبز",
       "ar": "خبز",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -29,7 +138,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɹeːd/"
     },
     {
       "id": "w_a1_break",
@@ -37,7 +147,6 @@
       "en": "break",
       "translation": "يكسر / استراحة",
       "ar": "يكسر / استراحة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -55,7 +164,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɹeɪk/"
     },
     {
       "id": "w_a1_breakfast",
@@ -63,7 +173,6 @@
       "en": "breakfast",
       "translation": "فطور",
       "ar": "فطور",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -89,7 +198,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɹɛkfəst/"
     },
     {
       "id": "w_a1_bring",
@@ -97,7 +207,6 @@
       "en": "bring",
       "translation": "يحضر",
       "ar": "يحضر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -111,7 +220,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɹɪŋ/"
     },
     {
       "id": "w_a1_brother",
@@ -119,7 +229,6 @@
       "en": "brother",
       "translation": "أخ",
       "ar": "أخ",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -133,7 +242,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɹɐðɘ(ɹ)/"
     },
     {
       "id": "w_a1_brown",
@@ -141,7 +251,6 @@
       "en": "brown",
       "translation": "بني",
       "ar": "بني",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -155,7 +264,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɹaʊn/"
     },
     {
       "id": "w_a1_build",
@@ -163,7 +273,6 @@
       "en": "build",
       "translation": "يبني",
       "ar": "يبني",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -177,7 +286,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɪld/"
     },
     {
       "id": "w_a1_building",
@@ -185,7 +295,6 @@
       "en": "building",
       "translation": "مبنى",
       "ar": "مبنى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -199,7 +308,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɪl.dɪŋ/"
     },
     {
       "id": "w_a1_bus",
@@ -207,7 +317,6 @@
       "en": "bus",
       "translation": "حافلة",
       "ar": "حافلة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -221,7 +330,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɐs/"
     },
     {
       "id": "w_a1_business",
@@ -229,7 +339,6 @@
       "en": "business",
       "translation": "عمل",
       "ar": "عمل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -243,7 +352,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɪd.nəs/"
     },
     {
       "id": "w_a1_busy",
@@ -251,7 +361,6 @@
       "en": "busy",
       "translation": "مشغول",
       "ar": "مشغول",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -265,7 +374,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɪzi/"
     },
     {
       "id": "w_a1_but",
@@ -273,21 +383,27 @@
       "en": "but",
       "translation": "لكن",
       "ar": "لكن",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I want to go, but I'm tired.",
           "ar": "أريد أن أذهب لكنني متعب."
+        },
+        {
+          "en": "There is no god but Allah.",
+          "ar": "لا إله إلا الله"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bʊt/"
     },
     {
       "id": "w_a1_butter",
@@ -295,7 +411,6 @@
       "en": "butter",
       "translation": "زبدة",
       "ar": "زبدة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -309,7 +424,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbʊtə/"
     },
     {
       "id": "w_a1_buy",
@@ -317,7 +433,6 @@
       "en": "buy",
       "translation": "يشتري",
       "ar": "يشتري",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -331,7 +446,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/baɪ/"
     },
     {
       "id": "w_a1_by",
@@ -353,6 +469,32 @@
         {
           "en": "The train will arrive by 6pm.",
           "ar": "سيصل القطار بحلول الساعة 6 مساءً."
+        },
+        {
+          "en": "He walked by without saying a word.",
+          "ar": "مر بجواري دون أن ينطق بكلمة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_bye",
+      "lessonId": "lsn_a1_b_3",
+      "en": "bye",
+      "translation": "مع السلامة / وداعاً",
+      "ar": "مع السلامة / وداعاً",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Bye, see you tomorrow.",
+          "ar": "مع السلامة أراك غدًا."
         }
       ],
       "difficulty": "A1",
@@ -361,7 +503,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/baɪ/"
     }
   ]
 }

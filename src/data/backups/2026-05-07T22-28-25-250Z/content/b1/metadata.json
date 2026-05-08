@@ -1,0 +1,12 @@
+{
+  "id": "lvl_b1",
+  "slug": "b1",
+  "name": "Intermediate",
+  "nameAr": "المتوسط (B1)",
+  "title": "B1 Intermediate",
+  "description": "Intermediate English vocabulary and real-world usage.",
+  "descriptionAr": "مفردات وجمل متوسطة المستوى للاستخدام اليومي والمهني.",
+  "order": 3,
+  "wordCount": 804,
+  "totalLessons": 45
+}

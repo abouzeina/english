@@ -1,0 +1,453 @@
+{
+  "id": "lsn_c1_t_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 45: T Words - Part 3",
+  "slug": "t-words-3",
+  "order": 45,
+  "wordCount": 20,
+  "titleAr": "الوحدة 45: كلمات حرف T - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف T.",
+  "words": [
+    {
+      "id": "w_c1_transformation",
+      "en": "transformation",
+      "ar": "تحول",
+      "pronunciation": "ˌtrænsfəˈmeɪʃn",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "شهدت المدينة تحولاً كاملاً في العقد الماضي.",
+          "ar": "The new technology led to a major transformation in the industry."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_transit",
+      "en": "transit",
+      "ar": "عبور / نقل",
+      "pronunciation": "ˈtrænzɪt",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تضررت البضائع أثناء النقل.",
+          "ar": "The city is improving its public transit system."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_transmission",
+      "en": "transmission",
+      "ar": "إرسال / انتقال",
+      "pronunciation": "trænzˈmɪʃn",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمكن منع انتقال الفيروس عن طريق غسل اليدين.",
+          "ar": "The live transmission of the concert started at 8 PM."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_transparency",
+      "en": "transparency",
+      "ar": "شفافية",
+      "pronunciation": "trænsˈpærənsi",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تطالب الحكومة بمزيد من الشفافية في النظام المصرفي.",
+          "ar": "Transparency is essential for a fair and democratic process."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_transparent",
+      "en": "transparent",
+      "ar": "شفاف",
+      "pronunciation": "trænsˈpærənt",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "النافذة مصنوعة من زجاج شفاف.",
+          "ar": "The company's hiring process is not very transparent."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_trauma",
+      "en": "trauma",
+      "ar": "صدمة",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عانى من صدمة نفسية شديدة بعد الحادث.",
+          "ar": "The hospital specializes in treating physical trauma."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹaʊ.mə/"
+    },
+    {
+      "id": "w_c1_treaty",
+      "en": "treaty",
+      "ar": "معاهدة",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وقعت الدولتان معاهدة سلام لإنهاء الحرب.",
+          "ar": "The treaty aims to reduce the use of nuclear weapons."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹiːti/"
+    },
+    {
+      "id": "w_c1_tremendous",
+      "en": "tremendous",
+      "ar": "هائل / عظيم",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حقق المشروع الجديد نجاحاً هائلاً.",
+          "ar": "She put a tremendous amount of effort into her work."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tɹəˈmɛndəs/"
+    },
+    {
+      "id": "w_c1_tribal",
+      "en": "tribal",
+      "ar": "قبلي",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تشتهر المنطقة بتاريخها القبلي المعقد.",
+          "ar": "Tribal leaders met to discuss the new regulations."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹaɪbəl/"
+    },
+    {
+      "id": "w_c1_tribunal",
+      "en": "tribunal",
+      "ar": "محكمة / هيئة قضائية",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيتم الاستماع إلى القضية من قبل محكمة دولية.",
+          "ar": "The war crimes tribunal sentenced the leader to life in prison."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tɹaɪˈbjuːnəl/"
+    },
+    {
+      "id": "w_c1_tribute",
+      "en": "tribute",
+      "ar": "تكريم / تحية",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الحفل تكريماً للموسيقي الشهير.",
+          "ar": "The flowers were left as a tribute to the victims of the attack."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹɪbjuːt/"
+    },
+    {
+      "id": "w_c1_trio",
+      "en": "trio",
+      "ar": "ثلاثي",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الفرقة عبارة عن ثلاثي يتكون من مغنٍ وعازف جيتار وعازف طبل.",
+          "ar": "The three friends are a famous trio in the film industry."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹi.əʊ/"
+    },
+    {
+      "id": "w_c1_triumph",
+      "en": "triumph",
+      "ar": "انتصار",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الفوز بالميدالية الذهبية الأولمبية انتصاراً كبيراً لها.",
+          "ar": "The team celebrated their triumph over their rivals."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹaɪ.ʌmf/"
+    },
+    {
+      "id": "w_c1_trophy",
+      "en": "trophy",
+      "ar": "كاس / جائزة",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عرض كأسه بفخر في غرفة المعيشة.",
+          "ar": "The winner of the tournament received a golden trophy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹəʊfi/"
+    },
+    {
+      "id": "w_c1_troubled",
+      "en": "troubled",
+      "ar": "مضطرب / قلق",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت طفولته مضطربة وقضى سنوات عديدة في دور الرعاية.",
+          "ar": "The country is going through a troubled period in its history."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹʌbl̩d/"
+    },
+    {
+      "id": "w_c1_trustee",
+      "en": "trustee",
+      "ar": "وصي / عضو مجلس أمناء",
+      "pronunciation": "trʌˈstiː",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم تعيينه كوصي على الجمعية الخيرية.",
+          "ar": "The board of trustees met to discuss the university's budget."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_tuition",
+      "en": "tuition",
+      "ar": "رسوم دراسية / تعليم",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الجامعة زيادة الرسوم الدراسية.",
+          "ar": "She offers private tuition in mathematics and physics."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtjuːʃən/"
+    },
+    {
+      "id": "w_c1_turnout",
+      "en": "turnout",
+      "ar": "نسبة المشاركة / حضور",
+      "pronunciation": "ˈtɜːnaʊt",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت نسبة مشاركة الناخبين أعلى من المتوقع.",
+          "ar": "There was a good turnout at the meeting last night."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_turnover",
+      "en": "turnover",
+      "ar": "حجم المبيعات / معدل دوران العمالة",
+      "pronunciation": "ˈtɜːnəʊvə(r)",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يبلغ حجم المبيعات السنوي للشركة خمسة ملايين دولار.",
+          "ar": "The high staff turnover is a problem for the business."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_twist",
+      "en": "twist",
+      "ar": "يلوي / يفتل",
+      "pronunciation": "twɪst",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لوت كاحلها أثناء الجري.",
+          "ar": "He twisted the wire into a small circle."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

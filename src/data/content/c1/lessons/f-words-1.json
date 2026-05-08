@@ -1,0 +1,409 @@
+{
+  "id": "lsn_c1_f_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 12: F Words - Part 1",
+  "slug": "f-words-1",
+  "order": 12,
+  "wordCount": 18,
+  "titleAr": "الوحدة 12: كلمات حرف F - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف F.",
+  "words": [
+    {
+      "id": "w_c1_facilitate",
+      "en": "facilitate",
+      "ar": "يسهل / ييسر",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صُمم البرنامج الجديد لتسهيل التواصل",
+          "ar": "We need to facilitate the process of obtaining a visa."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fəˈsɪləteɪt/"
+    },
+    {
+      "id": "w_c1_faction",
+      "en": "faction",
+      "ar": "فصيل / جناح",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الحزب السياسي منقسم إلى عدة فصائل أصغر",
+          "ar": "Each faction within the organization has its own agenda."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfæk.ʃn̩/"
+    },
+    {
+      "id": "w_c1_faculty",
+      "en": "faculty",
+      "ar": "كلية / قدرة",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه عضو في كلية الحاسبات والمعلومات",
+          "ar": "The patient began to lose his mental faculty as he aged."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfæ.kəl.ti/"
+    },
+    {
+      "id": "w_c1_fade",
+      "en": "fade",
+      "ar": "يبهت / يتلاشى",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأت ألوان الستارة الزاهية في البهتان تحت الشمس",
+          "ar": "His hopes for a quick recovery started to fade."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/feɪd/"
+    },
+    {
+      "id": "w_c1_fairness",
+      "en": "fairness",
+      "ar": "عدل / إنصاف",
+      "pronunciation": "ˈfeənəs",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب أن نضمن العدل والشفافية في الانتخابات",
+          "ar": "She was praised for the fairness of her decisions."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_fatal",
+      "en": "fatal",
+      "ar": "قاتل / مميت",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عاني السائق من إصابات قاتلة في حادث السيارة",
+          "ar": "Making a wrong decision now could be fatal for the company."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[ˈfeɪ.ɾɫ̩]/"
+    },
+    {
+      "id": "w_c1_fate",
+      "en": "fate",
+      "ar": "قدر / مصير",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يعتقدون أن لقاءهم كان مسألة قدر",
+          "ar": "The fate of the project will be decided at the next meeting."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/feɪt/"
+    },
+    {
+      "id": "w_c1_favourable",
+      "en": "favourable",
+      "ar": "مفضل / مواتٍ",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تلقى القانون الجديد استجابة مواتية (إيجابية) من الجمهور",
+          "ar": "We are waiting for more favourable weather conditions to sail."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfeɪv(ə)ɹəbəl/"
+    },
+    {
+      "id": "w_c1_feat",
+      "en": "feat",
+      "ar": "عمل فذ / إنجاز",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تسلق جبل إيفرست هو عمل فذ رائع من أعمال التحمل",
+          "ar": "The engineer achieved a great feat by finishing the bridge early."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fiːt/"
+    },
+    {
+      "id": "w_c1_feminist",
+      "en": "feminist",
+      "ar": "نسوي",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "انضمت إلى مجموعة نسوية للدفاع عن حقوق المرأة",
+          "ar": "The book explores feminist themes in modern literature."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɛmənɪst/"
+    },
+    {
+      "id": "w_c1_fibre",
+      "en": "fibre",
+      "ar": "ألياف",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الألياف الغذائية مهمة للحفاظ على أمعاء صحية",
+          "ar": "Optical fibre technology allows for much faster internet speeds."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfaɪ.bə(ɹ)/"
+    },
+    {
+      "id": "w_c1_fierce",
+      "en": "fierce",
+      "ar": "شرس / عنيف",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الشركتان محبوستان في منافسة شرسة",
+          "ar": "A fierce storm caused significant damage along the coast."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɪəs/"
+    },
+    {
+      "id": "w_c1_film_maker",
+      "en": "film-maker",
+      "ar": "صانع أفلام",
+      "pronunciation": "ˈfɪlm meɪkə(r)",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "فاز صانع الأفلام الشاب بجائزة عن فيلمه الوثائقي",
+          "ar": "He is a talented film-maker who focuses on social issues."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_filter",
+      "en": "filter",
+      "ar": "مرشح / يصفي",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحتاج لاستبدال مرشح (فلتر) المياه كل ستة أشهر",
+          "ar": "The app can filter out unwanted emails automatically."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɪltə/"
+    },
+    {
+      "id": "w_c1_firearm",
+      "en": "firearm",
+      "ar": "سلاح ناري",
+      "pronunciation": "ˈfaɪərɑːm",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "من غير القانوني حمل سلاح ناري بدون ترخيص مناسب",
+          "ar": "The police recovered a firearm at the scene of the crime."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_fixture",
+      "en": "fixture",
+      "ar": "تركيبات ثابتة / موعد",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحتاج تركيبات الحمام للإصلاح من قبل سباك",
+          "ar": "The annual match has become a regular fixture in the calendar."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɪkstʃə/"
+    },
+    {
+      "id": "w_c1_flaw",
+      "en": "flaw",
+      "ar": "عيب / خلل",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الألماسة بها عيب صغير يمكن رؤيته تحت العدسة",
+          "ar": "There is a fundamental flaw in the logic of your argument."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈflɔː/"
+    },
+    {
+      "id": "w_c1_flawed",
+      "en": "flawed",
+      "ar": "معيب / ناقص",
+      "pronunciation": "flɔːd",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استندت الدراسة إلى بيانات معيبة وافتراضات غير صحيحة",
+          "ar": "Even a flawed plan is better than having no plan at all."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

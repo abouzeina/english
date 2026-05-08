@@ -1,0 +1,61 @@
+{
+  "id": "lsn_b1_j",
+  "levelId": "lvl_b1",
+  "title": "Unit 19: J Words",
+  "slug": "j-words",
+  "order": 19,
+  "wordCount": 2,
+  "titleAr": "الوحدة 19: كلمات حرف J",
+  "description": "Master essential B1 vocabulary starting with the letter J.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف J.",
+  "words": [
+    {
+      "id": "w_b1_journal",
+      "en": "journal",
+      "ar": "مجلة متخصصة",
+      "pronunciation": "/'d33r.nel/",
+      "lessonId": "lsn_b1_j",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I published my research in a medical journal.",
+          "ar": "نشرت بحثي في مجلة طبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_judge",
+      "en": "judge",
+      "ar": "قاضي / يحكم",
+      "pronunciation": "/d3ad3/",
+      "lessonId": "lsn_b1_j",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The judge's decision is final.",
+          "ar": "قرار القاضي نهائي."
+        },
+        {
+          "en": "Don't judge a book by its cover.",
+          "ar": "لا تحكم على الكتاب من غلافه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

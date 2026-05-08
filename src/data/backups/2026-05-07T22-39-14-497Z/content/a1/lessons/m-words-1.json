@@ -1,0 +1,579 @@
+{
+  "id": "lsn_a1_m_1",
+  "levelId": "lvl_1",
+  "title": "M Words - Part 1",
+  "slug": "m-words-1",
+  "order": 24,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف M - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter M.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف M.",
+  "words": [
+    {
+      "id": "w_a1_lunch",
+      "lessonId": "lsn_a1_m_1",
+      "en": "lunch",
+      "translation": "غداء",
+      "ar": "غداء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Lunch is ready; come and eat.",
+          "ar": "الغداء جاهز؛ تعالوا وتناولوا الطعام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_machine",
+      "lessonId": "lsn_a1_m_1",
+      "en": "machine",
+      "translation": "آلة",
+      "ar": "آلة",
+      "pronunciation": "/mǝ'fin/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to buy a coffee machine.",
+          "ar": "أريد شراء آلة صنع القهوة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_magazines",
+      "lessonId": "lsn_a1_m_1",
+      "en": "magazines",
+      "translation": "مجلات",
+      "ar": "مجلات",
+      "pronunciation": "/ mæg.ə'zi.n/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like reading travel magazines.",
+          "ar": "أحب قراءة مجلات السفر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_main",
+      "lessonId": "lsn_a1_m_1",
+      "en": "main",
+      "translation": "رئيسي",
+      "ar": "رئيسي",
+      "pronunciation": "/mein/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The main office is on the left.",
+          "ar": "يقع المكتب الرئيسي على اليسار."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_make",
+      "lessonId": "lsn_a1_m_1",
+      "en": "make",
+      "translation": "يُعد / يجعل",
+      "ar": "يُعد / يجعل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please make me a cup of tea.",
+          "ar": "من فضلك أعد لي كوباً من الشاي."
+        },
+        {
+          "en": "The news made her happy.",
+          "ar": "الأخبار جعلتها سعيدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_man",
+      "lessonId": "lsn_a1_m_1",
+      "en": "man",
+      "translation": "رجل",
+      "ar": "رجل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "A man stood by the door.",
+          "ar": "وقف رجل عند الباب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_many",
+      "lessonId": "lsn_a1_m_1",
+      "en": "many",
+      "translation": "العديد / كم عدد",
+      "ar": "العديد / كم عدد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He has many friends here.",
+          "ar": "لديه العديد من الأصدقاء هنا."
+        },
+        {
+          "en": "How many eggs do we need?",
+          "ar": "كم بيضة نحتاج؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_map",
+      "lessonId": "lsn_a1_m_1",
+      "en": "map",
+      "translation": "خريطة",
+      "ar": "خريطة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This is a map of Egypt.",
+          "ar": "هذه خريطة لمصر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_march",
+      "lessonId": "lsn_a1_m_1",
+      "en": "March",
+      "translation": "شهر مارس",
+      "ar": "شهر مارس",
+      "pronunciation": "/martf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "March comes after February.",
+          "ar": "يأتي شهر مارس بعد شهر فبراير."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_market",
+      "lessonId": "lsn_a1_m_1",
+      "en": "market",
+      "translation": "سوق",
+      "ar": "سوق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They sell flowers at the market.",
+          "ar": "يبيعون الزهور في السوق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_married",
+      "lessonId": "lsn_a1_m_1",
+      "en": "married",
+      "translation": "متزوج",
+      "ar": "متزوج",
+      "pronunciation": "/'mær-id/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'm married with two children.",
+          "ar": "أنا متزوج ولدي طفلان."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_match",
+      "lessonId": "lsn_a1_m_1",
+      "en": "match",
+      "translation": "مباراة / يطابق",
+      "ar": "مباراة / يطابق",
+      "pronunciation": "/mætſ/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The match starts at 5 pm.",
+          "ar": "تبدأ المباراة في الساعة 5 مساءً."
+        },
+        {
+          "en": "Match the words and pictures.",
+          "ar": "طابق الكلمات والصور."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_may",
+      "lessonId": "lsn_a1_m_1",
+      "en": "May",
+      "translation": "شهر مايو",
+      "ar": "شهر مايو",
+      "pronunciation": "/mer/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The weather is perfect in May.",
+          "ar": "الطقس مثالي في شهر مايو."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_maybe",
+      "lessonId": "lsn_a1_m_1",
+      "en": "maybe",
+      "translation": "ربما",
+      "ar": "ربما",
+      "pronunciation": "/'mer bi/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Maybe it will rain today.",
+          "ar": "ربما ستمطر اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_me",
+      "lessonId": "lsn_a1_m_1",
+      "en": "me",
+      "translation": "ني (ضمير مفعول به)",
+      "ar": "ني (ضمير مفعول به)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you help me, please?",
+          "ar": "هل يمكنك مساعدتي من فضلك؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_meal",
+      "lessonId": "lsn_a1_m_1",
+      "en": "meal",
+      "translation": "وجبة",
+      "ar": "وجبة",
+      "pronunciation": "/mil/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We had a quick meal.",
+          "ar": "تناولنا وجبة سريعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mean",
+      "lessonId": "lsn_a1_m_1",
+      "en": "mean",
+      "translation": "يقصد",
+      "ar": "يقصد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "What do you mean?",
+          "ar": "ماذا تقصد؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_meaning",
+      "lessonId": "lsn_a1_m_1",
+      "en": "meaning",
+      "translation": "معنى",
+      "ar": "معنى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you explain the meaning again?",
+          "ar": "هل يمكنك شرح المعنى مرة أخرى؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_meat",
+      "lessonId": "lsn_a1_m_1",
+      "en": "meat",
+      "translation": "لحم",
+      "ar": "لحم",
+      "pronunciation": "/mit/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I prefer chicken over meat.",
+          "ar": "أنا أفضل الدجاج على اللحم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_meet",
+      "lessonId": "lsn_a1_m_1",
+      "en": "meet",
+      "translation": "يقابل",
+      "ar": "يقابل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you meet the new teacher?",
+          "ar": "هل قابلت المعلمة الجديدة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_meeting",
+      "lessonId": "lsn_a1_m_1",
+      "en": "meeting",
+      "translation": "اجتماع / لقاء",
+      "ar": "اجتماع / لقاء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The meeting starts at 3 pm.",
+          "ar": "يبدأ الاجتماع في الساعة 3 عصراً."
+        },
+        {
+          "en": "The meeting felt like a dream.",
+          "ar": "بدأ اللقاء وكأنه حلم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_member",
+      "lessonId": "lsn_a1_m_1",
+      "en": "member",
+      "translation": "عضو",
+      "ar": "عضو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'm a member of this group.",
+          "ar": "أنا عضو في هذه المجموعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_menu",
+      "lessonId": "lsn_a1_m_1",
+      "en": "menu",
+      "translation": "قائمة الطعام",
+      "ar": "قائمة الطعام",
+      "pronunciation": "/men-ju/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Could I see the menu, please?",
+          "ar": "هل يمكنني رؤية قائمة الطعام من فضلك؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_message",
+      "lessonId": "lsn_a1_m_1",
+      "en": "message",
+      "translation": "رسالة",
+      "ar": "رسالة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you get my message?",
+          "ar": "هل تلقيت رسالتي؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_meters",
+      "lessonId": "lsn_a1_m_1",
+      "en": "meters",
+      "translation": "أمتار",
+      "ar": "أمتار",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The pool is 25 meters long.",
+          "ar": "يبلغ طول حوض السباحة 25 متراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

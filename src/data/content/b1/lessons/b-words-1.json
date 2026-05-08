@@ -1,36 +1,14 @@
 {
   "id": "lsn_b1_b_1",
   "levelId": "lvl_b1",
+  "title": "Unit 3: B Words - Part 1",
   "slug": "b-words-1",
-  "title": "Unit 4: B Words - Part 1",
-  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 1",
-  "description": "Expand your intermediate vocabulary with words starting with B.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف B.",
-  "order": 4,
-  "wordCount": 25,
+  "order": 3,
+  "wordCount": 14,
+  "titleAr": "الوحدة 3: كلمات حرف B - الجزء 1",
+  "description": "Master essential B1 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف B.",
   "words": [
-    {
-      "id": "w_b1_aware",
-      "en": "aware",
-      "ar": "مدرك / ملم بالشيء",
-      "pronunciation": "ə' weər/",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I'm aware of your problems.",
-          "ar": "أنا مدرك لمشاكلك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_backwards",
       "en": "backwards",
@@ -128,14 +106,18 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_base",
+      "id": "w_a2_base",
       "en": "base",
-      "ar": "قاعدة",
-      "pronunciation": "/bers/",
+      "ar": "مبني على",
+      "pronunciation": "/berst/",
       "lessonId": "lsn_b1_b_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
       "examples": [
+        {
+          "en": "Is this movie based on a book ?",
+          "ar": "هل هذا الفيلم مبني على كتاب ؟"
+        },
         {
           "en": "The lamp has a large round base.",
           "ar": "للمصباح قاعدة دائرية كبيرة."
@@ -144,30 +126,8 @@
       "type": "word",
       "difficulty": "B1",
       "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_based",
-      "en": "based",
-      "ar": "مبني على",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This movie is based on a true story.",
-          "ar": "هذا الفيلم مبني على قصة حقيقية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -263,7 +223,6 @@
       "id": "w_b1_beauty",
       "en": "beauty",
       "ar": "جمال",
-      "pronunciation": "",
       "lessonId": "lsn_b1_b_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -279,13 +238,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈbuːti/"
     },
     {
       "id": "w_b1_bees",
       "en": "bees",
       "ar": "نحل",
-      "pronunciation": "",
       "lessonId": "lsn_b1_b_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -301,7 +260,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/biːz/"
     },
     {
       "id": "w_b1_beliefs",
@@ -363,216 +323,6 @@
         {
           "en": "That's one of the many bends in this road.",
           "ar": "هذا واحد من العديد من المنعطفات في هذا الطريق."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_benefit",
-      "en": "benefit",
-      "ar": "يستفيد / فائدة",
-      "pronunciation": "/'ben fıt/",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We can all benefit from his experience.",
-          "ar": "يمكننا جميعا أن نستفيد من تجربته."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_better",
-      "en": "better",
-      "ar": "أفضل",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "It is the better of the two cars.",
-          "ar": "إنها أفضل السيارتين."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_bite",
-      "en": "bite",
-      "ar": "يعض / قضمة",
-      "pronunciation": "/bart/",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I promise I won't bite you.",
-          "ar": "أعدك أنني لن أعضك."
-        },
-        {
-          "en": "Ali took another bite of his sandwich.",
-          "ar": "أخذ علي قضمة أخرى من شطيرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_blocks",
-      "en": "blocks",
-      "ar": "يمنع / يسد / مربعات سكنية",
-      "pronunciation": "/blak/",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This wall blocks the wind.",
-          "ar": "هذا الجدار يمنع الريح."
-        },
-        {
-          "en": "Walk three blocks and then turn right.",
-          "ar": "امش ثلاث مربعات سكنية ثم انعطف يمينا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_boarded",
-      "en": "boarded",
-      "ar": "صعد على متن",
-      "pronunciation": "/bord/",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Sami boarded the plane.",
-          "ar": "صعد سامي على متن الطائرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_bombs",
-      "en": "bombs",
-      "ar": "قنابل / يقصف",
-      "pronunciation": "/bam/",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Many cities were destroyed by bombs.",
-          "ar": "العديد من المدن دمرت بواسطة القنابل."
-        },
-        {
-          "en": "They bombed several air ports.",
-          "ar": "قصفوا عدة مطارات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_border",
-      "en": "border",
-      "ar": "حدود",
-      "pronunciation": "/'bər dər/",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They crossed the border into Spain.",
-          "ar": "عبروا الحدود إلى إسبانيا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_bother",
-      "en": "bother",
-      "ar": "يزعج",
-      "pronunciation": "/'ba-dər/",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I won't bother you.",
-          "ar": "لن أزعجك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_branches",
-      "en": "branches",
-      "ar": "فروع",
-      "pronunciation": "/brænt /",
-      "lessonId": "lsn_b1_b_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We have branches everywhere.",
-          "ar": "لدينا فروع في كل مكان."
         }
       ],
       "type": "word",

@@ -1,0 +1,509 @@
+{
+  "id": "lsn_b2_o_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 37: O Words - Part 2",
+  "slug": "o-words-2",
+  "order": 37,
+  "wordCount": 22,
+  "titleAr": "الوحدة 37: كلمات حرف O - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter O.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف O.",
+  "words": [
+    {
+      "id": "w_b2_oppose",
+      "en": "oppose",
+      "ar": "لمعارضة",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They gathered to oppose the unfair laws.",
+          "ar": "لقد تجمعوا لمعارضة القوانين الجائرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈpəʊz/"
+    },
+    {
+      "id": "w_b2_opposed",
+      "en": "opposed",
+      "ar": "معارض",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is opposed to any form of cheating.",
+          "ar": "إنه معارض لأي شكل من أشكال الغش."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈpəʊzd/"
+    },
+    {
+      "id": "w_b2_opposition",
+      "en": "opposition",
+      "ar": "معارضة",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He faced strong opposition during the election.",
+          "ar": "واجه معارضة قوية أثناء الانتخابات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɒpəˈzɪʃən/"
+    },
+    {
+      "id": "w_b2_optimistic",
+      "en": "optimistic",
+      "ar": "متفائل",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The teacher is optimistic about student progress this year.",
+          "ar": "المعلم متفائل بشأن مدى تقدم الطلاب هذا العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɒptɪˈmɪstɪk/"
+    },
+    {
+      "id": "w_b2_orchestra",
+      "en": "orchestra",
+      "ar": "الأوركسترا",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The orchestra played a mix of classical and modern pieces.",
+          "ar": "عزفت الأوركسترا مزيجاً من المقطوعات الكلاسيكية والحديثة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɔːkəstɹə/"
+    },
+    {
+      "id": "w_b2_organ",
+      "en": "organ",
+      "ar": "عضو",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The heart is the most powerful muscle organ.",
+          "ar": "القلب هو أقوى عضو عضلي في الجسم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɔː.ɡən/"
+    },
+    {
+      "id": "w_b2_organic",
+      "en": "organic",
+      "ar": "عضوية",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The farm produces only organic fruits and vegetables.",
+          "ar": "تنتج المزرعة فواكه وخضروات عضوية فقط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɔːˈɡænɪk/"
+    },
+    {
+      "id": "w_b2_origin",
+      "en": "origin",
+      "ar": "أصل",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The origin of the story dates back centuries.",
+          "ar": "يعود أصل القصة إلى قرون مضت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɒɹ.ə.dʒən/"
+    },
+    {
+      "id": "w_b2_otherwise",
+      "en": "otherwise",
+      "ar": "وإلا",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Follow instructions, otherwise it won't work properly.",
+          "ar": "اتبع التعليمات، وإلا لن يعمل بشكل صحيح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈʌð.əˌwaɪz/"
+    },
+    {
+      "id": "w_b2_outcome",
+      "en": "outcome",
+      "ar": "نتائج",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We were pleased with the outcome of negotiations.",
+          "ar": "لقد سررنا بنتائج المفاوضات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈaʊtkʌm/"
+    },
+    {
+      "id": "w_b2_outer",
+      "en": "outer",
+      "ar": "الخارجية",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The outer walls protect the inner rooms.",
+          "ar": "الجدران الخارجية تحمي الغرف الداخلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈaʊtə/"
+    },
+    {
+      "id": "w_b2_outfit",
+      "en": "outfit",
+      "ar": "ملابس",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I need a new outfit for the wedding.",
+          "ar": "أحتاج إلى ملابس جديدة لحفل الزفاف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈaʊtfɪt/"
+    },
+    {
+      "id": "w_b2_outline",
+      "en": "outline",
+      "ar": "الخطوط العريضة / توضح",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can you outline the schedule for next week?",
+          "ar": "هل يمكنك أن توضح الجدول الزمني للأسبوع القادم؟"
+        },
+        {
+          "en": "The outline of the project is nearly finished.",
+          "ar": "أوشكت الخطوط العريضة للمشروع على الانتهاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈaʊtlaɪn/"
+    },
+    {
+      "id": "w_b2_output",
+      "en": "output",
+      "ar": "نتائج",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The team analyzed the output of their research.",
+          "ar": "قام الفريق بتحليل نتائج بحثهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈaʊtpʊt/"
+    },
+    {
+      "id": "w_b2_outstanding",
+      "en": "outstanding",
+      "ar": "باهراً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The team achieved outstanding success this season.",
+          "ar": "حقق الفريق نجاحاً باهراً هذا الموسم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_overall",
+      "en": "overall",
+      "ar": "بشكل عام",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His overall progress has been very impressive.",
+          "ar": "كان تقدمه بشكل عام رائعًا للغاية."
+        },
+        {
+          "en": "Overall, the presentation went better than expected.",
+          "ar": "بشكل عام، سار العرض التقديمي بشكل أفضل من المتوقع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_overcame",
+      "en": "overcame",
+      "ar": "تغلب",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He overcame his fear of public speaking.",
+          "ar": "لقد تغلب على خوفه من التحدث أمام الجمهور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌəʊvəˈkeɪm/"
+    },
+    {
+      "id": "w_b2_overnight",
+      "en": "overnight",
+      "ar": "خلال الليل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The paint dried overnight in the cold air.",
+          "ar": "جف الطلاء خلال الليل في الهواء البارد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_overseas",
+      "en": "overseas",
+      "ar": "الخارجية / الخارج",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He moved overseas for a better career opportunity.",
+          "ar": "انتقل إلى الخارج من أجل فرصة عمل أفضل."
+        },
+        {
+          "en": "The company expanded its operations to overseas markets.",
+          "ar": "وسعت الشركة عملياتها إلى الأسواق الخارجية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌəʊvəˈsiːz/"
+    },
+    {
+      "id": "w_b2_owe",
+      "en": "owe",
+      "ar": "مدينون",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We owe the bank a large loan payment.",
+          "ar": "نحن مدينون للبنك بدفعة قرض كبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əʊ/"
+    },
+    {
+      "id": "w_b2_ownership",
+      "en": "ownership",
+      "ar": "الملكية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The government encouraged private ownership of land.",
+          "ar": "شجعت الحكومة الملكية الخاصة للأراضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_oxygen",
+      "en": "oxygen",
+      "ar": "الأكسجين",
+      "lessonId": "lsn_b2_o_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She took a deep breath to get more oxygen.",
+          "ar": "أخذت نفساً عميقاً للحصول على المزيد من الأكسجين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɒksɪdʒən/"
+    }
+  ]
+}

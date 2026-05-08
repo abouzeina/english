@@ -1,0 +1,453 @@
+{
+  "id": "lsn_b2_i_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 26: I Words - Part 2",
+  "slug": "i-words-2",
+  "order": 26,
+  "wordCount": 20,
+  "titleAr": "الوحدة 26: كلمات حرف I - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter I.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف I.",
+  "words": [
+    {
+      "id": "w_b2_income",
+      "en": "income",
+      "ar": "دخلنا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We are saving part of our income for medical expenses.",
+          "ar": "نحن ندخر جزءًا من دخلنا للنفقات الطبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incorporate",
+      "en": "incorporate",
+      "ar": "إدخال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The chef likes to incorporate fresh herbs into his dishes.",
+          "ar": "يحب الشيف إدخال الأعشاب الطازجة في أطباقه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incorrect",
+      "en": "incorrect",
+      "ar": "غير صحيحة",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The map gave incorrect directions to the beach.",
+          "ar": "أعطت الخريطة اتجاهات غير صحيحة إلى الشاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɪnkəˈɹɛkt/"
+    },
+    {
+      "id": "w_b2_increasingly",
+      "en": "increasingly",
+      "ar": "بشكل متزايد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The cost of living is becoming increasingly expensive.",
+          "ar": "أصبحت تكاليف المعيشة باهظة بشكل متزايد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_independence",
+      "en": "independence",
+      "ar": "الاستقلال",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He works hard to achieve financial independence.",
+          "ar": "يعمل بجد لتحقيق الاستقلال المالي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪndɪˈpɛndəns/"
+    },
+    {
+      "id": "w_b2_index",
+      "en": "index",
+      "ar": "فهرس",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The book has a detailed index at the back.",
+          "ar": "يحتوي الكتاب على فهرس مفصل في الخلف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪndɛks/"
+    },
+    {
+      "id": "w_b2_indication",
+      "en": "indication",
+      "ar": "إشارة",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her smile was an indication that she was happy.",
+          "ar": "كانت ابتسامتها إشارة على انها سعيدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪndɪˈkeɪʃən/"
+    },
+    {
+      "id": "w_b2_industrial",
+      "en": "Industrial",
+      "ar": "الصناعي",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Industrial pollution is a major concern.",
+          "ar": "التلوث الصناعي هو مصدر قلق كبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdʌstɹɪəl/"
+    },
+    {
+      "id": "w_b2_inevitable",
+      "en": "inevitable",
+      "ar": "لا مفر منه",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Death is inevitable for all living beings.",
+          "ar": "الموت أمر لا مفر منه لجميع الكائنات الحية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈɛvɪtəbəl/"
+    },
+    {
+      "id": "w_b2_inevitably",
+      "en": "inevitably",
+      "ar": "لا محالة",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He will inevitably face the consequences.",
+          "ar": "سيواجه العواقب لا محالة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈnɛvətəbli/"
+    },
+    {
+      "id": "w_b2_infection",
+      "en": "Infection",
+      "ar": "العدوى",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Infection can spread quickly in hospitals.",
+          "ar": "يمكن أن تنتشر العدوى بسرعة في المستشفيات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈfɛkʃən/"
+    },
+    {
+      "id": "w_b2_inferred",
+      "en": "inferred",
+      "ar": "استدلت",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She inferred from his silence that he was upset.",
+          "ar": "استدلت من صمته أنه كان منزعجا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈfɜːd/"
+    },
+    {
+      "id": "w_b2_inflation",
+      "en": "inflation",
+      "ar": "التضخم",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The cost of living has increased due to inflation.",
+          "ar": "ارتفعت تكاليف المعيشة بسبب التضخم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈfleɪʃən/"
+    },
+    {
+      "id": "w_b2_info",
+      "en": "info",
+      "ar": "معلومات",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can you give me more info about the event ?",
+          "ar": "هل يمكن أن تعطيني المزيد من المعلومات حول الفعالية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪnfəʊ/"
+    },
+    {
+      "id": "w_b2_informed",
+      "en": "informed",
+      "ar": "أبلغونا",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They informed us about the new policies.",
+          "ar": "لقد أبلغونا بالسياسات الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈfɔːmd/"
+    },
+    {
+      "id": "w_b2_infrastructure",
+      "en": "infrastructure",
+      "ar": "البنية التحتية",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The infrastructure of the new stadium is impressive.",
+          "ar": "البنية التحتية للملعب الجديد مثيرة للإعجاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪnfɹəˌstɹʌk(t)ʃɚ/"
+    },
+    {
+      "id": "w_b2_inhabitants",
+      "en": "inhabitants",
+      "ar": "سكان",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The island's inhabitants are friendly.",
+          "ar": "سكان الجزيرة ودودون"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈhæbɪtənts/"
+    },
+    {
+      "id": "w_b2_inherit",
+      "en": "inherit",
+      "ar": "يرث",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is expected to inherit a large fortune.",
+          "ar": "من المتوقع أن يرث ثروة كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_initial",
+      "en": "initial",
+      "ar": "الأولية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She felt nervous during the initial interview.",
+          "ar": "هي شعرت بالتوتر أثناء المقابلة الأولية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_initially",
+      "en": "Initially",
+      "ar": "في البداية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Initially, they thought it was a mistake.",
+          "ar": "في البداية، اعتقدوا أنه كان خطأ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

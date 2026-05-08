@@ -1,14 +1,321 @@
 {
   "id": "lsn_a1_m_3",
-  "levelId": "lvl_1",
-  "title": "M Words - Part 3",
+  "levelId": "lvl_a1",
+  "title": "Unit 26: M Words - Part 3",
   "slug": "m-words-3",
   "order": 26,
-  "wordCount": 3,
-  "titleAr": "كلمات حرف M - الجزء 3",
-  "description": "Learn essential A1 vocabulary starting with the letter M.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف M.",
+  "wordCount": 17,
+  "titleAr": "الوحدة 26: كلمات حرف M - الجزء 3",
+  "description": "Master essential A1 vocabulary starting with the letter M.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف M.",
   "words": [
+    {
+      "id": "w_a1_money",
+      "lessonId": "lsn_a1_m_3",
+      "en": "money",
+      "translation": "مال / نقود",
+      "ar": "مال / نقود",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I lost all my money.",
+          "ar": "لقد فقدت كل أموالي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmʌni/"
+    },
+    {
+      "id": "w_a1_month",
+      "lessonId": "lsn_a1_m_3",
+      "en": "month",
+      "translation": "شهر",
+      "ar": "شهر",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I read two books this month.",
+          "ar": "قرأت كتابين هذا الشهر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mʌnθ/"
+    },
+    {
+      "id": "w_a1_more",
+      "lessonId": "lsn_a1_m_3",
+      "en": "more",
+      "translation": "أكثر / المزيد",
+      "ar": "أكثر / المزيد",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She knows more than you think.",
+          "ar": "إنها تعرف أكثر مما تعتقد."
+        },
+        {
+          "en": "Do you want more coffee?",
+          "ar": "هل تريد المزيد من القهوة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɔː/"
+    },
+    {
+      "id": "w_a1_morning",
+      "lessonId": "lsn_a1_m_3",
+      "en": "morning",
+      "translation": "صباح",
+      "ar": "صباح",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Good morning !! How are you today?",
+          "ar": "صباح الخير !! كيف حالك اليوم؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɔːnɪŋ/"
+    },
+    {
+      "id": "w_a1_most",
+      "lessonId": "lsn_a1_m_3",
+      "en": "most",
+      "translation": "معظم / الأكثر",
+      "ar": "معظم / الأكثر",
+      "pronunciation": "/moust/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Most cats love to sleep.",
+          "ar": "معظم القطط تحب النوم."
+        },
+        {
+          "en": "These shoes are the most expensive.",
+          "ar": "هذه الأحذية هي الأكثر تكلفة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mother",
+      "lessonId": "lsn_a1_m_3",
+      "en": "mother",
+      "translation": "أم / والدة",
+      "ar": "أم / والدة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My mother loves to cook.",
+          "ar": "أمي تحب الطبخ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmʌðə(ɹ)/"
+    },
+    {
+      "id": "w_a1_mountain",
+      "lessonId": "lsn_a1_m_3",
+      "en": "mountain",
+      "translation": "جبل",
+      "ar": "جبل",
+      "pronunciation": "/'maun tən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They live near the mountain.",
+          "ar": "إنهم يعيشون بالقرب من الجبل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mouse",
+      "lessonId": "lsn_a1_m_3",
+      "en": "mouse",
+      "translation": "فأر / ماوس",
+      "ar": "فأر / ماوس",
+      "pronunciation": "/maus/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a mouse today.",
+          "ar": "رأيت فأراً اليوم."
+        },
+        {
+          "en": "I need a new mouse.",
+          "ar": "أحتاج إلى ماوس جديد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mouth",
+      "lessonId": "lsn_a1_m_3",
+      "en": "mouth",
+      "translation": "فم",
+      "ar": "فم",
+      "pronunciation": "/mαυθ/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He has a large mouth.",
+          "ar": "لديه فم كبير."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_move",
+      "lessonId": "lsn_a1_m_3",
+      "en": "move",
+      "translation": "يتحرك",
+      "ar": "يتحرك",
+      "pronunciation": "/muv/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Don't move, I'll be back soon.",
+          "ar": "لا تتحرك، سأعود قريباً."
+        },
+        {
+          "en": "Any move makes a huge pain.",
+          "ar": "أي حركة تسبب ألما كبيرا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_movie",
+      "lessonId": "lsn_a1_m_3",
+      "en": "movie",
+      "translation": "فيلم",
+      "ar": "فيلم",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The movie starts at seven.",
+          "ar": "يبدأ الفيلم في الساعة السابعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmuːvi/"
+    },
+    {
+      "id": "w_a1_much",
+      "lessonId": "lsn_a1_m_3",
+      "en": "much",
+      "translation": "الكثير / كثيراً",
+      "ar": "الكثير / كثيراً",
+      "pronunciation": "/m^tf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I don't have much time.",
+          "ar": "ليس لدي الكثير من الوقت."
+        },
+        {
+          "en": "I don't like it much.",
+          "ar": "لا يعجبني كثيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_mum",
+      "lessonId": "lsn_a1_m_3",
+      "en": "mum",
+      "translation": "أمي",
+      "ar": "أمي",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Mum is calling you now.",
+          "ar": "أمي تتصل بك الآن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mʌm/"
+    },
     {
       "id": "w_a1_museum",
       "lessonId": "lsn_a1_m_3",
@@ -37,7 +344,6 @@
       "en": "music",
       "translation": "موسيقى",
       "ar": "موسيقى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +357,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈmjuːzɪk/"
     },
     {
       "id": "w_a1_must",
@@ -74,6 +381,28 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_my",
+      "lessonId": "lsn_a1_m_3",
+      "en": "my",
+      "translation": "ضمير ملكية (لي)",
+      "ar": "ضمير ملكية (لي)",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I forgot my keys at home.",
+          "ar": "نسيت مفاتيحي في المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mi/"
     }
   ]
 }

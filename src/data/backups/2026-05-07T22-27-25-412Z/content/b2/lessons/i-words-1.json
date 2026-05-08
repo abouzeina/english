@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_i_1",
+  "levelId": "lvl_b2",
+  "slug": "i-words-1",
+  "title": "I Words - Part 1",
+  "titleAr": "كلمات حرف I - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter I.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف I.",
+  "order": 31,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_icon",
+      "en": "icon",
+      "ar": "أيقونة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_id",
+      "en": "ID",
+      "ar": "بطاقتك الشخصية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ideals",
+      "en": "ideals",
+      "ar": "المثل العليا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_identical",
+      "en": "identical",
+      "ar": "متطابقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_illusion",
+      "en": "illusion",
+      "ar": "وهم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_illustrate",
+      "en": "illustrate",
+      "ar": "توضيح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_illustration",
+      "en": "illustration",
+      "ar": "رسم توضيحي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_imagination",
+      "en": "imagination",
+      "ar": "المخيلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_immigration",
+      "en": "immigration",
+      "ar": "الهجرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_immune",
+      "en": "immune",
+      "ar": "مناعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_impatient",
+      "en": "impatient",
+      "ar": "متلهفا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_implement",
+      "en": "implement",
+      "ar": "تنفيذ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_implications",
+      "en": "implications",
+      "ar": "آثار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_implied",
+      "en": "implied",
+      "ar": "أوحت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_impose",
+      "en": "impose",
+      "ar": "تفرض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_impressed",
+      "en": "impressed",
+      "ar": "معجبا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_impresses",
+      "en": "impresses",
+      "ar": "يبهرني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incentive",
+      "en": "incentive",
+      "ar": "كحافز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inch",
+      "en": "inch",
+      "ar": "بوصة واحدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incident",
+      "en": "incident",
+      "ar": "الحادث",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_income",
+      "en": "income",
+      "ar": "دخلنا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incorporate",
+      "en": "incorporate",
+      "ar": "إدخال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_incorrect",
+      "en": "incorrect",
+      "ar": "غير صحيحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_increasingly",
+      "en": "increasingly",
+      "ar": "بشكل متزايد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_independence",
+      "en": "independence",
+      "ar": "الاستقلال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

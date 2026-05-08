@@ -1,0 +1,409 @@
+{
+  "total": 5327,
+  "malformed": [
+    "say n. C",
+    "sexuality n. C"
+  ],
+  "sample": [
+    {
+      "word": "a",
+      "level": "A1"
+    },
+    {
+      "word": "an",
+      "level": "A1"
+    },
+    {
+      "word": "abandon",
+      "level": "B2"
+    },
+    {
+      "word": "ability",
+      "level": "A2"
+    },
+    {
+      "word": "able",
+      "level": "A2"
+    },
+    {
+      "word": "about",
+      "level": "A1"
+    },
+    {
+      "word": "above",
+      "level": "A1"
+    },
+    {
+      "word": "abroad",
+      "level": "A2"
+    },
+    {
+      "word": "absolute",
+      "level": "B2"
+    },
+    {
+      "word": "absolutely",
+      "level": "B1"
+    },
+    {
+      "word": "academic adj.B1",
+      "level": "B2"
+    },
+    {
+      "word": "",
+      "level": "B2"
+    },
+    {
+      "word": "accept",
+      "level": "A2"
+    },
+    {
+      "word": "acceptable",
+      "level": "B2"
+    },
+    {
+      "word": "access",
+      "level": "B1"
+    },
+    {
+      "word": "accident",
+      "level": "A2"
+    },
+    {
+      "word": "accommodation",
+      "level": "B1"
+    },
+    {
+      "word": "accompany",
+      "level": "B2"
+    },
+    {
+      "word": "according to",
+      "level": "A2"
+    },
+    {
+      "word": "account",
+      "level": "B1"
+    },
+    {
+      "word": "account",
+      "level": "B2"
+    },
+    {
+      "word": "accurate",
+      "level": "B2"
+    },
+    {
+      "word": "accuse",
+      "level": "B2"
+    },
+    {
+      "word": "achieve",
+      "level": "A2"
+    },
+    {
+      "word": "achievement",
+      "level": "B1"
+    },
+    {
+      "word": "acknowledge",
+      "level": "B2"
+    },
+    {
+      "word": "acquire",
+      "level": "B2"
+    },
+    {
+      "word": "across",
+      "level": "A1"
+    },
+    {
+      "word": "act",
+      "level": "A2"
+    },
+    {
+      "word": "act",
+      "level": "B1"
+    },
+    {
+      "word": "action",
+      "level": "A1"
+    },
+    {
+      "word": "active",
+      "level": "A2"
+    },
+    {
+      "word": "activity",
+      "level": "A1"
+    },
+    {
+      "word": "actor",
+      "level": "A1"
+    },
+    {
+      "word": "actress",
+      "level": "A1"
+    },
+    {
+      "word": "actual",
+      "level": "B2"
+    },
+    {
+      "word": "actually",
+      "level": "A2"
+    },
+    {
+      "word": "ad",
+      "level": "B1"
+    },
+    {
+      "word": "adapt",
+      "level": "B2"
+    },
+    {
+      "word": "add",
+      "level": "A1"
+    },
+    {
+      "word": "addition",
+      "level": "B1"
+    },
+    {
+      "word": "additional",
+      "level": "B2"
+    },
+    {
+      "word": "address",
+      "level": "A1"
+    },
+    {
+      "word": "address",
+      "level": "B2"
+    },
+    {
+      "word": "administration",
+      "level": "B2"
+    },
+    {
+      "word": "admire",
+      "level": "B1"
+    },
+    {
+      "word": "admit",
+      "level": "B1"
+    },
+    {
+      "word": "adopt",
+      "level": "B2"
+    },
+    {
+      "word": "adult",
+      "level": "A1"
+    },
+    {
+      "word": "adult",
+      "level": "A2"
+    },
+    {
+      "word": "advance",
+      "level": "B2"
+    },
+    {
+      "word": "advanced",
+      "level": "B1"
+    },
+    {
+      "word": "advantage",
+      "level": "A2"
+    },
+    {
+      "word": "adventure",
+      "level": "A2"
+    },
+    {
+      "word": "advertise",
+      "level": "A2"
+    },
+    {
+      "word": "advertisement",
+      "level": "A2"
+    },
+    {
+      "word": "advertising",
+      "level": "A2"
+    },
+    {
+      "word": "advice",
+      "level": "A1"
+    },
+    {
+      "word": "advise",
+      "level": "B1"
+    },
+    {
+      "word": "affair",
+      "level": "B2"
+    },
+    {
+      "word": "affect",
+      "level": "A2"
+    },
+    {
+      "word": "afford",
+      "level": "B1"
+    },
+    {
+      "word": "afraid",
+      "level": "A1"
+    },
+    {
+      "word": "after",
+      "level": "A1"
+    },
+    {
+      "word": "after",
+      "level": "A2"
+    },
+    {
+      "word": "afternoon",
+      "level": "A1"
+    },
+    {
+      "word": "afterwards",
+      "level": "B2"
+    },
+    {
+      "word": "again",
+      "level": "A1"
+    },
+    {
+      "word": "against",
+      "level": "A2"
+    },
+    {
+      "word": "age",
+      "level": "A1"
+    },
+    {
+      "word": "age",
+      "level": "B1"
+    },
+    {
+      "word": "aged",
+      "level": "B1"
+    },
+    {
+      "word": "agency",
+      "level": "B2"
+    },
+    {
+      "word": "agenda",
+      "level": "B2"
+    },
+    {
+      "word": "agent",
+      "level": "B1"
+    },
+    {
+      "word": "aggressive",
+      "level": "B2"
+    },
+    {
+      "word": "ago",
+      "level": "A1"
+    },
+    {
+      "word": "agree",
+      "level": "A1"
+    },
+    {
+      "word": "agreement",
+      "level": "B1"
+    },
+    {
+      "word": "ah",
+      "level": "A2"
+    },
+    {
+      "word": "ahead",
+      "level": "B1"
+    },
+    {
+      "word": "aid",
+      "level": "B2"
+    },
+    {
+      "word": "aim",
+      "level": "B1"
+    },
+    {
+      "word": "air",
+      "level": "A1"
+    },
+    {
+      "word": "aircraft",
+      "level": "B2"
+    },
+    {
+      "word": "airline",
+      "level": "A2"
+    },
+    {
+      "word": "airport",
+      "level": "A1"
+    },
+    {
+      "word": "alarm",
+      "level": "B1"
+    },
+    {
+      "word": "alarm",
+      "level": "B2"
+    },
+    {
+      "word": "album",
+      "level": "B1"
+    },
+    {
+      "word": "alcohol",
+      "level": "B1"
+    },
+    {
+      "word": "alcoholic",
+      "level": "B1"
+    },
+    {
+      "word": "alive",
+      "level": "A2"
+    },
+    {
+      "word": "all",
+      "level": "A1"
+    },
+    {
+      "word": "all",
+      "level": "A2"
+    },
+    {
+      "word": "all right",
+      "level": "A2"
+    },
+    {
+      "word": "allow",
+      "level": "A2"
+    },
+    {
+      "word": "almost",
+      "level": "A2"
+    },
+    {
+      "word": "alone",
+      "level": "A2"
+    },
+    {
+      "word": "along",
+      "level": "A2"
+    }
+  ]
+}

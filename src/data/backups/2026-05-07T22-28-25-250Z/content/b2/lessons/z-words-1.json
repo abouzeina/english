@@ -1,0 +1,35 @@
+{
+  "id": "lsn_b2_z_1",
+  "levelId": "lvl_b2",
+  "slug": "z-words-1",
+  "title": "Z Words - Part 1",
+  "titleAr": "كلمات حرف Z - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter Z.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف Z.",
+  "order": 63,
+  "wordCount": 1,
+  "words": [
+    {
+      "id": "w_b2_zone",
+      "en": "zone",
+      "ar": "منطقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_z_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The war zone was heavily guarded by soldiers.",
+          "ar": "كانت منطقة الحرب تحت حراسة مشددة من قبل"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

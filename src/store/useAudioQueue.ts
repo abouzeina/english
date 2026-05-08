@@ -1,4 +1,5 @@
 import { create } from 'zustand';
+import { getBestEnglishVoice } from '@/utils/audioVoice';
 
 // Interface for swappable Audio Backend (ElevenLabs, Azure, WebSpeech)
 export interface AudioBackend {
@@ -18,39 +19,62 @@ interface AudioOptions {
 class WebSpeechBackend implements AudioBackend {
   private synth = typeof window !== 'undefined' ? window.speechSynthesis : null;
   private currentUtterance: SpeechSynthesisUtterance | null = null;
+  private currentPlayId: number = 0;
+  private playTimeout: NodeJS.Timeout | null = null;
 
   async play(text: string, options?: AudioOptions): Promise<void> {
     if (!this.synth) return Promise.resolve();
 
+    const playId = ++this.currentPlayId;
+
     return new Promise((resolve, reject) => {
       // Cancel any ongoing speech to prevent overlap
       this.synth!.cancel();
+      this.currentUtterance = null;
+      if (this.playTimeout) clearTimeout(this.playTimeout);
 
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = "en-US";
-      utterance.rate = options?.speed || 1;
-      
-      utterance.onend = () => {
-        if (options?.onEnd) options.onEnd();
-        resolve();
-      };
-      
-      utterance.onerror = (e) => {
-        // Ignore abort errors caused by synth.cancel()
-        if (e.error !== 'canceled') {
-          if (options?.onError) options.onError(new Error(e.error));
-          reject(e);
-        } else {
-          resolve();
+      // Small delay to ensure previous utterance is fully cancelled by the browser
+      this.playTimeout = setTimeout(() => {
+        if (this.currentPlayId !== playId) {
+           // A newer play request superseded this one
+           return resolve();
         }
-      };
 
-      this.currentUtterance = utterance;
-      this.synth!.speak(utterance);
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = "en-US";
+        
+        const bestVoice = getBestEnglishVoice();
+        if (bestVoice) {
+          utterance.voice = bestVoice;
+        }
+        
+        utterance.rate = options?.speed || 1;
+        
+        utterance.onend = () => {
+          if (this.currentPlayId === playId) {
+             if (options?.onEnd) options.onEnd();
+             resolve();
+          }
+        };
+        
+        utterance.onerror = (e) => {
+          if (e.error !== 'canceled') {
+            if (options?.onError) options.onError(new Error(e.error));
+            reject(e);
+          } else {
+            resolve();
+          }
+        };
+
+        this.currentUtterance = utterance;
+        this.synth!.speak(utterance);
+      }, 50);
     });
   }
 
   stop() {
+    this.currentPlayId++; // Invalidate any pending timeouts
+    if (this.playTimeout) clearTimeout(this.playTimeout);
     if (this.synth) this.synth.cancel();
     this.currentUtterance = null;
   }

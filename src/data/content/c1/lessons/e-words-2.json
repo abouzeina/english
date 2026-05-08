@@ -1,0 +1,541 @@
+{
+  "id": "lsn_c1_e_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 10: E Words - Part 2",
+  "slug": "e-words-2",
+  "order": 10,
+  "wordCount": 24,
+  "titleAr": "الوحدة 10: كلمات حرف E - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف E.",
+  "words": [
+    {
+      "id": "w_c1_encouraging",
+      "en": "encouraging",
+      "ar": "مشجع",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "النتائج الأولية للتجربة الطبية مشجعة للغاية",
+          "ar": "The coach gave the team an encouraging speech before the game."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈkʌɹɪd͡ʒɪŋ/"
+    },
+    {
+      "id": "w_c1_endeavour",
+      "en": "endeavour",
+      "ar": "مسعى / مجهود",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "البحث العلمي مسعى بشري نبيل",
+          "ar": "We wish you the best of luck in your future endeavour."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdɛv.ə/"
+    },
+    {
+      "id": "w_c1_endless",
+      "en": "endless",
+      "ar": "لا نهائي / مستمر",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدا أن المشروع يتضمن سلسلة لا نهائية من الاجتماعات",
+          "ar": "The kids have endless energy even after playing all day."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛndləs/"
+    },
+    {
+      "id": "w_c1_endorse",
+      "en": "endorse",
+      "ar": "يدعم / يصادق",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تلقى المشهور مقابلاً لدعم (الترويج لـ) العلامة التجارية الجديدة للعطر",
+          "ar": "The committee refused to endorse the proposed changes."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdɔːs/"
+    },
+    {
+      "id": "w_c1_endorsement",
+      "en": "endorsement",
+      "ar": "دعم / مصادقة",
+      "pronunciation": "ɪnˈdɔːsmənt",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تلقى المرشح دعماً رسمياً من النقابة",
+          "ar": "Winning the championship was the best endorsement of his talent."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_endure",
+      "en": "endure",
+      "ar": "يتحمل / يصمد",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان عليه تحمل العديد من المصاعب خلال رحلته الطويلة",
+          "ar": "The ancient ruins have managed to endure for centuries."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdjɔː(ɹ)/"
+    },
+    {
+      "id": "w_c1_enforce",
+      "en": "enforce",
+      "ar": "يفرض / ينفذ",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الشرطة موجودة هنا لفرض قوانين البلاد",
+          "ar": "It is difficult to enforce regulations without cooperation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈfɔːs/"
+    },
+    {
+      "id": "w_c1_enforcement",
+      "en": "enforcement",
+      "ar": "تنفيذ / فرض",
+      "pronunciation": "ɪnˈfɔːsmənt",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعمل وكالات إنفاذ القانون على تقليل الجريمة",
+          "ar": "The strict enforcement of rules led to a safer environment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_engagement",
+      "en": "engagement",
+      "ar": "خطوبة / مشاركة / التزام",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعلن الزوجان خطوبتهما لأصدقائهما",
+          "ar": "The company saw a high level of employee engagement this year."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈɡeɪd͡ʒ.mənt/"
+    },
+    {
+      "id": "w_c1_engaging",
+      "en": "engaging",
+      "ar": "جذاب / ممتع",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ألقى الأستاذ محاضرة ممتعة وجذابة للغاية عن التاريخ",
+          "ar": "She has an engaging personality that makes people feel at ease."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈɡeɪd͡ʒɪŋ/"
+    },
+    {
+      "id": "w_c1_enquire",
+      "en": "enquire",
+      "ar": "يستفسر / يسأل",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اتصلت بالمكتب للاستفسار عن شاغر الوظيفة",
+          "ar": "She decided to enquire about the prices of the new cars."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪŋˈkwaɪə/"
+    },
+    {
+      "id": "w_c1_enrich",
+      "en": "enrich",
+      "ar": "يثري / يغني",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قراءة كتب متنوعة ستساعد في إثراء مفرداتك",
+          "ar": "The goal of the program is to enrich the lives of children."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈɹɪt͡ʃ/"
+    },
+    {
+      "id": "w_c1_ensue",
+      "en": "ensue",
+      "ar": "يلي / يتبع",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكنت الفوضى من الحدوث (تبعت) بعد انقطاع التيار الكهربائي المفاجئ",
+          "ar": "A heated argument is likely to ensue if they discuss politics."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛnˈsjʉː/"
+    },
+    {
+      "id": "w_c1_enterprise",
+      "en": "enterprise",
+      "ar": "مشروع / مؤسسة",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدء عمل جديد هو مشروع محفوف بالمخاطر ولكنه مثير",
+          "ar": "The small enterprise grew into a global corporation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛntɚˌpɹaɪz/"
+    },
+    {
+      "id": "w_c1_enthusiast",
+      "en": "enthusiast",
+      "ar": "متحمس / هاوٍ",
+      "pronunciation": "ɪnˈθjuːziæst",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه متحمس للياقة البدنية يذهب إلى النادي الرياضي يومياً",
+          "ar": "As a tech enthusiast, she always buys the latest gadgets."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_entitle",
+      "en": "entitle",
+      "ar": "يخول / يعنون",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ستخولك البطاقة الذهبية الدخول المجاني للقاعة",
+          "ar": "He decided to entitle his new book \"The Path to Success\"."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ənˈtaɪtəl/"
+    },
+    {
+      "id": "w_c1_entity",
+      "en": "entity",
+      "ar": "كيان / وجود مستقل",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اندمجت الشركتان لإنشاء كيان قانوني واحد",
+          "ar": "The mind is often treated as a separate entity from the body."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈen.tɪ.ti/"
+    },
+    {
+      "id": "w_c1_epidemic",
+      "en": "epidemic",
+      "ar": "وباء / جائحة",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعمل منظمة الصحة على احتواء وباء الإنفلونزا",
+          "ar": "Obesity has reached epidemic proportions in some countries."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɛpɪˈdɛmɪk/"
+    },
+    {
+      "id": "w_c1_equality",
+      "en": "equality",
+      "ar": "مساواة",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تدعو الحركة إلى المساواة بين الجنسين في مكان العمل",
+          "ar": "We must strive for social and economic equality."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈkwɒl.ɪ.ti/"
+    },
+    {
+      "id": "w_c1_equation",
+      "en": "equation",
+      "ar": "معادلة",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كافح العالم لحل المعادلة الرياضية المعقدة",
+          "ar": "Money is only one part of the happiness equation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈkweɪʃən/"
+    },
+    {
+      "id": "w_c1_erect",
+      "en": "erect",
+      "ar": "يشيد / يبني",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تخطط المدينة لتشييد تمثال في الميدان الرئيسي",
+          "ar": "They had to erect a temporary fence around the site."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈɹɛkt/"
+    },
+    {
+      "id": "w_c1_escalate",
+      "en": "escalate",
+      "ar": "يصعد / يتفاقم",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأ النزاع البسيط في التصاعد إلى أعمال شغب واسعة النطاق",
+          "ar": "The cost of the project continued to escalate over time."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛs.kə.leɪt/"
+    },
+    {
+      "id": "w_c1_essence",
+      "en": "essence",
+      "ar": "جوهر / أساس",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حرية التعبير هي جوهر الديمقراطية الحقيقية",
+          "ar": "The artist captured the essence of the landscape in his painting."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛsəns/"
+    },
+    {
+      "id": "w_c1_establishment",
+      "en": "establishment",
+      "ar": "مؤسسة / تأسيس",
+      "lessonId": "lsn_c1_e_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الفندق مؤسسة معروفة جيداً في المدينة",
+          "ar": "The establishment of a new school will benefit the community."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈstæblɪʃmənt/"
+    }
+  ]
+}

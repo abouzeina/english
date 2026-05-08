@@ -1,0 +1,200 @@
+{
+  "id": "lsn_b2_p_5",
+  "levelId": "lvl_b2",
+  "slug": "p-words-5",
+  "title": "P Words - Part 5",
+  "titleAr": "كلمات حرف P - الجزء 5",
+  "description": "Learn essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف P.",
+  "order": 48,
+  "wordCount": 11,
+  "words": [
+    {
+      "id": "w_b2_publications",
+      "en": "publications",
+      "ar": "?????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_publicity",
+      "en": "publicity",
+      "ar": "??? ???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_publishing",
+      "en": "publishing",
+      "ar": "???? ?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_punk",
+      "en": "punk",
+      "ar": "???",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pupil",
+      "en": "pupil",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_purchase",
+      "en": "purchase",
+      "ar": "?????? / ????? ????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pure",
+      "en": "pure",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_purely",
+      "en": "purely",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pursue",
+      "en": "pursue",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pursuit",
+      "en": "pursuit",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_puzzle",
+      "en": "puzzle",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

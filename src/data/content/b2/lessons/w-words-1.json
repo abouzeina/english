@@ -1,0 +1,333 @@
+{
+  "id": "lsn_b2_w_1",
+  "levelId": "lvl_b2",
+  "title": "Unit 54: W Words - Part 1",
+  "slug": "w-words-1",
+  "order": 54,
+  "wordCount": 14,
+  "titleAr": "الوحدة 54: كلمات حرف W - الجزء 1",
+  "description": "Master essential B2 vocabulary starting with the letter W.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف W.",
+  "words": [
+    {
+      "id": "w_b2_wage",
+      "en": "wage",
+      "ar": "راتبه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His monthly wage is enough to cover his expenses.",
+          "ar": "راتبه الشهري يكفي لتغطية نفقاته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wandered",
+      "en": "wandered",
+      "ar": "تجولوا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They wandered the forest, searching for a hidden path.",
+          "ar": "لقد تجولوا في الغابة باحثين عن طريق مخفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_warming",
+      "en": "warming",
+      "ar": "الاحتباس الحراري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Global warming is a major threat to our planet.",
+          "ar": "يمثل الاحتباس الحراري تهديدًا كبيرًا لكوكبنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_weakness",
+      "en": "weakness",
+      "ar": "نقاط ضعفه",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His greatest weakness is trusting people too easily.",
+          "ar": "أكبر نقاط ضعفه هي الثقة بالناس بسهولة كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈwiːk.nəs/"
+    },
+    {
+      "id": "w_b2_wealth",
+      "en": "wealth",
+      "ar": "ثروة / ثري",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She inherited great wealth from her grandfather.",
+          "ar": "لقد ورثت ثروة كبيرة عن جدها."
+        },
+        {
+          "en": "She married a wealthy man from another country.",
+          "ar": "تزوجت من رجل ثري من بلد آخر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/wɛlθ/"
+    },
+    {
+      "id": "w_b2_weekly",
+      "en": "weekly",
+      "ar": "الأسبوعية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He enjoys his weekly fishing trips with his father.",
+          "ar": "يستمتع برحلات الصيد الأسبوعية مع والده."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_weird",
+      "en": "weird",
+      "ar": "غريبًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was a weird dream, but I remember everything.",
+          "ar": "لقد كان حلما غريبًا، لكنني أتذكر كل شيء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_welfare",
+      "en": "welfare",
+      "ar": "الرعاية الاجتماعية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His job focuses on improving community welfare services.",
+          "ar": "يركز عمله على تحسين خدمات الرعاية الاجتماعية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wheat",
+      "en": "wheat",
+      "ar": "القمح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She bought a bag of wheat flour today.",
+          "ar": "اشترت كيسا من دقيق القمح اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_whereas",
+      "en": "whereas",
+      "ar": "في حين أن",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He likes spicy food, whereas I prefer mild flavors.",
+          "ar": "إنه يحب الطعام الحار، في حين أنني أفضل النكهات الخفيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/weəɹˈæz/"
+    },
+    {
+      "id": "w_b2_wherever",
+      "en": "wherever",
+      "ar": "أينما",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He takes his laptop wherever he goes.",
+          "ar": "يأخذ حاسوبه المحمول معه أينما ذهب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_whispered",
+      "en": "whispered",
+      "ar": "همس / بصوت خافت",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He whispered the answer during the test.",
+          "ar": "همس بالإجابة أثناء الاختبار."
+        },
+        {
+          "en": "She spoke in a whisper to avoid waking him.",
+          "ar": "تحدثت بصوت خافت كي تتجنب إيقاظه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈwɪspəd/"
+    },
+    {
+      "id": "w_b2_whom",
+      "en": "whom",
+      "ar": "لمن",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "To whom should I send this invitation?",
+          "ar": "لمن يجب أن أرسل هذه الدعوة؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/huːm/"
+    },
+    {
+      "id": "w_b2_widely",
+      "en": "widely",
+      "ar": "على نطاق واسع / منتشرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Pollution is a widespread problem in many big cities.",
+          "ar": "يعد التلوث مشكلة منتشرة في العديد من المدن الكبرى."
+        },
+        {
+          "en": "The movie was widely praised for its strong acting.",
+          "ar": "حظي الفيلم بإشادة على نطاق واسع بسبب التمثيل القوي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

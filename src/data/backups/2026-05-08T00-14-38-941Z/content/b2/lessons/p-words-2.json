@@ -1,0 +1,579 @@
+{
+  "id": "lsn_b2_p_2",
+  "levelId": "lvl_b2",
+  "slug": "p-words-2",
+  "title": "P Words - Part 2",
+  "titleAr": "كلمات حرف P - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف P.",
+  "order": 45,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_perception",
+      "en": "perception",
+      "ar": "الإدراك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Perception can be influenced by past experiences.",
+          "ar": "يمكن أن يتأثر الإدراك بالتجارب السابقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_permanent",
+      "en": "permanent",
+      "ar": "دائم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I got a permanent solution for my back pain.",
+          "ar": "حصلت على حل دائم لآلام ظهري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_permanently",
+      "en": "permanently",
+      "ar": "بشكل نهائي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The files were permanently deleted from the computer.",
+          "ar": "تم حذف الملفات بشكل نهائي من الكمبيوتر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_permit",
+      "en": "permit",
+      "ar": "يسمحوا / تصريح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I forgot to bring my entry permit today.",
+          "ar": "لقد نسيت إحضار تصريح الدخول الخاص بي اليوم."
+        },
+        {
+          "en": "They won't permit anyone to enter the area.",
+          "ar": "لن يسمحوا لأي شخص بدخول المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_perspective",
+      "en": "perspective",
+      "ar": "وجهة نظري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "From my perspective, the decision makes sense.",
+          "ar": "من وجهة نظري القرار منطقي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_phase",
+      "en": "phase",
+      "ar": "مرحلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Each phase builds upon the previous one.",
+          "ar": "تعتمد كل مرحلة على المرحلة السابقة لها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_phenomenon",
+      "en": "phenomenon",
+      "ar": "ظاهرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This cultural phenomenon has spread worldwide quickly.",
+          "ar": "انتشرت هذه الظاهرة الثقافية في جميع أنحاء العالم بسرعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_philosophy",
+      "en": "philosophy",
+      "ar": "الفلسفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Philosophy examines the nature of human reality.",
+          "ar": "تبحث الفلسفة في طبيعة الواقع الإنساني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pick",
+      "en": "pick",
+      "ar": "اختيارها",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her pick for the movie was perfect.",
+          "ar": "كان اختيارها للفيلم مثاليا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_picture",
+      "en": "picture",
+      "ar": "تخيل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Picture yourself relaxing by the ocean waves.",
+          "ar": "تخيل نفسك وأنت تسترخي بجانب أمواج المحيط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pile",
+      "en": "pile",
+      "ar": "كومة / لا تكدسي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Don't pile too many plates in the sink.",
+          "ar": "لا تكدسي الكثير من الأطباق في الحوض."
+        },
+        {
+          "en": "The kids jumped into a pile of leaves.",
+          "ar": "قفز الأطفال على كومة من أوراق الأشجار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pill",
+      "en": "pill",
+      "ar": "القرص",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This pill will help you reduce your pain.",
+          "ar": "سيساعدك هذا القرص على تخفيف ألمك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pitch",
+      "en": "pitch",
+      "ar": "أرض الملعب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The players gathered on the pitch for practice.",
+          "ar": "تجمع اللاعبون على أرض الملعب للتدريب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pity",
+      "en": "pity",
+      "ar": "المؤسف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It's a pity we missed the opportunity.",
+          "ar": "من المؤسف أننا أضعنا الفرصة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_placement",
+      "en": "placement",
+      "ar": "ترتيب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He got excellent placement in the competition results.",
+          "ar": "حصل على ترتيب ممتاز في نتائج المسابقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_plain",
+      "en": "plain",
+      "ar": "عادية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The room looked simple with plain decorations.",
+          "ar": "بدت الغرفة بسيطة مع ديكورات عادية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_plot",
+      "en": "plot",
+      "ar": "تتآمر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The characters plot against each other in this game.",
+          "ar": "تتآمر الشخصيات ضد بعضها البعض في هذه اللعبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_plus",
+      "en": "plus",
+      "ar": "بالإضافة / ميزة / أو أكثر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Having flexible hours is a major plus.",
+          "ar": "يُعد الحصول على ساعات عمل مرنة ميزة كبيرة ."
+        },
+        {
+          "en": "The meal was delicious, plus it was healthy.",
+          "ar": "كانت الوجبة لذيذة، بالإضافة إلى أنها صحية."
+        },
+        {
+          "en": "The project will cost 10,000 riyals plus.",
+          "ar": "ستبلغ تكلفة المشروع 10,000 ريال أو أكثر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pointed",
+      "en": "pointed",
+      "ar": "مدببة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The artist used a pointed brush for detail.",
+          "ar": "استخدم الفنان فرشاة مدببة من أجل التفاصيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_popularity",
+      "en": "popularity",
+      "ar": "شعبيته",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Social media has boosted his popularity worldwide.",
+          "ar": "عززت وسائل التواصل الاجتماعي من شعبيته في جميع أنحاء العالم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_portion",
+      "en": "portion",
+      "ar": "جزء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She gave a portion of her salary to charity.",
+          "ar": "تبرعت بجزء من راتبها للأعمال الخيرية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pose",
+      "en": "pose",
+      "ar": "يشكل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This decision could pose challenges for the team.",
+          "ar": "قد يشكل هذا القرار تحديات للفريق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_position",
+      "en": "position",
+      "ar": "ضع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Carefully position the books on the top shelf.",
+          "ar": "ضع الكتب بعناية على الرف العلوي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_positives",
+      "en": "positives",
+      "ar": "الإيجابيات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He considered the positives and negatives before deciding.",
+          "ar": "لقد فكر في الإيجابيات والسلبيات قبل اتخاذ القرار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_possess",
+      "en": "possess",
+      "ar": "يمتلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He does not possess the required skills for this job.",
+          "ar": "هو لا يمتلك المهارات المطلوبة لهذه الوظيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

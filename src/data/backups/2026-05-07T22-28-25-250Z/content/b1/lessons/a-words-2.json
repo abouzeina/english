@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b1_a_2",
+  "levelId": "lvl_b1",
+  "slug": "a-words-2",
+  "title": "Unit 2: A Words - Part 2",
+  "titleAr": "الوحدة 2: كلمات حرف A - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with A.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف A.",
+  "order": 2,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_ambitious",
+      "en": "ambitious",
+      "ar": "طموح (صفة)",
+      "pronunciation": "/æm bıf-es/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You aren't ambitious enough.",
+          "ar": "أنت لست طموحا بما فيه الكفاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_analyzed",
+      "en": "analyzed",
+      "ar": "حللوا",
+      "pronunciation": "/'æn.el.arz/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They analyzed the results.",
+          "ar": "هم حللوا النتائج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_analysis",
+      "en": "analysis",
+      "ar": "تحليل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your analysis of the situation is correct.",
+          "ar": "تحليلك للوضع صحيح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_announced",
+      "en": "announced",
+      "ar": "أعلنوا",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They announced the results yesterday.",
+          "ar": "أعلنوا عن النتائج بالأمس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_announce",
+      "en": "announce",
+      "ar": "يُعلن",
+      "pronunciation": "/ə'nauns/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They announced the results yesterday.",
+          "ar": "أعلنوا عن النتائج بالأمس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_announcement",
+      "en": "announcement",
+      "ar": "بيان / إعلان",
+      "pronunciation": "ə'nauns mənt/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have an important announcement.",
+          "ar": "لدي بيان مهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_annoy",
+      "en": "annoy",
+      "ar": "يُزعج",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you annoy your brothers?",
+          "ar": "هل تزعج اخوتك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_annoyed",
+      "en": "annoyed",
+      "ar": "منزعج",
+      "pronunciation": "/ə'nǝıd/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I was a little annoyed about this video.",
+          "ar": "كنت منزعجاً قليلاً من هذا الفيديو."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_annoying",
+      "en": "annoying",
+      "ar": "مزعج",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have an annoying habit.",
+          "ar": "لدي عادة مزعجة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_apart",
+      "en": "apart",
+      "ar": "منفصل / متباعد",
+      "pronunciation": "ə'part/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They are living apart now.",
+          "ar": "يعيشون منفصلين الآن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_apologize",
+      "en": "apologize",
+      "ar": "يعتذر",
+      "pronunciation": "ə'pa-lə dzaız/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I came to apologize.",
+          "ar": "أتيت كي أعتذر."
+        },
+        {
+          "en": "We apologize for the late arrival of the bus.",
+          "ar": "نعتذر عن تأخر وصول الحافلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_application",
+      "en": "application",
+      "ar": "طلب",
+      "pronunciation": "/æp ker ſən/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can send us your application by email.",
+          "ar": "يمكنك إرسال طلبك إلينا عبر البريد الإلكتروني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_appointment",
+      "en": "appointment",
+      "ar": "موعد",
+      "pronunciation": "/ə pəınt mənt/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He missed his dentist appointment.",
+          "ar": "فاته موعده مع طبيب الأسنان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_appreciate",
+      "en": "appreciate",
+      "ar": "يقدر / يمتن",
+      "pronunciation": "ə'prēSHē āt",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Thanks for coming I appreciate it.",
+          "ar": "شكراً لقدومك أنا أقدر ذلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_approximately",
+      "en": "approximately",
+      "ar": "تقريباً",
+      "pronunciation": "ə'prak-sı-mətli/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We're approximately the same weight.",
+          "ar": "نحن تقريبا نفس الوزن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_arrested",
+      "en": "arrested",
+      "ar": "اعتقلوا",
+      "pronunciation": "/ə'rest/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They arrested the criminals.",
+          "ar": "اعتقلوا المجرمين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_arrests",
+      "en": "arrests",
+      "ar": "اعتقالات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The police made several arrests.",
+          "ar": "قامت الشرطة بالعديد من الاعتقالات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_arrival",
+      "en": "arrival",
+      "ar": "وصول",
+      "pronunciation": "ə'rīvəl",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We apologize for the late arrival of the bus.",
+          "ar": "نعتذر عن تأخر وصول الحافلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_assignment",
+      "en": "assignment",
+      "ar": "واجب محدد / مهمة",
+      "pronunciation": "ə saın-mənt/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I finished my math assignment.",
+          "ar": "أنهيت واجبي في الرياضيات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_assist",
+      "en": "assist",
+      "ar": "يساعد",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My task is to assist you.",
+          "ar": "مهمتي هي أن أساعدك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_atmosphere",
+      "en": "atmosphere",
+      "ar": "جو (المكان)",
+      "pronunciation": "/'æt məs fıər/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I like the atmosphere of this restaurant.",
+          "ar": "أحب جو هذا المطعم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_attached",
+      "en": "attached",
+      "ar": "أرفق / مرتبط بـ",
+      "pronunciation": "/ə'tætſt/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I've attached the file with this email.",
+          "ar": "لقد أرفقت الملف بهذا البريد الإلكتروني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_attitude",
+      "en": "attitude",
+      "ar": "موقف (تجاه شيء)",
+      "pronunciation": "æt 1-tju:d/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My attitude towards him has changed.",
+          "ar": "لقد تغير موقفي تجاهه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_attracted",
+      "en": "attracted",
+      "ar": "اجتذب",
+      "pronunciation": "/le trækt/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The conference attracted a large audience.",
+          "ar": "المؤتمر اجتذب جمهورا كبيرا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_attraction",
+      "en": "attraction",
+      "ar": "عامل جذب",
+      "pronunciation": "/ə'træk Jən/",
+      "lessonId": "lsn_b1_a_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the main attraction of the museum?",
+          "ar": "ما هو عامل الجذب الرئيسي للمتحف ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

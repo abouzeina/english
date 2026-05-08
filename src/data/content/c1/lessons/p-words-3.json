@@ -1,0 +1,497 @@
+{
+  "id": "lsn_c1_p_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 31: P Words - Part 3",
+  "slug": "p-words-3",
+  "order": 31,
+  "wordCount": 22,
+  "titleAr": "الوحدة 31: كلمات حرف P - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_c1_prescription",
+      "en": "prescription",
+      "ar": "وصفة طبية / روشتة",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمكنك الحصول على هذا الدواء فقط بوصفة طبية",
+          "ar": "The pharmacist filled the prescription for me."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɝˈskɹɪpʃən/"
+    },
+    {
+      "id": "w_c1_presently",
+      "en": "presently",
+      "ar": "حالياً / قريباً",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المدير حالياً في اجتماع",
+          "ar": "The doctor will be with you presently."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɛzəntli/"
+    },
+    {
+      "id": "w_c1_preservation",
+      "en": "preservation",
+      "ar": "حفاظ / وقاية / صيانة",
+      "pronunciation": "ˌprezəˈveɪʃn",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الحفاظ على البيئة هو أولوية عالمية",
+          "ar": "The building is in a good state of preservation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_preside",
+      "en": "preside",
+      "ar": "يترأس / يدير",
+      "pronunciation": "prɪˈzaɪd",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيترأس القاضي المحاكمة",
+          "ar": "He was chosen to preside at the meeting."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_presidency",
+      "en": "presidency",
+      "ar": "رئاسة",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اتسمت فترة رئاسته بالاستقرار الاقتصادي",
+          "ar": "He is campaigning for the presidency of the union."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹezɪdənsi/"
+    },
+    {
+      "id": "w_c1_presidential",
+      "en": "presidential",
+      "ar": "رئاسي",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ستجرى الانتخابات الرئاسية في نوفمبر",
+          "ar": "He was given a presidential pardon."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɛzɪˈdɛnʃ(ə)l/"
+    },
+    {
+      "id": "w_c1_prestigious",
+      "en": "prestigious",
+      "ar": "مرموق / ذو هيبة",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تُم قبوله في جامعة مرموقة",
+          "ar": "The company won a prestigious award for innovation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹə-/"
+    },
+    {
+      "id": "w_c1_presumably",
+      "en": "presumably",
+      "ar": "على الأرجح / من المفترض",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المفاتيح على الأرجح في جيبه",
+          "ar": "Presumably, they will arrive late because of the traffic."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɪˈzjuːməbli/"
+    },
+    {
+      "id": "w_c1_presume",
+      "en": "presume",
+      "ar": "يفترض / يجرؤ على",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أفترض أنك قد انتهيت بالفعل من التقرير",
+          "ar": "I wouldn't presume to tell you how to do your job."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɪˈzjuːm/"
+    },
+    {
+      "id": "w_c1_prevail",
+      "en": "prevail",
+      "ar": "يسود / ينتصر / يعم",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نأمل أن يسود المنطق في النهاية",
+          "ar": "Justice prevailed and the innocent man was released."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɪˈveɪl/"
+    },
+    {
+      "id": "w_c1_prevalence",
+      "en": "prevalence",
+      "ar": "انتشار / شيوع",
+      "pronunciation": "ˈprevələns",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تبحث الدراسة في مدى انتشار السمنة بين الأطفال",
+          "ar": "The prevalence of the disease has decreased in recent years."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_prioritize",
+      "en": "prioritize",
+      "ar": "يعطي الأولوية",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحن بحاجة لإعطاء الأولوية للمهام الأكثر إلحاحاً",
+          "ar": "The government is prioritizing education and health."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹaɪˈɒɹətaɪz/"
+    },
+    {
+      "id": "w_c1_privatization",
+      "en": "privatization",
+      "ar": "خصخصة",
+      "pronunciation": "ˌpraɪvətaɪˈzeɪʃn",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تخطط الحكومة لخصخصة شركة الطيران الوطنية",
+          "ar": "The privatization of the water supply led to higher prices."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_privilege",
+      "en": "privilege",
+      "ar": "امتياز / فخر / ميزة",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب أن يكون التعليم حقاً لا امتيازاً",
+          "ar": "It was a privilege to meet the Nobel Prize winner."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɪv(ɪ)lɪdʒ/"
+    },
+    {
+      "id": "w_c1_probe",
+      "en": "probe",
+      "ar": "تحقيق / مسبار / يستكشف",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأت الشرطة تحقيقاً في أسباب الحريق",
+          "ar": "The space probe landed on Mars last night."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəʊb/"
+    },
+    {
+      "id": "w_c1_problematic",
+      "en": "problematic",
+      "ar": "معضل / مثير للمشاكل",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الوضع معضل للغاية ويحتاج لتعامل حذر",
+          "ar": "His behavior is very problematic for the rest of the team."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌpɹɒbləˈmætɪk/"
+    },
+    {
+      "id": "w_c1_proceedings",
+      "en": "proceedings",
+      "ar": "إجراءات / وقائع (جلسة أو مؤتمر)",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ستبدأ الإجراءات القانونية ضد الشركة الشهر المقبل",
+          "ar": "The published proceedings of the conference are very useful."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈsiːd.ɪŋz/"
+    },
+    {
+      "id": "w_c1_proceeds",
+      "en": "proceeds",
+      "ar": "عائدات / أرباح",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ستذهب عائدات الحفل الموسيقي للأعمال الخيرية",
+          "ar": "The company donated the proceeds from the auction to the hospital."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹəʊsiːdz/"
+    },
+    {
+      "id": "w_c1_processing",
+      "en": "processing",
+      "ar": "معالجة / تشغيل / تحويل",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تستغرق معالجة البيانات حوالي عشر دقائق",
+          "ar": "The company is involved in food processing."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹəʊsɛsɪŋ/"
+    },
+    {
+      "id": "w_c1_processor",
+      "en": "processor",
+      "ar": "معالج (كمبيوتر) / مصنع / أداة معالجة",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحتوي الكمبيوتر على معالج سريع جداً",
+          "ar": "He bought a new food processor for the kitchen."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹəʊˌsɛsə(ɹ)/"
+    },
+    {
+      "id": "w_c1_proclaim",
+      "en": "proclaim",
+      "ar": "يعلن (رسمياً) / يجهر",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعلن الرئيس حالة الطوارئ",
+          "ar": "The paintings proclaim the artist's love for nature."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹoʊˈkleɪm/"
+    },
+    {
+      "id": "w_c1_productive",
+      "en": "productive",
+      "ar": "منتج / مثمر",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الاجتماع مثمراً للغاية واتخذنا عدة قرارات",
+          "ar": "We need to find more productive ways to work."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈdʌktɪv/"
+    }
+  ]
+}

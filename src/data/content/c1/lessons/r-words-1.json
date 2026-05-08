@@ -1,0 +1,426 @@
+{
+  "id": "lsn_c1_r_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 34: R Words - Part 1",
+  "slug": "r-words-1",
+  "order": 34,
+  "wordCount": 19,
+  "titleAr": "الوحدة 34: كلمات حرف R - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف R.",
+  "words": [
+    {
+      "id": "w_c1_radical",
+      "en": "radical",
+      "ar": "جذري / متطرف",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحتاج الشركة إلى تغيير جذري في إدارتها",
+          "ar": "He was known for his radical political views."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹædɪkəl/"
+    },
+    {
+      "id": "w_c1_raid",
+      "en": "raid",
+      "ar": "غارة / مداهمة",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نفذت الشرطة مداهمة لمنزل المشتبه به",
+          "ar": "The village was destroyed in a night raid."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹeɪd/"
+    },
+    {
+      "id": "w_c1_rally",
+      "en": "rally",
+      "ar": "تجمع / حشد / يسترد قواه",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نظم حزب المعارضة تجمعاً سياسياً",
+          "ar": "The stock market began to rally after the news."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹæ.li/"
+    },
+    {
+      "id": "w_c1_ranking",
+      "en": "ranking",
+      "ar": "تصنيف / ترتيب",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتمتع الجامعة بتصنيف عالٍ في الجداول الوطنية",
+          "ar": "His ranking in the world of tennis has improved."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹænk.ɪŋ/"
+    },
+    {
+      "id": "w_c1_rape",
+      "en": "rape",
+      "ar": "اغتصاب / يغتصب",
+      "pronunciation": "reɪp",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حكم عليه بالسجن عشر سنوات بتهمة الاغتصاب",
+          "ar": "The organization helps victims of rape and sexual assault."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_ratio",
+      "en": "ratio",
+      "ar": "نسبة",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹeɪ.ʃi.əʊ/"
+    },
+    {
+      "id": "w_c1_rational",
+      "en": "rational",
+      "ar": "عقلاني / منطقي",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحن بحاجة لاتخاذ قرار عقلاني بناءً على الحقائق",
+          "ar": "It is difficult to be rational when you are angry."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹæʃ(ə)nəl/"
+    },
+    {
+      "id": "w_c1_readily",
+      "en": "readily",
+      "ar": "بسهولة / بيسر / عن طيب خاطر",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المعلومات متاحة بسهولة الآن على الإنترنت",
+          "ar": "He readily admitted that he had made a mistake."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛdɪli/"
+    },
+    {
+      "id": "w_c1_realization",
+      "en": "realization",
+      "ar": "إدراك / تحقيق (حلم أو هدف)",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان إدراك الحقيقة صدمة له",
+          "ar": "The project led to the realization of her lifelong dream."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɹiə-/"
+    },
+    {
+      "id": "w_c1_realm",
+      "en": "realm",
+      "ar": "مجال / مملكة",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "فتح الاكتشاف إمكانيات جديدة في مجال العلوم",
+          "ar": "The king ruled over a vast realm."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɛlm/"
+    },
+    {
+      "id": "w_c1_rear",
+      "en": "rear",
+      "ar": "خلفي / يربي / مؤخرة",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صُدِمت السيارة من الخلف",
+          "ar": "She reared three children on her own."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪə/"
+    },
+    {
+      "id": "w_c1_reasoning",
+      "en": "reasoning",
+      "ar": "تفكير منطقي / استنتاج / تعليل",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ما كان التعليل وراء قرارك؟",
+          "ar": "The teacher explained the logical reasoning used to solve the problem."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹiːzənɪŋ/"
+    },
+    {
+      "id": "w_c1_reassure",
+      "en": "reassure",
+      "ar": "يطمئن",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حاول الطبيب طمأنة المريض بشأن الجراحة",
+          "ar": "We want to reassure our customers that the system is safe."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹiəˈʃʊə(ɹ)/"
+    },
+    {
+      "id": "w_c1_rebellion",
+      "en": "rebellion",
+      "ar": "تمرد / عصيان",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سحق الجيش التمرد في أيام قليلة",
+          "ar": "It was an act of teenage rebellion."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈbɛl.i.ən/"
+    },
+    {
+      "id": "w_c1_recipient",
+      "en": "recipient",
+      "ar": "مستلم / متلقي",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيتم الإعلان عن متلقي الجائزة الليلة",
+          "ar": "Please make sure the recipient's address is correct."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəˈsɪp.i.ənt/"
+    },
+    {
+      "id": "w_c1_reconstruction",
+      "en": "reconstruction",
+      "ar": "إعادة بناء / إعادة إعمار",
+      "pronunciation": "ˌriːkənˈstrʌkʃn",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استغرقت إعادة إعمار المدينة بعد الحرب سنوات عديدة",
+          "ar": "The police made a reconstruction of the crime scene."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_recount",
+      "en": "recount",
+      "ar": "يسرد / يحكي بالتفصيل / يعيد عد",
+      "pronunciation": "rɪˈkaʊnt",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سرد أحداث اليوم لزوجته",
+          "ar": "The election results were so close that a recount was ordered."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_reform",
+      "en": "reform",
+      "ar": "إصلاح / يصلح",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تخطط الحكومة لإصلاح نظام الضرائب",
+          "ar": "Economic reform is essential for the country's growth."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈfɔːm/"
+    },
+    {
+      "id": "w_c1_refuge",
+      "en": "refuge",
+      "ar": "ملجأ / ملاذ",
+      "lessonId": "lsn_c1_r_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وفر الكهف ملجأ من العاصفة",
+          "ar": "They sought refuge in the local church."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛfjuːdʒ/"
+    }
+  ]
+}

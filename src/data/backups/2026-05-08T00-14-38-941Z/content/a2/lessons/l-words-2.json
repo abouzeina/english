@@ -1,0 +1,315 @@
+{
+  "id": "lsn_a2_l_2",
+  "levelId": "lvl_2",
+  "slug": "l-words-2",
+  "title": "Unit 24: L Words - Part 2",
+  "titleAr": "الوحدة 24: كلمات حرف L - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter L.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف L.",
+  "order": 24,
+  "wordCount": 13,
+  "words": [
+    {
+      "id": "w_a2_likely",
+      "en": "likely",
+      "ar": "محتمل",
+      "pronunciation": "/ lark-li/",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the likely cause ?",
+          "ar": "ما هو السبب المحتمل : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_link",
+      "en": "link",
+      "ar": "رابط / يربط",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'll send you the link.",
+          "ar": "سأرسل لك الرابط : رابط موقع الكتروني :"
+        },
+        {
+          "en": "The road that links Cairo with Alexandria.",
+          "ar": "الطريق الذي يربط القاهرة بالإسكندرية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_listener",
+      "en": "listener",
+      "ar": "مستمع",
+      "pronunciation": "/'lzsənər/",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He's a good listener.",
+          "ar": "إنه مستمع جيد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_little",
+      "en": "little",
+      "ar": "قليلا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am a little afraid of going outside.",
+          "ar": "أنا خائف قليلاً من الخروج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lock",
+      "en": "lock",
+      "ar": "قفل / أقفلت",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you lock the door?",
+          "ar": "هل أقفلت الباب ؟"
+        },
+        {
+          "en": "Did you see my bicycle lock ?",
+          "ar": "هل رأيت قفل دراجتي : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_look",
+      "en": "look",
+      "ar": "نظرة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Take a look at these pictures.",
+          "ar": "ألق نظرة على هذه الصور :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lorry",
+      "en": "lorry",
+      "ar": "شاحنة",
+      "pronunciation": "/'lor-i/",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is a lorry driver.",
+          "ar": "إنه سائق شاحنة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lost",
+      "en": "lost",
+      "ar": "ضائع / مفقود",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The lost key was under the couch",
+          "ar": "كان المفتاح الضائع تحت الأريكة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_loud",
+      "en": "loud",
+      "ar": "صاخب / بصوت عال",
+      "pronunciation": "/laud/",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "That music is too loud, please turn it down",
+          "ar": "هذه الموسيقى صاخبة جدًا، من فضلك أطفئها :"
+        },
+        {
+          "en": "She spoke loud.",
+          "ar": "تحدثت بصوت عال :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_loudly",
+      "en": "loudly",
+      "ar": "بصوت عال",
+      "pronunciation": "/laud/",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The girls laughed loudly.",
+          "ar": "ضحكت الفتيات بصوت عال :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lovely",
+      "en": "lovely",
+      "ar": "جميلة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What a lovely surprise !!",
+          "ar": "يا لها من مفاجأة جميلة !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_low",
+      "en": "low",
+      "ar": "منخفض",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The water level was low.",
+          "ar": "كان مستوى الماء منخفضًا :"
+        },
+        {
+          "en": "A plane is flying low over the town.",
+          "ar": "طائرة تحلق على ارتفاع منخفض فوق المدينة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_luck",
+      "en": "luck",
+      "ar": "حظ",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I didn't have any luck at all.",
+          "ar": "لم يكن لدي أي حظ على الإطلاق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

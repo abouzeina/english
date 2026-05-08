@@ -1,0 +1,395 @@
+{
+  "id": "lsn_b1_u_1",
+  "levelId": "lvl_b1",
+  "slug": "u-words-1",
+  "title": "Unit 41: U Words - Part 1",
+  "titleAr": "الوحدة 41: كلمات حرف U - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with U.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف U.",
+  "order": 41,
+  "wordCount": 17,
+  "words": [
+    {
+      "id": "w_b1_tyre",
+      "en": "tyre",
+      "ar": "إطار سيارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I want to repair the flat tyre of my car.",
+          "ar": "أريد إصلاح إطار سيارتي المثقوب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ugly",
+      "en": "ugly",
+      "ar": "قبيحة",
+      "pronunciation": "/'ng-li/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These modern buildings are ugly.",
+          "ar": "هذه المباني الحديثة قبيحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_unable",
+      "en": "unable",
+      "ar": "غير قادر",
+      "pronunciation": "/An'ex bel/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is unable to attend the meeting.",
+          "ar": "هو غير قادر على حضور الاجتماع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_uncomfortable",
+      "en": "uncomfortable",
+      "ar": "غير مرتاح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is definitely uncomfortable in his job.",
+          "ar": "إنه بالتأكيد غير مرتاح في وظيفته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_underwear",
+      "en": "underwear",
+      "ar": "ملابس داخلية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His underwear was covered with mud.",
+          "ar": "كانت ملابسه الداخلية مغطاة بالطين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_unemployed",
+      "en": "unemployed",
+      "ar": "عاطل عن العمل",
+      "pronunciation": "Implod/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I've been unemployed since October.",
+          "ar": "أنا عاطل عن العمل منذ أكتوبر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_unemployment",
+      "en": "unemployment",
+      "ar": "بطالة / معدل البطالة",
+      "pronunciation": "Implor mənt/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The unemployment rate rose.",
+          "ar": "ارتفع معدل البطالة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_unfair",
+      "en": "unfair",
+      "ar": "غير عادل",
+      "pronunciation": "/ʌn'feǝr/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I think it was an unfair decision.",
+          "ar": "أعتقد أنه كان قرارًا غير عادل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_union",
+      "en": "union",
+      "ar": "اتحاد",
+      "pronunciation": "/jun jen/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The union represents one million workers.",
+          "ar": "الاتحاد يمثل مليون عامل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_unless",
+      "en": "unless",
+      "ar": "إلا إذا / مالم",
+      "pronunciation": "/ən les/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You won't get paid unless you finish your work.",
+          "ar": "لن تحصل على أجر إلا إذا أنهيت عملك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_unlike",
+      "en": "Unlike",
+      "ar": "على عكس",
+      "pronunciation": "/ʌn'lark/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Unlike previous projects, this one is easy.",
+          "ar": "على عكس المشاريع السابقة، هذا المشروع سهل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_unlikely",
+      "en": "unlikely",
+      "ar": "من غير المرجح",
+      "pronunciation": "/ ' lark-li/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The weather is unlikely to affect our work.",
+          "ar": "من غير المرجح أن يؤثر الطقس على عملنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_unnecessary",
+      "en": "unnecessary",
+      "ar": "غير ضرورية",
+      "pronunciation": "/ʌn'nes- ser i/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He always asks unnecessary questions.",
+          "ar": "دائما ما يسأل أسئلة غير ضرورية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_unpleasant",
+      "en": "unpleasant",
+      "ar": "غير سارة",
+      "pronunciation": "/ʌn plez ənt/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was an unpleasant surprise.",
+          "ar": "لقد كانت مفاجأة غير سارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_updates",
+      "en": "updates",
+      "ar": "تحديثات / نحدث",
+      "pronunciation": "/Ap dext/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We will give you more updates soon.",
+          "ar": "سنقدم لك المزيد من التحديثات قريبا."
+        },
+        {
+          "en": "We want to update our company's website.",
+          "ar": "نريد أن نحدث الموقع الإلكتروني الخاص بشركتنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_upon",
+      "en": "upon",
+      "ar": "على / فوق",
+      "pronunciation": "/ə'pan/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is the decision based upon personal opinion?",
+          "ar": "هل القرار مبني على رأي شخصي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_upset",
+      "en": "upset",
+      "ar": "منزعج / يزعج",
+      "pronunciation": "/ Ap'set/",
+      "lessonId": "lsn_b1_u_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I think he may be a bit upset with you.",
+          "ar": "أعتقد أنه قد يكون منزعجا بعض الشيء منك."
+        },
+        {
+          "en": "The child upsets his father with his actions.",
+          "ar": "الطفل يزعج والده بتصرفاته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

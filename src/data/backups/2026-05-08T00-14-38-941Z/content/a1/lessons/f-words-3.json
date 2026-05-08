@@ -1,0 +1,197 @@
+{
+  "id": "lsn_a1_f_3",
+  "levelId": "lvl_1",
+  "title": "F Words - Part 3",
+  "slug": "f-words-3",
+  "order": 15,
+  "wordCount": 8,
+  "titleAr": "كلمات حرف F - الجزء 3",
+  "description": "Learn essential A1 vocabulary starting with the letter F.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف F.",
+  "words": [
+    {
+      "id": "w_a1_friend",
+      "lessonId": "lsn_a1_f_3",
+      "en": "friend",
+      "translation": "صديق",
+      "ar": "صديق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She is my best friend.",
+          "ar": "إنها أفضل صديقاتي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_friendly",
+      "lessonId": "lsn_a1_f_3",
+      "en": "friendly",
+      "translation": "ودود",
+      "ar": "ودود",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Our neighbors are friendly.",
+          "ar": "جيراننا ودودون."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_from",
+      "lessonId": "lsn_a1_f_3",
+      "en": "from",
+      "translation": "من",
+      "ar": "من",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He learned from his mistakes.",
+          "ar": "لقد تعلم من أخطائه."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_front",
+      "lessonId": "lsn_a1_f_3",
+      "en": "front",
+      "translation": "أمامي / مقدمة / أمام",
+      "ar": "أمامي / مقدمة / أمام",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The front door is open.",
+          "ar": "الباب الأمامي مفتوح."
+        },
+        {
+          "en": "We stood at the front.",
+          "ar": "وقفنا في المقدمة."
+        },
+        {
+          "en": "He stood in front of me.",
+          "ar": "وقف أمامي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_fruit",
+      "lessonId": "lsn_a1_f_3",
+      "en": "fruit",
+      "translation": "فواكه",
+      "ar": "فواكه",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She bought some fruit today.",
+          "ar": "اشترت بعض الفواكه اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_full",
+      "lessonId": "lsn_a1_f_3",
+      "en": "full",
+      "translation": "مليء",
+      "ar": "مليء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The street is full of cars.",
+          "ar": "الشارع مليء بالسيارات."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_fun",
+      "lessonId": "lsn_a1_f_3",
+      "en": "fun",
+      "translation": "متعة / مرح",
+      "ar": "متعة / مرح",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I learn English just for fun.",
+          "ar": "أتعلم اللغة الإنجليزية لأجل المتعة فقط."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_funny",
+      "lessonId": "lsn_a1_f_3",
+      "en": "funny",
+      "translation": "مضحك",
+      "ar": "مضحك",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He told me a funny story.",
+          "ar": "لقد أخبرني بقصة مضحكة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

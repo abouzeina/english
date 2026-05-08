@@ -1,0 +1,571 @@
+{
+  "id": "lsn_b2_f_1",
+  "levelId": "lvl_b2",
+  "slug": "f-words-1",
+  "title": "F Words - Part 1",
+  "titleAr": "كلمات حرف F - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter F.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف F.",
+  "order": 14,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_firefighters",
+      "en": "firefighters",
+      "ar": "رجال الإطفاء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Three firefighters were injured.",
+          "ar": "أصيب ثلاثة من رجال الإطفاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fireworks",
+      "en": "fireworks",
+      "ar": "الألعاب النارية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We watched the fireworks from the window.",
+          "ar": "شاهدنا الألعاب النارية من النافذة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_firm",
+      "en": "firm",
+      "ar": "شركة / مكتب / حازم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He works in a law firm.",
+          "ar": "يعمل في شركة / مكتب محاماة."
+        },
+        {
+          "en": "You should be firm with your children.",
+          "ar": "يجب أن تكونوا حازمين مع أطفالكم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_firmly",
+      "en": "firmly",
+      "ar": "بقوة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Hold on to the rope firmly.",
+          "ar": "تمسك بالحبل بقوة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fix",
+      "en": "fix",
+      "ar": "حل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is no quick fix for this problem.",
+          "ar": "لا يوجد حل سريع لهذه المشكلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_flames",
+      "en": "flames",
+      "ar": "اللهب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The house was filled with smoke and flames.",
+          "ar": "امتلأ المنزل بالدخان واللهب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_flash",
+      "en": "flash",
+      "ar": "وميض / الوميض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Cross the street when the green sign starts to flash.",
+          "ar": "اعبر الشارع عندما تبدأ الإشارة الخضراء في الوميض."
+        },
+        {
+          "en": "We saw a bright flash in the sky.",
+          "ar": "رأينا وميضًا ساطعا في السماء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_flavor",
+      "en": "flavor",
+      "ar": "طعم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This strange fruit has almost no flavor.",
+          "ar": "هذه الفاكهة الغريبة ليس لها أي طعم تقريبا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_flexible",
+      "en": "flexible",
+      "ar": "مرنة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You need to be more flexible about your study plan.",
+          "ar": "تحتاج أن تكون أكثر مرونة فيما يتعلق بخطة دراستك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_floats",
+      "en": "floats",
+      "ar": "يطفو",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Do you know that oil floats on water?",
+          "ar": "هل تعلم أن الزيت يطفو على الماء ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fold",
+      "en": "fold",
+      "ar": "طية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She hid the note in a fold in her dress.",
+          "ar": "أخفت الرسالة في طية في فستانها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_folding",
+      "en": "folding",
+      "ar": "قابل للطي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Watch this advertisement, it's about a folding chair.",
+          "ar": "شاهد هذا الإعلان إنه حول كرسي قابل للطي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_following",
+      "en": "following",
+      "ar": "بعد / عقب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He married following his wife's death.",
+          "ar": "تزوج بعد وفاة زوجته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fond",
+      "en": "fond",
+      "ar": "مولع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He's fond of taking pictures.",
+          "ar": "إنه مولع بالتقاط الصور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fool",
+      "en": "fool",
+      "ar": "أحمق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He gave them all his money? He is such a fool.",
+          "ar": "أعطاهم كل أمواله ؟ ياله من أحمق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forbade",
+      "en": "forbade",
+      "ar": "منعت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her mother forbade the marriage.",
+          "ar": "والدتها منعت الزواج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forecast",
+      "en": "forecast",
+      "ar": "التنبؤ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It is difficult to forecast the future of technology.",
+          "ar": "من الصعب التنبؤ بمستقبل التكنولوجيا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forecasts",
+      "en": "forecasts",
+      "ar": "توقعات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Did you read the company's sales forecasts ?",
+          "ar": "هل قرأت توقعات مبيعات الشركة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forgive",
+      "en": "forgive",
+      "ar": "أسامح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I'll never forgive him for what he did.",
+          "ar": "لن أسامحه أبدًا على ما فعله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_format",
+      "en": "format",
+      "ar": "هيئته / نمطه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This conference is different in format from previous ones.",
+          "ar": "هذا المؤتمر يختلف في هيئته عن المؤتمرات السابقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_formation",
+      "en": "formation",
+      "ar": "تشكل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We studied the process of bone formation in college.",
+          "ar": "لقد درسنا عملية تشكل العظام في الكلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_former",
+      "en": "former",
+      "ar": "سابق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "That guy is a former employee of the company.",
+          "ar": "ذلك الرجل هو موظف سابق في الشركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_formerly",
+      "en": "formerly",
+      "ar": "سابقا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was formerly a boxing champion.",
+          "ar": "كان سابقا بطل ملاكمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fortunate",
+      "en": "fortunate",
+      "ar": "حسن حظ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was fortunate for me that I found an online job.",
+          "ar": "كان من حسن حظي أنني وجدت وظيفة عبر الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fortune",
+      "en": "fortune",
+      "ar": "ثروة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He made a fortune by selling used cars.",
+          "ar": "لقد جمع ثروة من بيع السيارات المستعملة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

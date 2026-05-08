@@ -1,0 +1,579 @@
+{
+  "id": "lsn_b2_s_3",
+  "levelId": "lvl_b2",
+  "slug": "s-words-3",
+  "title": "S Words - Part 3",
+  "titleAr": "كلمات حرف S - الجزء 3",
+  "description": "Learn essential B2 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف S.",
+  "order": 54,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_significant",
+      "en": "significant",
+      "ar": "تأثير كبير / بشكل كبير / أهمية كبيرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His speech had great significance for the audience.",
+          "ar": "كان لخطابه أهمية كبيرة للحضور."
+        },
+        {
+          "en": "Prices have increased significantly over the years.",
+          "ar": "ارتفعت الأسعار بشكل كبير على مر السنين."
+        },
+        {
+          "en": "This decision will have a significant impact on us.",
+          "ar": "سيكون لهذا القرار تأثير كبير علينا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_silence",
+      "en": "silence",
+      "ar": "الصمت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He broke the silence with a loud laugh.",
+          "ar": "كسر الصمت بضحكة عالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_silk",
+      "en": "silk",
+      "ar": "كالحرير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her hair was as smooth as silk.",
+          "ar": "كان شعرها ناعمًا كالحرير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sincere",
+      "en": "sincere",
+      "ar": "الصادقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her sincere words touched my heart.",
+          "ar": "كلماتها الصادقة لامست قلبي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_skilled",
+      "en": "skilled",
+      "ar": "ماهرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She is a skilled painter with great talent.",
+          "ar": "إنها رسامة ماهرة ولديها موهبة رائعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_skull",
+      "en": "skull",
+      "ar": "جمجمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He found a small animal skull in the forest.",
+          "ar": "وجد جمجمة حيوان صغير في الغابة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_slaves",
+      "en": "slaves",
+      "ar": "للعبيد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Slaves were not allowed to own property.",
+          "ar": "لم يكن يُسمح للعبيد بامتلاك العقارات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_slide",
+      "en": "slide",
+      "ar": "تنزلق / الشرائح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Be careful, or you might slide on the ice.",
+          "ar": "كن حذراً وإلا قد تنزلق على الجليد."
+        },
+        {
+          "en": "The slides showed important statistics for the project.",
+          "ar": "عرضت الشرائح إحصاءات مهمة للمشروع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_slight",
+      "en": "slight",
+      "ar": "خفيف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She felt a slight pain in her back.",
+          "ar": "شعرت بألم خفيف في ظهرها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_slip",
+      "en": "slip",
+      "ar": "تنزلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Be careful not to slip on the wet floor.",
+          "ar": "احرص على ألا تنزلق على الأرضية المبللة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_slogan",
+      "en": "slogan",
+      "ar": "شعار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The campaign's slogan inspired many people to take action.",
+          "ar": "ألهم شعار الحملة الكثير من الناس على التحرك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_slope",
+      "en": "slope",
+      "ar": "المنحدر / تنحدر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He skied down the slope at high speed.",
+          "ar": "لقد تزلج على المنحدر بسرعة عالية."
+        },
+        {
+          "en": "The garden paths slope down to the lake.",
+          "ar": "تنحدر ممرات الحديقة إلى الأسفل حتى البحيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_so_called",
+      "en": "so-called",
+      "ar": "المزعومة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Their so-called friendship was based on lies.",
+          "ar": "كانت صداقتهما المزعومة مبنية على أكاذيب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_solar",
+      "en": "solar",
+      "ar": "الألواح الشمسية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The house uses solar panels to generate electricity.",
+          "ar": "يستخدم المنزل الألواح الشمسية لتوليد الكهرباء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_somehow",
+      "en": "somehow",
+      "ar": "بطريقة ما",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He somehow managed to fix the broken machine.",
+          "ar": "تمكن بطريقة ما من إصلاح الآلة المعطلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sometime",
+      "en": "sometime",
+      "ar": "في وقت ما",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The movie will be released sometime next month.",
+          "ar": "سيتم عرض الفيلم في وقت ما من الشهر المقبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_somewhat",
+      "en": "somewhat",
+      "ar": "إلى حد ما",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His answer was somewhat correct but needed improvement.",
+          "ar": "كانت إجابته صحيحة إلى حد ما ولكنها تحتاج إلى تحسين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sophisticated",
+      "en": "sophisticated",
+      "ar": "متطور",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Their security system is highly sophisticated.",
+          "ar": "نظامهم الأمني متطور للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_soul",
+      "en": "soul",
+      "ar": "روحي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The song touched my soul deeply.",
+          "ar": "لقد لمست الأغنية روحي بعمق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spare",
+      "en": "spare",
+      "ar": "إضافية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The hotel provided a spare blanket for guests.",
+          "ar": "الفندق وفر بطانية إضافية للنزلاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_specialist",
+      "en": "specialist",
+      "ar": "متخصص",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is a specialist in international business law.",
+          "ar": "إنه متخصص في القانون التجاري الدولي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_specialize",
+      "en": "specialize",
+      "ar": "يتخصص",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He decided to specialize in artificial intelligence research.",
+          "ar": "قرر أن يتخصص في أبحاث الذكاء الاصطناعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_species",
+      "en": "species",
+      "ar": "نوعًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Scientists discovered a new species of butterfly in Brazil.",
+          "ar": "اكتشف العلماء نوعًا جديدًا من الفراشات في البرازيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_specify",
+      "en": "specify",
+      "ar": "تحدد موقع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can you specify the exact location of the event?",
+          "ar": "هل يمكنك أن تحدد موقع الفعالية بالضبط؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spectacular",
+      "en": "spectacular",
+      "ar": "مدهشا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The palace is a spectacular example of ancient architecture.",
+          "ar": "يُعد القصر مثالاً مدهشا للهندسة المعمارية القديمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

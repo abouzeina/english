@@ -1,0 +1,309 @@
+{
+  "id": "lsn_c1_w_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 50: W Words - Part 2",
+  "slug": "w-words-2",
+  "order": 50,
+  "wordCount": 13,
+  "titleAr": "الوحدة 50: كلمات حرف W - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter W.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف W.",
+  "words": [
+    {
+      "id": "w_c1_widen",
+      "en": "widen",
+      "ar": "يوسع",
+      "pronunciation": "ˈwaɪdn",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت المدينة توسيع الطريق الرئيسي لتقليل الزحام.",
+          "ar": "The gap between the rich and the poor continues to widen."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_widow",
+      "en": "widow",
+      "ar": "أرملة",
+      "pronunciation": "ˈwɪdəʊ",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لقد كانت أرملة لمدة عشر سنوات.",
+          "ar": "The organization provides support for war widows."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_width",
+      "en": "width",
+      "ar": "عرض / اتساع",
+      "pronunciation": "wɪtθ",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عرض الغرفة حوالي أربعة أمتار.",
+          "ar": "The road is narrow and lacks sufficient width for two trucks."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_willingness",
+      "en": "willingness",
+      "ar": "رغبة / استعداد",
+      "pronunciation": "ˈwɪlɪŋnəs",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أظهر رغبة كبيرة في تعلم مهارات جديدة.",
+          "ar": "Success depends on your willingness to work hard."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_wipe",
+      "en": "wipe",
+      "ar": "يمسح",
+      "pronunciation": "waɪp",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استخدمت قطعة قماش لمسح الطاولة.",
+          "ar": "He wiped the sweat from his forehead."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_wit",
+      "en": "wit",
+      "ar": "فطنة / ذكاء",
+      "pronunciation": "wɪt",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه معروف بفطنته السريعة وروحه المرحة.",
+          "ar": "She used her wit to get out of a difficult situation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_withdrawal",
+      "en": "withdrawal",
+      "ar": "انسحاب / سحب أموال",
+      "pronunciation": "wɪðˈdrɔːəl",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تسبب الانسحاب المفاجئ للقوات في فوضى في المنطقة.",
+          "ar": "He made a large cash withdrawal from his bank account."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_workforce",
+      "en": "workforce",
+      "ar": "القوى العاملة",
+      "pronunciation": "ˈwɜːkfɔːs",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمتلك الشركة قوى عاملة تزيد عن خمسمائة موظف.",
+          "ar": "The aging workforce is a concern for the government."
+        },
+        {
+          "en": "The company expanded its workforce last year.",
+          "ar": "وسعت الشركة قوتها العاملة لديها العام الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_workout",
+      "en": "workout",
+      "ar": "تمرين رياضي",
+      "pronunciation": "ˈwɜːkaʊt",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أحاول القيام بتمرين رياضي في النادي ثلاث مرات أسبوعياً.",
+          "ar": "The morning workout helped her feel more energetic."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_workplace",
+      "en": "workplace",
+      "ar": "مكان العمل",
+      "pronunciation": "ˈwɜːkpleɪs",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تهدف الشركة إلى خلق مكان عمل آمن وصحي.",
+          "ar": "Discrimination is not tolerated in the workplace."
+        },
+        {
+          "en": "Good communication is essential in a successful workplace.",
+          "ar": "التواصل الجيد أمر ضروري في مكان العمل الناجح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_worship",
+      "en": "worship",
+      "ar": "عبادة / يعبد",
+      "pronunciation": "ˈwɜːʃɪp",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تجمع الناس في المعبد لصلاة (عبادة) الصباح.",
+          "ar": "The ancient civilization used to worship the sun."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_worthwhile",
+      "en": "worthwhile",
+      "ar": "يستحق العناء / مفيد",
+      "pronunciation": "ˌwɜːθˈwaɪl",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان مشروعاً صعباً، لكنه كان يستحق العناء بالتأكيد.",
+          "ar": "Teaching is a very worthwhile profession."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_worthy",
+      "en": "worthy",
+      "ar": "جدير / مستحق",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الجمعية الخيرية قضية جديرة تستحق دعمنا.",
+          "ar": "He is a worthy opponent who played a great game."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈwɜːði/"
+    }
+  ]
+}

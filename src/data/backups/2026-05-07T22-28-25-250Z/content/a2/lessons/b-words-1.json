@@ -1,0 +1,571 @@
+{
+  "id": "lsn_a2_b_1",
+  "levelId": "lvl_2",
+  "slug": "b-words-1",
+  "title": "Unit 4: B Words - Part 1",
+  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter B.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف B.",
+  "order": 4,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_awful",
+      "en": "awful",
+      "ar": "فظيع / كريه",
+      "pronunciation": "/  fəl/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There's an awful smell in here.",
+          "ar": "هناك رائحة كريهة هنا"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_back",
+      "en": "back",
+      "ar": "خلفي / ظهر",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The keys are in my back pocket.",
+          "ar": "المفاتيح في جيبي الخلفي"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_background",
+      "en": "background",
+      "ar": "خلفية",
+      "pronunciation": "/'bæk graund/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali has a background in business.",
+          "ar": "علي لديه خلفية في الأعمال التجارية"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_badly",
+      "en": "badly",
+      "ar": "بشكل سيء",
+      "pronunciation": "/'bæd-li/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali writes badly.",
+          "ar": "علي يكتب بشكل سيء"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bar",
+      "en": "bar",
+      "ar": "قضبان",
+      "pronunciation": "/bar/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali was behind bars again.",
+          "ar": "كان علي وراء القضبان مرة أخرى"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_baseball",
+      "en": "baseball",
+      "ar": "بيسبول",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He prefers football to baseball.",
+          "ar": "هو يفضل كرة القدم على البيسبول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_basketball",
+      "en": "basketball",
+      "ar": "كرة سلة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He missed basketball practice.",
+          "ar": "فاته ممارسة كرة السلة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_base",
+      "en": "base",
+      "ar": "مبني على",
+      "pronunciation": "/berst/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is this movie based on a book ?",
+          "ar": "هل هذا الفيلم مبني على كتاب ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bean",
+      "en": "bean",
+      "ar": "فاصوليا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have several cans of green beans.",
+          "ar": "لدينا عدة علب من الفاصوليا الخضراء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bear",
+      "en": "bear",
+      "ar": "دب",
+      "pronunciation": "/beer/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A bear attacked Ali.",
+          "ar": "هاجم دب علي"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_beat",
+      "en": "beat",
+      "ar": "يهزم",
+      "pronunciation": "/bit/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Nobody can beat Ali.",
+          "ar": "لا أحد يستطيع أن يهزم علي"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_beef",
+      "en": "beef",
+      "ar": "لحم بقري",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Chicken is cheap, but beef tastes better",
+          "ar": "الدجاج رخيص، لكن مذاق اللحم البقري أفضل"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_before",
+      "en": "before",
+      "ar": "قبل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Have we met before?",
+          "ar": "هل التقينا من قبل ؟"
+        },
+        {
+          "en": "Before you make a decision, think carefully",
+          "ar": "قبل أن تتخذ قرارًا ، فكر مليا"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_behave",
+      "en": "behave",
+      "ar": "يتصرف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Every child behaves badly from time to time",
+          "ar": "كل طفل يتصرف بشكل سيء من وقت لآخر"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_behavior",
+      "en": "behavior",
+      "ar": "سلوك / تصرف",
+      "pronunciation": "/br herv jər/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You should avoid bad behavior.",
+          "ar": "يجب أن تتجنب السلوك السيئ"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_belong",
+      "en": "belong",
+      "ar": "يخص / ملك لـ",
+      "pronunciation": "/br'lon/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This book belongs to me.",
+          "ar": "هذا الكتاب ملك لي"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_belt",
+      "en": "belt",
+      "ar": "حزام",
+      "pronunciation": "/belt/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I forgot to wear a belt.",
+          "ar": "نسيت أن أرتدي حزاما"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_benefit",
+      "en": "benefit",
+      "ar": "مَنْفَعة / فائدة",
+      "pronunciation": "/ ben  fıt/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What are the benefits of group work?",
+          "ar": "ما هي فوائد العمل الجماعي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_best",
+      "en": "best",
+      "ar": "الأفضل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She works best in the morning.",
+          "ar": "هي تعمل بشكل أفضل في الصباح."
+        },
+        {
+          "en": "Her cooking is the best.",
+          "ar": "طبخها هو الأفضل"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_better",
+      "en": "better",
+      "ar": "بشكل أفضل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You remember it better than I do",
+          "ar": "أنت تتذكر ذلك بشكل أفضل مني ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_between",
+      "en": "between",
+      "ar": "بين / في الوسط",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Everything was black or white. There was nothing between.",
+          "ar": "كان كل شيء أسود أو أبيض. لم يكن هناك شيء في الوسط"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_billion",
+      "en": "billion",
+      "ar": "مليار",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "One billion people speak English.",
+          "ar": "مليار شخص يتحدثون الانجليزية"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bin",
+      "en": "bin",
+      "ar": "سلة مهملات",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He threw the book in the bin.",
+          "ar": "ألقى الكتاب في سلة المهملات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_biology",
+      "en": "biology",
+      "ar": "أحياء",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali teaches history and biology.",
+          "ar": "علي يدرس التاريخ والأحياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_birth",
+      "en": "birth",
+      "ar": "ميلاد / ولادة",
+      "pronunciation": "/b3r0/",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Write the date of your birth.",
+          "ar": "اكتب تاريخ ولادتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

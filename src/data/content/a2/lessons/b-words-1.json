@@ -1,58 +1,14 @@
 {
   "id": "lsn_a2_b_1",
-  "levelId": "lvl_2",
-  "slug": "b-words-1",
+  "levelId": "lvl_a2",
   "title": "Unit 4: B Words - Part 1",
-  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter B.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف B.",
+  "slug": "b-words-1",
   "order": 4,
-  "wordCount": 25,
+  "wordCount": 21,
+  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف B.",
   "words": [
-    {
-      "id": "w_a2_awful",
-      "en": "awful",
-      "ar": "فظيع / كريه",
-      "pronunciation": "/  fəl/",
-      "lessonId": "lsn_a2_b_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "There's an awful smell in here.",
-          "ar": "هناك رائحة كريهة هنا"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_back",
-      "en": "back",
-      "ar": "خلفي / ظهر",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_b_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The keys are in my back pocket.",
-          "ar": "المفاتيح في جيبي الخلفي"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_background",
       "en": "background",
@@ -123,7 +79,6 @@
       "id": "w_a2_baseball",
       "en": "baseball",
       "ar": "بيسبول",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -139,13 +94,35 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈbeɪs.bɔːl/"
+    },
+    {
+      "id": "w_b1_based",
+      "en": "based",
+      "ar": "مبني على",
+      "lessonId": "lsn_a2_b_1",
+      "levelId": "lvl_a2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This movie is based on a true story.",
+          "ar": "هذا الفيلم مبني على قصة حقيقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/beɪst/"
     },
     {
       "id": "w_a2_basketball",
       "en": "basketball",
       "ar": "كرة سلة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -161,35 +138,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_base",
-      "en": "base",
-      "ar": "مبني على",
-      "pronunciation": "/berst/",
-      "lessonId": "lsn_a2_b_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Is this movie based on a book ?",
-          "ar": "هل هذا الفيلم مبني على كتاب ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈbɑːs.kɪt.bɔːl/"
     },
     {
       "id": "w_a2_bean",
       "en": "bean",
       "ar": "فاصوليا",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -205,7 +160,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/biːn/"
     },
     {
       "id": "w_a2_bear",
@@ -255,7 +211,6 @@
       "id": "w_a2_beef",
       "en": "beef",
       "ar": "لحم بقري",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -271,13 +226,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/biːf/"
     },
     {
       "id": "w_a2_before",
       "en": "before",
       "ar": "قبل",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -289,21 +244,26 @@
         {
           "en": "Before you make a decision, think carefully",
           "ar": "قبل أن تتخذ قرارًا ، فكر مليا"
+        },
+        {
+          "en": "I usually read before bed.",
+          "ar": "عادة ما أقرأ قبل النوم."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "A1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɪˈfɔː/"
     },
     {
       "id": "w_a2_behave",
       "en": "behave",
       "ar": "يتصرف",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -319,7 +279,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bəˈheɪv/"
     },
     {
       "id": "w_a2_behavior",
@@ -399,13 +360,18 @@
         {
           "en": "What are the benefits of group work?",
           "ar": "ما هي فوائد العمل الجماعي ؟"
+        },
+        {
+          "en": "We can all benefit from his experience.",
+          "ar": "يمكننا جميعا أن نستفيد من تجربته."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -413,7 +379,6 @@
       "id": "w_a2_best",
       "en": "best",
       "ar": "الأفضل",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -425,65 +390,26 @@
         {
           "en": "Her cooking is the best.",
           "ar": "طبخها هو الأفضل"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_better",
-      "en": "better",
-      "ar": "بشكل أفضل",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_b_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "You remember it better than I do",
-          "ar": "أنت تتذكر ذلك بشكل أفضل مني ."
+          "en": "You are the best teacher.",
+          "ar": "أنت أفضل معلم."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "A1"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_between",
-      "en": "between",
-      "ar": "بين / في الوسط",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_b_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Everything was black or white. There was nothing between.",
-          "ar": "كان كل شيء أسود أو أبيض. لم يكن هناك شيء في الوسط"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈbɛst/"
     },
     {
       "id": "w_a2_billion",
       "en": "billion",
       "ar": "مليار",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -499,13 +425,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈbɪljən/"
     },
     {
       "id": "w_a2_bin",
       "en": "bin",
       "ar": "سلة مهملات",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -521,13 +447,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɪn/"
     },
     {
       "id": "w_a2_biology",
       "en": "biology",
       "ar": "أحياء",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -543,7 +469,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/baɪˈɒlədʒɪ/"
     },
     {
       "id": "w_a2_birth",

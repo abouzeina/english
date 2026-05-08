@@ -1,21 +1,180 @@
 {
   "id": "lsn_a1_e_2",
-  "levelId": "lvl_1",
-  "title": "E Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 12: E Words - Part 2",
   "slug": "e-words-2",
   "order": 12,
-  "wordCount": 9,
-  "titleAr": "كلمات حرف E - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter E.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف E.",
+  "wordCount": 17,
+  "titleAr": "الوحدة 12: كلمات حرف E - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف E.",
   "words": [
+    {
+      "id": "w_a1_euros",
+      "lessonId": "lsn_a1_e_2",
+      "en": "euros",
+      "translation": "يورو",
+      "ar": "يورو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The ticket costs 20 euros.",
+          "ar": "تبلغ تكلفة التذكرة 20 يورو."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_even",
+      "lessonId": "lsn_a1_e_2",
+      "en": "even",
+      "translation": "حتى",
+      "ar": "حتى",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I can't even imagine that.",
+          "ar": "لا يمكنني حتى تخيل ذلك."
+        },
+        {
+          "en": "I won, now we are even.",
+          "ar": "لقد فزت الآن نحن متعادلان"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈiːvən/"
+    },
+    {
+      "id": "w_a1_evening",
+      "lessonId": "lsn_a1_e_2",
+      "en": "evening",
+      "translation": "مساء",
+      "ar": "مساء",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We meet every evening.",
+          "ar": "نحن نلتقي كل مساء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈivnɪŋ/"
+    },
+    {
+      "id": "w_a1_event",
+      "lessonId": "lsn_a1_e_2",
+      "en": "event",
+      "translation": "فعالية",
+      "ar": "فعالية",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The school event begins at 10 am.",
+          "ar": "تبدأ فعالية المدرسة في العاشرة صباحاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈvɛnt/"
+    },
+    {
+      "id": "w_a1_ever",
+      "lessonId": "lsn_a1_e_2",
+      "en": "ever",
+      "translation": "على الإطلاق",
+      "ar": "على الإطلاق",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This is the hardest test ever.",
+          "ar": "هذا أصعب اختبار على الإطلاق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛvə/"
+    },
+    {
+      "id": "w_a1_every",
+      "lessonId": "lsn_a1_e_2",
+      "en": "every",
+      "translation": "كل",
+      "ar": "كل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I drink coffee every morning.",
+          "ar": "أنا أشرب القهوة كل صباح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_everybody",
+      "lessonId": "lsn_a1_e_2",
+      "en": "everybody",
+      "translation": "الجميع",
+      "ar": "الجميع",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Is everybody here?",
+          "ar": "هل الجميع هنا؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛvɹibɒdi/"
+    },
     {
       "id": "w_a1_everyone",
       "lessonId": "lsn_a1_e_2",
       "en": "everyone",
       "translation": "الجميع",
       "ar": "الجميع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -29,7 +188,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛv.ɹi.wʌn/"
     },
     {
       "id": "w_a1_exam",
@@ -37,7 +197,6 @@
       "en": "exam",
       "translation": "امتحان",
       "ar": "امتحان",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +210,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɛɡˈzæm/"
     },
     {
       "id": "w_a1_example",
@@ -81,7 +241,6 @@
       "en": "excited",
       "translation": "متحمس",
       "ar": "متحمس",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -95,7 +254,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈsaɪtɪd/"
     },
     {
       "id": "w_a1_exciting",
@@ -103,7 +263,6 @@
       "en": "exciting",
       "translation": "مشوق",
       "ar": "مشوق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -117,7 +276,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈsaɪtɪŋ/"
     },
     {
       "id": "w_a1_exercise",
@@ -125,7 +285,6 @@
       "en": "exercise",
       "translation": "تمارين رياضية / يمارس التمارين",
       "ar": "تمارين رياضية / يمارس التمارين",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -143,7 +302,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛk.sə.saɪz/"
     },
     {
       "id": "w_a1_expensive",
@@ -151,7 +311,6 @@
       "en": "expensive",
       "translation": "باهظة الثمن",
       "ar": "باهظة الثمن",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -165,7 +324,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɛkˈspɛnsɪv/"
     },
     {
       "id": "w_a1_explain",
@@ -173,7 +333,6 @@
       "en": "explain",
       "translation": "يوضح",
       "ar": "يوضح",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -187,7 +346,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɛkˈspleɪn/"
     },
     {
       "id": "w_a1_extra",
@@ -201,6 +361,32 @@
         {
           "en": "I need extra time to complete the test.",
           "ar": "أحتاج إلى وقت إضافي لإكمال الاختبار."
+        },
+        {
+          "en": "Did you read the newspaper extra?",
+          "ar": "هل قرأت ملحق الجريدة ؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_eyes",
+      "lessonId": "lsn_a1_e_2",
+      "en": "eyes",
+      "translation": "عينين / عيني",
+      "ar": "عينين / عيني",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Open your eyes and look around.",
+          "ar": "افتح عينيك وانظر حولك."
         }
       ],
       "difficulty": "A1",
@@ -209,7 +395,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/aɪz/"
     }
   ]
 }

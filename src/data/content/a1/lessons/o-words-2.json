@@ -1,14 +1,258 @@
 {
   "id": "lsn_a1_o_2",
-  "levelId": "lvl_1",
-  "title": "O Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 30: O Words - Part 2",
   "slug": "o-words-2",
   "order": 30,
-  "wordCount": 2,
-  "titleAr": "كلمات حرف O - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter O.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف O.",
+  "wordCount": 13,
+  "titleAr": "الوحدة 30: كلمات حرف O - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter O.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف O.",
   "words": [
+    {
+      "id": "w_a1_only",
+      "lessonId": "lsn_a1_o_2",
+      "en": "only",
+      "translation": "فقط / الوحيد",
+      "ar": "فقط / الوحيد",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I only want to help you.",
+          "ar": "أريد فقط أن أساعدك."
+        },
+        {
+          "en": "He is my only friend.",
+          "ar": "إنه صديقي الوحيد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈəʊn.li/"
+    },
+    {
+      "id": "w_a1_open",
+      "lessonId": "lsn_a1_o_2",
+      "en": "open",
+      "translation": "مفتوح / يفتح",
+      "ar": "مفتوح / يفتح",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The shop is open now.",
+          "ar": "المتجر مفتوح الآن."
+        },
+        {
+          "en": "Please open the book.",
+          "ar": "من فضلك افتح الكتاب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈəʊ.pən/"
+    },
+    {
+      "id": "w_a1_opinion",
+      "lessonId": "lsn_a1_o_2",
+      "en": "opinion",
+      "translation": "رأي / وجهة نظر",
+      "ar": "رأي / وجهة نظر",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I agree with your opinion.",
+          "ar": "أتفق مع وجهة نظرك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈpɪnjən/"
+    },
+    {
+      "id": "w_a1_opposite",
+      "lessonId": "lsn_a1_o_2",
+      "en": "opposite",
+      "translation": "مقابل / متعاكس / عكس",
+      "ar": "مقابل / متعاكس / عكس",
+      "pronunciation": "/'a pə zıt, a pə sıt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He sat opposite me.",
+          "ar": "جلس مقابلي."
+        },
+        {
+          "en": "They went in opposite ways.",
+          "ar": "ذهبا في اتجاهين متعاكسين."
+        },
+        {
+          "en": "Light is the opposite of dark.",
+          "ar": "الضوء هو عكس الظلام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_or",
+      "lessonId": "lsn_a1_o_2",
+      "en": "or",
+      "translation": "أم / أو",
+      "ar": "أم / أو",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Tea or coffee?",
+          "ar": "شاي أم قهوة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɔː(ɹ)/"
+    },
+    {
+      "id": "w_a1_orange",
+      "lessonId": "lsn_a1_o_2",
+      "en": "orange",
+      "translation": "برتقالة / برتقالي",
+      "ar": "برتقالة / برتقالي",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Give me an orange, please.",
+          "ar": "أعطني برتقالة من فضلك."
+        },
+        {
+          "en": "The orange cat is sleeping.",
+          "ar": "القطة البرتقالية نائمة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɔɹɪ̈nd͡ʒ/"
+    },
+    {
+      "id": "w_a1_order",
+      "lessonId": "lsn_a1_o_2",
+      "en": "order",
+      "translation": "يطلب / ترتيب",
+      "ar": "يطلب / ترتيب",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He ordered a taxi for us.",
+          "ar": "لقد طلب لنا سيارة أجرة."
+        },
+        {
+          "en": "The names are listed in order.",
+          "ar": "الأسماء مدرجة بالترتيب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɔːdə/"
+    },
+    {
+      "id": "w_a1_other",
+      "lessonId": "lsn_a1_o_2",
+      "en": "other",
+      "translation": "الآخر",
+      "ar": "الآخر",
+      "pronunciation": "/ ло ǝг/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The other door is open.",
+          "ar": "الباب الآخر مفتوح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_our",
+      "lessonId": "lsn_a1_o_2",
+      "en": "our",
+      "translation": "ضمير ملكية (لنا)",
+      "ar": "ضمير ملكية (لنا)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Our house is very big.",
+          "ar": "منزلنا كبير جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_out",
+      "lessonId": "lsn_a1_o_2",
+      "en": "out",
+      "translation": "نخرج / للخارج",
+      "ar": "نخرج / للخارج",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's go out and play.",
+          "ar": "هيا لنخرج ونلعب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/æɔt/"
+    },
     {
       "id": "w_a1_outside",
       "lessonId": "lsn_a1_o_2",
@@ -21,12 +265,25 @@
         {
           "en": "Let's sit outside and talk.",
           "ar": "لنجلس في الخارج ونتحدث."
+        },
+        {
+          "en": "Leave your shoes outside the house.",
+          "ar": "اترك حذائك خارج المنزل."
+        },
+        {
+          "en": "The outside door is locked.",
+          "ar": "الباب الخارجي مغلق."
+        },
+        {
+          "en": "You can't open the door from the outside.",
+          "ar": "لا يمكنك فتح الباب من الخارج :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -37,7 +294,6 @@
       "en": "over",
       "translation": "فوق / على / أكثر من",
       "ar": "فوق / على / أكثر من",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -59,7 +315,35 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈəʊ.və(ɹ)/"
+    },
+    {
+      "id": "w_a1_own",
+      "lessonId": "lsn_a1_o_2",
+      "en": "own",
+      "translation": "خاص",
+      "ar": "خاص",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They built their own house.",
+          "ar": "بنوا منزلهم الخاص."
+        },
+        {
+          "en": "Do you own all these books?",
+          "ar": "هل تملك كل هذه الكتب ؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈəʊn/"
     }
   ]
 }

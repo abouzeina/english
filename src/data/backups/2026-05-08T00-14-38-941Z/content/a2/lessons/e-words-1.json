@@ -1,0 +1,571 @@
+{
+  "id": "lsn_a2_e_1",
+  "levelId": "lvl_2",
+  "slug": "e-words-1",
+  "title": "Unit 12: E Words - Part 1",
+  "titleAr": "الوحدة 12: كلمات حرف E - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter E.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف E.",
+  "order": 12,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_dry",
+      "en": "dry",
+      "ar": "جاف / يجفف",
+      "pronunciation": "/draz/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are my clothes dry ?",
+          "ar": "هل ملابسي جافة ؟"
+        },
+        {
+          "en": "She is drying her hair.",
+          "ar": "إنها تجفف شعرها :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_earn",
+      "en": "earn",
+      "ar": "تكسب",
+      "pronunciation": "/arn/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Would you like to earn some extra money?",
+          "ar": "هل ترغب أن تكسب بعض المال الإضافي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_earth",
+      "en": "Earth",
+      "ar": "الأرض",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Life is everywhere on Earth.",
+          "ar": "الحياة في كل مكان على وجه الأرض :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_easily",
+      "en": "easily",
+      "ar": "بسهولة",
+      "pronunciation": "/i-zə-li/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can read English easily.",
+          "ar": "أستطيع قراءة الانجليزية بسهولة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_education",
+      "en": "education",
+      "ar": "تعليم",
+      "pronunciation": "/edzə'ker Jan/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Education is the key to success",
+          "ar": "التعليم هو مفتاح النجاح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_effect",
+      "en": "effect",
+      "ar": "تأثير",
+      "pronunciation": "/1fekt/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It has no effect on me.",
+          "ar": "ليس له تأثير علي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_either",
+      "en": "either",
+      "ar": "أيضا / إما",
+      "pronunciation": "/'i-dər, ar dər/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali can't go and I can't either.",
+          "ar": "علي لا يستطيع الذهاب، ولا أنا : أيضاً :"
+        },
+        {
+          "en": "Either you go, or I go.",
+          "ar": "إما أن تذهب، أو أذهب أنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_electric",
+      "en": "electric",
+      "ar": "كهربائية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He wants an electric bike.",
+          "ar": "یرید دراجة كهربائية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_electrical",
+      "en": "electrical",
+      "ar": "كهربائي",
+      "pronunciation": "/ lek-trı kəl/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is an electrical engineer.",
+          "ar": "هو مهندس كهربائي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_electricity",
+      "en": "electricity",
+      "ar": "كهرباء",
+      "pronunciation": "/ lek trzs-at-i/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The village has no electricity.",
+          "ar": "القرية بلا كهرباء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_electronic",
+      "en": "electronic",
+      "ar": "إلكترونية",
+      "pronunciation": "/ lek tra nık/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please turn off your electronic devices.",
+          "ar": "يرجى إطفاء أجهزتكم الإلكترونية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_employ",
+      "en": "employ",
+      "ar": "يوظف",
+      "pronunciation": "/ım'plox/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They employed him as a driver.",
+          "ar": "وظفوه كسائق :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_employee",
+      "en": "employee",
+      "ar": "موظف",
+      "pronunciation": "/ım plər il/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How many employees do you have?",
+          "ar": "كم عدد الموظفين لديك : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_employer",
+      "en": "employer",
+      "ar": "صاحب العمل",
+      "pronunciation": "/ım plər-ər/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The employer wants to see your documents.",
+          "ar": "يريد صاحب العمل رؤية مستنداتك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_empty",
+      "en": "empty",
+      "ar": "خالية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The roads were empty.",
+          "ar": "كانت الطريق خالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ending",
+      "en": "ending",
+      "ar": "نهاية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This movie has a happy ending.",
+          "ar": "هذا الفيلم له نهاية سعيدة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_energy",
+      "en": "energy",
+      "ar": "طاقة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The children are full of energy.",
+          "ar": "الأطفال مليئون بالطاقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_engine",
+      "en": "engine",
+      "ar": "محرك",
+      "pronunciation": "/en-dzın/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I left the engine running.",
+          "ar": "تركت المحرك يعمل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_engineer",
+      "en": "engineer",
+      "ar": "مهندس",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They are a team of scientists and engineers.",
+          "ar": "هم فريق من العلماء والمهندسين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_enormous",
+      "en": "enormous",
+      "ar": "ضخم",
+      "pronunciation": "/rnor məs/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There was an enormous spider in the bath",
+          "ar": "كان هناك عنكبوت ضخم في البانيو :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_enter",
+      "en": "enter",
+      "ar": "دخل",
+      "pronunciation": "/enter/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali entered through the window.",
+          "ar": "دخل علي من خلال النافذة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_environment",
+      "en": "environment",
+      "ar": "بيئة",
+      "pronunciation": "/ın vaı rən mənt/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "a positive learning environment.",
+          "ar": "إنها بيئة تعلم إيجابية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_equipment",
+      "en": "equipment",
+      "ar": "معدات",
+      "pronunciation": "/1' kwzp mənt/",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They didn't have good equipment.",
+          "ar": "لم يكن لديهم معدات جيد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_error",
+      "en": "error",
+      "ar": "خطأ",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you find any errors?",
+          "ar": "هل وجدت أي أخطاء ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_especially",
+      "en": "especially",
+      "ar": "خاصة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_e_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She likes fruit, especially apples.",
+          "ar": "هي تحب الفاكهة، وخاصة التفاح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

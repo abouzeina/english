@@ -1,0 +1,571 @@
+{
+  "id": "lsn_b2_h_1",
+  "levelId": "lvl_b2",
+  "slug": "h-words-1",
+  "title": "H Words - Part 1",
+  "titleAr": "كلمات حرف H - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter H.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف H.",
+  "order": 19,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_habitat",
+      "en": "habitat",
+      "ar": "موطن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The fire destroyed the habitat of many wild animals.",
+          "ar": "دمر الحريق موطن العديد من الحيوانات البرية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_handle",
+      "en": "handle",
+      "ar": "مقبض / يتعامل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He knows how to handle difficult situations.",
+          "ar": "يعرف كيف يتعامل مع المواقف الصعبة."
+        },
+        {
+          "en": "The pot has a long handle to protect your hands.",
+          "ar": "يحتوي القدر على مقبض طويل لحماية يديك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_harbor",
+      "en": "harbor",
+      "ar": "ميناء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The city built a new harbor instead of the old one.",
+          "ar": "قامت المدينة ببناء ميناء جديد بدلاً من القديم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_harm",
+      "en": "harm",
+      "ar": "أذى / آذيت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He didn't intend to cause any harm.",
+          "ar": "لم يكن ينوي التسبب بأي أذى."
+        },
+        {
+          "en": "I hope I didn't harm your feelings with what I said earlier.",
+          "ar": "آمل ألا أكون قد آذيت مشاعرك بما قلته سابقاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_harmful",
+      "en": "harmful",
+      "ar": "ضار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Smoking is harmful to your health.",
+          "ar": "التدخين ضار بصحتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_headquarters",
+      "en": "headquarters",
+      "ar": "المقر الرئيسي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The meetings will take place at the company's headquarters.",
+          "ar": "ستجرى الاجتماعات في المقر الرئيسي للشركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_heal",
+      "en": "heal",
+      "ar": "تلتئم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His broken arm is starting to heal.",
+          "ar": "بدأت ذراعه المكسورة تلتئم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_healthcare",
+      "en": "healthcare",
+      "ar": "الرعاية الصحية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Access to quality healthcare is essential for everyone.",
+          "ar": "الحصول على الرعاية الصحية الجيدة أمر أساسي للجميع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hearing",
+      "en": "hearing",
+      "ar": "السمع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The hearing in his left ear has improved.",
+          "ar": "تحسن السمع في أذنه اليسرى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_heaven",
+      "en": "heaven",
+      "ar": "الجنة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The garden was a little piece of heaven on earth.",
+          "ar": "كانت الحديقة قطعة صغيرة من الجنة على الأرض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_heel",
+      "en": "heel",
+      "ar": "كعبه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He hurt his heel while lifting heavy boxes.",
+          "ar": "أصيب كعبه أثناء رفعه لصناديق ثقيلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hell",
+      "en": "hell",
+      "ar": "الأمرين (عذاب)",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He's going through hell dealing with his difficult boss.",
+          "ar": "إنه يعاني الأمرين في التعامل مع رئيسه صعب المراس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_helmet",
+      "en": "helmet",
+      "ar": "الخوذة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The helmet saved him from injury.",
+          "ar": "الخوذة أنقذته من الإصابة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hence",
+      "en": "hence",
+      "ar": "وبالتالي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She missed the bus, hence she was late to work.",
+          "ar": "لقد فاتتها الحافلة، وبالتالي تأخرت عن العمل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_herbs",
+      "en": "herbs",
+      "ar": "الأعشاب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The soup tasted better with added herbs.",
+          "ar": "كان طعم الحساء أفضل مع الأعشاب المضافة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hesitated",
+      "en": "hesitated",
+      "ar": "تردد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He hesitated before making his final decision.",
+          "ar": "تردد قبل أن يتخذ قراره النهائي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hidden",
+      "en": "hidden",
+      "ar": "المخفية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The hidden truth finally came to light.",
+          "ar": "ظهرت الحقيقة المخفية أخيرًا إلى النور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_high",
+      "en": "high",
+      "ar": "مستوى مرتفع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company's profits reached a new high.",
+          "ar": "وصلت أرباح الشركة إلى مستوى مرتفع جديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_highway",
+      "en": "highway",
+      "ar": "الطريق السريع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We took the wrong exit on the highway.",
+          "ar": "سلكنا المخرج الخاطئ على الطريق السريع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hilarious",
+      "en": "hilarious",
+      "ar": "مضحكة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He told us a hilarious story from his childhood.",
+          "ar": "لقد روى لنا قصة مضحكة من طفولته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hip",
+      "en": "hip",
+      "ar": "وركي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I feel a sharp pain in my right hip.",
+          "ar": "أشعر بألم حاد في وركي الأيمن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hire",
+      "en": "hire",
+      "ar": "تأجير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The car is available for hire next week.",
+          "ar": "السيارة متاحة للتأجير الأسبوع المقبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_historian",
+      "en": "historian",
+      "ar": "مؤرخ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He's known as a leading Civil War historian.",
+          "ar": "يُعرف بأنه مؤرخ بارز للحرب الأهلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hold",
+      "en": "hold",
+      "ar": "قبضتها",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She lost her hold on the rope.",
+          "ar": "فقدت قبضتها بالحبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hollow",
+      "en": "hollow",
+      "ar": "أجوف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The wind made a hollow noise.",
+          "ar": "أحدثت الرياح صوتًا أجوف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

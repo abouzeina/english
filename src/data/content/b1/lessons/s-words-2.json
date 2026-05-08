@@ -1,13 +1,13 @@
 {
   "id": "lsn_b1_s_2",
   "levelId": "lvl_b1",
+  "title": "Unit 33: S Words - Part 2",
   "slug": "s-words-2",
-  "title": "Unit 36: S Words - Part 2",
-  "titleAr": "الوحدة 36: كلمات حرف S - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with S.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف S.",
-  "order": 36,
-  "wordCount": 25,
+  "order": 33,
+  "wordCount": 20,
+  "titleAr": "الوحدة 33: كلمات حرف S - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف S.",
   "words": [
     {
       "id": "w_b1_shells",
@@ -32,6 +32,28 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_shelves",
+      "en": "shelves",
+      "ar": "أرفف",
+      "pronunciation": "/Jelf/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Use these empty shelves to store your books.",
+          "ar": "استخدم هذه الأرفف الفارغة لتخزين كتبك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
       "id": "w_b1_shift",
       "en": "shift",
       "ar": "نوبة عمل",
@@ -43,13 +65,19 @@
         {
           "en": "Do you work a day shift or night shift?",
           "ar": "هل تعمل نوبة عمل نهارية أم ليلية ؟"
+        },
+        {
+          "en": "The company shifted its focus to online sales.",
+          "ar": "حولت الشركة تركيزها إلى المبيعات عبر الإنترنت."
         }
       ],
       "type": "word",
       "difficulty": "B1",
       "tags": [
         "B1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -98,26 +126,26 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_shooting",
-      "en": "shooting",
-      "ar": "يطلقون النار",
-      "pronunciation": "/'fu-trn/",
+      "id": "w_c1_shoot",
+      "en": "shoot",
+      "ar": "يطلق النار / يصور (فيلم) / نبتة",
       "lessonId": "lsn_b1_s_2",
       "levelId": "lvl_b1",
-      "categoryId": "general",
       "examples": [
         {
-          "en": "The soldiers were shooting at the enemy.",
-          "ar": "كان الجنود يطلقون النار على العدو."
+          "en": "صدرت أوامر للشرطة بعدم إطلاق النار",
+          "ar": "They are planning to shoot the movie in Italy."
         }
       ],
       "type": "word",
       "difficulty": "B1",
       "tags": [
         "B1",
-        "core"
+        "advanced"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ʃuːt/"
     },
     {
       "id": "w_b1_shy",
@@ -300,50 +328,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_since",
-      "en": "since",
-      "ar": "منذ ذلك الحين",
-      "pronunciation": "/sins/",
-      "lessonId": "lsn_b1_s_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He left last year and we haven't heard from him since.",
-          "ar": "لقد غادر العام الماضي ولم نسمع عنه منذ ذلك الحين."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_sank",
-      "en": "sank",
-      "ar": "غرقت",
-      "pronunciation": "/sænk/",
-      "lessonId": "lsn_b1_s_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The ship sank in the Pacific ocean.",
-          "ar": "السفينة غرقت في المحيط الهادئ."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_slice",
       "en": "slice",
       "ar": "شريحة / يقطع شرائح",
@@ -469,98 +453,6 @@
         {
           "en": "You should check the source of this software.",
           "ar": "يجب عليك التحقق من مصدر هذا البرنامج."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_soil",
-      "en": "soil",
-      "ar": "تراب / تربة",
-      "pronunciation": "/sozl/",
-      "lessonId": "lsn_b1_s_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I like the smell of soil after rain.",
-          "ar": "أحب رائحة التراب بعد المطر."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_solid",
-      "en": "solid",
-      "ar": "صلب / حالة صلبة",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Only ski on solid ice.",
-          "ar": "تزلج فقط على الجليد الصلب."
-        },
-        {
-          "en": "Three states of matter solid, liquid, and gas.",
-          "ar": "ثلاث حالات للمادة : الصلبة والسائلة والغازية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_sort",
-      "en": "Sort",
-      "ar": "رتب",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Sort these books on that narrow shelf.",
-          "ar": "رتب هذه الكتب على ذلك الرف الضيق."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_southern",
-      "en": "southern",
-      "ar": "جنوبي",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I live in the southern part of the region.",
-          "ar": "أعيش في الجزء الجنوبي من المنطقة."
         }
       ],
       "type": "word",

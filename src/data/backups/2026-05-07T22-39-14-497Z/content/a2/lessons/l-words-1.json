@@ -1,0 +1,583 @@
+{
+  "id": "lsn_a2_l_1",
+  "levelId": "lvl_2",
+  "slug": "l-words-1",
+  "title": "Unit 23: L Words - Part 1",
+  "titleAr": "الوحدة 23: كلمات حرف L - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter L.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف L.",
+  "order": 23,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_knowledge",
+      "en": "knowledge",
+      "ar": "معرفة",
+      "pronunciation": "/'na līdz/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Education is the key to knowledge.",
+          "ar": "التعليم هو مفتاح المعرفة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lab",
+      "en": "lab",
+      "ar": "معمل / مختبر",
+      "pronunciation": "/læb/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The labs are closed today",
+          "ar": "المعامل مغلقة اليوم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lady",
+      "en": "lady",
+      "ar": "سيدة",
+      "pronunciation": "/'ler di/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you know these ladies?",
+          "ar": "هل تعرف هؤلاء السيدات : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lake",
+      "en": "lake",
+      "ar": "بحيرة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They swam in the lake.",
+          "ar": "سبحوا في البحيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lamp",
+      "en": "lamp",
+      "ar": "مصباح",
+      "pronunciation": "/læmp/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We should get a new lamp.",
+          "ar": "يجب أن نحصل على مصباح جديد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_land",
+      "en": "land",
+      "ar": "هبطت",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The plane landed in a grass area",
+          "ar": "هبطت الطائرة في منطقة عشبية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_laptop",
+      "en": "laptop",
+      "ar": "كمبيوتر محمول",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This laptop belongs to me",
+          "ar": "هذا الكمبيوتر المحمول ملك لي : ينتمي إلى : يعود إلى :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_last",
+      "en": "last",
+      "ar": "آخر / يستغرق",
+      "pronunciation": "/læst/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I saw him last in Cairo three years ago",
+          "ar": "رأيتة آخر مرة في القاهرة منذ ثلاث سنوات :"
+        },
+        {
+          "en": "Sorry I'm late, am I the last?",
+          "ar": "آسف تأخرت، هل أنا الأخير : ؟"
+        },
+        {
+          "en": "How long does the match last?",
+          "ar": "ما هي المدة التي تستغرقها المباراة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_later",
+      "en": "later",
+      "ar": "لاحق",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His mother died later that year.",
+          "ar": "توفيت والدته في وقت لاحق من ذلك العام :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_laughter",
+      "en": "laughter",
+      "ar": "ضحك",
+      "pronunciation": "/'læf tər/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I heard kids' laughter outside.",
+          "ar": "سمعت ضحك أطفال بالخارج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_law",
+      "en": "law",
+      "ar": "قانون",
+      "pronunciation": "/lo/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You're not above the law.",
+          "ar": "أنت لست فوق القانون :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lawyer",
+      "en": "lawyer",
+      "ar": "محامي",
+      "pronunciation": "/   ər/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You should call your lawyer.",
+          "ar": "يجب عليك الاتصال بمحاميك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lazy",
+      "en": "lazy",
+      "ar": "كسول",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is a very lazy person.",
+          "ar": "علي شخص كسول جدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lead",
+      "en": "lead",
+      "ar": "يقود",
+      "pronunciation": "/lid/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Where does this road lead ?",
+          "ar": "إلى أين يقود هذا الطريق : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_leader",
+      "en": "leader",
+      "ar": "قائد",
+      "pronunciation": "/'li-dər/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I wasn't the team leader.",
+          "ar": "لم أكن قائد الفريق :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_learning",
+      "en": "learning",
+      "ar": "تعلم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Language learning never ends.",
+          "ar": "تعلم اللغة لا ينتهي أبدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_least",
+      "en": "least",
+      "ar": "الأقل",
+      "pronunciation": "/list/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "At least I'll die happy",
+          "ar": "على الأقل سأموت سعيدا :"
+        },
+        {
+          "en": "What is your least favorite language ?",
+          "ar": "ماهي أقل لغة مفضلة لديك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lecture",
+      "en": "lecture",
+      "ar": "محاضرة / يحاضر",
+      "pronunciation": "/'lek-tfər/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ten people came to the lecture.",
+          "ar": "حضر عشرة أشخاص المحاضرة :"
+        },
+        {
+          "en": "Ali lectures at the local university.",
+          "ar": "علي يحاضر في الجامعة المحلية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lemon",
+      "en": "lemon",
+      "ar": "ليمون",
+      "pronunciation": "/lem ən/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She drinks lemon juice every morning.",
+          "ar": "تشرب عصير الليمون كل صباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lend",
+      "en": "lend",
+      "ar": "يعير",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Could you lend me the book?",
+          "ar": "هل يمكنك أن تعيرني الكتاب : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_less",
+      "en": "less",
+      "ar": "أقل",
+      "pronunciation": "/les/",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You should eat less red meat.",
+          "ar": "يجب أن تأكل لحوم حمراء أقل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_level",
+      "en": "level",
+      "ar": "مستوى",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is your level in English ?",
+          "ar": "ما هو مستواك في اللغة الإنجليزية : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lifestyle",
+      "en": "lifestyle",
+      "ar": "نمط الحياة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali enjoyed the country lifestyle.",
+          "ar": "استمتع علي بنمط الحياة الريفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_lift",
+      "en": "lift",
+      "ar": "رفع / مصعد",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali carefully lifted the box.",
+          "ar": "رفع علي الصندوق بعناية."
+        },
+        {
+          "en": "We got the lift to the fifth floor",
+          "ar": "ركبنا المصعد للطابق الخامس :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_light",
+      "en": "light",
+      "ar": "أشعل / يشعل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_l_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lit a match to light the fire.",
+          "ar": "أشعل عود ثقاب ليشعل النار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

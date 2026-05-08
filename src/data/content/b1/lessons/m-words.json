@@ -1,0 +1,447 @@
+{
+  "id": "lsn_b1_m",
+  "levelId": "lvl_b1",
+  "title": "Unit 22: M Words",
+  "slug": "m-words",
+  "order": 22,
+  "wordCount": 19,
+  "titleAr": "الوحدة 22: كلمات حرف M",
+  "description": "Master essential B1 vocabulary starting with the letter M.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف M.",
+  "words": [
+    {
+      "id": "w_b1_mad",
+      "en": "mad",
+      "ar": "غضبت",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She got mad when she saw the broken dish.",
+          "ar": "لقد غضبت عندما رأت الطبق المكسور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈmæːd/"
+    },
+    {
+      "id": "w_b1_magic",
+      "en": "magic",
+      "ar": "سحر / سحرية",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Using magic is illegal in the competition.",
+          "ar": "استخدام السحر غير قانوني في المنافسة."
+        },
+        {
+          "en": "He used magic power to win.",
+          "ar": "هو استخدم قوة سحرية للفوز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈmadʒɪk/"
+    },
+    {
+      "id": "w_b1_mainly",
+      "en": "mainly",
+      "ar": "بشكل رئيسي",
+      "pronunciation": "/ mern-li/",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We produce mainly juice in our factory.",
+          "ar": "نحن ننتج العصير بشكل رئيسي في مصنعنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_mall",
+      "en": "mall",
+      "ar": "مركز تسوق",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You promised me we will go to the mall on Friday.",
+          "ar": "لقد وعدتني بأننا سنذهب إلى مركز التسوق يوم الجمعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/mɔːl/"
+    },
+    {
+      "id": "w_b1_management",
+      "en": "management",
+      "ar": "إدارة",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You have to read certain books in management.",
+          "ar": "عليك أن تقرأ كتب محددة في الإدارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈmænədʒmənt/"
+    },
+    {
+      "id": "w_b1_marketing",
+      "en": "marketing",
+      "ar": "تسويقية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was an awful marketing campaign.",
+          "ar": "لقد كانت حملة تسويقية فظيعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_marriage",
+      "en": "marriage",
+      "ar": "زواج",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Their marriage only lasted three years.",
+          "ar": "استمر زواجهما ثلاث سنوات فقط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈmæɹɪdʒ/"
+    },
+    {
+      "id": "w_b1_meanwhile",
+      "en": "meanwhile",
+      "ar": "في غضون ذلك / في هذه الأثناء",
+      "pronunciation": "/'min hwaıl/",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'll cook dinner. Meanwhile, you can watch TV.",
+          "ar": "سوف أطبخ العشاء في غضون ذلك، يمكنك مشاهدة التلفزيون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_measure",
+      "en": "measure",
+      "ar": "يقيس / إجراءات",
+      "pronunciation": "/ mezər/",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You should measure your heart rate.",
+          "ar": "يجب أن تقيس معدل ضربات قلبك."
+        },
+        {
+          "en": "The government announced a series of new measures.",
+          "ar": "الحكومة أعلنت عن سلسلة من الإجراءات الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_mental",
+      "en": "mental",
+      "ar": "عقلي / ذهني",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the most dangerous mental illness?",
+          "ar": "ما هو أخطر مرض عقلي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈmɛntəl/"
+    },
+    {
+      "id": "w_b1_mess",
+      "en": "mess",
+      "ar": "فوضى",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need an assistant to help me clean this mess.",
+          "ar": "أحتاج إلى مساعد لمساعدتي في تنظيف هذه الفوضى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/mɛs/"
+    },
+    {
+      "id": "w_b1_mild",
+      "en": "mild",
+      "ar": "معتدل / لطيف",
+      "pronunciation": "/marld/",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The winter this year is mild.",
+          "ar": "الشتاء هذا العام معتدل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_mix",
+      "en": "Mix",
+      "ar": "اخلطي / مزيج",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Mix these ingredients in a bowl.",
+          "ar": "اخلطي هذه المكونات في وعاء."
+        },
+        {
+          "en": "The crowd was a mix of boys and girls.",
+          "ar": "كان الحشد مزيجًا من الأولاد والبنات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈmɪks/"
+    },
+    {
+      "id": "w_b1_mixture",
+      "en": "mixture",
+      "ar": "مزيج",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our city is a mixture of old and new buildings.",
+          "ar": "مدينتنا هي مزيج من المباني القديمة والجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈmɪkstʃə/"
+    },
+    {
+      "id": "w_b1_mood",
+      "en": "mood",
+      "ar": "مزاج",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can't change my mood easily.",
+          "ar": "لا يمكنك تغيير مزاجي بسهولة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/muːd/"
+    },
+    {
+      "id": "w_b1_mud",
+      "en": "mud",
+      "ar": "طين",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The car wheels have a lot of mud.",
+          "ar": "عجلات السيارة بها الكثير من الطين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/mʌd/"
+    },
+    {
+      "id": "w_b1_murder",
+      "en": "murder",
+      "ar": "جريمة قتل / يقتل",
+      "pronunciation": "/m3r-dər/",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They don't know who committed the murder.",
+          "ar": "هم لا يعرفون من ارتكب جريمة القتل."
+        },
+        {
+          "en": "He was murdered in cold blood.",
+          "ar": "لقد قتل بدم بارد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_muscles",
+      "en": "muscles",
+      "ar": "عضلات",
+      "pronunciation": "/ mas ǝl/",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "lift weights to build my muscles.",
+          "ar": "أرفع الأثقال لبناء عضلاتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_mystery",
+      "en": "mystery",
+      "ar": "لغز",
+      "pronunciation": "/mıs-tər-i/",
+      "lessonId": "lsn_b1_m",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His death was a mystery.",
+          "ar": "موته كان لغزا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

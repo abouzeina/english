@@ -1,0 +1,35 @@
+{
+  "id": "lsn_b2_q_1",
+  "levelId": "lvl_b2",
+  "slug": "q-words-1",
+  "title": "Q Words - Part 1",
+  "titleAr": "كلمات حرف Q - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter Q.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف Q.",
+  "order": 49,
+  "wordCount": 1,
+  "words": [
+    {
+      "id": "w_b2_questionnaire",
+      "en": "questionnaire",
+      "ar": "الاستبيان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_q_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Please fill out the questionnaire before leaving.",
+          "ar": "يرجى ملء الاستبيان قبل المغادرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

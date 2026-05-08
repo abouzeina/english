@@ -1,0 +1,497 @@
+{
+  "id": "lsn_b2_v_1",
+  "levelId": "lvl_b2",
+  "slug": "v-words-1",
+  "title": "V Words - Part 1",
+  "titleAr": "كلمات حرف V - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter V.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف V.",
+  "order": 59,
+  "wordCount": 22,
+  "words": [
+    {
+      "id": "w_b2_valid",
+      "en": "valid",
+      "ar": "صالحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You need a valid ID to enter the club.",
+          "ar": "تحتاج إلى بطاقة هوية صالحة لدخول النادي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_value",
+      "en": "value",
+      "ar": "يقدرون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They deeply value the support from their customers.",
+          "ar": "إنهم يقدرون بشدة الدعم الذي يقدمه عملاؤهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_variation",
+      "en": "variation",
+      "ar": "التباين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The variation in opinions caused a long discussion.",
+          "ar": "تسبب التباين في الآراء في نقاش طويل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_vary",
+      "en": "vary",
+      "ar": "تختلف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Prices vary depending on the season and demand.",
+          "ar": "تختلف الأسعار حسب الموسم والطلب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_vast",
+      "en": "vast",
+      "ar": "الشاسعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They explored the vast desert under the hot sun.",
+          "ar": "استكشفوا الصحراء الشاسعة تحت أشعة الشمس الحارقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_venue",
+      "en": "venue",
+      "ar": "مكان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The wedding venue was decorated with beautiful flowers.",
+          "ar": "تم تزيين مكان الزفاف بالزهور الجميلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_vertical",
+      "en": "vertical",
+      "ar": "العمودي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The tower's vertical structure makes it impressive.",
+          "ar": "الهيكل العمودي للبرج يجعله مثيراً للإعجاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_very",
+      "en": "very",
+      "ar": "ذاته",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He died in this very house years ago.",
+          "ar": "توفي في هذا المنزل ذاته منذ سنوات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_via",
+      "en": "via",
+      "ar": "عن طريق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You can pay via credit card or cash.",
+          "ar": "يمكنك الدفع عن طريق بطاقة الائتمان أو نقدًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_victory",
+      "en": "victory",
+      "ar": "فوزنا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our victory in the competition made us feel proud.",
+          "ar": "لقد جعلنا فوزنا في المسابقة نشعر بالفخر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_viewpoint",
+      "en": "viewpoint",
+      "ar": "وجهة نظرها",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her viewpoint differs from mine on this issue.",
+          "ar": "تختلف وجهة نظرها عن وجهة نظري في هذه المسألة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_violence",
+      "en": "violence",
+      "ar": "العنف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Violence often leads to pain, suffering, and regret.",
+          "ar": "غالبًا ما يؤدي العنف إلى الألم والمعاناة والندم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_virtual",
+      "en": "virtual",
+      "ar": "افتراضيًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He attended a virtual conference about digital marketing.",
+          "ar": "لقد حضر مؤتمرًا افتراضيًا حول التسويق الرقمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_visa",
+      "en": "visa",
+      "ar": "التأشيرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His visa application was rejected again.",
+          "ar": "رفض طلبه للحصول على التأشيرة مرة أخرى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_visible",
+      "en": "visible",
+      "ar": "ظاهرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her disappointment was visible in her sad expression.",
+          "ar": "كانت خيبة أملها ظاهرة في تعابير وجهها الحزين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_vision",
+      "en": "vision",
+      "ar": "بصره",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He lost his vision after the accident.",
+          "ar": "لقد فقد بصره بعد الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_visual",
+      "en": "visual",
+      "ar": "البصرية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The visual effects in this movie are amazing.",
+          "ar": "المؤثرات البصرية في هذا الفيلم مذهلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_vital",
+      "en": "vital",
+      "ar": "حيويًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Exercise plays a vital role in staying healthy.",
+          "ar": "تلعب التمارين الرياضية دورًا حيويًا في الحفاظ على صحتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_vitamins",
+      "en": "vitamins",
+      "ar": "الفيتامينات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Many vitamins and minerals help boost your immune system.",
+          "ar": "تساعد العديد من الفيتامينات والمعادن على تقوية جهازك المناعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_volume",
+      "en": "volume",
+      "ar": "حجم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The volume of sales rose during the holiday season.",
+          "ar": "ارتفع حجم المبيعات خلال موسم العطلات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_voluntary",
+      "en": "voluntary",
+      "ar": "التطوعية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Their voluntary efforts improved the school library.",
+          "ar": "أدت جهودهم التطوعية إلى تحسين مكتبة المدرسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_voting",
+      "en": "voting",
+      "ar": "التصويت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_v_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The voting process will end at midnight today.",
+          "ar": "ستنتهي عملية التصويت اليوم في منتصف الليل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

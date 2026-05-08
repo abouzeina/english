@@ -1,13 +1,13 @@
 {
   "id": "lsn_b1_a_1",
   "levelId": "lvl_b1",
-  "slug": "a-words-1",
   "title": "Unit 1: A Words - Part 1",
-  "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
-  "description": "Expand your intermediate vocabulary with words starting with A.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف A.",
+  "slug": "a-words-1",
   "order": 1,
-  "wordCount": 25,
+  "wordCount": 24,
+  "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
+  "description": "Master essential B1 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف A.",
   "words": [
     {
       "id": "w_b1_absolutely",
@@ -21,28 +21,6 @@
         {
           "en": "That's absolutely true.",
           "ar": "ذلك صحيح بكل تأكيد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_academic",
-      "en": "academic",
-      "ar": "دراسي / أكاديمي",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The academic year began in September.",
-          "ar": "بدأ العام الدراسي في سبتمبر."
         }
       ],
       "type": "word",
@@ -83,7 +61,6 @@
       "id": "w_b1_accommodation",
       "en": "accommodation",
       "ar": "سكن / أماكن للمبيت",
-      "pronunciation": "ə ka-mə der Jən/",
       "lessonId": "lsn_b1_a_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -99,35 +76,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_account",
-      "en": "account",
-      "ar": "حساب",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Do you have a Twitter account?",
-          "ar": "هل تملك حساب في تويتر ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ə.ˌkɒm.ə.ˈdeɪ.ʃən/"
     },
     {
       "id": "w_b1_achievement",
       "en": "achievement",
       "ar": "إنجاز",
-      "pronunciation": "",
       "lessonId": "lsn_b1_a_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -143,51 +98,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_act",
-      "en": "act",
-      "ar": "فعل / عمل",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The act of writing is easy for me.",
-          "ar": "فعل الكتابة سهل بالنسبة لي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_ads",
-      "en": "ads",
-      "ar": "إعلانات",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This website has too many ads.",
-          "ar": "هذا الموقع يحتوي على الكثير من الإعلانات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈtʃiːvmənt/"
     },
     {
       "id": "w_b1_additions",
@@ -256,6 +168,28 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_ads",
+      "en": "ads",
+      "ar": "إعلانات",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This website has too many ads.",
+          "ar": "هذا الموقع يحتوي على الكثير من الإعلانات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ædz/"
+    },
+    {
       "id": "w_b1_advanced",
       "en": "advanced",
       "ar": "متقدم",
@@ -281,7 +215,6 @@
       "id": "w_b1_advise",
       "en": "advise",
       "ar": "ينصح",
-      "pronunciation": "",
       "lessonId": "lsn_b1_a_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -297,7 +230,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ədˈvaɪz/"
     },
     {
       "id": "w_b1_afford",
@@ -440,36 +374,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_alarm",
-      "en": "alarm",
-      "ar": "إنذار / منبه",
-      "pronunciation": "/ə'larm/",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He fixed the alarm system.",
-          "ar": "أصلح نظام الإنذار."
-        },
-        {
-          "en": "Set your alarm clock for 6:00 am.",
-          "ar": "اضبط المنبه على الساعة 6:00 صباحًا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_album",
       "en": "album",
       "ar": "ألبوم",
-      "pronunciation": "",
       "lessonId": "lsn_b1_a_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -485,7 +392,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈælbəm/"
     },
     {
       "id": "w_b1_alcohol",
@@ -510,32 +418,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_alternative",
-      "en": "alternative",
-      "ar": "بديل",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I have an alternative solution.",
-          "ar": "لدي حل بديل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_amazed",
       "en": "amazed",
       "ar": "مندهش",
-      "pronunciation": "",
       "lessonId": "lsn_b1_a_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -551,7 +436,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈmeɪzd/"
     },
     {
       "id": "w_b1_ambition",
@@ -565,6 +451,94 @@
         {
           "en": "Her ambition is to become a doctor.",
           "ar": "طموحها أن تصبح طبيبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ambitious",
+      "en": "ambitious",
+      "ar": "طموح (صفة)",
+      "pronunciation": "/æm bıf-es/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You aren't ambitious enough.",
+          "ar": "أنت لست طموحا بما فيه الكفاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_analysis",
+      "en": "analysis",
+      "ar": "تحليل",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your analysis of the situation is correct.",
+          "ar": "تحليلك للوضع صحيح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/əˈnælɪsɪs/"
+    },
+    {
+      "id": "w_b1_analyzed",
+      "en": "analyzed",
+      "ar": "حللوا",
+      "pronunciation": "/'æn.el.arz/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They analyzed the results.",
+          "ar": "هم حللوا النتائج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_announce",
+      "en": "announce",
+      "ar": "يُعلن",
+      "pronunciation": "/ə'nauns/",
+      "lessonId": "lsn_b1_a_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They announced the results yesterday.",
+          "ar": "أعلنوا عن النتائج بالأمس."
         }
       ],
       "type": "word",

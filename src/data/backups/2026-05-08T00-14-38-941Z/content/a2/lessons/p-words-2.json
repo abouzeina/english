@@ -1,0 +1,567 @@
+{
+  "id": "lsn_a2_p_2",
+  "levelId": "lvl_2",
+  "slug": "p-words-2",
+  "title": "Unit 30: P Words - Part 2",
+  "titleAr": "الوحدة 30: كلمات حرف P - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف P.",
+  "order": 30,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_physical",
+      "en": "physical",
+      "ar": "جسدي / مادي",
+      "pronunciation": "/'fız   kəl/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali had some physical problems.",
+          "ar": "كان علي يعاني من بعض المشاكل الجسدية : جَسَدي : مادِي / ملموس :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_physics",
+      "en": "physics",
+      "ar": "فيزياء",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are you good at physics ?",
+          "ar": "هل أنت جيد في الفيزياء ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pick",
+      "en": "pick",
+      "ar": "يختار / يقطف",
+      "pronunciation": "/prk/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Pick a number from one to ten.",
+          "ar": "اختر رقمًا من واحد إلى عشرة : يَقْطُف :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pilot",
+      "en": "pilot",
+      "ar": "طيار",
+      "pronunciation": "/par-let/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My dream is to become a pilot.",
+          "ar": "حلمي أن أصبح طيار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_planet",
+      "en": "planet",
+      "ar": "كوكب",
+      "pronunciation": "/ plæn xt/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are you from another planet?",
+          "ar": "هل أنت من كوكب آخر :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_plant",
+      "en": "plant",
+      "ar": "يزرع",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We may plant a couple more trees.",
+          "ar": "قد نزرع عدة أشجار أخرى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_plastic",
+      "en": "plastic",
+      "ar": "بلاستيك",
+      "pronunciation": "/ plæs tzk/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This chair is made from plastic.",
+          "ar": "هذا الكرسي مصنوع من البلاستيك :"
+        },
+        {
+          "en": "Plastic boxes last longer",
+          "ar": "الصناديق البلاستيكية تدوم لفترة أطول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_plate",
+      "en": "plate",
+      "ar": "صحون",
+      "pronunciation": "/plext/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These plates aren't clean",
+          "ar": "هذه الصحون ليست نظيفة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_platform",
+      "en": "platform",
+      "ar": "رصيف / منصة",
+      "pronunciation": "/ plæt form/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your train leaves from Platform 10.",
+          "ar": "قطارك يغادر من رصيف 10 : مَنَصَّة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_please",
+      "en": "please",
+      "ar": "يرضي",
+      "pronunciation": "/pliz/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can't please everybody.",
+          "ar": "لا يمكنك أن ترضي الجميع :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pleased",
+      "en": "pleased",
+      "ar": "مسرور",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The boss was pleased with my work",
+          "ar": "كان المدير مسرورًا بعملي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pocket",
+      "en": "pocket",
+      "ar": "جيب",
+      "pronunciation": "/'pa-kxt/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Have you checked your pockets?",
+          "ar": "هل فحصت جيوبك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_polite",
+      "en": "polite",
+      "ar": "مهذب",
+      "pronunciation": "/pə'lart/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Be polite to everyone",
+          "ar": "كن مهذبا مع الجميع :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pollution",
+      "en": "pollution",
+      "ar": "تلوث",
+      "pronunciation": "/pə'lu Şən/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Air pollution is a big problem",
+          "ar": "تلوث الهواء مشكلة كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_pop",
+      "en": "pop",
+      "ar": "بوب",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you like pop music?",
+          "ar": "هل تعجبك موسيقى البوب ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_population",
+      "en": "population",
+      "ar": "سكان",
+      "pronunciation": "/ pa pjə'ler ſen/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "World population has increased",
+          "ar": "زاد عدد سكان العالم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_possession",
+      "en": "possession",
+      "ar": "ممتلكات",
+      "pronunciation": "/pə zej-an/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm giving my possessions away.",
+          "ar": "أنا أتبرع بكل ممتلكاتي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_possibility",
+      "en": "possibility",
+      "ar": "احتمال / إمكانية",
+      "pronunciation": "/pa sə biləţi/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There is a possibility that it will rain",
+          "ar": "هناك احتمال أنها ستمطر : إمكانية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_poster",
+      "en": "poster",
+      "ar": "ملصقات",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He put posters all over the city",
+          "ar": "وضع ملصقات في جميع أنحاء المدينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_power",
+      "en": "power",
+      "ar": "قوة",
+      "pronunciation": "/'pau ǝr/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We don't have the power.",
+          "ar": "نحن لا نمتلك القوة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_predict",
+      "en": "predict",
+      "ar": "يتنبأ",
+      "pronunciation": "/prı'dıkt/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can predict the future.",
+          "ar": "أستطيع أن أتنبأ بالمستقبل : يتنبأ :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_present",
+      "en": "present",
+      "ar": "يعرض / يقدم",
+      "pronunciation": "/pri zent/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She presented the information to her colleagues.",
+          "ar": "قدمت هي المعلومات لزميلاتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_president",
+      "en": "president",
+      "ar": "رئيس",
+      "pronunciation": "/ prez   dənt/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I met the president himself.",
+          "ar": "التقيت الرئيس بنفسه :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_prevent",
+      "en": "prevent",
+      "ar": "يمنع",
+      "pronunciation": "/prx'vent/",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Bad weather prevented us from leaving.",
+          "ar": "منعنا : سوء الأحوال الجوية من المغادرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_print",
+      "en": "print",
+      "ar": "يطبع",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have to print 100 pages.",
+          "ar": "علي أن أطبع 100 صفحة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

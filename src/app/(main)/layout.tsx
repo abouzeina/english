@@ -7,6 +7,7 @@ import { cn } from "@/lib/utils";
 
 import { ThemeToggle } from "@/components/theme-toggle";
 import { GlobalSearch } from "@/components/global-search";
+import { SyncStatusBadge } from "@/components/sync-status-badge";
 import { Home, BookOpen, BookText, Heart, LayoutDashboard, Menu, Sparkles, User } from "lucide-react";
 import { useAuthStore } from "@/store/useAuthStore";
 
@@ -87,6 +88,9 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
             <div className="hidden sm:block">
               <GlobalSearch />
             </div>
+            
+            <SyncStatusBadge />
+            
             <ThemeToggle />
             
             {user && (

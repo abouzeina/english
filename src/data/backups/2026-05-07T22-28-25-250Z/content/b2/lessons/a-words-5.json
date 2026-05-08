@@ -1,0 +1,47 @@
+{
+  "id": "lsn_b2_a_5",
+  "levelId": "lvl_b2",
+  "slug": "a-words-5",
+  "title": "A Words - Part 5",
+  "titleAr": "كلمات حرف A - الجزء 5",
+  "description": "Learn essential B2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف A.",
+  "order": 5,
+  "wordCount": 2,
+  "words": [
+    {
+      "id": "w_b2_awareness",
+      "en": "awareness",
+      "ar": "وعي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_awkward",
+      "en": "awkward",
+      "ar": "غير ملائم / محرج",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_5",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

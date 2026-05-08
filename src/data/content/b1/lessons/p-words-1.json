@@ -1,57 +1,35 @@
 {
   "id": "lsn_b1_p_1",
   "levelId": "lvl_b1",
+  "title": "Unit 25: P Words - Part 1",
   "slug": "p-words-1",
-  "title": "Unit 27: P Words - Part 1",
-  "titleAr": "الوحدة 27: كلمات حرف P - الجزء 1",
-  "description": "Expand your intermediate vocabulary with words starting with P.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف P.",
-  "order": 27,
-  "wordCount": 25,
+  "order": 25,
+  "wordCount": 24,
+  "titleAr": "الوحدة 25: كلمات حرف P - الجزء 1",
+  "description": "Master essential B1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف P.",
   "words": [
     {
-      "id": "w_b1_outdoors",
-      "en": "outdoors",
-      "ar": "خارج المنزل",
-      "pronunciation": "",
+      "id": "w_b2_package",
+      "en": "package",
+      "ar": "تغليف",
       "lessonId": "lsn_b1_p_1",
       "levelId": "lvl_b1",
-      "categoryId": "general",
       "examples": [
         {
-          "en": "The rain prevented us from eating outdoors.",
-          "ar": "منعنا المطر من تناول الطعام خارج المنزل."
+          "en": "The company will package samples for customers.",
+          "ar": "ستقوم الشركة بتغليف العينات للعملاء."
         }
       ],
       "type": "word",
       "difficulty": "B1",
       "tags": [
         "B1",
-        "core"
+        "advanced"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_pack",
-      "en": "pack",
-      "ar": "علبة",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I saw him buying a pack of cigarettes.",
-          "ar": "رأيته يشتري علبة سجائر."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpækɪdʒ/"
     },
     {
       "id": "w_b1_packages",
@@ -189,7 +167,6 @@
       "id": "w_b1_passes",
       "en": "passes",
       "ar": "تصاريح مرور",
-      "pronunciation": "",
       "lessonId": "lsn_b1_p_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -205,35 +182,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_passion",
-      "en": "passion",
-      "ar": "شغف",
-      "pronunciation": "/'pæs.ən/",
-      "lessonId": "lsn_b1_p_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The passion will drive you to achieve your goals.",
-          "ar": "الشغف سيقودك إلى تحقيق أهدافك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈpɐːsəz/"
     },
     {
       "id": "w_b1_path",
       "en": "path",
       "ar": "طريق",
-      "pronunciation": "",
       "lessonId": "lsn_b1_p_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -249,7 +204,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/[pʰäːθ]/"
     },
     {
       "id": "w_b1_payment",
@@ -553,6 +509,28 @@
         {
           "en": "What a pleasant surprise!!",
           "ar": "يا لها من مفاجئة سارة !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pleasure",
+      "en": "pleasure",
+      "ar": "سرور",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I read this novel with pleasure.",
+          "ar": "قرأت هذه الرواية بسرور."
         }
       ],
       "type": "word",

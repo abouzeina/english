@@ -1,0 +1,531 @@
+{
+  "id": "lsn_c1_n",
+  "levelId": "lvl_c1",
+  "title": "Unit 26: N Words",
+  "slug": "n-words",
+  "order": 26,
+  "wordCount": 23,
+  "titleAr": "الوحدة 26: كلمات حرف N",
+  "description": "Master essential C1 vocabulary starting with the letter N.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف N.",
+  "words": [
+    {
+      "id": "w_c1_namely",
+      "en": "namely",
+      "ar": "أي / تحديداً",
+      "pronunciation": "ˈneɪmli",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحن بحاجة للتركيز على مجالين، وتحديداً التعليم والصحة",
+          "ar": "The problem has a simple cause, namely a lack of communication."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_nationwide",
+      "en": "nationwide",
+      "ar": "على مستوى البلاد",
+      "pronunciation": "ˌneɪʃnˈwaɪd",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "جذب الاحتجاج اهتماماً على مستوى البلاد",
+          "ar": "The company is launching a nationwide advertising campaign."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_naval",
+      "en": "naval",
+      "ar": "بحري (عسكري)",
+      "pronunciation": "ˈneɪvl",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان لديه مسيرة مهنية بحرية طويلة ومتميزة",
+          "ar": "The city is home to a large naval base."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_neglect",
+      "en": "neglect",
+      "ar": "يهمل / إهمال",
+      "pronunciation": "nɪˈɡlekt",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم إهمال المنزل لسنوات عديدة",
+          "ar": "He was accused of gross neglect of duty."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_neighbouring",
+      "en": "neighbouring",
+      "ar": "مجاور",
+      "pronunciation": "ˈneɪbərɪŋ",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أيقظت الضوضاء جميع المنازل المجاورة",
+          "ar": "They visited several neighbouring towns during their holiday."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_nest",
+      "en": "nest",
+      "ar": "عش",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بنى الطائر عشه في شجرة التفاح",
+          "ar": "A family of mice had made a nest in the garage."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/nɛst/"
+    },
+    {
+      "id": "w_c1_net",
+      "en": "net",
+      "ar": "صافي (ربح أو وزن) / شبكة",
+      "pronunciation": "net",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "زاد صافي ربح الشركة بنسبة عشرة بالمئة",
+          "ar": "The fisherman hauled in a full net of fish."
+        },
+        {
+          "en": "Can I borrow your fishing net?",
+          "ar": "هل يمكنني استعارة شبكة الصيد الخاصة بك ؟"
+        },
+        {
+          "en": "The fisherman repaired his net.",
+          "ar": "قام الصياد بإصلاح شبكته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B1",
+        "core",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_newsletter",
+      "en": "newsletter",
+      "ar": "نشرة إخبارية",
+      "pronunciation": "ˈnjuːzletə(r)",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ترسل المدرسة نشرة إخبارية أسبوعية للآباء",
+          "ar": "You can subscribe to our email newsletter on our website."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_niche",
+      "en": "niche",
+      "ar": "مكان ملائم / تخصص دقيق / كوة",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وجدت مكانها الملائم في عالم تصميم الأزياء",
+          "ar": "The company has successfully carved out a niche market."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/niːʃ/"
+    },
+    {
+      "id": "w_c1_noble",
+      "en": "noble",
+      "ar": "نبيل / شريف",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه ينحدر من عائلة نبيلة",
+          "ar": "It was a noble gesture to donate all that money."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnəʊbəl/"
+    },
+    {
+      "id": "w_c1_nod",
+      "en": "nod",
+      "ar": "يومئ بالرأس / إيماءة",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أومأت برأسها موافقة",
+          "ar": "He gave me a quick nod as he passed by."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/nɔd/"
+    },
+    {
+      "id": "w_c1_nominate",
+      "en": "nominate",
+      "ar": "يرشح",
+      "pronunciation": "ˈnɒmɪneɪt",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم ترشيحه لجائزة الأوسكار عن فيلمه الأخير",
+          "ar": "I would like to nominate Sarah for the position of chairperson."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_nomination",
+      "en": "nomination",
+      "ar": "ترشيح",
+      "pronunciation": "ˌnɒmɪˈneɪʃn",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الموعد النهائي للترشيحات هو الجمعة القادمة",
+          "ar": "She was delighted to receive a nomination for the award."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_nominee",
+      "en": "nominee",
+      "ar": "مرشح",
+      "pronunciation": "ˌnɒmɪˈniː",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيتناظر المرشحون الرئاسيون على التلفزيون الليلة",
+          "ar": "He is a leading nominee for the job."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_non_profit",
+      "en": "non-profit",
+      "ar": "غير ربحي",
+      "pronunciation": "ˌnɒn ˈprɒfɪt",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المنظمة هي جمعية خيرية غير ربحية",
+          "ar": "She works for a non-profit group that helps the homeless."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_nonetheless",
+      "en": "nonetheless",
+      "ar": "ومع ذلك / برغم ذلك",
+      "pronunciation": "ˌnʌnðəˈles",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الامتحان صعباً، ومع ذلك، فقد نجحت بدرجات عالية",
+          "ar": "It was raining; nonetheless, we decided to go for a walk."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_nonsense",
+      "en": "nonsense",
+      "ar": "كلام فارغ / هراء",
+      "pronunciation": "ˈnɒnsns",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توقف عن قول الهراء وأخبرني بالحقيقة",
+          "ar": "What he said was absolute nonsense."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_noon",
+      "en": "noon",
+      "ar": "ظهيرة / منتصف النهار",
+      "pronunciation": "nuːn",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيبدأ الاجتماع في تمام الظهيرة",
+          "ar": "We usually have lunch around noon."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_notable",
+      "en": "notable",
+      "ar": "بارز / جدير بالذكر",
+      "pronunciation": "ˈnəʊtəbl",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان هناك تحسن ملحوظ في عملها",
+          "ar": "He is one of the most notable figures in local history."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_notably",
+      "en": "notably",
+      "ar": "لا سيما / بشكل ملحوظ",
+      "pronunciation": "ˈnəʊtəbli",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عارضت عدة دول، لا سيما فرنسا وألمانيا، الخطة",
+          "ar": "The new model is notably different from the old one."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_notify",
+      "en": "notify",
+      "ar": "يبلغ / يحيط علماً",
+      "pronunciation": "ˈnəʊtɪfaɪ",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يرجى إبلاغنا بأي تغيير في عنوانك",
+          "ar": "The police notified the family of the accident."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_notorious",
+      "en": "notorious",
+      "ar": "سيء السمعة / مشهور بسوء",
+      "pronunciation": "nəʊˈtɔːriəs",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المنطقة سيئة السمعة بسبب ارتفاع معدل الجريمة فيها",
+          "ar": "He is a notorious criminal who has escaped from prison twice."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_nursery",
+      "en": "nursery",
+      "ar": "دار حضانة / مشتل",
+      "pronunciation": "ˈnɜːsəri",
+      "lessonId": "lsn_c1_n",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الأطفال سعداء في دار الحضانة المحلية",
+          "ar": "We bought some fruit trees from the plant nursery."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,599 @@
+{
+  "id": "lsn_a1_p_1",
+  "levelId": "lvl_1",
+  "title": "P Words - Part 1",
+  "slug": "p-words-1",
+  "order": 31,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف P - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_a1_own",
+      "lessonId": "lsn_a1_p_1",
+      "en": "own",
+      "translation": "خاص",
+      "ar": "خاص",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They built their own house.",
+          "ar": "بنوا منزلهم الخاص."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_page",
+      "lessonId": "lsn_a1_p_1",
+      "en": "page",
+      "translation": "صفحة",
+      "ar": "صفحة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Turn to the next page.",
+          "ar": "انتقل إلى الصفحة التالية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_paint",
+      "lessonId": "lsn_a1_p_1",
+      "en": "paint",
+      "translation": "يطلي / طلاء / يرسم",
+      "ar": "يطلي / طلاء / يرسم",
+      "pronunciation": "/peint/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I painted my room yellow.",
+          "ar": "قمت بطلاء غرفتي باللون الأصفر."
+        },
+        {
+          "en": "I bought blue paint today.",
+          "ar": "اشتريت طلاء أزرق اليوم."
+        },
+        {
+          "en": "She painted a red flower.",
+          "ar": "لقد رسمت زهرة حمراء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_painting",
+      "lessonId": "lsn_a1_p_1",
+      "en": "painting",
+      "translation": "لوحة / الرسم",
+      "ar": "لوحة / الرسم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love your new painting.",
+          "ar": "أحب لوحتك الجديدة."
+        },
+        {
+          "en": "Painting is my favorite hobby.",
+          "ar": "الرسم هو هوايتي المفضلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_pair",
+      "lessonId": "lsn_a1_p_1",
+      "en": "pair",
+      "translation": "زوج من",
+      "ar": "زوج من",
+      "pronunciation": "/peer/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I bought a pair of shoes.",
+          "ar": "اشتريت زوجاً من الأحذية."
+        },
+        {
+          "en": "I want a new pair of jeans.",
+          "ar": "أريد بنطال جينز جديد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_paper",
+      "lessonId": "lsn_a1_p_1",
+      "en": "paper",
+      "translation": "ورق",
+      "ar": "ورق",
+      "pronunciation": "/'per pər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need a piece of paper.",
+          "ar": "أحتاج إلى قطعة من الورق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_paragraph",
+      "lessonId": "lsn_a1_p_1",
+      "en": "paragraph",
+      "translation": "فقرة",
+      "ar": "فقرة",
+      "pronunciation": "/'pærə græf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This paragraph is very important.",
+          "ar": "هذه الفقرة مهمة جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_parents",
+      "lessonId": "lsn_a1_p_1",
+      "en": "parents",
+      "translation": "والدان",
+      "ar": "والدان",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My parents work in a hospital.",
+          "ar": "يعمل والداي في مستشفى."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_park",
+      "lessonId": "lsn_a1_p_1",
+      "en": "park",
+      "translation": "متنزه / يوقف سيارته",
+      "ar": "متنزه / يوقف سيارته",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This park has many trees.",
+          "ar": "يحتوي هذا المتنزه على العديد من الأشجار."
+        },
+        {
+          "en": "He parks near the school.",
+          "ar": "إنه يوقف سيارته بالقرب من المدرسة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_part",
+      "lessonId": "lsn_a1_p_1",
+      "en": "part",
+      "translation": "جزء",
+      "ar": "جزء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He is part of the team.",
+          "ar": "إنه جزء من الفريق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_partner",
+      "lessonId": "lsn_a1_p_1",
+      "en": "partner",
+      "translation": "شريك",
+      "ar": "شريك",
+      "pronunciation": "/ part nor/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need a partner in this game.",
+          "ar": "أحتاج إلى شريك في هذه اللعبة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_party",
+      "lessonId": "lsn_a1_p_1",
+      "en": "party",
+      "translation": "حفلة",
+      "ar": "حفلة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We had a small party at home.",
+          "ar": "أقمنا حفلة صغيرة في المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_passport",
+      "lessonId": "lsn_a1_p_1",
+      "en": "passport",
+      "translation": "جواز سفر",
+      "ar": "جواز سفر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He forgot his passport at home.",
+          "ar": "نسي جواز سفره في المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_past",
+      "lessonId": "lsn_a1_p_1",
+      "en": "past",
+      "translation": "ماضي / الماضية / بعد / وللوقت",
+      "ar": "ماضي / الماضية / بعد / وللوقت",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My past was very difficult.",
+          "ar": "كان ماضيي صعباً للغاية."
+        },
+        {
+          "en": "I was sick the past few days.",
+          "ar": "كنت مريضاً في الأيام القليلة الماضية."
+        },
+        {
+          "en": "We worked past office hours.",
+          "ar": "عملنا بعد ساعات العمل."
+        },
+        {
+          "en": "It's five past three.",
+          "ar": "إنها الثالثة وخمس دقائق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_pay",
+      "lessonId": "lsn_a1_p_1",
+      "en": "pay",
+      "translation": "يدفع",
+      "ar": "يدفع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you pay the bill?",
+          "ar": "هل يمكن أن تدفع الفاتورة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_pen",
+      "lessonId": "lsn_a1_p_1",
+      "en": "pen",
+      "translation": "قلم حبر",
+      "ar": "قلم حبر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you find my pen?",
+          "ar": "هل وجدت قلمي؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_pencil",
+      "lessonId": "lsn_a1_p_1",
+      "en": "pencil",
+      "translation": "قلم رصاص",
+      "ar": "قلم رصاص",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My pencil is on the table.",
+          "ar": "قلمي الرصاص على الطاولة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_people",
+      "lessonId": "lsn_a1_p_1",
+      "en": "people",
+      "translation": "ناس",
+      "ar": "ناس",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Many people live in this city.",
+          "ar": "يعيش الكثير من الناس في هذه المدينة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_pepper",
+      "lessonId": "lsn_a1_p_1",
+      "en": "pepper",
+      "translation": "فلفل",
+      "ar": "فلفل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Put black pepper on the eggs.",
+          "ar": "ضع الفلفل الأسود على البيض."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_perfect",
+      "lessonId": "lsn_a1_p_1",
+      "en": "perfect",
+      "translation": "مثالي",
+      "ar": "مثالي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He gave a perfect answer.",
+          "ar": "لقد أعطى إجابة مثالية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_period",
+      "lessonId": "lsn_a1_p_1",
+      "en": "period",
+      "translation": "فترة",
+      "ar": "فترة",
+      "pronunciation": "/'pıər-i-əd/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We waited for a short period.",
+          "ar": "انتظرتنا لفترة قصيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_person",
+      "lessonId": "lsn_a1_p_1",
+      "en": "person",
+      "translation": "شخص",
+      "ar": "شخص",
+      "pronunciation": "/'par-sən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He is a tall person.",
+          "ar": "إنه شخص طويل القامة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_personal",
+      "lessonId": "lsn_a1_p_1",
+      "en": "personal",
+      "translation": "شخصي",
+      "ar": "شخصي",
+      "pronunciation": "/'par-sənəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That is my personal opinion.",
+          "ar": "هذا رأيي الشخصي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_phone",
+      "lessonId": "lsn_a1_p_1",
+      "en": "phone",
+      "translation": "هاتف / يتصل",
+      "ar": "هاتف / يتصل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I forgot my phone at home.",
+          "ar": "نسيت هاتفي في المنزل."
+        },
+        {
+          "en": "I will phone you later.",
+          "ar": "سأتصل بك لاحقاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_photo",
+      "lessonId": "lsn_a1_p_1",
+      "en": "photo",
+      "translation": "صورة",
+      "ar": "صورة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His photo is on the wall.",
+          "ar": "صورته (معلقة) على الحائط."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

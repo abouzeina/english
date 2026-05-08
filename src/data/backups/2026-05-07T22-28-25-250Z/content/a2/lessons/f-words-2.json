@@ -1,0 +1,535 @@
+{
+  "id": "lsn_a2_f_2",
+  "levelId": "lvl_2",
+  "slug": "f-words-2",
+  "title": "Unit 15: F Words - Part 2",
+  "titleAr": "الوحدة 15: كلمات حرف F - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter F.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف F.",
+  "order": 15,
+  "wordCount": 23,
+  "words": [
+    {
+      "id": "w_a2_firstly",
+      "en": "firstly",
+      "ar": "أولا",
+      "pronunciation": "/farst-li/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Firstly you have to tell your parents.",
+          "ar": "أولاً : عليك أن تخبر والديك | بدايةً / أولاً | :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fish",
+      "en": "fish",
+      "ar": "يصطاد",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am going to fish in the river.",
+          "ar": "انا ذاهب لأصطاد السمك في النهر."
+        },
+        {
+          "en": "Fishing is my favorite hobby",
+          "ar": "صيد السمك هوايتي المفضلة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fit",
+      "en": "fit",
+      "ar": "لائق بدنيا / يناسب",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is fit because he exercises every day",
+          "ar": "إنه لائق بدنيا : لأنه يمارس الرياضة كل يوم :"
+        },
+        {
+          "en": "Does this shirt fit you ?",
+          "ar": "هل يناسبك هذا القميص : ؟ : هل هو مقاسك : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fix",
+      "en": "fix",
+      "ar": "يصلح",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We can fix anything.",
+          "ar": "يمكننا أن نصلح أي شيء :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_flat",
+      "en": "flat",
+      "ar": "مسطحة",
+      "pronunciation": "/flæt/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Some people think that the earth is flat.",
+          "ar": "يعتقد بعض الناس أن الأرض مسطحة : مُفَرَّغ من الهواء :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_flu",
+      "en": "flu",
+      "ar": "أنفلونزا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "All my friends have the flu.",
+          "ar": "كل أصدقائي مصابون بالأنفلونزا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fly",
+      "en": "fly",
+      "ar": "ذبابة / يطير",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The fly flew into the window.",
+          "ar": "الذبابة طارت إلى النافذة :"
+        },
+        {
+          "en": "Flies are flying insects.",
+          "ar": "الذباب هي حشرات طائرة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_flying",
+      "en": "flying",
+      "ar": "طيران",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am afraid of flying.",
+          "ar": "أنا خائف من الطيران."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_focus",
+      "en": "focus",
+      "ar": "تركيز",
+      "pronunciation": "/ fou-kes/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can we please focus here?",
+          "ar": "هل يمكننا أن نركز هنا من فضلكم : ؟"
+        },
+        {
+          "en": "The focus of the discussion was on sports",
+          "ar": "كان محور النقاش في الرياضة : مركز الاهتمام :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_following",
+      "en": "following",
+      "ar": "تالية",
+      "pronunciation": "/'fa-Ιου τη/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Answer the following questions.",
+          "ar": "اجب على الاسئلة التالية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_foreign",
+      "en": "foreign",
+      "ar": "أجنبية",
+      "pronunciation": "/ for-en/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I speak two foreign languages.",
+          "ar": "أنا أتحدث لغتين أجنبيتين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_forest",
+      "en": "forest",
+      "ar": "غابة",
+      "pronunciation": "/ forest, far-est/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lives in the forest alone.",
+          "ar": "يعيش في الغابة لوحده :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fork",
+      "en": "fork",
+      "ar": "شوكة",
+      "pronunciation": "/fork/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Soup cannot be eaten with a fork.",
+          "ar": "لا يمكن تناول الحساء بالشوكة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_formal",
+      "en": "formal",
+      "ar": "رسمي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "No formal action was taken",
+          "ar": "لم يتخذ أي إجراء رسمي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fortunately",
+      "en": "fortunately",
+      "ar": "لحسن الحظ",
+      "pronunciation": "/for-tfə-nət-li/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Fortunately, the weather was good",
+          "ar": "لحسن الحظ، كان الطقس جيدًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_forward",
+      "en": "forward",
+      "ar": "قدما",
+      "pronunciation": "/for-ward/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We must keep moving forward.",
+          "ar": "يجب أن نستمر في المضي قدمًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_free",
+      "en": "free",
+      "ar": "مجانا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I got this book free.",
+          "ar": "حصلت على هذا الكتاب مجانا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fresh",
+      "en": "fresh",
+      "ar": "طازج",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I want some fresh eggs.",
+          "ar": "أريد بعض البيض الطازج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fridge",
+      "en": "fridge",
+      "ar": "ثلاجة",
+      "pronunciation": "/frid3/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't leave the fridge open.",
+          "ar": "لا تترك الثلاجة مفتوحة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_frog",
+      "en": "frog",
+      "ar": "ضفدع",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Where did you catch these frogs?",
+          "ar": "من أين أمسكت بهذه الضفادع ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fun",
+      "en": "fun",
+      "ar": "ممتعة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Basketball is a fun game to play.",
+          "ar": "كرة السلة هي لعبة ممتعة للعب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_furniture",
+      "en": "furniture",
+      "ar": "أثاث",
+      "pronunciation": "/far-nı-tfər/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need some new furniture.",
+          "ar": "نحتاج بعض الأثاث الجديد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_further",
+      "en": "further",
+      "ar": "إضافية",
+      "pronunciation": "/far-dər/",
+      "lessonId": "lsn_a2_f_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can you give me some further information?",
+          "ar": "هل يمكنك إعطائي بعض المعلومات الإضافية : أكثر : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

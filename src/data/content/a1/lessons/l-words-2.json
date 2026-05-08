@@ -1,14 +1,228 @@
 {
   "id": "lsn_a1_l_2",
-  "levelId": "lvl_1",
-  "title": "L Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 23: L Words - Part 2",
   "slug": "l-words-2",
   "order": 23,
-  "wordCount": 7,
-  "titleAr": "كلمات حرف L - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter L.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف L.",
+  "wordCount": 15,
+  "titleAr": "الوحدة 23: كلمات حرف L - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف L.",
   "words": [
+    {
+      "id": "w_a1_light",
+      "lessonId": "lsn_a1_l_2",
+      "en": "light",
+      "translation": "ضوء / إضاءة / فاتح (للون)",
+      "ar": "ضوء / إضاءة / فاتح (للون)",
+      "pronunciation": "/lart/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The light is low in this room.",
+          "ar": "الإضاءة ضعيفة في هذه الغرفة."
+        },
+        {
+          "en": "I forgot to turn off the lights.",
+          "ar": "لقد نسيت إطفاء الأنوار."
+        },
+        {
+          "en": "She has light brown hair.",
+          "ar": "شعرها بني فاتح."
+        },
+        {
+          "en": "He lit a match to light the fire.",
+          "ar": "أشعل عود ثقاب ليشعل النار."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_like",
+      "lessonId": "lsn_a1_l_2",
+      "en": "like",
+      "translation": "يحب / مثل",
+      "ar": "يحب / مثل",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like chocolate ice cream.",
+          "ar": "أحب آيس كريم الشوكولاتة."
+        },
+        {
+          "en": "He speaks like his father.",
+          "ar": "إنه يتكلم مثل والده."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/laɪk/"
+    },
+    {
+      "id": "w_a1_line",
+      "lessonId": "lsn_a1_l_2",
+      "en": "line",
+      "translation": "خط / سطر",
+      "ar": "خط / سطر",
+      "pronunciation": "/laın/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Draw a line on the paper.",
+          "ar": "ارسم خطاً على الورقة."
+        },
+        {
+          "en": "Read the second line to me.",
+          "ar": "اقرأ لي السطر الثاني."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_lion",
+      "lessonId": "lsn_a1_l_2",
+      "en": "lion",
+      "translation": "أسد",
+      "ar": "أسد",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The lion is sleeping now.",
+          "ar": "الأسد نائم الآن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlaɪən/"
+    },
+    {
+      "id": "w_a1_list",
+      "lessonId": "lsn_a1_l_2",
+      "en": "list",
+      "translation": "قائمة / يذكر (سرد)",
+      "ar": "قائمة / يذكر (سرد)",
+      "pronunciation": "/list/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Is my name on this list?",
+          "ar": "هل اسمي في هذه القائمة؟"
+        },
+        {
+          "en": "List the things you need.",
+          "ar": "اذكر الأشياء التي تحتاجها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_listen",
+      "lessonId": "lsn_a1_l_2",
+      "en": "listen",
+      "translation": "يستمع",
+      "ar": "يستمع",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please listen when I speak.",
+          "ar": "أرجوك استمع عندما أتحدث."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɪs.ən/"
+    },
+    {
+      "id": "w_a1_little",
+      "lessonId": "lsn_a1_l_2",
+      "en": "little",
+      "translation": "قليل",
+      "ar": "قليل",
+      "pronunciation": "/lıt əل/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need a little help.",
+          "ar": "أحتاج إلى القليل من المساعدة."
+        },
+        {
+          "en": "It's a little colder today.",
+          "ar": "الجو بارد قليلاً اليوم."
+        },
+        {
+          "en": "I am a little afraid of going outside.",
+          "ar": "أنا خائف قليلاً من الخروج :"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b1_live",
+      "en": "live",
+      "ar": "مباشر / على الهواء",
+      "pronunciation": "/Ιαιν/",
+      "lessonId": "lsn_a1_l_2",
+      "levelId": "lvl_a1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is the match live or recorded?",
+          "ar": "هل المباراة مباشرة أم مسجلة ؟"
+        },
+        {
+          "en": "I want to repair my TV so I can watch the match live.",
+          "ar": "أريد إصلاح التلفاز حتى أتمكن من مشاهدة المباراة على الهواء مباشرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a1_lives",
       "lessonId": "lsn_a1_l_2",
@@ -59,7 +273,6 @@
       "en": "long",
       "translation": "طويل / طويلاً",
       "ar": "طويل / طويلاً",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -81,7 +294,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɔːŋ/"
     },
     {
       "id": "w_a1_look",
@@ -103,12 +317,17 @@
         {
           "en": "You look tired today.",
           "ar": "تبدين متعبة اليوم."
+        },
+        {
+          "en": "Take a look at these pictures.",
+          "ar": "ألق نظرة على هذه الصور :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -140,38 +359,11 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_a1_a_lot",
-      "lessonId": "lsn_a1_l_2",
-      "en": "a lot",
-      "translation": "الكثير / كثيراً",
-      "ar": "الكثير / كثيراً",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "He has a lot of friends.",
-          "ar": "لديه الكثير من الأصدقاء."
-        },
-        {
-          "en": "He works a lot these days.",
-          "ar": "إنه يعمل كثيراً هذه الأيام."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
       "id": "w_a1_love",
       "lessonId": "lsn_a1_l_2",
       "en": "love",
       "translation": "حب / يحب",
       "ar": "حب / يحب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -189,7 +381,30 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/lʊv/"
+    },
+    {
+      "id": "w_a1_lunch",
+      "lessonId": "lsn_a1_l_2",
+      "en": "lunch",
+      "translation": "غداء",
+      "ar": "غداء",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Lunch is ready; come and eat.",
+          "ar": "الغداء جاهز؛ تعالوا وتناولوا الطعام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/lʌnt͡ʃ/"
     }
   ]
 }

@@ -1,0 +1,487 @@
+{
+  "id": "lsn_a2_b_2",
+  "levelId": "lvl_2",
+  "slug": "b-words-2",
+  "title": "Unit 5: B Words - Part 2",
+  "titleAr": "الوحدة 5: كلمات حرف B - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter B.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف B.",
+  "order": 5,
+  "wordCount": 21,
+  "words": [
+    {
+      "id": "w_a2_biscuit",
+      "en": "biscuit",
+      "ar": "بسكويت",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A cup of tea and a biscuit, please.",
+          "ar": "كوب شاي وبسكويت من فضلك"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bit",
+      "en": "bit",
+      "ar": "بعض الشيء / قليلا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is a bit crazy.",
+          "ar": "علي مجنون بعض الشيء"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_blank",
+      "en": "blank",
+      "ar": "فارغ",
+      "pronunciation": "/blærŋk/",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Leave the paper blank.",
+          "ar": "اترك الورقة فارغة"
+        },
+        {
+          "en": "Fill the blanks with some words",
+          "ar": "املأ الفراغات ببعض الكلمات"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_blood",
+      "en": "blood",
+      "ar": "دم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's your blood type ?",
+          "ar": "ماهي فصيلة دمك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_blow",
+      "en": "blow",
+      "ar": "يهب",
+      "pronunciation": "/blou/",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The wind is blowing south.",
+          "ar": "الرياح تهب جنوبًا"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_board",
+      "en": "board",
+      "ar": "لوح",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's your favorite board game ?",
+          "ar": "ما هي لعبة اللوح المفضلة لديك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_boil",
+      "en": "boil",
+      "ar": "يسلق / يغلي",
+      "pronunciation": "/boıl/",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Boil those potatoes.",
+          "ar": "اسلق تلكم البطاطس"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bone",
+      "en": "bone",
+      "ar": "عظام",
+      "pronunciation": "/boun/",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Dates are good for the bones.",
+          "ar": "التمر مفيد للعظام"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_book",
+      "en": "book",
+      "ar": "يحجز",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He booked a flight to Jeddah.",
+          "ar": "حجز رحلة إلى جدة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_borrow",
+      "en": "borrow",
+      "ar": "يستعير",
+      "pronunciation": "/ barou/",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "May I borrow your bike ?",
+          "ar": "هل يمكنني أن أستعير دراجتك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_boss",
+      "en": "boss",
+      "ar": "مدير",
+      "pronunciation": "/bos/",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You're not my boss anymore.",
+          "ar": "أنت لم تعد مديري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bottom",
+      "en": "bottom",
+      "ar": "أسفل / أعماق",
+      "pronunciation": "/'ba-tem/",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Thank you, from the bottom of my heart!!",
+          "ar": "شكرًا لك من أعماق قلبي !!"
+        },
+        {
+          "en": "Write on the bottom left of the page",
+          "ar": "اكتب في أسفل يسار الصفحة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bowl",
+      "en": "bowl",
+      "ar": "زبدية / وعاء",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The bowl is filled with milk.",
+          "ar": "الزبدية ممتلئة بالحليب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_brain",
+      "en": "brain",
+      "ar": "دماغ",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is your brain on vacation?",
+          "ar": "هل دماغك في أجازة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bridge",
+      "en": "bridge",
+      "ar": "جسر",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This bridge isn't safe",
+          "ar": "هذا الجسر ليس آمنا"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_bright",
+      "en": "bright",
+      "ar": "مشرق",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What a bright morning !!",
+          "ar": "يا له من صباح مشرق"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_brilliant",
+      "en": "brilliant",
+      "ar": "عبقري / متألق",
+      "pronunciation": "/'bril-jent/",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Suddenly she had a brilliant idea.",
+          "ar": "فجأة، خطرت لها فكرة متألقة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_broken",
+      "en": "broken",
+      "ar": "معطل / مكسور",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali fixed the broken radio.",
+          "ar": "أصلح علي الراديو المعطل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_brush",
+      "en": "brush",
+      "ar": "فرشاة / ينظف بالفرشاة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The artist used a small brush to paint.",
+          "ar": "استخدم الفنان فرشاة صغيرة للرسم."
+        },
+        {
+          "en": "Remember to brush your teeth.",
+          "ar": "تذكر أن تنظف أسنانك بالفرشاة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_burn",
+      "en": "burn",
+      "ar": "يحترق",
+      "pronunciation": "/b3rn/",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This wood won't burn.",
+          "ar": "هذا الخشب لن يحترق"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_businessman",
+      "en": "businessman",
+      "ar": "رجل أعمال",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He's a successful businessman",
+          "ar": "إنه رجل أعمال ناجح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

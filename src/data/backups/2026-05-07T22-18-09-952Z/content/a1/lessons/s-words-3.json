@@ -1,0 +1,607 @@
+{
+  "id": "lsn_a1_s_3",
+  "levelId": "lvl_1",
+  "title": "S Words - Part 3",
+  "slug": "s-words-3",
+  "order": 38,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف S - الجزء 3",
+  "description": "Learn essential A1 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_a1_some",
+      "lessonId": "lsn_a1_s_3",
+      "en": "some",
+      "translation": "بعض",
+      "ar": "بعض",
+      "pronunciation": "/sʌm/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We need some sugar.",
+          "ar": "نحتاج إلى بعض السكر."
+        },
+        {
+          "en": "I need some money.",
+          "ar": "أحتاج بعض المال."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_someone",
+      "lessonId": "lsn_a1_s_3",
+      "en": "someone",
+      "translation": "شخص ما / أحدكم",
+      "ar": "شخص ما / أحدكم",
+      "pronunciation": "/sam wan/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Someone is at the door.",
+          "ar": "شخص ما على الباب."
+        },
+        {
+          "en": "Can someone help me?",
+          "ar": "هل يمكن لأحدكم مساعدتي؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_something",
+      "lessonId": "lsn_a1_s_3",
+      "en": "something",
+      "translation": "شيء",
+      "ar": "شيء",
+      "pronunciation": "/ sam ın/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need something to eat.",
+          "ar": "أحتاج إلى شيء لأكله."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sometimes",
+      "lessonId": "lsn_a1_s_3",
+      "en": "sometimes",
+      "translation": "أحياناً",
+      "ar": "أحياناً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I sometimes read at night.",
+          "ar": "أقرأ أحياناً في الليل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_son",
+      "lessonId": "lsn_a1_s_3",
+      "en": "son",
+      "translation": "ابن",
+      "ar": "ابن",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My son is at school now.",
+          "ar": "ابني في المدرسة الآن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_song",
+      "lessonId": "lsn_a1_s_3",
+      "en": "song",
+      "translation": "أغنية",
+      "ar": "أغنية",
+      "pronunciation": "/tarmz/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Play that song again.",
+          "ar": "شغل تلك الأغنية مرة أخرى."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_soon",
+      "lessonId": "lsn_a1_s_3",
+      "en": "soon",
+      "translation": "قريباً",
+      "ar": "قريباً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'll be back soon.",
+          "ar": "سأعود قريباً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sorry",
+      "lessonId": "lsn_a1_s_3",
+      "en": "sorry",
+      "translation": "أسف / يؤسفني",
+      "ar": "أسف / يؤسفني",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Sorry, I'm late.",
+          "ar": "آسفة لقد تأخرت."
+        },
+        {
+          "en": "Sorry to hear that.",
+          "ar": "يؤسفني سماع ذلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sound",
+      "lessonId": "lsn_a1_s_3",
+      "en": "sound",
+      "translation": "صوت / يبدو",
+      "ar": "صوت / يبدو",
+      "pronunciation": "/saund/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This sound is relaxing.",
+          "ar": "هذا الصوت يبعث على الاسترخاء."
+        },
+        {
+          "en": "This sounds fun !!",
+          "ar": "يبدو ممتعاً !!"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_soup",
+      "lessonId": "lsn_a1_s_3",
+      "en": "soup",
+      "translation": "حساء",
+      "ar": "حساء",
+      "pronunciation": "/sup/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She made vegetable soup.",
+          "ar": "أعدت حساء الخضار."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_south",
+      "lessonId": "lsn_a1_s_3",
+      "en": "south",
+      "translation": "جنوب / جنوبي",
+      "ar": "جنوب / جنوبي",
+      "pronunciation": "/sαυθ/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We traveled to the south.",
+          "ar": "سافرنا إلى الجنوب."
+        },
+        {
+          "en": "We took the south road.",
+          "ar": "سلكنا الطريق الجنوبي."
+        },
+        {
+          "en": "They traveled south.",
+          "ar": "سافروا إلى الجنوب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_space",
+      "lessonId": "lsn_a1_s_3",
+      "en": "space",
+      "translation": "فضاء / مكان",
+      "ar": "فضاء / مكان",
+      "pronunciation": "/spers/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Space has many stars.",
+          "ar": "الفضاء به العديد من النجوم."
+        },
+        {
+          "en": "This space is for your bags.",
+          "ar": "هذا المكان مخصص لحقائبك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_speak",
+      "lessonId": "lsn_a1_s_3",
+      "en": "speak",
+      "translation": "تتحدث",
+      "ar": "تتحدث",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Do you speak English?",
+          "ar": "هل تتحدث الإنجليزية؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_special",
+      "lessonId": "lsn_a1_s_3",
+      "en": "special",
+      "translation": "مميز",
+      "ar": "مميز",
+      "pronunciation": "/'spef əل/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Today is a special day.",
+          "ar": "اليوم هو يوم مميز."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_spell",
+      "lessonId": "lsn_a1_s_3",
+      "en": "spell",
+      "translation": "تهجئة / يتهجى",
+      "ar": "تهجئة / يتهجى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please spell your name.",
+          "ar": "يرجى تهجئة اسمك."
+        },
+        {
+          "en": "I checked my spelling twice.",
+          "ar": "لقد راجعت تهجئة كتابتي مرتين."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_spent",
+      "lessonId": "lsn_a1_s_3",
+      "en": "spent",
+      "translation": "أنفق / قضى",
+      "ar": "أنفق / قضى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I spent all my money.",
+          "ar": "لقد أنفقت كل أموالي."
+        },
+        {
+          "en": "I spent my day with friends.",
+          "ar": "قضيت يومي مع أصدقائي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sport",
+      "lessonId": "lsn_a1_s_3",
+      "en": "sport",
+      "translation": "رياضة",
+      "ar": "رياضة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "What is your favorite sport?",
+          "ar": "ما هي رياضتك المفضلة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_spring",
+      "lessonId": "lsn_a1_s_3",
+      "en": "spring",
+      "translation": "ربيع",
+      "ar": "ربيع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love the colors of spring.",
+          "ar": "أحب ألوان الربيع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_stand",
+      "lessonId": "lsn_a1_s_3",
+      "en": "stand",
+      "translation": "يقف",
+      "ar": "يقف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He can't stand for too long.",
+          "ar": "لا يمكنه أن يقف طويلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_star",
+      "lessonId": "lsn_a1_s_3",
+      "en": "star",
+      "translation": "نجم",
+      "ar": "نجم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The nearest star is the sun.",
+          "ar": "أقرب نجم هو الشمس."
+        },
+        {
+          "en": "He was the star of the show.",
+          "ar": "لقد كان نجم العرض."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_statement",
+      "lessonId": "lsn_a1_s_3",
+      "en": "statement",
+      "translation": "بيان / كلام",
+      "ar": "بيان / كلام",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The statement is not true.",
+          "ar": "الكلام / البيان غير صحيح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_station",
+      "lessonId": "lsn_a1_s_3",
+      "en": "station",
+      "translation": "محطة",
+      "ar": "محطة",
+      "pronunciation": "/'ster fən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We arrived at the station.",
+          "ar": "وصلنا إلى المحطة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_stay",
+      "lessonId": "lsn_a1_s_3",
+      "en": "stay",
+      "translation": "يبقى",
+      "ar": "يبقى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I can't stay too long.",
+          "ar": "لا يمكنني أن أبقى طويلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_still",
+      "lessonId": "lsn_a1_s_3",
+      "en": "still",
+      "translation": "مازال",
+      "ar": "مازال",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I still don't understand.",
+          "ar": "ما زلت لا أفهم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_stop",
+      "lessonId": "lsn_a1_s_3",
+      "en": "stop",
+      "translation": "يوقف / موقف",
+      "ar": "يوقف / موقف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please stop the car.",
+          "ar": "أوقف السيارة من فضلك."
+        },
+        {
+          "en": "The bus stop is near.",
+          "ar": "موقف الحافلات قريب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

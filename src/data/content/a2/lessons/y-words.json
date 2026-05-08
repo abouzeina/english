@@ -1,0 +1,63 @@
+{
+  "id": "lsn_a2_y",
+  "levelId": "lvl_a2",
+  "title": "Unit 44: Y Words",
+  "slug": "y-words",
+  "order": 44,
+  "wordCount": 2,
+  "titleAr": "الوحدة 44: كلمات حرف Y",
+  "description": "Master essential A2 vocabulary starting with the letter Y.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف Y.",
+  "words": [
+    {
+      "id": "w_a2_yet",
+      "en": "yet",
+      "ar": "بعد",
+      "pronunciation": "/jet/",
+      "lessonId": "lsn_a2_y",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm not ready yet.",
+          "ar": "لست مستعدًا بعد :"
+        },
+        {
+          "en": "She studied hard, yet she failed the test.",
+          "ar": "لقد درست بجد، ومع ذلك رسبت في الاختبار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_yours",
+      "en": "yours",
+      "ar": "لكِ",
+      "lessonId": "lsn_a2_y",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is she a friend of yours?",
+          "ar": "هل هي صديقة لكِ ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/jɔː(ɹ)z/"
+    }
+  ]
+}

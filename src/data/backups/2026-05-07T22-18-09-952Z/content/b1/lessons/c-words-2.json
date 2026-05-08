@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b1_c_2",
+  "levelId": "lvl_b1",
+  "slug": "c-words-2",
+  "title": "Unit 7: C Words - Part 2",
+  "titleAr": "الوحدة 7: كلمات حرف C - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with C.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف C.",
+  "order": 7,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_chest",
+      "en": "chest",
+      "ar": "صدر",
+      "pronunciation": "/tfest/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have a pain in my chest.",
+          "ar": "لدي ألم في صدري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_childhood",
+      "en": "childhood",
+      "ar": "طفولة",
+      "pronunciation": "/ tfarld-hud/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Tell me about your childhood.",
+          "ar": "أخبرني عن طفولتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_claimed",
+      "en": "claimed",
+      "ar": "ادعى",
+      "pronunciation": "/klezm/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali claimed he won.",
+          "ar": "ادعى علي أنه فاز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_claim",
+      "en": "claim",
+      "ar": "ادعاء",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami didn't have any evidence to back his claim.",
+          "ar": "لم يكن لدى سامي أي دليل لدعم ادعاءه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_clause",
+      "en": "clause",
+      "ar": "عبارة / بند",
+      "pronunciation": "/kloz/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There's a mistake in that clause.",
+          "ar": "هناك خطأ في هذه العبارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_clear",
+      "en": "clear",
+      "ar": "يخلي / ينظف",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The people tried to clear the street of snow.",
+          "ar": "حاول الناس أن يخلوا الشارع من الثلج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_click",
+      "en": "click",
+      "ar": "ينقر / نقرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Click on \"save\" to begin the download.",
+          "ar": "انقر فوق \" حفظ \" لبدء التنزيل."
+        },
+        {
+          "en": "Make a double click on the filename.",
+          "ar": "قم بالنقر المزدوج على اسم الملف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_clients",
+      "en": "clients",
+      "ar": "عملاء",
+      "pronunciation": "/klar ənt/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our company has many clients from abroad.",
+          "ar": "شركتنا لديها العديد من العملاء من الخارج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_climb",
+      "en": "climb",
+      "ar": "تسلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We began our climb two hours ago.",
+          "ar": "بدأنا تسلقنا قبل ساعتين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_close",
+      "en": "close",
+      "ar": "قريب",
+      "pronunciation": "/klouz/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Stay close to me!!",
+          "ar": "ابق قريبا مني !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cloth",
+      "en": "cloth",
+      "ar": "قطعة قماش",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I used the piece of cloth you gave me as a tablecloth.",
+          "ar": "استخدمت قطعة القماش التي أعطيتني إياها كمفرش للمائدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_clue",
+      "en": "clue",
+      "ar": "فكرة / دليل / خيط",
+      "pronunciation": "/klu/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have no clue where he is.",
+          "ar": "ليس لدينا أدنى فكرة عن مكانه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_coached",
+      "en": "coached",
+      "ar": "دربت",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She has coached many young singers.",
+          "ar": "لقد دربت العديد من المطربين الشباب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_coal",
+      "en": "coal",
+      "ar": "فحم",
+      "pronunciation": "/koul/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The coal industry is dying.",
+          "ar": "صناعة الفحم تحتضر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_coins",
+      "en": "coins",
+      "ar": "قطع نقدية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These coins are from Jordan.",
+          "ar": "هذه القطع النقدية من الأردن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_collection",
+      "en": "collection",
+      "ar": "مجموعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami has the best coin collection I've ever seen.",
+          "ar": "لدى سامي أفضل مجموعة عملات رأيتها على الإطلاق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_coloured",
+      "en": "coloured",
+      "ar": "ملونة",
+      "pronunciation": "/'kal.ə/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I use coloured pencils in my drawings.",
+          "ar": "أستخدم أقلام رصاص ملونة في رسوماتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_combined",
+      "en": "combined",
+      "ar": "يمزج / يخلط",
+      "pronunciation": "/kəm baın/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He combined two ideas into one.",
+          "ar": "لقد جمع فكرتين في واحدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_comment",
+      "en": "comment",
+      "ar": "يعلق / تعليق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can't comment on their decision.",
+          "ar": "لا يمكنني أن أعلق على قرارهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_commercial",
+      "en": "commercial",
+      "ar": "تجاري",
+      "pronunciation": "/kə mər fəl/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They are doing some commercial activities in the area.",
+          "ar": "يقومون ببعض الأنشطة التجارية في المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_commercials",
+      "en": "commercials",
+      "ar": "إعلانات تجارية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali never watches commercials.",
+          "ar": "علي لا يشاهد الإعلانات ابدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_committed",
+      "en": "committed",
+      "ar": "ارتكب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who committed that crime?",
+          "ar": "من ارتكب تلك الجريمة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_communication",
+      "en": "communication",
+      "ar": "تواصل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Family communication is important.",
+          "ar": "التواصل الأسري مهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_comparison",
+      "en": "comparison",
+      "ar": "مقارنة",
+      "pronunciation": "/kəm pærə sən/",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Let's put them side by side for comparison.",
+          "ar": "لنضعهم جنبا إلى جنب من أجل المقارنة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_competitive",
+      "en": "competitive",
+      "ar": "تنافسي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We offer competitive pricing.",
+          "ar": "نحن نقدم أسعار تنافسية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

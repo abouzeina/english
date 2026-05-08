@@ -1,0 +1,480 @@
+{
+  "id": "lsn_c1_a_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 1: A Words - Part 1",
+  "slug": "a-words-1",
+  "order": 1,
+  "wordCount": 21,
+  "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف A.",
+  "words": [
+    {
+      "id": "w_c1_abolish",
+      "en": "abolish",
+      "ar": "يُلغي / يُبطل",
+      "pronunciation": "əˈbɒlɪʃ",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الحكومة إلغاء القانون القديم.",
+          "ar": "Slavery was abolished many years ago."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_abortion",
+      "en": "abortion",
+      "ar": "إجهاض",
+      "pronunciation": "əˈbɔːʃn",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا يزال الجدل حول الإجهاض قضية حساسة.",
+          "ar": "She decided to have an abortion for medical reasons."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_absence",
+      "en": "absence",
+      "ar": "غياب / فقدان",
+      "pronunciation": "ˈæbsəns",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "غياب الدليل لا يعني دليل الغياب.",
+          "ar": "His frequent absence from meetings was noticed by everyone."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_absent",
+      "en": "absent",
+      "ar": "غائب / غير موجود",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان غائباً عن العمل بسبب المرض.",
+          "ar": "The teacher marked the student as absent."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæb.sn̩t/"
+    },
+    {
+      "id": "w_c1_absurd",
+      "en": "absurd",
+      "ar": "سخيف / منافٍ للعقل",
+      "pronunciation": "əbˈsɜːd",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "من السخف اقتراح أنه خطط للأمر برمته.",
+          "ar": "The idea that the earth is flat is completely absurd."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_abundance",
+      "en": "abundance",
+      "ar": "وفرة / كثرة",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تشتهر المنطقة بوفرة مواردها الطبيعية.",
+          "ar": "There was an abundance of food at the wedding feast."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈbʌn.dn̩s/"
+    },
+    {
+      "id": "w_c1_abuse",
+      "en": "abuse",
+      "ar": "إساءة / استغلال / انتهاك",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كشف التحقيق عن إساءة استخدام واسعة للسلطة.",
+          "ar": "Children must be protected from all forms of abuse."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈbjuːs/"
+    },
+    {
+      "id": "w_c1_academy",
+      "en": "academy",
+      "ar": "أكاديمية / معهد تعليمي",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم قبوله في الأكاديمية العسكرية المرموقة.",
+          "ar": "The new sports academy offers professional training."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈkæd.ə.mi/"
+    },
+    {
+      "id": "w_c1_accelerate",
+      "en": "accelerate",
+      "ar": "يسرّع / يتسارع",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأت السيارة في التسارع عندما وصلت إلى الطريق السريع.",
+          "ar": "We need to accelerate the development process."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/æk.ˈsɛl.ə.ˌɹeɪt/"
+    },
+    {
+      "id": "w_c1_acceptance",
+      "en": "acceptance",
+      "ar": "قبول / موافقة",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لقي الاقتراح قبولاً عاماً من مجلس الإدارة.",
+          "ar": "She received an acceptance letter from the university."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ək.ˈsɛp.təns/"
+    },
+    {
+      "id": "w_c1_accessible",
+      "en": "accessible",
+      "ar": "متاح / سهل الوصول إليه",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المتحف متاح بالكامل للأشخاص الذين يستخدمون الكراسي المتحركة.",
+          "ar": "Information should be easily accessible to everyone."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əkˈsɛs.ə.bəl/"
+    },
+    {
+      "id": "w_c1_accomplishment",
+      "en": "accomplishment",
+      "ar": "إنجاز / براعة",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان إكمال الماراثون إنجازاً كبيراً لها.",
+          "ar": "Playing the piano is just one of her many accomplishments."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ə.ˈkʌm.plɪʃ.mənt/"
+    },
+    {
+      "id": "w_c1_accordance",
+      "en": "accordance",
+      "ar": "وفقاً لـ / بموجب",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت النتائج وفقاً لتوقعاتنا.",
+          "ar": "Everything was done in accordance with the law."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ə.ˈkɔɹd.əns/"
+    },
+    {
+      "id": "w_c1_accordingly",
+      "en": "accordingly",
+      "ar": "بناءً على ذلك / تبعا لذلك",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ثبتت إدانته وعوقب بناءً على ذلك.",
+          "ar": "Plan your trip and book your tickets accordingly."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈkɔː(ɹ).dɪŋ.li/"
+    },
+    {
+      "id": "w_c1_accountability",
+      "en": "accountability",
+      "ar": "مسؤولية / محاسبة",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هناك نقص في المساءلة في النظام الحالي.",
+          "ar": "Accountability is essential for a transparent government."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ə.ˌkaʊn.tə.ˈbɪl.ət.i/"
+    },
+    {
+      "id": "w_c1_accountable",
+      "en": "accountable",
+      "ar": "مسؤول / خاضع للمساءلة",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب محاسبة السياسيين على أفعالهم.",
+          "ar": "The manager is accountable to the board of directors."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ə.ˈkaʊn.tə.bəl/"
+    },
+    {
+      "id": "w_c1_accumulate",
+      "en": "accumulate",
+      "ar": "يراكم / يتجمع",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يميل الغبار إلى التراكم في زوايا الغرفة.",
+          "ar": "He managed to accumulate a vast fortune over the years."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈkjuːmjʊˌleɪt/"
+    },
+    {
+      "id": "w_c1_accumulation",
+      "en": "accumulation",
+      "ar": "تراكم / تجميع",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تراكم النفايات السامة مشكلة خطيرة.",
+          "ar": "The study focuses on the accumulation of wealth in society."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ə.ˌkjuːm.jə.ˈleɪ.ʃən/"
+    },
+    {
+      "id": "w_c1_accusation",
+      "en": "accusation",
+      "ar": "اتهام",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أنكرت اتهام السرقة.",
+          "ar": "The police are investigating the false accusation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌæk.jə.ˈzeɪ.ʃən/"
+    },
+    {
+      "id": "w_c1_accused",
+      "en": "accused",
+      "ar": "مُتهم",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم جلب المتهم أمام القاضي.",
+          "ar": "Evidence was presented against the accused."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ə.ˈkjuzd/"
+    },
+    {
+      "id": "w_c1_acid",
+      "en": "acid",
+      "ar": "حمضي (كصفة)",
+      "pronunciation": "ˈæsɪd",
+      "lessonId": "lsn_c1_a_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المحلول له طعم حمضي جداً.",
+          "ar": "Lemon juice is an acid substance."
+        },
+        {
+          "en": "I read about stomach acids in biology class.",
+          "ar": "قرأت عن أحماض المعدة في حصة الأحياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

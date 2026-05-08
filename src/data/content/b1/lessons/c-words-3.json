@@ -1,14 +1,102 @@
 {
   "id": "lsn_b1_c_3",
   "levelId": "lvl_b1",
+  "title": "Unit 7: C Words - Part 3",
   "slug": "c-words-3",
-  "title": "Unit 8: C Words - Part 3",
-  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 3",
-  "description": "Expand your intermediate vocabulary with words starting with C.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف C.",
-  "order": 8,
-  "wordCount": 25,
+  "order": 7,
+  "wordCount": 19,
+  "titleAr": "الوحدة 7: كلمات حرف C - الجزء 3",
+  "description": "Master essential B1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف C.",
   "words": [
+    {
+      "id": "w_b1_committed",
+      "en": "committed",
+      "ar": "ارتكب",
+      "lessonId": "lsn_b1_c_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who committed that crime?",
+          "ar": "من ارتكب تلك الجريمة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kəˈmɪtɪd/"
+    },
+    {
+      "id": "w_b1_communication",
+      "en": "communication",
+      "ar": "تواصل",
+      "lessonId": "lsn_b1_c_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Family communication is important.",
+          "ar": "التواصل الأسري مهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kəˌmjuːnɪˈkeɪʃən/"
+    },
+    {
+      "id": "w_b1_comparison",
+      "en": "comparison",
+      "ar": "مقارنة",
+      "pronunciation": "/kəm pærə sən/",
+      "lessonId": "lsn_b1_c_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Let's put them side by side for comparison.",
+          "ar": "لنضعهم جنبا إلى جنب من أجل المقارنة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_competitive",
+      "en": "competitive",
+      "ar": "تنافسي",
+      "lessonId": "lsn_b1_c_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We offer competitive pricing.",
+          "ar": "نحن نقدم أسعار تنافسية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kəmˈpɛtɪtɪv/"
+    },
     {
       "id": "w_b1_competitors",
       "en": "competitors",
@@ -43,28 +131,6 @@
         {
           "en": "What's your complaint?",
           "ar": "ما هي شكواك ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_complex",
-      "en": "complex",
-      "ar": "معقد / مركب",
-      "pronunciation": "/kəm pleks /",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This is a complex problem.",
-          "ar": "هذه مشكلة معقدة."
         }
       ],
       "type": "word",
@@ -233,7 +299,6 @@
       "id": "w_b1_connection",
       "en": "connection",
       "ar": "اتصال",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_3",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -249,7 +314,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/kəˈnɛkʃən/"
     },
     {
       "id": "w_b1_consequences",
@@ -296,28 +362,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_consumes",
-      "en": "consumes",
-      "ar": "يستهلك",
-      "pronunciation": "/kən'sum/",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "My fridge consumes a lot of electricity.",
-          "ar": "ثلاجتي تستهلك الكثير من الكهرباء."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_consumers",
       "en": "consumers",
       "ar": "مستهلكون",
@@ -329,6 +373,28 @@
         {
           "en": "Consumers prefer quantity to quality.",
           "ar": "المستهلكون يفضلون الكمية على الجودة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_consumes",
+      "en": "consumes",
+      "ar": "يستهلك",
+      "pronunciation": "/kən'sum/",
+      "lessonId": "lsn_b1_c_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My fridge consumes a lot of electricity.",
+          "ar": "ثلاجتي تستهلك الكثير من الكهرباء."
         }
       ],
       "type": "word",
@@ -355,208 +421,6 @@
         {
           "en": "How can we contact you?",
           "ar": "كيف يمكننا أن نتواصل بك ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_container",
-      "en": "container",
-      "ar": "وعاء / حاوية",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Fill the container with milk.",
-          "ar": "املأ الوعاء بالحليب."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_content",
-      "en": "content",
-      "ar": "محتوى",
-      "pronunciation": "/kən'tent/",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The content of the essay is interesting.",
-          "ar": "محتوى المقال مثير للاهتمام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_continuous",
-      "en": "continuous",
-      "ar": "مستمر",
-      "pronunciation": "/kən'tın-ju-əs/",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "It was a week of continuous rain.",
-          "ar": "كان أسبوعًا من المطر المستمر."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_contrasts",
-      "en": "contrasts",
-      "ar": "تناقضات / يتباين",
-      "pronunciation": "/'kan-træst/",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Japan is a country of contrasts.",
-          "ar": "اليابان بلد التناقضات."
-        },
-        {
-          "en": "Red contrasts well with blue.",
-          "ar": "الأحمر يتباين بشكل جيد مع الأزرق."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_convenient",
-      "en": "convenient",
-      "ar": "مناسب / ملائم / مريح",
-      "pronunciation": "/kən'vin jənt/",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "As for myself Saturday will be convenient.",
-          "ar": "بالنسبة لي، سيكون يوم السبت مناسبًا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_convince",
-      "en": "convince",
-      "ar": "يقنع",
-      "pronunciation": "/kən' vins/",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I tried to convince him, but I failed.",
-          "ar": "حاولت أن أقنعه لكني فشلت."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_cool",
-      "en": "cool",
-      "ar": "يبرد",
-      "pronunciation": "/kul/",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This fan is designed to cool the engine.",
-          "ar": "هذه المروحة مصممة لتبرد المحرك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_costume",
-      "en": "costume",
-      "ar": "زي / زي تنكري",
-      "pronunciation": "/ kas tum/",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Does this costume fit me?",
-          "ar": "هل يناسبني هذا الزي ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_cottage",
-      "en": "cottage",
-      "ar": "منزل ريفي صغير",
-      "pronunciation": "/'ka-ţıd3/",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "My parents live in a small cottage.",
-          "ar": "والداي يعيشان في منزل ريفي صغير."
         }
       ],
       "type": "word",

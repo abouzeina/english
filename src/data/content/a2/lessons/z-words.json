@@ -1,0 +1,35 @@
+{
+  "id": "lsn_a2_z",
+  "levelId": "lvl_a2",
+  "title": "Unit 45: Z Words",
+  "slug": "z-words",
+  "order": 45,
+  "wordCount": 1,
+  "titleAr": "الوحدة 45: كلمات حرف Z",
+  "description": "Master essential A2 vocabulary starting with the letter Z.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف Z.",
+  "words": [
+    {
+      "id": "w_a2_zero",
+      "en": "zero",
+      "ar": "صفر",
+      "pronunciation": "/zıər ou/",
+      "lessonId": "lsn_a2_z",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The temperature is below zero.",
+          "ar": "درجة الحرارة تحت الصفر :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

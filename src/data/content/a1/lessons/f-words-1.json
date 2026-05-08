@@ -1,43 +1,20 @@
 {
   "id": "lsn_a1_f_1",
-  "levelId": "lvl_1",
-  "title": "F Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 13: F Words - Part 1",
   "slug": "f-words-1",
   "order": 13,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف F - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter F.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف F.",
+  "wordCount": 19,
+  "titleAr": "الوحدة 13: كلمات حرف F - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف F.",
   "words": [
-    {
-      "id": "w_a1_eyes",
-      "lessonId": "lsn_a1_f_1",
-      "en": "eyes",
-      "translation": "عينين / عيني",
-      "ar": "عينين / عيني",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Open your eyes and look around.",
-          "ar": "افتح عينيك وانظر حولك."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_face",
       "lessonId": "lsn_a1_f_1",
       "en": "face",
       "translation": "وجه",
       "ar": "وجه",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +28,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/feɪs/"
     },
     {
       "id": "w_a1_fact",
@@ -59,7 +37,6 @@
       "en": "fact",
       "translation": "حقيقة",
       "ar": "حقيقة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -73,7 +50,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fækt/"
     },
     {
       "id": "w_a1_fall",
@@ -87,12 +65,17 @@
         {
           "en": "Leaves fall during autumn.",
           "ar": "تتساقط الأوراق خلال فصل الخريف."
+        },
+        {
+          "en": "The weather last fall was beautiful.",
+          "ar": "كان الطقس جميلاً في الخريف الماضي ."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -125,7 +108,6 @@
       "en": "family",
       "translation": "عائلة",
       "ar": "عائلة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -143,7 +125,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɛm(ɘ)li/"
     },
     {
       "id": "w_a1_famous",
@@ -173,7 +156,6 @@
       "en": "fantastic",
       "translation": "رائع",
       "ar": "رائع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -187,7 +169,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fænˈtæstɪk/"
     },
     {
       "id": "w_a1_far",
@@ -195,21 +178,26 @@
       "en": "far",
       "translation": "بعيد",
       "ar": "بعيد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "They didn't go far.",
           "ar": "لم يذهبوا بعيداً."
+        },
+        {
+          "en": "We live far from here.",
+          "ar": "نعيش بعيدًا عن هنا."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fɑː/"
     },
     {
       "id": "w_a1_farm",
@@ -217,21 +205,26 @@
       "en": "farm",
       "translation": "مزرعة",
       "ar": "مزرعة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I love spending time on the farm.",
           "ar": "أحب قضاء الوقت في المزرعة."
+        },
+        {
+          "en": "They farm rice.",
+          "ar": "يزرعون الأرز."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fɑːɹm/"
     },
     {
       "id": "w_a1_farmers",
@@ -239,7 +232,6 @@
       "en": "farmers",
       "translation": "مزارعون",
       "ar": "مزارعون",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -253,7 +245,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɑːməz/"
     },
     {
       "id": "w_a1_fast",
@@ -261,7 +254,6 @@
       "en": "fast",
       "translation": "سريع / بسرعة",
       "ar": "سريع / بسرعة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -279,7 +271,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fɑːst/"
     },
     {
       "id": "w_a1_fat",
@@ -287,21 +280,26 @@
       "en": "fat",
       "translation": "سمين",
       "ar": "سمين",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Your cat is fat.",
           "ar": "قطتك سمينة."
+        },
+        {
+          "en": "This meat has too much fat on it.",
+          "ar": "هذا اللحم فيه الكثير من الدهن :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fæt/"
     },
     {
       "id": "w_a1_father",
@@ -309,7 +307,6 @@
       "en": "father",
       "translation": "أب / والد",
       "ar": "أب / والد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -323,7 +320,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfaːðə/"
     },
     {
       "id": "w_a1_favorite",
@@ -331,7 +329,6 @@
       "en": "favorite",
       "translation": "مفضل",
       "ar": "مفضل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -345,7 +342,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfeɪv.ɹɪt/"
     },
     {
       "id": "w_a1_february",
@@ -375,7 +373,6 @@
       "en": "feel",
       "translation": "يشعر",
       "ar": "يشعر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -389,7 +386,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fiːl/"
     },
     {
       "id": "w_a1_feeling",
@@ -397,7 +395,6 @@
       "en": "feeling",
       "translation": "شعور",
       "ar": "شعور",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -411,7 +408,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfiːlɪŋ/"
     },
     {
       "id": "w_a1_festival",
@@ -419,7 +417,6 @@
       "en": "festival",
       "translation": "مهرجان",
       "ar": "مهرجان",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -433,7 +430,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɛstəvəl/"
     },
     {
       "id": "w_a1_few",
@@ -441,7 +439,6 @@
       "en": "few",
       "translation": "قليل (عدد)",
       "ar": "قليل (عدد)",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -455,117 +452,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_fifteen",
-      "lessonId": "lsn_a1_f_1",
-      "en": "fifteen",
-      "translation": "خمسة عشر",
-      "ar": "خمسة عشر",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "She bought fifteen books.",
-          "ar": "لقد اشترت خمسة عشر كتاباً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_fifty",
-      "lessonId": "lsn_a1_f_1",
-      "en": "fifty",
-      "translation": "خمسين",
-      "ar": "خمسين",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I ran fifty miles last week.",
-          "ar": "لقد ركضت خمسين ميلاً الأسبوع الماضي."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_fifth",
-      "lessonId": "lsn_a1_f_1",
-      "en": "fifth",
-      "translation": "خامس",
-      "ar": "خامس",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "They live on the fifth floor.",
-          "ar": "إنهم يعيشون في الطابق الخامس."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_fill",
-      "lessonId": "lsn_a1_f_1",
-      "en": "fill",
-      "translation": "يملأ",
-      "ar": "يملأ",
-      "pronunciation": "/f1l/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Please fill my bottle.",
-          "ar": "من فضلك املأ قارورتي."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_film",
-      "lessonId": "lsn_a1_f_1",
-      "en": "film",
-      "translation": "فيلم",
-      "ar": "فيلم",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The film was very interesting.",
-          "ar": "كان الفيلم ممتعاً للغاية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fjuː/"
     }
   ]
 }

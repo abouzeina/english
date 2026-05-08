@@ -1,0 +1,343 @@
+{
+  "id": "lsn_c1_o_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 28: O Words - Part 2",
+  "slug": "o-words-2",
+  "order": 28,
+  "wordCount": 15,
+  "titleAr": "الوحدة 28: كلمات حرف O - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter O.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف O.",
+  "words": [
+    {
+      "id": "w_c1_organizational",
+      "en": "organizational",
+      "ar": "تنظيمي",
+      "pronunciation": "ˌɔːɡənaɪˈzeɪʃənl",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لديها مهارات تنظيمية ممتازة",
+          "ar": "The company is undergoing some organizational changes."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_orientation",
+      "en": "orientation",
+      "ar": "توجه / توجيه / تدريب تعريفي",
+      "pronunciation": "ˌɔːriənˈteɪʃn",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تقدم المدرسة برنامجاً تعريفياً للطلاب الجدد",
+          "ar": "He changed his political orientation after the war."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_originate",
+      "en": "originate",
+      "ar": "ينبع / ينشأ",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نشأ هذا التقليد في العصور الوسطى",
+          "ar": "Many diseases originate from poor sanitation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈɹɪdʒɪneɪt/"
+    },
+    {
+      "id": "w_c1_outbreak",
+      "en": "outbreak",
+      "ar": "اندلاع / تفشي",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحاول الحكومة احتواء تفشي الفيروس",
+          "ar": "There was a sudden outbreak of violence in the city."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈaʊtbɹeɪk/"
+    },
+    {
+      "id": "w_c1_outing",
+      "en": "outing",
+      "ar": "نزهة / رحلة قصيرة",
+      "pronunciation": "ˈaʊtɪŋ",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نظمت الشركة نزهة للموظفين إلى الشاطئ",
+          "ar": "The children enjoyed their annual school outing."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_outlet",
+      "en": "outlet",
+      "ar": "مخرج / منفذ بيع",
+      "pronunciation": "ˈaʊtlet",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعتبر الكتابة منفذاً إبداعياً لها",
+          "ar": "The company has several retail outlets in the city."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_outlook",
+      "en": "outlook",
+      "ar": "نظرة مستقبلية / آفاق",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "النظرة الاقتصادية للسنة القادمة إيجابية",
+          "ar": "He has a very optimistic outlook on life."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈaʊtˌlʊk/"
+    },
+    {
+      "id": "w_c1_outrage",
+      "en": "outrage",
+      "ar": "غضب عارم / استياء / عمل وحشي",
+      "pronunciation": "ˈaʊtreɪdʒ",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعرب الجمهور عن غضب عارم من قرار المحكمة",
+          "ar": "The attack was a terrible outrage against humanity."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_outsider",
+      "en": "outsider",
+      "ar": "شخص غريب / دخيل",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كشخص غريب، وجدت صعوبة في فهم العادات المحلية",
+          "ar": "He was considered an outsider by the rest of the group."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌaʊtˈsaɪdəɹ/"
+    },
+    {
+      "id": "w_c1_overlook",
+      "en": "overlook",
+      "ar": "يتغاضى عن / يطل على",
+      "pronunciation": "ˌəʊvəˈlʊk",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تطل غرفة الفندق على البحر",
+          "ar": "We should not overlook the importance of small details."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_overly",
+      "en": "overly",
+      "ar": "مفرط / بشكل زائد",
+      "pronunciation": "ˈəʊvəli",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الوالدان مفرطين في حماية أطفالهما",
+          "ar": "He was overly optimistic about his chances of success."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_oversee",
+      "en": "oversee",
+      "ar": "يشرف على",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم تعيين لجنة للإشراف على المشروع",
+          "ar": "As a manager, she oversees the work of twenty people."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əʊvə(ɹ)siː/"
+    },
+    {
+      "id": "w_c1_overturn",
+      "en": "overturn",
+      "ar": "يقلب / ينقض (قراراً)",
+      "pronunciation": "ˌəʊvəˈtɜːn",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت المحكمة نقض الإدانة الأصلية",
+          "ar": "The car overturned after hitting a tree."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_overwhelm",
+      "en": "overwhelm",
+      "ar": "يغمر / يربك / يسحق",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "غمر الفيضان المفاجئ المدينة",
+          "ar": "I was overwhelmed by the kindness of my colleagues."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌovɚˈʍɛlm/"
+    },
+    {
+      "id": "w_c1_overwhelming",
+      "en": "overwhelming",
+      "ar": "ساحق / غامر",
+      "lessonId": "lsn_c1_o_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمت الموافقة على الاقتراح بأغلبية ساحقة",
+          "ar": "The smell of the perfume was overwhelming."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌəʊvəˈwɛlmɪŋ/"
+    }
+  ]
+}

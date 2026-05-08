@@ -1,0 +1,57 @@
+{
+  "id": "lsn_a2_y_1",
+  "levelId": "lvl_2",
+  "slug": "y-words-1",
+  "title": "Unit 46: Y Words - Part 1",
+  "titleAr": "الوحدة 46: كلمات حرف Y - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter Y.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف Y.",
+  "order": 46,
+  "wordCount": 2,
+  "words": [
+    {
+      "id": "w_a2_wow",
+      "en": "wow",
+      "ar": "واو",
+      "pronunciation": "/was/",
+      "lessonId": "lsn_a2_y_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Wow, you're a lucky guy",
+          "ar": "واو، أنت رجل محظوظ :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_yet",
+      "en": "yet",
+      "ar": "بعد",
+      "pronunciation": "/jet/",
+      "lessonId": "lsn_a2_y_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm not ready yet.",
+          "ar": "لست مستعدًا بعد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

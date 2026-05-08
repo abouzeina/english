@@ -1,14 +1,40 @@
 {
   "id": "lsn_a1_a_1",
-  "levelId": "lvl_1",
-  "title": "A Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 1: A Words - Part 1",
   "slug": "a-words-1",
   "order": 1,
   "wordCount": 25,
-  "titleAr": "كلمات حرف A - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter A.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف A.",
+  "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف A.",
   "words": [
+    {
+      "id": "w_a1_a_lot",
+      "lessonId": "lsn_a1_a_1",
+      "en": "a lot",
+      "translation": "الكثير / كثيراً",
+      "ar": "الكثير / كثيراً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He has a lot of friends.",
+          "ar": "لديه الكثير من الأصدقاء."
+        },
+        {
+          "en": "He works a lot these days.",
+          "ar": "إنه يعمل كثيراً هذه الأيام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_a1_about",
       "lessonId": "lsn_a1_a_1",
@@ -89,7 +115,6 @@
       "en": "action",
       "translation": "أفعال / عمل",
       "ar": "أفعال / عمل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -103,7 +128,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈæk.ʃən/"
     },
     {
       "id": "w_a1_activities",
@@ -111,7 +137,6 @@
       "en": "activities",
       "translation": "أنشطة",
       "ar": "أنشطة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -125,7 +150,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ækˈtɪ.vɪ.tiz/"
     },
     {
       "id": "w_a1_actor",
@@ -133,7 +159,6 @@
       "en": "actor",
       "translation": "ممثل",
       "ar": "ممثل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -147,7 +172,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈæk.tə/"
     },
     {
       "id": "w_a1_actress",
@@ -155,7 +181,6 @@
       "en": "actress",
       "translation": "ممثلة",
       "ar": "ممثلة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -169,7 +194,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈak.tɹəs/"
     },
     {
       "id": "w_a1_add",
@@ -199,21 +225,49 @@
       "en": "address",
       "translation": "عنوان",
       "ar": "عنوان",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Write your address here.",
           "ar": "اكتب عنوانك هنا."
+        },
+        {
+          "en": "We have to address the problem of poverty.",
+          "ar": "علينا أن نعالج مشكلة الفقر."
         }
       ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/æˈdɹɛs/"
+    },
+    {
+      "id": "w_a2_adult",
+      "en": "adult",
+      "ar": "بالغ / راشد",
+      "lessonId": "lsn_a1_a_1",
+      "levelId": "lvl_a1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They have some adult monkeys.",
+          "ar": "لديهم بعض القرود البالغة"
+        }
+      ],
+      "type": "word",
       "difficulty": "A1",
       "tags": [
         "A1",
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "ipa": "/əˈdʌlt/"
     },
     {
       "id": "w_a1_adults",
@@ -243,7 +297,6 @@
       "en": "advice",
       "translation": "نصيحة",
       "ar": "نصيحة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -257,7 +310,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ədˈvaɪs/"
     },
     {
       "id": "w_a1_afraid",
@@ -265,7 +319,6 @@
       "en": "afraid",
       "translation": "خائف",
       "ar": "خائف",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -279,29 +332,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_after",
-      "lessonId": "lsn_a1_a_1",
-      "en": "after",
-      "translation": "بعد",
-      "ar": "بعد",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Call me after class.",
-          "ar": "اتصل بي بعد الدرس."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/əˈfɹeɪd/"
     },
     {
       "id": "w_a1_afternoon",
@@ -309,7 +341,6 @@
       "en": "afternoon",
       "translation": "بعد الظهر",
       "ar": "بعد الظهر",
-      "pronunciation": "/&",
       "type": "word",
       "examples": [
         {
@@ -323,7 +354,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/af.təɾˈnʉːn/"
     },
     {
       "id": "w_a1_again",
@@ -331,7 +363,6 @@
       "en": "again",
       "translation": "مرة أخرى",
       "ar": "مرة أخرى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -345,7 +376,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/əˈɡeɪn/"
     },
     {
       "id": "w_a1_age",
@@ -353,7 +385,6 @@
       "en": "age",
       "translation": "عمر",
       "ar": "عمر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -367,7 +398,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/eɪd͡ʒ/"
     },
     {
       "id": "w_a1_ago",
@@ -375,7 +407,6 @@
       "en": "ago",
       "translation": "قبل",
       "ar": "قبل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -389,7 +420,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/əˈɡəʊ/"
     },
     {
       "id": "w_a1_agree",
@@ -397,7 +429,6 @@
       "en": "agree",
       "translation": "يوافق",
       "ar": "يوافق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -411,7 +442,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/əˈɡɹi/"
     },
     {
       "id": "w_a1_air",
@@ -419,7 +451,6 @@
       "en": "air",
       "translation": "هواء",
       "ar": "هواء",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -433,7 +464,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛə/"
     },
     {
       "id": "w_a1_airport",
@@ -441,7 +473,6 @@
       "en": "airport",
       "translation": "مطار",
       "ar": "مطار",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -455,7 +486,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛə.pɔːt/"
     },
     {
       "id": "w_a1_all",
@@ -473,12 +505,17 @@
         {
           "en": "We worked all day on this.",
           "ar": "عملنا طوال اليوم على هذا الأمر."
+        },
+        {
+          "en": "She was dressed all in blue.",
+          "ar": "كانت ترتدي ملابس زرقاء بالكامل"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -489,7 +526,6 @@
       "en": "also",
       "translation": "أيضا",
       "ar": "أيضا",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -503,7 +539,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɔːl.səʊ/"
     },
     {
       "id": "w_a1_always",
@@ -539,28 +576,6 @@
         {
           "en": "It's an amazing story.",
           "ar": "إنها قصة رائعة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_and",
-      "lessonId": "lsn_a1_a_1",
-      "en": "and",
-      "translation": "و",
-      "ar": "و",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Ali and I left early.",
-          "ar": "غادرت أنا وعلي مبكرًا."
         }
       ],
       "difficulty": "A1",

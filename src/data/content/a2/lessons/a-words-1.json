@@ -1,13 +1,13 @@
 {
   "id": "lsn_a2_a_1",
-  "levelId": "lvl_2",
-  "slug": "a-words-1",
+  "levelId": "lvl_a2",
   "title": "Unit 1: A Words - Part 1",
-  "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter A.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف A.",
+  "slug": "a-words-1",
   "order": 1,
-  "wordCount": 25,
+  "wordCount": 20,
+  "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف A.",
   "words": [
     {
       "id": "w_a2_ability",
@@ -79,7 +79,6 @@
       "id": "w_a2_accept",
       "en": "accept",
       "ar": "يقبل",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -95,13 +94,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ækˈsɛpt/"
     },
     {
       "id": "w_a2_accident",
       "en": "accident",
       "ar": "حادث",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -117,7 +116,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈæk.sə.dənt/"
     },
     {
       "id": "w_a2_according",
@@ -145,7 +145,6 @@
       "id": "w_a2_achieve",
       "en": "achieve",
       "ar": "يحقق / ينجز",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -161,7 +160,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈtʃiːv/"
     },
     {
       "id": "w_a2_act",
@@ -175,13 +175,18 @@
         {
           "en": "He acted like he didn't know me",
           "ar": "تصرف وكأنه لم يعرفني."
+        },
+        {
+          "en": "The act of writing is easy for me.",
+          "ar": "فعل الكتابة سهل بالنسبة لي."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -189,7 +194,6 @@
       "id": "w_a2_active",
       "en": "active",
       "ar": "نشيط",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -205,7 +209,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈæk.tɪv/"
     },
     {
       "id": "w_a2_actually",
@@ -219,28 +224,6 @@
         {
           "en": "I don't actually live in Sana'a.",
           "ar": "أنا في الواقع لا أعيش في صنعاء"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_adult",
-      "en": "adult",
-      "ar": "بالغ / راشد",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_a_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They have some adult monkeys.",
-          "ar": "لديهم بعض القرود البالغة"
         }
       ],
       "type": "word",
@@ -321,7 +304,6 @@
       "id": "w_a2_advertisement",
       "en": "advertisement",
       "ar": "إعلان",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -337,13 +319,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ədˈvɜːtɪsmənt/"
     },
     {
       "id": "w_a2_advertising",
       "en": "advertising",
       "ar": "دعاية / إعلان",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -359,7 +341,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈædvə(ɹ)ˌtaɪzɪŋ/"
     },
     {
       "id": "w_a2_affect",
@@ -387,7 +370,6 @@
       "id": "w_a2_after",
       "en": "after",
       "ar": "بعد",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -399,15 +381,21 @@
         {
           "en": "I could come next month or the month after.",
           "ar": "يمكن أن آتي الشهر المقبل، أو الشهر الذي بعده"
+        },
+        {
+          "en": "Call me after class.",
+          "ar": "اتصل بي بعد الدرس."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "A1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈæf.tə(ɹ)/"
     },
     {
       "id": "w_a2_against",
@@ -457,7 +445,6 @@
       "id": "w_a2_alive",
       "en": "alive",
       "ar": "على قيد الحياة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_a_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -473,103 +460,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_all",
-      "en": "all",
-      "ar": "كل / بالكامل",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_a_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She was dressed all in blue.",
-          "ar": "كانت ترتدي ملابس زرقاء بالكامل"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_all_right",
-      "en": "all right",
-      "ar": "حسنًا",
-      "pronunciation": "/ ol rast/",
-      "lessonId": "lsn_a2_a_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She will soon be all right.",
-          "ar": "ستكون بخير قريبا."
-        },
-        {
-          "en": "Can you come ? \"All right\"",
-          "ar": "هل تستطيع أن تأتي : ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_allow",
-      "en": "allow",
-      "ar": "يسمح",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_a_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "My father doesn't allow me to drive his car.",
-          "ar": "أبي لا يسمح لي بقيادة سيارته."
-        },
-        {
-          "en": "She allowed him to go alone.",
-          "ar": "سمحت له بالذهاب بمفرده"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_almost",
-      "en": "almost",
-      "ar": "تقريبا",
-      "pronunciation": "/ ǝl moust/",
-      "lessonId": "lsn_a2_a_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali eats rice almost every day.",
-          "ar": "علي يأكل الأرز كل يوم تقريبا"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈlaɪv/"
     }
   ]
 }

@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b1_s_1",
+  "levelId": "lvl_b1",
+  "slug": "s-words-1",
+  "title": "Unit 35: S Words - Part 1",
+  "titleAr": "الوحدة 35: كلمات حرف S - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with S.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف S.",
+  "order": 35,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_rules",
+      "en": "rules",
+      "ar": "يحكم",
+      "pronunciation": "/rul/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who rules Abu Dhabi now?",
+          "ar": "من يحكم أبوظبي الآن ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_safety",
+      "en": "safety",
+      "ar": "سلامة",
+      "pronunciation": "/'sexf.ti/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "am worried about your safety.",
+          "ar": "أنا قلق على سلامتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sail",
+      "en": "sail",
+      "ar": "إبحار / رحلة بحرية",
+      "pronunciation": "/serl/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We went for a sail.",
+          "ar": "ذهبنا للإبحار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sailor",
+      "en": "sailor",
+      "ar": "بحار",
+      "pronunciation": "/'ser.la/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This diary was written by a famous sailor.",
+          "ar": "هذه المذكرات قد كتبت بواسطة بحار شهير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sample",
+      "en": "sample",
+      "ar": "عينة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can download the free sample.",
+          "ar": "يمكنك تحميل العينة المجانية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sand",
+      "en": "sand",
+      "ar": "رمل",
+      "pronunciation": "/sænd/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is this sand dry or wet?",
+          "ar": "هل هذا الرمل جاف أم مبتل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_scanned",
+      "en": "scanned",
+      "ar": "ألقى نظرة / مسح ضوئياً",
+      "pronunciation": "/skæn/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He scanned the document to find errors.",
+          "ar": "ألقى نظرة على المستند للعثور على الأخطاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_scientific",
+      "en": "scientific",
+      "ar": "علمي",
+      "pronunciation": "/ saren'tıf k/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you read about the new scientific discovery?",
+          "ar": "هل قرأت عن الاكتشاف العلمي الجديد ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_script",
+      "en": "script",
+      "ar": "نص / سيناريو",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "need someone to review the script.",
+          "ar": "أحتاج إلى شخص ما لمراجعة النص / السيناريو."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sculpture",
+      "en": "sculpture",
+      "ar": "منحوتة / تمثال",
+      "pronunciation": "/'skalp tfər/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They recently bought a new sculpture.",
+          "ar": "لقد اشتروا مؤخرًا منحوتة جديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_secondary",
+      "en": "secondary",
+      "ar": "ثانوية",
+      "pronunciation": "/'sek-en der i/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our secondary school has a sports hall.",
+          "ar": "مدرستنا الثانوية بها صالة رياضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_security",
+      "en": "security",
+      "ar": "أمن",
+      "pronunciation": "/sı kjuər-ə-ti/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It's a matter of national security.",
+          "ar": "إنها مسألة أمن قومي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_seeds",
+      "en": "seeds",
+      "ar": "بذور",
+      "pronunciation": "/sid/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I planted some pepper seeds.",
+          "ar": "زرعت بعض بذور الفلفل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sensible",
+      "en": "sensible",
+      "ar": "منطقية / حكيم",
+      "pronunciation": "/ sen sə bəl/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need sensible solutions.",
+          "ar": "نحن بحاجة إلى حلول منطقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_separated",
+      "en": "separated",
+      "ar": "فصلت / منفصل",
+      "pronunciation": "/'sepərət/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I separated the old stamps from the new ones.",
+          "ar": "فصلت الطوابع القديمة عن الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_seriously",
+      "en": "seriously",
+      "ar": "بشكل خطير / بشكل جدي",
+      "pronunciation": "/ sıəriəs li/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Smoking can seriously affect your health.",
+          "ar": "يمكن أن يؤثر التدخين بشكل خطير على صحتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_servant",
+      "en": "servant",
+      "ar": "خادم",
+      "pronunciation": "/'s3r vənt/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The servant tidied the room well.",
+          "ar": "الخادم رتب الغرفة بشكل جيد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_set",
+      "en": "set",
+      "ar": "اضبط / طقم",
+      "pronunciation": "/set/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Set your alarm clock for 6:00 am.",
+          "ar": "اضبط المنبه على الساعة 6:00 صباحًا."
+        },
+        {
+          "en": "I bought a complete set of towels.",
+          "ar": "اشتريت طقم كامل من المناشف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_setting",
+      "en": "setting",
+      "ar": "محيط / خلفية",
+      "pronunciation": "/'set.in/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This hotel is in a beautiful mountain setting.",
+          "ar": "يقع هذا الفندق في محيط جبلي جميل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sex",
+      "en": "sex",
+      "ar": "جنس",
+      "pronunciation": "/seks/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Write your sex and date of birth on this page.",
+          "ar": "اكتب جنسك وتاريخ ميلادك في هذه الصفحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sexual",
+      "en": "sexual",
+      "ar": "جنسية",
+      "pronunciation": "/'sek fu ǝl/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He doesn't have sexual relations with any women.",
+          "ar": "ليس لديه علاقات جنسية مع أي امرأة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_shake",
+      "en": "shake",
+      "ar": "هزة",
+      "pronunciation": "/Jerk/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Give me a strong shake in the morning to wake me up.",
+          "ar": "أعطني هزة قوية في الصباح لإيقاظي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_share",
+      "en": "share",
+      "ar": "حصة / يتقاسم",
+      "pronunciation": "/feǝr/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our share of the profits increased this year.",
+          "ar": "حصتنا من الأرباح زادت هذا العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sharp",
+      "en": "sharp",
+      "ar": "حاد",
+      "pronunciation": "/farp/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Use a sharp pencil to draw this.",
+          "ar": "استخدم قلم رصاص حاد لرسم هذا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_shelves",
+      "en": "shelves",
+      "ar": "أرفف",
+      "pronunciation": "/Jelf/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Use these empty shelves to store your books.",
+          "ar": "استخدم هذه الأرفف الفارغة لتخزين كتبك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

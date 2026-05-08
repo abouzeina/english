@@ -1,0 +1,470 @@
+{
+  "id": "lsn_c1_t_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 43: T Words - Part 1",
+  "slug": "t-words-1",
+  "order": 43,
+  "wordCount": 21,
+  "titleAr": "الوحدة 43: كلمات حرف T - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف T.",
+  "words": [
+    {
+      "id": "w_c1_tactic",
+      "en": "tactic",
+      "ar": "تكتيك / أسلوب",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استخدم الفريق تكتيكاً جديداً للفوز بالمباراة.",
+          "ar": "The company's marketing tactic was very successful."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtæktɪk/"
+    },
+    {
+      "id": "w_c1_tactical",
+      "en": "tactical",
+      "ar": "تكتيكي",
+      "pronunciation": "ˈtæktɪkl",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اتخذ الجنرال قراراً تكتيكياً بالانسحاب.",
+          "ar": "The training focused on the tactical aspects of the game."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_taxpayer",
+      "en": "taxpayer",
+      "ar": "دافع الضرائب",
+      "pronunciation": "ˈtækspeɪə(r)",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يتم تمويل المشروع من قبل دافع الضرائب المحلي.",
+          "ar": "Taxpayers are demanding better public services."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_tempt",
+      "en": "tempt",
+      "ar": "يغري / يغوي",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أغرانا الطقس الدافئ بالذهاب إلى الشاطئ.",
+          "ar": "Don't let the low prices tempt you into buying things you don't need."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tɛmpt/"
+    },
+    {
+      "id": "w_c1_tenant",
+      "en": "tenant",
+      "ar": "مستأجر",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يبحث صاحب العقار عن مستأجر جديد للشقة.",
+          "ar": "The tenants are complaining about the lack of heating."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɛ.nənt/"
+    },
+    {
+      "id": "w_c1_tender",
+      "en": "tender",
+      "ar": "عطوف / رقيق / مناقصة",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعطته نظرة رقيقة وابتسامة.",
+          "ar": "The company submitted a tender for the new bridge project."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɛn.də(ɹ)/"
+    },
+    {
+      "id": "w_c1_tenure",
+      "en": "tenure",
+      "ar": "مدة الخدمة / تثبيت وظيفي",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "خلال فترة توليه الرئاسة، تحسن الاقتصاد.",
+          "ar": "The professor was finally granted tenure after years of research."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɛn.jə/"
+    },
+    {
+      "id": "w_c1_terminal",
+      "en": "terminal",
+      "ar": "محطة / نهائي (مرض)",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɚmɪnəl/"
+    },
+    {
+      "id": "w_c1_terminate",
+      "en": "terminate",
+      "ar": "ينهي / يقطع",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الشركة إنهاء العقد.",
+          "ar": "The train will terminate at the next station."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɜːmɪneɪt/"
+    },
+    {
+      "id": "w_c1_terrain",
+      "en": "terrain",
+      "ar": "تضاريس / أرض",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "جعلت التضاريس الصخرية من الصعب ممارسة رياضة المشي لمسافات طويلة.",
+          "ar": "They explored the mountainous terrain of the region."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tə.ˈreɪn/"
+    },
+    {
+      "id": "w_c1_testify",
+      "en": "testify",
+      "ar": "يشهد",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم استدعاؤه للشهادة في المحكمة ضد المشتبه به.",
+          "ar": "The witness testified that she saw the accident happen."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɛstɪfaɪ/"
+    },
+    {
+      "id": "w_c1_testimony",
+      "en": "testimony",
+      "ar": "شهادة",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استمعت هيئة المحلفين بعناية لشهادة الضحية.",
+          "ar": "Her success is a testimony to her hard work."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɛstɪməni/"
+    },
+    {
+      "id": "w_c1_texture",
+      "en": "texture",
+      "ar": "ملمس / نسيج",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "القماش له ملمس ناعم وسلس.",
+          "ar": "The chef added nuts to give the cake some texture."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɛkstʃə(ɹ)/"
+    },
+    {
+      "id": "w_c1_thankfully",
+      "en": "thankfully",
+      "ar": "لحسن الحظ / بامتنان",
+      "pronunciation": "ˈθæŋkfəli",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لحسن الحظ، لم يصب أحد في الحادث.",
+          "ar": "She sighed thankfully when she reached home."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_theatrical",
+      "en": "theatrical",
+      "ar": "مسرحي",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تخطط المجموعة لتقديم عرض مسرحي الشهر المقبل.",
+          "ar": "He has a very theatrical way of speaking."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/θiˈæt.ɹɪ.kəl/"
+    },
+    {
+      "id": "w_c1_theology",
+      "en": "theology",
+      "ar": "لاهوت / علم الأديان",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قرر دراسة اللاهوت في الجامعة.",
+          "ar": "The book explores different aspects of Christian theology."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/θi.ˈɒ.lə.dʒi/"
+    },
+    {
+      "id": "w_c1_theoretical",
+      "en": "theoretical",
+      "ar": "نظري",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يوفر البحث إطاراً نظرياً للدراسة.",
+          "ar": "He has a theoretical knowledge of the subject but no practical experience."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌθi.əˈɹɛtɪkəl/"
+    },
+    {
+      "id": "w_c1_thereafter",
+      "en": "thereafter",
+      "ar": "بعد ذلك",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أفلست الشركة بعد ذلك بوقت قصير.",
+          "ar": "He moved to London and lived there thereafter."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌðeəɹˈæf.tə(ɹ)/"
+    },
+    {
+      "id": "w_c1_thereby",
+      "en": "thereby",
+      "ar": "وبذلك / نتيجة لذلك",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قلل من نفقاته، وبذلك ادخر المزيد من المال.",
+          "ar": "The new law will improve safety, thereby reducing accidents."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ðɛəˈbaɪ/"
+    },
+    {
+      "id": "w_c1_thought_provoking",
+      "en": "thought-provoking",
+      "ar": "مثير للتفكير",
+      "pronunciation": "ˈθɔːt prəvəʊkɪŋ",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الفيلم الوثائقي مثيراً جداً للتفكير وغنياً بالمعلومات.",
+          "ar": "The professor gave a thought-provoking lecture on ethics."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_thoughtful",
+      "en": "thoughtful",
+      "ar": "مراعٍ للآخرين / متأمل",
+      "pronunciation": "ˈθɔːtfl",
+      "lessonId": "lsn_c1_t_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان من اللطيف جداً منك (مراعاة منك) إرسال الزهور.",
+          "ar": "He sat in silence with a thoughtful expression on his face."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

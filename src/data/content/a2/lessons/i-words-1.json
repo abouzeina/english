@@ -1,40 +1,14 @@
 {
   "id": "lsn_a2_i_1",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 18: I Words - Part 1",
   "slug": "i-words-1",
-  "title": "Unit 19: I Words - Part 1",
-  "titleAr": "الوحدة 19: كلمات حرف I - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter I.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف I.",
-  "order": 19,
-  "wordCount": 25,
+  "order": 18,
+  "wordCount": 15,
+  "titleAr": "الوحدة 18: كلمات حرف I - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter I.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف I.",
   "words": [
-    {
-      "id": "w_a2_hurt",
-      "en": "hurt",
-      "ar": "تؤلم / مصاب",
-      "pronunciation": "/h3rt/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Does it hurt?",
-          "ar": "هل تؤلم : ؟"
-        },
-        {
-          "en": "The hurt player didn't play with the team",
-          "ar": "اللاعب المصاب لم يلعب مع الفريق :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_ideal",
       "en": "ideal",
@@ -83,7 +57,6 @@
       "id": "w_a2_ill",
       "en": "ill",
       "ar": "مريض",
-      "pronunciation": "",
       "lessonId": "lsn_a2_i_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -99,13 +72,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɪl/"
     },
     {
       "id": "w_a2_illness",
       "en": "illness",
       "ar": "مرض",
-      "pronunciation": "",
       "lessonId": "lsn_a2_i_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -121,7 +94,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈɪl.nəs/"
     },
     {
       "id": "w_a2_image",
@@ -190,32 +164,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_include",
-      "en": "include",
-      "ar": "مشمول",
-      "pronunciation": "/ın'klud/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Is lunch included in this price?",
-          "ar": "هل الغداء مشمول في هذا السعر : يَتَضَمَّن يَشْمَل : ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_including",
       "en": "including",
       "ar": "بما في ذلك",
-      "pronunciation": "",
       "lessonId": "lsn_a2_i_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -231,7 +182,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɪnˈkluːdɪŋ/"
     },
     {
       "id": "w_a2_increase",
@@ -333,7 +285,6 @@
       "id": "w_a2_industry",
       "en": "industry",
       "ar": "صناعة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_i_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -349,13 +300,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈɪndəstɹi/"
     },
     {
       "id": "w_a2_informal",
       "en": "informal",
       "ar": "غير رسمي / ودي",
-      "pronunciation": "",
       "lessonId": "lsn_a2_i_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -371,7 +322,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɪnˈfɔːm(ə)l/"
     },
     {
       "id": "w_a2_injury",
@@ -385,190 +337,6 @@
         {
           "en": "Move carefully to avoid injury.",
           "ar": "تحرك بحذر لتجنب الإصابة :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_insect",
-      "en": "insect",
-      "ar": "حشرات",
-      "pronunciation": "/In-sekt/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "His hobby is collecting insects.",
-          "ar": "هوايته هي جميع الحشرات :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_inside",
-      "en": "inside",
-      "ar": "داخلي / داخل",
-      "pronunciation": "/ın said/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He broke the inside door.",
-          "ar": "هو كسر الباب الداخلي :"
-        },
-        {
-          "en": "I don't want to stay inside all day.",
-          "ar": "لا أريد البقاء بالداخل طوال اليوم :"
-        },
-        {
-          "en": "Look inside the box.",
-          "ar": "انظر داخل الصندوق :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_instead",
-      "en": "instead",
-      "ar": "بدلا من",
-      "pronunciation": "/in'sted/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I drink coffee instead of milk.",
-          "ar": "أشرب القهوة بدلاً من الحليب :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_instruction",
-      "en": "instruction",
-      "ar": "تعليمات",
-      "pronunciation": "/ın strak fən/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Follow the instructions.",
-          "ar": "اتبع التعليمات :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_instructor",
-      "en": "instructor",
-      "ar": "مدرب / معلم",
-      "pronunciation": "/ın strak-tər/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali is a driving instructor.",
-          "ar": "علي مدرب قيادة : مُعَلَّم :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_instrument",
-      "en": "instrument",
-      "ar": "آلات موسيقية",
-      "pronunciation": "/ ın strə mənt/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I play many instruments.",
-          "ar": "أعزف على عدة آلات موسيقية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_intelligent",
-      "en": "intelligent",
-      "ar": "ذكية",
-      "pronunciation": "/ın tel-1-dzənt/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Dolphins are intelligent animals.",
-          "ar": "الدلافين حيوانات ذكية :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_international",
-      "en": "international",
-      "ar": "دولية",
-      "pronunciation": "/ ın tər næfə nəl/",
-      "lessonId": "lsn_a2_i_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali worked for an international company.",
-          "ar": "عمل علي في شركة دولية :"
         }
       ],
       "type": "word",

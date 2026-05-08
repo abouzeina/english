@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_c_1",
+  "levelId": "lvl_b2",
+  "slug": "c-words-1",
+  "title": "C Words - Part 1",
+  "titleAr": "كلمات حرف C - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف C.",
+  "order": 9,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_cabin",
+      "en": "cabin",
+      "ar": "مقصورة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cable",
+      "en": "cable",
+      "ar": "سلك / كابل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_calculate",
+      "en": "calculate",
+      "ar": "يحسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_canal",
+      "en": "canal",
+      "ar": "قناة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cancel",
+      "en": "cancel",
+      "ar": "يلغي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cancer",
+      "en": "cancer",
+      "ar": "سرطان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_candle",
+      "en": "candle",
+      "ar": "شمعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_capable",
+      "en": "capable",
+      "ar": "قادر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_capacity",
+      "en": "capacity",
+      "ar": "سعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_capture",
+      "en": "capture",
+      "ar": "يقبض على / القبض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_carbon",
+      "en": "carbon",
+      "ar": "كربون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cast",
+      "en": "cast",
+      "ar": "طاقم تمثيل / يلقي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_casual",
+      "en": "casual",
+      "ar": "غير رسمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_catch",
+      "en": "catch",
+      "ar": "التقاطة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cave",
+      "en": "cave",
+      "ar": "كهف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cell",
+      "en": "cell",
+      "ar": "خلية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_certainty",
+      "en": "certainty",
+      "ar": "وجه اليقين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_certificate",
+      "en": "certificate",
+      "ar": "شهادة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chain",
+      "en": "chain",
+      "ar": "يقيد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chair",
+      "en": "chair",
+      "ar": "يترأس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chairman",
+      "en": "chairman",
+      "ar": "رئيس مجلس الإدارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_challenge",
+      "en": "challenge",
+      "ar": "يتحدى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_challenging",
+      "en": "challenging",
+      "ar": "مهمة صعبة / تحدي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_championship",
+      "en": "championship",
+      "ar": "بطولة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_characteristic",
+      "en": "characteristic",
+      "ar": "خصائص / مميز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

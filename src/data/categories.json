@@ -4,6 +4,7 @@
     "slug": "classroom",
     "title": "Classroom Phrases",
     "titleAr": "جمل الشرح في الحصة",
+    "descriptionAr": "الجمل الأساسية التي يحتاجها المعلم لإدارة الحصة، مثل الترحيب، طلب القراءة، والتوجيهات داخل الفصل.",
     "type": "quran"
   },
   {
@@ -11,6 +12,15 @@
     "slug": "tajweed",
     "title": "Tajweed Terms",
     "titleAr": "مصطلحات التجويد",
+    "descriptionAr": "شرح مبسط لأهم مصطلحات التجويد باللغة الإنجليزية لتسهيل توصيل المعلومة للطالب الأعجمي.",
+    "type": "quran"
+  },
+  {
+    "id": "cat_quran_online",
+    "slug": "online-management",
+    "title": "Online Classroom Management",
+    "titleAr": "إدارة الحصة أونلاين",
+    "descriptionAr": "دليل تقني وتواصلي للمعلم للتعامل مع برامج التعليم عن بعد وحل المشكلات التقنية الشائعة بالإنجليزية.",
     "type": "quran"
   }
 ]

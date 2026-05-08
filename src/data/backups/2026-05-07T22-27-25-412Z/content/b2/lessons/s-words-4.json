@@ -1,0 +1,595 @@
+{
+  "id": "lsn_b2_s_4",
+  "levelId": "lvl_b2",
+  "slug": "s-words-4",
+  "title": "S Words - Part 4",
+  "titleAr": "كلمات حرف S - الجزء 4",
+  "description": "Learn essential B2 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف S.",
+  "order": 43,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_spectators",
+      "en": "spectators",
+      "ar": "المتفرجين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Thousands of spectators attended the football match.",
+          "ar": "حضر آلاف المتفرجين مباراة كرة القدم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_speculate",
+      "en": "speculate",
+      "ar": "يتكهنون / تكهنات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Journalists speculate about the president's next move.",
+          "ar": "الصحفيون يتكهنون بشأن الخطوة التالية للرئيس."
+        },
+        {
+          "en": "There is speculation that he will retire soon.",
+          "ar": "هناك تكهنات بأنه سيعتزل قريبا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sped",
+      "en": "sped",
+      "ar": "أسرع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He sped through his homework so he could play games.",
+          "ar": "لقد أسرع في أداء واجباته المدرسية حتى يتمكن من لعب الألعاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spices",
+      "en": "spices",
+      "ar": "بتوابل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He loves to cook with different spices every day.",
+          "ar": "إنه يحب الطبخ بتوابل مختلفة كل يوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spilled",
+      "en": "spilled",
+      "ar": "أراق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He spilled the soup while serving the guests.",
+          "ar": "لقد أراق الحساء أثناء تقديمه للضيوف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spiritual",
+      "en": "spiritual",
+      "ar": "الروحية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His spiritual journey led him to new beliefs.",
+          "ar": "قادته رحلته الروحية إلى معتقدات جديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spite",
+      "en": "spite",
+      "ar": "حقده",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He smiled at her, hiding his spite well.",
+          "ar": "ابتسم لها مخفيا حقده بشكل جيد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_split",
+      "en": "split",
+      "ar": "انقسم / انقسام",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The road split into three different directions.",
+          "ar": "انقسم الطريق إلى ثلاثة اتجاهات مختلفة."
+        },
+        {
+          "en": "The team's split affected their performance badly.",
+          "ar": "أثر انقسام الفريق على أدائه بشدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spoil",
+      "en": "spoil",
+      "ar": "تفسد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Don't spoil the surprise by telling anyone.",
+          "ar": "لا تفسد المفاجأة بإخبار أي شخص."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spokesman",
+      "en": "spokesman",
+      "ar": "المتحدث باسم / الناطقة الرسمية / المتحدث الرسمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The government spokesman explained the new law.",
+          "ar": "شرح المتحدث باسم الحكومة القانون الجديد."
+        },
+        {
+          "en": "The official spokesperson issued a statement this morning.",
+          "ar": "أصدر المتحدث الرسمي بيانا صباح اليوم."
+        },
+        {
+          "en": "The spokeswoman answered every question from the press.",
+          "ar": "أجابت الناطقة الرسمية على جميع أسئلة الصحافة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sponsor",
+      "en": "sponsor",
+      "ar": "للراعي / رعاية / رعايتكم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He thanked the sponsor for their financial support.",
+          "ar": "أعرب عن شكره للراعي على دعمه المالي."
+        },
+        {
+          "en": "They sponsored a campaign to promote recycling.",
+          "ar": "قاموا برعاية حملة لترويج إعادة التدوير."
+        },
+        {
+          "en": "We appreciate your generous sponsorship of this event.",
+          "ar": "نحن نقدر رعايتكم الكريمة لهذا الفعالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sporting",
+      "en": "sporting",
+      "ar": "رياضية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The school organizes annual sporting competitions.",
+          "ar": "تنظم المدرسة مسابقات رياضية سنوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spotted",
+      "en": "spotted",
+      "ar": "لمحت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I spotted my friend in the crowded mall.",
+          "ar": "لمحت صديقي في المركز التجاري المزدحم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spread",
+      "en": "spread",
+      "ar": "الانتشار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The rapid spread of fire caused massive damage.",
+          "ar": "تسبب الانتشار السريع للحريق في أضرار جسيمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_spring",
+      "en": "spring",
+      "ar": "تنبثق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "New ideas spring from creative minds easily.",
+          "ar": "تنبثق الأفكار الجديدة من العقول المبدعة بسهولة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stable",
+      "en": "stable",
+      "ar": "مستقرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The patient is now in a stable condition.",
+          "ar": "المريض الآن في حالة مستقرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_staged",
+      "en": "staged",
+      "ar": "احتجاجًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They staged a protest against the new policy.",
+          "ar": "نظموا احتجاجًا ضد السياسة الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stall",
+      "en": "stall",
+      "ar": "كشك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The clothing stall has great discounts on jackets.",
+          "ar": "يقدم كشك الملابس خصومات رائعة على السترات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stance",
+      "en": "stance",
+      "ar": "موقفه / موقفًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He changed his stance after hearing new evidence.",
+          "ar": "لقد غير موقفه بعد سماعه لأدلة جديدة."
+        },
+        {
+          "en": "He took a strong stand against unfair policies.",
+          "ar": "اتخذ موقفًا قويًا ضد السياسات غير العادلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stared",
+      "en": "stared",
+      "ar": "حدقوا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They stared at the screen, waiting for results.",
+          "ar": "حدقوا في الشاشة منتظرين النتائج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_starve",
+      "en": "starve",
+      "ar": "يموتوا جوعًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The prisoners were left to starve without food.",
+          "ar": "ترك السجناء ليموتوا جوعًا دون طعام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_status",
+      "en": "status",
+      "ar": "وضعه الاجتماعي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His social status changed after the big promotion.",
+          "ar": "تغير وضعه الاجتماعي بعد الترقية الكبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_steady",
+      "en": "steady",
+      "ar": "وثابت / بشكل متواصل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He spoke in a calm, steady voice.",
+          "ar": "لقد تحدث بصوت هادئ وثابت."
+        },
+        {
+          "en": "The rain fell steadily throughout the entire night.",
+          "ar": "هطلت الأمطار بشكل متواصل طوال الليل بأكمله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_steam",
+      "en": "steam",
+      "ar": "البخار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Steam covered the bathroom mirror after my shower.",
+          "ar": "غطى البخار مرآة الحمام بعد الاستحمام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_steel",
+      "en": "steel",
+      "ar": "الفولاذ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Steel is commonly used in modern architecture.",
+          "ar": "يستخدم الفولاذ بشكل شائع في الهندسة المعمارية الحديثة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

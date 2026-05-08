@@ -1,0 +1,587 @@
+{
+  "id": "lsn_a2_r_2",
+  "levelId": "lvl_2",
+  "slug": "r-words-2",
+  "title": "Unit 34: R Words - Part 2",
+  "titleAr": "الوحدة 34: كلمات حرف R - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter R.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف R.",
+  "order": 34,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_remove",
+      "en": "remove",
+      "ar": "يزيل",
+      "pronunciation": "/rx muv/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He removed the dirty dishes from the table",
+          "ar": "أزال الأطباق المتسخة من الطاولة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_repair",
+      "en": "repair",
+      "ar": "يصلح",
+      "pronunciation": "/ri peǝr/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can you repair these shoes?",
+          "ar": "هل يمكنك أن تصلح هذه الأحذية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_replace",
+      "en": "replace",
+      "ar": "يستبدل",
+      "pronunciation": "/rx plers/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We'll have to replace it.",
+          "ar": "سيتعين علينا أن نستبدلة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_reply",
+      "en": "reply",
+      "ar": "يرد / يجيب / رد",
+      "pronunciation": "/ri plaz/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you reply to them?",
+          "ar": "هل رددت عليهم : ؟ : هل أجبتهم : ؟ :"
+        },
+        {
+          "en": "Please write a reply soon.",
+          "ar": "من فضلك اكتب ردا في القريب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_report",
+      "en": "report",
+      "ar": "تقرير / ذكر",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Other researchers reported similar results",
+          "ar": "ذكر باحثون آخرون نتائج مماثلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_reporter",
+      "en": "reporter",
+      "ar": "مراسل صحفي",
+      "pronunciation": "/rı pər tər/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm a newspaper reporter.",
+          "ar": "أنا مراسل صحفي : مُراسل صحفي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_request",
+      "en": "request",
+      "ar": "طلب",
+      "pronunciation": "/rr'kwest/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I only have one request.",
+          "ar": "لدي طلب واحد فقط :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_research",
+      "en": "research",
+      "ar": "بحث / يجري بحث",
+      "pronunciation": "/ ri-s3rts/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I thought I did enough research.",
+          "ar": "اعتقدت أنني أجريت بحثًا كافيًا :"
+        },
+        {
+          "en": "You have to research before you write the book",
+          "ar": "عليك أن تجري بحثًا قبل أن تكتب الكتاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_researcher",
+      "en": "researcher",
+      "ar": "باحث",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The researchers made a great discovery",
+          "ar": "قام الباحثون باكتشاف عظيم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_respond",
+      "en": "respond",
+      "ar": "يستجيب",
+      "pronunciation": "/rx'spand/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My computer isn't responding.",
+          "ar": "جهاز الكمبيوتر الخاص بي لا يستجيب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_response",
+      "en": "response",
+      "ar": "استجابة / رد فعل",
+      "pronunciation": "/rx'spans/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Thanks for your response.",
+          "ar": "شكرا لاستجابتك : إجابة / رَدّ فعل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_rest",
+      "en": "rest",
+      "ar": "بقية / يرتاح",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Enjoy the rest of the weekend.",
+          "ar": "استمتع ببقية عطلة نهاية الأسبوع"
+        },
+        {
+          "en": "The doctor told me to rest.",
+          "ar": "قال لي الطبيب أن أرتاح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_review",
+      "en": "review",
+      "ar": "مراجعة / يراجع",
+      "pronunciation": "/rx'vju/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I will write a review of this book.",
+          "ar": "سأكتب مراجعة لهذا الكتاب."
+        },
+        {
+          "en": "Can you review my message before I send it ?",
+          "ar": "هل يمكنك أن تراجع رسالتي قبل أن أرسلها ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ride",
+      "en": "ride",
+      "ar": "توصيلة",
+      "pronunciation": "/raid/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need a ride to the airport.",
+          "ar": "أحتاج إلى توصيلة إلى المطار :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ring",
+      "en": "ring",
+      "ar": "خاتم / يرن",
+      "pronunciation": "/στη/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They are wearing expensiverings.",
+          "ar": "يرتدون خواتم باهظة الثمن :"
+        },
+        {
+          "en": "Did my phone ring ?",
+          "ar": "هل رن هاتفي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_rise",
+      "en": "rise",
+      "ar": "يرتفع",
+      "pronunciation": "/raiz/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The price will rise soon.",
+          "ar": "سيرتفع السعر قريبا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_rock",
+      "en": "rock",
+      "ar": "صخرة",
+      "pronunciation": "/rak/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A rock fell from above",
+          "ar": "سقطت صخرة من فوق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_role",
+      "en": "role",
+      "ar": "دور",
+      "pronunciation": "/roul/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The actor has played many roles.",
+          "ar": "لعب الممثل العديد من الأدوار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_roof",
+      "en": "roof",
+      "ar": "سقف / أسطح",
+      "pronunciation": "/ruf/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The roofs were covered with snow",
+          "ar": "كانت الأسطح مغطاة بالثلوج :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_round",
+      "en": "round",
+      "ar": "مستديرة / حول",
+      "pronunciation": "/raund/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The earth is round, not flat.",
+          "ar": "الأرض مستديرة وليست مسطحة."
+        },
+        {
+          "en": "The moon moves round the earth.",
+          "ar": "يتحرك القمر حول الأرض :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_route",
+      "en": "route",
+      "ar": "طريق",
+      "pronunciation": "/rut/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We took the quickest route.",
+          "ar": "اتخذنا أسرع طريق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_rubbish",
+      "en": "rubbish",
+      "ar": "قمامة",
+      "pronunciation": "/rab- /",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't throw these documents in the rubbish !!",
+          "ar": "لا ترمي هذه الوثائق في القمامة !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_rude",
+      "en": "rude",
+      "ar": "فظ / وقح",
+      "pronunciation": "/rud/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What you said was rude.",
+          "ar": "ما قلته كان فظا : وقح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_run",
+      "en": "run",
+      "ar": "جري",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He goes for a run every morning.",
+          "ar": "يذهب للجري كل صباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_runner",
+      "en": "runner",
+      "ar": "عداء",
+      "pronunciation": "/ran er/",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed is the fastest runner in our class.",
+          "ar": "أحمد هو أسرع عداء في فصلنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

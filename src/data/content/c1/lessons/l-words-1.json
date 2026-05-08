@@ -1,0 +1,453 @@
+{
+  "id": "lsn_c1_l_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 21: L Words - Part 1",
+  "slug": "l-words-1",
+  "order": 21,
+  "wordCount": 20,
+  "titleAr": "الوحدة 21: كلمات حرف L - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف L.",
+  "words": [
+    {
+      "id": "w_c1_lad",
+      "en": "lad",
+      "ar": "فتى / شاب",
+      "pronunciation": "læd",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان فتى شاباً ذكياً يمتلك مستقبلاً واعداً",
+          "ar": "The lads spent the entire afternoon playing football."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_landlord",
+      "en": "landlord",
+      "ar": "مالك العقار",
+      "pronunciation": "ˈlændlɔːd",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قرر مالك العقار زيادة الإيجار هذا العام",
+          "ar": "We need to contact the landlord to fix the broken window."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_landmark",
+      "en": "landmark",
+      "ar": "معلم بارز / حدث مفصلي",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "برج إيفل هو معلم بارز مشهور في باريس",
+          "ar": "The court's decision was a landmark in legal history."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlændmɑɹk/"
+    },
+    {
+      "id": "w_c1_lap",
+      "en": "lap",
+      "ar": "حجر / دورة",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "جلست القطة بهدوء في حجرها بينما كانت تقرأ",
+          "ar": "The runner managed to finish the final lap in record time."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/læp/"
+    },
+    {
+      "id": "w_c1_large_scale",
+      "en": "large-scale",
+      "ar": "واسع النطاق / كبير",
+      "pronunciation": "ˌlɑːdʒ ˈskeɪl",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أطلقت الحكومة برنامج تطعيم واسع النطاق",
+          "ar": "Managing large-scale educational datasets requires special tools."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_laser",
+      "en": "laser",
+      "ar": "ليزر",
+      "pronunciation": "ˈleɪzə(r)",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استخدم الجراح الليزر لإجراء العملية الدقيقة",
+          "ar": "The new printer uses laser technology for high-quality results."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_latter",
+      "en": "latter",
+      "ar": "الأخير / المتأخر",
+      "pronunciation": "ˈlætə(r)",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عرض عليّ شاياً أو قهوة، فاخترت الأخير (القهوة)",
+          "ar": "In the latter part of the century, technology advanced rapidly."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_lawsuit",
+      "en": "lawsuit",
+      "ar": "دعوى قضائية",
+      "pronunciation": "ˈlɔːsuːت",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تواجه الشركة دعوى قضائية من موظفيها السابقين",
+          "ar": "The lawsuit lasted for three years before a settlement was reached."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_layout",
+      "en": "layout",
+      "ar": "تنسيق / مخطط",
+      "pronunciation": "ˈleɪaʊت",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تنسيق المكتب الجديد حديث ومفتوح",
+          "ar": "We need to change the layout of the website to improve user experience."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_leak",
+      "en": "leak",
+      "ar": "تسرب / يسرب",
+      "pronunciation": "liːk",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نجح السباك في إصلاح التسرب في أنبوب المطبخ",
+          "ar": "Someone decided to leak the confidential documents to the press."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_leap",
+      "en": "leap",
+      "ar": "قفزة / يقفز",
+      "pronunciation": "liːp",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قام الرياضي بقفزة ملحوظة للفوز بالمسابقة",
+          "ar": "Making the move to a new country was a giant leap for him."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_legacy",
+      "en": "legacy",
+      "ar": "إرث / تركة",
+      "pronunciation": "ˈleɡəsi",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ترك الرئيس السابق إرثاً من السلام والازدهار",
+          "ar": "He received a small legacy from his late aunt."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_legendary",
+      "en": "legendary",
+      "ar": "أسطوري",
+      "pronunciation": "ˈledʒəndri",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المغني شخصية أسطورية في عالم الموسيقى",
+          "ar": "The warrior was famous for his legendary bravery in battle."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_legislation",
+      "en": "legislation",
+      "ar": "تشريع / قوانين",
+      "pronunciation": "ˌledʒɪsˈleɪʃn",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قدمت الحكومة تشريعاً جديداً لحماية البيئة",
+          "ar": "It is difficult to pass such complex legislation through parliament."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_legislative",
+      "en": "legislative",
+      "ar": "تشريعي",
+      "pronunciation": "ˈledʒɪslətɪv",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الهيئة التشريعية مسؤولة عن وضع القوانين",
+          "ar": "The assembly holds the legislative power in the country."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_legislature",
+      "en": "legislature",
+      "ar": "سلطة تشريعية",
+      "pronunciation": "ˈledʒɪslætʃə(r)",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صوتت السلطة التشريعية للولاية لصالح خطة الضرائب الجديدة",
+          "ar": "The proposal must be approved by the legislature first."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_legitimate",
+      "en": "legitimate",
+      "ar": "شرعي / قانوني",
+      "pronunciation": "ləˈdʒɪtɪmət",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الحكومة هي السلطة الشرعية الوحيدة في الأمة",
+          "ar": "He has a legitimate reason for being late to the meeting."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_lengthy",
+      "en": "lengthy",
+      "ar": "طويل / ممل",
+      "pronunciation": "ˈleŋθi",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمكن أن تكون عملية الحصول على تصريح طويلة جداً",
+          "ar": "The lawyer gave a lengthy explanation of the new rules."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_lesbian",
+      "en": "lesbian",
+      "ar": "سحاقية",
+      "pronunciation": "ˈlezbiən",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تدعم المنظمة حقوق السحاقيات والمثليين",
+          "ar": "She is a well-known activist in the lesbian community."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_lethal",
+      "en": "lethal",
+      "ar": "مميت / قاتل",
+      "lessonId": "lsn_c1_l_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحمل الثعبان جرعة مميتة من السم في أنيابه",
+          "ar": "The use of lethal force is only allowed in self-defense."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈliː.θəl/"
+    }
+  ]
+}

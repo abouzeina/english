@@ -1,36 +1,14 @@
 {
   "id": "lsn_a2_p_1",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 28: P Words - Part 1",
   "slug": "p-words-1",
-  "title": "Unit 29: P Words - Part 1",
-  "titleAr": "الوحدة 29: كلمات حرف P - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter P.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف P.",
-  "order": 29,
-  "wordCount": 25,
+  "order": 28,
+  "wordCount": 21,
+  "titleAr": "الوحدة 28: كلمات حرف P - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف P.",
   "words": [
-    {
-      "id": "w_a2_owner",
-      "en": "owner",
-      "ar": "مالك",
-      "pronunciation": "/ ou ner/",
-      "lessonId": "lsn_a2_p_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Who is the owner of this house?",
-          "ar": "من هو مالك هذا المنزل ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_pack",
       "en": "pack",
@@ -43,13 +21,18 @@
         {
           "en": "Pack your bags and leave.",
           "ar": "احزم حقائبك واتركها."
+        },
+        {
+          "en": "I saw him buying a pack of cigarettes.",
+          "ar": "رأيته يشتري علبة سجائر."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -145,7 +128,6 @@
       "id": "w_a2_parking",
       "en": "parking",
       "ar": "ركن",
-      "pronunciation": "",
       "lessonId": "lsn_a2_p_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -161,7 +143,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈpɑːkɪŋ/"
     },
     {
       "id": "w_a2_particular",
@@ -230,28 +213,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_past",
-      "en": "past",
-      "ar": "مضى",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_p_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "A month went past and nothing had changed",
-          "ar": "شهر مضى ولم يتغير شيء."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_patient",
       "en": "patient",
       "ar": "مريض",
@@ -263,13 +224,19 @@
         {
           "en": "The doctor is with another patient.",
           "ar": "الطبيب مع مريض آخر."
+        },
+        {
+          "en": "He remained patient despite the long wait.",
+          "ar": "ظل صبوراً رغم طول الانتظار."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -285,28 +252,6 @@
         {
           "en": "Do you like this pattern?",
           "ar": "هل يعجبك هذا النمط : أسلوب : ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_pay",
-      "en": "pay",
-      "ar": "راتب",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_p_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "My job is hard, but the pay is good.",
-          "ar": "عملي صعب، لكن الراتب جيد :"
         }
       ],
       "type": "word",
@@ -497,7 +442,6 @@
       "id": "w_a2_pet",
       "en": "pet",
       "ar": "حيوانات أليفة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_p_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -513,7 +457,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/pɛt/"
     },
     {
       "id": "w_a2_petrol",
@@ -527,28 +472,6 @@
         {
           "en": "Where is the petrol station?",
           "ar": "أين محطة البنزين ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_photograph",
-      "en": "photograph",
-      "ar": "يصور",
-      "pronunciation": "/'fou te græf/",
-      "lessonId": "lsn_a2_p_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I like to photograph mountains.",
-          "ar": "أحب أن أصور الجبال."
         }
       ],
       "type": "word",

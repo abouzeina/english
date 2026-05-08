@@ -1,0 +1,237 @@
+{
+  "id": "lsn_a2_m_2",
+  "levelId": "lvl_2",
+  "slug": "m-words-2",
+  "title": "Unit 26: M Words - Part 2",
+  "titleAr": "الوحدة 26: كلمات حرف M - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter M.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف M.",
+  "order": 26,
+  "wordCount": 10,
+  "words": [
+    {
+      "id": "w_a2_mirror",
+      "en": "mirror",
+      "ar": "مرآة",
+      "pronunciation": "/mır-ər/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can see myself in the mirror.",
+          "ar": "أستطيع أن أرى نفسي في المرآة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_missing",
+      "en": "missing",
+      "ar": "مفقودة / ضائعة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He finally found his missing keys.",
+          "ar": "عثر أخيرًا على مفاتيحه المفقودة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_mobile",
+      "en": "mobile",
+      "ar": "هاتف محمول / متنقل",
+      "pronunciation": "/'mou bel/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Call me on my mobile.",
+          "ar": "اتصل بي على هاتفي المحمول :"
+        },
+        {
+          "en": "He lives in a mobile home.",
+          "ar": "يعيش في منزل متنقل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_monkey",
+      "en": "monkey",
+      "ar": "قرد / قرود",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It's easy for monkeys to climb trees.",
+          "ar": "من السهل على القرود أن تتسلق الأشجار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_moon",
+      "en": "moon",
+      "ar": "قمر",
+      "pronunciation": "/mun/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The moon disappeared behind the clouds.",
+          "ar": "اختفى القمر خلف الغيوم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_mostly",
+      "en": "mostly",
+      "ar": "في الغالب / غالباً",
+      "pronunciation": "/moust-li/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Children mostly get up early",
+          "ar": "يستيقظ الأطفال في الغالب مبكرًا : غالبًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_motorcycle",
+      "en": "motorcycle",
+      "ar": "دراجة نارية",
+      "pronunciation": "/'mou tər saı kəl/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali sold his motorcycle to Adil.",
+          "ar": "باع علي دراجته النارية لعادل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_movement",
+      "en": "movement",
+      "ar": "تحركات / حركة",
+      "pronunciation": "/'muv-mənt/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was quick in his movements.",
+          "ar": "كان سريعًا في تحركاته :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_musical",
+      "en": "musical",
+      "ar": "موسيقي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He began a new job in a musical career.",
+          "ar": "بدأ وظيفة جديدة في مهنة موسيقية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_musician",
+      "en": "musician",
+      "ar": "موسيقي",
+      "pronunciation": "/mju zıf-ən/",
+      "lessonId": "lsn_a2_m_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is a scientist and musician.",
+          "ar": "هو عالم وموسيقي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

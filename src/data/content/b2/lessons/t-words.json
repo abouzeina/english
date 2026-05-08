@@ -1,0 +1,57 @@
+{
+  "id": "lsn_b2_t",
+  "levelId": "lvl_b2",
+  "title": "Unit 51: T Words",
+  "slug": "t-words",
+  "order": 51,
+  "wordCount": 2,
+  "titleAr": "الوحدة 51: كلمات حرف T",
+  "description": "Master essential B2 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف T.",
+  "words": [
+    {
+      "id": "w_c1_trace",
+      "en": "trace",
+      "ar": "أثر / يتتبع",
+      "lessonId": "lsn_b2_t",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "تحاول الشرطة تتبع مصدر المكالمة.",
+          "ar": "There is no trace of the missing person so far."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tɹeɪs/"
+    },
+    {
+      "id": "w_c1_trigger",
+      "en": "trigger",
+      "ar": "يثير / يطلق شرارة / زناد",
+      "lessonId": "lsn_b2_t",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "يمكن للطقس البارد أن يثير نوبات الربو لدى بعض الناس.",
+          "ar": "His comments triggered a heated debate."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹɪɡə/"
+    }
+  ]
+}

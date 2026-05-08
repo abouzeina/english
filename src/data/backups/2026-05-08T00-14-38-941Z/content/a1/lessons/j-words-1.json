@@ -1,0 +1,409 @@
+{
+  "id": "lsn_a1_j_1",
+  "levelId": "lvl_1",
+  "title": "J Words - Part 1",
+  "slug": "j-words-1",
+  "order": 21,
+  "wordCount": 16,
+  "titleAr": "كلمات حرف J - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter J.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف J.",
+  "words": [
+    {
+      "id": "w_a1_its",
+      "lessonId": "lsn_a1_j_1",
+      "en": "its",
+      "translation": "ها / به (ضمير ملكية لغير العاقل)",
+      "ar": "ها / به (ضمير ملكية لغير العاقل)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The cat didn't eat its food.",
+          "ar": "لم تأكل القطة طعامها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_jacket",
+      "lessonId": "lsn_a1_j_1",
+      "en": "jacket",
+      "translation": "سترة",
+      "ar": "سترة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He put on his jacket.",
+          "ar": "لقد ارتدى سترته."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_january",
+      "lessonId": "lsn_a1_j_1",
+      "en": "January",
+      "translation": "شهر يناير",
+      "ar": "شهر يناير",
+      "pronunciation": "/'dzæn ju er-i/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "January is the coldest month.",
+          "ar": "شهر يناير هو الشهر الأكثر برودة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_jeans",
+      "lessonId": "lsn_a1_j_1",
+      "en": "jeans",
+      "translation": "جينز",
+      "ar": "جينز",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I don't like to wear jeans.",
+          "ar": "لا أحب ارتداء الجينز."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_job",
+      "lessonId": "lsn_a1_j_1",
+      "en": "job",
+      "translation": "وظيفة",
+      "ar": "وظيفة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I got a new job.",
+          "ar": "حصلت على وظيفة جديدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_join",
+      "lessonId": "lsn_a1_j_1",
+      "en": "join",
+      "translation": "ينضم",
+      "ar": "ينضم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I want to join your group.",
+          "ar": "أريد أن أنضم إلى مجموعتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_journey",
+      "lessonId": "lsn_a1_j_1",
+      "en": "journey",
+      "translation": "رحلة",
+      "ar": "رحلة",
+      "pronunciation": "/d33r-ni/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This journey will take two days.",
+          "ar": "ستستغرق هذه الرحلة يومين."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_juice",
+      "lessonId": "lsn_a1_j_1",
+      "en": "juice",
+      "translation": "عصير",
+      "ar": "عصير",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Who drank all the apple juice?",
+          "ar": "من شرب كل عصير التفاح؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_july",
+      "lessonId": "lsn_a1_j_1",
+      "en": "July",
+      "translation": "شهر يوليو",
+      "ar": "شهر يوليو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'm traveling in July.",
+          "ar": "سأسافر في شهر يوليو."
+        },
+        {
+          "en": "She loves July the most.",
+          "ar": "إنها تحب شهر يوليو أكثر من غيره."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_june",
+      "lessonId": "lsn_a1_j_1",
+      "en": "June",
+      "translation": "شهر يونيو",
+      "ar": "شهر يونيو",
+      "pronunciation": "/dzun/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "June is the start of summer.",
+          "ar": "يونيو هو بداية الصيف."
+        },
+        {
+          "en": "She began her new job in early June.",
+          "ar": "لقد بدأت وظيفتها الجديدة في أوائل يونيو."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_just",
+      "lessonId": "lsn_a1_j_1",
+      "en": "just",
+      "translation": "فقط / للتو",
+      "ar": "فقط / للتو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I just need five minutes.",
+          "ar": "أحتاج فقط لخمس دقائق."
+        },
+        {
+          "en": "I just got home.",
+          "ar": "لقد وصلت إلى المنزل للتو."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_keep",
+      "lessonId": "lsn_a1_j_1",
+      "en": "keep",
+      "translation": "يحتفظ / يبقي / يستمر",
+      "ar": "يحتفظ / يبقي / يستمر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I always keep food in my bag.",
+          "ar": "أحتفظ دائماً بالطعام في حقيبتي."
+        },
+        {
+          "en": "They keep their garden clean.",
+          "ar": "إنهم يبقون حديقتهم نظيفة."
+        },
+        {
+          "en": "Keep these school books for next year.",
+          "ar": "أبقِ هذه الكتب المدرسية للعام القادم."
+        },
+        {
+          "en": "Keep practicing every day.",
+          "ar": "استمر في التدرب كل يوم."
+        },
+        {
+          "en": "Keep trying, and you will win.",
+          "ar": "استمر في المحاولة وستفوز."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_key",
+      "lessonId": "lsn_a1_j_1",
+      "en": "key",
+      "translation": "مفتاح / أساسي / رئيسي",
+      "ar": "مفتاح / أساسي / رئيسي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need the house key.",
+          "ar": "أحتاج إلى مفتاح المنزل."
+        },
+        {
+          "en": "They had key information for us.",
+          "ar": "كانت لديهم معلومات أساسية لنا."
+        },
+        {
+          "en": "Let me explain the key point again.",
+          "ar": "دعني أشرح النقطة الأساسية مرة أخرى."
+        },
+        {
+          "en": "Those are the key players on the team.",
+          "ar": "هؤلاء هم اللاعبون الرئيسيون في الفريق."
+        },
+        {
+          "en": "The key part of the book is the ending.",
+          "ar": "الجزء الرئيسي من الكتاب هو النهاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_kilometers",
+      "lessonId": "lsn_a1_j_1",
+      "en": "kilometers",
+      "translation": "كيلومترات",
+      "ar": "كيلومترات",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I ran five kilometers today.",
+          "ar": "ركضت خمسة كيلومترات اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_kind",
+      "lessonId": "lsn_a1_j_1",
+      "en": "kind",
+      "translation": "نوع",
+      "ar": "نوع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love this kind of book.",
+          "ar": "أحب هذا النوع من الكتب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_kitchen",
+      "lessonId": "lsn_a1_j_1",
+      "en": "kitchen",
+      "translation": "مطبخ",
+      "ar": "مطبخ",
+      "pronunciation": "/ kıtf en/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The kitchen is very clean.",
+          "ar": "المطبخ نظيف جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

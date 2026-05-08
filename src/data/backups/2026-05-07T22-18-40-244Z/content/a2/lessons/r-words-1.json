@@ -1,0 +1,571 @@
+{
+  "id": "lsn_a2_r_1",
+  "levelId": "lvl_2",
+  "slug": "r-words-1",
+  "title": "Unit 33: R Words - Part 1",
+  "titleAr": "الوحدة 33: كلمات حرف R - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter R.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف R.",
+  "order": 33,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_quickly",
+      "en": "quickly",
+      "ar": "بسرعة",
+      "pronunciation": "/'kwik-li/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He can move quietly and quickly.",
+          "ar": "يمكنه أن يتحرك بهدوء وبسرعة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_race",
+      "en": "race",
+      "ar": "سباق / يتسابق",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed has won many races.",
+          "ar": "فاز أحمد بالعديد من السباقات."
+        },
+        {
+          "en": "Boats were racing last night.",
+          "ar": "كانت القوارب تتسابق الليلة الماضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_railway",
+      "en": "railway",
+      "ar": "سكة حديد",
+      "pronunciation": "/rexl.wer/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The railway station is near the hotel",
+          "ar": "تقع محطة السكة الحديد بالقرب من الفندق :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_raise",
+      "en": "raise",
+      "ar": "يرفع",
+      "pronunciation": "/rexz/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We raised our hands.",
+          "ar": "رفعنا أيدينا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_rate",
+      "en": "rate",
+      "ar": "معدل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They walked at the rate of three miles an hour",
+          "ar": "ساروا بمعدل ثلاثة أميال في الساعة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_rather",
+      "en": "rather",
+      "ar": "نوعا ما",
+      "pronunciation": "/'ræd.ə/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was rather strange.",
+          "ar": "كان غريبا نوعا ما :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_reach",
+      "en": "reach",
+      "ar": "يصل",
+      "pronunciation": "/ri:tf/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I hope this letter reaches you.",
+          "ar": "آمل أن تصل إليك هذه الرسالة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_react",
+      "en": "react",
+      "ar": "رد فعل",
+      "pronunciation": "/ri ækt/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How did Ahmed react to that?",
+          "ar": "كيف كان رد فعل أحمد على ذلك : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_realize",
+      "en": "realize",
+      "ar": "يدرك",
+      "pronunciation": "/'ri  laız/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed realized he had no choice",
+          "ar": "أدرك أحمد أنه لم يكن لديه خيار آخر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_receive",
+      "en": "receive",
+      "ar": "يتلقى",
+      "pronunciation": "/rr'siv/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you receive the flowers?",
+          "ar": "هل تلقيت الزهور ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_recent",
+      "en": "recent",
+      "ar": "حديثة",
+      "pronunciation": "/'ri-sənt/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is that a recent photo?",
+          "ar": "هل هذه صورة حديثة : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_recently",
+      "en": "recently",
+      "ar": "مؤخرا",
+      "pronunciation": "/'ri-sent-li/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Have you seen Ahmed recently?",
+          "ar": "هل رأيت أحمد مؤخرًا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_reception",
+      "en": "reception",
+      "ar": "استقبال",
+      "pronunciation": "/rx'sep-Jan/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How was the reception?",
+          "ar": "كيف كان الاستقبال : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_recipe",
+      "en": "recipe",
+      "ar": "وصفة",
+      "pronunciation": "/'res- ·pi/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's your favorite recipe?",
+          "ar": "ما هي وصفتك المفضلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_recognize",
+      "en": "recognize",
+      "ar": "يتعرف على",
+      "pronunciation": "/'rek ǝg naız/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The baby didn't recognize his father.",
+          "ar": "لم يتعرف الطفل على والده :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_recommend",
+      "en": "recommend",
+      "ar": "يوصي",
+      "pronunciation": "/ reka mend/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ahmed recommended this book.",
+          "ar": "أوصى أحمد بهذا الكتاب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_record",
+      "en": "record",
+      "ar": "سجلات / يسجل",
+      "pronunciation": "/'rek ərd/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our records show that you didn't pay.",
+          "ar": "تظهر سجلاتنا أنك لم تدفع."
+        },
+        {
+          "en": "She recorded the conversation.",
+          "ar": "هي سجلت المحادثة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_recording",
+      "en": "recording",
+      "ar": "تسجيل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please listen to the recording.",
+          "ar": "من فضلك استمع للتسجيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_recycle",
+      "en": "recycle",
+      "ar": "يعيد تدوير",
+      "pronunciation": "/ri sax kəl/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have started to recycle newspapers.",
+          "ar": "لقد بدأنا في إعادة تدوير الصحف :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_reduce",
+      "en": "reduce",
+      "ar": "يخفض / يقلل",
+      "pronunciation": "/rx'dus/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How can we reduce costs ?",
+          "ar": "كيف يمكننا أن نخفّض التكاليف : يُخَفِّض / يُقَلِّل : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_refer",
+      "en": "refer",
+      "ar": "يشير / يقصد",
+      "pronunciation": "/rx'f3r/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you refer to me?",
+          "ar": "هل تشير إلي ؟ هل تقصدني ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_refuse",
+      "en": "refuse",
+      "ar": "يرفض",
+      "pronunciation": "/rx fjuz/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I refused the offer for personal reasons",
+          "ar": "رفضت العرض لأسباب شخصية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_region",
+      "en": "region",
+      "ar": "منطقة / إقليم",
+      "pronunciation": "/'ri-dzən/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This region has completely changed",
+          "ar": "لقد تغيرت هذه المنطقة بالكامل : منطقة / إقليم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_regular",
+      "en": "regular",
+      "ar": "منتظمة / دوري",
+      "pronunciation": "/'reg jə-lər/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Muna has a regular job.",
+          "ar": "منى لديها وظيفة منتظمة : دوري : مُنْتَظَم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_relationship",
+      "en": "relationship",
+      "ar": "علاقة / صلة",
+      "pronunciation": "/r1'ler fən fıp/",
+      "lessonId": "lsn_a2_r_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They had a perfect relationship.",
+          "ar": "كان لديهم علاقة مثالية : صلة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

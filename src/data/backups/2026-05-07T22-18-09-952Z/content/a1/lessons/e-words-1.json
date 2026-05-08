@@ -1,0 +1,591 @@
+{
+  "id": "lsn_a1_e_1",
+  "levelId": "lvl_1",
+  "title": "E Words - Part 1",
+  "slug": "e-words-1",
+  "order": 11,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف E - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter E.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف E.",
+  "words": [
+    {
+      "id": "w_a1_dvd",
+      "lessonId": "lsn_a1_e_1",
+      "en": "DVD",
+      "translation": "قرص فيديو",
+      "ar": "قرص فيديو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I watched a DVD yesterday.",
+          "ar": "شاهدت قرص فيديو بالأمس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_each",
+      "lessonId": "lsn_a1_e_1",
+      "en": "each",
+      "translation": "كل",
+      "ar": "كل",
+      "pronunciation": "/itf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Each child has a chair.",
+          "ar": "كل طفل لديه كرسي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ears",
+      "lessonId": "lsn_a1_e_1",
+      "en": "ears",
+      "translation": "آذان / أذنان",
+      "ar": "آذان / أذنان",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I cleaned my ears today.",
+          "ar": "نظفت أذناي اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_early",
+      "lessonId": "lsn_a1_e_1",
+      "en": "early",
+      "translation": "مبكراً / باكر",
+      "ar": "مبكراً / باكر",
+      "pronunciation": "/'3r.li/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I woke up early today.",
+          "ar": "استيقظت مبكراً اليوم."
+        },
+        {
+          "en": "They planned an early dinner.",
+          "ar": "خططوا لعشاء باكر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_east",
+      "lessonId": "lsn_a1_e_1",
+      "en": "east",
+      "translation": "شرق / شرقا",
+      "ar": "شرق / شرقا",
+      "pronunciation": "/ist/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He will move to the east.",
+          "ar": "سينتقل إلى الشرق."
+        },
+        {
+          "en": "They moved to East Cairo.",
+          "ar": "انتقلوا إلى شرق القاهرة."
+        },
+        {
+          "en": "I moved east for work.",
+          "ar": "انتقلت شرقاً لأجل العمل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_easy",
+      "lessonId": "lsn_a1_e_1",
+      "en": "easy",
+      "translation": "سهل",
+      "ar": "سهل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The test was easy.",
+          "ar": "كان الاختبار سهلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_eat",
+      "lessonId": "lsn_a1_e_1",
+      "en": "eat",
+      "translation": "يأكل / يتناول",
+      "ar": "يأكل / يتناول",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I try to eat healthy food.",
+          "ar": "أحاول أن أتناول طعاماً صحياً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_eggs",
+      "lessonId": "lsn_a1_e_1",
+      "en": "eggs",
+      "translation": "بيض",
+      "ar": "بيض",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We need to buy eggs.",
+          "ar": "نحتاج إلى شراء البيض."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_eight",
+      "lessonId": "lsn_a1_e_1",
+      "en": "eight",
+      "translation": "ثمانية",
+      "ar": "ثمانية",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "There are eight chairs here.",
+          "ar": "يوجد هنا ثمانية كراسي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_eighteen",
+      "lessonId": "lsn_a1_e_1",
+      "en": "eighteen",
+      "translation": "ثمانية عشر",
+      "ar": "ثمانية عشر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She turned eighteen today.",
+          "ar": "لقد بلغت الثامنة عشرة من عمرها اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_eighty",
+      "lessonId": "lsn_a1_e_1",
+      "en": "eighty",
+      "translation": "ثمانين",
+      "ar": "ثمانين",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The house is eighty years old.",
+          "ar": "يبلغ عمر المنزل ثمانين عاماً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_elephant",
+      "lessonId": "lsn_a1_e_1",
+      "en": "elephant",
+      "translation": "فيل",
+      "ar": "فيل",
+      "pronunciation": "/'elə fənt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That elephant is really big.",
+          "ar": "هذا الفيل كبير جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_eleven",
+      "lessonId": "lsn_a1_e_1",
+      "en": "eleven",
+      "translation": "إحدى عشرة",
+      "ar": "إحدى عشرة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He bought eleven apples.",
+          "ar": "لقد اشترى إحدى عشرة تفاحة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_else",
+      "lessonId": "lsn_a1_e_1",
+      "en": "else",
+      "translation": "آخر",
+      "ar": "آخر",
+      "pronunciation": "/els/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I don't want anything else, thank you.",
+          "ar": "لا أريد أي شيء آخر، شكراً لك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_email",
+      "lessonId": "lsn_a1_e_1",
+      "en": "email",
+      "translation": "رسالة إلكترونية / بريد إلكتروني",
+      "ar": "رسالة إلكترونية / بريد إلكتروني",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you get my email?",
+          "ar": "هل تلقيت رسالتي الإلكترونية؟"
+        },
+        {
+          "en": "Can you email me the details?",
+          "ar": "هل يمكنك إرسال التفاصيل عبر البريد الإلكتروني؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_end",
+      "lessonId": "lsn_a1_e_1",
+      "en": "end",
+      "translation": "نهاية / ينهي",
+      "ar": "نهاية / ينهي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I didn't like the end of the movie.",
+          "ar": "لم تعجبني نهاية الفيلم."
+        },
+        {
+          "en": "I will end my day with a walk.",
+          "ar": "سوف أنهي يومي بالمشي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_enjoy",
+      "lessonId": "lsn_a1_e_1",
+      "en": "enjoy",
+      "translation": "يستمتع",
+      "ar": "يستمتع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I enjoy traveling to new places.",
+          "ar": "استمتع بالسفر إلى أماكن جديدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_enough",
+      "lessonId": "lsn_a1_e_1",
+      "en": "enough",
+      "translation": "كاف / بما فيه الكفاية / يكفي",
+      "ar": "كاف / بما فيه الكفاية / يكفي",
+      "pronunciation": "/ nʌf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We have enough food for everyone.",
+          "ar": "لدينا طعام كاف للجميع."
+        },
+        {
+          "en": "You didn't study enough.",
+          "ar": "لم تذاكر بما فيه الكفاية."
+        },
+        {
+          "en": "Enough is enough; I'm leaving.",
+          "ar": "هذا يكفي؛ أنا راحل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_euros",
+      "lessonId": "lsn_a1_e_1",
+      "en": "euros",
+      "translation": "يورو",
+      "ar": "يورو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The ticket costs 20 euros.",
+          "ar": "تبلغ تكلفة التذكرة 20 يورو."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_even",
+      "lessonId": "lsn_a1_e_1",
+      "en": "even",
+      "translation": "حتى",
+      "ar": "حتى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I can't even imagine that.",
+          "ar": "لا يمكنني حتى تخيل ذلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_evening",
+      "lessonId": "lsn_a1_e_1",
+      "en": "evening",
+      "translation": "مساء",
+      "ar": "مساء",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We meet every evening.",
+          "ar": "نحن نلتقي كل مساء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_event",
+      "lessonId": "lsn_a1_e_1",
+      "en": "event",
+      "translation": "فعالية",
+      "ar": "فعالية",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The school event begins at 10 am.",
+          "ar": "تبدأ فعالية المدرسة في العاشرة صباحاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ever",
+      "lessonId": "lsn_a1_e_1",
+      "en": "ever",
+      "translation": "على الإطلاق",
+      "ar": "على الإطلاق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This is the hardest test ever.",
+          "ar": "هذا أصعب اختبار على الإطلاق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_every",
+      "lessonId": "lsn_a1_e_1",
+      "en": "every",
+      "translation": "كل",
+      "ar": "كل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I drink coffee every morning.",
+          "ar": "أنا أشرب القهوة كل صباح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_everybody",
+      "lessonId": "lsn_a1_e_1",
+      "en": "everybody",
+      "translation": "الجميع",
+      "ar": "الجميع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Is everybody here?",
+          "ar": "هل الجميع هنا؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "id": "lsn_b2_s_2",
+  "levelId": "lvl_b2",
+  "slug": "s-words-2",
+  "title": "S Words - Part 2",
+  "titleAr": "كلمات حرف S - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter S.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف S.",
+  "order": 41,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_sensitive",
+      "en": "sensitive",
+      "ar": "حساسة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This document contains sensitive information.",
+          "ar": "يحتوي هذا المستند على معلومات حساسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sentence",
+      "en": "sentence",
+      "ar": "تصدر حكمها",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The court will sentence the criminal next Monday.",
+          "ar": "المحكمة سوف تصدر حكمها على المجرم يوم الاثنين المقبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sequence",
+      "en": "sequence",
+      "ar": "تسلسل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The sequence of steps must be followed carefully.",
+          "ar": "يجب اتباع تسلسل الخطوات بعناية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_session",
+      "en": "session",
+      "ar": "الجلسة التدريبية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The training session will start at 10 a.m.",
+          "ar": "ستبدأ الجلسة التدريبية في الساعة 10 صباحاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_settle",
+      "en": "settle",
+      "ar": "تحسم / تستقر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She tried to settle the argument between her friends.",
+          "ar": "لقد حاولت أن تحسم الجدال بين صديقاتها."
+        },
+        {
+          "en": "The birds settle on the tree branches every evening.",
+          "ar": "تستقر الطيور على أغصان الأشجار كل مساء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_settlers",
+      "en": "settlers",
+      "ar": "المستوطنين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Some settlers faced danger from wild animals at night.",
+          "ar": "واجه بعض المستوطنين الخطر من الحيوانات البرية في الليل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_severe",
+      "en": "severe",
+      "ar": "شديدة / بشدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He suffered from severe headaches after the accident.",
+          "ar": "لقد عانى من نوبات صداع شديدة بعد الحادث."
+        },
+        {
+          "en": "The houses were severely damaged by the storm.",
+          "ar": "تضررت المنازل بشدة جراء العاصفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_sexy",
+      "en": "sexy",
+      "ar": "مثيرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She was punished for posting sexy photos.",
+          "ar": "لقد عوقبت بسبب نشر صور مثيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shade",
+      "en": "shade",
+      "ar": "ظل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We sat under the tree's shade to stay cool.",
+          "ar": "جلسنا تحت ظل الشجرة لنبقى منتعشين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shadow",
+      "en": "shadow",
+      "ar": "ظل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She saw the shadow of a man on the wall at night.",
+          "ar": "رأت ظل رجل على الحائط ليلاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shallow",
+      "en": "shallow",
+      "ar": "ضحلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The lake becomes shallow during the summer.",
+          "ar": "تصبح البحيرة ضحلة خلال فصل الصيف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shame",
+      "en": "shame",
+      "ar": "الخزي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Hiding the truth only brings more shame later.",
+          "ar": "إن إخفاء الحقيقة لا يجلب سوى المزيد من الخزي لاحقاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shape",
+      "en": "shape",
+      "ar": "تشكل / بشكل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Experiences shape our thoughts and decisions in life.",
+          "ar": "التجارب تشكل أفكارنا وقراراتنا في الحياة."
+        },
+        {
+          "en": "She made a perfectly shaped cake for the party.",
+          "ar": "لقد صنعت كعكة بشكل مثالي للحفلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shelter",
+      "en": "shelter",
+      "ar": "مأوى / تحميهم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The storm victims needed food, water, and shelter.",
+          "ar": "احتاج ضحايا العاصفة إلى الطعام والماء والمأوى."
+        },
+        {
+          "en": "The tent didn't shelter them from the strong winds.",
+          "ar": "لم تحميهم الخيمة من الرياح القوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shift",
+      "en": "shift",
+      "ar": "حولت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company shifted its focus to online sales.",
+          "ar": "حولت الشركة تركيزها إلى المبيعات عبر الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ships",
+      "en": "ships",
+      "ar": "يقوم بشحن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The factory ships thousands of items every month.",
+          "ar": "يقوم المصنع بشحن آلاف الأصناف كل شهر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shock",
+      "en": "shock",
+      "ar": "صدمة / صدم / مصدومة / صادمًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He made a shocking decision to quit his job.",
+          "ar": "اتخذ قرارًا صادمًا بالاستقالة من وظيفته."
+        },
+        {
+          "en": "His rude comment shocked the entire audience.",
+          "ar": "تعليقه الوقح صدم الجمهور بأكمله."
+        },
+        {
+          "en": "She looked completely shocked after hearing the news.",
+          "ar": "لقد بدت مصدومة تمامًا بعد سماعها الخبر."
+        },
+        {
+          "en": "The loud explosion caused a shock among us.",
+          "ar": "تسبب الانفجار المدوي في حدوث صدمة بيننا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shooting",
+      "en": "shooting",
+      "ar": "إطلاق النار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The police investigated the shooting at the mall.",
+          "ar": "حققت الشرطة في إطلاق النار الذي وقع في المركز التجاري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shore",
+      "en": "shore",
+      "ar": "الشاطئ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We collected colorful stones from the shore.",
+          "ar": "جمعنا الأحجار الملونة من على الشاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_short_term",
+      "en": "short-term",
+      "ar": "قصير المدى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This is only a short-term solution to the problem.",
+          "ar": "هذا مجرد حل قصير المدى للمشكلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shortage",
+      "en": "shortage",
+      "ar": "نقص",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The fuel shortage caused long lines at gas stations.",
+          "ar": "تسبب نقص الوقود في حدوث طوابير طويلة في محطات الوقود."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shortly",
+      "en": "shortly",
+      "ar": "بعد قليل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The movie will start shortly, so find your seat.",
+          "ar": "سيبدأ الفيلم بعد قليل، لذا ابحث عن مقعدك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_shot",
+      "en": "shot",
+      "ar": "تسديدته",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His shot hit the target perfectly.",
+          "ar": "أصابت تسديدته الهدف بشكل مثالي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_siblings",
+      "en": "siblings",
+      "ar": "شقيقان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I have two siblings, a brother and a sister.",
+          "ar": "لدي شقيقان، أخ وأخت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_signature",
+      "en": "signature",
+      "ar": "توقيعك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Please write your signature at the bottom.",
+          "ar": "يُرجى كتابة توقيعك في الأسفل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

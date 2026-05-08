@@ -1,0 +1,431 @@
+{
+  "id": "lsn_c1_r_4",
+  "levelId": "lvl_c1",
+  "title": "Unit 37: R Words - Part 4",
+  "slug": "r-words-4",
+  "order": 37,
+  "wordCount": 19,
+  "titleAr": "الوحدة 37: كلمات حرف R - الجزء 4",
+  "description": "Master essential C1 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف R.",
+  "words": [
+    {
+      "id": "w_c1_resume",
+      "en": "resume",
+      "ar": "يستأنف / يواصل",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيستأنف الاجتماع بعد الغداء",
+          "ar": "We decided to resume our journey despite the rain."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəˈzjuːm/"
+    },
+    {
+      "id": "w_c1_retreat",
+      "en": "retreat",
+      "ar": "تراجع / انسحاب / ملاذ",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اضطر الجيش للانسحاب بعد الخسائر الثقيلة",
+          "ar": "The mountain cabin is a perfect retreat from the city."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəˈtɹiːt/"
+    },
+    {
+      "id": "w_c1_retrieve",
+      "en": "retrieve",
+      "ar": "يسترجع / يستعيد (بيانات)",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أنا بحاجة لاسترجاع بعض الملفات من كمبيوتري القديم",
+          "ar": "The dog ran to retrieve the ball."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹiˈtɹiv/"
+    },
+    {
+      "id": "w_c1_revelation",
+      "en": "revelation",
+      "ar": "كشف / وحي / مفاجأة",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أدى التحقيق إلى كشف فساد واسع النطاق",
+          "ar": "The news of his resignation was a complete revelation to us."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɛvəˈleɪʃən/"
+    },
+    {
+      "id": "w_c1_revenge",
+      "en": "revenge",
+      "ar": "انتقام / ثأر",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أراد الانتقام من الإهانة",
+          "ar": "The movie is a classic tale of love and revenge."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈvɛndʒ/"
+    },
+    {
+      "id": "w_c1_reverse",
+      "en": "reverse",
+      "ar": "يعكس / يقلب / عكسي",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت المحكمة عكس (إلغاء) القرار السابق",
+          "ar": "The car hit the wall while moving in reverse."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈvɜːs/"
+    },
+    {
+      "id": "w_c1_revival",
+      "en": "revival",
+      "ar": "إحياء / انتعاش",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تشهد المدينة إحياءً ثقافياً",
+          "ar": "There has been a revival of interest in traditional crafts."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈvaɪvəl/"
+    },
+    {
+      "id": "w_c1_revive",
+      "en": "revive",
+      "ar": "يحيي / ينعش",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكن المسعفون من إنعاش المريض",
+          "ar": "The government is trying to revive the economy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈvaɪv/"
+    },
+    {
+      "id": "w_c1_revolutionary",
+      "en": "revolutionary",
+      "ar": "ثوري / مبتكر جداً",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان اختراع الإنترنت حدثاً ثورياً",
+          "ar": "He has some revolutionary ideas about education."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/-ˈljuː-/"
+    },
+    {
+      "id": "w_c1_rhetoric",
+      "en": "rhetoric",
+      "ar": "بلاغة / فصاحة / لغو سياسي",
+      "pronunciation": "ˈretərɪk",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان خطاب السياسي مليئاً باللغو الفارغ",
+          "ar": "He is a master of classical rhetoric."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_rifle",
+      "en": "rifle",
+      "ar": "بندقية / يفتش بسرعة",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الصيادون يحملون بنادق",
+          "ar": "The thief rifled through the drawers looking for money."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹaɪfəl/"
+    },
+    {
+      "id": "w_c1_riot",
+      "en": "riot",
+      "ar": "أعمال شغب / تظاهر صاخب",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اندلعت أعمال شغب في عدة مدن بعد الانتخابات",
+          "ar": "The police used tear gas to disperse the riot."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹaɪ.ət/"
+    },
+    {
+      "id": "w_c1_rip",
+      "en": "rip",
+      "ar": "يمزق / ينتزع بالقوة",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "مزقت فستانها بالخطأ في مسمار",
+          "ar": "The heavy wind ripped the roof off the building."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪp/"
+    },
+    {
+      "id": "w_c1_ritual",
+      "en": "ritual",
+      "ar": "طقس / شعيرة",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "طقس القهوة الصباحي اليومي مهم بالنسبة له",
+          "ar": "Religious rituals vary greatly between cultures."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɪ.tʃu.əl/"
+    },
+    {
+      "id": "w_c1_robust",
+      "en": "robust",
+      "ar": "قوي / متين / معافى",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمتلك الشركة نظاماً قوياً للتعامل مع الشكاوى",
+          "ar": "He is a robust young man who rarely gets sick."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəʊˈbʌst/"
+    },
+    {
+      "id": "w_c1_rod",
+      "en": "rod",
+      "ar": "قضيب / عود / قصبة صيد",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتدلى الستائر من قضيب معدني",
+          "ar": "He took his fishing rod to the lake."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɒd/"
+    },
+    {
+      "id": "w_c1_rotate",
+      "en": "rotate",
+      "ar": "يدور / يتناوب",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تدور الأرض حول محورها مرة كل أربع وعشرين ساعة",
+          "ar": "The staff members rotate shifts every week."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəʊˈteɪt/"
+    },
+    {
+      "id": "w_c1_rotation",
+      "en": "rotation",
+      "ar": "دوران / تناوب",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يساعد تناوب المحاصيل في الحفاظ على صحة التربة",
+          "ar": "The wheel makes ten rotations per minute."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹoʊˈteɪʃən/"
+    },
+    {
+      "id": "w_c1_ruling",
+      "en": "ruling",
+      "ar": "قرار (قضائي أو رسمي) / حاكم",
+      "lessonId": "lsn_c1_r_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيتم الإعلان عن قرار المحكمة الأسبوع المقبل",
+          "ar": "The ruling party has promised to lower taxes."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹuːlɪŋ/"
+    }
+  ]
+}

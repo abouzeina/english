@@ -1,43 +1,20 @@
 {
   "id": "lsn_a1_h_1",
-  "levelId": "lvl_1",
-  "title": "H Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 17: H Words - Part 1",
   "slug": "h-words-1",
   "order": 17,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف H - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter H.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف H.",
+  "wordCount": 20,
+  "titleAr": "الوحدة 17: كلمات حرف H - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter H.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف H.",
   "words": [
-    {
-      "id": "w_a1_gym",
-      "lessonId": "lsn_a1_h_1",
-      "en": "gym",
-      "translation": "صالة رياضية",
-      "ar": "صالة رياضية",
-      "pronunciation": "/dzım/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The gym is open all day.",
-          "ar": "الصالة الرياضية مفتوحة طوال اليوم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_hair",
       "lessonId": "lsn_a1_h_1",
       "en": "hair",
       "translation": "شعر",
       "ar": "شعر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +28,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/heː/"
     },
     {
       "id": "w_a1_half",
@@ -59,21 +37,26 @@
       "en": "half",
       "translation": "نصف",
       "ar": "نصف",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I ate half of the pizza.",
           "ar": "أكلت نصف البيتزا."
+        },
+        {
+          "en": "The glass was half full.",
+          "ar": "كان الكوب نصف ممتلئ :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hɑːf/"
     },
     {
       "id": "w_a1_hands",
@@ -81,7 +64,6 @@
       "en": "hands",
       "translation": "يدان / أيادي",
       "ar": "يدان / أيادي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -95,7 +77,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hæn(d)z/"
     },
     {
       "id": "w_a1_happen",
@@ -103,7 +86,6 @@
       "en": "happen",
       "translation": "يحدث",
       "ar": "يحدث",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -117,7 +99,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈhæpən/"
     },
     {
       "id": "w_a1_happy",
@@ -125,7 +108,6 @@
       "en": "happy",
       "translation": "سعيد",
       "ar": "سعيد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -139,7 +121,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈhæpiː/"
     },
     {
       "id": "w_a1_hard",
@@ -147,7 +130,6 @@
       "en": "hard",
       "translation": "صعب / بجد",
       "ar": "صعب / بجد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -165,7 +147,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hɑːd/"
     },
     {
       "id": "w_a1_hat",
@@ -201,12 +184,17 @@
         {
           "en": "Why do you hate him?",
           "ar": "لماذا تكرهه؟"
+        },
+        {
+          "en": "The hate was clear in his eyes.",
+          "ar": "كانت الكراهية واضحة في عينيه."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -251,7 +239,6 @@
       "en": "he",
       "translation": "هو",
       "ar": "هو",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -265,7 +252,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hi/"
     },
     {
       "id": "w_a1_head",
@@ -295,7 +283,6 @@
       "en": "health",
       "translation": "صحة",
       "ar": "صحة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -309,7 +296,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hɛlθ/"
     },
     {
       "id": "w_a1_healthy",
@@ -317,7 +305,6 @@
       "en": "healthy",
       "translation": "صحي",
       "ar": "صحي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -331,7 +318,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈhɛl.θi/"
     },
     {
       "id": "w_a1_hear",
@@ -339,7 +327,6 @@
       "en": "hear",
       "translation": "يسمع",
       "ar": "يسمع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -353,29 +340,37 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hɪə(ɹ)/"
     },
     {
-      "id": "w_a1_hello",
+      "id": "w_1",
       "lessonId": "lsn_a1_h_1",
-      "en": "hello",
-      "translation": "مرحبا",
-      "ar": "مرحبا",
-      "pronunciation": "",
-      "type": "word",
+      "categoryId": null,
+      "en": "Hello",
+      "ar": "مرحباً",
       "examples": [
         {
           "en": "Hello, how are you today?",
-          "ar": "مرحباً كيف حالك اليوم؟"
+          "ar": "مرحباً، كيف حالك اليوم؟"
+        },
+        {
+          "en": "Hello everyone, let's start the class.",
+          "ar": "مرحباً بالجميع، لنبدأ الدرس."
         }
       ],
-      "difficulty": "A1",
       "tags": [
+        "greeting",
+        "basic",
         "A1",
         "core"
       ],
+      "translation": "مرحباً",
+      "type": "word",
+      "difficulty": "A1",
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/həˈləʊ/"
     },
     {
       "id": "w_a1_help",
@@ -383,7 +378,6 @@
       "en": "help",
       "translation": "يساعد / مساعدة",
       "ar": "يساعد / مساعدة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -401,7 +395,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hɛlp/"
     },
     {
       "id": "w_a1_her",
@@ -409,7 +404,6 @@
       "en": "her",
       "translation": "ها (ضمير ملكية) / مفعول به للمؤنث",
       "ar": "ها (ضمير ملكية) / مفعول به للمؤنث",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -427,7 +421,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ə(ɹ)/"
     },
     {
       "id": "w_a1_here",
@@ -435,7 +430,6 @@
       "en": "here",
       "translation": "هنا / هاهو",
       "ar": "هنا / هاهو",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -453,7 +447,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/hiːɹ/"
     },
     {
       "id": "w_a1_hey",
@@ -461,7 +456,6 @@
       "en": "hey",
       "translation": "مهلاً / أنت (للنداء)",
       "ar": "مهلاً / أنت (للنداء)",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -475,7 +469,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/heɪ/"
     },
     {
       "id": "w_a1_hi",
@@ -483,7 +478,6 @@
       "en": "hi",
       "translation": "مرحبا",
       "ar": "مرحبا",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -497,95 +491,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_high",
-      "lessonId": "lsn_a1_h_1",
-      "en": "high",
-      "translation": "مرتفع / عالي",
-      "ar": "مرتفع / عالي",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "This wall is too high.",
-          "ar": "هذا الجدار مرتفع للغاية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_him",
-      "lessonId": "lsn_a1_h_1",
-      "en": "him",
-      "translation": "هـ (ضمير مفعول به للمذكر)",
-      "ar": "هـ (ضمير مفعول به للمذكر)",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I saw him yesterday.",
-          "ar": "لقد رأيته بالأمس."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_his",
-      "lessonId": "lsn_a1_h_1",
-      "en": "his",
-      "translation": "هـ (ضمير ملكية للمذكر)",
-      "ar": "هـ (ضمير ملكية للمذكر)",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "He lost his keys.",
-          "ar": "لقد أضاع مفاتيحه."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_history",
-      "lessonId": "lsn_a1_h_1",
-      "en": "history",
-      "translation": "تاريخ",
-      "ar": "تاريخ",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I love reading history books.",
-          "ar": "أحب قراءة كتب التاريخ."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/haɪ/"
     }
   ]
 }

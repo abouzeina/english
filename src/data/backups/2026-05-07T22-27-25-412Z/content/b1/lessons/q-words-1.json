@@ -1,0 +1,175 @@
+{
+  "id": "lsn_b1_q_1",
+  "levelId": "lvl_b1",
+  "slug": "q-words-1",
+  "title": "Unit 31: Q Words - Part 1",
+  "titleAr": "الوحدة 31: كلمات حرف Q - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with Q.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف Q.",
+  "order": 31,
+  "wordCount": 7,
+  "words": [
+    {
+      "id": "w_b1_push",
+      "en": "push",
+      "ar": "دفعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_q_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Give it a push?",
+          "ar": "أعطها دفعة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_qualify",
+      "en": "qualify",
+      "ar": "يؤهل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_q_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This training course will qualify you for the new job.",
+          "ar": "هذه الدورة التدريبية سوف تؤهلك للوظيفة الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_qualified",
+      "en": "qualified",
+      "ar": "مؤهل",
+      "pronunciation": "/'kwa:.le.fard/",
+      "lessonId": "lsn_b1_q_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is a qualified instructor.",
+          "ar": "علي مُدرِّب مؤهل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_qualifications",
+      "en": "qualifications",
+      "ar": "مؤهلات",
+      "pronunciation": "/ kwa:.le.fə keı.Jən/",
+      "lessonId": "lsn_b1_q_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "already have some academic qualifications.",
+          "ar": "لدي بالفعل بعض المؤهلات الأكاديمية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_queue",
+      "en": "queue",
+      "ar": "طابور / يصطف",
+      "pronunciation": "/kju:/",
+      "lessonId": "lsn_b1_q_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There was a queue of people in front of the castle.",
+          "ar": "كان هناك طابور من الناس أمام القلعة."
+        },
+        {
+          "en": "Tens of employees queued up outside.",
+          "ar": "اصطف عشرات الموظفين في الخارج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_quit",
+      "en": "quit",
+      "ar": "يترك / يقلع عن",
+      "pronunciation": "/kwxt/",
+      "lessonId": "lsn_b1_q_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I decided to quit my job.",
+          "ar": "قررت أن أترك وظيفتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_quote",
+      "en": "quote",
+      "ar": "يقتبس / اقتباس",
+      "pronunciation": "/kwout/",
+      "lessonId": "lsn_b1_q_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It's unusual for me to quote from novels.",
+          "ar": "من غير المعتاد بالنسبة لي أن أقتبس من الروايات."
+        },
+        {
+          "en": "Where did you get this quote from?",
+          "ar": "من أين أتيت بهذا الاقتباس ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

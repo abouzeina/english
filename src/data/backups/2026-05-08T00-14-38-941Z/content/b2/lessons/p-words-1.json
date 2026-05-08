@@ -1,0 +1,571 @@
+{
+  "id": "lsn_b2_p_1",
+  "levelId": "lvl_b2",
+  "slug": "p-words-1",
+  "title": "P Words - Part 1",
+  "titleAr": "كلمات حرف P - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف P.",
+  "order": 44,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_pace",
+      "en": "pace",
+      "ar": "بوتيرة / أذرع المكان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I admire the pace of your progress.",
+          "ar": "أنا معجب بوتيرة تقدمك."
+        },
+        {
+          "en": "I tend to pace when I'm anxious.",
+          "ar": "أميل إلى أن أذرع المكان جيئة وذهابا عندما أشعر بالقلق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_package",
+      "en": "package",
+      "ar": "تغليف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company will package samples for customers.",
+          "ar": "ستقوم الشركة بتغليف العينات للعملاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_packet",
+      "en": "packet",
+      "ar": "حزمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I received a packet of study materials.",
+          "ar": "تلقيت حزمة من المواد الدراسية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_palm",
+      "en": "palm",
+      "ar": "نخلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They planted a new palm by the pool.",
+          "ar": "قاموا بزراعة نخلة جديدة بجانب حوض السباحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_panel",
+      "en": "panel",
+      "ar": "لوحة التحكم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The control panel displays all the system's data.",
+          "ar": "تعرض لوحة التحكم جميع بيانات النظام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_panic",
+      "en": "panic",
+      "ar": "الذعر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Panic filled the air as the storm approached.",
+          "ar": "ملأ الذعر الأجواء مع اقتراب العاصفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_parade",
+      "en": "parade",
+      "ar": "الموكب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Soldiers led the parade down the main street.",
+          "ar": "قاد الجنود الموكب في الشارع الرئيسي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_parallel",
+      "en": "parallel",
+      "ar": "المتوازيين / مثيل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is no parallel for this tradition in our culture.",
+          "ar": "لا يوجد مثيل لهذا التقليد في ثقافتنا."
+        },
+        {
+          "en": "They walked along the parallel paths in silence.",
+          "ar": "سارا على طول المسارين المتوازيين في صمت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_parliament",
+      "en": "parliament",
+      "ar": "البرلمان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Parliament's decision affected the country's economy.",
+          "ar": "قرار البرلمان أثر على اقتصاد البلاد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_part_time",
+      "en": "part-time",
+      "ar": "بدوام جزئي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I'm looking for a part-time teaching job.",
+          "ar": "أبحث عن وظيفة تدريس بدوام جزئي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_participant",
+      "en": "participant",
+      "ar": "المشاركين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The participant list included people from various countries.",
+          "ar": "تضمنت قائمة المشاركين أشخاصاً من مختلف البلدان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_participation",
+      "en": "participation",
+      "ar": "مشاركتك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your participation in the survey is valuable.",
+          "ar": "إن مشاركتك في الاستبيان قيمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_partly",
+      "en": "partly",
+      "ar": "جزئياً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was partly responsible for the project's success.",
+          "ar": "كان مسؤولاً جزئياً عن نجاح المشروع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_partnership",
+      "en": "partnership",
+      "ar": "الشراكة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They celebrated ten years of successful partnership.",
+          "ar": "احتفلوا بعشر سنوات من الشراكة الناجحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_passage",
+      "en": "passage",
+      "ar": "فقرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He quoted a passage during his presentation.",
+          "ar": "اقتبس فقرة خلال عرضه التقديمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_passionate",
+      "en": "passionate",
+      "ar": "شغوفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She's passionate about making a positive impact.",
+          "ar": "إنها شغوفة بإحداث تأثير إيجابي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_password",
+      "en": "password",
+      "ar": "كلمة المرور",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your password should contain both letters and numbers.",
+          "ar": "يجب أن تحتوي كلمة المرور الخاصة بك على حروف وأرقام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_patience",
+      "en": "patience",
+      "ar": "الصبر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He lacks the patience to teach young children.",
+          "ar": "إنه يفتقر إلى الصبر لتعليم الأطفال الصغار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_patient",
+      "en": "patient",
+      "ar": "صبوراً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He remained patient despite the long wait.",
+          "ar": "ظل صبوراً رغم طول الانتظار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pause",
+      "en": "pause",
+      "ar": "توقفاً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She noticed a long pause between his responses.",
+          "ar": "هي لاحظت توقفاً طويلاً بين ردوده."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_paused",
+      "en": "paused",
+      "ar": "توقفت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I paused briefly to collect my thoughts.",
+          "ar": "توقفت لفترة وجيزة لأستجمع أفكاري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_peers",
+      "en": "peers",
+      "ar": "أقرانهم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Students often learn best from their peers.",
+          "ar": "غالبا ما يتعلم الطلاب أفضل من أقرانهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_penalty",
+      "en": "penalty",
+      "ar": "عقوبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He faced a penalty for his repeated mistakes.",
+          "ar": "واجه عقوبة بسبب أخطائه المتكررة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pension",
+      "en": "pension",
+      "ar": "معاشها",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She applied for her pension at age sixty-five.",
+          "ar": "تقدمت بطلب للحصول على معاشها في سن الخامسة والستين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_perceive",
+      "en": "perceive",
+      "ar": "ينظر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "People often perceive beauty in various ways.",
+          "ar": "غالباً ما ينظر الناس إلى الجمال بطرق مختلفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

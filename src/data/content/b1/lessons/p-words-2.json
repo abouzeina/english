@@ -1,36 +1,14 @@
 {
   "id": "lsn_b1_p_2",
   "levelId": "lvl_b1",
+  "title": "Unit 26: P Words - Part 2",
   "slug": "p-words-2",
-  "title": "Unit 28: P Words - Part 2",
-  "titleAr": "الوحدة 28: كلمات حرف P - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with P.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف P.",
-  "order": 28,
-  "wordCount": 25,
+  "order": 26,
+  "wordCount": 23,
+  "titleAr": "الوحدة 26: كلمات حرف P - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف P.",
   "words": [
-    {
-      "id": "w_b1_pleasure",
-      "en": "pleasure",
-      "ar": "سرور",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I read this novel with pleasure.",
-          "ar": "قرأت هذه الرواية بسرور."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_plenty",
       "en": "plenty",
@@ -43,50 +21,6 @@
         {
           "en": "Drink plenty of water to improve your memory.",
           "ar": "اشرب الكثير من الماء لتحسين ذاكرتك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_plot",
-      "en": "plot",
-      "ar": "حبكة",
-      "pronunciation": "/pla:t/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I didn't like the plot of this movie.",
-          "ar": "لم تعجبني حبكة هذا الفيلم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_plus",
-      "en": "plus",
-      "ar": "زائد",
-      "pronunciation": "/plas/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Three plus four equals seven.",
-          "ar": "ثلاثة زائد أربعة يساوي سبعة."
         }
       ],
       "type": "word",
@@ -164,28 +98,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_pointed",
-      "en": "pointed",
-      "ar": "أشار",
-      "pronunciation": "/'porn.txd/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He pointed to a big stone and asked me to hold it.",
-          "ar": "أشار إلى حجر كبير وطلب مني أن أمسكه."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_poison",
       "en": "poison",
       "ar": "سم / يسمم / سامة",
@@ -238,28 +150,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_politics",
-      "en": "politics",
-      "ar": "سياسة (المجال السياسي)",
-      "pronunciation": "/'pa:.le.tıks/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He left politics and went into business.",
-          "ar": "هو ترك السياسة وانتقل إلى مجال الأعمال."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_political",
       "en": "political",
       "ar": "سياسية",
@@ -293,6 +183,28 @@
         {
           "en": "Most politicians lie.",
           "ar": "معظم السياسيين يكذبون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_politics",
+      "en": "politics",
+      "ar": "سياسة (المجال السياسي)",
+      "pronunciation": "/'pa:.le.tıks/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He left politics and went into business.",
+          "ar": "هو ترك السياسة وانتقل إلى مجال الأعمال."
         }
       ],
       "type": "word",
@@ -561,6 +473,54 @@
         {
           "en": "Our society was not prepared for these changes.",
           "ar": "مجتمعنا لم يكن مستعدا لهذه التغييرات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_presentation",
+      "en": "presentation",
+      "ar": "عرض تقديمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He spoke about three solutions in his presentation.",
+          "ar": "تحدث عن ثلاثة حلول في عرضه التقديمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_press",
+      "en": "Press",
+      "ar": "اضغط / صحافة",
+      "pronunciation": "/pres/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Press the button after writing the comment.",
+          "ar": "اضغط على الزر بعد كتابة التعليق."
+        },
+        {
+          "en": "The lecture was reported in the press.",
+          "ar": "نشرت المحاضرة في الصحف."
         }
       ],
       "type": "word",

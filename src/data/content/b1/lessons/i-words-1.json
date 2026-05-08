@@ -1,40 +1,14 @@
 {
   "id": "lsn_b1_i_1",
   "levelId": "lvl_b1",
+  "title": "Unit 17: I Words - Part 1",
   "slug": "i-words-1",
-  "title": "Unit 18: I Words - Part 1",
-  "titleAr": "الوحدة 18: كلمات حرف I - الجزء 1",
-  "description": "Expand your intermediate vocabulary with words starting with I.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف I.",
-  "order": 18,
-  "wordCount": 25,
+  "order": 17,
+  "wordCount": 15,
+  "titleAr": "الوحدة 17: كلمات حرف I - الجزء 1",
+  "description": "Master essential B1 vocabulary starting with the letter I.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف I.",
   "words": [
-    {
-      "id": "w_b1_hurry",
-      "en": "hurry",
-      "ar": "يسرع / عجلة",
-      "pronunciation": "/har-i/",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "You have to hurry if you want to catch the train.",
-          "ar": "عليك أن تسرع إذا كنت تريد اللحاق بالقطار."
-        },
-        {
-          "en": "Take your time there's no hurry.",
-          "ar": "خذ وقتك، لا داعي للعجلة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_identity",
       "en": "identity",
@@ -127,7 +101,6 @@
       "id": "w_b1_immediate",
       "en": "immediate",
       "ar": "فوري",
-      "pronunciation": "",
       "lessonId": "lsn_b1_i_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -143,7 +116,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɪˈmiːdɪət/"
     },
     {
       "id": "w_b1_immigrants",
@@ -223,7 +197,6 @@
       "id": "w_b1_importance",
       "en": "importance",
       "ar": "أهمية",
-      "pronunciation": "",
       "lessonId": "lsn_b1_i_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -239,7 +212,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɪmˈpɔːtəns/"
     },
     {
       "id": "w_b1_impression",
@@ -289,7 +263,6 @@
       "id": "w_b1_improvements",
       "en": "improvements",
       "ar": "تحسينات",
-      "pronunciation": "",
       "lessonId": "lsn_b1_i_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -305,7 +278,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɪmˈpɹuːvmənts/"
     },
     {
       "id": "w_b1_incredibly",
@@ -355,7 +329,6 @@
       "id": "w_b1_indicates",
       "en": "indicates",
       "ar": "تشير",
-      "pronunciation": "",
       "lessonId": "lsn_b1_i_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -371,213 +344,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_indirect",
-      "en": "indirect",
-      "ar": "غير مباشر",
-      "pronunciation": "/ ın də rekt/",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "There are many indirect effects of using social media.",
-          "ar": "هناك العديد من الآثار غير المباشرة لاستخدام وسائل التواصل الاجتماعي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_indoor",
-      "en": "indoor",
-      "ar": "داخلي",
-      "pronunciation": "/ In dor/",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I suggest we play some indoor games.",
-          "ar": "أقترح أن نلعب بعض الألعاب الداخلية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_indoors",
-      "en": "indoors",
-      "ar": "بالداخل",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Many plants can be grown indoors.",
-          "ar": "العديد من النباتات يمكن زراعتها بالداخل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_influence",
-      "en": "influence",
-      "ar": "يؤثر / تأثير",
-      "pronunciation": "/'ın-flu-ens/",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I don't want to influence your decision.",
-          "ar": "لا أريد أن أؤثر على قرارك."
-        },
-        {
-          "en": "What is the influence of climate change on forests?",
-          "ar": "ما هو تأثير التغير المناخي على الغابات ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_ingredients",
-      "en": "ingredients",
-      "ar": "مكونات",
-      "pronunciation": "/ın'gri-di-ənt/",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This medicine contains only natural ingredients.",
-          "ar": "هذا الدواء يحتوي على مكونات طبيعية فقط."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_injured",
-      "en": "injured",
-      "ar": "أصابة / يؤذي / مصابة",
-      "pronunciation": "/'ın dzər/",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I injured my knee.",
-          "ar": "تعرضت لإصابة في ركبتي."
-        },
-        {
-          "en": "My injured knee hurts.",
-          "ar": "ركبتي المصابة تؤلمني."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_innocent",
-      "en": "innocent",
-      "ar": "أبرياء / بريء",
-      "pronunciation": "/'ın əsənt/",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Some innocent people were killed.",
-          "ar": "قُتل بعض الأبرياء."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_intelligence",
-      "en": "intelligence",
-      "ar": "ذكاء",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We should control the intelligence of machines.",
-          "ar": "يجب أن نتحكم في ذكاء الآلات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_intend",
-      "en": "intend",
-      "ar": "ينوي",
-      "pronunciation": "/ın tend/",
-      "lessonId": "lsn_b1_i_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I intend to learn a foreign language this year.",
-          "ar": "أنا أنوي تعلم لغة أجنبية هذا العام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈɪndɪkeɪts/"
     }
   ]
 }

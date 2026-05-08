@@ -1,0 +1,493 @@
+{
+  "id": "lsn_b2_p_4",
+  "levelId": "lvl_b2",
+  "title": "Unit 41: P Words - Part 4",
+  "slug": "p-words-4",
+  "order": 41,
+  "wordCount": 20,
+  "titleAr": "الوحدة 41: كلمات حرف P - الجزء 4",
+  "description": "Master essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_b2_principal",
+      "en": "principal",
+      "ar": "شاغلها الرئيسي",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Health is her principal concern at the moment.",
+          "ar": "الصحة هي شاغلها الرئيسي في الوقت الحالي."
+        },
+        {
+          "en": "طُلب للمثول في مكتب مدير المدرسة",
+          "ar": "The principal reason for the delay was the bad weather."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɪnsəpəl/"
+    },
+    {
+      "id": "w_b2_principle",
+      "en": "principle",
+      "ar": "مبدأ",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The principle of honesty is essential for success.",
+          "ar": "مبدأ الصدق ضروري للنجاح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɪnsəpəl/"
+    },
+    {
+      "id": "w_b2_prior",
+      "en": "prior",
+      "ar": "سابقة",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I had no prior experience in management.",
+          "ar": "لم تكن لدي أي خبرة سابقة في الإدارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹaɪɚ/"
+    },
+    {
+      "id": "w_b2_priority",
+      "en": "priority",
+      "ar": "أولوية",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Education is a priority for the new government.",
+          "ar": "يعتبر التعليم أولوية بالنسبة للحكومة الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹaɪˈɒɹɨti/"
+    },
+    {
+      "id": "w_b2_privacy",
+      "en": "privacy",
+      "ar": "الخصوصية",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Privacy settings can protect your information online.",
+          "ar": "إعدادات الخصوصية يمكن أن تحمي معلوماتك على الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹaɪv.ə.sɪ/"
+    },
+    {
+      "id": "w_b2_probability",
+      "en": "probability",
+      "ar": "احتمالية",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The probability of failure seems lower than expected.",
+          "ar": "تبدو احتمالية الفشل أقل من المتوقع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɒbəˈbɪlɪti/"
+    },
+    {
+      "id": "w_b2_probable",
+      "en": "probable",
+      "ar": "المحتملة",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The probable strategy requires some extra resources.",
+          "ar": "تتطلب الاستراتيجية المحتملة بعض الموارد الإضافية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɒbəbl̩/"
+    },
+    {
+      "id": "w_c1_procedure",
+      "en": "procedure",
+      "ar": "إجراء",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "تمتلك الشركة إجراءً صارماً للتعامل مع الشكاوى",
+          "ar": "The medical procedure took about two hours."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈsiːdʒə/"
+    },
+    {
+      "id": "w_b2_procedures",
+      "en": "procedures",
+      "ar": "الإجراءات",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The legal procedures for divorce can be complex.",
+          "ar": "قد تكون الإجراءات القانونية للطلاق معقدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈsiːdʒəs/"
+    },
+    {
+      "id": "w_b2_proceed",
+      "en": "proceed",
+      "ar": "يستمر",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He chose not to proceed with the medical treatment.",
+          "ar": "وقد اختار أن لا يستمر في العلاج الطبي."
+        },
+        {
+          "en": "نحن مستعدون للشروع في الخطة",
+          "ar": "The passengers were told to proceed to the gate."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈsiːd/"
+    },
+    {
+      "id": "w_b2_professionals",
+      "en": "professionals",
+      "ar": "المختصين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They hired several professionals for the consulting team.",
+          "ar": "قاموا بتعيين العديد من المختصين في الفريق الاستشاري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_programming",
+      "en": "programming",
+      "ar": "البرمجة",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He's been learning programming for the past year.",
+          "ar": "لقد كان يتعلم البرمجة خلال العام الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹəʊɡɹəmɪŋ/"
+    },
+    {
+      "id": "w_b2_progress",
+      "en": "progress",
+      "ar": "التقدم / تقدمه",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His overall progress has been very impressive.",
+          "ar": "كان تقدمه بشكل عام رائعًا للغاية."
+        },
+        {
+          "en": "We need to progress further before the deadline.",
+          "ar": "نحن بحاجة إلى التقدم أكثر قبل الموعد النهائي."
+        },
+        {
+          "en": "I think you are making progress.",
+          "ar": "أعتقد أنك تحرز تقدمًا."
+        },
+        {
+          "en": "يحرز الطلاب تقدماً جيداً في دراستهم",
+          "ar": "Work is in progress on the new bridge."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "A2",
+        "core",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɒɡɹɛs/"
+    },
+    {
+      "id": "w_b2_progressive",
+      "en": "progressive",
+      "ar": "التقدمية",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I prefer progressive strategies to solve complex problems.",
+          "ar": "أنا أفضل الاستراتيجيات التقدمية لحل المشاكل المعقدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈɡɹɛsɪv/"
+    },
+    {
+      "id": "w_b2_prohibits",
+      "en": "prohibits",
+      "ar": "يحظر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The new law prohibits smoking in government offices.",
+          "ar": "القانون الجديد يحظر التدخين في المصالح الحكومية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_promising",
+      "en": "promising",
+      "ar": "واعد",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She has a promising future in medicine.",
+          "ar": "لديها مستقبل واعد في مجال الطب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɒmɪsɪŋ/"
+    },
+    {
+      "id": "w_b2_promotion",
+      "en": "promotion",
+      "ar": "ترقيته",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His promotion to manager surprised everyone.",
+          "ar": "لقد فاجأت ترقيته إلى منصب المدير الجميع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈməʊʃən/"
+    },
+    {
+      "id": "w_b2_prompt",
+      "en": "prompt",
+      "ar": "يدفعنا",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The warning should prompt us to act carefully.",
+          "ar": "يجب أن يدفعنا التحذير إلى التصرف بحذر."
+        },
+        {
+          "en": "دفع الحادث إلى مراجعة إجراءات السلامة",
+          "ar": "Thank you for your prompt reply."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɒmpt/"
+    },
+    {
+      "id": "w_b2_proof",
+      "en": "proof",
+      "ar": "إثباتًا",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She provided proof of her qualifications at work.",
+          "ar": "قدمت إثباتًا على مؤهلاتها في العمل."
+        },
+        {
+          "en": "الشرطة ليس لديها دليل على تورطه في الجريمة",
+          "ar": "Is there any proof that the product works?"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹʉːf/"
+    },
+    {
+      "id": "w_b2_proportion",
+      "en": "proportion",
+      "ar": "نسبة ضئيلة",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Only a tiny proportion of users experienced issues.",
+          "ar": "فقط نسبة ضئيلة من المستخدمين واجهت مشاكل."
+        },
+        {
+          "en": "زادت نسبة النساء في القوة العاملة",
+          "ar": "The punishment was out of proportion to the crime."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈpɔːʃən/"
+    }
+  ]
+}

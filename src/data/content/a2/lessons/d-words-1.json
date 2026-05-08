@@ -1,40 +1,14 @@
 {
   "id": "lsn_a2_d_1",
-  "levelId": "lvl_2",
-  "slug": "d-words-1",
+  "levelId": "lvl_a2",
   "title": "Unit 10: D Words - Part 1",
-  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter D.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف D.",
+  "slug": "d-words-1",
   "order": 10,
-  "wordCount": 25,
+  "wordCount": 23,
+  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف D.",
   "words": [
-    {
-      "id": "w_a2_cycle",
-      "en": "cycle",
-      "ar": "دراجة / يقود الدراجة",
-      "pronunciation": "/'saı kəl/",
-      "lessonId": "lsn_a2_d_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I cycle to work.",
-          "ar": "أنا أقود الدراجة إلى العمل :"
-        },
-        {
-          "en": "They completed their journey by cycle.",
-          "ar": "أكملوا رحلتهم بالدراجة :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_daily",
       "en": "daily",
@@ -47,13 +21,18 @@
         {
           "en": "Is that your daily routine ?",
           "ar": "هل ذلك هو روتينك اليومي : ؟"
+        },
+        {
+          "en": "I speak English daily.",
+          "ar": "أتحدث الإنجليزية يومياً."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -61,7 +40,6 @@
       "id": "w_a2_danger",
       "en": "danger",
       "ar": "خطر",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -77,35 +55,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_dark",
-      "en": "dark",
-      "ar": "ظلام",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_d_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Are you afraid of the dark?",
-          "ar": "هل تخاف من الظلام ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdeɪn.dʒə(ɹ)/"
     },
     {
       "id": "w_a2_data",
       "en": "data",
       "ar": "بيانات",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -121,13 +77,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdaetə/"
     },
     {
       "id": "w_a2_dead",
       "en": "dead",
       "ar": "متوفية",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -143,13 +99,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/diːd/"
     },
     {
       "id": "w_a2_deal",
       "en": "deal",
       "ar": "تتعامل مع",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -165,35 +121,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_dear",
-      "en": "dear",
-      "ar": "عزيزي / يا ويلي",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_d_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Oh dear !! I think I've lost my keys !!",
-          "ar": "ياويلي : !! : أعتقد أني أضعت مفاتيحي : !!"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/diːl/"
     },
     {
       "id": "w_a2_death",
       "en": "death",
       "ar": "موت",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -209,7 +143,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/diːθ/"
     },
     {
       "id": "w_a2_decision",
@@ -237,7 +172,6 @@
       "id": "w_a2_deep",
       "en": "deep",
       "ar": "عميق",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -245,15 +179,21 @@
         {
           "en": "The snow was very deep.",
           "ar": "كان الثلج عميقًا جدا :"
+        },
+        {
+          "en": "He used to live deep in the forest.",
+          "ar": "اعتاد أن يعيش في أعماق الغابة."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/diːp/"
     },
     {
       "id": "w_a2_definitely",
@@ -303,7 +243,6 @@
       "id": "w_a2_dentist",
       "en": "dentist",
       "ar": "طبيب الأسنان",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -319,13 +258,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdɛntɪst/"
     },
     {
       "id": "w_a2_department",
       "en": "department",
       "ar": "قسم",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -341,7 +280,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɪˈpɑːtm(ə)nt/"
     },
     {
       "id": "w_a2_depend",
@@ -391,7 +331,6 @@
       "id": "w_a2_designer",
       "en": "designer",
       "ar": "مصمم",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -407,7 +346,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɪˈzaɪnɚ/"
     },
     {
       "id": "w_a2_destroy",
@@ -454,28 +394,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_device",
-      "en": "device",
-      "ar": "جهاز",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_d_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This device doesn't work",
-          "ar": "هذا الجهاز لا يعمل :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_develop",
       "en": "develop",
       "ar": "تطور",
@@ -496,6 +414,28 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_device",
+      "en": "device",
+      "ar": "جهاز",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This device doesn't work",
+          "ar": "هذا الجهاز لا يعمل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/dəˈvaɪs/"
     },
     {
       "id": "w_a2_diary",
@@ -523,7 +463,6 @@
       "id": "w_a2_differently",
       "en": "differently",
       "ar": "بشكل مختلف",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -539,13 +478,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdifəɹəntli/"
     },
     {
       "id": "w_a2_digital",
       "en": "digital",
       "ar": "رقمية",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -561,7 +500,35 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdɪd͡ʒɪtəɫ/"
+    },
+    {
+      "id": "w_a2_direct",
+      "en": "direct",
+      "ar": "مباشرة",
+      "lessonId": "lsn_a2_d_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There is a direct flight from Cairo to Jeddah",
+          "ar": "هناك رحلة مباشرة من القاهرة إلى جدة."
+        },
+        {
+          "en": "You can now fly direct from Cairo to Sydney.",
+          "ar": "يمكنك الآن الطيران مباشرة من القاهرة إلى سيدني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "ipa": "/d(a)ɪˈɹɛkt/"
     }
   ]
 }

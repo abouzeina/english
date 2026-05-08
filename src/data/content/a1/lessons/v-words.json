@@ -1,0 +1,177 @@
+{
+  "id": "lsn_a1_v",
+  "levelId": "lvl_a1",
+  "title": "Unit 45: V Words",
+  "slug": "v-words",
+  "order": 45,
+  "wordCount": 7,
+  "titleAr": "الوحدة 45: كلمات حرف V",
+  "description": "Master essential A1 vocabulary starting with the letter V.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف V.",
+  "words": [
+    {
+      "id": "w_a1_vacation",
+      "lessonId": "lsn_a1_v",
+      "en": "vacation",
+      "translation": "إجازة",
+      "ar": "إجازة",
+      "pronunciation": "/ver ker fən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need a vacation soon.",
+          "ar": "أحتاج إلى إجازة عما قريب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_vegetables",
+      "lessonId": "lsn_a1_v",
+      "en": "vegetables",
+      "translation": "خضروات",
+      "ar": "خضروات",
+      "pronunciation": "/'vedz tə bəl, vedzə tə bəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I grow vegetables at home.",
+          "ar": "أزرع الخضروات في المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_very",
+      "lessonId": "lsn_a1_v",
+      "en": "very",
+      "translation": "جداً",
+      "ar": "جداً",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I am very tired today.",
+          "ar": "أنا متعب جداً اليوم."
+        },
+        {
+          "en": "He died in this very house years ago.",
+          "ar": "توفي في هذا المنزل ذاته منذ سنوات."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɛɹi/"
+    },
+    {
+      "id": "w_a1_video",
+      "lessonId": "lsn_a1_v",
+      "en": "video",
+      "translation": "فيديو",
+      "ar": "فيديو",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you see the video?",
+          "ar": "هل شاهدت الفيديو؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɪ.di.əʊ/"
+    },
+    {
+      "id": "w_a1_village",
+      "lessonId": "lsn_a1_v",
+      "en": "village",
+      "translation": "قرية",
+      "ar": "قرية",
+      "pronunciation": "/'vil Id3/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The village is very small.",
+          "ar": "القرية صغيرة جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_visit",
+      "lessonId": "lsn_a1_v",
+      "en": "visit",
+      "translation": "زار / زيارة",
+      "ar": "زار / زيارة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I visited my aunt last week.",
+          "ar": "لقد زرت عمتي الأسبوع الماضي."
+        },
+        {
+          "en": "We enjoyed the short visit.",
+          "ar": "استمتعنا بالزيارة القصيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɪzɪt/"
+    },
+    {
+      "id": "w_a1_visitor",
+      "lessonId": "lsn_a1_v",
+      "en": "visitor",
+      "translation": "زائر",
+      "ar": "زائر",
+      "pronunciation": "/'VIZ Itər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The visitor is waiting outside.",
+          "ar": "الزائر ينتظر في الخارج."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_m_2",
+  "levelId": "lvl_b2",
+  "slug": "m-words-2",
+  "title": "M Words - Part 2",
+  "titleAr": "كلمات حرف M - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter M.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف M.",
+  "order": 39,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_medal",
+      "en": "medal",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_medication",
+      "en": "medication",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_medium",
+      "en": "medium",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_melt",
+      "en": "melt",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_membership",
+      "en": "membership",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_memorable",
+      "en": "memorable",
+      "ar": "?? ????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_metaphor",
+      "en": "metaphor",
+      "ar": "?????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_military",
+      "en": "military",
+      "ar": "???????? / ?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mine",
+      "en": "mine",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_miner",
+      "en": "miner",
+      "ar": "???? ??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_minimum",
+      "en": "minimum",
+      "ar": "???? ??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_minister",
+      "en": "minister",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_minor",
+      "en": "minor",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_minority",
+      "en": "minority",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_miserable",
+      "en": "miserable",
+      "ar": "????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mission",
+      "en": "mission",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mistook",
+      "en": "mistook",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mixed",
+      "en": "mixed",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mode",
+      "en": "mode",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_model",
+      "en": "model",
+      "ar": "???? ???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_modest",
+      "en": "modest",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_modify",
+      "en": "modify",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_monitor",
+      "en": "monitor",
+      "ar": "???? ?????? / ?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_monster",
+      "en": "monster",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_monthly",
+      "en": "monthly",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

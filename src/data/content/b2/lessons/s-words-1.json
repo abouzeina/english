@@ -1,0 +1,609 @@
+{
+  "id": "lsn_b2_s_1",
+  "levelId": "lvl_b2",
+  "title": "Unit 46: S Words - Part 1",
+  "slug": "s-words-1",
+  "order": 46,
+  "wordCount": 25,
+  "titleAr": "الوحدة 46: كلمات حرف S - الجزء 1",
+  "description": "Master essential B2 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_b2_satellite",
+      "en": "satellite",
+      "ar": "القمر الصناعي",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A satellite can monitor weather patterns from above.",
+          "ar": "يمكن للقمر الصناعي مراقبة أنماط الطقس من الأعلى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsætəlaɪt/"
+    },
+    {
+      "id": "w_b2_satisfies",
+      "en": "satisfies",
+      "ar": "يرضيها / راضين / الرضا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Nothing satisfies her, she is always complaining.",
+          "ar": "لا شيء يرضيها، فهي دائمة الشكوى."
+        },
+        {
+          "en": "The teacher felt satisfaction seeing her students succeed.",
+          "ar": "شعرت المعلمة بالرضا عند رؤية طلابها ينجحون."
+        },
+        {
+          "en": "They were satisfied with the hotel's excellent service.",
+          "ar": "كانوا راضين عن خدمة الفندق الممتازة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_savings",
+      "en": "savings",
+      "ar": "مدخراتهم",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They built up their savings over several years.",
+          "ar": "قاموا بتجميع مدخراتهم على مدى عدة سنوات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈseɪvɪŋz/"
+    },
+    {
+      "id": "w_b2_scale",
+      "en": "scale",
+      "ar": "الميزان / نطاق",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company is growing on a large scale.",
+          "ar": "تنمو الشركة على نطاق واسع."
+        },
+        {
+          "en": "We had to weigh the apples on the scale.",
+          "ar": "كان علينا وزن التفاح على الميزان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/skeɪl/"
+    },
+    {
+      "id": "w_b2_scandal",
+      "en": "scandal",
+      "ar": "فضيحة",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was involved in a serious scandal recently.",
+          "ar": "لقد تورط في فضيحة خطيرة مؤخرًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈskændəl/"
+    },
+    {
+      "id": "w_b2_scare",
+      "en": "scare",
+      "ar": "أخيفك / الذعر",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I didn't mean to scare you earlier.",
+          "ar": "لم أقصد أن أخيفك سابقا."
+        },
+        {
+          "en": "The sudden crash caused a huge scare outside.",
+          "ar": "تسبب الحادث المفاجئ في حالة من الذعر الشديد في الخارج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/skɛə/"
+    },
+    {
+      "id": "w_b2_scenario",
+      "en": "scenario",
+      "ar": "السيناريو",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This scenario seems unlikely, but it's possible.",
+          "ar": "يبدو هذا السيناريو مستبعدا، لكنه ممكن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səˈneːɹi.əʉ/"
+    },
+    {
+      "id": "w_b2_scheme",
+      "en": "scheme",
+      "ar": "خطة",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She came up with an effective marketing scheme.",
+          "ar": "لقد توصلت إلى خطة تسويقية فعالة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/skiːm/"
+    },
+    {
+      "id": "w_b2_scholar",
+      "en": "scholar",
+      "ar": "عالم",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is a scholar with a deep knowledge.",
+          "ar": "إنه عالم (و) لديه معرفة عميقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈskɒlə/"
+    },
+    {
+      "id": "w_b2_scholarship",
+      "en": "scholarship",
+      "ar": "المنحة الدراسية",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The scholarship covers all educational expenses.",
+          "ar": "تغطي المنحة الدراسية جميع النفقات التعليمية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈskɒləʃɪp/"
+    },
+    {
+      "id": "w_b2_scratch",
+      "en": "scratch",
+      "ar": "خدش / يخدش",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He used a coin to scratch the card.",
+          "ar": "لقد استخدم عملة معدنية كي يخدش الكرت."
+        },
+        {
+          "en": "She noticed a scratch on her laptop screen.",
+          "ar": "لاحظت وجود خدش على شاشة حاسوبها المحمول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/skɹætʃ/"
+    },
+    {
+      "id": "w_b2_scream",
+      "en": "scream",
+      "ar": "صراخه / صرخ",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He screamed in pain after hitting his knee.",
+          "ar": "صرخ من الألم بعد أن اصطدمت ركبته."
+        },
+        {
+          "en": "His scream woke up the neighbors.",
+          "ar": "صراخه أيقظ الجيران."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/skɹiːm/"
+    },
+    {
+      "id": "w_b2_screen",
+      "en": "screen",
+      "ar": "عرض / عرضاً",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They decided to screen the new film tomorrow.",
+          "ar": "قرروا عرض الفلم الجديد غدًا."
+        },
+        {
+          "en": "They held a screening of the latest documentaries.",
+          "ar": "أقاموا عرضًا لأحدث الأفلام الوثائقية."
+        },
+        {
+          "en": "Ali had a flat screen TV.",
+          "ar": "كان لدى علي شاشة تليفزيون مسطحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/skɹiːn/"
+    },
+    {
+      "id": "w_b2_sector",
+      "en": "sector",
+      "ar": "قطاع",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The government supports the healthcare sector.",
+          "ar": "الحكومة تدعم قطاع الرعاية الصحية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛk.təɹ/"
+    },
+    {
+      "id": "w_b2_secure",
+      "en": "secure",
+      "ar": "آمن / تأمين",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The data is stored in a secure system.",
+          "ar": "يتم تخزين البيانات في نظام آمن."
+        },
+        {
+          "en": "We need to secure the network connection.",
+          "ar": "نحتاج إلى تأمين اتصال الشبكة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səˈkjɔː(ɹ)/"
+    },
+    {
+      "id": "w_b2_seek",
+      "en": "seek",
+      "ar": "يبحث عن / طالب",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A knowledge seeker always asks many good questions.",
+          "ar": "طالب المعرفة دائمًا يسأل العديد من الأسئلة الجيدة."
+        },
+        {
+          "en": "He seeks the truth about his past.",
+          "ar": "إنه يبحث عن حقيقة ماضيه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/siːk/"
+    },
+    {
+      "id": "w_b2_select",
+      "en": "select",
+      "ar": "نختار",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We must select the best option carefully today.",
+          "ar": "يجب أن نختار الخيار الأفضل بعناية اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɪˈlɛkt/"
+    },
+    {
+      "id": "w_b2_selection",
+      "en": "selection",
+      "ar": "عملية الاختيار",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The selection process takes place every three months.",
+          "ar": "تتم عملية الاختيار كل ثلاثة أشهر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səˈlɛkʃən/"
+    },
+    {
+      "id": "w_b2_self",
+      "en": "self",
+      "ar": "نفسه",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He finally found his confident old self again.",
+          "ar": "وأخيرًا استعاد نفسه القديمة الواثقة من جديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɛlf/"
+    },
+    {
+      "id": "w_b2_seminar",
+      "en": "seminar",
+      "ar": "حلقة دراسية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I attended a seminar on business management last week.",
+          "ar": "حضرت حلقة دراسية في إدارة الأعمال الأسبوع الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_senior",
+      "en": "senior",
+      "ar": "الأقدم",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The senior officer led the team with great experience.",
+          "ar": "قاد الضابط الأقدم الفريق بخبرة كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsiːnjə(r)/"
+    },
+    {
+      "id": "w_b2_sensitive",
+      "en": "sensitive",
+      "ar": "حساسة",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This document contains sensitive information.",
+          "ar": "يحتوي هذا المستند على معلومات حساسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛnsɪtɪv/"
+    },
+    {
+      "id": "w_b2_sequence",
+      "en": "sequence",
+      "ar": "تسلسل",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The sequence of steps must be followed carefully.",
+          "ar": "يجب اتباع تسلسل الخطوات بعناية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsiːkwəns/"
+    },
+    {
+      "id": "w_b2_session",
+      "en": "session",
+      "ar": "الجلسة التدريبية",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The training session will start at 10 a.m.",
+          "ar": "ستبدأ الجلسة التدريبية في الساعة 10 صباحاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛʃən/"
+    },
+    {
+      "id": "w_b2_settle",
+      "en": "settle",
+      "ar": "تحسم / تستقر",
+      "lessonId": "lsn_b2_s_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She tried to settle the argument between her friends.",
+          "ar": "لقد حاولت أن تحسم الجدال بين صديقاتها."
+        },
+        {
+          "en": "The birds settle on the tree branches every evening.",
+          "ar": "تستقر الطيور على أغصان الأشجار كل مساء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛtəl/"
+    }
+  ]
+}

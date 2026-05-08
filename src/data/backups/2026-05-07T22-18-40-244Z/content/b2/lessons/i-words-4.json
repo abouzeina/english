@@ -1,0 +1,83 @@
+{
+  "id": "lsn_b2_i_4",
+  "levelId": "lvl_b2",
+  "slug": "i-words-4",
+  "title": "I Words - Part 4",
+  "titleAr": "كلمات حرف I - الجزء 4",
+  "description": "Learn essential B2 vocabulary starting with the letter I.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف I.",
+  "order": 24,
+  "wordCount": 3,
+  "words": [
+    {
+      "id": "w_b2_investor",
+      "en": "investor",
+      "ar": "مستثمر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is a successful real estate investor.",
+          "ar": "إنه مستثمر عقاري ناجح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_isolated",
+      "en": "isolated",
+      "ar": "معزولة / عزل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was isolated from the other prisoners right away.",
+          "ar": "لقد تم عزله عن السجناء الآخرين على الفور."
+        },
+        {
+          "en": "The island remained isolated during storms.",
+          "ar": "ظلت الجزيرة معزولة أثناء العواصف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_issued",
+      "en": "issued",
+      "ar": "أصدر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The professor issued a new assignment.",
+          "ar": "أصدر البروفيسور تكليفاً جديداً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "id": "lsn_c1_s_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 38: S Words - Part 1",
+  "slug": "s-words-1",
+  "order": 38,
+  "wordCount": 25,
+  "titleAr": "الوحدة 38: كلمات حرف S - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_c1_sack",
+      "en": "sack",
+      "ar": "يقيل من العمل / كيس كبير",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمت إقالته من العمل لتأخره كل يوم",
+          "ar": "The farmers filled the sacks with potatoes."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sæk/"
+    },
+    {
+      "id": "w_c1_sacred",
+      "en": "sacred",
+      "ar": "مقدس",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعتبر البقرة حيواناً مقدساً في بعض الثقافات",
+          "ar": "This temple is a sacred place for many people."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈseɪkɹɪd/"
+    },
+    {
+      "id": "w_c1_sacrifice",
+      "en": "sacrifice",
+      "ar": "تضحية / يضحي",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "غالباً ما يقدم الآباء تضحيات كبيرة من أجل أطفالهم",
+          "ar": "He sacrificed a promising career to look after his sick mother."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsækɹɪfaɪs/"
+    },
+    {
+      "id": "w_c1_saint",
+      "en": "saint",
+      "ar": "قديس / شخص صالح جداً",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم تطويبها كقديسة لعملها مع الفقراء",
+          "ar": "You must be a saint to put up with his behavior."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sən(t)/"
+    },
+    {
+      "id": "w_c1_sake",
+      "en": "sake",
+      "ar": "أجل / مصلحة",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أنا أفعل هذا من أجلك",
+          "ar": "Let's stop arguing for the sake of the children."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/seɪk/"
+    },
+    {
+      "id": "w_c1_sanction",
+      "en": "sanction",
+      "ar": "عقوبة (دولية) / إذن رسمي",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "فرضت الأمم المتحدة عقوبات اقتصادية على البلاد",
+          "ar": "The project cannot proceed without official sanction."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsæŋkʃən/"
+    },
+    {
+      "id": "w_c1_scattered",
+      "en": "scattered",
+      "ar": "متناثر / متفرق",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت المستندات متناثرة في جميع أنحاء الأرضية",
+          "ar": "There will be scattered showers throughout the day."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈskætəd/"
+    },
+    {
+      "id": "w_c1_sceptical",
+      "en": "sceptical",
+      "ar": "متشكك",
+      "pronunciation": "ˈskeptɪkl",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الكثير من الناس متشككون في وعود الحكومة",
+          "ar": "He took a sceptical view of the whole situation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_scope",
+      "en": "scope",
+      "ar": "مجال / نطاق / مدى",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المشروع خارج نطاق هذه اللجنة",
+          "ar": "We need to limit the scope of the investigation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈskoʊp/"
+    },
+    {
+      "id": "w_c1_scrutiny",
+      "en": "scrutiny",
+      "ar": "فحص دقيق / تمحيص",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تخضع حسابات الشركة لفحص دقيق",
+          "ar": "Every detail of the plan was subjected to intense scrutiny."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈskɹuː.tɪ.ni/"
+    },
+    {
+      "id": "w_c1_seal",
+      "en": "seal",
+      "ar": "يختم / يغلق بإحكام / فقمة",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا تنسَ ختم (إغلاق) المظروف قبل إرساله بالبريد",
+          "ar": "The agreement was sealed with a handshake."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/siːl/"
+    },
+    {
+      "id": "w_c1_secular",
+      "en": "secular",
+      "ar": "علماني / دنيوي",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمتلك الدولة حكومة علمانية",
+          "ar": "The school provides a secular education."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛkjʊlə/"
+    },
+    {
+      "id": "w_c1_seemingly",
+      "en": "seemingly",
+      "ar": "ظاهرياً / يبدو أن",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت المهمة ظاهرياً مستحيلة في البداية",
+          "ar": "He was seemingly unhurt by the accident."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsiːmɪŋli/"
+    },
+    {
+      "id": "w_c1_segment",
+      "en": "segment",
+      "ar": "جزء / قطاع / شريحة",
+      "pronunciation": "ˈseɡmənt",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "البرتقالة مقسمة لعدة فصوص (أجزاء)",
+          "ar": "The market is divided into different consumer segments."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_seize",
+      "en": "seize",
+      "ar": "يصادر / ينتهز / يقبض على",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صادرت الشرطة كمية كبيرة من المخدرات غير القانونية",
+          "ar": "You should seize every opportunity to learn."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/siːz/"
+    },
+    {
+      "id": "w_c1_seldom",
+      "en": "seldom",
+      "ar": "نادراً",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نادراً ما أذهب للسينما هذه الأيام",
+          "ar": "The two brothers seldom see each other."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛldəm/"
+    },
+    {
+      "id": "w_c1_selective",
+      "en": "selective",
+      "ar": "انتقائي",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "المدرسة انتقائية جداً بشأن من تقبلهم",
+          "ar": "You need to be more selective in your choice of friends."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səˈlɛktɪv/"
+    },
+    {
+      "id": "w_c1_senator",
+      "en": "senator",
+      "ar": "عضو مجلس شيوخ",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صوت عضو مجلس الشيوخ ضد مشروع قانون الضرائب الجديد",
+          "ar": "He has been a senator for over twenty years."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛn.ə.tə/"
+    },
+    {
+      "id": "w_c1_sensation",
+      "en": "sensation",
+      "ar": "إحساس / ضجة / شعور",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان لدي إحساس غريب بأنني مراقب",
+          "ar": "The new movie caused a sensation across the country."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɛnˈseɪʃən/"
+    },
+    {
+      "id": "w_c1_sensitivity",
+      "en": "sensitivity",
+      "ar": "حساسية / سرعة تأثر",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الجلد لديه حساسية عالية لأشعة الشمس",
+          "ar": "The teacher showed great sensitivity to the student's problems."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌsɛnsɪˈtɪvɪti/"
+    },
+    {
+      "id": "w_c1_sentiment",
+      "en": "sentiment",
+      "ar": "عاطفة / رأي / شعور",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الشعور العام يعارض الحرب بشدة",
+          "ar": "The speech was full of religious sentiment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛn.tɪ.mənt/"
+    },
+    {
+      "id": "w_c1_separation",
+      "en": "separation",
+      "ar": "انفصال / فصل",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أدى انفصال الدولتين إلى نزاع",
+          "ar": "The church supports the separation of church and state."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɛpəˈɹeɪʃən/"
+    },
+    {
+      "id": "w_c1_serial",
+      "en": "serial",
+      "ar": "متسلسل / مسلسل",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تبحث الشرطة عن قاتل متسلسل",
+          "ar": "The story was published as a serial in the local newspaper."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɪəɹiːəɫ/"
+    },
+    {
+      "id": "w_c1_set_up",
+      "en": "set-up",
+      "ar": "إعداد / نظام / بنية",
+      "pronunciation": "ˈset ʌp",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان إعداد التجربة معقداً للغاية",
+          "ar": "I'm not happy with the current set-up of the office."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_settlement",
+      "en": "settlement",
+      "ar": "تسوية / مستوطنة / تجمع سكني",
+      "lessonId": "lsn_c1_s_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توصل الطرفان لتسوية قانونية خارج المحكمة",
+          "ar": "Archaeologists discovered an ancient settlement near the river."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈset.l.mənt/"
+    }
+  ]
+}

@@ -1,26 +1,60 @@
 {
   "id": "lsn_a1_b_2",
-  "levelId": "lvl_1",
-  "title": "B Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 4: B Words - Part 2",
   "slug": "b-words-2",
   "order": 4,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف B - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter B.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف B.",
+  "wordCount": 21,
+  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف B.",
   "words": [
     {
-      "id": "w_a1_best",
+      "id": "w_a1_believe",
       "lessonId": "lsn_a1_b_2",
-      "en": "best",
-      "translation": "أفضل",
-      "ar": "أفضل",
-      "pronunciation": "",
+      "en": "believe",
+      "translation": "يصدق / يؤمن",
+      "ar": "يصدق / يؤمن",
+      "pronunciation": "/bi'liv/",
       "type": "word",
       "examples": [
         {
-          "en": "You are the best teacher.",
-          "ar": "أنت أفضل معلم."
+          "en": "I don't believe you.",
+          "ar": "أنا لا أصدقك."
+        },
+        {
+          "en": "Believe me it's going to be okay.",
+          "ar": "صدقني سيكون كل شيء على ما يرام."
+        },
+        {
+          "en": "I believe this is true.",
+          "ar": "أنا أؤمن بأن هذا صحيح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_below",
+      "lessonId": "lsn_a1_b_2",
+      "en": "below",
+      "translation": "تحت / بالأسفل",
+      "ar": "تحت / بالأسفل",
+      "pronunciation": "/br'lou/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The book is below the table.",
+          "ar": "الكتاب تحت الطاولة."
+        },
+        {
+          "en": "I left my bicycle below.",
+          "ar": "تركت دراجتي بالأسفل."
         }
       ],
       "difficulty": "A1",
@@ -43,12 +77,22 @@
         {
           "en": "We want a better plan.",
           "ar": "نريد خطة أفضل من هذه."
+        },
+        {
+          "en": "You remember it better than I do",
+          "ar": "أنت تتذكر ذلك بشكل أفضل مني ."
+        },
+        {
+          "en": "It is the better of the two cars.",
+          "ar": "إنها أفضل السيارتين."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2",
+        "B1"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -65,12 +109,17 @@
         {
           "en": "The keys fell between the two chairs.",
           "ar": "سقطت المفاتيح بين الكرسيين."
+        },
+        {
+          "en": "Everything was black or white. There was nothing between.",
+          "ar": "كان كل شيء أسود أو أبيض. لم يكن هناك شيء في الوسط"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -81,7 +130,6 @@
       "en": "bicycle",
       "translation": "دراجة هوائية",
       "ar": "دراجة هوائية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -95,7 +143,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbaɪsɪkl̩/"
     },
     {
       "id": "w_a1_big",
@@ -103,7 +152,6 @@
       "en": "big",
       "translation": "كبير",
       "ar": "كبير",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -117,7 +165,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɪɡ/"
     },
     {
       "id": "w_a1_bike",
@@ -125,7 +174,6 @@
       "en": "bike",
       "translation": "دراجة",
       "ar": "دراجة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -139,7 +187,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/[bɐɪk]/"
     },
     {
       "id": "w_a1_bill",
@@ -147,21 +196,27 @@
       "en": "bill",
       "translation": "فاتورة",
       "ar": "فاتورة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I paid the water bill yesterday.",
           "ar": "لقد سددت فاتورة المياه بالأمس."
+        },
+        {
+          "en": "We will bill you later.",
+          "ar": "سوف نقوم بإصدار الفاتورة لك لاحقا."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɪl/"
     },
     {
       "id": "w_a1_bird",
@@ -169,7 +224,6 @@
       "en": "bird",
       "translation": "طائر",
       "ar": "طائر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -183,7 +237,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɜd/"
     },
     {
       "id": "w_a1_birthday",
@@ -213,7 +268,6 @@
       "en": "black",
       "translation": "أسود",
       "ar": "أسود",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -227,7 +281,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/blak/"
     },
     {
       "id": "w_a1_blogs",
@@ -283,7 +338,6 @@
       "en": "blue",
       "translation": "أزرق",
       "ar": "أزرق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -297,7 +351,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bluː/"
     },
     {
       "id": "w_a1_boat",
@@ -305,7 +360,6 @@
       "en": "boat",
       "translation": "قارب",
       "ar": "قارب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -319,7 +373,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bəʊt/"
     },
     {
       "id": "w_a1_body",
@@ -327,7 +382,6 @@
       "en": "body",
       "translation": "جسم / جسد",
       "ar": "جسم / جسد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -341,7 +395,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɒdi/"
     },
     {
       "id": "w_a1_book",
@@ -349,7 +404,6 @@
       "en": "book",
       "translation": "كتاب",
       "ar": "كتاب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -359,15 +413,21 @@
         {
           "en": "This book is really boring.",
           "ar": "هذا الكتاب ممل حقًا."
+        },
+        {
+          "en": "He booked a flight to Jeddah.",
+          "ar": "حجز رحلة إلى جدة"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/buːk/"
     },
     {
       "id": "w_a1_boots",
@@ -375,7 +435,6 @@
       "en": "boots",
       "translation": "أحذية / جزمة / بوت",
       "ar": "أحذية / جزمة / بوت",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -389,7 +448,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/buːts/"
     },
     {
       "id": "w_a1_bored",
@@ -397,7 +457,6 @@
       "en": "bored",
       "translation": "يشعر بالملل",
       "ar": "يشعر بالملل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -411,7 +470,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/bɔːd/"
     },
     {
       "id": "w_a1_boring",
@@ -419,7 +479,6 @@
       "en": "boring",
       "translation": "ممل",
       "ar": "ممل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -433,7 +492,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɔːɹɪŋ/"
     },
     {
       "id": "w_a1_born",
@@ -441,7 +501,6 @@
       "en": "born",
       "translation": "ولد",
       "ar": "ولد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -455,117 +514,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_both",
-      "lessonId": "lsn_a1_b_2",
-      "en": "both",
-      "translation": "كلاهما",
-      "ar": "كلاهما",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "They both enjoy swimming.",
-          "ar": "كلاهما يستمتعان بالسباحة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_bottle",
-      "lessonId": "lsn_a1_b_2",
-      "en": "bottle",
-      "translation": "قارورة / زجاجة",
-      "ar": "قارورة / زجاجة",
-      "pronunciation": "/'ba təl/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I need to buy a bottle of water.",
-          "ar": "أحتاج لشراء قارورة ماء."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_box",
-      "lessonId": "lsn_a1_b_2",
-      "en": "box",
-      "translation": "علبة / صندوق",
-      "ar": "علبة / صندوق",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Can I open the box?",
-          "ar": "هل يمكنني فتح العلبة؟"
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_boy",
-      "lessonId": "lsn_a1_b_2",
-      "en": "boy",
-      "translation": "صبي / ولد",
-      "ar": "صبي / ولد",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I saw a boy riding his bicycle.",
-          "ar": "رأيت صبيًا يركب دراجته الهوائية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_boyfriend",
-      "lessonId": "lsn_a1_b_2",
-      "en": "boyfriend",
-      "translation": "عشيق / حبيب",
-      "ar": "عشيق / حبيب",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "She doesn't have a boyfriend.",
-          "ar": "ليس لديها حبيب."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈbɔːn/"
     }
   ]
 }

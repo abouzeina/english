@@ -1,36 +1,14 @@
 {
   "id": "lsn_a2_t_1",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 39: T Words - Part 1",
   "slug": "t-words-1",
-  "title": "Unit 40: T Words - Part 1",
-  "titleAr": "الوحدة 40: كلمات حرف T - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter T.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف T.",
-  "order": 40,
-  "wordCount": 25,
+  "order": 39,
+  "wordCount": 19,
+  "titleAr": "الوحدة 39: كلمات حرف T - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف T.",
   "words": [
-    {
-      "id": "w_a2_system",
-      "en": "system",
-      "ar": "نظام",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_t_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The system is working well",
-          "ar": "النظام يعمل بشكل جيد :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_tablet",
       "en": "tablet",
@@ -43,28 +21,6 @@
         {
           "en": "Ahmed has an Android tablet.",
           "ar": "أحمد لديه جهاز لوحي يعمل بنظام أندرويد"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_talk",
-      "en": "talk",
-      "ar": "محاضرة",
-      "pronunciation": "/ta:k/",
-      "lessonId": "lsn_a2_t_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He gave a talk about Islam.",
-          "ar": "ألقى محاضرة عن الإسلام :"
         }
       ],
       "type": "word",
@@ -101,7 +57,6 @@
       "id": "w_a2_task",
       "en": "task",
       "ar": "مهمة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_t_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -117,7 +72,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/tɑːsk/"
     },
     {
       "id": "w_a2_taste",
@@ -149,7 +105,6 @@
       "id": "w_a2_teaching",
       "en": "teaching",
       "ar": "تدريس",
-      "pronunciation": "",
       "lessonId": "lsn_a2_t_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -165,7 +120,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈtiːtʃɪŋ/"
     },
     {
       "id": "w_a2_technology",
@@ -179,28 +135,6 @@
         {
           "en": "Modern technology gives us many things",
           "ar": "التكنولوجيا الحديثة تعطينا أشياء كثيرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_teenager",
-      "en": "teenager",
-      "ar": "مراهق",
-      "pronunciation": "/'ti:ner.dze-/",
-      "lessonId": "lsn_a2_t_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Teenager boys love playing video games.",
-          "ar": "يحب الأولاد المراهقون لعب ألعاب الفيديو."
         }
       ],
       "type": "word",
@@ -237,7 +171,6 @@
       "id": "w_a2_term",
       "en": "term",
       "ar": "مصطلح",
-      "pronunciation": "",
       "lessonId": "lsn_a2_t_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -253,29 +186,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_text",
-      "en": "text",
-      "ar": "يراسل",
-      "pronunciation": "/tekst/",
-      "lessonId": "lsn_a2_t_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Text me when you are home",
-          "ar": "راسلني عندما تكون بالمنزل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/tɜːm/"
     },
     {
       "id": "w_a2_themselves",
@@ -325,7 +237,6 @@
       "id": "w_a2_thin",
       "en": "thin",
       "ar": "رقيقة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_t_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -341,7 +252,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈθɪn/"
     },
     {
       "id": "w_a2_thinking",
@@ -355,28 +267,6 @@
         {
           "en": "This topic needs a lot of deep thinking.",
           "ar": "هذا الموضوع يحتاج إلى الكثير من التفكير العميق."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_third",
-      "en": "third",
-      "ar": "أثلاث",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_t_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She divided the money into thirds.",
-          "ar": "هي قسمت المال إلى أثلاث."
         }
       ],
       "type": "word",
@@ -543,35 +433,19 @@
         {
           "en": "Look at the top of that tree.",
           "ar": "انظر إلى رأس تلك الشجرة :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_touch",
-      "en": "touch",
-      "ar": "يلمس",
-      "pronunciation": "/txt/",
-      "lessonId": "lsn_a2_t_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "Don't touch anything here",
-          "ar": "لا تلمس أي شيء هنا :"
+          "en": "من المتوقع أن تتجاوز مبيعات الشركة مليار دولار.",
+          "ar": "She topped the class in the final exam."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high"
     }

@@ -1,0 +1,611 @@
+{
+  "id": "lsn_a1_t_1",
+  "levelId": "lvl_1",
+  "title": "T Words - Part 1",
+  "slug": "t-words-1",
+  "order": 40,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف T - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter T.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف T.",
+  "words": [
+    {
+      "id": "w_a1_swim",
+      "lessonId": "lsn_a1_t_1",
+      "en": "swim",
+      "translation": "يسبح / سباحة / سبح",
+      "ar": "يسبح / سباحة / سبح",
+      "pronunciation": "/swæm/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I can swim fast.",
+          "ar": "يمكنني السباحة بسرعة."
+        },
+        {
+          "en": "Swimming is my favorite hobby.",
+          "ar": "السباحة هي هوايتي المفضلة."
+        },
+        {
+          "en": "We swam in the sea.",
+          "ar": "سبحنا في البحر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_t_shirts",
+      "lessonId": "lsn_a1_t_1",
+      "en": "T-shirts",
+      "translation": "قمصان (تي شيرت)",
+      "ar": "قمصان (تي شيرت)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I bought two new T-shirts.",
+          "ar": "اشتريت قميصين جديدين."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_table",
+      "lessonId": "lsn_a1_t_1",
+      "en": "table",
+      "translation": "طاولة",
+      "ar": "طاولة",
+      "pronunciation": "/'ter bəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She cleaned the table.",
+          "ar": "قامت بتنظيف الطاولة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_take",
+      "lessonId": "lsn_a1_t_1",
+      "en": "take",
+      "translation": "يأخذ / يلتقط / يستغرق / أخذ (استقل)",
+      "ar": "يأخذ / يلتقط / يستغرق / أخذ (استقل)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Take this bag with you.",
+          "ar": "خذ هذه الحقيبة معك."
+        },
+        {
+          "en": "She takes great photos.",
+          "ar": "إنها تلتقط صوراً رائعة."
+        },
+        {
+          "en": "Success takes time.",
+          "ar": "النجاح يستغرق وقتاً."
+        },
+        {
+          "en": "I took a taxi home.",
+          "ar": "استقليت سيارة أجرة إلى المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_talk",
+      "lessonId": "lsn_a1_t_1",
+      "en": "talk",
+      "translation": "يتحدث",
+      "ar": "يتحدث",
+      "pronunciation": "/tok/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like to talk to you.",
+          "ar": "أحب أن أتحدث معك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_tall",
+      "lessonId": "lsn_a1_t_1",
+      "en": "tall",
+      "translation": "طويل",
+      "ar": "طويل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That building is tall.",
+          "ar": "ذلك المبنى طويل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_tea",
+      "lessonId": "lsn_a1_t_1",
+      "en": "tea",
+      "translation": "شاي",
+      "ar": "شاي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I drink tea every morning.",
+          "ar": "أنا أشرب الشاي كل صباح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_teach",
+      "lessonId": "lsn_a1_t_1",
+      "en": "teach",
+      "translation": "يدرس / يعلم / معلم",
+      "ar": "يدرس / يعلم / معلم",
+      "pronunciation": "/titf/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She teaches us history.",
+          "ar": "إنها تدرسنا التاريخ."
+        },
+        {
+          "en": "Can you teach me that?",
+          "ar": "هل يمكنك أن تعلمني ذلك؟"
+        },
+        {
+          "en": "The new teacher is friendly.",
+          "ar": "المدرس الجديد ودود."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_team",
+      "lessonId": "lsn_a1_t_1",
+      "en": "team",
+      "translation": "فريق",
+      "ar": "فريق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Our team won the game.",
+          "ar": "فاز فريقنا بالمباراة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_teenager",
+      "lessonId": "lsn_a1_t_1",
+      "en": "teenager",
+      "translation": "مراهق",
+      "ar": "مراهق",
+      "pronunciation": "/'ti ner dzər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My son is a teenager now.",
+          "ar": "ابني مراهق الآن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_telephone",
+      "lessonId": "lsn_a1_t_1",
+      "en": "telephone",
+      "translation": "هاتف / يتصل",
+      "ar": "هاتف / يتصل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The telephone is on the table.",
+          "ar": "الهاتف على الطاولة."
+        },
+        {
+          "en": "I will telephone you later.",
+          "ar": "سأتصل بك لاحقاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_television",
+      "lessonId": "lsn_a1_t_1",
+      "en": "television",
+      "translation": "تلفاز",
+      "ar": "تلفاز",
+      "pronunciation": "/'tel ə vız ən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The television is on.",
+          "ar": "التلفاز شغال."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_tell",
+      "lessonId": "lsn_a1_t_1",
+      "en": "tell",
+      "translation": "يخبر",
+      "ar": "يخبر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Tell us what happened.",
+          "ar": "أخبرنا بما حدث."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ten",
+      "lessonId": "lsn_a1_t_1",
+      "en": "ten",
+      "translation": "عشر",
+      "ar": "عشر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We waited ten minutes.",
+          "ar": "انتظرنا عشر دقائق."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_tennis",
+      "lessonId": "lsn_a1_t_1",
+      "en": "tennis",
+      "translation": "تنس",
+      "ar": "تنس",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I play tennis once a week.",
+          "ar": "ألعاب التنس مرة واحدة في الأسبوع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_terrible",
+      "lessonId": "lsn_a1_t_1",
+      "en": "terrible",
+      "translation": "سيء / مروع",
+      "ar": "سيء / مروع",
+      "pronunciation": "/ tera bal/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The weather is terrible today.",
+          "ar": "الطقس سيء اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_test",
+      "lessonId": "lsn_a1_t_1",
+      "en": "test",
+      "translation": "اختبار / يختبر",
+      "ar": "اختبار / يختبر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The test was very difficult.",
+          "ar": "كان الاختبار صعباً للغاية."
+        },
+        {
+          "en": "She wants to test her skills.",
+          "ar": "تريد أن تختبر مهاراتها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_text",
+      "lessonId": "lsn_a1_t_1",
+      "en": "text",
+      "translation": "نص",
+      "ar": "نص",
+      "pronunciation": "/tek/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The text is full of mistakes.",
+          "ar": "النص مليء بالأخطاء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_than",
+      "lessonId": "lsn_a1_t_1",
+      "en": "than",
+      "translation": "من (للمقارنة)",
+      "ar": "من (للمقارنة)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You run faster than me.",
+          "ar": "أنت تجري أسرع مني."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_thanks",
+      "lessonId": "lsn_a1_t_1",
+      "en": "thanks",
+      "translation": "شكر / شكراً",
+      "ar": "شكر / شكراً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We thanked him for coming.",
+          "ar": "شكرناه على قدومه."
+        },
+        {
+          "en": "Thanks for your help.",
+          "ar": "شكراً على مساعدتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_that",
+      "lessonId": "lsn_a1_t_1",
+      "en": "that",
+      "translation": "أن / ذلك / الذي",
+      "ar": "أن / ذلك / الذي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I hope that you feel better.",
+          "ar": "آمل أنك تشعر بتحسن."
+        },
+        {
+          "en": "That house looks really old.",
+          "ar": "ذلك المنزل يبدو قديماً جداً."
+        },
+        {
+          "en": "The shirt that you bought is nice.",
+          "ar": "القميص الذي اشتريته جميل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_the",
+      "lessonId": "lsn_a1_t_1",
+      "en": "the",
+      "translation": "الـ (أداة تعريف)",
+      "ar": "الـ (أداة تعريف)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Come in, the door is open.",
+          "ar": "ادخل، الباب مفتوح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_theatre",
+      "lessonId": "lsn_a1_t_1",
+      "en": "theatre",
+      "translation": "مسرح",
+      "ar": "مسرح",
+      "pronunciation": "/'ei.ə.to/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The theatre was full of people.",
+          "ar": "كان المسرح ممتلئاً بالناس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_their",
+      "lessonId": "lsn_a1_t_1",
+      "en": "their",
+      "translation": "هم (ضمير ملكية)",
+      "ar": "هم (ضمير ملكية)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Their team won the game.",
+          "ar": "فاز فريقهم بالمباراة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_them",
+      "lessonId": "lsn_a1_t_1",
+      "en": "them",
+      "translation": "هم (ضمير مفعول به)",
+      "ar": "هم (ضمير مفعول به)",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Tell them to come early.",
+          "ar": "أخبرهم أن يأتوا مبكراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "lsn_a2_j_1",
+  "levelId": "lvl_2",
+  "slug": "j-words-1",
+  "title": "Unit 21: J Words - Part 1",
+  "titleAr": "الوحدة 21: كلمات حرف J - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter J.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف J.",
+  "order": 21,
+  "wordCount": 6,
+  "words": [
+    {
+      "id": "w_a2_itself",
+      "en": "itself",
+      "ar": "نفسه",
+      "pronunciation": "/xt self/",
+      "lessonId": "lsn_a2_j_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "History repeats itself.",
+          "ar": "التاريخ يعيد نفسه :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_jam",
+      "en": "jam",
+      "ar": "مربى",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_j_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She made jam from the apples.",
+          "ar": "صنعت مربى من التفاح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_jazz",
+      "en": "jazz",
+      "ar": "جاز",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_j_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am very interested in jazz.",
+          "ar": "أنا مهتم جدًا بموسيقى الجاز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_jewelry",
+      "en": "jewelry",
+      "ar": "مجوهرات",
+      "pronunciation": "/dzu əl-ri/",
+      "lessonId": "lsn_a2_j_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She wears a lot of jewelry.",
+          "ar": "إنها ترتدي الكثير من المجوهرات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_joke",
+      "en": "joke",
+      "ar": "نكتة / أمزح",
+      "pronunciation": "/dzouk/",
+      "lessonId": "lsn_a2_j_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your joke is not funny",
+          "ar": "نكتك ليست مضحكة :"
+        },
+        {
+          "en": "I'm joking, of course.",
+          "ar": "أنا أمزح بالطبع :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_journalist",
+      "en": "journalist",
+      "ar": "صحفي",
+      "pronunciation": "/d33r nəl ist/",
+      "lessonId": "lsn_a2_j_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are you a journalist or a detective ?",
+          "ar": "هل أنت صحفي أم محقق : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

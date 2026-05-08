@@ -1,14 +1,172 @@
 {
   "id": "lsn_b1_r_2",
   "levelId": "lvl_b1",
+  "title": "Unit 30: R Words - Part 2",
   "slug": "r-words-2",
-  "title": "Unit 33: R Words - Part 2",
-  "titleAr": "الوحدة 33: كلمات حرف R - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with R.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف R.",
-  "order": 33,
-  "wordCount": 25,
+  "order": 30,
+  "wordCount": 17,
+  "titleAr": "الوحدة 30: كلمات حرف R - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف R.",
   "words": [
+    {
+      "id": "w_b1_relaxing",
+      "en": "relaxing",
+      "ar": "مريح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I spent a relaxing week in the fields.",
+          "ar": "قضيت أسبوعًا مريحًا في الحقول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_release",
+      "en": "release",
+      "ar": "يطلق سراح / إطلاق سراح",
+      "pronunciation": "/rx li:s/",
+      "lessonId": "lsn_b1_r_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "When will they release him from prison?",
+          "ar": "متى سوف يطلقون سراحه من السجن ؟"
+        },
+        {
+          "en": "We expect an early release.",
+          "ar": "نتوقع إطلاق سراح مبكر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_reliable",
+      "en": "reliable",
+      "ar": "موثوق به",
+      "pronunciation": "/rı laz.ə.bal/",
+      "lessonId": "lsn_b1_r_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need to employ a reliable person.",
+          "ar": "أحتاج إلى توظيف شخص موثوق به."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_religion",
+      "en": "religion",
+      "ar": "دين",
+      "pronunciation": "/rx'līdz.ən/",
+      "lessonId": "lsn_b1_r_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We don't talk about religion or politics here.",
+          "ar": "نحن لا نتحدث عن الدين أو السياسة هنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_religious",
+      "en": "religious",
+      "ar": "ديني",
+      "pronunciation": "/rī līdz.es/",
+      "lessonId": "lsn_b1_r_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need to improve religious education.",
+          "ar": "نحن بحاجة إلى تحسين التعليم الديني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_remain",
+      "en": "remain",
+      "ar": "تبقى",
+      "pronunciation": "/rx mein/",
+      "lessonId": "lsn_b1_r_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Prices will remain high this month.",
+          "ar": "الأسعار سوف تبقى مرتفعة هذا الشهر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_remind",
+      "en": "Remind",
+      "ar": "ذكرني",
+      "pronunciation": "/rı maind/",
+      "lessonId": "lsn_b1_r_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Remind me to invite Sami.",
+          "ar": "ذكرني أن أدعو سامي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_b1_remote",
       "en": "remote",
@@ -21,28 +179,6 @@
         {
           "en": "They live in a remote region.",
           "ar": "يعيشون في منطقة نائية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_rented",
-      "en": "rented",
-      "ar": "استأجرنا",
-      "pronunciation": "/'ren.tzd/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We rented an apartment in this neighborhood.",
-          "ar": "استأجرنا شقة في هذا الحي."
         }
       ],
       "type": "word",
@@ -76,6 +212,28 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_rented",
+      "en": "rented",
+      "ar": "استأجرنا",
+      "pronunciation": "/'ren.tzd/",
+      "lessonId": "lsn_b1_r_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We rented an apartment in this neighborhood.",
+          "ar": "استأجرنا شقة في هذا الحي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
       "id": "w_b1_repairs",
       "en": "repairs",
       "ar": "إصلاحات",
@@ -98,32 +256,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_repeat",
-      "en": "repeat",
-      "ar": "تكرار",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We should prevent a repeat of that attack.",
-          "ar": "يجب أن نمنع تكرار ذلك الهجوم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_repeated",
       "en": "repeated",
       "ar": "متكررة",
-      "pronunciation": "",
       "lessonId": "lsn_b1_r_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -139,7 +274,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɹɪˈpiːtɪd/"
     },
     {
       "id": "w_b1_represents",
@@ -241,330 +377,6 @@
         {
           "en": "There are a lot of educational resources on the internet.",
           "ar": "هناك الكثير من المصادر التعليمية على الإنترنت."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_respect",
-      "en": "respect",
-      "ar": "يحترم / حق / احترام",
-      "pronunciation": "/rx'spekt/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Please respect my right to disagree with you.",
-          "ar": "من فضلك احترم حقي في أن أختلف معك."
-        },
-        {
-          "en": "Show me some respect.",
-          "ar": "أظهر لي بعض الاحترام."
-        },
-        {
-          "en": "You have to treat others with respect.",
-          "ar": "عليك أن تعامل الآخرين باحترام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_responsibility",
-      "en": "responsibility",
-      "ar": "مسؤولية",
-      "pronunciation": "/rı spa:n.sə brl.ə.ti/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Organizing the crowd is your responsibility.",
-          "ar": "تنظيم الحشد هي مسؤوليتك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_responsible",
-      "en": "responsible",
-      "ar": "مسؤول",
-      "pronunciation": "/rr'spa:n.sə.bal/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Who is responsible for data quality?",
-          "ar": "من المسؤول عن جودة البيانات ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_resulted",
-      "en": "resulted",
-      "ar": "أدت إلى",
-      "pronunciation": "/rı zolt/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The campaign resulted in sales increases.",
-          "ar": "أدت الحملة إلى زيادة المبيعات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_retire",
-      "en": "retire",
-      "ar": "يتقاعد",
-      "pronunciation": "/rı tazer/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I expect he will retire soon.",
-          "ar": "أتوقع أنه سوف يتقاعد قريبًا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_retired",
-      "en": "retired",
-      "ar": "متقاعد",
-      "pronunciation": "/rı tazer/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "My father is a retired officer.",
-          "ar": "والدي ضابط متقاعد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_revise",
-      "en": "revise",
-      "ar": "يراجع",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I need to revise lesson number 4.",
-          "ar": "أحتاج أن أراجع الدرس رقم 4."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_rise",
-      "en": "rise",
-      "ar": "ارتفاع / يزداد",
-      "pronunciation": "/razz/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Egypt will experience a temperature rise next month.",
-          "ar": "ستشهد مصر ارتفاعًا في درجات الحرارة الشهر القادم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_risks",
-      "en": "risks",
-      "ar": "مخاطر / خاطر",
-      "pronunciation": "/rısk/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Try to avoid risks.",
-          "ar": "حاول تجنب المخاطر."
-        },
-        {
-          "en": "He risked his life to save me.",
-          "ar": "لقد خاطر بحياته لإنقاذي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_robots",
-      "en": "robots",
-      "ar": "روبوتات",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Humans sent robots to Mars.",
-          "ar": "أرسل البشر الروبوتات إلى المريخ."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_rolled",
-      "en": "rolled",
-      "ar": "تدحرجت / لفافات",
-      "pronunciation": "/roul/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The bag rolled down the hill.",
-          "ar": "تدحرجت الحقيبة أسفل التل."
-        },
-        {
-          "en": "Buy some toilet paper rolls.",
-          "ar": "اشتر بعض لفافات مناديل الحمام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_romantic",
-      "en": "romantic",
-      "ar": "رومانسية / عاطفي",
-      "pronunciation": "/rou mæn tık/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Do you read romantic novels?",
-          "ar": "هل تقرأ الروايات الرومانسية ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_rope",
-      "en": "rope",
-      "ar": "حبل",
-      "pronunciation": "/roup/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They tied my hands with rope.",
-          "ar": "ربطوا يدي بحبل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_rough",
-      "en": "rough",
-      "ar": "وعرة",
-      "pronunciation": "/raf/",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Don't sit on this rough ground.",
-          "ar": "لا تجلس على هذه الأرض الوعرة."
         }
       ],
       "type": "word",

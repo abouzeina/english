@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b1_d_1",
+  "levelId": "lvl_b1",
+  "slug": "d-words-1",
+  "title": "Unit 10: D Words - Part 1",
+  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with D.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف D.",
+  "order": 10,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_cut",
+      "en": "cut",
+      "ar": "جرح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He has a small cut on his foot.",
+          "ar": "لديه جرح صغير في قدمه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_daily",
+      "en": "daily",
+      "ar": "يومياً / بشكل يومي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I speak English daily.",
+          "ar": "أتحدث الإنجليزية يومياً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_damage",
+      "en": "damage",
+      "ar": "خسائر / أضرار",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The storm caused a lot of damage.",
+          "ar": "العاصفة أحدثت الكثير من الخسائر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_damaged",
+      "en": "damaged",
+      "ar": "تضرر",
+      "pronunciation": "/ dæm-1d3d/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The ship was not damaged.",
+          "ar": "السفينة لم تتضرر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_deals",
+      "en": "deals",
+      "ar": "اتفاقات / صفقات",
+      "pronunciation": "/dil/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We haven't made any deals yet.",
+          "ar": "لم نعقد أي اتفاق حتى الآن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_decades",
+      "en": "decades",
+      "ar": "عقود من الزمن",
+      "pronunciation": "/'dek erd/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "That happened decades ago.",
+          "ar": "حدث ذلك قبل عقود من الزمن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_decorating",
+      "en": "decorating",
+      "ar": "يزين",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am decorating the classroom.",
+          "ar": "أنا أزين حجرة الدراسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_deep",
+      "en": "deep",
+      "ar": "أعماق / عميق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He used to live deep in the forest.",
+          "ar": "اعتاد أن يعيش في أعماق الغابة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_define",
+      "en": "define",
+      "ar": "يعرف / يحدد معنى",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Certain words are hard to define.",
+          "ar": "هنالك كلمات معينة يصعب تعريفها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_definite",
+      "en": "definite",
+      "ar": "محدد / مؤكد",
+      "pronunciation": "/ def nxt/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Give me a definite answer now.",
+          "ar": "أعطني إجابة محددة الآن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_definition",
+      "en": "definition",
+      "ar": "تعريف",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Look up the definition of these terms.",
+          "ar": "ابحث عن تعريف هذه المصطلحات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_deliver",
+      "en": "deliver",
+      "ar": "يوصل / يسلم",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We can deliver it this evening.",
+          "ar": "يمكننا أن نوصلها هذا المساء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_departure",
+      "en": "departure",
+      "ar": "مغادرة",
+      "pronunciation": "/dı par tfər/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We are ready for departure.",
+          "ar": "نحن جاهزون للمغادرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_despite",
+      "en": "despite",
+      "ar": "على الرغم من / رغم",
+      "pronunciation": "/dı'spart/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He came, despite the heavy rain.",
+          "ar": "جاء على الرغم من هطول الأمطار الغزيرة."
+        },
+        {
+          "en": "He succeeded, despite the difficulties.",
+          "ar": "نجح رغم الصعوبات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_destination",
+      "en": "destination",
+      "ar": "وجهة",
+      "pronunciation": "/ des tə'nex fən/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They reached their destination.",
+          "ar": "وصلوا إلى وجهتهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_determine",
+      "en": "determine",
+      "ar": "يحدد",
+      "pronunciation": "/dr't3:.mn/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Determine your goals.",
+          "ar": "حدد أهدافك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_determined",
+      "en": "determined",
+      "ar": "عازم / مصمم",
+      "pronunciation": "/d1't3-:.mn/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Omar was determined to go there.",
+          "ar": "عمر كان عازما على الذهاب هناك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_development",
+      "en": "development",
+      "ar": "تطوير",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The development of this project has taken years.",
+          "ar": "تطوير هذا المشروع استغرق سنوات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_diagram",
+      "en": "diagram",
+      "ar": "رسم بياني",
+      "pronunciation": "/'daz.ə.græm/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are errors in your diagram.",
+          "ar": "توجد أخطاء في رسمك البياني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_diamond",
+      "en": "diamond",
+      "ar": "الماس",
+      "pronunciation": "/'daze.mənd/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He gave his wife a diamond ring.",
+          "ar": "أعطى زوجته خاتم الماس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_directing",
+      "en": "directing",
+      "ar": "يوجه",
+      "pronunciation": "/dı'rekt/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The police officer is directing traffic.",
+          "ar": "ضابط الشرطة يوجه حركة المرور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_direct",
+      "en": "direct",
+      "ar": "مباشر / مباشرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can now fly direct from Cairo to Sydney.",
+          "ar": "يمكنك الآن الطيران مباشرة من القاهرة إلى سيدني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_directly",
+      "en": "directly",
+      "ar": "مباشرة",
+      "pronunciation": "/direkt.li/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The road leads directly to the beach.",
+          "ar": "الطريق يؤدي مباشرة إلى الشاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_dirt",
+      "en": "dirt",
+      "ar": "أوساخ",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Soap helps remove the dirt.",
+          "ar": "الصابون يساعد على إزالة الأوساخ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_disadvantages",
+      "en": "disadvantages",
+      "ar": "عيوب",
+      "pronunciation": "/dis.əd væn.txd3/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "City life has advantages and disadvantages.",
+          "ar": "حياة المدينة لها مزايا وعيوب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b1_p_3",
+  "levelId": "lvl_b1",
+  "slug": "p-words-3",
+  "title": "Unit 29: P Words - Part 3",
+  "titleAr": "الوحدة 29: كلمات حرف P - الجزء 3",
+  "description": "Expand your intermediate vocabulary with words starting with P.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف P.",
+  "order": 29,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_presentation",
+      "en": "presentation",
+      "ar": "عرض تقديمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He spoke about three solutions in his presentation.",
+          "ar": "تحدث عن ثلاثة حلول في عرضه التقديمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_press",
+      "en": "Press",
+      "ar": "اضغط / صحافة",
+      "pronunciation": "/pres/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Press the button after writing the comment.",
+          "ar": "اضغط على الزر بعد كتابة التعليق."
+        },
+        {
+          "en": "The lecture was reported in the press.",
+          "ar": "نشرت المحاضرة في الصحف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pressure",
+      "en": "pressure",
+      "ar": "ضغوطا",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The company is facing pressure from the government.",
+          "ar": "الشركة تواجه ضغوطا من الحكومة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pretends",
+      "en": "pretends",
+      "ar": "يتظاهر",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He pretends that he can cycle.",
+          "ar": "يتظاهر بأنه يستطيع ركوب الدراجة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_previous",
+      "en": "previous",
+      "ar": "سابق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is the previous owner of this car.",
+          "ar": "هو المالك السابق لهذه السيارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_previously",
+      "en": "previously",
+      "ar": "سابقا",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I developed three mobile apps previously.",
+          "ar": "طورت ثلاثة تطبيقات للهاتف المحمول سابقا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_priest",
+      "en": "priest",
+      "ar": "كاهن",
+      "pronunciation": "/pri:st/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "When did the priest disappear?",
+          "ar": "متى اختفى الكاهن ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_primary",
+      "en": "primary",
+      "ar": "أساسي / أولي",
+      "pronunciation": "/'praz.mer.i/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our primary purpose is to help them.",
+          "ar": "هدفنا الأساسي هو مساعدتهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_prince",
+      "en": "prince",
+      "ar": "أمير",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I gave the document to the prince.",
+          "ar": "أعطيت الوثيقة للأمير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_princess",
+      "en": "princess",
+      "ar": "أميرة",
+      "pronunciation": "/przn.ses/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What type of education did the princess get?",
+          "ar": "ما نوع التعليم الذي حصلت عليه الأميرة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_printing",
+      "en": "printing",
+      "ar": "طباعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The invention of printing changed history.",
+          "ar": "اختراع الطباعة غير التاريخ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_prisoners",
+      "en": "prisoners",
+      "ar": "سجناء",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Some of our employees were prisoners.",
+          "ar": "بعض موظفينا كانوا سجناء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_private",
+      "en": "private",
+      "ar": "خاصة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't fish here this is a private lake.",
+          "ar": "لا تصطاد هنا هذه بحيرة خاصة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_producer",
+      "en": "producer",
+      "ar": "منتج",
+      "pronunciation": "/prə du:.so/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Kuwait is a major oil producer.",
+          "ar": "الكويت منتج رئيسي للنفط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_production",
+      "en": "production",
+      "ar": "إنتاج",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have to focus on production.",
+          "ar": "يجب علينا التركيز على الإنتاج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_profession",
+      "en": "profession",
+      "ar": "مهنة",
+      "pronunciation": "/prə fef.ən/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "decided to change my profession.",
+          "ar": "قررت تغيير مهنتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_profit",
+      "en": "profit",
+      "ar": "أرباح",
+      "pronunciation": "/'pra:.frt/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I hope I can raise my profit.",
+          "ar": "آمل أن أتمكن من زيادة أرباحي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_program",
+      "en": "program",
+      "ar": "يبرمج",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We will teach you how to program.",
+          "ar": "سوف نعلمك كيف تبرمج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_promote",
+      "en": "promote",
+      "ar": "يروج",
+      "pronunciation": "/pre mout/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We invented a new way to promote our products.",
+          "ar": "اخترعنا طريقة جديدة لنروج لمنتجاتنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_proper",
+      "en": "proper",
+      "ar": "مناسب / صحيح",
+      "pronunciation": "/pra:.pe/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We got the proper training.",
+          "ar": "لقد حصلنا على التدريب المناسب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_properly",
+      "en": "properly",
+      "ar": "كما ينبغي / بشكل صحيح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How can we do the job properly?",
+          "ar": "كيف يمكننا أداء العمل كما ينبغي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_property",
+      "en": "property",
+      "ar": "ملكية",
+      "pronunciation": "/'pra:.po-.ti/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This land is government property.",
+          "ar": "هذه الأرض هي ملكية حكومية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_protested",
+      "en": "protested",
+      "ar": "احتججنا",
+      "pronunciation": "/'prou.test/",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "In college we protested the war.",
+          "ar": "احتججنا في الكلية على الحرب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_protest",
+      "en": "protest",
+      "ar": "احتجاج",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We joined the protest movement.",
+          "ar": "انضممنا إلى الحركة الاحتجاج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_proud",
+      "en": "proud",
+      "ar": "فخور",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am proud of my work as a journalist.",
+          "ar": "أنا فخور بعملي كصحفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

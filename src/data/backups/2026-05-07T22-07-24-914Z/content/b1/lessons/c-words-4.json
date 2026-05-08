@@ -1,0 +1,325 @@
+{
+  "id": "lsn_b1_c_4",
+  "levelId": "lvl_b1",
+  "slug": "c-words-4",
+  "title": "Unit 9: C Words - Part 4",
+  "titleAr": "الوحدة 9: كلمات حرف C - الجزء 4",
+  "description": "Expand your intermediate vocabulary with words starting with C.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف C.",
+  "order": 9,
+  "wordCount": 14,
+  "words": [
+    {
+      "id": "w_b1_cotton",
+      "en": "cotton",
+      "ar": "قطن",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This towel is 100% Egyptian cotton.",
+          "ar": "هذه المنشفة من القطن المصري 100% ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_count",
+      "en": "count",
+      "ar": "عد / يحسب",
+      "pronunciation": "/kaunt/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Let me finish the count.",
+          "ar": "دعني أكمل العد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_countryside",
+      "en": "countryside",
+      "ar": "ريف",
+      "pronunciation": "/ kan-tri sard/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Every summer I go to the countryside.",
+          "ar": "كل صيف أذهب إلى الريف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_court",
+      "en": "court",
+      "ar": "محكمة",
+      "pronunciation": "/kort/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What was the court's decision?",
+          "ar": "ماذا كان قرار المحكمة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cover",
+      "en": "cover",
+      "ar": "غلاف / يغطي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I read the book from cover to cover.",
+          "ar": "قرأت الكتاب من الغلاف إلى الغلاف."
+        },
+        {
+          "en": "The wall was covered with pictures.",
+          "ar": "الجدار كان مغطى بالصور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cream",
+      "en": "cream",
+      "ar": "لون القشطة (كريمي)",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Why did you buy this cream carpet?",
+          "ar": "لماذا اشتريت هذه السجادة التي تشبه لون القشطة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_criminals",
+      "en": "criminals",
+      "ar": "مجرمين",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I think they're all criminals.",
+          "ar": "أعتقد أنهم جميعًا مجرمين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cruel",
+      "en": "cruel",
+      "ar": "قاسي / وحشي",
+      "pronunciation": "/'kru ǝl/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Life can be cruel sometimes.",
+          "ar": "الحياة يمكن أن تكون قاسية بعض الأحيان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cultural",
+      "en": "cultural",
+      "ar": "ثقافي",
+      "pronunciation": "/'kal-tfər-əl/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I was at a cultural event.",
+          "ar": "كنت في حدث ثقافي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_currency",
+      "en": "currency",
+      "ar": "عملة",
+      "pronunciation": "/ kar en-si/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Saudi currency is used here.",
+          "ar": "العملة السعودية مستخدمة هنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_current",
+      "en": "current",
+      "ar": "حالي",
+      "pronunciation": "/ karant/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's your current job?",
+          "ar": "ما هي وظيفتك الحالية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_currently",
+      "en": "currently",
+      "ar": "حالياً",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's the situation currently?",
+          "ar": "ما هو الوضع حاليا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_curtains",
+      "en": "curtains",
+      "ar": "ستائر",
+      "pronunciation": "/'k3r-tən/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The boy hid behind the curtains.",
+          "ar": "اختبأ الصبي خلف الستائر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_customs",
+      "en": "customs",
+      "ar": "عادات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These customs are different from our country's.",
+          "ar": "هذه العادات تختلف عن عادات بلادنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

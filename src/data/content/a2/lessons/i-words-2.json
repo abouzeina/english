@@ -1,14 +1,198 @@
 {
   "id": "lsn_a2_i_2",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 19: I Words - Part 2",
   "slug": "i-words-2",
-  "title": "Unit 20: I Words - Part 2",
-  "titleAr": "الوحدة 20: كلمات حرف I - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter I.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف I.",
-  "order": 20,
-  "wordCount": 7,
+  "order": 19,
+  "wordCount": 15,
+  "titleAr": "الوحدة 19: كلمات حرف I - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter I.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف I.",
   "words": [
+    {
+      "id": "w_a2_insect",
+      "en": "insect",
+      "ar": "حشرات",
+      "pronunciation": "/In-sekt/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His hobby is collecting insects.",
+          "ar": "هوايته هي جميع الحشرات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_inside",
+      "en": "inside",
+      "ar": "داخلي / داخل",
+      "pronunciation": "/ın said/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He broke the inside door.",
+          "ar": "هو كسر الباب الداخلي :"
+        },
+        {
+          "en": "I don't want to stay inside all day.",
+          "ar": "لا أريد البقاء بالداخل طوال اليوم :"
+        },
+        {
+          "en": "Look inside the box.",
+          "ar": "انظر داخل الصندوق :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_instead",
+      "en": "instead",
+      "ar": "بدلا من",
+      "pronunciation": "/in'sted/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I drink coffee instead of milk.",
+          "ar": "أشرب القهوة بدلاً من الحليب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_instruction",
+      "en": "instruction",
+      "ar": "تعليمات",
+      "pronunciation": "/ın strak fən/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Follow the instructions.",
+          "ar": "اتبع التعليمات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_instructor",
+      "en": "instructor",
+      "ar": "مدرب / معلم",
+      "pronunciation": "/ın strak-tər/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is a driving instructor.",
+          "ar": "علي مدرب قيادة : مُعَلَّم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_instrument",
+      "en": "instrument",
+      "ar": "آلات موسيقية",
+      "pronunciation": "/ ın strə mənt/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I play many instruments.",
+          "ar": "أعزف على عدة آلات موسيقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_intelligent",
+      "en": "intelligent",
+      "ar": "ذكية",
+      "pronunciation": "/ın tel-1-dzənt/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Dolphins are intelligent animals.",
+          "ar": "الدلافين حيوانات ذكية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_international",
+      "en": "international",
+      "ar": "دولية",
+      "pronunciation": "/ ın tər næfə nəl/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali worked for an international company.",
+          "ar": "عمل علي في شركة دولية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_introduction",
       "en": "introduction",
@@ -76,28 +260,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_invite",
-      "en": "invite",
-      "ar": "دعوت",
-      "pronunciation": "/ın vaxt/",
-      "lessonId": "lsn_a2_i_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Did you invite Ali ?",
-          "ar": "هل دعوت علي : ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_invitation",
       "en": "invitation",
       "ar": "دعوة",
@@ -120,17 +282,17 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_involved",
-      "en": "involved",
-      "ar": "تضمنت",
-      "pronunciation": "/In valvd/",
+      "id": "w_a2_invite",
+      "en": "invite",
+      "ar": "دعوت",
+      "pronunciation": "/ın vaxt/",
       "lessonId": "lsn_a2_i_2",
       "levelId": "lvl_2",
       "categoryId": "general",
       "examples": [
         {
-          "en": "Many of the crimes involved drugs.",
-          "ar": "العديد من الجرائم تضمنت المخدرات :"
+          "en": "Did you invite Ali ?",
+          "ar": "هل دعوت علي : ؟"
         }
       ],
       "type": "word",
@@ -153,6 +315,28 @@
         {
           "en": "Those items are very useful",
           "ar": "هذه العناصر مفيدة للغاية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_itself",
+      "en": "itself",
+      "ar": "نفسه",
+      "pronunciation": "/xt self/",
+      "lessonId": "lsn_a2_i_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "History repeats itself.",
+          "ar": "التاريخ يعيد نفسه :"
         }
       ],
       "type": "word",

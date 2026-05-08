@@ -1,14 +1,275 @@
 {
   "id": "lsn_a2_c_4",
-  "levelId": "lvl_2",
-  "slug": "c-words-4",
+  "levelId": "lvl_a2",
   "title": "Unit 9: C Words - Part 4",
-  "titleAr": "الوحدة 9: كلمات حرف C - الجزء 4",
-  "description": "Build on your A2 vocabulary starting with the letter C.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف C.",
+  "slug": "c-words-4",
   "order": 9,
-  "wordCount": 7,
+  "wordCount": 19,
+  "titleAr": "الوحدة 9: كلمات حرف C - الجزء 4",
+  "description": "Master essential A2 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف C.",
   "words": [
+    {
+      "id": "w_a2_control",
+      "en": "control",
+      "ar": "سيطرة / يتحكم",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The teacher has no control over the children.",
+          "ar": "المعلم ليس لديه سيطرة على الأطفال :"
+        },
+        {
+          "en": "Can't you control your behavior. !!",
+          "ar": "ألا يمكن أن تتحكم بسلوكك :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kənˈtɹəʊl/"
+    },
+    {
+      "id": "w_a2_cooker",
+      "en": "cooker",
+      "ar": "بوتجاز",
+      "pronunciation": "/'kuk-er/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We bought a gas cooker.",
+          "ar": "اشترينا بوتجاز غاز :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_copy",
+      "en": "copy",
+      "ar": "نسخة / يقلد",
+      "pronunciation": "/'ka-pi/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have a copy of this book.",
+          "ar": "لدي نسخة من هذا الكتاب :"
+        },
+        {
+          "en": "He copies everything I do",
+          "ar": "هو يقلد كل ما أفعله :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_corner",
+      "en": "corner",
+      "ar": "زاوية",
+      "pronunciation": "/'kor-nər/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali sat in the corner.",
+          "ar": "جلس علي في الزاوية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_correctly",
+      "en": "correctly",
+      "ar": "بشكل صحيح",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He answered all questions correctly.",
+          "ar": "أجاب على جميع الأسئلة بشكل صحيح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kəˈɹɛktli/"
+    },
+    {
+      "id": "w_a2_count",
+      "en": "count",
+      "ar": "يعد",
+      "pronunciation": "/kaunt/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She can count up to 10 in Chinese.",
+          "ar": "يمكنها أن تعد حتى 10 بالصينية."
+        },
+        {
+          "en": "Let me finish the count.",
+          "ar": "دعني أكمل العد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_couple",
+      "en": "couple",
+      "ar": "بعض",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are a couple of things I have to do",
+          "ar": "هناك بعض الأشياء التي علي القيام بها :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈkʌpəl/"
+    },
+    {
+      "id": "w_a2_crazy",
+      "en": "crazy",
+      "ar": "مجنونة",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What a crazy idea !!",
+          "ar": "يا لها من فكرة مجنونة : !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈkɹeɪzi/"
+    },
+    {
+      "id": "w_a2_creative",
+      "en": "creative",
+      "ar": "مبدعين",
+      "pronunciation": "/kri'er-trv/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We just need to be creative.",
+          "ar": "نحن فقط بحاجة لأن نكون مبدعين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_credit",
+      "en": "credit",
+      "ar": "ائتمان",
+      "pronunciation": "/'kred-It/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you have a credit card?",
+          "ar": "هل لديك بطاقة ائتمان ؟"
+        },
+        {
+          "en": "We will credit your account with 200 pounds.",
+          "ar": "سوف نضيف لحسابك 200 جنيه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_crime",
+      "en": "crime",
+      "ar": "جريمة",
+      "pronunciation": "/kraım/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Crime is a big problem in large cities",
+          "ar": "الجريمة مشكلة كبيرة في المدن الكبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_criminal",
       "en": "criminal",
@@ -35,7 +296,6 @@
       "id": "w_a2_cross",
       "en": "cross",
       "ar": "تعبر / علامة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_c_4",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -55,7 +315,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/kɹɑs/"
     },
     {
       "id": "w_a2_crowd",
@@ -105,7 +366,6 @@
       "id": "w_a2_cry",
       "en": "cry",
       "ar": "تبكي",
-      "pronunciation": "",
       "lessonId": "lsn_a2_c_4",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -121,7 +381,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/kɹaɪ̯/"
     },
     {
       "id": "w_a2_cupboard",
@@ -149,7 +410,6 @@
       "id": "w_a2_curly",
       "en": "curly",
       "ar": "مجعد",
-      "pronunciation": "",
       "lessonId": "lsn_a2_c_4",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -157,6 +417,33 @@
         {
           "en": "She has curly blonde hair.",
           "ar": "لديها شعر أشقر مجعد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈkɜːli/"
+    },
+    {
+      "id": "w_a2_cycle",
+      "en": "cycle",
+      "ar": "دراجة / يقود الدراجة",
+      "pronunciation": "/'saı kəl/",
+      "lessonId": "lsn_a2_c_4",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I cycle to work.",
+          "ar": "أنا أقود الدراجة إلى العمل :"
+        },
+        {
+          "en": "They completed their journey by cycle.",
+          "ar": "أكملوا رحلتهم بالدراجة :"
         }
       ],
       "type": "word",

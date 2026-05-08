@@ -1,41 +1,18 @@
 {
   "id": "lsn_a2_d_2",
-  "levelId": "lvl_2",
-  "slug": "d-words-2",
+  "levelId": "lvl_a2",
   "title": "Unit 11: D Words - Part 2",
-  "titleAr": "الوحدة 11: كلمات حرف D - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter D.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف D.",
+  "slug": "d-words-2",
   "order": 11,
   "wordCount": 22,
+  "titleAr": "الوحدة 11: كلمات حرف D - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف D.",
   "words": [
-    {
-      "id": "w_a2_direct",
-      "en": "direct",
-      "ar": "مباشرة",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_d_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "There is a direct flight from Cairo to Jeddah",
-          "ar": "هناك رحلة مباشرة من القاهرة إلى جدة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_direction",
       "en": "direction",
       "ar": "اتجاهات",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -51,7 +28,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/d(a)ɪˈɹɛk.ʃən/"
     },
     {
       "id": "w_a2_director",
@@ -101,7 +79,6 @@
       "id": "w_a2_disappear",
       "en": "disappear",
       "ar": "اختفت",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -117,7 +94,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɪsəˈpiːɹ/"
     },
     {
       "id": "w_a2_disaster",
@@ -211,7 +189,6 @@
       "id": "w_a2_disease",
       "en": "disease",
       "ar": "مرض",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -227,7 +204,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɪˈziːz/"
     },
     {
       "id": "w_a2_distance",
@@ -277,7 +255,6 @@
       "id": "w_a2_document",
       "en": "document",
       "ar": "وثيقة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -285,21 +262,27 @@
         {
           "en": "Who gave you this document?",
           "ar": "من أعطاك هذه الوثيقة : ؟"
+        },
+        {
+          "en": "I record these videos to document our local traditions.",
+          "ar": "أقوم بتسجيل مقاطع الفيديو هذه لأوثق تقاليدنا المحلية."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdɒkjʊmənt/"
     },
     {
       "id": "w_a2_double",
       "en": "double",
       "ar": "مزدوجة / يضاعف",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -315,15 +298,21 @@
         {
           "en": "I'm doubling my prices.",
           "ar": "أنا أضاعف أسعاري :"
+        },
+        {
+          "en": "I'll pay double.",
+          "ar": "سأدفع ضعف."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdʌb.əl/"
     },
     {
       "id": "w_a2_download",
@@ -352,32 +341,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_downstairs",
-      "en": "downstairs",
-      "ar": "الطابق السفلي",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_d_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Please use the downstairs bathroom.",
-          "ar": "الرجاء استخدام حمام الطابق السفلي :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_drama",
       "en": "drama",
       "ar": "دراما",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -393,13 +359,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdɹæmə/"
     },
     {
       "id": "w_a2_drawing",
       "en": "drawing",
       "ar": "رسمة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -415,13 +381,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdɹɔ.(w)ɪŋ(ɡ)/"
     },
     {
       "id": "w_a2_dream",
       "en": "dream",
       "ar": "حلم / يحلم",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -441,13 +407,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɹiːm/"
     },
     {
       "id": "w_a2_drive",
       "en": "drive",
       "ar": "قيادة / سيارة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -459,21 +425,48 @@
         {
           "en": "I started to take driving lessons.",
           "ar": "بدأت بأخذ دروس في القيادة :"
+        },
+        {
+          "en": "I drive my car to work every day.",
+          "ar": "أقود سيارتي إلى العمل كل يوم."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "A1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɹaɪv/"
+    },
+    {
+      "id": "w_c1_driving",
+      "en": "driving",
+      "ar": "دافع / قوي",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_a2",
+      "examples": [
+        {
+          "en": "كان الطموح هو القوة الدافعة وراء نجاحه المهني",
+          "ar": "The company's driving goal is to innovate in the tech sector."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɹaɪvɪŋ/"
     },
     {
       "id": "w_a2_drop",
       "en": "drop",
       "ar": "أسقط",
-      "pronunciation": "",
       "lessonId": "lsn_a2_d_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -481,15 +474,21 @@
         {
           "en": "Tom dropped his coffee cup.",
           "ar": "علي أسقط فنجان قهوته :"
+        },
+        {
+          "en": "I felt a drop of rain on my head.",
+          "ar": "شعرت بقطرة مطر على رأسي."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɹɒp/"
     },
     {
       "id": "w_a2_drug",
@@ -503,6 +502,32 @@
         {
           "en": "He was caught selling drugs.",
           "ar": "تم القبض عليه وهو يبيع المخدرات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_dry",
+      "en": "dry",
+      "ar": "جاف / يجفف",
+      "pronunciation": "/draz/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Are my clothes dry ?",
+          "ar": "هل ملابسي جافة ؟"
+        },
+        {
+          "en": "She is drying her hair.",
+          "ar": "إنها تجفف شعرها :"
         }
       ],
       "type": "word",

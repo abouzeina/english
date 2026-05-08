@@ -1,14 +1,106 @@
 {
   "id": "lsn_a1_c_3",
-  "levelId": "lvl_1",
-  "title": "C Words - Part 3",
+  "levelId": "lvl_a1",
+  "title": "Unit 8: C Words - Part 3",
   "slug": "c-words-3",
   "order": 8,
-  "wordCount": 16,
-  "titleAr": "كلمات حرف C - الجزء 3",
-  "description": "Learn essential A1 vocabulary starting with the letter C.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف C.",
+  "wordCount": 21,
+  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 3",
+  "description": "Master essential A1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف C.",
   "words": [
+    {
+      "id": "w_a1_compare",
+      "lessonId": "lsn_a1_c_3",
+      "en": "compare",
+      "translation": "يقارن",
+      "ar": "يقارن",
+      "pronunciation": "/kəm peər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's compare our results.",
+          "ar": "دعونا نقارن نتائجنا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_complete",
+      "lessonId": "lsn_a1_c_3",
+      "en": "complete",
+      "translation": "يكمل / مكتمل",
+      "ar": "يكمل / مكتمل",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They will complete it tomorrow.",
+          "ar": "سوف يكملونه غداً."
+        },
+        {
+          "en": "The project is complete.",
+          "ar": "اكتمل المشروع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəmˈpliːt/"
+    },
+    {
+      "id": "w_a1_computer",
+      "lessonId": "lsn_a1_c_3",
+      "en": "computer",
+      "translation": "كمبيوتر",
+      "ar": "كمبيوتر",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He uses a computer at work.",
+          "ar": "إنه يستخدم الكمبيوتر في العمل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəmˈpjuːtə/"
+    },
+    {
+      "id": "w_a1_concert",
+      "lessonId": "lsn_a1_c_3",
+      "en": "concert",
+      "translation": "حفل موسيقي",
+      "ar": "حفل موسيقي",
+      "pronunciation": "/ kan sart/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I bought concert tickets today.",
+          "ar": "اشتريت تذاكر الحفل الموسيقي اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_a1_conversation",
       "lessonId": "lsn_a1_c_3",
@@ -37,21 +129,26 @@
       "en": "cook",
       "translation": "يطبخ",
       "ar": "يطبخ",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I cook dinner every day.",
           "ar": "أنا أطبخ العشاء كل يوم."
+        },
+        {
+          "en": "She is a very good cook.",
+          "ar": "إنها طباخة ماهرة جدًا :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kuːk/"
     },
     {
       "id": "w_a1_cooking",
@@ -59,7 +156,6 @@
       "en": "cooking",
       "translation": "طهي / طبخ",
       "ar": "طهي / طبخ",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -73,7 +169,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkʊ.kɪŋ/"
     },
     {
       "id": "w_a1_cool",
@@ -81,7 +178,6 @@
       "en": "cool",
       "translation": "رائع / بارد",
       "ar": "رائع / بارد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -91,15 +187,21 @@
         {
           "en": "It's a cool morning today.",
           "ar": "إنه صباح بارد اليوم."
+        },
+        {
+          "en": "This fan is designed to cool the engine.",
+          "ar": "هذه المروحة مصممة لتبرد المحرك."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kuːl/"
     },
     {
       "id": "w_a1_correct",
@@ -107,7 +209,6 @@
       "en": "correct",
       "translation": "صحيح / يصلح",
       "ar": "صحيح / يصلح",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -125,7 +226,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kəˈɹɛkt/"
     },
     {
       "id": "w_a1_cost",
@@ -159,7 +261,6 @@
       "en": "could",
       "translation": "كان يستطيع / يمكن",
       "ar": "كان يستطيع / يمكن",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -177,7 +278,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kʊd/"
     },
     {
       "id": "w_a1_country",
@@ -185,7 +287,6 @@
       "en": "country",
       "translation": "بلد / دولة",
       "ar": "بلد / دولة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -199,7 +300,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɐntɹi/"
     },
     {
       "id": "w_a1_course",
@@ -207,7 +309,6 @@
       "en": "course",
       "translation": "دورة تدريبية",
       "ar": "دورة تدريبية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -221,7 +322,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kɔːs/"
     },
     {
       "id": "w_a1_cousin",
@@ -229,7 +331,6 @@
       "en": "cousin",
       "translation": "ابن / ابنة عم أو خال",
       "ar": "ابن / ابنة عم أو خال",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -243,7 +344,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkʌz.n̩/"
     },
     {
       "id": "w_a1_cow",
@@ -251,7 +353,6 @@
       "en": "cow",
       "translation": "بقرة",
       "ar": "بقرة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -265,7 +366,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kaʊ/"
     },
     {
       "id": "w_a1_cream",
@@ -273,21 +375,26 @@
       "en": "cream",
       "translation": "قشدة",
       "ar": "قشدة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "The cake needs more cream.",
           "ar": "تحتاج الكعكة إلى المزيد من القشدة."
+        },
+        {
+          "en": "Why did you buy this cream carpet?",
+          "ar": "لماذا اشتريت هذه السجادة التي تشبه لون القشطة ؟"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kɹiːm/"
     },
     {
       "id": "w_a1_creates",
@@ -339,7 +446,6 @@
       "en": "cup",
       "translation": "كوب",
       "ar": "كوب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -353,7 +459,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kʌp/"
     },
     {
       "id": "w_a1_customers",
@@ -376,6 +483,33 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cut",
+      "lessonId": "lsn_a1_c_3",
+      "en": "cut",
+      "translation": "يقطع",
+      "ar": "يقطع",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I cut the apple in half.",
+          "ar": "قطعت التفاحة إلى نصفين."
+        },
+        {
+          "en": "He has a small cut on his foot.",
+          "ar": "لديه جرح صغير في قدمه."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kʌt/"
     }
   ]
 }

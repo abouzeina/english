@@ -1,0 +1,575 @@
+{
+  "id": "lsn_b1_s_2",
+  "levelId": "lvl_b1",
+  "slug": "s-words-2",
+  "title": "Unit 36: S Words - Part 2",
+  "titleAr": "الوحدة 36: كلمات حرف S - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with S.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف S.",
+  "order": 36,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_shells",
+      "en": "shells",
+      "ar": "أصداف",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "like to collect shells on the beach.",
+          "ar": "أحب جمع الأصداف على الشاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_shift",
+      "en": "shift",
+      "ar": "نوبة عمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you work a day shift or night shift?",
+          "ar": "هل تعمل نوبة عمل نهارية أم ليلية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_shine",
+      "en": "shine",
+      "ar": "تسطع / تلمع",
+      "pronunciation": "/faın/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The sun will shine again in the sky.",
+          "ar": "سوف تسطع الشمس مرة أخرى في السماء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_shiny",
+      "en": "shiny",
+      "ar": "لامع / براق",
+      "pronunciation": "/ Jar-ni/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Not all shiny metals are gold.",
+          "ar": "ليست كل المعادن اللامعة ذهب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_shooting",
+      "en": "shooting",
+      "ar": "يطلقون النار",
+      "pronunciation": "/'fu-trn/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The soldiers were shooting at the enemy.",
+          "ar": "كان الجنود يطلقون النار على العدو."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_shy",
+      "en": "shy",
+      "ar": "خجول",
+      "pronunciation": "/fax/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is weak and shy.",
+          "ar": "إنه ضعيف وخجول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sight",
+      "en": "sight",
+      "ar": "منظر / رؤية / إبصار",
+      "pronunciation": "/sart/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The sight is amazing from the top of the mountain.",
+          "ar": "المنظر مذهل من أعلى الجبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_signal",
+      "en": "signal",
+      "ar": "إشارة / أرسل إشارة",
+      "pronunciation": "/'sxg-nəl/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Wait for my signal.",
+          "ar": "انتظر إشارتي ؟"
+        },
+        {
+          "en": "He signaled, and they attacked.",
+          "ar": "هو أرسل إشارة، وهم هجموا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_silent",
+      "en": "silent",
+      "ar": "صامتة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The old lady remained silent.",
+          "ar": "السيدة العجوز بقيت صامتة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_silly",
+      "en": "silly",
+      "ar": "سخيفة",
+      "pronunciation": "/'sıl-i/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You sometimes ask silly questions.",
+          "ar": "أنت بعض الأحيان تسأل أسئلة سخيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_similarities",
+      "en": "similarities",
+      "ar": "أوجه تشابه",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are lots of similarities between the two conditions.",
+          "ar": "هناك الكثير من أوجه التشابه بين الحالتين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_similarly",
+      "en": "similarly",
+      "ar": "بشكل مشابه",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "All cats behave similarly.",
+          "ar": "جميع القطط تتصرف بشكل مشابه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_simply",
+      "en": "simply",
+      "ar": "ببساطة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "To send the comment simply click the button.",
+          "ar": "لإرسال التعليق ببساطة انقر على الزر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_since",
+      "en": "since",
+      "ar": "منذ ذلك الحين",
+      "pronunciation": "/sins/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He left last year and we haven't heard from him since.",
+          "ar": "لقد غادر العام الماضي ولم نسمع عنه منذ ذلك الحين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sank",
+      "en": "sank",
+      "ar": "غرقت",
+      "pronunciation": "/sænk/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The ship sank in the Pacific ocean.",
+          "ar": "السفينة غرقت في المحيط الهادئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_slice",
+      "en": "slice",
+      "ar": "شريحة / يقطع شرائح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A glass of orange juice with a slice of lemon.",
+          "ar": "كوب عصير برتقال مع شريحة ليمون."
+        },
+        {
+          "en": "Did you see the chef while he was slicing the tomatoes?",
+          "ar": "هل رأيت الشيف عندما كان يقطع الطماطم إلى شرائح ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_slightly",
+      "en": "slightly",
+      "ar": "أقل بقليل",
+      "pronunciation": "/'slart-li/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I earn slightly less than $500 a month.",
+          "ar": "أكسب أقل بقليل من 500 دولار في الشهر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_slow_up",
+      "en": "Slow up",
+      "ar": "تمهل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Slow up, there is a traffic light ahead.",
+          "ar": "تمهل هناك إشارة مرور أمامك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_smartest",
+      "en": "smartest",
+      "ar": "أذكى",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You are the smartest guy among us.",
+          "ar": "أنت أذكى شخص بيننا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_smooth",
+      "en": "smooth",
+      "ar": "سلسة / أملس / ناعم",
+      "pronunciation": "/smuð/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was a smooth flight.",
+          "ar": "كانت رحلة سلسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_software",
+      "en": "software",
+      "ar": "برنامج",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You should check the source of this software.",
+          "ar": "يجب عليك التحقق من مصدر هذا البرنامج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_soil",
+      "en": "soil",
+      "ar": "تراب / تربة",
+      "pronunciation": "/sozl/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I like the smell of soil after rain.",
+          "ar": "أحب رائحة التراب بعد المطر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_solid",
+      "en": "solid",
+      "ar": "صلب / حالة صلبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Only ski on solid ice.",
+          "ar": "تزلج فقط على الجليد الصلب."
+        },
+        {
+          "en": "Three states of matter solid, liquid, and gas.",
+          "ar": "ثلاث حالات للمادة : الصلبة والسائلة والغازية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sort",
+      "en": "Sort",
+      "ar": "رتب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sort these books on that narrow shelf.",
+          "ar": "رتب هذه الكتب على ذلك الرف الضيق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_southern",
+      "en": "southern",
+      "ar": "جنوبي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I live in the southern part of the region.",
+          "ar": "أعيش في الجزء الجنوبي من المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

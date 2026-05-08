@@ -1,0 +1,303 @@
+{
+  "id": "lsn_a2_a_3",
+  "levelId": "lvl_2",
+  "slug": "a-words-3",
+  "title": "Unit 3: A Words - Part 3",
+  "titleAr": "الوحدة 3: كلمات حرف A - الجزء 3",
+  "description": "Build on your A2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف A.",
+  "order": 3,
+  "wordCount": 13,
+  "words": [
+    {
+      "id": "w_a2_asleep",
+      "en": "asleep",
+      "ar": "نائم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My children are asleep.",
+          "ar": "أطفالي نائمون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_assistant",
+      "en": "assistant",
+      "ar": "مساعد",
+      "pronunciation": "/ə'sistnt/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is an assistant professor at the University.",
+          "ar": "هو أستاذ مساعد في الجامعة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_athlete",
+      "en": "athlete",
+      "ar": "رياضي",
+      "pronunciation": "/'æ0 lit/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was an athlete in high school",
+          "ar": "كان رياضيا في المدرسة الثانوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_attack",
+      "en": "attack",
+      "ar": "هجوم / يعتدي",
+      "pronunciation": "/ə tæk/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Three people were killed in the attack.",
+          "ar": "ثلاثة أشخاص قتلوا في الاعتداء"
+        },
+        {
+          "en": "The man attacked him with a knife.",
+          "ar": "الرجل اعتدى عليه بسكين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_attend",
+      "en": "attend",
+      "ar": "يحضر",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Did you attend the meeting ?",
+          "ar": "هل حضرت الاجتماع ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_attention",
+      "en": "attention",
+      "ar": "انتباه / اهتمام",
+      "pronunciation": "/ə'ten Jən/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This question needs attention.",
+          "ar": "هذا السؤال يحتاج إلى انتباه"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_attractive",
+      "en": "attractive",
+      "ar": "جذاب",
+      "pronunciation": "/ə træk tıv/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The idea is very attractive.",
+          "ar": "الفكرة جذابة للغاية"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_audience",
+      "en": "audience",
+      "ar": "جمهور / حضور",
+      "pronunciation": "/   di əns/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The audience laughed.",
+          "ar": "الجمهور ضحك"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_author",
+      "en": "author",
+      "ar": "كاتب / مؤلف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who is your favorite author ?",
+          "ar": "من هو كاتبك المفضل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_available",
+      "en": "available",
+      "ar": "متاح / متوفر",
+      "pronunciation": "/ə verilə bəl/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We still have available rooms.",
+          "ar": "لا يزال لدينا غرف متاحة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_average",
+      "en": "average",
+      "ar": "متوسط / معدل",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's the average age of students in this class ?",
+          "ar": "ما هو متوسط عمر الطلاب في هذا الفصل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_avoid",
+      "en": "avoid",
+      "ar": "يتجنب",
+      "pronunciation": "/ə vord/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Avoid writing long emails.",
+          "ar": "تجنب كتابة رسائل بريد إلكتروني طويلة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_award",
+      "en": "award",
+      "ar": "جائزة",
+      "pronunciation": "/ə'word/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali has won many awards this year.",
+          "ar": "حصل علي على العديد من الجوائز هذا العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

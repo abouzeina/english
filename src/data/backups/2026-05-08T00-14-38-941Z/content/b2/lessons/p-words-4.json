@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b2_p_4",
+  "levelId": "lvl_b2",
+  "slug": "p-words-4",
+  "title": "P Words - Part 4",
+  "titleAr": "كلمات حرف P - الجزء 4",
+  "description": "Learn essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف P.",
+  "order": 47,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_probable",
+      "en": "probable",
+      "ar": "المحتملة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The probable strategy requires some extra resources.",
+          "ar": "تتطلب الاستراتيجية المحتملة بعض الموارد الإضافية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_procedures",
+      "en": "procedures",
+      "ar": "الإجراءات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The legal procedures for divorce can be complex.",
+          "ar": "قد تكون الإجراءات القانونية للطلاق معقدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_proceed",
+      "en": "proceed",
+      "ar": "يستمر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He chose not to proceed with the medical treatment.",
+          "ar": "وقد اختار أن لا يستمر في العلاج الطبي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_process",
+      "en": "process",
+      "ar": "استيعاب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She's still trying to process their sudden departure.",
+          "ar": "لا تزال تحاول استيعاب رحيلهم المفاجئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_produce",
+      "en": "produce",
+      "ar": "المنتجات الزراعية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Local farms supply the best quality produce.",
+          "ar": "توفر المزارع المحلية أفضل المنتجات الزراعية ذات الجودة العالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_professionals",
+      "en": "professionals",
+      "ar": "المختصين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They hired several professionals for the consulting team.",
+          "ar": "قاموا بتعيين العديد من المختصين في الفريق الاستشاري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_programming",
+      "en": "programming",
+      "ar": "البرمجة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He's been learning programming for the past year.",
+          "ar": "لقد كان يتعلم البرمجة خلال العام الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_progress",
+      "en": "progress",
+      "ar": "التقدم / تقدمه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His overall progress has been very impressive.",
+          "ar": "كان تقدمه بشكل عام رائعًا للغاية."
+        },
+        {
+          "en": "We need to progress further before the deadline.",
+          "ar": "نحن بحاجة إلى التقدم أكثر قبل الموعد النهائي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_progressive",
+      "en": "progressive",
+      "ar": "التقدمية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I prefer progressive strategies to solve complex problems.",
+          "ar": "أنا أفضل الاستراتيجيات التقدمية لحل المشاكل المعقدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_prohibits",
+      "en": "prohibits",
+      "ar": "يحظر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The new law prohibits smoking in government offices.",
+          "ar": "القانون الجديد يحظر التدخين في المصالح الحكومية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_project",
+      "en": "project",
+      "ar": "يتنبأ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This software can project future trends in sales.",
+          "ar": "يمكن لهذا البرنامج أن يتنبأ بالاتجاهات المستقبلية للمبيعات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_promising",
+      "en": "promising",
+      "ar": "واعد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She has a promising future in medicine.",
+          "ar": "لديها مستقبل واعد في مجال الطب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_promotion",
+      "en": "promotion",
+      "ar": "ترقيته",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His promotion to manager surprised everyone.",
+          "ar": "لقد فاجأت ترقيته إلى منصب المدير الجميع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_prompt",
+      "en": "prompt",
+      "ar": "يدفعنا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The warning should prompt us to act carefully.",
+          "ar": "يجب أن يدفعنا التحذير إلى التصرف بحذر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_proof",
+      "en": "proof",
+      "ar": "إثباتًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She provided proof of her qualifications at work.",
+          "ar": "قدمت إثباتًا على مؤهلاتها في العمل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_proportion",
+      "en": "proportion",
+      "ar": "نسبة ضئيلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Only a tiny proportion of users experienced issues.",
+          "ar": "فقط نسبة ضئيلة من المستخدمين واجهت مشاكل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_proposal",
+      "en": "proposal",
+      "ar": "المقترح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The proposal aims to improve employee work conditions.",
+          "ar": "يهدف المقترح إلى تحسين ظروف عمل الموظفين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_proposed",
+      "en": "proposed",
+      "ar": "اقترح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He proposed adding more resources to the team.",
+          "ar": "اقترح إضافة المزيد من المصادر للفريق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_prospect",
+      "en": "prospect",
+      "ar": "إمكانية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They discussed the prospect of expanding into Asia.",
+          "ar": "وناقشوا إمكانية التوسع في آسيا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_protection",
+      "en": "protection",
+      "ar": "حماية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The child wore a helmet for extra protection.",
+          "ar": "ارتدى الطفل خوذة لحماية إضافية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_protein",
+      "en": "protein",
+      "ar": "بروتين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Protein powders are often used for muscle recovery.",
+          "ar": "غالبا ما تستخدم مساحيق البروتين لتعافي العضلات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_protesters",
+      "en": "protesters",
+      "ar": "المتظاهرون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The protesters raised signs demanding immediate action.",
+          "ar": "رفع المتظاهرون لافتات تطالب باتخاذ إجراءات فورية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_psychological",
+      "en": "psychological",
+      "ar": "النفسي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Psychological stress can affect physical health.",
+          "ar": "يمكن أن يؤثر الضغط النفسي على الصحة البدنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_psychologist",
+      "en": "psychologist",
+      "ar": "المعالج النفسي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The psychologist helped him manage his anxiety.",
+          "ar": "ساعده المعالج النفسي في السيطرة على قلقه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_psychology",
+      "en": "psychology",
+      "ar": "علم النفس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She studied psychology to understand human behavior.",
+          "ar": "درست علم النفس لفهم السلوك البشري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

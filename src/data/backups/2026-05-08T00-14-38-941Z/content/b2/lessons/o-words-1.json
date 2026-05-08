@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b2_o_1",
+  "levelId": "lvl_b2",
+  "slug": "o-words-1",
+  "title": "O Words - Part 1",
+  "titleAr": "كلمات حرف O - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter O.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف O.",
+  "order": 42,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_obesity",
+      "en": "obesity",
+      "ar": "السمنة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Obesity increases the risk of various health problems.",
+          "ar": "تزيد السمنة من خطر الإصابة بمشاكل صحية متعددة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_obey",
+      "en": "obey",
+      "ar": "الامتثال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He refused to obey the officer's orders.",
+          "ar": "لقد رفض الامتثال لأوامر الضابط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_object",
+      "en": "object",
+      "ar": "يعترضون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They might object to the new policy.",
+          "ar": "قد يعترضون على السياسة الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_objective",
+      "en": "objective",
+      "ar": "هدفه / موضوعي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His primary objective is to win the race.",
+          "ar": "هدفه الأساسي هو الفوز بالسباق."
+        },
+        {
+          "en": "We need an objective analysis of the situation.",
+          "ar": "نحن بحاجة إلى تحليل موضوعي للوضع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_obligations",
+      "en": "obligations",
+      "ar": "التزاماتها",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She takes her family obligations very seriously.",
+          "ar": "تأخذ التزاماتها العائلية على محمل الجد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_observation",
+      "en": "observation",
+      "ar": "ملاحظة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The report is based on careful scientific observation.",
+          "ar": "يستند التقرير إلى ملاحظة علمية دقيقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_observe",
+      "en": "observe",
+      "ar": "نراقب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We can observe their behavior from a distance.",
+          "ar": "يمكننا أن نراقب سلوكهم من مسافة بعيدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_observer",
+      "en": "observer",
+      "ar": "المراقب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The observer noted some changes in the experiment.",
+          "ar": "لاحظ المراقب بعض التغييرات في التجربة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_obstacle",
+      "en": "obstacle",
+      "ar": "عائق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He refused to let any obstacle stop him.",
+          "ar": "لقد رفض أن يوقفه أي عائق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_obtain",
+      "en": "obtain",
+      "ar": "للحصول",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You need experience to obtain this position.",
+          "ar": "أنت بحاجة إلى الخبرة للحصول على هذا المنصب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_occasionally",
+      "en": "occasionally",
+      "ar": "من حين لآخر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I occasionally meet my professor for academic advice.",
+          "ar": "أقابل أستاذي من حين لآخر للحصول على المشورة الأكاديمية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_occupation",
+      "en": "occupation",
+      "ar": "مهنته",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His occupation requires excellent communication skills.",
+          "ar": "تتطلب مهنته مهارات تواصل ممتازة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_occupied",
+      "en": "occupied",
+      "ar": "احتلوا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They occupied the front row seats at the concert.",
+          "ar": "احتلوا مقاعد الصف الأمامي في الحفل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_offend",
+      "en": "offend",
+      "ar": "يسيء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They avoided topics that might offend their guests.",
+          "ar": "لقد تجنبوا المواضيع التي قد تسيء إلى ضيوفهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_offender",
+      "en": "offender",
+      "ar": "الجاني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The police are still searching for the offender.",
+          "ar": "لا تزال الشرطة تبحث عن الجاني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_offense",
+      "en": "offense",
+      "ar": "الإهانة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "No offense, but your idea needs improvement.",
+          "ar": "لا أقصد الإهانة، ولكن فكرتك تحتاج إلى تحسين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_offensive",
+      "en": "offensive",
+      "ar": "مهينة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She found the joke to be extremely offensive.",
+          "ar": "لقد وجدت النكتة مهينة للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_official",
+      "en": "official",
+      "ar": "المسؤولين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "An official will attend the conference next week.",
+          "ar": "سيحضر أحد المسؤولين المؤتمر الأسبوع المقبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ongoing",
+      "en": "ongoing",
+      "ar": "المستمر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Their ongoing support helped us achieve our goals.",
+          "ar": "ساعدنا دعمهم المستمر في تحقيق أهدافنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_opening",
+      "en": "opening",
+      "ar": "افتتاح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They celebrated the opening of the new store.",
+          "ar": "احتفلوا بافتتاح المتجر الجديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_openly",
+      "en": "openly",
+      "ar": "علانية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She openly admitted her mistakes to everyone.",
+          "ar": "اعترفت بأخطائها علانية للجميع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_opera",
+      "en": "opera",
+      "ar": "الأوبرا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The opera tickets sold out within minutes.",
+          "ar": "بيعت تذاكر الأوبرا في غضون دقائق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_operate",
+      "en": "operate",
+      "ar": "تشغيل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She learned to operate the camera effectively.",
+          "ar": "لقد تعلمت تشغيل الكاميرا بفعالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_operator",
+      "en": "operator",
+      "ar": "مشغل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He trained as a heavy equipment operator.",
+          "ar": "لقد تدرب كمشغل معدات ثقيلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_opponent",
+      "en": "opponent",
+      "ar": "الخصم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_o_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The opponent scored the first goal of the game.",
+          "ar": "سجل الخصم الهدف الأول في المباراة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

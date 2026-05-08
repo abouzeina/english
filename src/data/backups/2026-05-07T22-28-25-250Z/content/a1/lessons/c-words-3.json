@@ -1,0 +1,381 @@
+{
+  "id": "lsn_a1_c_3",
+  "levelId": "lvl_1",
+  "title": "C Words - Part 3",
+  "slug": "c-words-3",
+  "order": 8,
+  "wordCount": 16,
+  "titleAr": "كلمات حرف C - الجزء 3",
+  "description": "Learn essential A1 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_a1_conversation",
+      "lessonId": "lsn_a1_c_3",
+      "en": "conversation",
+      "translation": "محادثة",
+      "ar": "محادثة",
+      "pronunciation": "/ kan vər sex fən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I enjoyed our conversation yesterday.",
+          "ar": "لقد استمتعت بمحادثتنا بالأمس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cook",
+      "lessonId": "lsn_a1_c_3",
+      "en": "cook",
+      "translation": "يطبخ",
+      "ar": "يطبخ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I cook dinner every day.",
+          "ar": "أنا أطبخ العشاء كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cooking",
+      "lessonId": "lsn_a1_c_3",
+      "en": "cooking",
+      "translation": "طهي / طبخ",
+      "ar": "طهي / طبخ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Cooking is my favorite activity.",
+          "ar": "الطبخ هو نشاطي المفضل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cool",
+      "lessonId": "lsn_a1_c_3",
+      "en": "cool",
+      "translation": "رائع / بارد",
+      "ar": "رائع / بارد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Your car is cool.",
+          "ar": "سيارتك رائعة."
+        },
+        {
+          "en": "It's a cool morning today.",
+          "ar": "إنه صباح بارد اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_correct",
+      "lessonId": "lsn_a1_c_3",
+      "en": "correct",
+      "translation": "صحيح / يصلح",
+      "ar": "صحيح / يصلح",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Your answer is correct.",
+          "ar": "إجابتك صحيحة."
+        },
+        {
+          "en": "I corrected my mistake.",
+          "ar": "لقد أصلحت خطأي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cost",
+      "lessonId": "lsn_a1_c_3",
+      "en": "cost",
+      "translation": "تكلفة / يكلف",
+      "ar": "تكلفة / يكلف",
+      "pronunciation": "/kost/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The cost of living is high.",
+          "ar": "تكلفة المعيشة مرتفعة."
+        },
+        {
+          "en": "How much did it cost?",
+          "ar": "كم كلف؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_could",
+      "lessonId": "lsn_a1_c_3",
+      "en": "could",
+      "translation": "كان يستطيع / يمكن",
+      "ar": "كان يستطيع / يمكن",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I could swim as a child.",
+          "ar": "كنت أستطيع السباحة في طفولتي."
+        },
+        {
+          "en": "We could go together.",
+          "ar": "يمكننا الذهاب معاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_country",
+      "lessonId": "lsn_a1_c_3",
+      "en": "country",
+      "translation": "بلد / دولة",
+      "ar": "بلد / دولة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His country is far away.",
+          "ar": "بلده بعيد جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_course",
+      "lessonId": "lsn_a1_c_3",
+      "en": "course",
+      "translation": "دورة تدريبية",
+      "ar": "دورة تدريبية",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need to take a course in English.",
+          "ar": "أحتاج إلى أخذ دورة تدريبية في اللغة الإنجليزية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cousin",
+      "lessonId": "lsn_a1_c_3",
+      "en": "cousin",
+      "translation": "ابن / ابنة عم أو خال",
+      "ar": "ابن / ابنة عم أو خال",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I visited my cousin yesterday.",
+          "ar": "لقد زرت ابن عمي بالأمس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cow",
+      "lessonId": "lsn_a1_c_3",
+      "en": "cow",
+      "translation": "بقرة",
+      "ar": "بقرة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The cow looks healthy.",
+          "ar": "تبدو البقرة بصحة جيدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cream",
+      "lessonId": "lsn_a1_c_3",
+      "en": "cream",
+      "translation": "قشدة",
+      "ar": "قشدة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The cake needs more cream.",
+          "ar": "تحتاج الكعكة إلى المزيد من القشدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_creates",
+      "lessonId": "lsn_a1_c_3",
+      "en": "creates",
+      "translation": "يبدع / يصنع",
+      "ar": "يبدع / يصنع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My brother creates art.",
+          "ar": "أخي يبدع الفن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_culture",
+      "lessonId": "lsn_a1_c_3",
+      "en": "culture",
+      "translation": "ثقافة",
+      "ar": "ثقافة",
+      "pronunciation": "/ kʌltfər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Music is part of every culture.",
+          "ar": "الموسيقى جزء من كل ثقافة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cup",
+      "lessonId": "lsn_a1_c_3",
+      "en": "cup",
+      "translation": "كوب",
+      "ar": "كوب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She gave me a cup of tea.",
+          "ar": "أعطتني كوباً من الشاي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_customers",
+      "lessonId": "lsn_a1_c_3",
+      "en": "customers",
+      "translation": "عملاء",
+      "ar": "عملاء",
+      "pronunciation": "/'kas-tə مər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We lost many customers last month.",
+          "ar": "لقد فقدنا العديد من العملاء الشهر الماضي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

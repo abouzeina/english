@@ -1,0 +1,575 @@
+{
+  "id": "lsn_b2_m_2",
+  "levelId": "lvl_b2",
+  "slug": "m-words-2",
+  "title": "M Words - Part 2",
+  "titleAr": "كلمات حرف M - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter M.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف M.",
+  "order": 39,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_medal",
+      "en": "medal",
+      "ar": "ميدالية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The soldier was honored with a medal.",
+          "ar": "تم تكريم الجندي بميدالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_medication",
+      "en": "medication",
+      "ar": "الدواء",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The medication caused some mild side effects.",
+          "ar": "تسبب الدواء في بعض الآثار الجانبية الخفيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_medium",
+      "en": "medium",
+      "ar": "وسيلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They used social media as a marketing medium.",
+          "ar": "استخدموا وسائل التواصل الاجتماعي كوسيلة تسويقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_melt",
+      "en": "melt",
+      "ar": "ستذوب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The chocolate chips will melt in the oven.",
+          "ar": "ستذوب رقائق الشوكولاتة في الفرن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_membership",
+      "en": "membership",
+      "ar": "العضوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The membership provides benefits and special offers.",
+          "ar": "توفر العضوية مزايا وعروضاً خاصة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_memorable",
+      "en": "memorable",
+      "ar": "لا تنسى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "That moment was both surprising and memorable.",
+          "ar": "كانت تلك اللحظة مفاجئة ولا تنسى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_metaphor",
+      "en": "metaphor",
+      "ar": "الاستعارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The metaphor added depth to the poem.",
+          "ar": "أضافت الاستعارة عمقًا إلى القصيدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_military",
+      "en": "military",
+      "ar": "العسكرية / الجيش",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was proud of his military service.",
+          "ar": "كان فخوراً بخدمته العسكرية."
+        },
+        {
+          "en": "The military provided aid during the disaster.",
+          "ar": "قدم الجيش المساعدات خلال الكارثة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mine",
+      "en": "mine",
+      "ar": "المنجم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The mine is known for its valuable minerals.",
+          "ar": "يشتهر المنجم بمعادنه الثمينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_miner",
+      "en": "miner",
+      "ar": "عامل المنجم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The miner discovered gold in the cave.",
+          "ar": "اكتشف عامل المنجم الذهب في الكهف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_minimum",
+      "en": "minimum",
+      "ar": "الحد الأدنى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The minimum distance between the buildings is ten feet.",
+          "ar": "الحد الأدنى للمسافة بين المباني هو عشرة أقدام."
+        },
+        {
+          "en": "The minimum for passing is 60 percent.",
+          "ar": "الحد الأدنى للنجاح هو 60 بالمائة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_minister",
+      "en": "minister",
+      "ar": "الوزير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The minister is responsible for health policies.",
+          "ar": "الوزير مسؤول عن السياسات الصحية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_minor",
+      "en": "minor",
+      "ar": "طفيفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The car accident caused only minor injuries.",
+          "ar": "تسبب حادث السيارة في إصابات طفيفة فقط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_minority",
+      "en": "minority",
+      "ar": "الأقلية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The minority rights are protected by law.",
+          "ar": "حقوق الأقلية محمية بموجب القانون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_miserable",
+      "en": "miserable",
+      "ar": "بالتعاسة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She felt miserable after the argument with her friend.",
+          "ar": "شعرت بالتعاسة بعد الجدال مع صديقتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mission",
+      "en": "mission",
+      "ar": "المهمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The mission required careful planning.",
+          "ar": "تطلبت المهمة تخطيطاً دقيقاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mistook",
+      "en": "mistook",
+      "ar": "خلطت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I mistook the recipe ingredients for something else.",
+          "ar": "لقد خلطت بين مكونات الوصفة وشيء آخر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mixed",
+      "en": "mixed",
+      "ar": "مختلطة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His feelings were mixed about the decision.",
+          "ar": "كانت مشاعره مختلطة حول القرار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_mode",
+      "en": "mode",
+      "ar": "الوضع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The phone is in silent mode.",
+          "ar": "الهاتف في الوضع الصامت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_model",
+      "en": "model",
+      "ar": "يصمم نموذجاً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Engineers will model the bridge before construction work.",
+          "ar": "سوف يصمم المهندسون نموذجاً للجسر قبل أعمال البناء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_modest",
+      "en": "modest",
+      "ar": "متواضعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She has modest ambitions for the future.",
+          "ar": "لديها طموحات متواضعة للمستقبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_modify",
+      "en": "modify",
+      "ar": "نعدل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We need to modify the schedule for tomorrow.",
+          "ar": "نحتاج أن نعدل الجدول الزمني ليوم غد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_monitor",
+      "en": "monitor",
+      "ar": "شاشة خارجية / يراقب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Doctors carefully monitor the baby's heart rate.",
+          "ar": "يراقب الأطباء بعناية معدل ضربات قلب الطفل."
+        },
+        {
+          "en": "He connected his laptop to an external monitor.",
+          "ar": "قام بتوصيل حاسوبه المحمول بشاشة خارجية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_monster",
+      "en": "monster",
+      "ar": "الوحش",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The monster in the story scared the children.",
+          "ar": "الوحش في القصة أخاف الأطفال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_monthly",
+      "en": "monthly",
+      "ar": "شهرياً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company holds a monthly meeting for updates.",
+          "ar": "تعقد الشركة اجتماعاً شهرياً للاطلاع على آخر المستجدات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

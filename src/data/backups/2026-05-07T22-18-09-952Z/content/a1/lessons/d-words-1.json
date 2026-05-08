@@ -1,0 +1,575 @@
+{
+  "id": "lsn_a1_d_1",
+  "levelId": "lvl_1",
+  "title": "D Words - Part 1",
+  "slug": "d-words-1",
+  "order": 9,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف D - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter D.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف D.",
+  "words": [
+    {
+      "id": "w_a1_cut",
+      "lessonId": "lsn_a1_d_1",
+      "en": "cut",
+      "translation": "يقطع",
+      "ar": "يقطع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I cut the apple in half.",
+          "ar": "قطعت التفاحة إلى نصفين."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dad",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dad",
+      "translation": "أب / أبي",
+      "ar": "أب / أبي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love spending time with dad.",
+          "ar": "أحب قضاء الوقت مع أبي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dance",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dance",
+      "translation": "يرقص / رقصة",
+      "ar": "يرقص / رقصة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She loves to dance at parties.",
+          "ar": "هي تحب أن ترقص في الحفلات."
+        },
+        {
+          "en": "The next dance will be salsa.",
+          "ar": "الرقصة التالية ستكون رقصة السالسا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dancer",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dancer",
+      "translation": "راقص",
+      "ar": "راقص",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Every dancer practiced hard.",
+          "ar": "تدرب كل راقص بجد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dancing",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dancing",
+      "translation": "الرقص",
+      "ar": "الرقص",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Dancing is her favorite hobby.",
+          "ar": "الرقص هو هوايتها المفضلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dangerous",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dangerous",
+      "translation": "خطير",
+      "ar": "خطير",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's dangerous to play with fire.",
+          "ar": "اللعب بالنار خطير."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dark",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dark",
+      "translation": "غامق / مظلم",
+      "ar": "غامق / مظلم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She has dark brown hair.",
+          "ar": "شعرها بني غامق."
+        },
+        {
+          "en": "The room was dark and quiet.",
+          "ar": "كانت الغرفة مظلمة وهادئة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_date",
+      "lessonId": "lsn_a1_d_1",
+      "en": "date",
+      "translation": "تاريخ",
+      "ar": "تاريخ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "What is today's date?",
+          "ar": "ما هو تاريخ اليوم؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_daughter",
+      "lessonId": "lsn_a1_d_1",
+      "en": "daughter",
+      "translation": "ابنة",
+      "ar": "ابنة",
+      "pronunciation": "/'do tər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She is my only daughter.",
+          "ar": "إنها ابنتي الوحيدة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_day",
+      "lessonId": "lsn_a1_d_1",
+      "en": "day",
+      "translation": "يوم",
+      "ar": "يوم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Today is a beautiful day.",
+          "ar": "اليوم هو يوم جميل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dear",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dear",
+      "translation": "عزيز",
+      "ar": "عزيز",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My dear friend visited yesterday.",
+          "ar": "زارني صديقي العزيز بالأمس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_december",
+      "lessonId": "lsn_a1_d_1",
+      "en": "December",
+      "translation": "شهر ديسمبر",
+      "ar": "شهر ديسمبر",
+      "pronunciation": "/dı sem ber/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The year ends in December.",
+          "ar": "ينتهي العام في شهر ديسمبر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_decide",
+      "lessonId": "lsn_a1_d_1",
+      "en": "decide",
+      "translation": "يقرر",
+      "ar": "يقرر",
+      "pronunciation": "/dI'sgid/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I will decide later.",
+          "ar": "سأقرر لاحقاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_delicious",
+      "lessonId": "lsn_a1_d_1",
+      "en": "delicious",
+      "translation": "لذيذ",
+      "ar": "لذيذ",
+      "pronunciation": "/d. Ifəs/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Thank you for the delicious food.",
+          "ar": "شكراً لك على الطعام اللذيذ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_describe",
+      "lessonId": "lsn_a1_d_1",
+      "en": "describe",
+      "translation": "يصف",
+      "ar": "يصف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you describe the house?",
+          "ar": "هل يمكن أن تصف لنا المنزل؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_description",
+      "lessonId": "lsn_a1_d_1",
+      "en": "description",
+      "translation": "وصف",
+      "ar": "وصف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need a complete description.",
+          "ar": "أحتاج إلى وصف كامل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_design",
+      "lessonId": "lsn_a1_d_1",
+      "en": "design",
+      "translation": "تصميم / يصمم",
+      "ar": "تصميم / يصمم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like the design of this building.",
+          "ar": "يعجبني تصميم هذا المبنى."
+        },
+        {
+          "en": "Can you design websites?",
+          "ar": "هل يمكنك أن تصمم مواقع ويب؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_desk",
+      "lessonId": "lsn_a1_d_1",
+      "en": "desk",
+      "translation": "مكتب",
+      "ar": "مكتب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He works at his desk all day.",
+          "ar": "إنه يعمل على مكتبه طوال اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_detail",
+      "lessonId": "lsn_a1_d_1",
+      "en": "detail",
+      "translation": "نقطة / تفصيل",
+      "ar": "نقطة / تفصيل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I missed one important detail.",
+          "ar": "فاتتني نقطة واحدة مهمة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dialogues",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dialogues",
+      "translation": "حوارات",
+      "ar": "حوارات",
+      "pronunciation": "/'dare log, dare lag/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I enjoy reading dialogues in this book.",
+          "ar": "أنا أستمتع بقراءة الحوارات في هذا الكتاب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_dictionary",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dictionary",
+      "translation": "قاموس",
+      "ar": "قاموس",
+      "pronunciation": "/'dık fə neri/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I found the word in the dictionary.",
+          "ar": "وجدت الكلمة في القاموس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_died",
+      "lessonId": "lsn_a1_d_1",
+      "en": "died",
+      "translation": "توفي",
+      "ar": "توفي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My grandfather died last month.",
+          "ar": "توفي جدي الشهر الماضي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_diet",
+      "lessonId": "lsn_a1_d_1",
+      "en": "diet",
+      "translation": "نظام غذائي",
+      "ar": "نظام غذائي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My diet is very healthy.",
+          "ar": "نظامي الغذائي صحي للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_different",
+      "lessonId": "lsn_a1_d_1",
+      "en": "different",
+      "translation": "مختلف",
+      "ar": "مختلف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The two ideas are different.",
+          "ar": "الفكرتان مختلفتان."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_difference",
+      "lessonId": "lsn_a1_d_1",
+      "en": "difference",
+      "translation": "فرق",
+      "ar": "فرق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The difference is small but important.",
+          "ar": "الفرق بسيط ولكنه مهم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

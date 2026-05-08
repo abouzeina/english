@@ -1,0 +1,525 @@
+{
+  "id": "lsn_a2_h",
+  "levelId": "lvl_a2",
+  "title": "Unit 17: H Words",
+  "slug": "h-words",
+  "order": 17,
+  "wordCount": 22,
+  "titleAr": "الوحدة 17: كلمات حرف H",
+  "description": "Master essential A2 vocabulary starting with the letter H.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف H.",
+  "words": [
+    {
+      "id": "w_a2_habit",
+      "en": "habit",
+      "ar": "عادة",
+      "pronunciation": "/'hæb xt/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't make it a habit.",
+          "ar": "لا تجعلها عادة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_hall",
+      "en": "hall",
+      "ar": "قاعة",
+      "pronunciation": "/hol/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The hall is filled with flowers",
+          "ar": "القاعة مليئة بالزهور :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_happily",
+      "en": "happily",
+      "ar": "بسعادة / برحابة صدر",
+      "pronunciation": "/ hæp- -li/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They both lived happily.",
+          "ar": "كلاهما عاشا بسعادة : برحابة صدر :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_headache",
+      "en": "headache",
+      "ar": "صداع",
+      "pronunciation": "/'hed erk/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You gave me a headache.",
+          "ar": "لقد أصبتني بالصداع :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_heart",
+      "en": "heart",
+      "ar": "قلب",
+      "pronunciation": "/hart/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My heart almost stopped",
+          "ar": "كاد قلبي أن يتوقف :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_heat",
+      "en": "heat",
+      "ar": "حرارة / تدفئة",
+      "pronunciation": "/hext/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali hates the summer heat.",
+          "ar": "علي يكره حرارة الصيف :"
+        },
+        {
+          "en": "How do you heat the house ?",
+          "ar": "كيف تقوم بتدفئة المنزل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_heavy",
+      "en": "heavy",
+      "ar": "ثقيل",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The box was too heavy.",
+          "ar": "كان الصندوق ثقيلا جدا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈhe.vi/"
+    },
+    {
+      "id": "w_a2_height",
+      "en": "height",
+      "ar": "مرتفعات",
+      "pronunciation": "/hart/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am afraid of heights.",
+          "ar": "أنا أخاف من المرتفعات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_helpful",
+      "en": "helpful",
+      "ar": "مفيدة",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His advice was very helpful.",
+          "ar": "كانت نصائحه مفيدة للغاية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈhɛlp.fəl/"
+    },
+    {
+      "id": "w_a2_hero",
+      "en": "hero",
+      "ar": "بطل",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Every little boy needs a hero.",
+          "ar": "كل طفل صغير يحتاج إلى بطل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈhɛɹ.oʊ/"
+    },
+    {
+      "id": "w_a2_hers",
+      "en": "hers",
+      "ar": "اختيارها",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The choice was hers.",
+          "ar": "كان الاختيار اختيارها :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/əz/"
+    },
+    {
+      "id": "w_a2_herself",
+      "en": "herself",
+      "ar": "نفسها",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Muna expressed herself clearly.",
+          "ar": "عبرت منى عن نفسها بوضوح :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/hɜːˈsɛlf/"
+    },
+    {
+      "id": "w_a2_hide",
+      "en": "hide",
+      "ar": "تخفي",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You're hiding something.",
+          "ar": "أنت تخفي شيئا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/haɪd/"
+    },
+    {
+      "id": "w_a2_hill",
+      "en": "hill",
+      "ar": "تل",
+      "pronunciation": "/hil/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The old man stood on the hill.",
+          "ar": "وقف الرجل العجوز على التل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_himself",
+      "en": "himself",
+      "ar": "نفسه",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He taught himself chinese.",
+          "ar": "علم نفسه اللغة الصينية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/hɪmˈsɛlf/"
+    },
+    {
+      "id": "w_a2_hit",
+      "en": "hit",
+      "ar": "تضرب / ضربة",
+      "pronunciation": "/hit/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you hit your children ?",
+          "ar": "هل تضرب أطفالك : ؟"
+        },
+        {
+          "en": "She made the winning hit.",
+          "ar": "لقد أحرزت ضربة الفوز :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_hockey",
+      "en": "hockey",
+      "ar": "هوكي",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He played hockey with his friends.",
+          "ar": "لعب الهوكي مع أصدقائه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈhɒki/"
+    },
+    {
+      "id": "w_a2_hold",
+      "en": "hold",
+      "ar": "يمسك",
+      "pronunciation": "/hould/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can I hold your hand ?",
+          "ar": "هل يمكنني أن أمسك يدك : ؟"
+        },
+        {
+          "en": "She lost her hold on the rope.",
+          "ar": "فقدت قبضتها بالحبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_hole",
+      "en": "hole",
+      "ar": "ثقوب / فَجوة",
+      "pronunciation": "/houl/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The box has holes in it.",
+          "ar": "الصندوق به ثقوب : فَجوة | ثقب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_huge",
+      "en": "huge",
+      "ar": "ضخمة",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "China is a huge country.",
+          "ar": "الصين دولة ضخمة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/[hʊudʒ]/"
+    },
+    {
+      "id": "w_a2_human",
+      "en": "human",
+      "ar": "البشر / بشري",
+      "pronunciation": "/hju mən/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Water is important for humans.",
+          "ar": "الماء مهم للبشر :"
+        },
+        {
+          "en": "The head is a part of the human body.",
+          "ar": "الرأس هو جزء من الجسم البشري :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_hurt",
+      "en": "hurt",
+      "ar": "تؤلم / مصاب",
+      "pronunciation": "/h3rt/",
+      "lessonId": "lsn_a2_h",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Does it hurt?",
+          "ar": "هل تؤلم : ؟"
+        },
+        {
+          "en": "The hurt player didn't play with the team",
+          "ar": "اللاعب المصاب لم يلعب مع الفريق :"
+        },
+        {
+          "en": "He tried to hide the hurt he felt inside.",
+          "ar": "حاول إخفاء الألم الذي شعر به في داخله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

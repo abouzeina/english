@@ -1,0 +1,57 @@
+{
+  "id": "lsn_a2_z_1",
+  "levelId": "lvl_2",
+  "slug": "z-words-1",
+  "title": "Unit 47: Z Words - Part 1",
+  "titleAr": "الوحدة 47: كلمات حرف Z - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter Z.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف Z.",
+  "order": 47,
+  "wordCount": 2,
+  "words": [
+    {
+      "id": "w_a2_yours",
+      "en": "yours",
+      "ar": "لكِ",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_z_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is she a friend of yours?",
+          "ar": "هل هي صديقة لكِ ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_zero",
+      "en": "zero",
+      "ar": "صفر",
+      "pronunciation": "/zıər ou/",
+      "lessonId": "lsn_a2_z_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The temperature is below zero.",
+          "ar": "درجة الحرارة تحت الصفر :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

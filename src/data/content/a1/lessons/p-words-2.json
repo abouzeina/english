@@ -1,14 +1,84 @@
 {
   "id": "lsn_a1_p_2",
-  "levelId": "lvl_1",
-  "title": "P Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 32: P Words - Part 2",
   "slug": "p-words-2",
   "order": 32,
-  "wordCount": 21,
-  "titleAr": "كلمات حرف P - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter P.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف P.",
+  "wordCount": 20,
+  "titleAr": "الوحدة 32: كلمات حرف P - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف P.",
   "words": [
+    {
+      "id": "w_a1_personal",
+      "lessonId": "lsn_a1_p_2",
+      "en": "personal",
+      "translation": "شخصي",
+      "ar": "شخصي",
+      "pronunciation": "/'par-sənəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That is my personal opinion.",
+          "ar": "هذا رأيي الشخصي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_phone",
+      "lessonId": "lsn_a1_p_2",
+      "en": "phone",
+      "translation": "هاتف / يتصل",
+      "ar": "هاتف / يتصل",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I forgot my phone at home.",
+          "ar": "نسيت هاتفي في المنزل."
+        },
+        {
+          "en": "I will phone you later.",
+          "ar": "سأتصل بك لاحقاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fəʊ̯n/"
+    },
+    {
+      "id": "w_a1_photo",
+      "lessonId": "lsn_a1_p_2",
+      "en": "photo",
+      "translation": "صورة",
+      "ar": "صورة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His photo is on the wall.",
+          "ar": "صورته (معلقة) على الحائط."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfəʊ.təʊ/"
+    },
     {
       "id": "w_a1_photograph",
       "lessonId": "lsn_a1_p_2",
@@ -21,12 +91,17 @@
         {
           "en": "I took a great photograph today.",
           "ar": "التقطت صورة رائعة اليوم."
+        },
+        {
+          "en": "I like to photograph mountains.",
+          "ar": "أحب أن أصور الجبال."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -37,7 +112,6 @@
       "en": "phrase",
       "translation": "عبارة",
       "ar": "عبارة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +125,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/fɹeɪz/"
     },
     {
       "id": "w_a1_piano",
@@ -59,7 +134,6 @@
       "en": "piano",
       "translation": "بيانو",
       "ar": "بيانو",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -73,7 +147,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/piˈænoʊ/"
     },
     {
       "id": "w_a1_picture",
@@ -81,21 +156,27 @@
       "en": "picture",
       "translation": "صورة",
       "ar": "صورة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "He forgot to send the picture.",
           "ar": "لقد نسي إرسال الصورة."
+        },
+        {
+          "en": "Picture yourself relaxing by the ocean waves.",
+          "ar": "تخيل نفسك وأنت تسترخي بجانب أمواج المحيط."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɪktʃə/"
     },
     {
       "id": "w_a1_piece",
@@ -147,7 +228,6 @@
       "en": "pink",
       "translation": "وردي",
       "ar": "وردي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -161,7 +241,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/pɪŋk/"
     },
     {
       "id": "w_a1_place",
@@ -169,7 +250,6 @@
       "en": "place",
       "translation": "مكان",
       "ar": "مكان",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -183,7 +263,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/pleɪs/"
     },
     {
       "id": "w_a1_plan",
@@ -191,7 +272,6 @@
       "en": "plan",
       "translation": "خطة / يعتزم / ينوي",
       "ar": "خطة / يعتزم / ينوي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -213,7 +293,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/plæn/"
     },
     {
       "id": "w_a1_plane",
@@ -221,7 +302,6 @@
       "en": "plane",
       "translation": "طائرة",
       "ar": "طائرة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -235,7 +315,30 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/pleɪn/"
+    },
+    {
+      "id": "w_a2_plant",
+      "en": "plant",
+      "ar": "يزرع",
+      "lessonId": "lsn_a1_p_2",
+      "levelId": "lvl_a1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We may plant a couple more trees.",
+          "ar": "قد نزرع عدة أشجار أخرى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/plænt/"
     },
     {
       "id": "w_a1_plants",
@@ -243,7 +346,6 @@
       "en": "plants",
       "translation": "نباتات",
       "ar": "نباتات",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -257,7 +359,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/plɑːnts/"
     },
     {
       "id": "w_a1_play",
@@ -265,7 +368,6 @@
       "en": "play",
       "translation": "يلعب / يعزف / مسرحية",
       "ar": "يلعب / يعزف / مسرحية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -287,7 +389,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/pleɪ/"
     },
     {
       "id": "w_a1_player",
@@ -295,7 +398,6 @@
       "en": "player",
       "translation": "لاعب",
       "ar": "لاعب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -309,7 +411,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpleɪə(ɹ)/"
     },
     {
       "id": "w_a1_please",
@@ -317,21 +420,26 @@
       "en": "please",
       "translation": "من فضلك",
       "ar": "من فضلك",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Can you help me please?",
           "ar": "هل يمكنك مساعدتي من فضلك؟"
+        },
+        {
+          "en": "You can't please everybody.",
+          "ar": "لا يمكنك أن ترضي الجميع :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/pliːz/"
     },
     {
       "id": "w_a1_point",
@@ -361,7 +469,6 @@
       "en": "police",
       "translation": "شرطة",
       "ar": "شرطة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -375,117 +482,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_policeman",
-      "lessonId": "lsn_a1_p_2",
-      "en": "policeman",
-      "translation": "شرطي",
-      "ar": "شرطي",
-      "pronunciation": "/pə'lis mən/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I saw a policeman at school.",
-          "ar": "رأيت شرطياً في المدرسة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_pool",
-      "lessonId": "lsn_a1_p_2",
-      "en": "pool",
-      "translation": "حوض سباحة",
-      "ar": "حوض سباحة",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The pool is very clean.",
-          "ar": "حوض السباحة نظيف جداً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_poor",
-      "lessonId": "lsn_a1_p_2",
-      "en": "poor",
-      "translation": "فقير",
-      "ar": "فقير",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "They are a poor family.",
-          "ar": "إنهم عائلة فقيرة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_popular",
-      "lessonId": "lsn_a1_p_2",
-      "en": "popular",
-      "translation": "شعبية / مشهور",
-      "ar": "شعبية / مشهور",
-      "pronunciation": "/'pa-pjə lər/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "This song is very popular.",
-          "ar": "هذه الأغنية تحظى بشعبية كبيرة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_positive",
-      "lessonId": "lsn_a1_p_2",
-      "en": "positive",
-      "translation": "إيجابي",
-      "ar": "إيجابي",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Be positive; every-thing will be OK.",
-          "ar": "كن إيجابياً؛ كل شيء سيكون على ما يرام."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/[pəˈliːs]/"
     }
   ]
 }

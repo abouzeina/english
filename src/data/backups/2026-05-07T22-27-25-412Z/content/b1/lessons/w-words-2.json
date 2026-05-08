@@ -1,0 +1,35 @@
+{
+  "id": "lsn_b1_w_2",
+  "levelId": "lvl_b1",
+  "slug": "w-words-2",
+  "title": "Unit 44: W Words - Part 2",
+  "titleAr": "الوحدة 44: كلمات حرف W - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with W.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف W.",
+  "order": 44,
+  "wordCount": 1,
+  "words": [
+    {
+      "id": "w_b1_worth",
+      "en": "worth",
+      "ar": "يستحق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This book isn't worth reading.",
+          "ar": "هذا الكتاب لا يستحق القراءة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

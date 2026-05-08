@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b2_e_1",
+  "levelId": "lvl_b2",
+  "title": "Unit 17: E Words - Part 1",
+  "slug": "e-words-1",
+  "order": 17,
+  "wordCount": 25,
+  "titleAr": "الوحدة 17: كلمات حرف E - الجزء 1",
+  "description": "Master essential B2 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف E.",
+  "words": [
+    {
+      "id": "w_b2_entrepreneur",
+      "en": "entrepreneur",
+      "ar": "رجل أعمال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is a successful entrepreneur who created five companies.",
+          "ar": "إنه رجل أعمال ناجح أنشأ خمس شركات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_envelope",
+      "en": "envelope",
+      "ar": "ظرف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Which stamp do I need to put on this envelope?",
+          "ar": "ما هو الطابع البريدي الذي أحتاج لوضعه على هذا الظرف ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_equals",
+      "en": "equals",
+      "ar": "على قدم المساواة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Teachers should treat all students as equals.",
+          "ar": "يجب على المعلمين معاملة جميع الطلاب على قدم المساواة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_equipped",
+      "en": "equipped",
+      "ar": "مجهز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We rented a fully equipped flat for a good price.",
+          "ar": "استأجرنا شقة مجهزة بالكامل بسعر جيد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_equivalent",
+      "en": "equivalent",
+      "ar": "ما يعادله",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The price is $250 or the equivalent in your own currency.",
+          "ar": "السعر هو 250 دولارًا أو ما يعادله بعملتك المحلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_era",
+      "en": "era",
+      "ar": "عصر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We live in the technology era.",
+          "ar": "نحن نعيش في عصر التكنولوجيا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_erupt",
+      "en": "erupt",
+      "ar": "يثور",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They left the village, the volcano may erupt anytime.",
+          "ar": "لقد غادروا القرية، قد يثور البركان في أي وقت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_essentially",
+      "en": "essentially",
+      "ar": "في الأساس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Essentially, what we suggest is a change in the staff.",
+          "ar": "في الأساس، ما نقترحه هو تغيير في طاقم العمل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_establish",
+      "en": "establish",
+      "ar": "ننشئ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We'll establish a private school with high standards.",
+          "ar": "سوف ننشئ مدرسة خاصة بمعايير عالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_estate",
+      "en": "estate",
+      "ar": "أرض / ملكية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We own a large estate in the southern part of the country.",
+          "ar": "نملك أرضًا كبيرة في الجزء الجنوبي من البلاد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_estimate",
+      "en": "estimate",
+      "ar": "تقدير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I can't give you an accurate estimate of the cost.",
+          "ar": "لا أستطيع أن أعطيك تقديرًا دقيقًا للتكلفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_estimated",
+      "en": "estimated",
+      "ar": "قدروا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They estimated the damage at five thousand dollars.",
+          "ar": "قدروا الأضرار بخمسة آلاف دولار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ethical",
+      "en": "ethical",
+      "ar": "أخلاقية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This book discusses some ethical issues.",
+          "ar": "يناقش هذا الكتاب بعض القضايا الأخلاقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ethics",
+      "en": "ethics",
+      "ar": "مبادئ / أخلاقيات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My ethics prevent me from accepting your offer.",
+          "ar": "مبادئي تمنعني من قبول عرضك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ethnic",
+      "en": "ethnic",
+      "ar": "عرقي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We have an amazing ethnic diversity in our country.",
+          "ar": "لدينا تنوع عرقي مدهش في بلدنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evaluates",
+      "en": "evaluates",
+      "ar": "يقوم بتقييم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We are a team that evaluates coffee quality.",
+          "ar": "نحن فريق يقوم بتقييم جودة القهوة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evaluation",
+      "en": "evaluation",
+      "ar": "تقييم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Did you finish the evaluation of all candidates?",
+          "ar": "هل انتهيتم من تقييم جميع المرشحين ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evident",
+      "en": "evident",
+      "ar": "جليا / واضحا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It has become evident for us that he was innocent.",
+          "ar": "لقد أصبح جليا لدينا أنه كان بريءا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evil",
+      "en": "evil",
+      "ar": "شرير / شر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "An evil smile appeared on his face.",
+          "ar": "ظهرت ابتسامة شريرة على وجهه."
+        },
+        {
+          "en": "The conflict between good and evil continues.",
+          "ar": "ويستمر الصراع بين الخير والشر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evolution",
+      "en": "evolution",
+      "ar": "التطور",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We studied Darwin's theory of evolution in college.",
+          "ar": "لقد درسنا نظرية التطور لدارون في الكلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evolved",
+      "en": "evolved",
+      "ar": "تطورت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Online games evolved over the past decade.",
+          "ar": "تطورت ألعاب الإنترنت على مدى العقد الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_examination",
+      "en": "examination",
+      "ar": "اختبار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She failed her examination in biology.",
+          "ar": "لقد رسبت في اختبارها في الأحياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_exceed",
+      "en": "exceed",
+      "ar": "تتجاوز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The cost of our services will not exceed 2000 Riyals.",
+          "ar": "تكلفة خدماتنا لن تتجاوز 2000 ريال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_exceptions",
+      "en": "exceptions",
+      "ar": "استثناءات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Are there any exceptions to that policy ?",
+          "ar": "هل هناك أي استثناءات لهذه السياسة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_excessive",
+      "en": "excessive",
+      "ar": "المفرطة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They reported that the police had used excessive force.",
+          "ar": "أفادوا أن الشرطة استخدمت القوة المفرطة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

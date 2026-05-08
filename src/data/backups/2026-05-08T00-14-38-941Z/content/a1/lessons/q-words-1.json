@@ -1,0 +1,127 @@
+{
+  "id": "lsn_a1_q_1",
+  "levelId": "lvl_1",
+  "title": "Q Words - Part 1",
+  "slug": "q-words-1",
+  "order": 33,
+  "wordCount": 5,
+  "titleAr": "كلمات حرف Q - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter Q.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف Q.",
+  "words": [
+    {
+      "id": "w_a1_put",
+      "lessonId": "lsn_a1_q_1",
+      "en": "put",
+      "translation": "ضع / يضع",
+      "ar": "ضع / يضع",
+      "pronunciation": "/put/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Put the phone away.",
+          "ar": "ضع الهاتف جانباً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_quarter",
+      "lessonId": "lsn_a1_q_1",
+      "en": "quarter",
+      "translation": "ربع",
+      "ar": "ربع",
+      "pronunciation": "/'kwor tər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's a quarter past two.",
+          "ar": "إنها الثانية والربع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_question",
+      "lessonId": "lsn_a1_q_1",
+      "en": "question",
+      "translation": "سؤال",
+      "ar": "سؤال",
+      "pronunciation": "/'kwes-tfən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please answer my question.",
+          "ar": "الرجاء الإجابة على سؤالي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_quick",
+      "lessonId": "lsn_a1_q_1",
+      "en": "quick",
+      "translation": "سريع / بسرعة",
+      "ar": "سريع / بسرعة",
+      "pronunciation": "/kwık/ /'kwık-li/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I took a quick shower.",
+          "ar": "أخذت دشاً سريعاً."
+        },
+        {
+          "en": "They left school quickly.",
+          "ar": "لقد غادروا المدرسة بسرعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_quiet",
+      "lessonId": "lsn_a1_q_1",
+      "en": "quiet",
+      "translation": "هادئ",
+      "ar": "هادئ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This park is always quiet.",
+          "ar": "هذه الحديقة هادئة دائماً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

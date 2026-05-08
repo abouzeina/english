@@ -1,43 +1,20 @@
 {
   "id": "lsn_a1_p_1",
-  "levelId": "lvl_1",
-  "title": "P Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 31: P Words - Part 1",
   "slug": "p-words-1",
   "order": 31,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف P - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter P.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف P.",
+  "wordCount": 21,
+  "titleAr": "الوحدة 31: كلمات حرف P - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف P.",
   "words": [
-    {
-      "id": "w_a1_own",
-      "lessonId": "lsn_a1_p_1",
-      "en": "own",
-      "translation": "خاص",
-      "ar": "خاص",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "They built their own house.",
-          "ar": "بنوا منزلهم الخاص."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_page",
       "lessonId": "lsn_a1_p_1",
       "en": "page",
       "translation": "صفحة",
       "ar": "صفحة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +28,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/peɪd͡ʒ/"
     },
     {
       "id": "w_a1_paint",
@@ -89,7 +67,6 @@
       "en": "painting",
       "translation": "لوحة / الرسم",
       "ar": "لوحة / الرسم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -107,7 +84,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpeɪn.tɪŋ/"
     },
     {
       "id": "w_a1_pair",
@@ -185,7 +163,6 @@
       "en": "parents",
       "translation": "والدان",
       "ar": "والدان",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -199,7 +176,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɛəɹənts/"
     },
     {
       "id": "w_a1_park",
@@ -207,7 +185,6 @@
       "en": "park",
       "translation": "متنزه / يوقف سيارته",
       "ar": "متنزه / يوقف سيارته",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -225,7 +202,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/[paːk]/"
     },
     {
       "id": "w_a1_part",
@@ -233,7 +211,6 @@
       "en": "part",
       "translation": "جزء",
       "ar": "جزء",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -247,7 +224,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/pɐːt/"
     },
     {
       "id": "w_a1_partner",
@@ -277,7 +255,6 @@
       "en": "party",
       "translation": "حفلة",
       "ar": "حفلة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -291,7 +268,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɑ(ː)ɾi/"
     },
     {
       "id": "w_a1_passport",
@@ -299,7 +277,6 @@
       "en": "passport",
       "translation": "جواز سفر",
       "ar": "جواز سفر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -313,7 +290,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɑːspɔːt/"
     },
     {
       "id": "w_a1_past",
@@ -321,7 +299,6 @@
       "en": "past",
       "translation": "ماضي / الماضية / بعد / وللوقت",
       "ar": "ماضي / الماضية / بعد / وللوقت",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -339,15 +316,21 @@
         {
           "en": "It's five past three.",
           "ar": "إنها الثالثة وخمس دقائق."
+        },
+        {
+          "en": "A month went past and nothing had changed",
+          "ar": "شهر مضى ولم يتغير شيء."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/pɑːst/"
     },
     {
       "id": "w_a1_pay",
@@ -355,21 +338,26 @@
       "en": "pay",
       "translation": "يدفع",
       "ar": "يدفع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Can you pay the bill?",
           "ar": "هل يمكن أن تدفع الفاتورة؟"
+        },
+        {
+          "en": "My job is hard, but the pay is good.",
+          "ar": "عملي صعب، لكن الراتب جيد :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/peɪ/"
     },
     {
       "id": "w_a1_pen",
@@ -377,7 +365,6 @@
       "en": "pen",
       "translation": "قلم حبر",
       "ar": "قلم حبر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -391,7 +378,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/pɛn/"
     },
     {
       "id": "w_a1_pencil",
@@ -399,7 +387,6 @@
       "en": "pencil",
       "translation": "قلم رصاص",
       "ar": "قلم رصاص",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -413,7 +400,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɛnsɪl/"
     },
     {
       "id": "w_a1_people",
@@ -421,7 +409,6 @@
       "en": "people",
       "translation": "ناس",
       "ar": "ناس",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -435,7 +422,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpiːpəl/"
     },
     {
       "id": "w_a1_pepper",
@@ -443,7 +431,6 @@
       "en": "pepper",
       "translation": "فلفل",
       "ar": "فلفل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -457,7 +444,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɛpə/"
     },
     {
       "id": "w_a1_perfect",
@@ -465,7 +453,6 @@
       "en": "perfect",
       "translation": "مثالي",
       "ar": "مثالي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -479,7 +466,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɜː.fɛkt/"
     },
     {
       "id": "w_a1_period",
@@ -515,76 +503,6 @@
         {
           "en": "He is a tall person.",
           "ar": "إنه شخص طويل القامة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_personal",
-      "lessonId": "lsn_a1_p_1",
-      "en": "personal",
-      "translation": "شخصي",
-      "ar": "شخصي",
-      "pronunciation": "/'par-sənəl/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "That is my personal opinion.",
-          "ar": "هذا رأيي الشخصي."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_phone",
-      "lessonId": "lsn_a1_p_1",
-      "en": "phone",
-      "translation": "هاتف / يتصل",
-      "ar": "هاتف / يتصل",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I forgot my phone at home.",
-          "ar": "نسيت هاتفي في المنزل."
-        },
-        {
-          "en": "I will phone you later.",
-          "ar": "سأتصل بك لاحقاً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_photo",
-      "lessonId": "lsn_a1_p_1",
-      "en": "photo",
-      "translation": "صورة",
-      "ar": "صورة",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "His photo is on the wall.",
-          "ar": "صورته (معلقة) على الحائط."
         }
       ],
       "difficulty": "A1",

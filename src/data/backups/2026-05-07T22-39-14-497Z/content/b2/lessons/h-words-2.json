@@ -1,0 +1,391 @@
+{
+  "id": "lsn_b2_h_2",
+  "levelId": "lvl_b2",
+  "slug": "h-words-2",
+  "title": "H Words - Part 2",
+  "titleAr": "كلمات حرف H - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter H.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف H.",
+  "order": 30,
+  "wordCount": 17,
+  "words": [
+    {
+      "id": "w_b2_holy",
+      "en": "holy",
+      "ar": "المكرمة / المقدسة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Muslims face the holy city of Mecca during their prayers.",
+          "ar": "يتجه المسلمون إلى مدينة مكة المكرمة أثناء صلاتهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_homeless",
+      "en": "homeless",
+      "ar": "المشردين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He started a charity for homeless people.",
+          "ar": "بدأ جمعية خيرية للمشردين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_honesty",
+      "en": "honesty",
+      "ar": "صدقه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His honesty made a positive impression on everyone.",
+          "ar": "لقد ترك صدقه انطباعاً إيجابياً لدى الجميع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_honor",
+      "en": "honor",
+      "ar": "إجلال / تكريم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was a simple ceremony to honor her achievements.",
+          "ar": "كان حفلاً بسيطاً لتكريم إنجازاتها."
+        },
+        {
+          "en": "They treated the guests with great honor and respect.",
+          "ar": "لقد عاملوا الضيوف بإجلال واحترام كبيرين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hook",
+      "en": "hook",
+      "ar": "الخطاف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He hung his coat on the hook by the door.",
+          "ar": "علق معطفه على الخطاف بجانب الباب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hopefully",
+      "en": "Hopefully",
+      "ar": "نأمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Hopefully, we'll be able to finish the project by Monday.",
+          "ar": "نأمل أن نتمكن من إنهاء المشروع بحلول يوم الاثنين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hosts",
+      "en": "hosts",
+      "ar": "يستضيف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He hosts a weekly book club at his house.",
+          "ar": "يستضيف نادياً أسبوعياً للكتاب في منزله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_household",
+      "en": "household",
+      "ar": "أسرتنا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our household consists of six members.",
+          "ar": "تتكون أسرتنا من ستة أفراد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_houses",
+      "en": "houses",
+      "ar": "تسكن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The university houses its students in shared apartments.",
+          "ar": "تسكن الجامعة طلابها في شقق مشتركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_housing",
+      "en": "housing",
+      "ar": "سكن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Finding affordable housing in this area is difficult.",
+          "ar": "العثور على سكن بسعر مناسب في هذه المنطقة أمر صعب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_humor",
+      "en": "humor",
+      "ar": "حس الفكاهة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His humor always changes the mood in any situation.",
+          "ar": "حس الفكاهة لديه دائماً يغير المزاج في أي موقف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_humorous",
+      "en": "humorous",
+      "ar": "الفكاهية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He enjoys writing humorous poems to entertain his friends.",
+          "ar": "إنه يستمتع بكتابة القصائد الفكاهية لتسلية أصدقائه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hunger",
+      "en": "hunger",
+      "ar": "جوع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She felt a deep hunger after the long flight.",
+          "ar": "شعرت بجوع شديد بعد الرحلة الطويلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hunt",
+      "en": "hunt",
+      "ar": "صيد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They went on a rabbit hunt in the mountains last weekend.",
+          "ar": "ذهبوا لصيد الأرانب في الجبال في نهاية الأسبوع الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hunting",
+      "en": "hunting",
+      "ar": "الصيد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We go hunting every month.",
+          "ar": "نذهب للصيد كل شهر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hurt",
+      "en": "hurt",
+      "ar": "ألم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He tried to hide the hurt he felt inside.",
+          "ar": "حاول إخفاء الألم الذي شعر به في داخله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hypothesis",
+      "en": "hypothesis",
+      "ar": "فرضية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Scientists are testing a new hypothesis.",
+          "ar": "يقوم العلماء باختبار فرضية جديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

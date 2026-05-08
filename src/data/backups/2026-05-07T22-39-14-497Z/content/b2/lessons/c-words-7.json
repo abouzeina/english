@@ -1,0 +1,149 @@
+{
+  "id": "lsn_b2_c_7",
+  "levelId": "lvl_b2",
+  "slug": "c-words-7",
+  "title": "C Words - Part 7",
+  "titleAr": "كلمات حرف C - الجزء 7",
+  "description": "Learn essential B2 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف C.",
+  "order": 15,
+  "wordCount": 6,
+  "words": [
+    {
+      "id": "w_b2_curious",
+      "en": "curious",
+      "ar": "فضول",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_7",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We were curious to know who will be the new boss.",
+          "ar": "كان لدينا فضول لمعرفة من سيكون الرئيس الجديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_current",
+      "en": "current",
+      "ar": "التيار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_7",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You can't swim against the current.",
+          "ar": "لا يمكنك السباحة ضد التيار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_curriculum",
+      "en": "curriculum",
+      "ar": "المنهج الدراسي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_7",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They updated the curriculum last year.",
+          "ar": "لقد قاموا بتحديث المنهج الدراسي في العام الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_curve",
+      "en": "curve",
+      "ar": "منعطف / ينعطف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_7",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Slow down, there is a tight curve ahead.",
+          "ar": "تمهل هناك منعطف ضيق أمامك."
+        },
+        {
+          "en": "The road curves towards the south.",
+          "ar": "الطريق ينعطف نحو الجنوب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_curved",
+      "en": "curved",
+      "ar": "منحنية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_7",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I bought a new phone with a curved screen.",
+          "ar": "اشتريت هاتفا جديدًا بشاشة منحنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cute",
+      "en": "cute",
+      "ar": "لطيفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_7",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It is a cute little cat.",
+          "ar": "إنها قطة صغيرة لطيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

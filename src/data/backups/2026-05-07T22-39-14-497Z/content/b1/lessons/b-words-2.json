@@ -1,0 +1,193 @@
+{
+  "id": "lsn_b1_b_2",
+  "levelId": "lvl_b1",
+  "slug": "b-words-2",
+  "title": "Unit 5: B Words - Part 2",
+  "titleAr": "الوحدة 5: كلمات حرف B - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with B.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف B.",
+  "order": 5,
+  "wordCount": 8,
+  "words": [
+    {
+      "id": "w_b1_brand",
+      "en": "brand",
+      "ar": "ماركة / يسم بـ",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What's your favorite brand of shoes?",
+          "ar": "ما هي ماركة الأحذية المفضلة لديك ؟"
+        },
+        {
+          "en": "They branded him a criminal.",
+          "ar": "وسموه بالمجرم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_brave",
+      "en": "brave",
+      "ar": "شجاع / مقدام",
+      "pronunciation": "/brerv/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was a brave soldier.",
+          "ar": "لقد كان جنديا شجاعًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_breath",
+      "en": "breath",
+      "ar": "نَفَس",
+      "pronunciation": "/bree/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Hold your breath for a moment.",
+          "ar": "احبس نفسك للحظة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_breathe",
+      "en": "breathe",
+      "ar": "يتنفس",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Breathe through your nose.",
+          "ar": "تنفس من خلال أنفك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_breathing",
+      "en": "breathing",
+      "ar": "تنفس (اسم)",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali heard heavy breathing behind him.",
+          "ar": "سمع علي تنفسًا ثقيلاً خلفه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bride",
+      "en": "bride",
+      "ar": "عروس",
+      "pronunciation": "/braid/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The bride finally arrived.",
+          "ar": "وصلت العروس أخيرا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bubbles",
+      "en": "bubbles",
+      "ar": "فقاعات",
+      "pronunciation": "/'babel/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This soap makes a lot of bubbles.",
+          "ar": "هذا الصابون يصنع الكثير من الفقاعات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_buried",
+      "en": "buried",
+      "ar": "دفن / يطمر",
+      "pronunciation": "/ ber-i/",
+      "lessonId": "lsn_b1_b_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We buried my grandfather on a rainy day.",
+          "ar": "دفنا جدي في يوم ممطر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

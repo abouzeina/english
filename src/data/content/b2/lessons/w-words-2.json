@@ -1,0 +1,331 @@
+{
+  "id": "lsn_b2_w_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 55: W Words - Part 2",
+  "slug": "w-words-2",
+  "order": 55,
+  "wordCount": 13,
+  "titleAr": "الوحدة 55: كلمات حرف W - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter W.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف W.",
+  "words": [
+    {
+      "id": "w_b2_wildlife",
+      "en": "wildlife",
+      "ar": "الحياة البرية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Wildlife photographers capture amazing moments in nature.",
+          "ar": "يلتقط مصورو الحياة البرية لحظات مذهلة في الطبيعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_willing",
+      "en": "willing",
+      "ar": "استعداد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They are willing to work extra hours tonight.",
+          "ar": "إنهم على استعداد للعمل لساعات إضافية الليلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_winds",
+      "en": "winds",
+      "ar": "يتعرج",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The road winds through the mountains like a snake.",
+          "ar": "يتعرج الطريق عبر الجبال مثل الأفعى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/wɪndz/"
+    },
+    {
+      "id": "w_b2_wire",
+      "en": "wire",
+      "ar": "سلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We need a thin wire to connect the two batteries.",
+          "ar": "نحتاج إلى سلك رفيع لتوصيل البطاريتين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wisdom",
+      "en": "wisdom",
+      "ar": "الحكمة / حكيمًا",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She made a wise decision about her future job.",
+          "ar": "لقد اتخذت قرارًا حكيمًا بشأن وظيفتها المستقبلية."
+        },
+        {
+          "en": "Wisdom is more valuable than money or fame.",
+          "ar": "الحكمة أثمن من المال أو الشهرة."
+        },
+        {
+          "en": "هو محترم بسبب حكمته الكبيرة وخبرته.",
+          "ar": "The ancient proverbs are full of practical wisdom."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈwɪzdəm/"
+    },
+    {
+      "id": "w_b2_withdraw",
+      "en": "withdraw",
+      "ar": "أسحب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I need to withdraw some cash before shopping.",
+          "ar": "أحتاج أن أسحب من البنك بعض النقود قبل التسوق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_witness",
+      "en": "witness",
+      "ar": "الشاهد / شهد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He witnessed the robbery but couldn't stop it.",
+          "ar": "لقد شهد عملية السرقة لكنه لم يستطع إيقافها."
+        },
+        {
+          "en": "The witness described the suspect's appearance in detail.",
+          "ar": "وقد وصف الشاهد ملامح المشتبه به بالتفصيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_workshop",
+      "en": "workshop",
+      "ar": "ورشة العمل",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The workshop covered basic photography techniques.",
+          "ar": "غطت ورشة العمل التقنيات الأساسية للتصوير الفوتوغرافي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈwɜːk.ʃɒp/"
+    },
+    {
+      "id": "w_b2_worms",
+      "en": "worms",
+      "ar": "الديدان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Birds love eating worms early in the morning.",
+          "ar": "تحب الطيور تناول الديدان في الصباح الباكر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_worse",
+      "en": "worse",
+      "ar": "أسوأ / أسوأ",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They feared worse but remained optimistic.",
+          "ar": "كانوا يخشون ما هو أسوأ لكنهم ظلوا متفائلين."
+        },
+        {
+          "en": "They saw the worst in human nature that day.",
+          "ar": "لقد رأوا أسوأ ما في الطبيعة البشرية في ذلك اليوم."
+        },
+        {
+          "en": "The situation is getting worse.",
+          "ar": "الوضع يزداد سوءًا :"
+        },
+        {
+          "en": "The situation got worse.",
+          "ar": "ازداد الوضع سوءا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/wɜːs/"
+    },
+    {
+      "id": "w_b2_wound",
+      "en": "wound",
+      "ar": "جرحه / جرح",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His deep wound needed immediate medical attention.",
+          "ar": "كان جرحه العميق بحاجة إلى عناية طبية فورية."
+        },
+        {
+          "en": "The sharp glass wounded my foot badly.",
+          "ar": "الزجاج الحاد جرح قدمي بشدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/wuːnd/"
+    },
+    {
+      "id": "w_b2_wrapped",
+      "en": "wrapped",
+      "ar": "غلفت",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I wrapped the gift in colorful paper.",
+          "ar": "غلفت الهدية بورق ملون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹæpt/"
+    },
+    {
+      "id": "w_b2_wrist",
+      "en": "wrist",
+      "ar": "معصمه",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His wrist hurt after playing tennis all day.",
+          "ar": "أصيب معصمه بعد لعب التنس طوال اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪst/"
+    }
+  ]
+}

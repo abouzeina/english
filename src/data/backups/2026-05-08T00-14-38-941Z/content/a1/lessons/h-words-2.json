@@ -1,0 +1,351 @@
+{
+  "id": "lsn_a1_h_2",
+  "levelId": "lvl_1",
+  "title": "H Words - Part 2",
+  "slug": "h-words-2",
+  "order": 18,
+  "wordCount": 15,
+  "titleAr": "كلمات حرف H - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter H.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف H.",
+  "words": [
+    {
+      "id": "w_a1_hobby",
+      "lessonId": "lsn_a1_h_2",
+      "en": "hobby",
+      "translation": "هواية",
+      "ar": "هواية",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My hobby is reading books.",
+          "ar": "هوايتي هي قراءة الكتب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_holiday",
+      "lessonId": "lsn_a1_h_2",
+      "en": "holiday",
+      "translation": "إجازة / عطلة",
+      "ar": "إجازة / عطلة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need a holiday to relax.",
+          "ar": "أحتاج إلى إجازة للاسترخاء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_home",
+      "lessonId": "lsn_a1_h_2",
+      "en": "home",
+      "translation": "منزل",
+      "ar": "منزل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He works from home today.",
+          "ar": "إنه يعمل من المنزل اليوم."
+        },
+        {
+          "en": "We stayed home all day.",
+          "ar": "بقينا في المنزل طوال اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_homework",
+      "lessonId": "lsn_a1_h_2",
+      "en": "homework",
+      "translation": "واجب منزلي",
+      "ar": "واجب منزلي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I finished my homework early.",
+          "ar": "أنهيت واجبي المنزلي مبكراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hope",
+      "lessonId": "lsn_a1_h_2",
+      "en": "hope",
+      "translation": "يأمل / يرجو",
+      "ar": "يأمل / يرجو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I hope everything goes well.",
+          "ar": "أرجو أن يسير كل شيء على ما يرام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_horse",
+      "lessonId": "lsn_a1_h_2",
+      "en": "horse",
+      "translation": "حصان",
+      "ar": "حصان",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a white horse on the street.",
+          "ar": "رأيت حصاناً أبيض في الشارع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hospital",
+      "lessonId": "lsn_a1_h_2",
+      "en": "hospital",
+      "translation": "مستشفى",
+      "ar": "مستشفى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She works at a public hospital.",
+          "ar": "إنها تعمل في مستشفى عام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hot",
+      "lessonId": "lsn_a1_h_2",
+      "en": "hot",
+      "translation": "حار",
+      "ar": "حار",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's too hot outside today.",
+          "ar": "الجو حار جداً في الخارج اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hotel",
+      "lessonId": "lsn_a1_h_2",
+      "en": "hotel",
+      "translation": "فندق",
+      "ar": "فندق",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We stayed at a nice hotel.",
+          "ar": "أقمنا في فندق لطيف."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hour",
+      "lessonId": "lsn_a1_h_2",
+      "en": "hour",
+      "translation": "ساعة / مدة زمنية",
+      "ar": "ساعة / مدة زمنية",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We waited for over an hour.",
+          "ar": "انتظرنا لأكثر من ساعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_house",
+      "lessonId": "lsn_a1_h_2",
+      "en": "house",
+      "translation": "منزل",
+      "ar": "منزل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I live in a small house.",
+          "ar": "أعيش في منزل صغير."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_how",
+      "lessonId": "lsn_a1_h_2",
+      "en": "how",
+      "translation": "كيف / كم",
+      "ar": "كيف / كم",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "How are you feeling today?",
+          "ar": "كيف حالك اليوم؟"
+        },
+        {
+          "en": "How much does this cost?",
+          "ar": "كم تكلفتها؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_however",
+      "lessonId": "lsn_a1_h_2",
+      "en": "however",
+      "translation": "لكن / مع ذلك",
+      "ar": "لكن / مع ذلك",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I wanted to go however, I couldn't.",
+          "ar": "أردت الذهاب لكن لم أستطع."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hundred",
+      "lessonId": "lsn_a1_h_2",
+      "en": "hundred",
+      "translation": "مئة",
+      "ar": "مئة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I have a hundred things to do.",
+          "ar": "لدي مئة شيء لأفعله."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_hungry",
+      "lessonId": "lsn_a1_h_2",
+      "en": "hungry",
+      "translation": "جائع",
+      "ar": "جائع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'm hungry can we eat now?",
+          "ar": "أنا جائع هل يمكننا تناول الطعام الآن؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

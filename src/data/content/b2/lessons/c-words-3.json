@@ -1,0 +1,579 @@
+{
+  "id": "lsn_b2_c_3",
+  "levelId": "lvl_b2",
+  "title": "Unit 9: C Words - Part 3",
+  "slug": "c-words-3",
+  "order": 9,
+  "wordCount": 25,
+  "titleAr": "الوحدة 9: كلمات حرف C - الجزء 3",
+  "description": "Master essential B2 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_b2_comic",
+      "en": "comic",
+      "ar": "هزلية / رسومية",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Don't waste your time by reading comic books.",
+          "ar": "لا تضيع وقتك بقراءة المجلات الرسومية."
+        },
+        {
+          "en": "I'm trying to write a comic novel.",
+          "ar": "أحاول أن أكتب رواية هزلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɒmɪk/"
+    },
+    {
+      "id": "w_b2_command",
+      "en": "command",
+      "ar": "أمر",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He commanded the soldiers to attack.",
+          "ar": "أمر الجنود بالهجوم."
+        },
+        {
+          "en": "I am under your command.",
+          "ar": "أنا تحت أمرك ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəˈmɑːnd/"
+    },
+    {
+      "id": "w_b2_commander",
+      "en": "commander",
+      "ar": "قائد",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Who is the commander of the border forces?",
+          "ar": "من هو قائد قوات الحدود ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəˈmandə/"
+    },
+    {
+      "id": "w_b2_commission",
+      "en": "commission",
+      "ar": "عمولة",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They will give you a 15% commission on any sale you do.",
+          "ar": "سوف يعطونك عمولة 15% على أي عملية بيع تقوم بها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəˈmɪʃən/"
+    },
+    {
+      "id": "w_b2_commissioned",
+      "en": "commissioned",
+      "ar": "تكليفه",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He has been commissioned to design the cover of the book.",
+          "ar": "تم تكليفه بتصميم غلاف الكتاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəˈmɪʃənd/"
+    },
+    {
+      "id": "w_b2_commitment",
+      "en": "commitment",
+      "ar": "التزاما",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Learning another language requires a strong commitment.",
+          "ar": "تعلم لغة أخرى يتطلب التزاما قويًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_committee",
+      "en": "committee",
+      "ar": "اللجنة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Did the committee approve the budget?",
+          "ar": "هل أقرت اللجنة الميزانية؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_commonly",
+      "en": "commonly",
+      "ar": "عادة",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This plant is commonly used to treat colds.",
+          "ar": "يستخدم هذا النبات عادة لعلاج نزلات البرد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɒmənli/"
+    },
+    {
+      "id": "w_b2_completion",
+      "en": "completion",
+      "ar": "الانتهاء",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "What is the completion date of this project?",
+          "ar": "ما هو تاريخ الانتهاء من هذا المشروع ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəmˈpliːʃən/"
+    },
+    {
+      "id": "w_b2_complicated",
+      "en": "complicated",
+      "ar": "معقدة",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "These instructions seem very complicated.",
+          "ar": "تبدو هذه التعليمات معقدة للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɒmplɪkeɪtɪd/"
+    },
+    {
+      "id": "w_b2_components",
+      "en": "components",
+      "ar": "المكونات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "What are the essential components of this device?",
+          "ar": "ما هي المكونات الأساسية لهذا الجهاز؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_compose",
+      "en": "compose",
+      "ar": "أكتب",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He has taught me how to compose a poem.",
+          "ar": "لقد علمني كيف أكتب قصيدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəmˈpəʊz/"
+    },
+    {
+      "id": "w_b2_composer",
+      "en": "composer",
+      "ar": "ملحن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My favorite composer is Mozart.",
+          "ar": "الملحن المفضل عندي هو موزارت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_compound",
+      "en": "compound",
+      "ar": "مركب",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We prepared this chemical compound in the lab.",
+          "ar": "قمنا بتحضير هذا المركب الكيميائي في المختبر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɒmpaʊnd/"
+    },
+    {
+      "id": "w_b2_comprehensive",
+      "en": "comprehensive",
+      "ar": "شامل",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We have a comprehensive exam next week.",
+          "ar": "لدينا امتحان شامل الاسبوع القادم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌkɒm.pɹɪˈhɛn.sɪv/"
+    },
+    {
+      "id": "w_b2_comprises",
+      "en": "comprises",
+      "ar": "تضم",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The collection comprises 150 ancient pieces.",
+          "ar": "تضم المجموعة 150 قطعة قديمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəmˈpɹaɪzɪz/"
+    },
+    {
+      "id": "w_b2_compulsory",
+      "en": "compulsory",
+      "ar": "إلزامي",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "In some countries, voting is compulsory.",
+          "ar": "في بعض البلدان، التصويت إلزامي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəmˈpʌlsəri/"
+    },
+    {
+      "id": "w_b2_concentration",
+      "en": "Concentration",
+      "ar": "التركيز",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Concentration is key to success.",
+          "ar": "التركيز هو مفتاح النجاح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌkɒnsənˈtɹeɪʃən/"
+    },
+    {
+      "id": "w_b2_concept",
+      "en": "concept",
+      "ar": "مفهوم",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The concept of beauty has changed over the past decades.",
+          "ar": "لقد تغير مفهوم الجمال خلال العقود الماضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɒn.sɛpt/"
+    },
+    {
+      "id": "w_b2_concern",
+      "en": "concern",
+      "ar": "يقلقني / قلق",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is growing concern about false news in social media.",
+          "ar": "هناك قلق متزايد بشأن الأخبار الكاذبة في وسائل التواصل الاجتماعي."
+        },
+        {
+          "en": "What concerns me is his lack of experience.",
+          "ar": "ما يقلقني هو قلة خبرته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈsɜːn/"
+    },
+    {
+      "id": "w_b2_concerned",
+      "en": "concerned",
+      "ar": "قلق",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am concerned about my father's health.",
+          "ar": "أنا قلق بشأن صحة والدي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈsɜːnd/"
+    },
+    {
+      "id": "w_b2_concrete",
+      "en": "concrete",
+      "ar": "خرسانية / ملموسًا",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Give me a concrete example.",
+          "ar": "أعطني مثالا ملموسًا."
+        },
+        {
+          "en": "They built concrete blocks around the building.",
+          "ar": "قاموا ببناء كتل خرسانية حول المبنى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kɵnˈkɹiːt/"
+    },
+    {
+      "id": "w_b2_conduct",
+      "en": "conduct",
+      "ar": "سلوك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It's a complaint about the conduct of one of our employees.",
+          "ar": "إنها شكوى بشأن سلوك أحد موظفينا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conducting",
+      "en": "conducting",
+      "ar": "نجري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We're conducting a survey as part of the research.",
+          "ar": "نحن نجري استطلاعا كجزء من البحث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_confess",
+      "en": "confess",
+      "ar": "يعترف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was forced to confess.",
+          "ar": "لقد أجبر على أن يعترف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

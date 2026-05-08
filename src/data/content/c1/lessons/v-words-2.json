@@ -1,0 +1,299 @@
+{
+  "id": "lsn_c1_v_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 48: V Words - Part 2",
+  "slug": "v-words-2",
+  "order": 48,
+  "wordCount": 13,
+  "titleAr": "الوحدة 48: كلمات حرف V - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter V.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف V.",
+  "words": [
+    {
+      "id": "w_c1_veteran",
+      "en": "veteran",
+      "ar": "مخضرم / محارب قديم",
+      "pronunciation": "ˈvetərən",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه محارب قديم في الحرب العالمية الثانية.",
+          "ar": "The journalist is a veteran with thirty years of experience."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_viable",
+      "en": "viable",
+      "ar": "قابل للتطبيق / حيوي",
+      "pronunciation": "ˈvaɪəbl",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تبحث الشركة عن حل قابل للتطبيق للمشكلة.",
+          "ar": "The project is no longer economically viable."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_vibrant",
+      "en": "vibrant",
+      "ar": "حيوي / مفعم بالحياة",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتمتع المدينة بحياة ليلية نابضة بالحياة مع العديد من الأندية والحانات.",
+          "ar": "She wore a dress in vibrant colors."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvaɪbɹənt/"
+    },
+    {
+      "id": "w_c1_vice",
+      "en": "vice",
+      "ar": "رذيلة / نائب",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم تعيين المحقق في فرقة مكافحة الرذيلة.",
+          "ar": "He was elected as the vice president of the organization."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/vaɪs/"
+    },
+    {
+      "id": "w_c1_vicious",
+      "en": "vicious",
+      "ar": "شرس / وحشي",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الكلب شرساً جداً وحاول عضي.",
+          "ar": "They were trapped in a vicious cycle of poverty."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɪʃəs/"
+    },
+    {
+      "id": "w_c1_villager",
+      "en": "villager",
+      "ar": "قروي",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "رحب القرويون بالسياح بأذرع مفتوحة.",
+          "ar": "Most of the villagers work in agriculture."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvɪlɪd͡ʒə/"
+    },
+    {
+      "id": "w_c1_violate",
+      "en": "violate",
+      "ar": "ينتهك / يخالف",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم تغريم الشركة لانتهاكها قوانين البيئة.",
+          "ar": "He felt that his privacy had been violated."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvaɪəˌleɪt/"
+    },
+    {
+      "id": "w_c1_violation",
+      "en": "violation",
+      "ar": "انتهاك / مخالفة",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الاحتجاج انتهاكاً واضحاً للقانون.",
+          "ar": "Human rights violations were reported in the region."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌvaɪəˈleɪʃən/"
+    },
+    {
+      "id": "w_c1_virtue",
+      "en": "virtue",
+      "ar": "فضيلة / ميزة",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الصبر فضيلة لا يمتلكها الجميع.",
+          "ar": "The main virtue of this plan is its simplicity."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/-tjuː/"
+    },
+    {
+      "id": "w_c1_vocal",
+      "en": "vocal",
+      "ar": "صوتي / صريح (في التعبير)",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تبحث الفرقة عن مؤدٍ صوتي جديد.",
+          "ar": "He has been very vocal in his opposition to the new law."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvəʊ.kəl/"
+    },
+    {
+      "id": "w_c1_vow",
+      "en": "vow",
+      "ar": "عهد / يقسم",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تبادل الزوجان عهود الزواج أمام عائلاتهما.",
+          "ar": "He vowed to get revenge for what happened."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/vaʊ/"
+    },
+    {
+      "id": "w_c1_vulnerability",
+      "en": "vulnerability",
+      "ar": "ضعف / هشاشة",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كشفت الأزمة عن ضعف الاقتصاد المحلي.",
+          "ar": "He showed his vulnerability by sharing his feelings."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌvʌlnəɹəˈbɪlɪti/"
+    },
+    {
+      "id": "w_c1_vulnerable",
+      "en": "vulnerable",
+      "ar": "عرضة للخطر / ضعيف",
+      "lessonId": "lsn_c1_v_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الأطفال غالباً ما يكونون أكثر أفراد المجتمع عرضة للخطر.",
+          "ar": "The city is vulnerable to flooding during the rainy season."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈvʌln(ə)ɹəbl̩/"
+    }
+  ]
+}

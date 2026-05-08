@@ -1,13 +1,13 @@
 {
   "id": "lsn_a1_t_2",
-  "levelId": "lvl_1",
-  "title": "T Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 42: T Words - Part 2",
   "slug": "t-words-2",
-  "order": 41,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف T - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter T.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف T.",
+  "order": 42,
+  "wordCount": 24,
+  "titleAr": "الوحدة 42: كلمات حرف T - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف T.",
   "words": [
     {
       "id": "w_a1_then",
@@ -15,7 +15,6 @@
       "en": "then",
       "translation": "ثم / في ذلك الوقت",
       "ar": "ثم / في ذلك الوقت",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -33,7 +32,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ðen/"
     },
     {
       "id": "w_a1_there_is",
@@ -63,7 +63,6 @@
       "en": "they",
       "translation": "هم",
       "ar": "هم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -77,7 +76,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ðeɪ/"
     },
     {
       "id": "w_a1_thing",
@@ -85,7 +85,6 @@
       "en": "thing",
       "translation": "شيء / أمور",
       "ar": "شيء / أمور",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -103,7 +102,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/θɪŋ/"
     },
     {
       "id": "w_a1_think",
@@ -111,7 +111,6 @@
       "en": "think",
       "translation": "يعتقد / يفكر",
       "ar": "يعتقد / يفكر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -129,7 +128,35 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/θɪŋk/"
+    },
+    {
+      "id": "w_a1_third",
+      "lessonId": "lsn_a1_t_2",
+      "en": "third",
+      "translation": "الثالث",
+      "ar": "الثالث",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I live on the third floor.",
+          "ar": "أعيش في الطابق الثالث."
+        },
+        {
+          "en": "She divided the money into thirds.",
+          "ar": "هي قسمت المال إلى أثلاث."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/θɜːd/"
     },
     {
       "id": "w_a1_thirsty",
@@ -154,34 +181,11 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_a1_third",
-      "lessonId": "lsn_a1_t_2",
-      "en": "third",
-      "translation": "الثالث",
-      "ar": "الثالث",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I live on the third floor.",
-          "ar": "أعيش في الطابق الثالث."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
       "id": "w_a1_thirteen",
       "lessonId": "lsn_a1_t_2",
       "en": "thirteen",
       "translation": "ثلاثة عشر",
       "ar": "ثلاثة عشر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -195,7 +199,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˌθɜːˈtiːn/"
     },
     {
       "id": "w_a1_thirty",
@@ -203,7 +208,6 @@
       "en": "thirty",
       "translation": "ثلاثين",
       "ar": "ثلاثين",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -217,7 +221,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈθɜːti/"
     },
     {
       "id": "w_a1_this",
@@ -225,7 +230,6 @@
       "en": "this",
       "translation": "هذا",
       "ar": "هذا",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -239,7 +243,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ðəs/"
     },
     {
       "id": "w_a1_thousand",
@@ -269,7 +274,6 @@
       "en": "three",
       "translation": "ثلاثة",
       "ar": "ثلاثة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -283,7 +287,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/θɹiː/"
     },
     {
       "id": "w_a1_through",
@@ -357,7 +362,6 @@
       "en": "time",
       "translation": "وقت / مرة",
       "ar": "وقت / مرة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -375,7 +379,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tɑem/"
     },
     {
       "id": "w_a1_tired",
@@ -427,7 +432,6 @@
       "en": "to",
       "translation": "إلى / أن / على",
       "ar": "إلى / أن / على",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -449,7 +453,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tʉː/"
     },
     {
       "id": "w_a1_today",
@@ -457,7 +462,6 @@
       "en": "today",
       "translation": "اليوم",
       "ar": "اليوم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -471,7 +475,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/təˈdeɪ/"
     },
     {
       "id": "w_a1_together",
@@ -523,7 +528,6 @@
       "en": "tomato",
       "translation": "طماطم",
       "ar": "طماطم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -537,7 +541,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/[tʰə̥ˈmɐːtʰɐʉ]/"
     },
     {
       "id": "w_a1_tomorrow",
@@ -545,7 +550,6 @@
       "en": "tomorrow",
       "translation": "غداً",
       "ar": "غداً",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -559,29 +563,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_tonight",
-      "lessonId": "lsn_a1_t_2",
-      "en": "tonight",
-      "translation": "الليلة / هذا المساء",
-      "ar": "الليلة / هذا المساء",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Let's meet tonight.",
-          "ar": "دعنا نلتقي هذا المساء."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/təˈmɔɹoʊ/"
     }
   ]
 }

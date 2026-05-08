@@ -1,21 +1,42 @@
 {
   "id": "lsn_a1_a_2",
-  "levelId": "lvl_1",
-  "title": "A Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 2: A Words - Part 2",
   "slug": "a-words-2",
   "order": 2,
-  "wordCount": 23,
-  "titleAr": "كلمات حرف A - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter A.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف A.",
+  "wordCount": 25,
+  "titleAr": "الوحدة 2: كلمات حرف A - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف A.",
   "words": [
+    {
+      "id": "w_a1_and",
+      "lessonId": "lsn_a1_a_2",
+      "en": "and",
+      "translation": "و",
+      "ar": "و",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Ali and I left early.",
+          "ar": "غادرت أنا وعلي مبكرًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_a1_angry",
       "lessonId": "lsn_a1_a_2",
       "en": "angry",
       "translation": "غاضب",
       "ar": "غاضب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -29,7 +50,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈæŋ.ɡɹi/"
     },
     {
       "id": "w_a1_animal",
@@ -37,7 +59,6 @@
       "en": "animal",
       "translation": "حيوان",
       "ar": "حيوان",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +72,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈænɪməl/"
     },
     {
       "id": "w_a1_another",
@@ -81,7 +103,6 @@
       "en": "answer",
       "translation": "إجابة / يجيب",
       "ar": "إجابة / يجيب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -99,7 +120,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈan.sə/"
     },
     {
       "id": "w_a1_any",
@@ -107,7 +129,6 @@
       "en": "any",
       "translation": "أي",
       "ar": "أي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -117,15 +138,21 @@
         {
           "en": "Do you have any?",
           "ar": "هل لديك أي منها؟"
+        },
+        {
+          "en": "That film wasn't any good.",
+          "ar": "لم يكن الفيلم جيدًا على الإطلاق."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈæni/"
     },
     {
       "id": "w_a1_anyone",
@@ -133,7 +160,6 @@
       "en": "anyone",
       "translation": "أحد",
       "ar": "أحد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -147,7 +173,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈæniˌwʌn/"
     },
     {
       "id": "w_a1_anything",
@@ -155,7 +182,6 @@
       "en": "anything",
       "translation": "أي شيء",
       "ar": "أي شيء",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -169,7 +195,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛ.nə.θɪŋ/"
     },
     {
       "id": "w_a1_apartment",
@@ -199,7 +226,6 @@
       "en": "apple",
       "translation": "تفاحة",
       "ar": "تفاحة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -213,7 +239,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈæp.əl/"
     },
     {
       "id": "w_a1_april",
@@ -243,7 +270,6 @@
       "en": "area",
       "translation": "منطقة",
       "ar": "منطقة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -257,7 +283,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛə̯ɹɪə̯/"
     },
     {
       "id": "w_a1_arm",
@@ -265,21 +292,27 @@
       "en": "arm",
       "translation": "ذراع",
       "ar": "ذراع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "He has strong arms.",
           "ar": "لديه ذراعان قويتان."
+        },
+        {
+          "en": "كان المتمردون مسلحين بأسلحة ثقيلة.",
+          "ar": "We need to arm ourselves with the facts before the meeting."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɑːm/"
     },
     {
       "id": "w_a1_around",
@@ -287,7 +320,6 @@
       "en": "around",
       "translation": "حوالي / حول / أرجاء",
       "ar": "حوالي / حول / أرجاء",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -309,7 +341,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/əˈɹaʊnd/"
     },
     {
       "id": "w_a1_arrive",
@@ -317,7 +350,6 @@
       "en": "arrive",
       "translation": "يصل",
       "ar": "يصل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -331,7 +363,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/əˈɹaɪv/"
     },
     {
       "id": "w_a1_art",
@@ -339,7 +372,6 @@
       "en": "art",
       "translation": "فن",
       "ar": "فن",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -353,7 +385,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɑːt/"
     },
     {
       "id": "w_a1_article",
@@ -361,7 +394,6 @@
       "en": "article",
       "translation": "مقال",
       "ar": "مقال",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -375,7 +407,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɑːtɪkəl/"
     },
     {
       "id": "w_a1_artist",
@@ -383,7 +416,6 @@
       "en": "artist",
       "translation": "فنان",
       "ar": "فنان",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -397,7 +429,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈɑːtɪst/"
     },
     {
       "id": "w_a1_as",
@@ -415,12 +448,21 @@
         {
           "en": "She works as a teacher.",
           "ar": "تعمل كمعلمة."
+        },
+        {
+          "en": "You're as tall as your brother.",
+          "ar": "أنت طويل كأخيك."
+        },
+        {
+          "en": "Leave the papers as they are",
+          "ar": "اترك الأوراق كما هي"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -431,7 +473,6 @@
       "en": "ask",
       "translation": "يطلب / يسأل",
       "ar": "يطلب / يسأل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -453,7 +494,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈask/"
     },
     {
       "id": "w_a1_at",
@@ -513,7 +555,6 @@
       "en": "aunt",
       "translation": "عمة / خالة",
       "ar": "عمة / خالة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -527,7 +568,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɑ(ː)nt/"
     },
     {
       "id": "w_a1_autumn",
@@ -554,6 +596,32 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_away",
+      "lessonId": "lsn_a1_a_2",
+      "en": "away",
+      "translation": "بعيد / على بعد",
+      "ar": "بعيد / على بعد",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The beach is two miles away.",
+          "ar": "يقع الشاطئ على بعد ميلين."
+        },
+        {
+          "en": "His house is far away from the city center.",
+          "ar": "منزله بعيد عن وسط المدينة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈweɪ/"
     }
   ]
 }

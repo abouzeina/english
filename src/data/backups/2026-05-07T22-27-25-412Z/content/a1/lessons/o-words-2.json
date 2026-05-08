@@ -1,0 +1,65 @@
+{
+  "id": "lsn_a1_o_2",
+  "levelId": "lvl_1",
+  "title": "O Words - Part 2",
+  "slug": "o-words-2",
+  "order": 30,
+  "wordCount": 2,
+  "titleAr": "كلمات حرف O - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter O.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف O.",
+  "words": [
+    {
+      "id": "w_a1_outside",
+      "lessonId": "lsn_a1_o_2",
+      "en": "outside",
+      "translation": "في الخارج",
+      "ar": "في الخارج",
+      "pronunciation": "/ aut said/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's sit outside and talk.",
+          "ar": "لنجلس في الخارج ونتحدث."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_over",
+      "lessonId": "lsn_a1_o_2",
+      "en": "over",
+      "translation": "فوق / على / أكثر من",
+      "ar": "فوق / على / أكثر من",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The plane flew over the city.",
+          "ar": "حلقت الطائرة فوق المدينة."
+        },
+        {
+          "en": "She likes cats over dogs.",
+          "ar": "إنها تفضل القطط على الكلاب."
+        },
+        {
+          "en": "I waited over an hour.",
+          "ar": "انتظرت أكثر من ساعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

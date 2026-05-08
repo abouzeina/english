@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_b_1",
+  "levelId": "lvl_b2",
+  "slug": "b-words-1",
+  "title": "B Words - Part 1",
+  "titleAr": "كلمات حرف B - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter B.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف B.",
+  "order": 6,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_back",
+      "en": "back",
+      "ar": "يدعم / يساند",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bacteria",
+      "en": "bacteria",
+      "ar": "بكتيريا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_badge",
+      "en": "badge",
+      "ar": "شارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_balanced",
+      "en": "balanced",
+      "ar": "متوازن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ballet",
+      "en": "ballet",
+      "ar": "باليه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_balloon",
+      "en": "balloon",
+      "ar": "بالون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bar",
+      "en": "bar",
+      "ar": "يمنع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_barely",
+      "en": "barely",
+      "ar": "بالكاد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bargain",
+      "en": "bargain",
+      "ar": "صفقة رابحة / منتج رخيص",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_barrier",
+      "en": "barrier",
+      "ar": "حاجز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_basement",
+      "en": "basement",
+      "ar": "بدروم / قبو",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_basically",
+      "en": "basically",
+      "ar": "أساساً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_basket",
+      "en": "basket",
+      "ar": "سلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bat",
+      "en": "bat",
+      "ar": "خفاش",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_battle",
+      "en": "battle",
+      "ar": "يحارب / يصارع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bear",
+      "en": "bear",
+      "ar": "يتحمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_beat",
+      "en": "beat",
+      "ar": "دقات طبول",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_beg",
+      "en": "beg",
+      "ar": "يتوسل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_being",
+      "en": "being",
+      "ar": "كائن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_beneficial",
+      "en": "beneficial",
+      "ar": "مفيد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bent",
+      "en": "bent",
+      "ar": "منحنٍ / مثني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_beside",
+      "en": "beside",
+      "ar": "بجانب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_besides",
+      "en": "besides",
+      "ar": "بالإضافة لذلك / إلى جانب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_bet",
+      "en": "bet",
+      "ar": "يراهن / رهان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_beyond",
+      "en": "beyond",
+      "ar": "ما بعد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_b_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

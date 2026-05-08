@@ -1,0 +1,549 @@
+{
+  "id": "lsn_b2_c_5",
+  "levelId": "lvl_b2",
+  "title": "Unit 11: C Words - Part 5",
+  "slug": "c-words-5",
+  "order": 11,
+  "wordCount": 24,
+  "titleAr": "الوحدة 11: كلمات حرف C - الجزء 5",
+  "description": "Master essential B2 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_b2_contract",
+      "en": "contract",
+      "ar": "عقد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Review the employment contract before you sign.",
+          "ar": "قم بمراجعة عقد العمل قبل التوقيع عليه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_contracted",
+      "en": "contracted",
+      "ar": "انكمش",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The economy contracted by 5 per cent last year.",
+          "ar": "انكمش الاقتصاد بنسبة 5 في المائة العام الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_contributed",
+      "en": "contributed",
+      "ar": "ساهمت",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "What factors contributed to the spread of the disease?",
+          "ar": "ما هي العوامل التي ساهمت في انتشار المرض؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɒntɹɪˌbjuːtɪd/"
+    },
+    {
+      "id": "w_b2_contribution",
+      "en": "contribution",
+      "ar": "مساهمة",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I made a small contribution to this campaign.",
+          "ar": "قدمت مساهمة صغيرة لهذه الحملة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌkɒntɹɪˈbjuːʃən/"
+    },
+    {
+      "id": "w_b2_controversial",
+      "en": "controversial",
+      "ar": "مثيرة للجدل",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Please avoid topics that might be controversial.",
+          "ar": "يرجى تجنب المواضيع التي قد تكون مثيرة للجدل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kɒn.tɹə.ˈvɜː.sjəl/"
+    },
+    {
+      "id": "w_b2_controversy",
+      "en": "controversy",
+      "ar": "الجدل",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The controversy continues about his new movie.",
+          "ar": "ويستمر الجدل حول فيلمه الجديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɑntɹəˌvɝsi/"
+    },
+    {
+      "id": "w_b2_convenience",
+      "en": "convenience",
+      "ar": "مريح",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It is a great convenience to have the bus stop so near.",
+          "ar": "إنه لشيء مريح للغاية أن يكون موقف الحافلات قريب جدًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈviːnɪəns/"
+    },
+    {
+      "id": "w_b2_convention",
+      "en": "convention",
+      "ar": "عرف إجتماعي",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This is an important social convention.",
+          "ar": "هذا عرف إجتماعي مهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈvɛn.ʃən/"
+    },
+    {
+      "id": "w_b2_conventional",
+      "en": "conventional",
+      "ar": "التقليدية",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Just follow the conventional methods.",
+          "ar": "فقط اتبع الطرق التقليدية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈvɛnʃənl/"
+    },
+    {
+      "id": "w_b2_converting",
+      "en": "converting",
+      "ar": "يعتنقون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A lot of people are converting to Islam in western countries.",
+          "ar": "الكثير من الناس يعتنقون الإسلام في الدول الغربية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_convey",
+      "en": "convey",
+      "ar": "تنقل",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Words cannot convey my feelings.",
+          "ar": "الكلمات لا تستطيع أن تنقل مشاعري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈveɪ/"
+    },
+    {
+      "id": "w_b2_convinced",
+      "en": "convinced",
+      "ar": "مقتنع",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am convinced that he is innocent.",
+          "ar": "أنا مقتنع بأنه بريء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈvɪnst/"
+    },
+    {
+      "id": "w_b2_convincing",
+      "en": "convincing",
+      "ar": "مقنعة",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your argument is not convincing.",
+          "ar": "حجتك غير مقنعة ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈvɪnsɪŋ/"
+    },
+    {
+      "id": "w_b2_cope",
+      "en": "cope",
+      "ar": "تتخطى الأمر",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was a difficult time, but you will cope.",
+          "ar": "لقد كان وقتا عصيبًا، لكنك ستتخطى الأمر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəʊp/"
+    },
+    {
+      "id": "w_b2_core",
+      "en": "core",
+      "ar": "جوهر / أساسية",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The report didn't mention the core of the problem.",
+          "ar": "التقرير لم يذكر جوهر المشكلة."
+        },
+        {
+          "en": "What's the core issue in today's discussion?",
+          "ar": "ما هي القضية الأساسية في نقاش اليوم؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kɔː/"
+    },
+    {
+      "id": "w_b2_corporate",
+      "en": "corporate",
+      "ar": "الشركات",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This country has high corporate taxes.",
+          "ar": "هذا البلد لديه ضرائب عالية على الشركات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɔːp(ə)ɹət/"
+    },
+    {
+      "id": "w_b2_corporation",
+      "en": "corporation",
+      "ar": "شركة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The two brothers formed a corporation.",
+          "ar": "قام الأخوان بتكوين شركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_corridor",
+      "en": "corridor",
+      "ar": "ممر",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He led us through a narrow corridor to our room.",
+          "ar": "قادنا عبر ممر ضيق إلى غرفتنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɒɹɪˌdɔː(ɹ)/"
+    },
+    {
+      "id": "w_b2_council",
+      "en": "council",
+      "ar": "مجلس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I have served on the town council for two years.",
+          "ar": "لقد عملت في مجلس المدينة لمدة عامين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_counter",
+      "en": "counter",
+      "ar": "المنضدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Tell the man behind the counter what you want.",
+          "ar": "أخبر الرجل الذي يقف خلف المنضدة بما تريد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_counties",
+      "en": "counties",
+      "ar": "المقاطعات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I haven't visited northern counties before.",
+          "ar": "لم أزر المقاطعات الشمالية من قبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_courage",
+      "en": "courage",
+      "ar": "الشجاعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He had the courage to speak in front of the public.",
+          "ar": "كان لديه الشجاعة للتحدث أمام الجمهور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_coverage",
+      "en": "coverage",
+      "ar": "تغطية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The president's speech had wide press coverage.",
+          "ar": "حظي خطاب الرئيس بتغطية صحفية واسعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cracks",
+      "en": "cracks",
+      "ar": "شقوق / يتصدع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Don't step on this ice, it will crack.",
+          "ar": "لا تطأ على هذا الجليد، سوف يتصدع."
+        },
+        {
+          "en": "We have to fix the wall, it has many cracks.",
+          "ar": "علينا أن نصلح الجدار، فبه شقوق كثيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

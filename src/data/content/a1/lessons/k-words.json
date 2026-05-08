@@ -1,0 +1,187 @@
+{
+  "id": "lsn_a1_k",
+  "levelId": "lvl_a1",
+  "title": "Unit 21: K Words",
+  "slug": "k-words",
+  "order": 21,
+  "wordCount": 6,
+  "titleAr": "الوحدة 21: كلمات حرف K",
+  "description": "Master essential A1 vocabulary starting with the letter K.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف K.",
+  "words": [
+    {
+      "id": "w_a1_keep",
+      "lessonId": "lsn_a1_k",
+      "en": "keep",
+      "translation": "يحتفظ / يبقي / يستمر",
+      "ar": "يحتفظ / يبقي / يستمر",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I always keep food in my bag.",
+          "ar": "أحتفظ دائماً بالطعام في حقيبتي."
+        },
+        {
+          "en": "They keep their garden clean.",
+          "ar": "إنهم يبقون حديقتهم نظيفة."
+        },
+        {
+          "en": "Keep these school books for next year.",
+          "ar": "أبقِ هذه الكتب المدرسية للعام القادم."
+        },
+        {
+          "en": "Keep practicing every day.",
+          "ar": "استمر في التدرب كل يوم."
+        },
+        {
+          "en": "Keep trying, and you will win.",
+          "ar": "استمر في المحاولة وستفوز."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kiːp/"
+    },
+    {
+      "id": "w_a1_key",
+      "lessonId": "lsn_a1_k",
+      "en": "key",
+      "translation": "مفتاح / أساسي / رئيسي",
+      "ar": "مفتاح / أساسي / رئيسي",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need the house key.",
+          "ar": "أحتاج إلى مفتاح المنزل."
+        },
+        {
+          "en": "They had key information for us.",
+          "ar": "كانت لديهم معلومات أساسية لنا."
+        },
+        {
+          "en": "Let me explain the key point again.",
+          "ar": "دعني أشرح النقطة الأساسية مرة أخرى."
+        },
+        {
+          "en": "Those are the key players on the team.",
+          "ar": "هؤلاء هم اللاعبون الرئيسيون في الفريق."
+        },
+        {
+          "en": "The key part of the book is the ending.",
+          "ar": "الجزء الرئيسي من الكتاب هو النهاية."
+        },
+        {
+          "en": "Key your name in the white field.",
+          "ar": "اكتب اسمك في الحقل الأبيض."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kiː/"
+    },
+    {
+      "id": "w_a1_kilometers",
+      "lessonId": "lsn_a1_k",
+      "en": "kilometers",
+      "translation": "كيلومترات",
+      "ar": "كيلومترات",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I ran five kilometers today.",
+          "ar": "ركضت خمسة كيلومترات اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_kind",
+      "lessonId": "lsn_a1_k",
+      "en": "kind",
+      "translation": "نوع",
+      "ar": "نوع",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love this kind of book.",
+          "ar": "أحب هذا النوع من الكتب."
+        },
+        {
+          "en": "Ali is a kind and helpful person.",
+          "ar": "علي شخص طيب ومتعاون."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kaɪnd/"
+    },
+    {
+      "id": "w_a1_kitchen",
+      "lessonId": "lsn_a1_k",
+      "en": "kitchen",
+      "translation": "مطبخ",
+      "ar": "مطبخ",
+      "pronunciation": "/ kıtf en/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The kitchen is very clean.",
+          "ar": "المطبخ نظيف جداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_know",
+      "lessonId": "lsn_a1_k",
+      "en": "know",
+      "translation": "يعرف",
+      "ar": "يعرف",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I don't know his name.",
+          "ar": "أنا لا أعرف اسمه."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/nəʊ/"
+    }
+  ]
+}

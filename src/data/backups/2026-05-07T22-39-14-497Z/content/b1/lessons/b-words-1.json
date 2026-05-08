@@ -1,0 +1,587 @@
+{
+  "id": "lsn_b1_b_1",
+  "levelId": "lvl_b1",
+  "slug": "b-words-1",
+  "title": "Unit 4: B Words - Part 1",
+  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with B.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف B.",
+  "order": 4,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_aware",
+      "en": "aware",
+      "ar": "مدرك / ملم بالشيء",
+      "pronunciation": "ə' weər/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm aware of your problems.",
+          "ar": "أنا مدرك لمشاكلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_backwards",
+      "en": "backwards",
+      "ar": "إلى الوراء",
+      "pronunciation": "/'bæk-wadz/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I took a step backwards.",
+          "ar": "أخذت خطوة إلى الوراء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bake",
+      "en": "bake",
+      "ar": "يخبز",
+      "pronunciation": "/berk/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We bake bread at home.",
+          "ar": "نحن نخبز الخبز في المنزل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_balance",
+      "en": "balance",
+      "ar": "توازن / يتوازن",
+      "pronunciation": "/'bæl-əns/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Work - life balance is very important.",
+          "ar": "التوازن بين العمل والحياة مهم جدا."
+        },
+        {
+          "en": "Can you balance on one leg?",
+          "ar": "هل يمكنك أن تتوازن على ساق واحدة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_ban",
+      "en": "ban",
+      "ar": "حظر / يمنع",
+      "pronunciation": "/ben/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They removed the ban on women driving.",
+          "ar": "أزالوا الحظر المفروض على قيادة المرأة للسيارة."
+        },
+        {
+          "en": "The book was banned in several countries.",
+          "ar": "الكتاب حظر في عدة دول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_base",
+      "en": "base",
+      "ar": "قاعدة",
+      "pronunciation": "/bers/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The lamp has a large round base.",
+          "ar": "للمصباح قاعدة دائرية كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_based",
+      "en": "based",
+      "ar": "مبني على",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This movie is based on a true story.",
+          "ar": "هذا الفيلم مبني على قصة حقيقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_basic",
+      "en": "basic",
+      "ar": "أساسي",
+      "pronunciation": "/'ber-sık/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They gave us some basic information.",
+          "ar": "أعطونا بعض المعلومات الأساسية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_basis",
+      "en": "basis",
+      "ar": "مبادئ أساسية / بشكل (يومي مثلاً)",
+      "pronunciation": "/'ber sis/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "In life, we have exams on a daily basis.",
+          "ar": "في الحياة لدينا امتحانات بشكل يومي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_battery",
+      "en": "battery",
+      "ar": "بطارية",
+      "pronunciation": "/ bætər i/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The battery needs charging.",
+          "ar": "البطارية بحاجة للشحن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_battle",
+      "en": "battle",
+      "ar": "معركة",
+      "pronunciation": "/'bætal/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was killed in the battle.",
+          "ar": "قتل في المعركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_beauty",
+      "en": "beauty",
+      "ar": "جمال",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you see the beauty of this morning?",
+          "ar": "هل ترى جمال هذا الصباح ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bees",
+      "en": "bees",
+      "ar": "نحل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Many bees die during the winter.",
+          "ar": "يموت العديد من النحل خلال فصل الشتاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_beliefs",
+      "en": "beliefs",
+      "ar": "معتقدات",
+      "pronunciation": "/br'lif/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What are your beliefs?",
+          "ar": "ما هي معتقداتك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bell",
+      "en": "bell",
+      "ar": "جرس",
+      "pronunciation": "/bel/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Could you please ring the bell?",
+          "ar": "هل يمكن أن تدق الجرس من فضلك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bend",
+      "en": "bend",
+      "ar": "يثني / منعطف",
+      "pronunciation": "/bend/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can't bend my right arm.",
+          "ar": "لا أستطيع أن أثني ذراعي الأيمن."
+        },
+        {
+          "en": "That's one of the many bends in this road.",
+          "ar": "هذا واحد من العديد من المنعطفات في هذا الطريق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_benefit",
+      "en": "benefit",
+      "ar": "يستفيد / فائدة",
+      "pronunciation": "/'ben fıt/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We can all benefit from his experience.",
+          "ar": "يمكننا جميعا أن نستفيد من تجربته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_better",
+      "en": "better",
+      "ar": "أفضل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It is the better of the two cars.",
+          "ar": "إنها أفضل السيارتين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bite",
+      "en": "bite",
+      "ar": "يعض / قضمة",
+      "pronunciation": "/bart/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I promise I won't bite you.",
+          "ar": "أعدك أنني لن أعضك."
+        },
+        {
+          "en": "Ali took another bite of his sandwich.",
+          "ar": "أخذ علي قضمة أخرى من شطيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_blocks",
+      "en": "blocks",
+      "ar": "يمنع / يسد / مربعات سكنية",
+      "pronunciation": "/blak/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This wall blocks the wind.",
+          "ar": "هذا الجدار يمنع الريح."
+        },
+        {
+          "en": "Walk three blocks and then turn right.",
+          "ar": "امش ثلاث مربعات سكنية ثم انعطف يمينا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_boarded",
+      "en": "boarded",
+      "ar": "صعد على متن",
+      "pronunciation": "/bord/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami boarded the plane.",
+          "ar": "صعد سامي على متن الطائرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bombs",
+      "en": "bombs",
+      "ar": "قنابل / يقصف",
+      "pronunciation": "/bam/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Many cities were destroyed by bombs.",
+          "ar": "العديد من المدن دمرت بواسطة القنابل."
+        },
+        {
+          "en": "They bombed several air ports.",
+          "ar": "قصفوا عدة مطارات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_border",
+      "en": "border",
+      "ar": "حدود",
+      "pronunciation": "/'bər dər/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They crossed the border into Spain.",
+          "ar": "عبروا الحدود إلى إسبانيا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_bother",
+      "en": "bother",
+      "ar": "يزعج",
+      "pronunciation": "/'ba-dər/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I won't bother you.",
+          "ar": "لن أزعجك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_branches",
+      "en": "branches",
+      "ar": "فروع",
+      "pronunciation": "/brænt /",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have branches everywhere.",
+          "ar": "لدينا فروع في كل مكان."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

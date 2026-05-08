@@ -1,13 +1,13 @@
 {
   "id": "lsn_a1_c_2",
-  "levelId": "lvl_1",
-  "title": "C Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 7: C Words - Part 2",
   "slug": "c-words-2",
   "order": 7,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف C - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter C.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف C.",
+  "wordCount": 22,
+  "titleAr": "الوحدة 7: كلمات حرف C - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف C.",
   "words": [
     {
       "id": "w_a1_child",
@@ -15,7 +15,6 @@
       "en": "child",
       "translation": "طفل",
       "ar": "طفل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -29,7 +28,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/t͡ʃaɪld/"
     },
     {
       "id": "w_a1_chocolate",
@@ -59,7 +59,6 @@
       "en": "choose",
       "translation": "يختار",
       "ar": "يختار",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -73,7 +72,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/t͡ʃuːz/"
     },
     {
       "id": "w_a1_cinema",
@@ -81,7 +81,6 @@
       "en": "cinema",
       "translation": "سينما",
       "ar": "سينما",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -95,7 +94,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɪn.ɪ.mɑː/"
     },
     {
       "id": "w_a1_city",
@@ -103,12 +103,34 @@
       "en": "city",
       "translation": "مدينة",
       "ar": "مدينة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "She lives in the city.",
           "ar": "إنها تعيش في المدينة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɪtɪ/"
+    },
+    {
+      "id": "w_a1_city_center",
+      "lessonId": "lsn_a1_c_2",
+      "en": "city center",
+      "translation": "وسط المدينة",
+      "ar": "وسط المدينة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She lives in the city center.",
+          "ar": "إنها تعيش في وسط المدينة."
         }
       ],
       "difficulty": "A1",
@@ -125,7 +147,6 @@
       "en": "class",
       "translation": "صف / حصص دراسية",
       "ar": "صف / حصص دراسية",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -143,7 +164,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/klas/"
     },
     {
       "id": "w_a1_classroom",
@@ -151,7 +173,6 @@
       "en": "classroom",
       "translation": "فصل دراسي",
       "ar": "فصل دراسي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -165,7 +186,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈklɑːsɹʊm/"
     },
     {
       "id": "w_a1_clean",
@@ -173,7 +195,6 @@
       "en": "clean",
       "translation": "نظيف / ينظف",
       "ar": "نظيف / ينظف",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -191,7 +212,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kleːn/"
     },
     {
       "id": "w_a1_climb",
@@ -205,12 +227,17 @@
         {
           "en": "Why did you climb?",
           "ar": "لماذا صعدت؟"
+        },
+        {
+          "en": "We began our climb two hours ago.",
+          "ar": "بدأنا تسلقنا قبل ساعتين."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -221,7 +248,6 @@
       "en": "clock",
       "translation": "ساعة حائط / منبه",
       "ar": "ساعة حائط / منبه",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -239,7 +265,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/klɒk/"
     },
     {
       "id": "w_a1_close",
@@ -247,21 +274,37 @@
       "en": "close",
       "translation": "يغلق",
       "ar": "يغلق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Close the door behind you.",
           "ar": "أغلقي الباب خلفك."
+        },
+        {
+          "en": "The beach was so close.",
+          "ar": "كان الشاطئ قريبًا جدًا :"
+        },
+        {
+          "en": "Stay close to me!!",
+          "ar": "ابق قريبا مني !!"
+        },
+        {
+          "en": "At the close of the match, the scores were equal.",
+          "ar": "ومع انتهاء المباراة، كانت النتائج متساوية."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2",
+        "B1",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kləʊz/"
     },
     {
       "id": "w_a1_clothes",
@@ -291,7 +334,6 @@
       "en": "club",
       "translation": "نادي",
       "ar": "نادي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -305,7 +347,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/klʌb/"
     },
     {
       "id": "w_a1_coat",
@@ -313,7 +356,6 @@
       "en": "coat",
       "translation": "معطف",
       "ar": "معطف",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -327,7 +369,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kəʊt/"
     },
     {
       "id": "w_a1_coffee",
@@ -335,7 +378,6 @@
       "en": "coffee",
       "translation": "قهوة",
       "ar": "قهوة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -349,7 +391,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɑ.fi/"
     },
     {
       "id": "w_a1_cold",
@@ -357,7 +400,6 @@
       "en": "cold",
       "translation": "بارد / نزلة برد",
       "ar": "بارد / نزلة برد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -375,7 +417,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kɔʊld/"
     },
     {
       "id": "w_a1_college",
@@ -405,7 +448,6 @@
       "en": "color",
       "translation": "لون",
       "ar": "لون",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -419,7 +461,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈkʌl.ə(ɹ)/"
     },
     {
       "id": "w_a1_come",
@@ -427,7 +470,6 @@
       "en": "come",
       "translation": "يأتي",
       "ar": "يأتي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -441,7 +483,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/kʌm/"
     },
     {
       "id": "w_a1_common",
@@ -477,98 +520,6 @@
         {
           "en": "He works for a big company.",
           "ar": "إنه يعمل في شركة كبيرة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_compare",
-      "lessonId": "lsn_a1_c_2",
-      "en": "compare",
-      "translation": "يقارن",
-      "ar": "يقارن",
-      "pronunciation": "/kəm peər/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Let's compare our results.",
-          "ar": "دعونا نقارن نتائجنا."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_complete",
-      "lessonId": "lsn_a1_c_2",
-      "en": "complete",
-      "translation": "يكمل / مكتمل",
-      "ar": "يكمل / مكتمل",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "They will complete it tomorrow.",
-          "ar": "سوف يكملونه غداً."
-        },
-        {
-          "en": "The project is complete.",
-          "ar": "اكتمل المشروع."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_computer",
-      "lessonId": "lsn_a1_c_2",
-      "en": "computer",
-      "translation": "كمبيوتر",
-      "ar": "كمبيوتر",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "He uses a computer at work.",
-          "ar": "إنه يستخدم الكمبيوتر في العمل."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_concert",
-      "lessonId": "lsn_a1_c_2",
-      "en": "concert",
-      "translation": "حفل موسيقي",
-      "ar": "حفل موسيقي",
-      "pronunciation": "/ kan sart/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I bought concert tickets today.",
-          "ar": "اشتريت تذاكر الحفل الموسيقي اليوم."
         }
       ],
       "difficulty": "A1",

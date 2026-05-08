@@ -1,14 +1,213 @@
 {
   "id": "lsn_a1_s_4",
-  "levelId": "lvl_1",
-  "title": "S Words - Part 4",
+  "levelId": "lvl_a1",
+  "title": "Unit 40: S Words - Part 4",
   "slug": "s-words-4",
-  "order": 39,
-  "wordCount": 13,
-  "titleAr": "كلمات حرف S - الجزء 4",
-  "description": "Learn essential A1 vocabulary starting with the letter S.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف S.",
+  "order": 40,
+  "wordCount": 22,
+  "titleAr": "الوحدة 40: كلمات حرف S - الجزء 4",
+  "description": "Master essential A1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_a1_stand",
+      "lessonId": "lsn_a1_s_4",
+      "en": "stand",
+      "translation": "يقف",
+      "ar": "يقف",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He can't stand for too long.",
+          "ar": "لا يمكنه أن يقف طويلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stænd/"
+    },
+    {
+      "id": "w_a1_star",
+      "lessonId": "lsn_a1_s_4",
+      "en": "star",
+      "translation": "نجم",
+      "ar": "نجم",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The nearest star is the sun.",
+          "ar": "أقرب نجم هو الشمس."
+        },
+        {
+          "en": "He was the star of the show.",
+          "ar": "لقد كان نجم العرض."
+        },
+        {
+          "en": "He starred in that movie.",
+          "ar": "لعب دور البطولة في هذا الفيلم :"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɑː(ɹ)/"
+    },
+    {
+      "id": "w_a2_start",
+      "en": "start",
+      "ar": "بداية",
+      "lessonId": "lsn_a1_s_4",
+      "levelId": "lvl_a1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Explain everything from the start.",
+          "ar": "اشرح كل شيء من البداية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/stɑːt/"
+    },
+    {
+      "id": "w_a1_statement",
+      "lessonId": "lsn_a1_s_4",
+      "en": "statement",
+      "translation": "بيان / كلام",
+      "ar": "بيان / كلام",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The statement is not true.",
+          "ar": "الكلام / البيان غير صحيح."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsteɪtm(ə)nt/"
+    },
+    {
+      "id": "w_a1_station",
+      "lessonId": "lsn_a1_s_4",
+      "en": "station",
+      "translation": "محطة",
+      "ar": "محطة",
+      "pronunciation": "/'ster fən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We arrived at the station.",
+          "ar": "وصلنا إلى المحطة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_stay",
+      "lessonId": "lsn_a1_s_4",
+      "en": "stay",
+      "translation": "يبقى",
+      "ar": "يبقى",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I can't stay too long.",
+          "ar": "لا يمكنني أن أبقى طويلاً."
+        },
+        {
+          "en": "I enjoyed my stay in Alexandria.",
+          "ar": "استمتعت بإقامتي في الإسكندرية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/steɪ/"
+    },
+    {
+      "id": "w_a1_still",
+      "lessonId": "lsn_a1_s_4",
+      "en": "still",
+      "translation": "مازال",
+      "ar": "مازال",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I still don't understand.",
+          "ar": "ما زلت لا أفهم."
+        },
+        {
+          "en": "Stay still while I measure your height.",
+          "ar": "ابق ساكنا بينما أقيس طولك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɪl/"
+    },
+    {
+      "id": "w_a1_stop",
+      "lessonId": "lsn_a1_s_4",
+      "en": "stop",
+      "translation": "يوقف / موقف",
+      "ar": "يوقف / موقف",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Please stop the car.",
+          "ar": "أوقف السيارة من فضلك."
+        },
+        {
+          "en": "The bus stop is near.",
+          "ar": "موقف الحافلات قريب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɒp/"
+    },
     {
       "id": "w_a1_stories",
       "lessonId": "lsn_a1_s_4",
@@ -37,7 +236,6 @@
       "en": "strong",
       "translation": "قوي",
       "ar": "قوي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,7 +249,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/stɹɑŋ/"
     },
     {
       "id": "w_a1_student",
@@ -59,7 +258,6 @@
       "en": "student",
       "translation": "طالب",
       "ar": "طالب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -73,7 +271,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈstjuː.dənt/"
     },
     {
       "id": "w_a1_study",
@@ -81,7 +280,6 @@
       "en": "study",
       "translation": "أدرس / دراسة",
       "ar": "أدرس / دراسة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -99,7 +297,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈstʌdi/"
     },
     {
       "id": "w_a1_style",
@@ -139,12 +338,18 @@
         {
           "en": "History is a boring subject.",
           "ar": "التاريخ مادة مملة."
+        },
+        {
+          "en": "The decision is subject to board review.",
+          "ar": "القرار خاضع لمراجعة مجلس الإدارة."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -155,7 +360,6 @@
       "en": "success",
       "translation": "نجاح",
       "ar": "نجاح",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -169,7 +373,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/səkˈsɛs/"
     },
     {
       "id": "w_a1_summer",
@@ -199,7 +404,6 @@
       "en": "sun",
       "translation": "شمس",
       "ar": "شمس",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -213,7 +417,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sʌn/"
     },
     {
       "id": "w_a1_sunday",
@@ -243,7 +448,6 @@
       "en": "supermarket",
       "translation": "سوبر ماركت",
       "ar": "سوبر ماركت",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -257,7 +461,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˌsuːpəˈmɑːkɪt/"
     },
     {
       "id": "w_a1_sure",
@@ -265,7 +470,6 @@
       "en": "sure",
       "translation": "متأكد",
       "ar": "متأكد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -279,7 +483,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ʃoː/"
     },
     {
       "id": "w_a1_sweater",
@@ -299,6 +504,41 @@
       "tags": [
         "A1",
         "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_swim",
+      "lessonId": "lsn_a1_s_4",
+      "en": "swim",
+      "translation": "يسبح / سباحة / سبح",
+      "ar": "يسبح / سباحة / سبح",
+      "pronunciation": "/swæm/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I can swim fast.",
+          "ar": "يمكنني السباحة بسرعة."
+        },
+        {
+          "en": "Swimming is my favorite hobby.",
+          "ar": "السباحة هي هوايتي المفضلة."
+        },
+        {
+          "en": "We swam in the sea.",
+          "ar": "سبحنا في البحر."
+        },
+        {
+          "en": "like to start my day with a quick swim.",
+          "ar": "أحب أن أبدأ يومي بسباحة سريعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B1"
       ],
       "confidence": "high",
       "needsTranslationReview": false

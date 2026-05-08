@@ -1,0 +1,563 @@
+{
+  "id": "lsn_c1_i_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 17: I Words - Part 1",
+  "slug": "i-words-1",
+  "order": 17,
+  "wordCount": 25,
+  "titleAr": "الوحدة 17: كلمات حرف I - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter I.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف I.",
+  "words": [
+    {
+      "id": "w_c1_identification",
+      "en": "identification",
+      "ar": "تعريف / تحديد هوية",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يرجى إبراز هويتك (تعريفك) عند مكتب الأمن",
+          "ar": "The identification of the virus took several weeks of research."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/aɪˌdɛntɪfɪˈkeɪʃən/"
+    },
+    {
+      "id": "w_c1_ideology",
+      "en": "ideology",
+      "ar": "أيديولوجيا / فكر",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يقوم الحزب السياسي على أيديولوجيا ليبرالية محددة",
+          "ar": "He rejected the ideology of the extremist group."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌaɪ.diːˈɒl.ə.d͡ʒiː/"
+    },
+    {
+      "id": "w_c1_idiot",
+      "en": "idiot",
+      "ar": "أحمق / غبي",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "شعرت بأنني أحمق تماماً عندما نسيت اسمها",
+          "ar": "Don't be an idiot; check the instructions before starting."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪd.i.(j)ɪt/"
+    },
+    {
+      "id": "w_c1_ignorance",
+      "en": "ignorance",
+      "ar": "جهل",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "جهله بالقانون ليس عذراً لأفعاله",
+          "ar": "We must fight against ignorance and prejudice in society."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪɡnəɹəns/"
+    },
+    {
+      "id": "w_c1_imagery",
+      "en": "imagery",
+      "ar": "تصوير / صور بيانية",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يستخدم الشاعر صوراً بيانية حية لوصف الطبيعة",
+          "ar": "The film is famous for its beautiful visual imagery."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/-ədʒɹi/"
+    },
+    {
+      "id": "w_c1_immense",
+      "en": "immense",
+      "ar": "هائل / ضخم",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تطلب المشروع قدراً هائلاً من الوقت والجهد",
+          "ar": "The discovery will have an immense impact on the field of medicine."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪˈmɛns/"
+    },
+    {
+      "id": "w_c1_imminent",
+      "en": "imminent",
+      "ar": "وشيك",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تشير الغيوم الداكنة إلى أن العاصفة وشيكة",
+          "ar": "The company warned of an imminent change in its management."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪmɪnənt/"
+    },
+    {
+      "id": "w_c1_imprison",
+      "en": "imprison",
+      "ar": "يسجن",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الدولة سجن المتمرد لمدة عشر سنوات",
+          "ar": "They cannot imprison a person without a fair trial."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪmˈpɹɪzən/"
+    },
+    {
+      "id": "w_c1_imprisonment",
+      "en": "imprisonment",
+      "ar": "سجن / حبس",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حُكم عليه بالسجن المؤبد لجرائمه",
+          "ar": "The threat of imprisonment managed to deter many criminals."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪmˈpɹɪzn̩.mənt/"
+    },
+    {
+      "id": "w_c1_inability",
+      "en": "inability",
+      "ar": "عجز / عدم قدرة",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "عجزه عن التحدث بالإنجليزية جعل الرحلة صعبة",
+          "ar": "The manager's inability to lead caused the team to fail."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɪnəˈbɪlɪti/"
+    },
+    {
+      "id": "w_c1_inadequate",
+      "en": "inadequate",
+      "ar": "غير كافٍ / غير ملائم",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "التمويل الحالي غير كافٍ لاحتياجات المشروع",
+          "ar": "She felt inadequate in her new role as a manager."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈædəkwɪt/"
+    },
+    {
+      "id": "w_c1_incidence",
+      "en": "incidence",
+      "ar": "وقوع / حدوث",
+      "pronunciation": "ˈɪnsɪdəns",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان هناك معدل وقوع عالٍ للإنفلونزا هذا الشتاء",
+          "ar": "The study tracks the incidence of the disease in the region."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_inclined",
+      "en": "inclined",
+      "ar": "مائل لـ / نزاع لـ",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أنا أميل للموافقة على تقييمك للموقف",
+          "ar": "He is naturally inclined toward music and arts."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈklaɪnd/"
+    },
+    {
+      "id": "w_c1_indictment",
+      "en": "indictment",
+      "ar": "اتهام / إدانة",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أصدرت هيئة المحلفين الكبرى لائحة اتهام ضد المشتبه به",
+          "ar": "The failed project is a sad indictment of the management."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdaɪt.mənt/"
+    },
+    {
+      "id": "w_c1_indigenous",
+      "en": "indigenous",
+      "ar": "أصلي / وطني",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يعرض المتحف فنون السكان الأصليين",
+          "ar": "We must respect and protect the indigenous cultures."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdɪdʒɪnəs/"
+    },
+    {
+      "id": "w_c1_induce",
+      "en": "induce",
+      "ar": "يحث / يسبب",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قرر الطبيب حث (تحفيز) الولادة من أجل سلامة الطفل",
+          "ar": "Nothing could induce him to change his mind."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdjuːs/"
+    },
+    {
+      "id": "w_c1_indulge",
+      "en": "indulge",
+      "ar": "ينغمس / يدلل",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أحب أن أنغمس في قطعة من الشوكولاتة بين الحين والآخر",
+          "ar": "Parents should not indulge their children's every whim."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdʌldʒ/"
+    },
+    {
+      "id": "w_c1_infamous",
+      "en": "infamous",
+      "ar": "سيئ السمعة",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان القرصان سيئ السمعة بسبب قسوته وجرائمه",
+          "ar": "The prison is infamous for its harsh conditions."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪnfəməs/"
+    },
+    {
+      "id": "w_c1_infect",
+      "en": "infect",
+      "ar": "يعدي / يلوث",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمكن للفيروس أن يعدي أي شخص يتصل به",
+          "ar": "The hackers managed to infect the network with a virus."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈfɛkt/"
+    },
+    {
+      "id": "w_c1_inflict",
+      "en": "inflict",
+      "ar": "يلحق / يسبب",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكنت العاصفة من إلحاق أضرار جسيمة بالمحاصيل",
+          "ar": "We must not inflict unnecessary pain on animals."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈflɪkt/"
+    },
+    {
+      "id": "w_c1_influential",
+      "en": "influential",
+      "ar": "مؤثر",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنها واحدة من أكثر النساء تأثيراً في العالم",
+          "ar": "The book played an influential role in my decision-幕"
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnfluˈɛnʃəl/"
+    },
+    {
+      "id": "w_c1_inherent",
+      "en": "inherent",
+      "ar": "متأصل / كائن في",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لكل وظيفة مخاطرها وتحدياتها المتأصلة",
+          "ar": "The desire for freedom is inherent in every human."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈhɛɹənt/"
+    },
+    {
+      "id": "w_c1_inhibit",
+      "en": "inhibit",
+      "ar": "يثبط / يمنع",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكن الطقس البارد من تثبيط نمو النباتات",
+          "ar": "Fear can often inhibit a person's ability to take risks."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈhɪbɪt/"
+    },
+    {
+      "id": "w_c1_initiate",
+      "en": "initiate",
+      "ar": "يبدأ / يستهل",
+      "pronunciation": "ɪˈnɪʃieɪt",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الحكومة بدء سياسة تجارية جديدة",
+          "ar": "The company will initiate a formal investigation into the matter."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_inject",
+      "en": "inject",
+      "ar": "يحقن",
+      "lessonId": "lsn_c1_i_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اضطر الطبيب لحقن الدواء في ذراع المريض",
+          "ar": "The new investment will inject life into the local economy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdʒɛkt/"
+    }
+  ]
+}

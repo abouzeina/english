@@ -1,41 +1,18 @@
 {
   "id": "lsn_b1_f_1",
   "levelId": "lvl_b1",
+  "title": "Unit 13: F Words - Part 1",
   "slug": "f-words-1",
-  "title": "Unit 14: F Words - Part 1",
-  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 1",
-  "description": "Expand your intermediate vocabulary with words starting with F.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف F.",
-  "order": 14,
-  "wordCount": 25,
+  "order": 13,
+  "wordCount": 19,
+  "titleAr": "الوحدة 13: كلمات حرف F - الجزء 1",
+  "description": "Master essential B1 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف F.",
   "words": [
-    {
-      "id": "w_b1_extra",
-      "en": "extra",
-      "ar": "ملحق / إضافي",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_f_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Did you read the newspaper extra?",
-          "ar": "هل قرأت ملحق الجريدة ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_faces",
       "en": "faces",
       "ar": "يواجه",
-      "pronunciation": "",
       "lessonId": "lsn_b1_f_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -51,7 +28,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfeɪsɪz/"
     },
     {
       "id": "w_b1_fairly",
@@ -113,28 +91,6 @@
         {
           "en": "Do you fancy eating something sweet?",
           "ar": "هل ترغب في أكل شيء حلو ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_far",
-      "en": "far",
-      "ar": "بعيداً",
-      "pronunciation": "/far/",
-      "lessonId": "lsn_b1_f_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We live far from here.",
-          "ar": "نعيش بعيدًا عن هنا."
         }
       ],
       "type": "word",
@@ -234,28 +190,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_fear",
-      "en": "fear",
-      "ar": "يخاف من",
-      "pronunciation": "/fzer/",
-      "lessonId": "lsn_b1_f_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "My daughter doesn't fear the dentist.",
-          "ar": "ابنتي لا تخاف من طبيب الأسنان."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_featured",
       "en": "featured",
       "ar": "أبرزته / سمة",
@@ -325,7 +259,6 @@
       "id": "w_b1_files",
       "en": "files",
       "ar": "ملفات",
-      "pronunciation": "",
       "lessonId": "lsn_b1_f_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -341,7 +274,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/faɪlz/"
     },
     {
       "id": "w_b1_financial",
@@ -413,7 +347,6 @@
       "id": "w_b1_fixed",
       "en": "fixed",
       "ar": "ثابتة",
-      "pronunciation": "",
       "lessonId": "lsn_b1_f_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -429,7 +362,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/fɪkst/"
     },
     {
       "id": "w_b1_flag",
@@ -491,76 +425,6 @@
         {
           "en": "This bowl contains some flour.",
           "ar": "هذا الوعاء يحتوي على بعض الطحين."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_flows",
-      "en": "flows",
-      "ar": "يتدفق / سيلان",
-      "pronunciation": "/flou/",
-      "lessonId": "lsn_b1_f_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The river flows towards the desert.",
-          "ar": "النهر يتدفق باتجاه الصحراء."
-        },
-        {
-          "en": "I can't stop the flow of my blood.",
-          "ar": "لا أستطيع إيقاف سيلان دمي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_folded",
-      "en": "folded",
-      "ar": "طوى",
-      "pronunciation": "/fould/",
-      "lessonId": "lsn_b1_f_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He folded the paper and put it in his pocket.",
-          "ar": "هو طوى الورقة ووضعها في جيبه."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_folks",
-      "en": "folks",
-      "ar": "ناس / عامة",
-      "pronunciation": "/fouk/",
-      "lessonId": "lsn_b1_f_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Like most folks, I like good jokes.",
-          "ar": "مثل معظم الناس، أحب النكات الجيدة."
         }
       ],
       "type": "word",

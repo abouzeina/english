@@ -1,0 +1,105 @@
+{
+  "id": "lsn_a2_q",
+  "levelId": "lvl_a2",
+  "title": "Unit 31: Q Words",
+  "slug": "q-words",
+  "order": 31,
+  "wordCount": 4,
+  "titleAr": "الوحدة 31: كلمات حرف Q",
+  "description": "Master essential A2 vocabulary starting with the letter Q.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف Q.",
+  "words": [
+    {
+      "id": "w_a2_quality",
+      "en": "quality",
+      "ar": "جودة",
+      "pronunciation": "/ kwa lə-ti/",
+      "lessonId": "lsn_a2_q",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These products are of the same quality.",
+          "ar": "هذه المنتجات من نفس الجودة :"
+        },
+        {
+          "en": "Quality is more important than quantity.",
+          "ar": "الجودة أهم بكثير من الكمية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_quantity",
+      "en": "quantity",
+      "ar": "كمية",
+      "pronunciation": "/ kwan  -ţi/",
+      "lessonId": "lsn_a2_q",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Quality is more important than quantity.",
+          "ar": "الجودة أهم بكثير من الكمية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_queen",
+      "en": "queen",
+      "ar": "ملكة",
+      "lessonId": "lsn_a2_q",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Next year the queen will visit China.",
+          "ar": "العام القادم ستزور الملكة الصين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kwiːn/"
+    },
+    {
+      "id": "w_a2_quietly",
+      "en": "quietly",
+      "ar": "بهدوء",
+      "pronunciation": "/ kwar It li/",
+      "lessonId": "lsn_a2_q",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He can move quietly and quickly.",
+          "ar": "يمكنه أن يتحرك بهدوء وبسرعة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

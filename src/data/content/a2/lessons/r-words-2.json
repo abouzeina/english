@@ -1,13 +1,13 @@
 {
   "id": "lsn_a2_r_2",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 33: R Words - Part 2",
   "slug": "r-words-2",
-  "title": "Unit 34: R Words - Part 2",
-  "titleAr": "الوحدة 34: كلمات حرف R - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter R.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف R.",
-  "order": 34,
-  "wordCount": 25,
+  "order": 33,
+  "wordCount": 23,
+  "titleAr": "الوحدة 33: كلمات حرف R - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف R.",
   "words": [
     {
       "id": "w_a2_remove",
@@ -91,28 +91,6 @@
         {
           "en": "Please write a reply soon.",
           "ar": "من فضلك اكتب ردا في القريب :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_report",
-      "en": "report",
-      "ar": "تقرير / ذكر",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_r_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Other researchers reported similar results",
-          "ar": "ذكر باحثون آخرون نتائج مماثلة."
         }
       ],
       "type": "word",
@@ -263,7 +241,6 @@
       "id": "w_a2_rest",
       "en": "rest",
       "ar": "بقية / يرتاح",
-      "pronunciation": "",
       "lessonId": "lsn_a2_r_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -283,7 +260,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɹɛst/"
     },
     {
       "id": "w_a2_review",
@@ -301,28 +279,6 @@
         {
           "en": "Can you review my message before I send it ?",
           "ar": "هل يمكنك أن تراجع رسالتي قبل أن أرسلها ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_ride",
-      "en": "ride",
-      "ar": "توصيلة",
-      "pronunciation": "/raid/",
-      "lessonId": "lsn_a2_r_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I need a ride to the airport.",
-          "ar": "أحتاج إلى توصيلة إلى المطار :"
         }
       ],
       "type": "word",
@@ -371,13 +327,18 @@
         {
           "en": "The price will rise soon.",
           "ar": "سيرتفع السعر قريبا :"
+        },
+        {
+          "en": "Egypt will experience a temperature rise next month.",
+          "ar": "ستشهد مصر ارتفاعًا في درجات الحرارة الشهر القادم."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -463,13 +424,19 @@
         {
           "en": "The moon moves round the earth.",
           "ar": "يتحرك القمر حول الأرض :"
+        },
+        {
+          "en": "Let's play another round of cards before dinner.",
+          "ar": "لنلعب جولة أخرى من الكوتشينة قبل العشاء."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -540,28 +507,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_run",
-      "en": "run",
-      "ar": "جري",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_r_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He goes for a run every morning.",
-          "ar": "يذهب للجري كل صباح."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_runner",
       "en": "runner",
       "ar": "عداء",
@@ -582,6 +527,28 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_running",
+      "en": "running",
+      "ar": "جري",
+      "lessonId": "lsn_a2_r_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali always wears running shoes.",
+          "ar": "علي دائما يرتدي حذاء جري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈɹʌnɪŋ/"
     }
   ]
 }

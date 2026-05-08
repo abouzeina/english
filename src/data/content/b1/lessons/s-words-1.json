@@ -1,36 +1,14 @@
 {
   "id": "lsn_b1_s_1",
   "levelId": "lvl_b1",
+  "title": "Unit 32: S Words - Part 1",
   "slug": "s-words-1",
-  "title": "Unit 35: S Words - Part 1",
-  "titleAr": "الوحدة 35: كلمات حرف S - الجزء 1",
-  "description": "Expand your intermediate vocabulary with words starting with S.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف S.",
-  "order": 35,
-  "wordCount": 25,
+  "order": 32,
+  "wordCount": 21,
+  "titleAr": "الوحدة 32: كلمات حرف S - الجزء 1",
+  "description": "Master essential B1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_b1_rules",
-      "en": "rules",
-      "ar": "يحكم",
-      "pronunciation": "/rul/",
-      "lessonId": "lsn_b1_s_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Who rules Abu Dhabi now?",
-          "ar": "من يحكم أبوظبي الآن ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_safety",
       "en": "safety",
@@ -43,28 +21,6 @@
         {
           "en": "am worried about your safety.",
           "ar": "أنا قلق على سلامتك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_sail",
-      "en": "sail",
-      "ar": "إبحار / رحلة بحرية",
-      "pronunciation": "/serl/",
-      "lessonId": "lsn_b1_s_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We went for a sail.",
-          "ar": "ذهبنا للإبحار."
         }
       ],
       "type": "word",
@@ -101,7 +57,6 @@
       "id": "w_b1_sample",
       "en": "sample",
       "ar": "عينة",
-      "pronunciation": "",
       "lessonId": "lsn_b1_s_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -109,15 +64,22 @@
         {
           "en": "You can download the free sample.",
           "ar": "يمكنك تحميل العينة المجانية."
+        },
+        {
+          "en": "I want to sample the soup before serving.",
+          "ar": "أريد أن أتذوق الحساء قبل تقديمه."
         }
       ],
       "type": "word",
       "difficulty": "B1",
       "tags": [
         "B1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/sæːm.pəl/"
     },
     {
       "id": "w_b1_sand",
@@ -131,6 +93,28 @@
         {
           "en": "Is this sand dry or wet?",
           "ar": "هل هذا الرمل جاف أم مبتل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_sank",
+      "en": "sank",
+      "ar": "غرقت",
+      "pronunciation": "/sænk/",
+      "lessonId": "lsn_b1_s_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The ship sank in the Pacific ocean.",
+          "ar": "السفينة غرقت في المحيط الهادئ."
         }
       ],
       "type": "word",
@@ -476,50 +460,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_shake",
-      "en": "shake",
-      "ar": "هزة",
-      "pronunciation": "/Jerk/",
-      "lessonId": "lsn_b1_s_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Give me a strong shake in the morning to wake me up.",
-          "ar": "أعطني هزة قوية في الصباح لإيقاظي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_share",
-      "en": "share",
-      "ar": "حصة / يتقاسم",
-      "pronunciation": "/feǝr/",
-      "lessonId": "lsn_b1_s_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Our share of the profits increased this year.",
-          "ar": "حصتنا من الأرباح زادت هذا العام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_sharp",
       "en": "sharp",
       "ar": "حاد",
@@ -531,28 +471,6 @@
         {
           "en": "Use a sharp pencil to draw this.",
           "ar": "استخدم قلم رصاص حاد لرسم هذا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_shelves",
-      "en": "shelves",
-      "ar": "أرفف",
-      "pronunciation": "/Jelf/",
-      "lessonId": "lsn_b1_s_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Use these empty shelves to store your books.",
-          "ar": "استخدم هذه الأرفف الفارغة لتخزين كتبك."
         }
       ],
       "type": "word",

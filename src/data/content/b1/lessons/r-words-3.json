@@ -1,14 +1,316 @@
 {
   "id": "lsn_b1_r_3",
   "levelId": "lvl_b1",
+  "title": "Unit 31: R Words - Part 3",
   "slug": "r-words-3",
-  "title": "Unit 34: R Words - Part 3",
-  "titleAr": "الوحدة 34: كلمات حرف R - الجزء 3",
-  "description": "Expand your intermediate vocabulary with words starting with R.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف R.",
-  "order": 34,
-  "wordCount": 3,
+  "order": 31,
+  "wordCount": 17,
+  "titleAr": "الوحدة 31: كلمات حرف R - الجزء 3",
+  "description": "Master essential B1 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف R.",
   "words": [
+    {
+      "id": "w_b1_respect",
+      "en": "respect",
+      "ar": "يحترم / حق / احترام",
+      "pronunciation": "/rx'spekt/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please respect my right to disagree with you.",
+          "ar": "من فضلك احترم حقي في أن أختلف معك."
+        },
+        {
+          "en": "Show me some respect.",
+          "ar": "أظهر لي بعض الاحترام."
+        },
+        {
+          "en": "You have to treat others with respect.",
+          "ar": "عليك أن تعامل الآخرين باحترام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_responsibility",
+      "en": "responsibility",
+      "ar": "مسؤولية",
+      "pronunciation": "/rı spa:n.sə brl.ə.ti/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Organizing the crowd is your responsibility.",
+          "ar": "تنظيم الحشد هي مسؤوليتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_responsible",
+      "en": "responsible",
+      "ar": "مسؤول",
+      "pronunciation": "/rr'spa:n.sə.bal/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who is responsible for data quality?",
+          "ar": "من المسؤول عن جودة البيانات ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_resulted",
+      "en": "resulted",
+      "ar": "أدت إلى",
+      "pronunciation": "/rı zolt/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The campaign resulted in sales increases.",
+          "ar": "أدت الحملة إلى زيادة المبيعات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_retire",
+      "en": "retire",
+      "ar": "يتقاعد",
+      "pronunciation": "/rı tazer/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I expect he will retire soon.",
+          "ar": "أتوقع أنه سوف يتقاعد قريبًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_retired",
+      "en": "retired",
+      "ar": "متقاعد",
+      "pronunciation": "/rı tazer/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My father is a retired officer.",
+          "ar": "والدي ضابط متقاعد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_revise",
+      "en": "revise",
+      "ar": "يراجع",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need to revise lesson number 4.",
+          "ar": "أحتاج أن أراجع الدرس رقم 4."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ɹɪˈvaɪ̯z/"
+    },
+    {
+      "id": "w_b1_risks",
+      "en": "risks",
+      "ar": "مخاطر / خاطر",
+      "pronunciation": "/rısk/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Try to avoid risks.",
+          "ar": "حاول تجنب المخاطر."
+        },
+        {
+          "en": "He risked his life to save me.",
+          "ar": "لقد خاطر بحياته لإنقاذي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_robots",
+      "en": "robots",
+      "ar": "روبوتات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Humans sent robots to Mars.",
+          "ar": "أرسل البشر الروبوتات إلى المريخ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_rolled",
+      "en": "rolled",
+      "ar": "تدحرجت / لفافات",
+      "pronunciation": "/roul/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The bag rolled down the hill.",
+          "ar": "تدحرجت الحقيبة أسفل التل."
+        },
+        {
+          "en": "Buy some toilet paper rolls.",
+          "ar": "اشتر بعض لفافات مناديل الحمام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_romantic",
+      "en": "romantic",
+      "ar": "رومانسية / عاطفي",
+      "pronunciation": "/rou mæn tık/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you read romantic novels?",
+          "ar": "هل تقرأ الروايات الرومانسية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_rope",
+      "en": "rope",
+      "ar": "حبل",
+      "pronunciation": "/roup/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They tied my hands with rope.",
+          "ar": "ربطوا يدي بحبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_rough",
+      "en": "rough",
+      "ar": "وعرة",
+      "pronunciation": "/raf/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't sit on this rough ground.",
+          "ar": "لا تجلس على هذه الأرض الوعرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_b1_rows",
       "en": "rows",
@@ -35,7 +337,6 @@
       "id": "w_b1_royal",
       "en": "royal",
       "ar": "ملكية",
-      "pronunciation": "",
       "lessonId": "lsn_b1_r_3",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -51,7 +352,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈɹɔɪəl/"
     },
     {
       "id": "w_b1_rugby",
@@ -65,6 +367,28 @@
         {
           "en": "We don't play rugby in our community.",
           "ar": "نحن لا نلعب الرجبي في مجتمعنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_rules",
+      "en": "rules",
+      "ar": "يحكم",
+      "pronunciation": "/rul/",
+      "lessonId": "lsn_b1_r_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who rules Abu Dhabi now?",
+          "ar": "من يحكم أبوظبي الآن ؟"
         }
       ],
       "type": "word",

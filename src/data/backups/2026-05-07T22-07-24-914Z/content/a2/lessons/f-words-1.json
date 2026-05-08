@@ -1,0 +1,567 @@
+{
+  "id": "lsn_a2_f_1",
+  "levelId": "lvl_2",
+  "slug": "f-words-1",
+  "title": "Unit 14: F Words - Part 1",
+  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter F.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف F.",
+  "order": 14,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_extremely",
+      "en": "extremely",
+      "ar": "للغاية / جدا",
+      "pronunciation": "/Ik strim li/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This question is extremely difficult.",
+          "ar": "هذا السؤال صعب للغاية : للغاية | جداً | إلى أبعد حد :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_factor",
+      "en": "factor",
+      "ar": "عامل",
+      "pronunciation": "/'fæk tər/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "All of these factors are important.",
+          "ar": "كل هذه العوامل مهمة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_factory",
+      "en": "factory",
+      "ar": "مصنع",
+      "pronunciation": "/'fæk-tər-i/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They decided to close the factory.",
+          "ar": "قرروا إغلاق المصنع :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fail",
+      "en": "fail",
+      "ar": "يفشل",
+      "pronunciation": "/fexl/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He tried hard but failed.",
+          "ar": "حاول جاهدًا، لكنه فشل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fair",
+      "en": "fair",
+      "ar": "عادل",
+      "pronunciation": "/feǝr/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We made a fair decision.",
+          "ar": "اتخذنا قرارًا عادلاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fall",
+      "en": "fall",
+      "ar": "خريف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The weather last fall was beautiful.",
+          "ar": "كان الطقس جميلاً في الخريف الماضي ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fan",
+      "en": "fan",
+      "ar": "معجب",
+      "pronunciation": "/fæn/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm a big fan of his books.",
+          "ar": "أنا معجب كبير بكتبه :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_farm",
+      "en": "farm",
+      "ar": "يزرع",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They farm rice.",
+          "ar": "يزرعون الأرز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_farming",
+      "en": "farming",
+      "ar": "زراعة",
+      "pronunciation": "/'far-mın/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We use modern farming methods.",
+          "ar": "نحن نستخدم طرق الزراعة الحديثة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fashion",
+      "en": "fashion",
+      "ar": "موضة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She doesn't care about fashion.",
+          "ar": "هي لا تهتم بالموضة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fat",
+      "en": "fat",
+      "ar": "دهن",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This meat has too much fat on it.",
+          "ar": "هذا اللحم فيه الكثير من الدهن :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fear",
+      "en": "fear",
+      "ar": "خوف",
+      "pronunciation": "/fzer/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lives in fear.",
+          "ar": "يعيش في خوف :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_feature",
+      "en": "feature",
+      "ar": "ميزة",
+      "pronunciation": "/fi-tfər/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have added some new features to our website",
+          "ar": "أضفنا بعض الميزات الجديدة إلى موقعنا الإلكتروني :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_feed",
+      "en": "feed",
+      "ar": "تطعم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She forgot to feed her cat.",
+          "ar": "نسيت أن تطعم قطتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_female",
+      "en": "female",
+      "ar": "أنثى",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Muna is a female name.",
+          "ar": "منى هو اسم أنثى :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fiction",
+      "en": "fiction",
+      "ar": "خيال",
+      "pronunciation": "/'fzk-Jen/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He really likes science fiction.",
+          "ar": "إنه يحب الخيال العلمي حقا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_field",
+      "en": "field",
+      "ar": "ملعب",
+      "pronunciation": "/fild/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I ran around the field.",
+          "ar": "ركضت حول الملعب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_fight",
+      "en": "fight",
+      "ar": "قتال / يقاتل",
+      "pronunciation": "/faxt/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It wasn't a fair fight.",
+          "ar": "لم يكن قتالاً عادلاً."
+        },
+        {
+          "en": "Ali doesn't know how to fight.",
+          "ar": "علي لا يعرف كيف يقاتل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_figure",
+      "en": "figure",
+      "ar": "أرقام",
+      "pronunciation": "/fxg jər/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Will you please check these figures?",
+          "ar": "هل يمكنك التحقق من هذه الأرقام من فضلك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_film",
+      "en": "film",
+      "ar": "فيلم / يصور",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They are filming in Alexandria right now",
+          "ar": "إنهم يصورون في الإسكندرية حاليا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_final",
+      "en": "final",
+      "ar": "نهائية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My answer is final.",
+          "ar": "إجابتي نهائية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_finally",
+      "en": "finally",
+      "ar": "أخيرا",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Spring is finally coming.",
+          "ar": "الربيع قادم أخيرًا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_finger",
+      "en": "finger",
+      "ar": "إصبع",
+      "pronunciation": "/ fin ger/",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you want chicken fingers?",
+          "ar": "هل تريد أصابع دجاج ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_finish",
+      "en": "finish",
+      "ar": "نهاية",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I enjoyed the movie from start to finish",
+          "ar": "استمتعت بالفيلم من البداية إلى النهاية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_first",
+      "en": "first",
+      "ar": "أول",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_f_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I was the first to arrive.",
+          "ar": "كنت أول من وصل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

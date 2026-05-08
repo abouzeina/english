@@ -1,0 +1,506 @@
+{
+  "id": "lsn_b2_u",
+  "levelId": "lvl_b2",
+  "title": "Unit 52: U Words",
+  "slug": "u-words",
+  "order": 52,
+  "wordCount": 22,
+  "titleAr": "الوحدة 52: كلمات حرف U",
+  "description": "Master essential B2 vocabulary starting with the letter U.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف U.",
+  "words": [
+    {
+      "id": "w_b2_ultimate",
+      "en": "ultimate",
+      "ar": "النهائي / نهاية المطاف",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He ultimately decided to accept the job offer.",
+          "ar": "وقد قرر في نهاية المطاف أن يقبل عرض العمل."
+        },
+        {
+          "en": "Our ultimate goal is to create a better future.",
+          "ar": "هدفنا النهائي هو صنع مستقبل أفضل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈʌltɪmɪt/"
+    },
+    {
+      "id": "w_b2_unacceptable",
+      "en": "unacceptable",
+      "ar": "غير مقبول",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your rude behavior is completely unacceptable.",
+          "ar": "سلوكك الوقح غير مقبول على الإطلاق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_uncertainty",
+      "en": "uncertainty",
+      "ar": "الشك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She hesitated, filled with uncertainty and fear.",
+          "ar": "تردت، وقد ملأها الشك والخوف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unconscious",
+      "en": "unconscious",
+      "ar": "فاقدا للوعي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was found unconscious on the bathroom floor.",
+          "ar": "تم العثور عليه فاقدا للوعي على أرضية الحمام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_undergo",
+      "en": "undergo",
+      "ar": "يخضع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The bridge must undergo repairs after the heavy storm.",
+          "ar": "يجب أن يخضع الجسر للإصلاحات بعد العاصفة الشديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_undertakes",
+      "en": "undertakes",
+      "ar": "يتولى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He undertakes many responsibilities at work.",
+          "ar": "إنه يتولى العديد من المسؤوليات في العمل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unexpected",
+      "en": "unexpected",
+      "ar": "غير متوقعة",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "An unexpected storm forced us to cancel the trip.",
+          "ar": "أجبرتنا عاصفة غير متوقعة على إلغاء الرحلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ʌnɪkˈspɛktɪd/"
+    },
+    {
+      "id": "w_b2_unfolded",
+      "en": "unfolded",
+      "ar": "قمنا بفرد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We unfolded the large picnic blanket together.",
+          "ar": "قمنا بفرد بطانية التنزه الكبيرة سويًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unfortunate",
+      "en": "unfortunate",
+      "ar": "مؤسفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She had an unfortunate experience during her vacation.",
+          "ar": "مرت بتجربة مؤسفة خلال إجازتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unique",
+      "en": "unique",
+      "ar": "فريد من نوعه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her dress had a unique design with bright colors.",
+          "ar": "كان فستانها ذو تصميم فريد من نوعه بألوانه الزاهية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unite",
+      "en": "unite",
+      "ar": "يتحد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The leaders will unite to solve the country's problems.",
+          "ar": "سوف يتحد القادة لحل مشاكل البلاد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unity",
+      "en": "unity",
+      "ar": "الوحدة الوطنية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The speech emphasized the importance of national unity.",
+          "ar": "وقد أكد الخطاب على أهمية الوحدة الوطنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_universal",
+      "en": "universal",
+      "ar": "عالمية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Love is a universal language understood by everyone.",
+          "ar": "الحب لغة عالمية يفهمها الجميع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_universe",
+      "en": "universe",
+      "ar": "كوننا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our universe is constantly expanding in all directions.",
+          "ar": "يتوسع كوننا باستمرار في جميع الاتجاهات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unknown",
+      "en": "unknown",
+      "ar": "غير معروف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The package was sent from an unknown address.",
+          "ar": "أرسل الطرد من عنوان غير معروف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_upper",
+      "en": "upper",
+      "ar": "العلوي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He injured his upper arm during the football match.",
+          "ar": "أصيب في الجزء العلوي من ذراعه أثناء مباراة كرة القدم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_upward",
+      "en": "upward",
+      "ar": "للأعلى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She stretched her arms upward to reach the shelf.",
+          "ar": "مدت ذراعيها للأعلى لتصل إلى الرف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_urban",
+      "en": "urban",
+      "ar": "الحضرية",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Urban parks provide a peaceful escape from noise.",
+          "ar": "توفر المتنزهات الحضرية ملاذاً هادئاً بعيدًا عن الضوضاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɜːbən/"
+    },
+    {
+      "id": "w_b2_urged",
+      "en": "urged",
+      "ar": "حثني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My doctor urged me to exercise every day.",
+          "ar": "حثني طبيبي على ممارسة التمارين الرياضية كل يوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_urgent",
+      "en": "urgent",
+      "ar": "عاجل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The firefighters responded to an urgent emergency.",
+          "ar": "استجاب رجال الإطفاء لحالة طوارئ عاجلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_usage",
+      "en": "usage",
+      "ar": "استخدام",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Water usage increases during the hot summer months.",
+          "ar": "يزداد استخدام المياه خلال أشهر الصيف الحارة."
+        },
+        {
+          "en": "يوفر الكتاب أمثلة على استخدام الكلمات الإنجليزية.",
+          "ar": "Water usage has increased significantly this summer."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈjuːsɪd͡ʒ/"
+    },
+    {
+      "id": "w_b2_useless",
+      "en": "useless",
+      "ar": "عديمة الفائدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This useless tool can't cut anything properly.",
+          "ar": "هذه الأداة عديمة الفائدة لا يمكنها قطع أي شيء بشكل صحيح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

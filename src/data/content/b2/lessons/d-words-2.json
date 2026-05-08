@@ -1,0 +1,553 @@
+{
+  "id": "lsn_b2_d_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 14: D Words - Part 2",
+  "slug": "d-words-2",
+  "order": 14,
+  "wordCount": 24,
+  "titleAr": "الوحدة 14: كلمات حرف D - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف D.",
+  "words": [
+    {
+      "id": "w_b2_deleted",
+      "en": "deleted",
+      "ar": "حذفت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I accidentally deleted all my files.",
+          "ar": "حذفت جميع ملفاتي عن طريق الخطأ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_deliberate",
+      "en": "deliberate",
+      "ar": "متعمدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was a deliberate attempt to kill him.",
+          "ar": "لقد كانت محاولة متعمدة لقتله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_deliberately",
+      "en": "deliberately",
+      "ar": "عمدًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He deliberately broke the window.",
+          "ar": "لقد كسر النافذة عمدًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_delight",
+      "en": "delight",
+      "ar": "فرحته",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He couldn't hide his delight when he saw me.",
+          "ar": "لم يستطع إخفاء فرحته عندما رآني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_delighted",
+      "en": "delighted",
+      "ar": "أسعد / سعيد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His success delighted his parents.",
+          "ar": "نجاحه أسعد والديه."
+        },
+        {
+          "en": "I am delighted to meet you.",
+          "ar": "أنا سعيد بلقائك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_delivery",
+      "en": "delivery",
+      "ar": "توصيل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We offer free delivery on orders over 500 pounds.",
+          "ar": "نقدم توصيل مجاني للطلبات التي تزيد عن 500 جنيه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_demands",
+      "en": "demands",
+      "ar": "يتطلب / مطالب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The current situation demands immediate actions.",
+          "ar": "الوضع الحالي يتطلب إجراءات فورية."
+        },
+        {
+          "en": "The workers have four demands.",
+          "ar": "العمال لديهم أربعة مطالب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_democracy",
+      "en": "democracy",
+      "ar": "الديمقراطية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A true democracy allows free speech.",
+          "ar": "الديمقراطية الحقيقية تسمح بحرية التعبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_democratic",
+      "en": "democratic",
+      "ar": "ديمقراطي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We live in a democratic country.",
+          "ar": "نحن نعيش في بلد ديمقراطي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_demonstrates",
+      "en": "demonstrates",
+      "ar": "توضح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My study demonstrates how technology affects education.",
+          "ar": "دراستي توضح كيف أن التكنولوجيا تؤثر على التعليم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_demonstration",
+      "en": "demonstration",
+      "ar": "عرضًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The engineer gave a demonstration of the new device.",
+          "ar": "قدم المهندس عرضًا للجهاز الجديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_denied",
+      "en": "denied",
+      "ar": "أنكر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He denied all charges.",
+          "ar": "أنكر جميع التهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_depart",
+      "en": "depart",
+      "ar": "تغادر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company's buses always depart on time.",
+          "ar": "حافلات الشركة تغادر دائمًا في الوقت المحدد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_dependent",
+      "en": "dependent",
+      "ar": "معتمد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our economy is dependent on oil exports.",
+          "ar": "اقتصادنا معتمد على صادرات النفط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_deposit",
+      "en": "deposit",
+      "ar": "إيداع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He made a large deposit into her account.",
+          "ar": "قام بعمل إيداع المبلغ كبير في حسابها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_depressed",
+      "en": "depressed",
+      "ar": "مكتئبة",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She has been depressed since her husband left her.",
+          "ar": "إنها مكتئبة منذ أن تركها زوجها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈpɹɛst/"
+    },
+    {
+      "id": "w_b2_depressing",
+      "en": "depressing",
+      "ar": "كئيبة",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was a depressing experience.",
+          "ar": "كانت تجربة كئيبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈpɹɛsɪŋ(ɡ)/"
+    },
+    {
+      "id": "w_b2_depression",
+      "en": "depression",
+      "ar": "الاكتئاب",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "One of my family members suffers from depression.",
+          "ar": "أحد أفراد عائلتي يعاني من الاكتئاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈpɹɛʃən/"
+    },
+    {
+      "id": "w_b2_depth",
+      "en": "depth",
+      "ar": "عمق",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "What's the depth of this lake ?",
+          "ar": "ما هو عمق هذه البحيرة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɛpθ/"
+    },
+    {
+      "id": "w_b2_derived",
+      "en": "derived",
+      "ar": "مشتقة",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Some Turkish words are derived from Arabic.",
+          "ar": "بعض الكلمات التركية مشتقة من اللغة العربية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈɹaɪvd/"
+    },
+    {
+      "id": "w_b2_deserted",
+      "en": "deserted",
+      "ar": "هجره",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This neighborhood has been deserted.",
+          "ar": "هذا الحي قد تم هجره."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈzɜːtəd/"
+    },
+    {
+      "id": "w_b2_deserves",
+      "en": "deserves",
+      "ar": "يستحق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The boy deserves an award for his achievement.",
+          "ar": "الفتى يستحق جائزة لإنجازه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_desire",
+      "en": "desire",
+      "ar": "رغبة / يرغب",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I have no desire to do anything.",
+          "ar": "ليس لدي أي رغبة لفعل أي شيء."
+        },
+        {
+          "en": "The people desire to end the war.",
+          "ar": "الشعب يرغب في إنهاء الحرب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈzaɪə/"
+    },
+    {
+      "id": "w_b2_desperate",
+      "en": "desperate",
+      "ar": "يائس",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Why are you desperate ? Everything will be fine.",
+          "ar": "لماذا أنت يائس، كل شيء سيكون على ما يرام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɛsp(ə)ɹət/"
+    }
+  ]
+}

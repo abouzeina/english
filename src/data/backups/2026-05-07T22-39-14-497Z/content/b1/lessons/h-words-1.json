@@ -1,0 +1,519 @@
+{
+  "id": "lsn_b1_h_1",
+  "levelId": "lvl_b1",
+  "slug": "h-words-1",
+  "title": "Unit 17: H Words - Part 1",
+  "titleAr": "الوحدة 17: كلمات حرف H - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with H.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف H.",
+  "order": 17,
+  "wordCount": 23,
+  "words": [
+    {
+      "id": "w_b1_guilty",
+      "en": "guilty",
+      "ar": "مذنب",
+      "pronunciation": "/ gzl-ti/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I realized that I am guilty.",
+          "ar": "أدركت أنني مذنب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_handed",
+      "en": "handed",
+      "ar": "سلمت",
+      "pronunciation": "/hænd/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I handed the report to the boss.",
+          "ar": "سلمت التقرير إلى المدير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_hang",
+      "en": "hang",
+      "ar": "علق",
+      "pronunciation": "/hen/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Hang your coat inside the cupboard.",
+          "ar": "علق معطفك داخل الخزانة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_happiness",
+      "en": "happiness",
+      "ar": "سعادة",
+      "pronunciation": "/'hæp-i nəs/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You will find happiness with your everyday activities.",
+          "ar": "ستجد السعادة في أنشطتك اليومية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_hardly",
+      "en": "hardly",
+      "ar": "بالكاد",
+      "pronunciation": "/'hard-li/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can hardly focus when you are talking.",
+          "ar": "بالكاد أستطيع التركيز عندما تتحدث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_hate",
+      "en": "hate",
+      "ar": "كراهية",
+      "pronunciation": "/hext/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The hate was clear in his eyes.",
+          "ar": "كانت الكراهية واضحة في عينيه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_heading",
+      "en": "heading",
+      "ar": "يتجه",
+      "pronunciation": "/'hed-in/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Where are we heading?",
+          "ar": "إلى أين نتجه ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_headlines",
+      "en": "headlines",
+      "ar": "عناوين رئيسية",
+      "pronunciation": "/'hed laın/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Three crimes in today's headlines.",
+          "ar": "ثلاث جرائم في عناوين اليوم الرئيسية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_heating",
+      "en": "heating",
+      "ar": "تدفئة",
+      "pronunciation": "/'hi-tin/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am an expert in heating systems.",
+          "ar": "أنا خبير في أنظمة التدفئة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_heavily",
+      "en": "heavily",
+      "ar": "بشراسة / بكثافة",
+      "pronunciation": "/'hev li/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The enemy attacked heavily.",
+          "ar": "هاجم العدو بشراسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_helicopter",
+      "en": "helicopter",
+      "ar": "مروحية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This helicopter costs millions.",
+          "ar": "هذه المروحية تكلف الملايين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_highlighted",
+      "en": "highlighted",
+      "ar": "أبرز / سلط الضوء",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The conference highlighted the importance of architecture.",
+          "ar": "أبرز المؤتمر أهمية الهندسة المعمارية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_highlights",
+      "en": "highlights",
+      "ar": "أبرز (الأشياء)",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These songs are the album's highlights.",
+          "ar": "هذه هي أبرز الأغاني في الألبوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_highly",
+      "en": "highly",
+      "ar": "للغاية",
+      "pronunciation": "/'har-li/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The car market is highly competitive.",
+          "ar": "سوق السيارات هو سوق تنافسي للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_hire",
+      "en": "hire",
+      "ar": "يوظف / يستأجر",
+      "pronunciation": "/hair/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need to hire an assistant.",
+          "ar": "نحن بحاجة لأن نوظف مساعدًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_historic",
+      "en": "historic",
+      "ar": "تاريخي / هام",
+      "pronunciation": "/hr'stor-1k/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I visited some historic sites in the city.",
+          "ar": "زرت بعض المواقع التاريخية في المدينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_historical",
+      "en": "historical",
+      "ar": "تاريخي (للبحث)",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm currently doing historical research.",
+          "ar": "أقوم حاليا بإجراء بحث تاريخي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_honest",
+      "en": "honest",
+      "ar": "صادق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I was honest when I wrote that comment.",
+          "ar": "كنت صادقًا عندما كتبت ذلك التعليق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_horrible",
+      "en": "horrible",
+      "ar": "مروعة",
+      "pronunciation": "/'hor ə bəl/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was a horrible experience.",
+          "ar": "لقد كانت تجربة مروعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_horror",
+      "en": "horror",
+      "ar": "رعب",
+      "pronunciation": "/'hər-ər/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He expressed his horror.",
+          "ar": "أعرب عن رعبه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_host",
+      "en": "host",
+      "ar": "مضيف",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The host was among the crowd.",
+          "ar": "كان المضيف بين الجمهور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_hunt",
+      "en": "hunt",
+      "ar": "يصطاد",
+      "pronunciation": "/hant/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We will hunt wild animals in the camp.",
+          "ar": "سنصطاد الحيوانات البرية في المعسكر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_hurricane",
+      "en": "hurricane",
+      "ar": "إعصار",
+      "pronunciation": "/ hzrə keın/",
+      "lessonId": "lsn_b1_h_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A hurricane hit the area.",
+          "ar": "ضرب إعصار المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

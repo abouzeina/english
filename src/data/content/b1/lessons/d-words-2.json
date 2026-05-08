@@ -1,26 +1,92 @@
 {
   "id": "lsn_b1_d_2",
   "levelId": "lvl_b1",
+  "title": "Unit 10: D Words - Part 2",
   "slug": "d-words-2",
-  "title": "Unit 11: D Words - Part 2",
-  "titleAr": "الوحدة 11: كلمات حرف D - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with D.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف D.",
-  "order": 11,
-  "wordCount": 15,
+  "order": 10,
+  "wordCount": 17,
+  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف D.",
   "words": [
     {
-      "id": "w_b1_disappointed",
-      "en": "disappointed",
-      "ar": "محبط",
-      "pronunciation": "/ dıs.ə'pɔın.ţid/",
+      "id": "w_b1_directing",
+      "en": "directing",
+      "ar": "يوجه",
+      "pronunciation": "/dı'rekt/",
       "lessonId": "lsn_b1_d_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
       "examples": [
         {
-          "en": "Sami looks very disappointed.",
-          "ar": "يبدو سامي محبطاً جدًا."
+          "en": "The police officer is directing traffic.",
+          "ar": "ضابط الشرطة يوجه حركة المرور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_directly",
+      "en": "directly",
+      "ar": "مباشرة",
+      "pronunciation": "/direkt.li/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The road leads directly to the beach.",
+          "ar": "الطريق يؤدي مباشرة إلى الشاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_dirt",
+      "en": "dirt",
+      "ar": "أوساخ",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Soap helps remove the dirt.",
+          "ar": "الصابون يساعد على إزالة الأوساخ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/dɜːt/"
+    },
+    {
+      "id": "w_b1_disadvantages",
+      "en": "disadvantages",
+      "ar": "عيوب",
+      "pronunciation": "/dis.əd væn.txd3/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "City life has advantages and disadvantages.",
+          "ar": "حياة المدينة لها مزايا وعيوب."
         }
       ],
       "type": "word",
@@ -54,32 +120,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_discount",
-      "en": "discount",
-      "ar": "خصم",
-      "pronunciation": "/'dıs.kaunt/",
-      "lessonId": "lsn_b1_d_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I bought the car at a 10% discount.",
-          "ar": "اشتريت السيارة بخصم 10% ."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_dislike",
       "en": "dislike",
       "ar": "لا تعجبني / عدم إعجاب",
-      "pronunciation": "",
       "lessonId": "lsn_b1_d_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -99,7 +142,30 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɪsˈlaɪk/"
+    },
+    {
+      "id": "w_b2_divide",
+      "en": "divide",
+      "ar": "فجوة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "examples": [
+        {
+          "en": "There is a great divide between the rich and the poor.",
+          "ar": "هناك فجوة كبيرة بين الأغنياء والفقراء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
     },
     {
       "id": "w_b1_divided",
@@ -168,28 +234,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_double",
-      "en": "double",
-      "ar": "ضعف",
-      "pronunciation": "/'dab.el/",
-      "lessonId": "lsn_b1_d_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I'll pay double.",
-          "ar": "سأدفع ضعف."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_doubt",
       "en": "doubt",
       "ar": "شك / يشك",
@@ -227,28 +271,6 @@
         {
           "en": "I can't open the door, I'm not dressed yet.",
           "ar": "لا أستطيع فتح الباب، أنا لم أرتدي ملابسي بعد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_drop",
-      "en": "drop",
-      "ar": "قطرة",
-      "pronunciation": "/dra:p/",
-      "lessonId": "lsn_b1_d_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I felt a drop of rain on my head.",
-          "ar": "شعرت بقطرة مطر على رأسي."
         }
       ],
       "type": "word",
@@ -337,6 +359,28 @@
         {
           "en": "All the furniture was covered with dust.",
           "ar": "كل الأثاث كان مغطى بالغبار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_duty",
+      "en": "duty",
+      "ar": "واجب",
+      "pronunciation": "/'du-ţi/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm doing my duty.",
+          "ar": "أقوم بواجبي."
         }
       ],
       "type": "word",

@@ -1,36 +1,14 @@
 {
   "id": "lsn_a2_f_1",
-  "levelId": "lvl_2",
-  "slug": "f-words-1",
+  "levelId": "lvl_a2",
   "title": "Unit 14: F Words - Part 1",
-  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter F.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف F.",
+  "slug": "f-words-1",
   "order": 14,
-  "wordCount": 25,
+  "wordCount": 19,
+  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف F.",
   "words": [
-    {
-      "id": "w_a2_extremely",
-      "en": "extremely",
-      "ar": "للغاية / جدا",
-      "pronunciation": "/Ik strim li/",
-      "lessonId": "lsn_a2_f_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This question is extremely difficult.",
-          "ar": "هذا السؤال صعب للغاية : للغاية | جداً | إلى أبعد حد :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_factor",
       "en": "factor",
@@ -120,28 +98,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_fall",
-      "en": "fall",
-      "ar": "خريف",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_f_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The weather last fall was beautiful.",
-          "ar": "كان الطقس جميلاً في الخريف الماضي ."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_fan",
       "en": "fan",
       "ar": "معجب",
@@ -153,28 +109,6 @@
         {
           "en": "I'm a big fan of his books.",
           "ar": "أنا معجب كبير بكتبه :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_farm",
-      "en": "farm",
-      "ar": "يزرع",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_f_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They farm rice.",
-          "ar": "يزرعون الأرز."
         }
       ],
       "type": "word",
@@ -211,7 +145,6 @@
       "id": "w_a2_fashion",
       "en": "fashion",
       "ar": "موضة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -227,29 +160,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_fat",
-      "en": "fat",
-      "ar": "دهن",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_f_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This meat has too much fat on it.",
-          "ar": "هذا اللحم فيه الكثير من الدهن :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfæʃən/"
     },
     {
       "id": "w_a2_fear",
@@ -263,13 +175,18 @@
         {
           "en": "He lives in fear.",
           "ar": "يعيش في خوف :"
+        },
+        {
+          "en": "My daughter doesn't fear the dentist.",
+          "ar": "ابنتي لا تخاف من طبيب الأسنان."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -299,7 +216,6 @@
       "id": "w_a2_feed",
       "en": "feed",
       "ar": "تطعم",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -315,13 +231,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfiːd/"
     },
     {
       "id": "w_a2_female",
       "en": "female",
       "ar": "أنثى",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -337,7 +253,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfiː.meɪl/"
     },
     {
       "id": "w_a2_fiction",
@@ -432,54 +349,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_film",
-      "en": "film",
-      "ar": "فيلم / يصور",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_f_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They are filming in Alexandria right now",
-          "ar": "إنهم يصورون في الإسكندرية حاليا :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_final",
-      "en": "final",
-      "ar": "نهائية",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_f_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "My answer is final.",
-          "ar": "إجابتي نهائية :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_finally",
       "en": "finally",
       "ar": "أخيرا",
-      "pronunciation": "",
       "lessonId": "lsn_a2_f_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -495,7 +367,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfaɪ.nəl.i/"
     },
     {
       "id": "w_a2_finger",
@@ -520,17 +393,17 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_finish",
-      "en": "finish",
-      "ar": "نهاية",
-      "pronunciation": "",
+      "id": "w_a2_firstly",
+      "en": "firstly",
+      "ar": "أولا",
+      "pronunciation": "/farst-li/",
       "lessonId": "lsn_a2_f_1",
       "levelId": "lvl_2",
       "categoryId": "general",
       "examples": [
         {
-          "en": "I enjoyed the movie from start to finish",
-          "ar": "استمتعت بالفيلم من البداية إلى النهاية :"
+          "en": "Firstly you have to tell your parents.",
+          "ar": "أولاً : عليك أن تخبر والديك | بدايةً / أولاً | :"
         }
       ],
       "type": "word",
@@ -542,26 +415,35 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_first",
-      "en": "first",
-      "ar": "أول",
-      "pronunciation": "",
+      "id": "w_a2_fish",
+      "en": "fish",
+      "ar": "يصطاد",
       "lessonId": "lsn_a2_f_1",
       "levelId": "lvl_2",
       "categoryId": "general",
       "examples": [
         {
-          "en": "I was the first to arrive.",
-          "ar": "كنت أول من وصل."
+          "en": "I am going to fish in the river.",
+          "ar": "انا ذاهب لأصطاد السمك في النهر."
+        },
+        {
+          "en": "Fishing is my favorite hobby",
+          "ar": "صيد السمك هوايتي المفضلة :"
+        },
+        {
+          "en": "The fish swam near our boat.",
+          "ar": "سبحت الأسماك بالقرب من قاربنا."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "A1"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/fɪʃ/"
     }
   ]
 }

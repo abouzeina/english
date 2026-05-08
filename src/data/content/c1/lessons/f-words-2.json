@@ -1,0 +1,409 @@
+{
+  "id": "lsn_c1_f_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 13: F Words - Part 2",
+  "slug": "f-words-2",
+  "order": 13,
+  "wordCount": 18,
+  "titleAr": "الوحدة 13: كلمات حرف F - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف F.",
+  "words": [
+    {
+      "id": "w_c1_flee",
+      "en": "flee",
+      "ar": "يهرب / يفر",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أُجبر آلاف الأشخاص على الفرار من منطقة الحرب",
+          "ar": "The suspect managed to flee before the police arrived."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fliː/"
+    },
+    {
+      "id": "w_c1_fleet",
+      "en": "fleet",
+      "ar": "أسطول",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تملك الشركة أسطولاً كبيراً من شاحنات التوصيل",
+          "ar": "The naval fleet was sent to protect the international waters."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fliːt/"
+    },
+    {
+      "id": "w_c1_flesh",
+      "en": "flesh",
+      "ar": "لحم / جسد",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكنت مخالب النمر من تمزيق لحم الحيوان",
+          "ar": "She wanted to see her favorite singer in the flesh."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/flɛʃ/"
+    },
+    {
+      "id": "w_c1_flexibility",
+      "en": "flexibility",
+      "ar": "مرونة",
+      "pronunciation": "ˌfleksəˈbɪləti",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توفر الوظيفة الكثير من المرونة في ساعات العمل",
+          "ar": "Yoga helps to improve the flexibility of the body."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_flourish",
+      "en": "flourish",
+      "ar": "يزدهر / ينمو",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأ العمل في الازدهار بعد حملة التسويق الجديدة",
+          "ar": "Plants need sunlight and water to flourish properly."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈflʌ.ɹɪʃ/"
+    },
+    {
+      "id": "w_c1_fluid",
+      "en": "fluid",
+      "ar": "سائل / مرن",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحتاج المريض لشرب الكثير من السوائل للتعافي",
+          "ar": "The situation remains fluid and could change at any moment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfluːɪd/"
+    },
+    {
+      "id": "w_c1_footage",
+      "en": "footage",
+      "ar": "لقطات فيديو",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تراجع الشرطة لقطات كاميرات المراقبة الخاصة بالسرقة",
+          "ar": "The news showed exclusive footage from the disaster area."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfʊtɪd͡ʒ/"
+    },
+    {
+      "id": "w_c1_forge",
+      "en": "forge",
+      "ar": "يزيف / يصيغ",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تزوير توقيع على وثيقة قانونية يعتبر جريمة",
+          "ar": "The two countries managed to forge a strong alliance."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɔːd͡ʒ/"
+    },
+    {
+      "id": "w_c1_formula",
+      "en": "formula",
+      "ar": "صيغة / تركيبة",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اكتشف العالم صيغة جديدة للتفاعل الكيميائي",
+          "ar": "There is no magic formula for achieving success in life."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔː.mjʊ.lə/"
+    },
+    {
+      "id": "w_c1_formulate",
+      "en": "formulate",
+      "ar": "يصيغ / يضع",
+      "pronunciation": "ˈfɔːmjuleɪt",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحتاج لصياغة سياسة واضحة بخصوص العمل عن بعد",
+          "ar": "It is difficult to formulate a response to such a complex question."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_forth",
+      "en": "forth",
+      "ar": "إلى الأمام / للخارج",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأت النباتات في إخراج براعم جديدة في الربيع",
+          "ar": "He went back and forth between the two options for hours."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɔːθ/"
+    },
+    {
+      "id": "w_c1_forthcoming",
+      "en": "forthcoming",
+      "ar": "قادم / صريح",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيتم الإعلان عن تفاصيل المؤتمر القادم قريباً",
+          "ar": "The witness was not very forthcoming with information."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɔːθˈkʌmɪŋ/"
+    },
+    {
+      "id": "w_c1_fragile",
+      "en": "fragile",
+      "ar": "هش / رقيق",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يرجى التعامل مع الصندوق بعناية لأنه يحتوي على قطع هشة",
+          "ar": "The political situation in the region remains very fragile."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɹædʒaɪl/"
+    },
+    {
+      "id": "w_c1_franchise",
+      "en": "franchise",
+      "ar": "امتياز تجاري",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قرر فتح فرع (امتياز) جديد للمطعم الشهير",
+          "ar": "The movie franchise has earned billions of dollars worldwide."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɹænt͡ʃaɪ̯z/"
+    },
+    {
+      "id": "w_c1_frankly",
+      "en": "frankly",
+      "ar": "بصراحة",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بصراحة، لست متفاجئاً بنتائج الدراسة",
+          "ar": "She spoke frankly about the challenges she faced in her career."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɹæŋkli/"
+    },
+    {
+      "id": "w_c1_functional",
+      "en": "functional",
+      "ar": "وظيفي / عملي",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "التصميم الجديد جميل وعملي (وظيفي) للغاية في نفس الوقت",
+          "ar": "We need to ensure that the system remains fully functional."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfʌŋk(t)ʃnəl/"
+    },
+    {
+      "id": "w_c1_fundraising",
+      "en": "fundraising",
+      "ar": "جمع التبرعات",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نظمت المدرسة حدثاً لجمع التبرعات للمكتبة الجديدة",
+          "ar": "Fundraising is essential for the survival of many charities."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfʌndˌɹeɪzɪŋ/"
+    },
+    {
+      "id": "w_c1_funeral",
+      "en": "funeral",
+      "ar": "جنازة",
+      "lessonId": "lsn_c1_f_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حضر مئات الأشخاص جنازة البطل القومي",
+          "ar": "The atmosphere at the funeral was very solemn and quiet."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfjuːnəɹəl/"
+    }
+  ]
+}

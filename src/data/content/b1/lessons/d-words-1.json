@@ -1,63 +1,18 @@
 {
   "id": "lsn_b1_d_1",
   "levelId": "lvl_b1",
+  "title": "Unit 9: D Words - Part 1",
   "slug": "d-words-1",
-  "title": "Unit 10: D Words - Part 1",
-  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 1",
-  "description": "Expand your intermediate vocabulary with words starting with D.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف D.",
-  "order": 10,
-  "wordCount": 25,
+  "order": 9,
+  "wordCount": 17,
+  "titleAr": "الوحدة 9: كلمات حرف D - الجزء 1",
+  "description": "Master essential B1 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف D.",
   "words": [
-    {
-      "id": "w_b1_cut",
-      "en": "cut",
-      "ar": "جرح",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_d_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He has a small cut on his foot.",
-          "ar": "لديه جرح صغير في قدمه."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_daily",
-      "en": "daily",
-      "ar": "يومياً / بشكل يومي",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_d_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I speak English daily.",
-          "ar": "أتحدث الإنجليزية يومياً."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_damage",
       "en": "damage",
       "ar": "خسائر / أضرار",
-      "pronunciation": "",
       "lessonId": "lsn_b1_d_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -73,7 +28,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈdæmɪdʒ/"
     },
     {
       "id": "w_b1_damaged",
@@ -164,32 +120,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_deep",
-      "en": "deep",
-      "ar": "أعماق / عميق",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_d_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He used to live deep in the forest.",
-          "ar": "اعتاد أن يعيش في أعماق الغابة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_define",
       "en": "define",
       "ar": "يعرف / يحدد معنى",
-      "pronunciation": "",
       "lessonId": "lsn_b1_d_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -205,7 +138,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɪˈfaɪn/"
     },
     {
       "id": "w_b1_definite",
@@ -233,7 +167,6 @@
       "id": "w_b1_definition",
       "en": "definition",
       "ar": "تعريف",
-      "pronunciation": "",
       "lessonId": "lsn_b1_d_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -249,13 +182,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˌdɛfɪˈnɪʃ(ə)n/"
     },
     {
       "id": "w_b1_deliver",
       "en": "deliver",
       "ar": "يوصل / يسلم",
-      "pronunciation": "",
       "lessonId": "lsn_b1_d_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -271,7 +204,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɪˈlɪvə(ɹ)/"
     },
     {
       "id": "w_b1_departure",
@@ -391,7 +325,6 @@
       "id": "w_b1_development",
       "en": "development",
       "ar": "تطوير",
-      "pronunciation": "",
       "lessonId": "lsn_b1_d_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -407,7 +340,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/dɪˈvɛləpmənt/"
     },
     {
       "id": "w_b1_diagram",
@@ -443,116 +377,6 @@
         {
           "en": "He gave his wife a diamond ring.",
           "ar": "أعطى زوجته خاتم الماس."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_directing",
-      "en": "directing",
-      "ar": "يوجه",
-      "pronunciation": "/dı'rekt/",
-      "lessonId": "lsn_b1_d_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The police officer is directing traffic.",
-          "ar": "ضابط الشرطة يوجه حركة المرور."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_direct",
-      "en": "direct",
-      "ar": "مباشر / مباشرة",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_d_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "You can now fly direct from Cairo to Sydney.",
-          "ar": "يمكنك الآن الطيران مباشرة من القاهرة إلى سيدني."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_directly",
-      "en": "directly",
-      "ar": "مباشرة",
-      "pronunciation": "/direkt.li/",
-      "lessonId": "lsn_b1_d_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The road leads directly to the beach.",
-          "ar": "الطريق يؤدي مباشرة إلى الشاطئ."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_dirt",
-      "en": "dirt",
-      "ar": "أوساخ",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_d_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Soap helps remove the dirt.",
-          "ar": "الصابون يساعد على إزالة الأوساخ."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_disadvantages",
-      "en": "disadvantages",
-      "ar": "عيوب",
-      "pronunciation": "/dis.əd væn.txd3/",
-      "lessonId": "lsn_b1_d_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "City life has advantages and disadvantages.",
-          "ar": "حياة المدينة لها مزايا وعيوب."
         }
       ],
       "type": "word",

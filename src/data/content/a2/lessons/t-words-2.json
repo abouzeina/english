@@ -1,14 +1,41 @@
 {
   "id": "lsn_a2_t_2",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 40: T Words - Part 2",
   "slug": "t-words-2",
-  "title": "Unit 41: T Words - Part 2",
-  "titleAr": "الوحدة 41: كلمات حرف T - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter T.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف T.",
-  "order": 41,
-  "wordCount": 17,
+  "order": 40,
+  "wordCount": 18,
+  "titleAr": "الوحدة 40: كلمات حرف T - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف T.",
   "words": [
+    {
+      "id": "w_a2_touch",
+      "en": "touch",
+      "ar": "يلمس",
+      "pronunciation": "/txt/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't touch anything here",
+          "ar": "لا تلمس أي شيء هنا :"
+        },
+        {
+          "en": "This soup needs a touch of pepper.",
+          "ar": "هذا الحساء يحتاج إلى لمسة من الفلفل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B1"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_tour",
       "en": "tour",
@@ -208,28 +235,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_train",
-      "en": "train",
-      "ar": "تدرب",
-      "pronunciation": "/trein/",
-      "lessonId": "lsn_a2_t_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The team trained hard.",
-          "ar": "الفريق تدرب بجد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_trainer",
       "en": "trainer",
       "ar": "مدرب",
@@ -255,7 +260,6 @@
       "id": "w_a2_training",
       "en": "training",
       "ar": "تدريب",
-      "pronunciation": "",
       "lessonId": "lsn_a2_t_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -271,7 +275,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈtɹeɪnɪŋ/"
     },
     {
       "id": "w_a2_transport",
@@ -299,7 +304,6 @@
       "id": "w_a2_traveler",
       "en": "traveler",
       "ar": "مسافر / مسافرون",
-      "pronunciation": "",
       "lessonId": "lsn_a2_t_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -315,7 +319,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈtɹæv.l̩.ɚ/"
     },
     {
       "id": "w_a2_trouble",
@@ -373,6 +378,28 @@
         {
           "en": "She gave birth to twin girls.",
           "ar": "أنجبت فتاتين توأمين :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_typical",
+      "en": "typical",
+      "ar": "نموذجي",
+      "pronunciation": "/tip   kəl/",
+      "lessonId": "lsn_a2_t_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was a typical Friday morning",
+          "ar": "كان صباح يوم جمعة نموذجي :"
         }
       ],
       "type": "word",

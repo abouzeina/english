@@ -1,0 +1,526 @@
+{
+  "id": "lsn_b2_r_1",
+  "levelId": "lvl_b2",
+  "title": "Unit 44: R Words - Part 1",
+  "slug": "r-words-1",
+  "order": 44,
+  "wordCount": 22,
+  "titleAr": "الوحدة 44: كلمات حرف R - الجزء 1",
+  "description": "Master essential B2 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف R.",
+  "words": [
+    {
+      "id": "w_b2_recognition",
+      "en": "recognition",
+      "ar": "التعرف على",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our software includes speech recognition technology.",
+          "ar": "يتضمن برنامجنا تقنية التعرف على الكلام."
+        },
+        {
+          "en": "حصل على جائزة تقديراً لعمله الشاق",
+          "ar": "The company has gained international recognition."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɹɛkəɡˈnɪʃən/"
+    },
+    {
+      "id": "w_b2_recover",
+      "en": "recover",
+      "ar": "تستعيد / التعافي",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Recovery from the injury will take several months.",
+          "ar": "سيستغرق التعافي من الإصابة عدة أشهر."
+        },
+        {
+          "en": "She hopes to recover her strength after illness.",
+          "ar": "إنها تأمل أن تستعيد قوتها بعد المرض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈkʌvə/"
+    },
+    {
+      "id": "w_b2_recruit",
+      "en": "recruit",
+      "ar": "تعيين / مجند",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company plans to recruit more employees next month.",
+          "ar": "تخطط الشركة لتعيين المزيد من الموظفين الشهر المقبل."
+        },
+        {
+          "en": "The manager assigned tasks to each new recruit today.",
+          "ar": "قام المدير بتعيين مهام لكل مجند جديد اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈkɹuːt/"
+    },
+    {
+      "id": "w_b2_recruitment",
+      "en": "recruitment",
+      "ar": "التوظيف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He manages the recruitment department in the company.",
+          "ar": "إنه يدير قسم التوظيف في الشركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_reduction",
+      "en": "reduction",
+      "ar": "تخفيض",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The government promised a reduction in taxes next year.",
+          "ar": "وعدت الحكومة بتخفيض الضرائب في العام المقبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹiˈdɑk.ʃən/"
+    },
+    {
+      "id": "w_b2_referee",
+      "en": "referee",
+      "ar": "الحكم",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The referee handed out several yellow cards today.",
+          "ar": "أشهر الحكم العديد من البطاقات الصفراء اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɹɛf.əˈɹiː/"
+    },
+    {
+      "id": "w_b2_refugees",
+      "en": "refugees",
+      "ar": "اللاجئون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The refugees received food and medical aid from volunteers.",
+          "ar": "تلقى اللاجئون مساعدات غذائية وطبية من المتطوعين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_regard",
+      "en": "regard",
+      "ar": "أعتبر / تقديراً",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I always regard my family as a source of support.",
+          "ar": "أنا دائما أعتبر عائلتي مصدر دعم لي."
+        },
+        {
+          "en": "They hold a high regard for his intelligence.",
+          "ar": "إنهم يكنون تقديراً كبيراً لذكائه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈɡɑːd/"
+    },
+    {
+      "id": "w_b2_regional",
+      "en": "regional",
+      "ar": "الإقليمية",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They discussed regional policies at the meeting today.",
+          "ar": "ناقشوا السياسات الإقليمية في الاجتماع اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹiːdʒnəl/"
+    },
+    {
+      "id": "w_b2_register",
+      "en": "register",
+      "ar": "السجل / سجل",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was added to the official register yesterday.",
+          "ar": "تمت إضافته إلى السجل الرسمي بالأمس."
+        },
+        {
+          "en": "Please register your name at the front desk.",
+          "ar": "من فضلك سجل اسمك في مكتب الاستقبال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛdʒ.ɪs.tə/"
+    },
+    {
+      "id": "w_b2_registration",
+      "en": "registration",
+      "ar": "التسجيل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Registration is required before attending the conference.",
+          "ar": "التسجيل مطلوب قبل حضور المؤتمر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_regret",
+      "en": "regret",
+      "ar": "يندم / ندم",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He will regret not taking this job opportunity.",
+          "ar": "سوف يندم على عدم اغتنام فرصة العمل هذه."
+        },
+        {
+          "en": "The team has no regret about the decision made.",
+          "ar": "لا يشعر الفريق بأي ندم على القرار الذي تم اتخاذه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹiˈɡɹɛt/"
+    },
+    {
+      "id": "w_b2_regulated",
+      "en": "regulated",
+      "ar": "نظمت",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Authorities regulated the price of fuel in the region.",
+          "ar": "نظمت السلطات سعر الوقود في المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛɡjəleɪtɪd/"
+    },
+    {
+      "id": "w_b2_regulation",
+      "en": "regulation",
+      "ar": "اللائحة",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The regulation requires all employees to wear uniforms.",
+          "ar": "تلزم اللائحة جميع الموظفين بارتداء الزي الرسمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɹɛɡjʊˈleɪʃən/"
+    },
+    {
+      "id": "w_b2_reinforce",
+      "en": "reinforce",
+      "ar": "سيعزز",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The new evidence will reinforce the original conclusion.",
+          "ar": "الدليل الجديد سيعزز الاستنتاج الأصلي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɹiːɪnˈfɔː(ɹ)s/"
+    },
+    {
+      "id": "w_b2_relatively",
+      "en": "relatively",
+      "ar": "نسبياً",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The task is relatively simple once you understand it.",
+          "ar": "تصبح المهمة بسيطة نسبياً بمجرد فهمك لها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[ˈɹɛl.ə.tʰɪv.li]/"
+    },
+    {
+      "id": "w_b2_relevant",
+      "en": "relevant",
+      "ar": "ذات الصلة",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Only relevant questions should be asked during interviews.",
+          "ar": "يجب فقط طرح الأسئلة ذات الصلة أثناء المقابلات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛləvənt/"
+    },
+    {
+      "id": "w_b2_relief",
+      "en": "relief",
+      "ar": "ارتياح",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Passing the final exam was a great relief.",
+          "ar": "كان اجتياز الامتحان النهائي مصدر ارتياح كبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈliːf/"
+    },
+    {
+      "id": "w_b2_relies",
+      "en": "relies",
+      "ar": "تعتمد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She often relies on her parents for financial help.",
+          "ar": "وغالباً ما تعتمد على والديها للحصول على المساعدة المالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_relieve",
+      "en": "relieve",
+      "ar": "سيخفف",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This medication will relieve the pain immediately.",
+          "ar": "سيخفف هذا الدواء الألم على الفور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈliːv/"
+    },
+    {
+      "id": "w_b2_relieved",
+      "en": "relieved",
+      "ar": "بالارتياح",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I'm relieved that my package arrived on time.",
+          "ar": "أشعر بالارتياح لوصول الطرد الخاص بي في الوقت المحدد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈliːvd/"
+    },
+    {
+      "id": "w_b2_remark",
+      "en": "remark",
+      "ar": "تعليق / أشاد",
+      "lessonId": "lsn_b2_r_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The guest remarked about the excellent service at dinner.",
+          "ar": "أشاد الضيف بالخدمة الممتازة على العشاء."
+        },
+        {
+          "en": "The teacher's remark about my essay was encouraging.",
+          "ar": "كان تعليق المعلم على مقالتي مشجعاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈmɑːk/"
+    }
+  ]
+}

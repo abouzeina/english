@@ -1,0 +1,35 @@
+{
+  "id": "lsn_b2_y_1",
+  "levelId": "lvl_b2",
+  "slug": "y-words-1",
+  "title": "Y Words - Part 1",
+  "titleAr": "كلمات حرف Y - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter Y.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف Y.",
+  "order": 62,
+  "wordCount": 1,
+  "words": [
+    {
+      "id": "w_b2_yet",
+      "en": "yet",
+      "ar": "ومع ذلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_y_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She studied hard, yet she failed the test.",
+          "ar": "لقد درست بجد، ومع ذلك رسبت في الاختبار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

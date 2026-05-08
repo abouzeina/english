@@ -1,0 +1,101 @@
+{
+  "id": "lsn_b1_p_4",
+  "levelId": "lvl_b1",
+  "slug": "p-words-4",
+  "title": "Unit 30: P Words - Part 4",
+  "titleAr": "الوحدة 30: كلمات حرف P - الجزء 4",
+  "description": "Expand your intermediate vocabulary with words starting with P.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف P.",
+  "order": 30,
+  "wordCount": 4,
+  "words": [
+    {
+      "id": "w_b1_prove",
+      "en": "prove",
+      "ar": "يثبت",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can you prove that your method is the best?",
+          "ar": "هل يمكنك أن تثبت أن طريقتك هي الأفضل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pull",
+      "en": "pull",
+      "ar": "شدة / سحب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I gave the door a strong pull.",
+          "ar": "أعطيت الباب شدة قوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_punished",
+      "en": "punished",
+      "ar": "عاقبوا",
+      "pronunciation": "/pʌn.1/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They punished the child by forcing him to taste a lemon.",
+          "ar": "عاقبوا الطفل بإجباره على تذوق الليمون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_punishment",
+      "en": "punishment",
+      "ar": "عقوبة",
+      "pronunciation": "/pan.[/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the punishment for this crime?",
+          "ar": "ما هي عقوبة هذه الجريمة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

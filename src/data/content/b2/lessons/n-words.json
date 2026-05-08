@@ -1,0 +1,501 @@
+{
+  "id": "lsn_b2_n",
+  "levelId": "lvl_b2",
+  "title": "Unit 35: N Words",
+  "slug": "n-words",
+  "order": 35,
+  "wordCount": 22,
+  "titleAr": "الوحدة 35: كلمات حرف N",
+  "description": "Master essential B2 vocabulary starting with the letter N.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف N.",
+  "words": [
+    {
+      "id": "w_b2_naked",
+      "en": "naked",
+      "ar": "عارية",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The truth stood naked in front of them.",
+          "ar": "وقفت الحقيقة عارية أمامهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnɛkɪd/"
+    },
+    {
+      "id": "w_b2_nasty",
+      "en": "nasty",
+      "ar": "بغيضة",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They exchanged nasty looks across the table.",
+          "ar": "تبادلا نظرات بغيضة على الطاولة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnaː.sti/"
+    },
+    {
+      "id": "w_b2_nationals",
+      "en": "nationals",
+      "ar": "المواطنين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The law protects the rights of all nationals.",
+          "ar": "يحمي القانون حقوق جميع المواطنين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_navigation",
+      "en": "navigation",
+      "ar": "الملاحة",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The ship's navigation system failed during the storm.",
+          "ar": "تعطل نظام الملاحة بالسفينة أثناء العاصفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/nævɪˈɡeɪʃən/"
+    },
+    {
+      "id": "w_b2_nearby",
+      "en": "nearby",
+      "ar": "بحيرة قريبة / في الجوار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He discovered a nearby lake for fishing trips.",
+          "ar": "هو اكتشف بحيرة قريبة لرحلات الصيد."
+        },
+        {
+          "en": "The airport is nearby, only ten minutes away.",
+          "ar": "يقع المطار في الجوار، على بعد عشر دقائق فقط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_neat",
+      "en": "neat",
+      "ar": "أنيقة",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He has a neat collection of stamps.",
+          "ar": "لديه مجموعة أنيقة من الطوابع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/niːt/"
+    },
+    {
+      "id": "w_b2_necessity",
+      "en": "necessity",
+      "ar": "ضروري",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Safety is a necessity in every work environment.",
+          "ar": "السلامة أمر ضروري في كل بيئة عمل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/nɪˈsɛsəti/"
+    },
+    {
+      "id": "w_b2_negotiate",
+      "en": "negotiate",
+      "ar": "التفاوض",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They are working to negotiate a peace agreement.",
+          "ar": "هم يعملون على التفاوض على اتفاق سلام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/nəˈɡəʊ.ʃi.eɪt/"
+    },
+    {
+      "id": "w_b2_negotiation",
+      "en": "negotiation",
+      "ar": "المفاوضات",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The trade negotiation helped boost the local economy.",
+          "ar": "ساعدت المفاوضات التجارية في تعزيز الاقتصاد المحلي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/nɪˌɡəʊʃiˈeɪʃən/"
+    },
+    {
+      "id": "w_b2_nerve",
+      "en": "nerve",
+      "ar": "العصب",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The damaged nerve affected his hand movement.",
+          "ar": "العصب التالف أثر على حركة يده."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/nɛɾv/"
+    },
+    {
+      "id": "w_b2_neutral",
+      "en": "neutral",
+      "ar": "محايدة",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The country stayed neutral throughout the conflict.",
+          "ar": "بقيت البلاد محايدة طوال فترة النزاع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnjuːtɹəl/"
+    },
+    {
+      "id": "w_b2_nevertheless",
+      "en": "nevertheless",
+      "ar": "ومع ذلك",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The task was difficult; nevertheless, she succeeded.",
+          "ar": "كانت المهمة صعبة؛ ومع ذلك نجحت فيها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnɛvəðəlɛs/"
+    },
+    {
+      "id": "w_b2_newly",
+      "en": "newly",
+      "ar": "حديثاً",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The newly opened restaurant serves delicious dishes.",
+          "ar": "يقدم المطعم الذي تم افتتاحه حديثاً أطباقاً شهية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnjuːli/"
+    },
+    {
+      "id": "w_b2_nightmare",
+      "en": "nightmare",
+      "ar": "الكابوس",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The nightmare affected his mood all day long.",
+          "ar": "أثر الكابوس على مزاجه طوال اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnaɪt.mɛə/"
+    },
+    {
+      "id": "w_b2_norm",
+      "en": "norm",
+      "ar": "المعيار",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Honesty is a norm in our family values.",
+          "ar": "الصدق هو المعيار في قيمنا العائلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/nɔːm/"
+    },
+    {
+      "id": "w_b2_notebooks",
+      "en": "notebooks",
+      "ar": "دفاتر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The teacher collected all the students' notebooks today.",
+          "ar": "جمع المعلم جميع دفاتر الطلاب اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_notion",
+      "en": "notion",
+      "ar": "مفهوم",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The notion of love changes with experience.",
+          "ar": "يتغير مفهوم الحب مع التجربة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnəʊʃən/"
+    },
+    {
+      "id": "w_b2_novelist",
+      "en": "novelist",
+      "ar": "الروائية",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The novelist explores deep themes in her stories.",
+          "ar": "تستكشف الروائية موضوعات عميقة في قصصها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnɒvəlɪst/"
+    },
+    {
+      "id": "w_b2_nowadays",
+      "en": "nowadays",
+      "ar": "هذه الأيام",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Technology plays a big role in our lives nowadays.",
+          "ar": "تلعب التكنولوجيا دوراً كبيراً في حياتنا هذه الأيام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnaʊ.ə.deɪz/"
+    },
+    {
+      "id": "w_b2_numerous",
+      "en": "numerous",
+      "ar": "العديد",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They encountered numerous challenges during their journey.",
+          "ar": "واجهوا العديد من التحديات خلال رحلتهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnjuːməɹəs/"
+    },
+    {
+      "id": "w_b2_nursing",
+      "en": "nursing",
+      "ar": "التمريض",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The nursing profession is highly respected worldwide.",
+          "ar": "تحظى مهنة التمريض باحترام كبير في جميع أنحاء العالم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈnɜːsɪŋ/"
+    },
+    {
+      "id": "w_b2_nutrition",
+      "en": "nutrition",
+      "ar": "التغذية",
+      "lessonId": "lsn_b2_n",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Good nutrition starts with balanced meals.",
+          "ar": "التغذية الجيدة تبدأ من الوجبات المتوازنة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/njuːˈtɹɪ.ʃən/"
+    }
+  ]
+}

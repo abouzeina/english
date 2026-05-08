@@ -1,14 +1,118 @@
 {
   "id": "lsn_a1_s_3",
-  "levelId": "lvl_1",
-  "title": "S Words - Part 3",
+  "levelId": "lvl_a1",
+  "title": "Unit 39: S Words - Part 3",
   "slug": "s-words-3",
-  "order": 38,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف S - الجزء 3",
-  "description": "Learn essential A1 vocabulary starting with the letter S.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف S.",
+  "order": 39,
+  "wordCount": 22,
+  "titleAr": "الوحدة 39: كلمات حرف S - الجزء 3",
+  "description": "Master essential A1 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_a1_small",
+      "lessonId": "lsn_a1_s_3",
+      "en": "small",
+      "translation": "صغير / صغيرة",
+      "ar": "صغير / صغيرة",
+      "pronunciation": "/smol/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I grew up in a small village.",
+          "ar": "لقد نشأت في قرية صغيرة."
+        },
+        {
+          "en": "I saw a small snake.",
+          "ar": "رأيت ثعباناً صغيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_snake",
+      "lessonId": "lsn_a1_s_3",
+      "en": "snake",
+      "translation": "ثعبان",
+      "ar": "ثعبان",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a small snake.",
+          "ar": "رأيت ثعباناً صغيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsneɪk/"
+    },
+    {
+      "id": "w_a1_snow",
+      "lessonId": "lsn_a1_s_3",
+      "en": "snow",
+      "translation": "ثلج / تساقطت الثلوج",
+      "ar": "ثلج / تساقطت الثلوج",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I like to walk in the snow.",
+          "ar": "أحب المشي في الثلج."
+        },
+        {
+          "en": "It snowed last night.",
+          "ar": "لقد تساقطت الثلوج الليلة الماضية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/snəʊ/"
+    },
+    {
+      "id": "w_a1_so",
+      "lessonId": "lsn_a1_s_3",
+      "en": "so",
+      "translation": "جداً / لذا / إذن",
+      "ar": "جداً / لذا / إذن",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's so hot today.",
+          "ar": "الجو حار جداً اليوم."
+        },
+        {
+          "en": "I was tired, so I slept.",
+          "ar": "كنت متعباً لذا نمت."
+        },
+        {
+          "en": "So what happens next?",
+          "ar": "إذن، ماذا سيحدث بعد ذلك؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səʊ/"
+    },
     {
       "id": "w_a1_some",
       "lessonId": "lsn_a1_s_3",
@@ -89,7 +193,6 @@
       "en": "sometimes",
       "translation": "أحياناً",
       "ar": "أحياناً",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -103,7 +206,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsʌmtaɪmz/"
     },
     {
       "id": "w_a1_son",
@@ -111,7 +215,6 @@
       "en": "son",
       "translation": "ابن",
       "ar": "ابن",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -125,7 +228,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/sɒn/"
     },
     {
       "id": "w_a1_song",
@@ -155,7 +259,6 @@
       "en": "soon",
       "translation": "قريباً",
       "ar": "قريباً",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -169,7 +272,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/suːn/"
     },
     {
       "id": "w_a1_sorry",
@@ -177,7 +281,6 @@
       "en": "sorry",
       "translation": "أسف / يؤسفني",
       "ar": "أسف / يؤسفني",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -195,7 +298,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɔɹi/"
     },
     {
       "id": "w_a1_sound",
@@ -213,12 +317,18 @@
         {
           "en": "This sounds fun !!",
           "ar": "يبدو ممتعاً !!"
+        },
+        {
+          "en": "يحتوي المبنى على هيكل سليم.",
+          "ar": "She gave me some very sound advice regarding my career."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -307,7 +417,6 @@
       "en": "speak",
       "translation": "تتحدث",
       "ar": "تتحدث",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -321,7 +430,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/spiːk/"
     },
     {
       "id": "w_a1_special",
@@ -351,7 +461,6 @@
       "en": "spell",
       "translation": "تهجئة / يتهجى",
       "ar": "تهجئة / يتهجى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -361,15 +470,22 @@
         {
           "en": "I checked my spelling twice.",
           "ar": "لقد راجعت تهجئة كتابتي مرتين."
+        },
+        {
+          "en": "نتوقع فترة من الطقس الدافئ هذا الأسبوع.",
+          "ar": "She had a brief spell of dizziness after the workout."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/spɛl/"
     },
     {
       "id": "w_a1_spent",
@@ -377,7 +493,6 @@
       "en": "spent",
       "translation": "أنفق / قضى",
       "ar": "أنفق / قضى",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -395,7 +510,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈspɛnt/"
     },
     {
       "id": "w_a1_sport",
@@ -403,7 +519,6 @@
       "en": "sport",
       "translation": "رياضة",
       "ar": "رياضة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -417,7 +532,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/spɔːt/"
     },
     {
       "id": "w_a1_spring",
@@ -425,183 +541,27 @@
       "en": "spring",
       "translation": "ربيع",
       "ar": "ربيع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I love the colors of spring.",
           "ar": "أحب ألوان الربيع."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_stand",
-      "lessonId": "lsn_a1_s_3",
-      "en": "stand",
-      "translation": "يقف",
-      "ar": "يقف",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "He can't stand for too long.",
-          "ar": "لا يمكنه أن يقف طويلاً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_star",
-      "lessonId": "lsn_a1_s_3",
-      "en": "star",
-      "translation": "نجم",
-      "ar": "نجم",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The nearest star is the sun.",
-          "ar": "أقرب نجم هو الشمس."
         },
         {
-          "en": "He was the star of the show.",
-          "ar": "لقد كان نجم العرض."
+          "en": "New ideas spring from creative minds easily.",
+          "ar": "تنبثق الأفكار الجديدة من العقول المبدعة بسهولة."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_statement",
-      "lessonId": "lsn_a1_s_3",
-      "en": "statement",
-      "translation": "بيان / كلام",
-      "ar": "بيان / كلام",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The statement is not true.",
-          "ar": "الكلام / البيان غير صحيح."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_station",
-      "lessonId": "lsn_a1_s_3",
-      "en": "station",
-      "translation": "محطة",
-      "ar": "محطة",
-      "pronunciation": "/'ster fən/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "We arrived at the station.",
-          "ar": "وصلنا إلى المحطة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_stay",
-      "lessonId": "lsn_a1_s_3",
-      "en": "stay",
-      "translation": "يبقى",
-      "ar": "يبقى",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I can't stay too long.",
-          "ar": "لا يمكنني أن أبقى طويلاً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_still",
-      "lessonId": "lsn_a1_s_3",
-      "en": "still",
-      "translation": "مازال",
-      "ar": "مازال",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I still don't understand.",
-          "ar": "ما زلت لا أفهم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_stop",
-      "lessonId": "lsn_a1_s_3",
-      "en": "stop",
-      "translation": "يوقف / موقف",
-      "ar": "يوقف / موقف",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Please stop the car.",
-          "ar": "أوقف السيارة من فضلك."
-        },
-        {
-          "en": "The bus stop is near.",
-          "ar": "موقف الحافلات قريب."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/spɹɪŋ/"
     }
   ]
 }

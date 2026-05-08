@@ -1,0 +1,57 @@
+{
+  "id": "lsn_b2_d_5",
+  "levelId": "lvl_b2",
+  "slug": "d-words-5",
+  "title": "D Words - Part 5",
+  "titleAr": "كلمات حرف D - الجزء 5",
+  "description": "Learn essential B2 vocabulary starting with the letter D.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف D.",
+  "order": 20,
+  "wordCount": 2,
+  "words": [
+    {
+      "id": "w_b2_duration",
+      "en": "duration",
+      "ar": "مدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "What's the duration of this documentary movie?",
+          "ar": "ما هي مدة هذا الفيلم الوثائقي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_dynamic",
+      "en": "dynamic",
+      "ar": "مفعمة بالنشاط",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_5",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Ahmed has a dynamic personality.",
+          "ar": "يتمتع أحمد بشخصية مفعمة بالنشاط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "cat_quran_2",
+  "slug": "tajweed",
+  "title": "Tajweed Terms",
+  "titleAr": "مصطلحات التجويد",
+  "type": "quran",
+  "words": [
+    {
+      "id": "w_6",
+      "lessonId": null,
+      "categoryId": "cat_quran_2",
+      "en": "Prolongation (Madd)",
+      "ar": "المد",
+      "examples": [
+        {
+          "en": "You need to stretch this letter for two counts.",
+          "ar": "تحتاج إلى مد هذا الحرف بمقدار حركتين."
+        }
+      ],
+      "tags": [
+        "tajweed"
+      ],
+      "translation": "المد",
+      "pronunciation": "",
+      "type": "word",
+      "difficulty": "A1",
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_7",
+      "lessonId": null,
+      "categoryId": "cat_quran_2",
+      "en": "Nasalization (Ghunnah)",
+      "ar": "الغنة",
+      "examples": [
+        {
+          "en": "Make sure to pronounce the Ghunnah from the nose.",
+          "ar": "تأكد من نطق الغنة من الخيشوم."
+        }
+      ],
+      "tags": [
+        "tajweed"
+      ],
+      "translation": "الغنة",
+      "pronunciation": "",
+      "type": "word",
+      "difficulty": "A1",
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

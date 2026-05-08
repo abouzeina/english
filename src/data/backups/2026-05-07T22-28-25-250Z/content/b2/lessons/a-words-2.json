@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_a_2",
+  "levelId": "lvl_b2",
+  "slug": "a-words-2",
+  "title": "A Words - Part 2",
+  "titleAr": "كلمات حرف A - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف A.",
+  "order": 2,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_additionally",
+      "en": "additionally",
+      "ar": "بالإضافة إلى ذلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_address",
+      "en": "address",
+      "ar": "يعالج / يتناول",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_adequate",
+      "en": "adequate",
+      "ar": "كافٍ / ملائم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_adequately",
+      "en": "adequately",
+      "ar": "بما فيه الكفاية / بشكل ملائم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_adjust",
+      "en": "adjust",
+      "ar": "يتأقلم / يضبط",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_administration",
+      "en": "administration",
+      "ar": "إدارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_adopt",
+      "en": "adopt",
+      "ar": "يتبنى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_advance",
+      "en": "advance",
+      "ar": "يتقدم / يتأهل / مسبق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_affair",
+      "en": "affair",
+      "ar": "شأن / قضية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_affordable",
+      "en": "affordable",
+      "ar": "معقول السعر / ميسور التكلفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_afterward",
+      "en": "afterward",
+      "ar": "بعد ذلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_agency",
+      "en": "agency",
+      "ar": "وكالة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_agenda",
+      "en": "agenda",
+      "ar": "جدول أعمال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aggressive",
+      "en": "aggressive",
+      "ar": "عدواني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_agriculture",
+      "en": "agriculture",
+      "ar": "زراعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aid",
+      "en": "aid",
+      "ar": "مساعدات / يساعد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aids",
+      "en": "AIDS",
+      "ar": "الإيدز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_aircraft",
+      "en": "aircraft",
+      "ar": "طائرات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_alarm",
+      "en": "alarm",
+      "ar": "يثير قلق / ينذر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_alien",
+      "en": "alien",
+      "ar": "كائنات فضائية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_alongside",
+      "en": "alongside",
+      "ar": "جنبا إلى جنب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_alter",
+      "en": "alter",
+      "ar": "يغير / يتبدل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_altogether",
+      "en": "altogether",
+      "ar": "كلياً / تماماً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ambulance",
+      "en": "ambulance",
+      "ar": "سيارة إسعاف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_amount",
+      "en": "amount",
+      "ar": "مبلغ / يبلغ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_2",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

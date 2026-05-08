@@ -1,0 +1,387 @@
+{
+  "id": "lsn_b2_g_1",
+  "levelId": "lvl_b2",
+  "title": "Unit 21: G Words - Part 1",
+  "slug": "g-words-1",
+  "order": 21,
+  "wordCount": 17,
+  "titleAr": "الوحدة 21: كلمات حرف G - الجزء 1",
+  "description": "Master essential B2 vocabulary starting with the letter G.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف G.",
+  "words": [
+    {
+      "id": "w_b2_gain",
+      "en": "gain",
+      "ar": "زيادة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am concerned about this sudden weight gain.",
+          "ar": "أشعر بالقلق إزاء هذه الزيادة المفاجئة في الوزن."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gained",
+      "en": "gained",
+      "ar": "اكتسبت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She gained valuable experience during her work.",
+          "ar": "اكتسبت خبرة قيمة خلال عملها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gaming",
+      "en": "gaming",
+      "ar": "الألعاب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The world of gaming has evolved over the past few years.",
+          "ar": "لقد تطور عالم الألعاب خلال السنوات القليلة الماضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gang",
+      "en": "gang",
+      "ar": "عصابة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His younger brother got involved with a local gang.",
+          "ar": "انخرط شقيقه الأصغر في عصابة محلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gay",
+      "en": "gay",
+      "ar": "شاذ جنسيا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The main actor in this movie is a gay person.",
+          "ar": "الممثل الرئيسي في هذا الفيلم هو شخص شاذ جنسيا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_genders",
+      "en": "genders",
+      "ar": "الجنسين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The new policies support students of both genders.",
+          "ar": "تدعم السياسات الجديدة الطلاب من كلا الجنسين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_generate",
+      "en": "generate",
+      "ar": "ينشئ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This software can generate reports quickly.",
+          "ar": "يمكن لهذا البرنامج أن ينشئ التقارير بسرعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_genes",
+      "en": "genes",
+      "ar": "الجينات",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The function of most genes remains a mystery.",
+          "ar": "وظيفة معظم الجينات لا تزال لغزا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dʒiːnz/"
+    },
+    {
+      "id": "w_b2_genetic",
+      "en": "genetic",
+      "ar": "وراثي",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Some diseases have a strong genetic component.",
+          "ar": "بعض الأمراض لها مكون وراثي قوي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[d͡ʒəˈnɛtɪk]/"
+    },
+    {
+      "id": "w_b2_genius",
+      "en": "genius",
+      "ar": "عبقريا",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You don't need to be a genius to become a researcher",
+          "ar": "لا تحتاج إلى أن تكون عبقريا لتصبح باحثًا"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdʒiː.nɪəs/"
+    },
+    {
+      "id": "w_b2_genre",
+      "en": "genre",
+      "ar": "النوع",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Mystery is my favorite book genre.",
+          "ar": "الغموض هو النوع المفضل لدي من الكتب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/(d)ʒɒn.ɹə/"
+    },
+    {
+      "id": "w_b2_genuine",
+      "en": "genuine",
+      "ar": "حقيقي",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He has a genuine passion for writing.",
+          "ar": "لديه شغف حقيقي بالكتابة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdʒɛnjuːˌaɪn/"
+    },
+    {
+      "id": "w_b2_genuinely",
+      "en": "genuinely",
+      "ar": "حقًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am genuinely sorry for the trouble I caused.",
+          "ar": "أنا آسف حقًا على المشكلة التي تسببت فيها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gesture",
+      "en": "gesture",
+      "ar": "حركة بسيطة",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She expressed her thanks with a simple gesture.",
+          "ar": "أعربت عن شكرها بحركة بسيطة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdʒɛs.tʃɚ/"
+    },
+    {
+      "id": "w_b2_gig",
+      "en": "gig",
+      "ar": "عرض موسيقي",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His first gig was at a small coffee shop.",
+          "ar": "كان عرضه الموسيقي الأول في مقهى صغير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɪɡ/"
+    },
+    {
+      "id": "w_b2_globalization",
+      "en": "Globalization",
+      "ar": "العولمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Globalization has increased cultural exchange.",
+          "ar": "لقد أدت العولمة إلى زيادة التبادل الثقافي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_globe",
+      "en": "globe",
+      "ar": "المعمورة / العالم",
+      "lessonId": "lsn_b2_g_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The internet connects people from every corner of the globe.",
+          "ar": "الإنترنت يربط الناس من كل ركن في المعمورة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡloːb/"
+    }
+  ]
+}

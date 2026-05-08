@@ -1,0 +1,409 @@
+{
+  "id": "lsn_b1_w",
+  "levelId": "lvl_b1",
+  "title": "Unit 40: W Words",
+  "slug": "w-words",
+  "order": 40,
+  "wordCount": 17,
+  "titleAr": "الوحدة 40: كلمات حرف W",
+  "description": "Master essential B1 vocabulary starting with the letter W.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف W.",
+  "words": [
+    {
+      "id": "w_b1_warned",
+      "en": "warned",
+      "ar": "حذرت",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I warned the kids against that kind of behavior.",
+          "ar": "حذرت الأطفال من هذا النوع من السلوك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_warnings",
+      "en": "warnings",
+      "ar": "تحذيرات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't ignore these warnings, this is serious.",
+          "ar": "لا تتجاهل هذه التحذيرات، فالأمر خطير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_waste",
+      "en": "waste",
+      "ar": "يضيع / مخلفات / مهجورة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I waste a lot of time arguing with you.",
+          "ar": "أنا أضيع الكثير من الوقت في الجدال معك."
+        },
+        {
+          "en": "These factories create a lot of waste.",
+          "ar": "هذه المصانع تنتج الكثير من المخلفات."
+        },
+        {
+          "en": "My bike was found on a waste ground.",
+          "ar": "تم العثور على دراجتي على أرض مهجورة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_waved",
+      "en": "waved",
+      "ar": "لوح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The people on the train waved and we waved back.",
+          "ar": "لوح الناس في القطار بأيديهم، ولوحنا نحن كذلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_weapons",
+      "en": "weapons",
+      "ar": "أسلحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "All soldiers slept close to their weapons.",
+          "ar": "نام جميع الجنود بالقرب من أسلحتهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_weigh",
+      "en": "weigh",
+      "ar": "يزن",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "These oranges weigh almost two kilograms.",
+          "ar": "هذا البرتقال يزن ما يقرب من كيلوجرامين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_western",
+      "en": "western",
+      "ar": "غربية",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Muslim population rises in western countries.",
+          "ar": "يتزايد عدد السكان المسلمين في الدول الغربية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_whatever",
+      "en": "whatever",
+      "ar": "ما تشاء",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do whatever you want.",
+          "ar": "افعل ما تشاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/wɒtˈɛvə/"
+    },
+    {
+      "id": "w_b1_whenever",
+      "en": "whenever",
+      "ar": "متى ما",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Promise me you will come whenever you can.",
+          "ar": "عدني أنك سوف تأتي متى ما استطعت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/wəˈnɛvə/"
+    },
+    {
+      "id": "w_b1_whether",
+      "en": "whether",
+      "ar": "ما إذا",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I don't know whether he received the letter or not.",
+          "ar": "لا أعلم ما إذا وصلته الرسالة أم لا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈwɛðə(ɹ)/"
+    },
+    {
+      "id": "w_b1_wings",
+      "en": "wings",
+      "ar": "أجنحة",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Birds use their wings to fly.",
+          "ar": "تستخدم الطيور أجنحتها للطيران."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/wɪŋz/"
+    },
+    {
+      "id": "w_b1_within",
+      "en": "within",
+      "ar": "في غضون",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You will receive a reply within five days.",
+          "ar": "سوف تتلقى رد في غضون خمسة أيام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/wɪˈθɪn/"
+    },
+    {
+      "id": "w_b1_wonder",
+      "en": "wonder",
+      "ar": "أتساءل / دهشة",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I wonder why you left your job.",
+          "ar": "أتساءل لماذا تركت عملك."
+        },
+        {
+          "en": "The faces of the audience were full of wonder.",
+          "ar": "كانت وجوه الجمهور مليئة بالدهشة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈwʌndə/"
+    },
+    {
+      "id": "w_b1_wool",
+      "en": "wool",
+      "ar": "صوف",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I play with my cat using a toy made of wool.",
+          "ar": "ألعب مع قطتي باستخدام لعبة مصنوعة من الصوف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/wʊl/"
+    },
+    {
+      "id": "w_b1_worldwide",
+      "en": "worldwide",
+      "ar": "في جميع أنحاء العالم",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The event has attracted worldwide attention.",
+          "ar": "وقد اجتذب الحدث الانتباه في جميع أنحاء العالم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈwɜːldwaɪd/"
+    },
+    {
+      "id": "w_b1_worth",
+      "en": "worth",
+      "ar": "يستحق",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This book isn't worth reading.",
+          "ar": "هذا الكتاب لا يستحق القراءة."
+        },
+        {
+          "en": "Knowledge has more worth than material possessions.",
+          "ar": "المعرفة لها قيمة أكبر من الممتلكات المادية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_written",
+      "en": "written",
+      "ar": "كتابي / مكتوب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_w",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I have a written test tomorrow.",
+          "ar": "لدي اختبار كتابي غدًا."
+        },
+        {
+          "en": "My name is written wrong.",
+          "ar": "اسمي مكتوب بشكل خاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

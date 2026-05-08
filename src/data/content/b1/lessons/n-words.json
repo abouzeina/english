@@ -1,0 +1,294 @@
+{
+  "id": "lsn_b1_n",
+  "levelId": "lvl_b1",
+  "title": "Unit 23: N Words",
+  "slug": "n-words",
+  "order": 23,
+  "wordCount": 12,
+  "titleAr": "الوحدة 23: كلمات حرف N",
+  "description": "Master essential B1 vocabulary starting with the letter N.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف N.",
+  "words": [
+    {
+      "id": "w_b1_nails",
+      "en": "nails",
+      "ar": "مسامير",
+      "pronunciation": "/nexl/",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Collect these nails from the ground.",
+          "ar": "اجمع هذه المسامير من الأرض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_narrative",
+      "en": "narrative",
+      "ar": "سرد / هيكل سردي",
+      "pronunciation": "/'ner.ə.tv/",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He gave a narrative of his experience.",
+          "ar": "قدم سردًا لتجربته."
+        },
+        {
+          "en": "I like the narrative structure in this novel.",
+          "ar": "يعجبني الهيكل السردي في هذه الرواية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_nation",
+      "en": "nation",
+      "ar": "أمة",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It is an important moment in our nation's history.",
+          "ar": "إنها لحظة مهمة في تاريخ أمتنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈneɪ.ʃən/"
+    },
+    {
+      "id": "w_b1_native",
+      "en": "native",
+      "ar": "الأم (اللغة) / من مواليد",
+      "pronunciation": "/'nex.tv/",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "English is not my native language.",
+          "ar": "اللغة الإنجليزية ليست لغتي الأم."
+        },
+        {
+          "en": "Our coach is a native of Iraq.",
+          "ar": "مدربنا من مواليد العراق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_naturally",
+      "en": "naturally",
+      "ar": "بشكل طبيعي",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please act naturally.",
+          "ar": "من فضلك تصرف بشكل طبيعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈnætʃ(ə)ɹəli/"
+    },
+    {
+      "id": "w_b1_necessarily",
+      "en": "necessarily",
+      "ar": "بالضرورة",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Technology is not necessarily a bad thing.",
+          "ar": "التكنولوجيا ليست بالضرورة شيئًا سيئًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˌnɛsəˈsɛɹəli/"
+    },
+    {
+      "id": "w_b1_needle",
+      "en": "needle",
+      "ar": "إبرة",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I need to buy a thick needle.",
+          "ar": "أنا بحاجة لشراء إبرة سميكة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈniː.dl/"
+    },
+    {
+      "id": "w_b1_neighborhood",
+      "en": "neighborhood",
+      "ar": "حي",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We support the families of this neighborhood.",
+          "ar": "نحن ندعم عائلات هذا الحي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈneɪbə.hʊd/"
+    },
+    {
+      "id": "w_b1_neither",
+      "en": "neither",
+      "ar": "ولا / لا... ولا",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali doesn't remember and neither do I.",
+          "ar": "علي لا يتذكر ولا أنا كذلك."
+        },
+        {
+          "en": "He seemed neither afraid nor worried.",
+          "ar": "لم يبد خائفًا ولا قلقًا."
+        },
+        {
+          "en": "Neither of them has a car.",
+          "ar": "لا يملك أي منهما سيارة : لا هذا ولا ذاك يملكون سيارة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈnaɪð.ə(ɹ)/"
+    },
+    {
+      "id": "w_b1_northern",
+      "en": "northern",
+      "ar": "شمالي",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lives in the northern part of Cairo.",
+          "ar": "يعيش في الجزء الشمالي من القاهرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈnɔːðn̩/"
+    },
+    {
+      "id": "w_b1_now_that",
+      "en": "Now that",
+      "ar": "الآن وقد",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Now that everyone is here, we can start.",
+          "ar": "الآن وقد أصبح الجميع هنا، يمكننا أن نبدأ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_nuclear",
+      "en": "nuclear",
+      "ar": "نووية",
+      "lessonId": "lsn_b1_n",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A nuclear bomb is extremely dangerous.",
+          "ar": "القنبلة النووية خطيرة للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈn(j)ukliɚ/"
+    }
+  ]
+}

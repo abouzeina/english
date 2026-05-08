@@ -1,0 +1,351 @@
+{
+  "id": "lsn_b1_d_2",
+  "levelId": "lvl_b1",
+  "slug": "d-words-2",
+  "title": "Unit 11: D Words - Part 2",
+  "titleAr": "الوحدة 11: كلمات حرف D - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with D.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف D.",
+  "order": 11,
+  "wordCount": 15,
+  "words": [
+    {
+      "id": "w_b1_disappointed",
+      "en": "disappointed",
+      "ar": "محبط",
+      "pronunciation": "/ dıs.ə'pɔın.ţid/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami looks very disappointed.",
+          "ar": "يبدو سامي محبطاً جدًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_disappointing",
+      "en": "disappointing",
+      "ar": "مخيب للآمال",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They were disappointing results.",
+          "ar": "كانت نتائج مخيبة للآمال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_discount",
+      "en": "discount",
+      "ar": "خصم",
+      "pronunciation": "/'dıs.kaunt/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I bought the car at a 10% discount.",
+          "ar": "اشتريت السيارة بخصم 10% ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_dislike",
+      "en": "dislike",
+      "ar": "لا تعجبني / عدم إعجاب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I dislike this job.",
+          "ar": "لا تعجبني هذه الوظيفة."
+        },
+        {
+          "en": "He tried to hide his dislike of his boss.",
+          "ar": "حاول إخفاء عدم إعجابه برئيسه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_divided",
+      "en": "divided",
+      "ar": "قسم",
+      "pronunciation": "/dı var.dıd/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The teacher divided the students into three groups.",
+          "ar": "قسم المعلم الطلاب إلى ثلاث مجموعات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_documentaries",
+      "en": "documentaries",
+      "ar": "أفلام وثائقية",
+      "pronunciation": "/ da:.kje men.to.i/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I like watching documentaries.",
+          "ar": "أحب مشاهدة الأفلام الوثائقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_donate",
+      "en": "donate",
+      "ar": "يتبرع",
+      "pronunciation": "/dou.next/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I donate blood every three months.",
+          "ar": "أتبرع بالدم كل ثلاثة أشهر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_double",
+      "en": "double",
+      "ar": "ضعف",
+      "pronunciation": "/'dab.el/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'll pay double.",
+          "ar": "سأدفع ضعف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_doubt",
+      "en": "doubt",
+      "ar": "شك / يشك",
+      "pronunciation": "/daut/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He will succeed without doubt.",
+          "ar": "سوف ينجح بدون شك."
+        },
+        {
+          "en": "I doubt this will work.",
+          "ar": "أشك في أن هذا سوف ينجح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_dressed",
+      "en": "dressed",
+      "ar": "يرتدي ملابسه",
+      "pronunciation": "/drest/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can't open the door, I'm not dressed yet.",
+          "ar": "لا أستطيع فتح الباب، أنا لم أرتدي ملابسي بعد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_drop",
+      "en": "drop",
+      "ar": "قطرة",
+      "pronunciation": "/dra:p/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I felt a drop of rain on my head.",
+          "ar": "شعرت بقطرة مطر على رأسي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_drums",
+      "en": "drums",
+      "ar": "طبول",
+      "pronunciation": "/dram/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Children like to beat drums.",
+          "ar": "يحب الأطفال قرع الطبول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_drunk",
+      "en": "drunk",
+      "ar": "سكارى",
+      "pronunciation": "/drʌŋk/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Drunk people are dangerous.",
+          "ar": "السكارى خطرون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_due_to",
+      "en": "due to",
+      "ar": "بسبب",
+      "pronunciation": "/du:/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The plane was late due to bad weather.",
+          "ar": "تأخرت الطائرة بسبب سوء الأحوال الجوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_dust",
+      "en": "dust",
+      "ar": "غبار",
+      "pronunciation": "/dist/",
+      "lessonId": "lsn_b1_d_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "All the furniture was covered with dust.",
+          "ar": "كل الأثاث كان مغطى بالغبار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

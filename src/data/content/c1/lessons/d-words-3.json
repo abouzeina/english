@@ -1,0 +1,392 @@
+{
+  "id": "lsn_c1_d_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 8: D Words - Part 3",
+  "slug": "d-words-3",
+  "order": 8,
+  "wordCount": 17,
+  "titleAr": "الوحدة 8: كلمات حرف D - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter D.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف D.",
+  "words": [
+    {
+      "id": "w_c1_distort",
+      "en": "distort",
+      "ar": "يشوه / يحرف",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حاولت وسائل الإعلام تشويه الحقيقة بشأن الحادث",
+          "ar": "The curved mirror will distort your reflection."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈtɔːt/"
+    },
+    {
+      "id": "w_c1_distress",
+      "en": "distress",
+      "ar": "ضيق / ألم / يحزن",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تسببت أخبار الفشل في ضيق نفسي كبير لها",
+          "ar": "The ship sent out a signal because it was in distress."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈstɹɛs/"
+    },
+    {
+      "id": "w_c1_disturbing",
+      "en": "disturbing",
+      "ar": "مزعج / مقلق",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كشف الفيلم الوثائقي عن بعض الحقائق المقلقة بشأن التلوث",
+          "ar": "I found his lack of empathy to be quite disturbing."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈtɜːbɪŋ/"
+    },
+    {
+      "id": "w_c1_divert",
+      "en": "divert",
+      "ar": "يحول / يصرف",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اضطرت الشرطة لتحويل حركة المرور بسبب الحادث",
+          "ar": "They tried to divert his attention from the bad news."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/daɪˈvɜːt/"
+    },
+    {
+      "id": "w_c1_divine",
+      "en": "divine",
+      "ar": "إلهي / مقدس",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تؤمن العديد من الثقافات بوجود قوة إلهية",
+          "ar": "The sunset over the ocean was a truly divine sight."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈvaɪn/"
+    },
+    {
+      "id": "w_c1_doctrine",
+      "en": "doctrine",
+      "ar": "عقيدة / مذهب",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "العقيدة القانونية للاستخدام العادل مهمة للباحثين",
+          "ar": "Religious doctrine often dictates how people live their lives."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɒktɹɪn/"
+    },
+    {
+      "id": "w_c1_documentation",
+      "en": "documentation",
+      "ar": "توثيق / مستندات",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يرجى تقديم جميع المستندات اللازمة لطلبك",
+          "ar": "Good documentation is essential for software development."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌdɒkjʊmənˈteɪʃən/"
+    },
+    {
+      "id": "w_c1_domain",
+      "en": "domain",
+      "ar": "مجال / نطاق",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نطاق الموقع الإلكتروني تم تسجيله منذ سنوات عديدة",
+          "ar": "The discovery falls within the domain of modern physics."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dəʊˈmeɪn/"
+    },
+    {
+      "id": "w_c1_dominance",
+      "en": "dominance",
+      "ar": "هيمنة / سيطرة",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحافظ شركة التكنولوجيا العملاقة على هيمنتها في السوق العالمية",
+          "ar": "The struggle for dominance between the two teams was intense."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɒmɪnəns/"
+    },
+    {
+      "id": "w_c1_donor",
+      "en": "donor",
+      "ar": "متبرع",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يبحث المستشفى عن متبرع دم متوافق",
+          "ar": "A generous donor provided the funds for the new library."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdəʊnə/"
+    },
+    {
+      "id": "w_c1_drift",
+      "en": "drift",
+      "ar": "ينجرف / يطوف",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأ القارب في الانجراف ببطء بعيداً عن الشاطئ",
+          "ar": "It is easy to drift into a state of daydreaming during long lectures."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɹɪft/"
+    },
+    {
+      "id": "w_c1_drown",
+      "en": "drown",
+      "ar": "يغرق",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأت الموسيقى الصاخبة في طمس (إغراق) محادثتهما",
+          "ar": "He managed to save the child before he could drown."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɹaʊn/"
+    },
+    {
+      "id": "w_c1_dual",
+      "en": "dual",
+      "ar": "مزدوج / ثنائي",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يتميز الهاتف الذكي الجديد بنظام كاميرا مزدوج",
+          "ar": "He holds dual citizenship in Egypt and the United Kingdom."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdjuː.əl/"
+    },
+    {
+      "id": "w_c1_dub",
+      "en": "dub",
+      "ar": "يلقب / يدبلج",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت وسائل الإعلام تلقيبه بملك البوب",
+          "ar": "They plan to dub the documentary into several languages."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dʌb/"
+    },
+    {
+      "id": "w_c1_dumb",
+      "en": "dumb",
+      "ar": "أبكم / صامت",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أصابها الصمت من شدة الذهول عند سماع الأخبار",
+          "ar": "The witness remained dumb throughout the entire trial."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dʌm/"
+    },
+    {
+      "id": "w_c1_duo",
+      "en": "duo",
+      "ar": "ثنائي",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قدم الثنائي الموسيقي الشهير أحدث أغانيهما على المسرح",
+          "ar": "The comedy duo has been working together for over a decade."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdjuː.əʊ/"
+    },
+    {
+      "id": "w_c1_dynamic",
+      "en": "dynamic",
+      "ar": "ديناميكي / حيوي",
+      "pronunciation": "daɪˈnæmɪk",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الرئيس التنفيذي الجديد قائد ديناميكي يمتلك رؤية واضحة",
+          "ar": "We live in a dynamic world where technology changes daily."
+        },
+        {
+          "en": "Ahmed has a dynamic personality.",
+          "ar": "يتمتع أحمد بشخصية مفعمة بالنشاط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

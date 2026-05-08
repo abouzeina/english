@@ -1,36 +1,14 @@
 {
   "id": "lsn_a1_w_1",
-  "levelId": "lvl_1",
-  "title": "W Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 46: W Words - Part 1",
   "slug": "w-words-1",
-  "order": 45,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف W - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter W.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف W.",
+  "order": 46,
+  "wordCount": 24,
+  "titleAr": "الوحدة 46: كلمات حرف W - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter W.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف W.",
   "words": [
-    {
-      "id": "w_a1_visitor",
-      "lessonId": "lsn_a1_w_1",
-      "en": "visitor",
-      "translation": "زائر",
-      "ar": "زائر",
-      "pronunciation": "/'VIZ Itər/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The visitor is waiting outside.",
-          "ar": "الزائر ينتظر في الخارج."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_wait",
       "lessonId": "lsn_a1_w_1",
@@ -43,12 +21,17 @@
         {
           "en": "Please wait for me.",
           "ar": "انتظرني من فضلك."
+        },
+        {
+          "en": "It's going to be a long wait.",
+          "ar": "سيكون انتظارا طويلاً."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -103,7 +86,6 @@
       "en": "walk",
       "translation": "يمشي / المشي",
       "ar": "يمشي / المشي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -121,7 +103,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɔːk/"
     },
     {
       "id": "w_a1_wall",
@@ -151,7 +134,6 @@
       "en": "want",
       "translation": "أريد",
       "ar": "أريد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -165,7 +147,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɔnt/"
     },
     {
       "id": "w_a1_warm",
@@ -173,21 +156,26 @@
       "en": "warm",
       "translation": "دافئ",
       "ar": "دافئ",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "The weather is warm today.",
           "ar": "الطقس دافئ اليوم."
+        },
+        {
+          "en": "Let's warm our bodies and calm our minds.",
+          "ar": "دعنا ندفئ أجسادنا ونهدئ عقولنا."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɔːm/"
     },
     {
       "id": "w_a1_wash",
@@ -195,21 +183,26 @@
       "en": "wash",
       "translation": "يغسل",
       "ar": "يغسل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Did you wash your hands?",
           "ar": "هل غسلت يديك؟"
+        },
+        {
+          "en": "My towel is ready for a wash.",
+          "ar": "منشفتي جاهزة للغسل."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɑʃ/"
     },
     {
       "id": "w_a1_watch",
@@ -243,21 +236,26 @@
       "en": "water",
       "translation": "ماء",
       "ar": "ماء",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "Try to drink more water.",
           "ar": "حاول شرب المزيد من الماء."
+        },
+        {
+          "en": "You are supposed to water your garden once a week.",
+          "ar": "من المفترض أن تسقي حديقتك مرة في الأسبوع."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈwoːtə/"
     },
     {
       "id": "w_a1_way",
@@ -265,7 +263,6 @@
       "en": "way",
       "translation": "طريقة / طريق",
       "ar": "طريقة / طريق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -275,15 +272,22 @@
         {
           "en": "Which way should I go?",
           "ar": "أي طريق يجب أن أسلك؟"
+        },
+        {
+          "en": "The test was way harder than I thought.",
+          "ar": "كان الاختبار أصعب بكثير مما توقعت."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/weɪ/"
     },
     {
       "id": "w_a1_we",
@@ -291,7 +295,6 @@
       "en": "we",
       "translation": "نحن",
       "ar": "نحن",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -305,7 +308,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wiː/"
     },
     {
       "id": "w_a1_wear",
@@ -401,7 +405,6 @@
       "en": "week",
       "translation": "أسبوع",
       "ar": "أسبوع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -415,7 +418,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wiːk/"
     },
     {
       "id": "w_a1_weekend",
@@ -423,7 +427,6 @@
       "en": "weekend",
       "translation": "عطلة نهاية الأسبوع",
       "ar": "عطلة نهاية الأسبوع",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -437,7 +440,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wiːˈkɛnd/"
     },
     {
       "id": "w_a1_welcome",
@@ -459,12 +463,17 @@
         {
           "en": "We welcome new ideas.",
           "ar": "نحن نرحب بالأفكار الجديدة."
+        },
+        {
+          "en": "Thanks for your warm welcome !!",
+          "ar": "شكرًا على ترحيبكم الحار : !!"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -485,12 +494,18 @@
         {
           "en": "Well, what do you know !!!",
           "ar": "حسناً، ماذا تعرف !!!"
+        },
+        {
+          "en": "اضطروا لحفر بئر عميقة للحصول على مياه عذبة.",
+          "ar": "The old well has been dry for many years."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -531,7 +546,6 @@
       "en": "what",
       "translation": "ما / ماذا",
       "ar": "ما / ماذا",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -553,7 +567,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɔt/"
     },
     {
       "id": "w_a1_when",
@@ -561,7 +576,6 @@
       "en": "when",
       "translation": "متى / عندما",
       "ar": "متى / عندما",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -579,7 +593,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ʍɛn/"
     },
     {
       "id": "w_a1_where",
@@ -587,7 +602,6 @@
       "en": "where",
       "translation": "أين / حيث",
       "ar": "أين / حيث",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -605,7 +619,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɛə(ɹ)/"
     }
   ]
 }

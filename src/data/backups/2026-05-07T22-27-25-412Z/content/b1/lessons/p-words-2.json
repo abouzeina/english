@@ -1,0 +1,575 @@
+{
+  "id": "lsn_b1_p_2",
+  "levelId": "lvl_b1",
+  "slug": "p-words-2",
+  "title": "Unit 28: P Words - Part 2",
+  "titleAr": "الوحدة 28: كلمات حرف P - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with P.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف P.",
+  "order": 28,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_pleasure",
+      "en": "pleasure",
+      "ar": "سرور",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I read this novel with pleasure.",
+          "ar": "قرأت هذه الرواية بسرور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_plenty",
+      "en": "plenty",
+      "ar": "الكثير من",
+      "pronunciation": "/'plen.ti/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Drink plenty of water to improve your memory.",
+          "ar": "اشرب الكثير من الماء لتحسين ذاكرتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_plot",
+      "en": "plot",
+      "ar": "حبكة",
+      "pronunciation": "/pla:t/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I didn't like the plot of this movie.",
+          "ar": "لم تعجبني حبكة هذا الفيلم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_plus",
+      "en": "plus",
+      "ar": "زائد",
+      "pronunciation": "/plas/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Three plus four equals seven.",
+          "ar": "ثلاثة زائد أربعة يساوي سبعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_poems",
+      "en": "poems",
+      "ar": "قصائد",
+      "pronunciation": "/'pou.ǝm/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am searching for good poems on the internet.",
+          "ar": "أنا أبحث عن قصائد جيدة على الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_poet",
+      "en": "poet",
+      "ar": "شاعر",
+      "pronunciation": "/'pou.ǝt/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This prize is for the best poet in the competition.",
+          "ar": "هذه الجائزة هي الأفضل شاعر في المسابقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_poetry",
+      "en": "poetry",
+      "ar": "شعر",
+      "pronunciation": "/'pou.ǝ.tri/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "began my speech with a few lines of poetry.",
+          "ar": "بدأت حديثي ببعض الأسطر من الشعر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pointed",
+      "en": "pointed",
+      "ar": "أشار",
+      "pronunciation": "/'porn.txd/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He pointed to a big stone and asked me to hold it.",
+          "ar": "أشار إلى حجر كبير وطلب مني أن أمسكه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_poison",
+      "en": "poison",
+      "ar": "سم / يسمم / سامة",
+      "pronunciation": "/'pɔx.zən/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They say that sugar is a white poison.",
+          "ar": "يقولون أن السكر هو سم أبيض."
+        },
+        {
+          "en": "They poisoned the mice.",
+          "ar": "هم سمموا الفئران."
+        },
+        {
+          "en": "These are poisonous plants.",
+          "ar": "هذه نباتات سامة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_policy",
+      "en": "policy",
+      "ar": "سياسة (شركة أو منظمة)",
+      "pronunciation": "/'pa:.le.si/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Does the policy of your company allow this?",
+          "ar": "هل سياسة شركتكم تسمح بهذا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_politics",
+      "en": "politics",
+      "ar": "سياسة (المجال السياسي)",
+      "pronunciation": "/'pa:.le.tıks/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He left politics and went into business.",
+          "ar": "هو ترك السياسة وانتقل إلى مجال الأعمال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_political",
+      "en": "political",
+      "ar": "سياسية",
+      "pronunciation": "/pə'lıţ.ə.kəl/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Their president has no political power.",
+          "ar": "رئيسهم ليس لديه سلطة سياسية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_politicians",
+      "en": "politicians",
+      "ar": "سياسيين",
+      "pronunciation": "/pa: le tis.ən/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Most politicians lie.",
+          "ar": "معظم السياسيين يكذبون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_port",
+      "en": "port",
+      "ar": "ميناء",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our ship reached the port of Alexandria.",
+          "ar": "سفينتنا وصلت إلى ميناء الإسكندرية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_portrait",
+      "en": "portrait",
+      "ar": "صورة مرسومة",
+      "pronunciation": "/'pɔ:r.trxt/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is pleased with his new portrait.",
+          "ar": "إنه مسرور بصورته المرسومة الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_possibly",
+      "en": "possibly",
+      "ar": "ربما",
+      "pronunciation": "/'pa:.sə.bli/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His father died, possibly due to a heart attack.",
+          "ar": "والده توفي، ربما بسبب نوبة قلبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pot",
+      "en": "pot",
+      "ar": "قدر طبخ",
+      "pronunciation": "/pa:t/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We need a large cooking pot.",
+          "ar": "نحتاج قدر طبخ كبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pour",
+      "en": "Pour",
+      "ar": "اسكب",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Pour the boiled water into the bowl.",
+          "ar": "اسكب الماء المغلي في الوعاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_poverty",
+      "en": "poverty",
+      "ar": "فقر",
+      "pronunciation": "/'pa:.va.ti/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How can we reduce poverty in our community?",
+          "ar": "كيف يمكننا الحد من الفقر في مجتمعنا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_powder",
+      "en": "powder",
+      "ar": "مسحوق / مجفف",
+      "pronunciation": "/'pau.de-/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't add sauce with milk powder.",
+          "ar": "لا تضيفي الصلصة مع مسحوق الحليب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_powerful",
+      "en": "powerful",
+      "ar": "قوية",
+      "pronunciation": "/'pau.ə.fǝl/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It is a powerful organization.",
+          "ar": "إنها منظمة قوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_practical",
+      "en": "practical",
+      "ar": "عملية (تجربة)",
+      "pronunciation": "/'præk.tı.kəl/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you have practical experience in marketing?",
+          "ar": "هل لديك خبرة عملية في التسويق ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_prayed",
+      "en": "prayed",
+      "ar": "دعوت / صلى",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I prayed to God for her.",
+          "ar": "دعوت الله لها."
+        },
+        {
+          "en": "Did you attend Friday prayers?",
+          "ar": "هل حضرت صلاة الجمعة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_prediction",
+      "en": "prediction",
+      "ar": "توقع",
+      "pronunciation": "/prı'dık.jən/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our prediction that the economy will grow slowly.",
+          "ar": "توقعنا أن الاقتصاد سينمو ببطء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_prepared",
+      "en": "prepared",
+      "ar": "مستعد",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our society was not prepared for these changes.",
+          "ar": "مجتمعنا لم يكن مستعدا لهذه التغييرات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

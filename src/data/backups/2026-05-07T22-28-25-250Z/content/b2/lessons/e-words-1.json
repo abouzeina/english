@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_e_1",
+  "levelId": "lvl_b2",
+  "slug": "e-words-1",
+  "title": "E Words - Part 1",
+  "titleAr": "كلمات حرف E - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter E.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف E.",
+  "order": 21,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_entrepreneur",
+      "en": "entrepreneur",
+      "ar": "رجل أعمال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_envelope",
+      "en": "envelope",
+      "ar": "ظرف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_equals",
+      "en": "equals",
+      "ar": "على قدم المساواة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_equipped",
+      "en": "equipped",
+      "ar": "مجهز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_equivalent",
+      "en": "equivalent",
+      "ar": "ما يعادله",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_era",
+      "en": "era",
+      "ar": "عصر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_erupt",
+      "en": "erupt",
+      "ar": "يثور",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_essentially",
+      "en": "essentially",
+      "ar": "في الأساس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_establish",
+      "en": "establish",
+      "ar": "ننشئ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_estate",
+      "en": "estate",
+      "ar": "أرض / ملكية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_estimate",
+      "en": "estimate",
+      "ar": "تقدير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_estimated",
+      "en": "estimated",
+      "ar": "قدروا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ethical",
+      "en": "ethical",
+      "ar": "أخلاقية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ethics",
+      "en": "ethics",
+      "ar": "مبادئ / أخلاقيات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ethnic",
+      "en": "ethnic",
+      "ar": "عرقي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evaluates",
+      "en": "evaluates",
+      "ar": "يقوم بتقييم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evaluation",
+      "en": "evaluation",
+      "ar": "تقييم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_even",
+      "en": "even",
+      "ar": "متعادلان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evident",
+      "en": "evident",
+      "ar": "جليا / واضحا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evil",
+      "en": "evil",
+      "ar": "شرير / شر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evolution",
+      "en": "evolution",
+      "ar": "التطور",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evolved",
+      "en": "evolved",
+      "ar": "تطورت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_examination",
+      "en": "examination",
+      "ar": "اختبار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_exceed",
+      "en": "exceed",
+      "ar": "تتجاوز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_exceptions",
+      "en": "exceptions",
+      "ar": "استثناءات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,19 +1,198 @@
 {
   "id": "lsn_b1_c_4",
   "levelId": "lvl_b1",
+  "title": "Unit 8: C Words - Part 4",
   "slug": "c-words-4",
-  "title": "Unit 9: C Words - Part 4",
-  "titleAr": "الوحدة 9: كلمات حرف C - الجزء 4",
-  "description": "Expand your intermediate vocabulary with words starting with C.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف C.",
-  "order": 9,
-  "wordCount": 14,
+  "order": 8,
+  "wordCount": 19,
+  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 4",
+  "description": "Master essential B1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف C.",
   "words": [
+    {
+      "id": "w_b1_container",
+      "en": "container",
+      "ar": "وعاء / حاوية",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Fill the container with milk.",
+          "ar": "املأ الوعاء بالحليب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kənˈteɪnə/"
+    },
+    {
+      "id": "w_b1_content",
+      "en": "content",
+      "ar": "محتوى",
+      "pronunciation": "/kən'tent/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The content of the essay is interesting.",
+          "ar": "محتوى المقال مثير للاهتمام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_continuous",
+      "en": "continuous",
+      "ar": "مستمر",
+      "pronunciation": "/kən'tın-ju-əs/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was a week of continuous rain.",
+          "ar": "كان أسبوعًا من المطر المستمر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_contrasts",
+      "en": "contrasts",
+      "ar": "تناقضات / يتباين",
+      "pronunciation": "/'kan-træst/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Japan is a country of contrasts.",
+          "ar": "اليابان بلد التناقضات."
+        },
+        {
+          "en": "Red contrasts well with blue.",
+          "ar": "الأحمر يتباين بشكل جيد مع الأزرق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_convenient",
+      "en": "convenient",
+      "ar": "مناسب / ملائم / مريح",
+      "pronunciation": "/kən'vin jənt/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "As for myself Saturday will be convenient.",
+          "ar": "بالنسبة لي، سيكون يوم السبت مناسبًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_convince",
+      "en": "convince",
+      "ar": "يقنع",
+      "pronunciation": "/kən' vins/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I tried to convince him, but I failed.",
+          "ar": "حاولت أن أقنعه لكني فشلت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_costume",
+      "en": "costume",
+      "ar": "زي / زي تنكري",
+      "pronunciation": "/ kas tum/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Does this costume fit me?",
+          "ar": "هل يناسبني هذا الزي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cottage",
+      "en": "cottage",
+      "ar": "منزل ريفي صغير",
+      "pronunciation": "/'ka-ţıd3/",
+      "lessonId": "lsn_b1_c_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My parents live in a small cottage.",
+          "ar": "والداي يعيشان في منزل ريفي صغير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_b1_cotton",
       "en": "cotton",
       "ar": "قطن",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_4",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -29,29 +208,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_count",
-      "en": "count",
-      "ar": "عد / يحسب",
-      "pronunciation": "/kaunt/",
-      "lessonId": "lsn_b1_c_4",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Let me finish the count.",
-          "ar": "دعني أكمل العد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈkɒt.n̩/"
     },
     {
       "id": "w_b1_countryside",
@@ -101,7 +259,6 @@
       "id": "w_b1_cover",
       "en": "cover",
       "ar": "غلاف / يغطي",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_4",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -113,43 +270,26 @@
         {
           "en": "The wall was covered with pictures.",
           "ar": "الجدار كان مغطى بالصور."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_cream",
-      "en": "cream",
-      "ar": "لون القشطة (كريمي)",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_c_4",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "Why did you buy this cream carpet?",
-          "ar": "لماذا اشتريت هذه السجادة التي تشبه لون القشطة ؟"
+          "en": "The clouds cover the sky.",
+          "ar": "الغيوم تغطي السماء :"
         }
       ],
       "type": "word",
       "difficulty": "B1",
       "tags": [
         "B1",
-        "core"
+        "core",
+        "A2"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈkʌvə/"
     },
     {
       "id": "w_b1_criminals",
       "en": "criminals",
       "ar": "مجرمين",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_4",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -165,7 +305,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈkɹɪmɪnəlz/"
     },
     {
       "id": "w_b1_cruel",
@@ -234,32 +375,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_current",
-      "en": "current",
-      "ar": "حالي",
-      "pronunciation": "/ karant/",
-      "lessonId": "lsn_b1_c_4",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "What's your current job?",
-          "ar": "ما هي وظيفتك الحالية ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_currently",
       "en": "currently",
       "ar": "حالياً",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_4",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -275,7 +393,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈkʌɹəntli/"
     },
     {
       "id": "w_b1_curtains",
@@ -303,7 +422,6 @@
       "id": "w_b1_customs",
       "en": "customs",
       "ar": "عادات",
-      "pronunciation": "",
       "lessonId": "lsn_b1_c_4",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -319,7 +437,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈkʌstəmz/"
     }
   ]
 }

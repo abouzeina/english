@@ -1,0 +1,497 @@
+{
+  "id": "lsn_c1_m_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 23: M Words - Part 1",
+  "slug": "m-words-1",
+  "order": 23,
+  "wordCount": 22,
+  "titleAr": "الوحدة 23: كلمات حرف M - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter M.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف M.",
+  "words": [
+    {
+      "id": "w_c1_machinery",
+      "en": "machinery",
+      "ar": "آلات / ماكينات",
+      "pronunciation": "məˈʃiːnəri",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قام المصنع بتركيب آلات زراعية جديدة",
+          "ar": "Heavy machinery is required for this construction project."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_magical",
+      "en": "magical",
+      "ar": "سحري / فائق الجمال",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان مشهد غروب الشمس فوق المحيط سحرياً حقاً",
+          "ar": "It was a magical experience that I will never forget."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmædʒɪkəl/"
+    },
+    {
+      "id": "w_c1_magistrate",
+      "en": "magistrate",
+      "ar": "قاضي صلح / مسؤول قضائي",
+      "pronunciation": "ˈmædʒɪstreɪت",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نُظرت القضية أمام قاضي صلح محلي",
+          "ar": "He was ordered to appear before the magistrate."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_magnetic",
+      "en": "magnetic",
+      "ar": "مغناطيسي / جذاب",
+      "pronunciation": "mæɡˈnetɪk",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمتلك الأرض مجالاً مغناطيسياً قوياً",
+          "ar": "She has a magnetic personality that attracts everyone."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_magnitude",
+      "en": "magnitude",
+      "ar": "عظمة / ضخامة / قدر",
+      "pronunciation": "ˈmæɡnɪtjuːd",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لم ندرك حجم (ضخامة) المشكلة في البداية",
+          "ar": "The earthquake measured 7.5 in magnitude. بلغ قدر الزلزال 7.5 درجة"
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mainland",
+      "en": "mainland",
+      "ar": "البر الرئيسي",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتصل الجزيرة بالبر الرئيسي عن طريق جسر",
+          "ar": "Most of the population lives on the mainland."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmeɪ̪nlənd/"
+    },
+    {
+      "id": "w_c1_mainstream",
+      "en": "mainstream",
+      "ar": "الاتجاه السائد / التيار العام",
+      "pronunciation": "ˈmeɪnstriːm",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "آراؤه خارج التيار السياسي السائد",
+          "ar": "Environmental issues have now entered the mainstream."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_maintenance",
+      "en": "maintenance",
+      "ar": "صيانة / نفقة (عائلية)",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتطلب السيارة صيانة دورية لتبقى في حالة جيدة",
+          "ar": "He has to pay monthly maintenance for his children."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmeɪnt(ə)nəns/"
+    },
+    {
+      "id": "w_c1_mandate",
+      "en": "mandate",
+      "ar": "تفويض / أمر رسمي",
+      "pronunciation": "ˈmændeɪt",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لدى الرئيس تفويض واضح لتنفيذ هذه الإصلاحات",
+          "ar": "The committee's mandate is to investigate the corruption charges."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mandatory",
+      "en": "mandatory",
+      "ar": "إلزامي / إجباري",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ارتداء حزام الأمان إلزامي في هذا البلد",
+          "ar": "The meeting is mandatory for all staff members."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmæn.də.t(ə)ɹi/"
+    },
+    {
+      "id": "w_c1_manifest",
+      "en": "manifest",
+      "ar": "يظهر / يتجلى / واضح",
+      "pronunciation": "ˈmænɪfest",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تظهر أعراض المرض ببطء",
+          "ar": "His anger was manifest to everyone in the room."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_manipulate",
+      "en": "manipulate",
+      "ar": "يتلاعب / يعالج ببراعة",
+      "pronunciation": "məˈnɪpjuleɪt",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اتُهم بمحاولة التلاعب بسوق الأسهم",
+          "ar": "She knows how to manipulate the data to get the results she wants."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_manipulation",
+      "en": "manipulation",
+      "ar": "تلاعب / معالجة",
+      "pronunciation": "məˌnɪpjuˈleɪʃn",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اتُهمت وسائل الإعلام بالتلاعب السياسي",
+          "ar": "The doctor's manipulation of the bones helped relieve the pain."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_manuscript",
+      "en": "manuscript",
+      "ar": "مخطوطة",
+      "pronunciation": "ˈmænjuskrɪpt",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحتوي المكتبة على العديد من المخطوطات القديمة",
+          "ar": "He is currently working on the manuscript for his new book."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_marginal",
+      "en": "marginal",
+      "ar": "هامشي / ضئيل",
+      "pronunciation": "ˈmɑːdʒɪnl",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان تأثير القانون الجديد هامشياً",
+          "ar": "He lives in a marginal area on the edge of the city."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_marine",
+      "en": "marine",
+      "ar": "بحري",
+      "pronunciation": "məˈriːn",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمتلك المتحف مجموعة كبيرة من الأحياء البحرية",
+          "ar": "Pollution is a major threat to the marine environment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_marketplace",
+      "en": "marketplace",
+      "ar": "سوق / ميدان التنافس",
+      "pronunciation": "ˈmɑːkɪtpleɪs",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سوق المدينة المحلي يكون دائماً مزدحماً أيام السبت",
+          "ar": "Companies must be competitive in the global marketplace."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mask",
+      "en": "mask",
+      "ar": "قناع / يخفي",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ارتدى اللصوص أقنعة لإخفاء وجوههم",
+          "ar": "She tried to mask her disappointment with a smile."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mæsk/"
+    },
+    {
+      "id": "w_c1_massacre",
+      "en": "massacre",
+      "ar": "مجزرة / مذبحة",
+      "pronunciation": "ˈmæsəkə(r)",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت القرية موقعاً لمجزرة رهيبة خلال الحرب",
+          "ar": "The international community condemned the massacre."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mathematical",
+      "en": "mathematical",
+      "ar": "رياضي (متعلق بالرياضيات)",
+      "pronunciation": "ˌmæθəˈmætɪkl",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه عبقري في الرياضيات",
+          "ar": "The model is based on complex mathematical formulas."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mature",
+      "en": "mature",
+      "ar": "ناضج / ينضج",
+      "pronunciation": "məˈtʃʊə(r)",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنها ناضجة جداً بالنسبة لعمرها",
+          "ar": "The wine needs a few more years to mature."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_maximize",
+      "en": "maximize",
+      "ar": "يعظم / يزيد إلى أقصى حد",
+      "pronunciation": "ˈmæksɪmaɪz",
+      "lessonId": "lsn_c1_m_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحن بحاجة إلى تعظيم أرباحنا هذا العام",
+          "ar": "The system is designed to maximize efficiency."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

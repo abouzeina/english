@@ -1,14 +1,42 @@
 {
   "id": "lsn_a2_s_2",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 35: S Words - Part 2",
   "slug": "s-words-2",
-  "title": "Unit 36: S Words - Part 2",
-  "titleAr": "الوحدة 36: كلمات حرف S - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter S.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف S.",
-  "order": 36,
-  "wordCount": 25,
+  "order": 35,
+  "wordCount": 21,
+  "titleAr": "الوحدة 35: كلمات حرف S - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_a2_sense",
+      "en": "sense",
+      "ar": "حواس",
+      "pronunciation": "/sens/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Humans have five senses.",
+          "ar": "البشر لديهم خمس حواس"
+        },
+        {
+          "en": "Dogs can sense their owner's emotions very well.",
+          "ar": "يمكن للكلاب أن تحس بمشاعر مالكها بشكل جيد جدًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_separate",
       "en": "separate",
@@ -79,7 +107,6 @@
       "id": "w_a2_serve",
       "en": "serve",
       "ar": "يخدم",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -95,7 +122,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/sɜːv/"
     },
     {
       "id": "w_a2_service",
@@ -153,13 +181,18 @@
         {
           "en": "Shake the bottle before using",
           "ar": "رج الزجاجة قبل الاستخدام."
+        },
+        {
+          "en": "Give me a strong shake in the morning to wake me up.",
+          "ar": "أعطني هزة قوية في الصباح لإيقاظي."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -175,28 +208,6 @@
         {
           "en": "Shall we begin?",
           "ar": "هل نبدأ ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_shape",
-      "en": "shape",
-      "ar": "شكل",
-      "pronunciation": "/fexp/",
-      "lessonId": "lsn_a2_s_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I like the shape of the building.",
-          "ar": "أحب شكل المبنى."
         }
       ],
       "type": "word",
@@ -329,7 +340,6 @@
       "id": "w_a2_side",
       "en": "side",
       "ar": "جانبية",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -345,7 +355,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/saɪd/"
     },
     {
       "id": "w_a2_sign",
@@ -403,7 +414,6 @@
       "id": "w_a2_simple",
       "en": "simple",
       "ar": "بسيطة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -419,7 +429,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈsɪmpəl/"
     },
     {
       "id": "w_a2_since",
@@ -437,35 +448,18 @@
         {
           "en": "I'll cook dinner since you're busy.",
           "ar": "سأطبخ العشاء، بما أنك مشغول :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_sing",
-      "en": "sing",
-      "ar": "غناء",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
+        },
         {
-          "en": "My little daughter enjoys singing.",
-          "ar": "ابنتي الصغيرة تستمتع بالغناء :"
+          "en": "He left last year and we haven't heard from him since.",
+          "ar": "لقد غادر العام الماضي ولم نسمع عنه منذ ذلك الحين."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high"
     },
@@ -495,7 +489,6 @@
       "id": "w_a2_sir",
       "en": "sir",
       "ar": "سيدي",
-      "pronunciation": "",
       "lessonId": "lsn_a2_s_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -511,77 +504,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_site",
-      "en": "site",
-      "ar": "موقع",
-      "pronunciation": "/sart/",
-      "lessonId": "lsn_a2_s_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali was at the site this morning.",
-          "ar": "كان علي في الموقع هذا الصباح."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_size",
-      "en": "size",
-      "ar": "حجم",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_s_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "These boxes are the same size.",
-          "ar": "هذه الصناديق من نفس الحجم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_ski",
-      "en": "ski",
-      "ar": "يتزلج / مزاليج",
-      "pronunciation": "/ski/",
-      "lessonId": "lsn_a2_s_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "You can ski on that hill.",
-          "ar": "يمكنك أن تتزلج على تلك الهضبة :"
-        },
-        {
-          "en": "They put their skis on.",
-          "ar": "لبسوا مز اليجهم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈsə(ɹ)/"
     }
   ]
 }

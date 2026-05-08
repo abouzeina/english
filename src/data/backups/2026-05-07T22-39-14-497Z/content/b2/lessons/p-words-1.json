@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_p_1",
+  "levelId": "lvl_b2",
+  "slug": "p-words-1",
+  "title": "P Words - Part 1",
+  "titleAr": "كلمات حرف P - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف P.",
+  "order": 44,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_pace",
+      "en": "pace",
+      "ar": "?????? / ???? ??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_package",
+      "en": "package",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_packet",
+      "en": "packet",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_palm",
+      "en": "palm",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_panel",
+      "en": "panel",
+      "ar": "???? ??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_panic",
+      "en": "panic",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_parade",
+      "en": "parade",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_parallel",
+      "en": "parallel",
+      "ar": "?????????? / ????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_parliament",
+      "en": "parliament",
+      "ar": "????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_part_time",
+      "en": "part-time",
+      "ar": "????? ????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_participant",
+      "en": "participant",
+      "ar": "?????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_participation",
+      "en": "participation",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_partly",
+      "en": "partly",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_partnership",
+      "en": "partnership",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_passage",
+      "en": "passage",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_passionate",
+      "en": "passionate",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_password",
+      "en": "password",
+      "ar": "???? ??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_patience",
+      "en": "patience",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_patient",
+      "en": "patient",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pause",
+      "en": "pause",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_paused",
+      "en": "paused",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_peers",
+      "en": "peers",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_penalty",
+      "en": "penalty",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pension",
+      "en": "pension",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_perceive",
+      "en": "perceive",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_1",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

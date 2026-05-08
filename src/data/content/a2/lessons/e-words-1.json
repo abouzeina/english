@@ -1,40 +1,14 @@
 {
   "id": "lsn_a2_e_1",
-  "levelId": "lvl_2",
-  "slug": "e-words-1",
+  "levelId": "lvl_a2",
   "title": "Unit 12: E Words - Part 1",
-  "titleAr": "الوحدة 12: كلمات حرف E - الجزء 1",
-  "description": "Build on your A2 vocabulary starting with the letter E.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف E.",
+  "slug": "e-words-1",
   "order": 12,
-  "wordCount": 25,
+  "wordCount": 21,
+  "titleAr": "الوحدة 12: كلمات حرف E - الجزء 1",
+  "description": "Master essential A2 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف E.",
   "words": [
-    {
-      "id": "w_a2_dry",
-      "en": "dry",
-      "ar": "جاف / يجفف",
-      "pronunciation": "/draz/",
-      "lessonId": "lsn_a2_e_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Are my clothes dry ?",
-          "ar": "هل ملابسي جافة ؟"
-        },
-        {
-          "en": "She is drying her hair.",
-          "ar": "إنها تجفف شعرها :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_earn",
       "en": "earn",
@@ -61,7 +35,6 @@
       "id": "w_a2_earth",
       "en": "Earth",
       "ar": "الأرض",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -77,7 +50,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ɜːθ/"
     },
     {
       "id": "w_a2_easily",
@@ -175,7 +149,6 @@
       "id": "w_a2_electric",
       "en": "electric",
       "ar": "كهربائية",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -191,7 +164,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/əˈlɛktɹɪk/"
     },
     {
       "id": "w_a2_electrical",
@@ -329,7 +303,6 @@
       "id": "w_a2_empty",
       "en": "empty",
       "ar": "خالية",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -345,13 +318,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈɛmpti/"
     },
     {
       "id": "w_a2_ending",
       "en": "ending",
       "ar": "نهاية",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -367,13 +340,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈɛndɪŋ/"
     },
     {
       "id": "w_a2_energy",
       "en": "energy",
       "ar": "طاقة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -389,7 +362,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈɛnəd͡ʒi/"
     },
     {
       "id": "w_a2_engine",
@@ -417,7 +391,6 @@
       "id": "w_a2_engineer",
       "en": "engineer",
       "ar": "مهندس",
-      "pronunciation": "",
       "lessonId": "lsn_a2_e_1",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -433,7 +406,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˌɛnd͡ʒɪˈnɪə/"
     },
     {
       "id": "w_a2_enormous",
@@ -491,72 +465,6 @@
         {
           "en": "a positive learning environment.",
           "ar": "إنها بيئة تعلم إيجابية :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_equipment",
-      "en": "equipment",
-      "ar": "معدات",
-      "pronunciation": "/1' kwzp mənt/",
-      "lessonId": "lsn_a2_e_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They didn't have good equipment.",
-          "ar": "لم يكن لديهم معدات جيد :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_error",
-      "en": "error",
-      "ar": "خطأ",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_e_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Did you find any errors?",
-          "ar": "هل وجدت أي أخطاء ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_especially",
-      "en": "especially",
-      "ar": "خاصة",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_e_1",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She likes fruit, especially apples.",
-          "ar": "هي تحب الفاكهة، وخاصة التفاح :"
         }
       ],
       "type": "word",

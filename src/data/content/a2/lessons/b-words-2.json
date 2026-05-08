@@ -1,19 +1,18 @@
 {
   "id": "lsn_a2_b_2",
-  "levelId": "lvl_2",
-  "slug": "b-words-2",
+  "levelId": "lvl_a2",
   "title": "Unit 5: B Words - Part 2",
-  "titleAr": "الوحدة 5: كلمات حرف B - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter B.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف B.",
+  "slug": "b-words-2",
   "order": 5,
   "wordCount": 21,
+  "titleAr": "الوحدة 5: كلمات حرف B - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف B.",
   "words": [
     {
       "id": "w_a2_biscuit",
       "en": "biscuit",
       "ar": "بسكويت",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -29,13 +28,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈbɪskɪt/"
     },
     {
       "id": "w_a2_bit",
       "en": "bit",
       "ar": "بعض الشيء / قليلا",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -51,7 +50,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɪt/"
     },
     {
       "id": "w_a2_blank",
@@ -83,7 +83,6 @@
       "id": "w_a2_blood",
       "en": "blood",
       "ar": "دم",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -99,7 +98,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/blʊd/"
     },
     {
       "id": "w_a2_blow",
@@ -113,13 +113,19 @@
         {
           "en": "The wind is blowing south.",
           "ar": "الرياح تهب جنوبًا"
+        },
+        {
+          "en": "Ali received two blows on the head.",
+          "ar": "تلقى علي ضربتين على رأسه."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -127,7 +133,6 @@
       "id": "w_a2_board",
       "en": "board",
       "ar": "لوح",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -143,7 +148,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɔːd/"
     },
     {
       "id": "w_a2_boil",
@@ -179,28 +185,6 @@
         {
           "en": "Dates are good for the bones.",
           "ar": "التمر مفيد للعظام"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_book",
-      "en": "book",
-      "ar": "يحجز",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_b_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He booked a flight to Jeddah.",
-          "ar": "حجز رحلة إلى جدة"
         }
       ],
       "type": "word",
@@ -285,7 +269,6 @@
       "id": "w_a2_bowl",
       "en": "bowl",
       "ar": "زبدية / وعاء",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -301,13 +284,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bəʊɫ/"
     },
     {
       "id": "w_a2_brain",
       "en": "brain",
       "ar": "دماغ",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -323,13 +306,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɹeɪn/"
     },
     {
       "id": "w_a2_bridge",
       "en": "bridge",
       "ar": "جسر",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -345,13 +328,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɹɪd͡ʒ/"
     },
     {
       "id": "w_a2_bright",
       "en": "bright",
       "ar": "مشرق",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -367,7 +350,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɹaɪt/"
     },
     {
       "id": "w_a2_brilliant",
@@ -395,7 +379,6 @@
       "id": "w_a2_broken",
       "en": "broken",
       "ar": "معطل / مكسور",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -411,13 +394,13 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈbɹəʊkən/"
     },
     {
       "id": "w_a2_brush",
       "en": "brush",
       "ar": "فرشاة / ينظف بالفرشاة",
-      "pronunciation": "",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -437,7 +420,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/bɹʌʃ/"
     },
     {
       "id": "w_a2_burn",
@@ -451,6 +435,33 @@
         {
           "en": "This wood won't burn.",
           "ar": "هذا الخشب لن يحترق"
+        },
+        {
+          "en": "He suffered serious burns but survived.",
+          "ar": "أصيب بحروق خطيرة لكنه نجا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core",
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_businessman",
+      "en": "businessman",
+      "ar": "رجل أعمال",
+      "lessonId": "lsn_a2_b_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He's a successful businessman",
+          "ar": "إنه رجل أعمال ناجح."
         }
       ],
       "type": "word",
@@ -459,20 +470,21 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈbɪznəsmən/"
     },
     {
-      "id": "w_a2_businessman",
-      "en": "businessman",
-      "ar": "رجل أعمال",
-      "pronunciation": "",
+      "id": "w_a2_button",
+      "en": "button",
+      "ar": "زر",
+      "pronunciation": "/'bat-ən/",
       "lessonId": "lsn_a2_b_2",
       "levelId": "lvl_2",
       "categoryId": "general",
       "examples": [
         {
-          "en": "He's a successful businessman",
-          "ar": "إنه رجل أعمال ناجح."
+          "en": "Press the button to turn on the machine.",
+          "ar": "اضغط على الزر لتشغيل الآلة."
         }
       ],
       "type": "word",

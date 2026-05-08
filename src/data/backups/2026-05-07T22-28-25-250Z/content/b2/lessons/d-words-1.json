@@ -1,0 +1,575 @@
+{
+  "id": "lsn_b2_d_1",
+  "levelId": "lvl_b2",
+  "slug": "d-words-1",
+  "title": "D Words - Part 1",
+  "titleAr": "كلمات حرف D - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter D.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف D.",
+  "order": 16,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_dairy",
+      "en": "dairy",
+      "ar": "الألبان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Is there a shop here that sells dairy products ?",
+          "ar": "هل يوجد محل هنا يبيع منتجات الألبان ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_dares",
+      "en": "dares",
+      "ar": "يجرؤ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Nobody dares to enter this abandoned house.",
+          "ar": "لا أحد يجرؤ على دخول هذا المنزل المهجور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_darkness",
+      "en": "darkness",
+      "ar": "الظلام",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We heard noise in the darkness.",
+          "ar": "سمعنا ضجيجا في الظلام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_database",
+      "en": "database",
+      "ar": "قاعدة بيانات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We need a large database to store all this information.",
+          "ar": "نحن بحاجة إلى قاعدة بيانات كبيرة لتخزين كل هذه المعلومات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_dated",
+      "en": "dated",
+      "ar": "المؤرخة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Thank you for your letter dated 5th June.",
+          "ar": "شكرا لك على رسالتك المؤرخة في الخامس من يونيو."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_deadline",
+      "en": "deadline",
+      "ar": "الموعد النهائي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The deadline for this assignment is May 31st.",
+          "ar": "الموعد النهائي لهذا الواجب هو الواحد والثلاثون من مايو."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_deadly",
+      "en": "deadly",
+      "ar": "الفتاك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Put this deadly weapon aside.",
+          "ar": "ضع هذا السلاح الفتاك جانباً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_dealer",
+      "en": "dealer",
+      "ar": "تاجر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I bought my car from a reliable dealer.",
+          "ar": "اشتريت سيارتي من تاجر موثوق"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_debates",
+      "en": "debates",
+      "ar": "مناظرات / يتناظران",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My friend likes to watch religious debates.",
+          "ar": "صديقي يحب مشاهدة المناظرات الدينية ؟"
+        },
+        {
+          "en": "The two candidates will debate in public.",
+          "ar": "المرشحان سوف يتناظران علنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_debts",
+      "en": "debts",
+      "ar": "ديوني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Finally, I paid all my debts.",
+          "ar": "أخيرا، دفعت جميع ديوني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_decent",
+      "en": "decent",
+      "ar": "لائقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Get a decent job and stop wasting time.",
+          "ar": "احصل على وظيفة لائقة وتوقف عن إضاعة الوقت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_deck",
+      "en": "deck",
+      "ar": "سطح السفينة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "All passengers are waiting on the deck.",
+          "ar": "جميع الركاب ينتظرون على سطح السفينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_declared",
+      "en": "declared",
+      "ar": "أعلنت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The authorities have declared a state of emergency.",
+          "ar": "أعلنت السلطات حالة الطوارئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_decline",
+      "en": "decline",
+      "ar": "تراجعًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company is facing a huge decline in sales.",
+          "ar": "تواجه الشركة تراجعًا كبيرًا في المبيعات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_declined",
+      "en": "declined",
+      "ar": "رفضوا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Unfortunately, they declined our invitation.",
+          "ar": "لسوء الحظ، رفضوا دعوتنا"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_decorations",
+      "en": "decorations",
+      "ar": "زينة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We need some decorations to welcome our guests.",
+          "ar": "نحن بحاجة إلى بعض الزينة للترحيب بضيوفنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_decrease",
+      "en": "decrease",
+      "ar": "تقلل / انخفاض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is a decrease in the level of pollution this year.",
+          "ar": "هناك انخفاض في مستوى التلوث هذا العام."
+        },
+        {
+          "en": "You should decrease the amount of fat you eat.",
+          "ar": "يجب عليك أن تقلل كمية الدهون التي تتناولها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_deeply",
+      "en": "deeply",
+      "ar": "للغاية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am deeply grateful for your support.",
+          "ar": "أنا ممتن للغاية لدعمكم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_defeat",
+      "en": "defeat",
+      "ar": "أهزمك / الهزيمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Accept defeat and keep trying.",
+          "ar": "تقبل الهزيمة واستمر في المحاولة."
+        },
+        {
+          "en": "One day, I will defeat you.",
+          "ar": "ذات يوم، سوف أهزمك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_defend",
+      "en": "defend",
+      "ar": "يدافع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I don't need anyone to defend me.",
+          "ar": "لا أحتاج لمن يدافع عني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_defender",
+      "en": "defender",
+      "ar": "مدافع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I will play as a defender in tomorrow's match.",
+          "ar": "سألعب كمدافع في مباراة الغد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_defense",
+      "en": "defense",
+      "ar": "دفاع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He claims that he killed him in self-defense.",
+          "ar": "يدعي أنه قتله دفاعًا عن النفس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_delay",
+      "en": "delay",
+      "ar": "تأخير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We apologize for the delay in our program today.",
+          "ar": "نعتذر عن التأخير في برنامجنا اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_delayed",
+      "en": "delayed",
+      "ar": "تأخرت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The flight number 503 was delayed.",
+          "ar": "الرحلة رقم 503 قد تأخرت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_deleted",
+      "en": "deleted",
+      "ar": "حذفت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I accidentally deleted all my files.",
+          "ar": "حذفت جميع ملفاتي عن طريق الخطأ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

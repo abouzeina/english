@@ -20,7 +20,19 @@ export async function getLevels(): Promise<Level[]> {
 }
 
 export async function getLevel(slug: string): Promise<Level | null> {
-  return await loadFromCache(`level_${slug}`, path.join(CONTENT_DIR, slug, 'metadata.json'));
+  const filePath = path.join(CONTENT_DIR, slug, 'metadata.json');
+  if (fs.existsSync(filePath)) {
+    return await loadFromCache(`level_${slug}`, filePath);
+  }
+  
+  // Fallback: If not found, check if 'slug' is actually an ID and find its real slug
+  const levels = await getLevels();
+  const level = levels.find(l => l.id === slug || l.slug === slug);
+  if (level && level.slug !== slug) {
+    return getLevel(level.slug);
+  }
+  
+  return null;
 }
 
 export async function getLessons(levelSlug: string): Promise<Lesson[]> {
@@ -44,6 +56,19 @@ export async function getCategoryWords(categoryId: string): Promise<(Category & 
   return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 }
 
+export async function getSubcategoryWords(categoryId: string, subId: string) {
+  const category = await getCategoryWords(categoryId);
+  if (!category || !category.subcategories) return null;
+  
+  const sub = category.subcategories.find(s => s.id === subId);
+  if (!sub) return null;
+  
+  return {
+    category,
+    subcategory: sub
+  };
+}
+
 let cachedSearchIndex: any[] | null = null;
 
 export async function searchWords(query: string): Promise<any[]> {
@@ -56,9 +81,50 @@ export async function searchWords(query: string): Promise<any[]> {
     }
   }
   
-  const q = query.toLowerCase();
-  return cachedSearchIndex!.filter((w: any) => 
-    w.en.toLowerCase().includes(q) || 
-    w.ar.includes(q)
-  ).slice(0, 50);
+  const normalizeText = (t: string) => {
+    if (!t) return "";
+    return t
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "") // Remove diacritics
+      .replace(/['"‘“”’]/g, "'") // Normalize smart quotes
+      .toLowerCase()
+      .trim();
+  };
+
+  const q = normalizeText(query);
+  if (q.length < 2) return [];
+
+  const seen = new Set<string>();
+  const results: any[] = [];
+
+  for (const w of cachedSearchIndex!) {
+    const en = normalizeText(w.en);
+    const ar = normalizeText(w.ar);
+    
+    // Strict matching logic to prevent "o" from matching "Good morning"
+    const isEnMatch = en === q || en.startsWith(q) || en.includes(` ${q}`);
+    const isArMatch = ar.includes(q);
+
+    if (isEnMatch || isArMatch) {
+      const uniqueKey = `${en}|${ar}`;
+      if (!seen.has(uniqueKey)) {
+        seen.add(uniqueKey);
+        results.push(w);
+      }
+    }
+    
+    if (results.length >= 30) break; // Cap results early for performance
+  }
+
+  // Sort: exact match first, then prefix, then rest
+  return results.sort((a, b) => {
+    const aEn = normalizeText(a.en);
+    const bEn = normalizeText(b.en);
+    if (aEn === q && bEn !== q) return -1;
+    if (bEn === q && aEn !== q) return 1;
+    if (aEn.startsWith(q) && !bEn.startsWith(q)) return -1;
+    if (!aEn.startsWith(q) && bEn.startsWith(q)) return 1;
+    // Deterministic tie-breaker
+    return aEn.localeCompare(bEn);
+  });
 }

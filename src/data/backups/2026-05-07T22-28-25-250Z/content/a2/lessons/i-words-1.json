@@ -1,0 +1,583 @@
+{
+  "id": "lsn_a2_i_1",
+  "levelId": "lvl_2",
+  "slug": "i-words-1",
+  "title": "Unit 19: I Words - Part 1",
+  "titleAr": "الوحدة 19: كلمات حرف I - الجزء 1",
+  "description": "Build on your A2 vocabulary starting with the letter I.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف I.",
+  "order": 19,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_a2_hurt",
+      "en": "hurt",
+      "ar": "تؤلم / مصاب",
+      "pronunciation": "/h3rt/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Does it hurt?",
+          "ar": "هل تؤلم : ؟"
+        },
+        {
+          "en": "The hurt player didn't play with the team",
+          "ar": "اللاعب المصاب لم يلعب مع الفريق :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ideal",
+      "en": "ideal",
+      "ar": "مثالي",
+      "pronunciation": "/ar'di-əl/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Describe to us your ideal breakfast.",
+          "ar": "صفي لنا فطورك المثالي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_identify",
+      "en": "identify",
+      "ar": "يتعرف على",
+      "pronunciation": "/ax'den  , fax/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you think you can identify Ahmed ?",
+          "ar": "هل تعتقد أنك تستطيع أن تتعرف على على أحمد : يَتَعَرَّف على : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_ill",
+      "en": "ill",
+      "ar": "مريض",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Maybe he was ill.",
+          "ar": "ربما كان مريضًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_illness",
+      "en": "illness",
+      "ar": "مرض",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She has returned to work after illness.",
+          "ar": "عادت إلى العمل بعد المرض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_image",
+      "en": "image",
+      "ar": "صورة",
+      "pronunciation": "/ 1m-1d3/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is the image of his father.",
+          "ar": "إنه صورة والده :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_immediately",
+      "en": "immediately",
+      "ar": "فورا",
+      "pronunciation": "/ mi-di-at-li/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Could we start immediately?",
+          "ar": "هل يمكن أن نبدأ فورًا : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_impossible",
+      "en": "impossible",
+      "ar": "مستحيل",
+      "pronunciation": "/ım'pa sə bəl/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She's asking for the impossible.",
+          "ar": "إنها تطلب المستحيل :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_include",
+      "en": "include",
+      "ar": "مشمول",
+      "pronunciation": "/ın'klud/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is lunch included in this price?",
+          "ar": "هل الغداء مشمول في هذا السعر : يَتَضَمَّن يَشْمَل : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_including",
+      "en": "including",
+      "ar": "بما في ذلك",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Everyone can join, including children.",
+          "ar": "يمكن للجميع الانضمام، بما في ذلك الأطفال :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_increase",
+      "en": "increase",
+      "ar": "يرتفع / زيادة",
+      "pronunciation": "/ın kris/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The price will increase.",
+          "ar": "سوف يرتفع السعر : يزيد :"
+        },
+        {
+          "en": "An increase in the number of cars will affect the environment",
+          "ar": "زيادة عدد السيارات سيؤثر على البيئة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_incredible",
+      "en": "incredible",
+      "ar": "رائع / مذهل",
+      "pronunciation": "/ın kred  bəl/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What an incredible show !!",
+          "ar": "يا له من عرض رائع : بشكل لا يُصَدِّق : هائل : !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_independent",
+      "en": "independent",
+      "ar": "مستقلة",
+      "pronunciation": "/ın.dı pen.dənt/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Algeria became independent in 1962.",
+          "ar": "أصبحت الجزائر مستقلة في 1962."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_individual",
+      "en": "individual",
+      "ar": "أفراد / فردية",
+      "pronunciation": "/ın.də vıdz.u.ǝl/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The competition is open to both teams and individuals.",
+          "ar": "المسابقة مفتوحة لكل من الفرق والأفراد :"
+        },
+        {
+          "en": "They are just individual opinions.",
+          "ar": "إنها مجرد آراء فردية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_industry",
+      "en": "industry",
+      "ar": "صناعة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He works in the car industry.",
+          "ar": "هو يعمل في صناعة السيارات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_informal",
+      "en": "informal",
+      "ar": "غير رسمي / ودي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was an informal meeting.",
+          "ar": "كان اجتماع غير رسمي : ودي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_injury",
+      "en": "injury",
+      "ar": "إصابة",
+      "pronunciation": "/ın dzər i/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Move carefully to avoid injury.",
+          "ar": "تحرك بحذر لتجنب الإصابة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_insect",
+      "en": "insect",
+      "ar": "حشرات",
+      "pronunciation": "/In-sekt/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "His hobby is collecting insects.",
+          "ar": "هوايته هي جميع الحشرات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_inside",
+      "en": "inside",
+      "ar": "داخلي / داخل",
+      "pronunciation": "/ın said/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He broke the inside door.",
+          "ar": "هو كسر الباب الداخلي :"
+        },
+        {
+          "en": "I don't want to stay inside all day.",
+          "ar": "لا أريد البقاء بالداخل طوال اليوم :"
+        },
+        {
+          "en": "Look inside the box.",
+          "ar": "انظر داخل الصندوق :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_instead",
+      "en": "instead",
+      "ar": "بدلا من",
+      "pronunciation": "/in'sted/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I drink coffee instead of milk.",
+          "ar": "أشرب القهوة بدلاً من الحليب :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_instruction",
+      "en": "instruction",
+      "ar": "تعليمات",
+      "pronunciation": "/ın strak fən/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Follow the instructions.",
+          "ar": "اتبع التعليمات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_instructor",
+      "en": "instructor",
+      "ar": "مدرب / معلم",
+      "pronunciation": "/ın strak-tər/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali is a driving instructor.",
+          "ar": "علي مدرب قيادة : مُعَلَّم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_instrument",
+      "en": "instrument",
+      "ar": "آلات موسيقية",
+      "pronunciation": "/ ın strə mənt/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I play many instruments.",
+          "ar": "أعزف على عدة آلات موسيقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_intelligent",
+      "en": "intelligent",
+      "ar": "ذكية",
+      "pronunciation": "/ın tel-1-dzənt/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Dolphins are intelligent animals.",
+          "ar": "الدلافين حيوانات ذكية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_international",
+      "en": "international",
+      "ar": "دولية",
+      "pronunciation": "/ ın tər næfə nəl/",
+      "lessonId": "lsn_a2_i_1",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali worked for an international company.",
+          "ar": "عمل علي في شركة دولية :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

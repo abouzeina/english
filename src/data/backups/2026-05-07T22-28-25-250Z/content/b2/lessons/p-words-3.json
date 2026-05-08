@@ -1,0 +1,438 @@
+{
+  "id": "lsn_b2_p_3",
+  "levelId": "lvl_b2",
+  "slug": "p-words-3",
+  "title": "P Words - Part 3",
+  "titleAr": "كلمات حرف P - الجزء 3",
+  "description": "Learn essential B2 vocabulary starting with the letter P.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف P.",
+  "order": 46,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_potential",
+      "en": "potential",
+      "ar": "???????? / ??????? / ?? ???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_power",
+      "en": "power",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_praise",
+      "en": "praise",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_praised",
+      "en": "praised",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_precede",
+      "en": "precede",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_precious",
+      "en": "precious",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_precise",
+      "en": "precise",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_precisely",
+      "en": "precisely",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_predictable",
+      "en": "predictable",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_preferences",
+      "en": "preferences",
+      "ar": "??????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pregnant",
+      "en": "pregnant",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_preparation",
+      "en": "preparation",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_presence",
+      "en": "presence",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_preserve",
+      "en": "preserve",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_price",
+      "en": "price",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_pride",
+      "en": "pride",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_primarily",
+      "en": "primarily",
+      "ar": "?? ?????? ?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_prime",
+      "en": "prime",
+      "ar": "???? ???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_principal",
+      "en": "principal",
+      "ar": "?????? ???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_principle",
+      "en": "principle",
+      "ar": "????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_print",
+      "en": "print",
+      "ar": "???????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_prior",
+      "en": "prior",
+      "ar": "?????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_priority",
+      "en": "priority",
+      "ar": "??????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_privacy",
+      "en": "privacy",
+      "ar": "????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_probability",
+      "en": "probability",
+      "ar": "????????",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

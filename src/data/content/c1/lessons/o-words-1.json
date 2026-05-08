@@ -1,0 +1,348 @@
+{
+  "id": "lsn_c1_o_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 27: O Words - Part 1",
+  "slug": "o-words-1",
+  "order": 27,
+  "wordCount": 15,
+  "titleAr": "الوحدة 27: كلمات حرف O - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter O.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف O.",
+  "words": [
+    {
+      "id": "w_c1_obesity",
+      "en": "obesity",
+      "ar": "سمنة مفرطة",
+      "pronunciation": "əʊˈbiːsəti",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "السمنة المفرطة هي سبب رئيسي لأمراض القلب",
+          "ar": "The government is launching a campaign to tackle childhood obesity."
+        },
+        {
+          "en": "Obesity increases the risk of various health problems.",
+          "ar": "تزيد السمنة من خطر الإصابة بمشاكل صحية متعددة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_objection",
+      "en": "objection",
+      "ar": "اعتراض",
+      "pronunciation": "əbˈdʒekʃn",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ليس لدي أي اعتراض على خطتك",
+          "ar": "The lawyer raised an objection during the trial."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_oblige",
+      "en": "oblige",
+      "ar": "يلزم / يجبر",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يلزم القانون الآباء بإرسال أطفالهم إلى المدرسة",
+          "ar": "I would be happy to oblige if you need any help."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈblaɪdʒ/"
+    },
+    {
+      "id": "w_c1_obsess",
+      "en": "obsess",
+      "ar": "يستحوذ على التفكير / يهوّس",
+      "pronunciation": "əbˈses",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تميل إلى الهوس بالتفاصيل الصغيرة",
+          "ar": "The idea of winning the competition obsessed him."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_obsession",
+      "en": "obsession",
+      "ar": "هوس / استحواذ فكري",
+      "pronunciation": "əbˈseʃn",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأ هوسه بالنظافة يؤثر على حياته",
+          "ar": "Fitness has become an obsession for many people."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_obsessive",
+      "en": "obsessive",
+      "ar": "هوسي / استحواذي",
+      "pronunciation": "əbˈsesɪv",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لديه اهتمام هوسي بالتفاصيل",
+          "ar": "Her behavior became increasingly obsessive."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_occurrence",
+      "en": "occurrence",
+      "ar": "حدوث / واقعة",
+      "pronunciation": "əˈkʌrəns",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعتبر انقطاعات الكهرباء واقعة شائعة خلال فصل الشتاء",
+          "ar": "The police are investigating the strange occurrence."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_odds",
+      "en": "odds",
+      "ar": "احتمالات / فرص",
+      "pronunciation": "ɒdz",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "احتمالات الفوز باليانصيب منخفضة للغاية",
+          "ar": "She succeeded against all the odds."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_offering",
+      "en": "offering",
+      "ar": "عرض / تقديم / أضحية",
+      "pronunciation": "ˈɒfərɪŋ",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يقوم المتحف بتوسيع عروضه التعليمية",
+          "ar": "The villagers brought offerings of food to the temple."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_offspring",
+      "en": "offspring",
+      "ar": "ذرية / نتاج",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحمي الطيور ذريتها من الحيوانات المفترسة",
+          "ar": "They are proud of the achievements of their offspring."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɒfspɹɪŋ/"
+    },
+    {
+      "id": "w_c1_operational",
+      "en": "operational",
+      "ar": "تشغيلي / جاهز للعمل",
+      "pronunciation": "ˌɒpəˈreɪʃənl",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيصبح المصنع الجديد جاهزاً للعمل الشهر المقبل",
+          "ar": "We are facing some operational difficulties at the moment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_opt",
+      "en": "opt",
+      "ar": "يختار / يقرر",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يختار العديد من الطلاب الدراسة في الخارج بعد التخرج",
+          "ar": "We decided to opt for the cheaper alternative."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɒpt/"
+    },
+    {
+      "id": "w_c1_optical",
+      "en": "optical",
+      "ar": "بصري",
+      "pronunciation": "ˈɒptɪkl",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعتبر السرابات أوهاماً بصرية شائعة في الصحراء",
+          "ar": "The device uses advanced optical sensors."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_optimism",
+      "en": "optimism",
+      "ar": "تفاؤل",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هناك شعور متزايد بالتفاؤل بشأن الاقتصاد",
+          "ar": "She has a natural optimism that keeps her going."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɒptɪmɪzəm/"
+    },
+    {
+      "id": "w_c1_oral",
+      "en": "oral",
+      "ar": "شفهي / فموي",
+      "lessonId": "lsn_c1_o_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب على الطلاب أداء امتحان شفهي في اللغة الفرنسية",
+          "ar": "Poor oral hygiene can lead to tooth decay."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɒɹəl/"
+    }
+  ]
+}

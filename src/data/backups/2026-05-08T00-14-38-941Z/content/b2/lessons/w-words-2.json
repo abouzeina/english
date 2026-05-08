@@ -1,0 +1,197 @@
+{
+  "id": "lsn_b2_w_2",
+  "levelId": "lvl_b2",
+  "slug": "w-words-2",
+  "title": "W Words - Part 2",
+  "titleAr": "كلمات حرف W - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter W.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف W.",
+  "order": 61,
+  "wordCount": 8,
+  "words": [
+    {
+      "id": "w_b2_workshop",
+      "en": "workshop",
+      "ar": "ورشة العمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The workshop covered basic photography techniques.",
+          "ar": "غطت ورشة العمل التقنيات الأساسية للتصوير الفوتوغرافي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_worms",
+      "en": "worms",
+      "ar": "الديدان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Birds love eating worms early in the morning.",
+          "ar": "تحب الطيور تناول الديدان في الصباح الباكر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_worse",
+      "en": "worse",
+      "ar": "أسوأ / أسوأ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They feared worse but remained optimistic.",
+          "ar": "كانوا يخشون ما هو أسوأ لكنهم ظلوا متفائلين."
+        },
+        {
+          "en": "They saw the worst in human nature that day.",
+          "ar": "لقد رأوا أسوأ ما في الطبيعة البشرية في ذلك اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_worth",
+      "en": "worth",
+      "ar": "قيمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Knowledge has more worth than material possessions.",
+          "ar": "المعرفة لها قيمة أكبر من الممتلكات المادية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wound",
+      "en": "wound",
+      "ar": "جرحه / جرح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His deep wound needed immediate medical attention.",
+          "ar": "كان جرحه العميق بحاجة إلى عناية طبية فورية."
+        },
+        {
+          "en": "The sharp glass wounded my foot badly.",
+          "ar": "الزجاج الحاد جرح قدمي بشدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wrapped",
+      "en": "wrapped",
+      "ar": "غلفت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I wrapped the gift in colorful paper.",
+          "ar": "غلفت الهدية بورق ملون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wrist",
+      "en": "wrist",
+      "ar": "معصمه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His wrist hurt after playing tennis all day.",
+          "ar": "أصيب معصمه بعد لعب التنس طوال اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wrong",
+      "en": "wrong",
+      "ar": "الخطأ",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The wrong he committed hurt many innocent people.",
+          "ar": "الخطأ الذي ارتكبه قد أضر بالعديد من الأبرياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

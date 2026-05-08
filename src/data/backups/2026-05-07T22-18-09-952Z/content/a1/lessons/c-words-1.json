@@ -1,0 +1,599 @@
+{
+  "id": "lsn_a1_c_1",
+  "levelId": "lvl_1",
+  "title": "C Words - Part 1",
+  "slug": "c-words-1",
+  "order": 6,
+  "wordCount": 25,
+  "titleAr": "كلمات حرف C - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter C.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_a1_bye",
+      "lessonId": "lsn_a1_c_1",
+      "en": "bye",
+      "translation": "مع السلامة / وداعاً",
+      "ar": "مع السلامة / وداعاً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Bye, see you tomorrow.",
+          "ar": "مع السلامة أراك غدًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cafe",
+      "lessonId": "lsn_a1_c_1",
+      "en": "cafe",
+      "translation": "مقهى",
+      "ar": "مقهى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "There is a cafe near the park.",
+          "ar": "يوجد مقهى بالقرب من الحديقة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cake",
+      "lessonId": "lsn_a1_c_1",
+      "en": "cake",
+      "translation": "كعكة",
+      "ar": "كعكة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He ate the last piece of cake.",
+          "ar": "أكل آخر قطعة من الكعكة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_call",
+      "lessonId": "lsn_a1_c_1",
+      "en": "call",
+      "translation": "يتصل / يطلق اسم / مكالمة",
+      "ar": "يتصل / يطلق اسم / مكالمة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I got a call from work.",
+          "ar": "تلقيت مكالمة من العمل."
+        },
+        {
+          "en": "I'll call you later.",
+          "ar": "سأتصل بك لاحقاً."
+        },
+        {
+          "en": "They call their cat kitty.",
+          "ar": "يسمون قطتهم كيتي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_camera",
+      "lessonId": "lsn_a1_c_1",
+      "en": "camera",
+      "translation": "كاميرا",
+      "ar": "كاميرا",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She took a photo with her camera.",
+          "ar": "لقد التقطت صورة بكاميرتها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_can",
+      "lessonId": "lsn_a1_c_1",
+      "en": "can",
+      "translation": "يستطيع",
+      "ar": "يستطيع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I can help you.",
+          "ar": "أستطيع مساعدتك."
+        },
+        {
+          "en": "Can you cook?",
+          "ar": "هل تستطيعين أن تطبخي؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cannot",
+      "lessonId": "lsn_a1_c_1",
+      "en": "cannot",
+      "translation": "لا يستطيع",
+      "ar": "لا يستطيع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I cannot hear you.",
+          "ar": "لا أستطيع سماعك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_capital",
+      "lessonId": "lsn_a1_c_1",
+      "en": "capital",
+      "translation": "عاصمة / حروف كبيرة",
+      "ar": "عاصمة / حروف كبيرة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "What is the capital of Germany?",
+          "ar": "ما هي عاصمة ألمانيا؟"
+        },
+        {
+          "en": "Muscat is the capital of Oman.",
+          "ar": "مسقط هي عاصمة سلطنة عمان."
+        },
+        {
+          "en": "Names always start with capitals.",
+          "ar": "تبدأ الأسماء دائماً بحروف كبيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_car",
+      "lessonId": "lsn_a1_c_1",
+      "en": "car",
+      "translation": "سيارة",
+      "ar": "سيارة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He drives a red car to work.",
+          "ar": "إنه يقود سيارة حمراء إلى العمل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_card",
+      "lessonId": "lsn_a1_c_1",
+      "en": "card",
+      "translation": "بطاقة / ورق مقوى",
+      "ar": "بطاقة / ورق مقوى",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Write your name on this card.",
+          "ar": "اكتب اسمك على هذه البطاقة."
+        },
+        {
+          "en": "She lost her library card.",
+          "ar": "لقد أضاعت بطاقة المكتبة الخاصة بها."
+        },
+        {
+          "en": "I usually draw on cards.",
+          "ar": "عادة ما أرسم على ورق مقوى."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_career",
+      "lessonId": "lsn_a1_c_1",
+      "en": "career",
+      "translation": "مجال / عمل / مسيرة مهنية",
+      "ar": "مجال / عمل / مسيرة مهنية",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She wants a career in design.",
+          "ar": "ترغب العمل في مجال التصميم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_carrot",
+      "lessonId": "lsn_a1_c_1",
+      "en": "carrot",
+      "translation": "جزر",
+      "ar": "جزر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I drank a glass of carrot juice.",
+          "ar": "شربت كوباً من عصير الجزر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_carrying",
+      "lessonId": "lsn_a1_c_1",
+      "en": "carrying",
+      "translation": "تحمل",
+      "ar": "تحمل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She was carrying a large bag.",
+          "ar": "كانت تحمل حقيبة كبيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cat",
+      "lessonId": "lsn_a1_c_1",
+      "en": "cat",
+      "translation": "قطة",
+      "ar": "قطة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His cat loves to climb trees.",
+          "ar": "قطته تحب تسلق الأشجار."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cd",
+      "lessonId": "lsn_a1_c_1",
+      "en": "CD",
+      "translation": "قرص مدمج",
+      "ar": "قرص مدمج",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I bought a new CD today.",
+          "ar": "اشتريت قرصاً مدمجاً جديداً اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cents",
+      "lessonId": "lsn_a1_c_1",
+      "en": "cents",
+      "translation": "سنت",
+      "ar": "سنت",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The apple costs fifty cents.",
+          "ar": "يبلغ سعر التفاحة خمسين سنتاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_city_center",
+      "lessonId": "lsn_a1_c_1",
+      "en": "city center",
+      "translation": "وسط المدينة",
+      "ar": "وسط المدينة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She lives in the city center.",
+          "ar": "إنها تعيش في وسط المدينة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_century",
+      "lessonId": "lsn_a1_c_1",
+      "en": "century",
+      "translation": "قرن",
+      "ar": "قرن",
+      "pronunciation": "/'sen tfər-i/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We are living in the 21st century.",
+          "ar": "نحن نعيش في القرن الحادي والعشرين."
+        },
+        {
+          "en": "This building is over a century old.",
+          "ar": "هذا المبنى عمره أكثر من قرن من الزمان."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_chair",
+      "lessonId": "lsn_a1_c_1",
+      "en": "chair",
+      "translation": "كرسي",
+      "ar": "كرسي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The chair in my office is old.",
+          "ar": "الكرسي في مكتبي قديم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_change",
+      "lessonId": "lsn_a1_c_1",
+      "en": "change",
+      "translation": "يبدل / تغيير",
+      "ar": "يبدل / تغيير",
+      "pronunciation": "/tfeind3/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I need to change my clothes.",
+          "ar": "أحتاج إلى أن أبدل ملابسي."
+        },
+        {
+          "en": "They made a small change to the plan.",
+          "ar": "لقد أجروا تغييراً بسيطاً على الخطة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_chart",
+      "lessonId": "lsn_a1_c_1",
+      "en": "chart",
+      "translation": "رسم بياني",
+      "ar": "رسم بياني",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you explain this chart?",
+          "ar": "هل يمكنك شرح هذا الرسم البياني؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cheap",
+      "lessonId": "lsn_a1_c_1",
+      "en": "cheap",
+      "translation": "رخيص",
+      "ar": "رخيص",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The food here is cheap.",
+          "ar": "الطعام هنا رخيص."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_check",
+      "lessonId": "lsn_a1_c_1",
+      "en": "check",
+      "translation": "يتأكد",
+      "ar": "يتأكد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Check the time, please.",
+          "ar": "تأكد من الوقت من فضلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cheese",
+      "lessonId": "lsn_a1_c_1",
+      "en": "cheese",
+      "translation": "جبن",
+      "ar": "جبن",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This cheese is delicious.",
+          "ar": "هذا الجبن لذيذ."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_chicken",
+      "lessonId": "lsn_a1_c_1",
+      "en": "chicken",
+      "translation": "دجاج",
+      "ar": "دجاج",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We had chicken last night.",
+          "ar": "تناولنا الدجاج الليلة الماضية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

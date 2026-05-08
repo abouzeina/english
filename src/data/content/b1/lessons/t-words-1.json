@@ -1,36 +1,14 @@
 {
   "id": "lsn_b1_t_1",
   "levelId": "lvl_b1",
+  "title": "Unit 36: T Words - Part 1",
   "slug": "t-words-1",
-  "title": "Unit 39: T Words - Part 1",
-  "titleAr": "الوحدة 39: كلمات حرف T - الجزء 1",
-  "description": "Expand your intermediate vocabulary with words starting with T.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف T.",
-  "order": 39,
-  "wordCount": 25,
+  "order": 36,
+  "wordCount": 19,
+  "titleAr": "الوحدة 36: كلمات حرف T - الجزء 1",
+  "description": "Master essential B1 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف T.",
   "words": [
-    {
-      "id": "w_b1_symptoms",
-      "en": "symptoms",
-      "ar": "أعراض",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_t_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "(A): What are your symptoms? (B): A headache.",
-          "ar": "( أ ) : ما هي الأعراض التي تعاني منها ؟ : ( ب ) : صداع."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_tail",
       "en": "tail",
@@ -123,7 +101,6 @@
       "id": "w_b1_tax",
       "en": "tax",
       "ar": "ضريبة / يفرض ضرائب",
-      "pronunciation": "",
       "lessonId": "lsn_b1_t_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -143,13 +120,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/tæks/"
     },
     {
       "id": "w_b1_technical",
       "en": "technical",
       "ar": "فني",
-      "pronunciation": "",
       "lessonId": "lsn_b1_t_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -165,7 +142,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈtɛk.nɪk.əl/"
     },
     {
       "id": "w_b1_techniques",
@@ -215,7 +193,6 @@
       "id": "w_b1_tent",
       "en": "tent",
       "ar": "خيمة",
-      "pronunciation": "",
       "lessonId": "lsn_b1_t_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -231,39 +208,13 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_that",
-      "en": "that",
-      "ar": "لهذه الدرجة / إلى هذا الحد",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_t_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "It is that simple.",
-          "ar": "الأمر بهذه البساطة."
-        },
-        {
-          "en": "He never expected to be quite this successful.",
-          "ar": "لم يتوقع أبدًا أن يكون ناجحًا إلى هذا الحد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/tɛnt/"
     },
     {
       "id": "w_b1_theirs",
       "en": "theirs",
       "ar": "ملكهم / جيشهم",
-      "pronunciation": "",
       "lessonId": "lsn_b1_t_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -279,7 +230,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ðɛəz/"
     },
     {
       "id": "w_b1_theme",
@@ -307,7 +259,6 @@
       "id": "w_b1_theory",
       "en": "theory",
       "ar": "نظرية",
-      "pronunciation": "",
       "lessonId": "lsn_b1_t_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -323,7 +274,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈθiːəɹi/"
     },
     {
       "id": "w_b1_therefore",
@@ -351,7 +303,6 @@
       "id": "w_b1_though",
       "en": "Though",
       "ar": "على الرغم من / لكن",
-      "pronunciation": "",
       "lessonId": "lsn_b1_t_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -371,7 +322,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ðəʊ/"
     },
     {
       "id": "w_b1_throat",
@@ -465,7 +417,6 @@
       "id": "w_b1_tin",
       "en": "tin",
       "ar": "علبة (معدنية)",
-      "pronunciation": "",
       "lessonId": "lsn_b1_t_1",
       "levelId": "lvl_b1",
       "categoryId": "general",
@@ -481,95 +432,8 @@
         "B1",
         "core"
       ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_tiny",
-      "en": "tiny",
-      "ar": "ضئيلة / صغير جداً",
-      "pronunciation": "/ tar-ni/",
-      "lessonId": "lsn_b1_t_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I can't eat but a tiny amount of food.",
-          "ar": "لا أستطيع أن آكل إلا كمية ضئيلة من الطعام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_tipped",
-      "en": "tipped",
-      "ar": "إكرامية",
-      "pronunciation": "/txp/",
-      "lessonId": "lsn_b1_t_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I tipped the waiter already.",
-          "ar": "لقد أعطيت النادل إكرامية بالفعل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_toes",
-      "en": "toes",
-      "ar": "أصابع قدم",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_t_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "My toes are frozen.",
-          "ar": "أصابع قدمي متجمدة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_tongue",
-      "en": "tongue",
-      "ar": "لسان",
-      "pronunciation": "/τη/",
-      "lessonId": "lsn_b1_t_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He bit his tongue while he was eating.",
-          "ar": "عض لسانه بينما كان يأكل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/tɪn/"
     }
   ]
 }

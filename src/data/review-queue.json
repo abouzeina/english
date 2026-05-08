@@ -1,0 +1,2077 @@
+{
+  "misplaced": [
+    {
+      "id": "w_b2_back",
+      "en": "back",
+      "level": "b2",
+      "lesson": "lsn_b2_b_1"
+    },
+    {
+      "id": "w_b2_bar",
+      "en": "bar",
+      "level": "b2",
+      "lesson": "lsn_b2_b_1"
+    },
+    {
+      "id": "w_b2_bat",
+      "en": "bat",
+      "level": "b2",
+      "lesson": "lsn_b2_b_1"
+    },
+    {
+      "id": "w_b2_bear",
+      "en": "bear",
+      "level": "b2",
+      "lesson": "lsn_b2_b_1"
+    },
+    {
+      "id": "w_b2_burn",
+      "en": "burn",
+      "level": "b2",
+      "lesson": "lsn_b2_b_3"
+    },
+    {
+      "id": "w_b2_but",
+      "en": "but",
+      "level": "b2",
+      "lesson": "lsn_b2_b_3"
+    },
+    {
+      "id": "w_b2_catch",
+      "en": "catch",
+      "level": "b2",
+      "lesson": "lsn_b2_c_1"
+    },
+    {
+      "id": "w_b2_chair",
+      "en": "chair",
+      "level": "b2",
+      "lesson": "lsn_b2_c_1"
+    },
+    {
+      "id": "w_c1_arm",
+      "en": "arm",
+      "level": "c1",
+      "lesson": "lsn_c1_a_4"
+    }
+  ],
+  "missingIpaCount": 2406,
+  "duplicates": [
+    {
+      "word": "address",
+      "locations": [
+        "a1 -> lsn_a1_a_1",
+        "b2 -> lsn_b2_a_2"
+      ]
+    },
+    {
+      "word": "after",
+      "locations": [
+        "a1 -> lsn_a1_a_1",
+        "a2 -> lsn_a2_a_1"
+      ]
+    },
+    {
+      "word": "all",
+      "locations": [
+        "a1 -> lsn_a1_a_1",
+        "a2 -> lsn_a2_a_1"
+      ]
+    },
+    {
+      "word": "any",
+      "locations": [
+        "a1 -> lsn_a1_a_2",
+        "a2 -> lsn_a2_a_2"
+      ]
+    },
+    {
+      "word": "arm",
+      "locations": [
+        "a1 -> lsn_a1_a_2",
+        "c1 -> lsn_c1_a_4"
+      ]
+    },
+    {
+      "word": "as",
+      "locations": [
+        "a1 -> lsn_a1_a_2",
+        "a2 -> lsn_a2_a_2"
+      ]
+    },
+    {
+      "word": "back",
+      "locations": [
+        "a1 -> lsn_a1_b_1",
+        "a2 -> lsn_a2_b_1",
+        "b2 -> lsn_b2_b_1"
+      ]
+    },
+    {
+      "word": "before",
+      "locations": [
+        "a1 -> lsn_a1_b_1",
+        "a2 -> lsn_a2_b_1"
+      ]
+    },
+    {
+      "word": "best",
+      "locations": [
+        "a1 -> lsn_a1_b_2",
+        "a2 -> lsn_a2_b_1"
+      ]
+    },
+    {
+      "word": "better",
+      "locations": [
+        "a1 -> lsn_a1_b_2",
+        "a2 -> lsn_a2_b_1",
+        "b1 -> lsn_b1_b_1"
+      ]
+    },
+    {
+      "word": "between",
+      "locations": [
+        "a1 -> lsn_a1_b_2",
+        "a2 -> lsn_a2_b_1"
+      ]
+    },
+    {
+      "word": "bill",
+      "locations": [
+        "a1 -> lsn_a1_b_2",
+        "b2 -> lsn_b2_b_2"
+      ]
+    },
+    {
+      "word": "book",
+      "locations": [
+        "a1 -> lsn_a1_b_2",
+        "a2 -> lsn_a2_b_2"
+      ]
+    },
+    {
+      "word": "but",
+      "locations": [
+        "a1 -> lsn_a1_b_3",
+        "b2 -> lsn_b2_b_3"
+      ]
+    },
+    {
+      "word": "by",
+      "locations": [
+        "a1 -> lsn_a1_b_3",
+        "b1 -> lsn_b1_c_1"
+      ]
+    },
+    {
+      "word": "can",
+      "locations": [
+        "a1 -> lsn_a1_c_1",
+        "a2 -> lsn_a2_c_1"
+      ]
+    },
+    {
+      "word": "chair",
+      "locations": [
+        "a1 -> lsn_a1_c_1",
+        "b2 -> lsn_b2_c_1"
+      ]
+    },
+    {
+      "word": "chart",
+      "locations": [
+        "a1 -> lsn_a1_c_1",
+        "b2 -> lsn_b2_c_2"
+      ]
+    },
+    {
+      "word": "cheap",
+      "locations": [
+        "a1 -> lsn_a1_c_1",
+        "b1 -> lsn_b1_c_1"
+      ]
+    },
+    {
+      "word": "check",
+      "locations": [
+        "a1 -> lsn_a1_c_1",
+        "a2 -> lsn_a2_c_1"
+      ]
+    },
+    {
+      "word": "climb",
+      "locations": [
+        "a1 -> lsn_a1_c_2",
+        "b1 -> lsn_b1_c_2"
+      ]
+    },
+    {
+      "word": "close",
+      "locations": [
+        "a1 -> lsn_a1_c_2",
+        "a2 -> lsn_a2_c_2",
+        "b1 -> lsn_b1_c_2",
+        "b2 -> lsn_b2_c_2"
+      ]
+    },
+    {
+      "word": "cook",
+      "locations": [
+        "a1 -> lsn_a1_c_3",
+        "a2 -> lsn_a2_c_3"
+      ]
+    },
+    {
+      "word": "cool",
+      "locations": [
+        "a1 -> lsn_a1_c_3",
+        "b1 -> lsn_b1_c_3"
+      ]
+    },
+    {
+      "word": "cream",
+      "locations": [
+        "a1 -> lsn_a1_c_3",
+        "b1 -> lsn_b1_c_4"
+      ]
+    },
+    {
+      "word": "cut",
+      "locations": [
+        "a1 -> lsn_a1_d_1",
+        "b1 -> lsn_b1_d_1"
+      ]
+    },
+    {
+      "word": "dark",
+      "locations": [
+        "a1 -> lsn_a1_d_1",
+        "a2 -> lsn_a2_d_1"
+      ]
+    },
+    {
+      "word": "dear",
+      "locations": [
+        "a1 -> lsn_a1_d_1",
+        "a2 -> lsn_a2_d_1"
+      ]
+    },
+    {
+      "word": "detail",
+      "locations": [
+        "a1 -> lsn_a1_d_1",
+        "b2 -> lsn_b2_d_3"
+      ]
+    },
+    {
+      "word": "downstairs",
+      "locations": [
+        "a1 -> lsn_a1_d_2",
+        "a2 -> lsn_a2_d_2"
+      ]
+    },
+    {
+      "word": "drive",
+      "locations": [
+        "a1 -> lsn_a1_d_2",
+        "a2 -> lsn_a2_d_2"
+      ]
+    },
+    {
+      "word": "even",
+      "locations": [
+        "a1 -> lsn_a1_e_1",
+        "b2 -> lsn_b2_e_1"
+      ]
+    },
+    {
+      "word": "extra",
+      "locations": [
+        "a1 -> lsn_a1_e_2",
+        "b1 -> lsn_b1_f_1"
+      ]
+    },
+    {
+      "word": "fall",
+      "locations": [
+        "a1 -> lsn_a1_f_1",
+        "a2 -> lsn_a2_f_1"
+      ]
+    },
+    {
+      "word": "far",
+      "locations": [
+        "a1 -> lsn_a1_f_1",
+        "b1 -> lsn_b1_f_1"
+      ]
+    },
+    {
+      "word": "farm",
+      "locations": [
+        "a1 -> lsn_a1_f_1",
+        "a2 -> lsn_a2_f_1"
+      ]
+    },
+    {
+      "word": "fat",
+      "locations": [
+        "a1 -> lsn_a1_f_1",
+        "a2 -> lsn_a2_f_1"
+      ]
+    },
+    {
+      "word": "film",
+      "locations": [
+        "a1 -> lsn_a1_f_1",
+        "a2 -> lsn_a2_f_1"
+      ]
+    },
+    {
+      "word": "final",
+      "locations": [
+        "a1 -> lsn_a1_f_2",
+        "a2 -> lsn_a2_f_1"
+      ]
+    },
+    {
+      "word": "fine",
+      "locations": [
+        "a1 -> lsn_a1_f_2",
+        "c1 -> lsn_c1_f_1"
+      ]
+    },
+    {
+      "word": "finish",
+      "locations": [
+        "a1 -> lsn_a1_f_2",
+        "a2 -> lsn_a2_f_1"
+      ]
+    },
+    {
+      "word": "first",
+      "locations": [
+        "a1 -> lsn_a1_f_2",
+        "a2 -> lsn_a2_f_1"
+      ]
+    },
+    {
+      "word": "fish",
+      "locations": [
+        "a1 -> lsn_a1_f_2",
+        "a2 -> lsn_a2_f_2"
+      ]
+    },
+    {
+      "word": "flat",
+      "locations": [
+        "a1 -> lsn_a1_f_2",
+        "a2 -> lsn_a2_f_2"
+      ]
+    },
+    {
+      "word": "fly",
+      "locations": [
+        "a1 -> lsn_a1_f_2",
+        "a2 -> lsn_a2_f_2"
+      ]
+    },
+    {
+      "word": "free",
+      "locations": [
+        "a1 -> lsn_a1_f_2",
+        "a2 -> lsn_a2_f_2",
+        "b2 -> lsn_b2_f_2"
+      ]
+    },
+    {
+      "word": "fun",
+      "locations": [
+        "a1 -> lsn_a1_f_3",
+        "a2 -> lsn_a2_f_2"
+      ]
+    },
+    {
+      "word": "future",
+      "locations": [
+        "a1 -> lsn_a1_g_1",
+        "a2 -> lsn_a2_g_1"
+      ]
+    },
+    {
+      "word": "go",
+      "locations": [
+        "a1 -> lsn_a1_g_1",
+        "b1 -> lsn_b1_g_1"
+      ]
+    },
+    {
+      "word": "good",
+      "locations": [
+        "a1 -> lsn_a1_g_1",
+        "a2 -> lsn_a2_g_1"
+      ]
+    },
+    {
+      "word": "hello",
+      "locations": [
+        "a1 -> lsn_1",
+        "a1 -> lsn_a1_h_1"
+      ]
+    },
+    {
+      "word": "name",
+      "locations": [
+        "a1 -> lsn_1",
+        "a1 -> lsn_a1_n_1"
+      ]
+    },
+    {
+      "word": "half",
+      "locations": [
+        "a1 -> lsn_a1_h_1",
+        "a2 -> lsn_a2_h_1"
+      ]
+    },
+    {
+      "word": "hate",
+      "locations": [
+        "a1 -> lsn_a1_h_1",
+        "b1 -> lsn_b1_h_1"
+      ]
+    },
+    {
+      "word": "high",
+      "locations": [
+        "a1 -> lsn_a1_h_1",
+        "a2 -> lsn_a2_h_1",
+        "b2 -> lsn_b2_h_1"
+      ]
+    },
+    {
+      "word": "his",
+      "locations": [
+        "a1 -> lsn_a1_h_1",
+        "a2 -> lsn_a2_h_1"
+      ]
+    },
+    {
+      "word": "home",
+      "locations": [
+        "a1 -> lsn_a1_h_2",
+        "a2 -> lsn_a2_h_1"
+      ]
+    },
+    {
+      "word": "hope",
+      "locations": [
+        "a1 -> lsn_a1_h_2",
+        "a2 -> lsn_a2_h_1"
+      ]
+    },
+    {
+      "word": "include",
+      "locations": [
+        "a1 -> lsn_a1_i_1",
+        "a2 -> lsn_a2_i_1"
+      ]
+    },
+    {
+      "word": "it",
+      "locations": [
+        "a1 -> lsn_a1_i_1",
+        "b1 -> lsn_b1_j_1"
+      ]
+    },
+    {
+      "word": "present",
+      "locations": [
+        "a1 -> lsn_a1_i_2",
+        "a2 -> lsn_a2_p_2"
+      ]
+    },
+    {
+      "word": "price",
+      "locations": [
+        "a1 -> lsn_a1_i_2",
+        "b2 -> lsn_b2_p_3"
+      ]
+    },
+    {
+      "word": "program",
+      "locations": [
+        "a1 -> lsn_a1_i_2",
+        "a2 -> lsn_a2_p_3",
+        "b1 -> lsn_b1_p_3",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "project",
+      "locations": [
+        "a1 -> lsn_a1_i_2",
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "just",
+      "locations": [
+        "a1 -> lsn_a1_j_1",
+        "c1 -> lsn_c1_j_1"
+      ]
+    },
+    {
+      "word": "key",
+      "locations": [
+        "a1 -> lsn_a1_j_1",
+        "b1 -> lsn_b1_k_1"
+      ]
+    },
+    {
+      "word": "kind",
+      "locations": [
+        "a1 -> lsn_a1_j_1",
+        "b1 -> lsn_b1_k_1"
+      ]
+    },
+    {
+      "word": "land",
+      "locations": [
+        "a1 -> lsn_a1_l_1",
+        "a2 -> lsn_a2_l_1"
+      ]
+    },
+    {
+      "word": "last",
+      "locations": [
+        "a1 -> lsn_a1_l_1",
+        "a2 -> lsn_a2_l_1"
+      ]
+    },
+    {
+      "word": "later",
+      "locations": [
+        "a1 -> lsn_a1_l_1",
+        "a2 -> lsn_a2_l_1"
+      ]
+    },
+    {
+      "word": "leave",
+      "locations": [
+        "a1 -> lsn_a1_l_1",
+        "b2 -> lsn_b2_l_1"
+      ]
+    },
+    {
+      "word": "lie",
+      "locations": [
+        "a1 -> lsn_a1_l_1",
+        "b1 -> lsn_b1_l_1"
+      ]
+    },
+    {
+      "word": "light",
+      "locations": [
+        "a1 -> lsn_a1_l_1",
+        "a2 -> lsn_a2_l_1"
+      ]
+    },
+    {
+      "word": "little",
+      "locations": [
+        "a1 -> lsn_a1_l_1",
+        "a2 -> lsn_a2_l_2"
+      ]
+    },
+    {
+      "word": "look",
+      "locations": [
+        "a1 -> lsn_a1_l_2",
+        "a2 -> lsn_a2_l_2"
+      ]
+    },
+    {
+      "word": "make",
+      "locations": [
+        "a1 -> lsn_a1_m_1",
+        "b2 -> lsn_b2_m_1"
+      ]
+    },
+    {
+      "word": "march",
+      "locations": [
+        "a1 -> lsn_a1_m_1",
+        "c1 -> lsn_c1_m_1"
+      ]
+    },
+    {
+      "word": "market",
+      "locations": [
+        "a1 -> lsn_a1_m_1",
+        "b1 -> lsn_b1_m_1"
+      ]
+    },
+    {
+      "word": "may",
+      "locations": [
+        "a1 -> lsn_a1_m_1",
+        "a2 -> lsn_a2_m_1"
+      ]
+    },
+    {
+      "word": "model",
+      "locations": [
+        "a1 -> lsn_a1_m_2",
+        "b2 -> lsn_b2_m_2"
+      ]
+    },
+    {
+      "word": "move",
+      "locations": [
+        "a1 -> lsn_a1_m_2",
+        "b1 -> lsn_b1_m_1"
+      ]
+    },
+    {
+      "word": "need",
+      "locations": [
+        "a1 -> lsn_a1_n_1",
+        "a2 -> lsn_a2_n_1"
+      ]
+    },
+    {
+      "word": "negative",
+      "locations": [
+        "a1 -> lsn_a1_n_1",
+        "b2 -> lsn_b2_n_1"
+      ]
+    },
+    {
+      "word": "next",
+      "locations": [
+        "a1 -> lsn_a1_n_1",
+        "b1 -> lsn_b1_n_1"
+      ]
+    },
+    {
+      "word": "note",
+      "locations": [
+        "a1 -> lsn_a1_n_1",
+        "b1 -> lsn_b1_n_1"
+      ]
+    },
+    {
+      "word": "number",
+      "locations": [
+        "a1 -> lsn_a1_n_2",
+        "a2 -> lsn_a2_n_1"
+      ]
+    },
+    {
+      "word": "object",
+      "locations": [
+        "a1 -> lsn_a1_o_1",
+        "b2 -> lsn_b2_o_1"
+      ]
+    },
+    {
+      "word": "once",
+      "locations": [
+        "a1 -> lsn_a1_o_1",
+        "b1 -> lsn_b1_o_1"
+      ]
+    },
+    {
+      "word": "outside",
+      "locations": [
+        "a1 -> lsn_a1_o_2",
+        "a2 -> lsn_a2_o_1"
+      ]
+    },
+    {
+      "word": "own",
+      "locations": [
+        "a1 -> lsn_a1_p_1",
+        "a2 -> lsn_a2_o_1"
+      ]
+    },
+    {
+      "word": "past",
+      "locations": [
+        "a1 -> lsn_a1_p_1",
+        "a2 -> lsn_a2_p_1"
+      ]
+    },
+    {
+      "word": "pay",
+      "locations": [
+        "a1 -> lsn_a1_p_1",
+        "a2 -> lsn_a2_p_1"
+      ]
+    },
+    {
+      "word": "photograph",
+      "locations": [
+        "a1 -> lsn_a1_p_2",
+        "a2 -> lsn_a2_p_1"
+      ]
+    },
+    {
+      "word": "picture",
+      "locations": [
+        "a1 -> lsn_a1_p_2",
+        "b2 -> lsn_b2_p_2"
+      ]
+    },
+    {
+      "word": "please",
+      "locations": [
+        "a1 -> lsn_a1_p_2",
+        "a2 -> lsn_a2_p_2"
+      ]
+    },
+    {
+      "word": "question",
+      "locations": [
+        "a1 -> lsn_a1_q_1",
+        "a2 -> lsn_a2_q_1"
+      ]
+    },
+    {
+      "word": "repeat",
+      "locations": [
+        "a1 -> lsn_a1_r_1",
+        "b1 -> lsn_b1_r_2"
+      ]
+    },
+    {
+      "word": "report",
+      "locations": [
+        "a1 -> lsn_a1_r_1",
+        "a2 -> lsn_a2_r_2"
+      ]
+    },
+    {
+      "word": "ride",
+      "locations": [
+        "a1 -> lsn_a1_r_1",
+        "a2 -> lsn_a2_r_2"
+      ]
+    },
+    {
+      "word": "routine",
+      "locations": [
+        "a1 -> lsn_a1_r_2",
+        "b2 -> lsn_b2_r_2"
+      ]
+    },
+    {
+      "word": "run",
+      "locations": [
+        "a1 -> lsn_a1_s_1",
+        "a2 -> lsn_a2_r_2"
+      ]
+    },
+    {
+      "word": "say",
+      "locations": [
+        "a1 -> lsn_a1_s_1",
+        "c1 -> lsn_c1_s_1"
+      ]
+    },
+    {
+      "word": "second",
+      "locations": [
+        "a1 -> lsn_a1_s_1",
+        "a2 -> lsn_a2_s_1"
+      ]
+    },
+    {
+      "word": "sentence",
+      "locations": [
+        "a1 -> lsn_a1_s_1",
+        "b2 -> lsn_b2_s_2"
+      ]
+    },
+    {
+      "word": "share",
+      "locations": [
+        "a1 -> lsn_a1_s_1",
+        "b1 -> lsn_b1_s_1"
+      ]
+    },
+    {
+      "word": "sleep",
+      "locations": [
+        "a1 -> lsn_a1_s_2",
+        "a2 -> lsn_a2_s_3"
+      ]
+    },
+    {
+      "word": "sound",
+      "locations": [
+        "a1 -> lsn_a1_s_3",
+        "c1 -> lsn_c1_s_2"
+      ]
+    },
+    {
+      "word": "spell",
+      "locations": [
+        "a1 -> lsn_a1_s_3",
+        "c1 -> lsn_c1_s_3"
+      ]
+    },
+    {
+      "word": "spring",
+      "locations": [
+        "a1 -> lsn_a1_s_3",
+        "b2 -> lsn_b2_s_4"
+      ]
+    },
+    {
+      "word": "star",
+      "locations": [
+        "a1 -> lsn_a1_s_3",
+        "a2 -> lsn_a2_s_4"
+      ]
+    },
+    {
+      "word": "stay",
+      "locations": [
+        "a1 -> lsn_a1_s_3",
+        "a2 -> lsn_a2_s_4"
+      ]
+    },
+    {
+      "word": "still",
+      "locations": [
+        "a1 -> lsn_a1_s_3",
+        "b1 -> lsn_b1_s_3"
+      ]
+    },
+    {
+      "word": "subject",
+      "locations": [
+        "a1 -> lsn_a1_s_4",
+        "b2 -> lsn_b2_s_5"
+      ]
+    },
+    {
+      "word": "swim",
+      "locations": [
+        "a1 -> lsn_a1_t_1",
+        "b1 -> lsn_b1_s_4"
+      ]
+    },
+    {
+      "word": "talk",
+      "locations": [
+        "a1 -> lsn_a1_t_1",
+        "a2 -> lsn_a2_t_1"
+      ]
+    },
+    {
+      "word": "teenager",
+      "locations": [
+        "a1 -> lsn_a1_t_1",
+        "a2 -> lsn_a2_t_1"
+      ]
+    },
+    {
+      "word": "text",
+      "locations": [
+        "a1 -> lsn_a1_t_1",
+        "a2 -> lsn_a2_t_1"
+      ]
+    },
+    {
+      "word": "that",
+      "locations": [
+        "a1 -> lsn_a1_t_1",
+        "b1 -> lsn_b1_t_1"
+      ]
+    },
+    {
+      "word": "third",
+      "locations": [
+        "a1 -> lsn_a1_t_2",
+        "a2 -> lsn_a2_t_1"
+      ]
+    },
+    {
+      "word": "train",
+      "locations": [
+        "a1 -> lsn_a1_t_3",
+        "a2 -> lsn_a2_t_2"
+      ]
+    },
+    {
+      "word": "upstairs",
+      "locations": [
+        "a1 -> lsn_a1_u_1",
+        "a2 -> lsn_a2_u_1"
+      ]
+    },
+    {
+      "word": "use",
+      "locations": [
+        "a1 -> lsn_a1_u_1",
+        "a2 -> lsn_a2_u_1"
+      ]
+    },
+    {
+      "word": "very",
+      "locations": [
+        "a1 -> lsn_a1_v_1",
+        "b2 -> lsn_b2_v_1"
+      ]
+    },
+    {
+      "word": "wait",
+      "locations": [
+        "a1 -> lsn_a1_w_1",
+        "a2 -> lsn_a2_w_1"
+      ]
+    },
+    {
+      "word": "warm",
+      "locations": [
+        "a1 -> lsn_a1_w_1",
+        "b1 -> lsn_b1_w_1"
+      ]
+    },
+    {
+      "word": "wash",
+      "locations": [
+        "a1 -> lsn_a1_w_1",
+        "a2 -> lsn_a2_w_1"
+      ]
+    },
+    {
+      "word": "water",
+      "locations": [
+        "a1 -> lsn_a1_w_1",
+        "b1 -> lsn_b1_w_1"
+      ]
+    },
+    {
+      "word": "way",
+      "locations": [
+        "a1 -> lsn_a1_w_1",
+        "b2 -> lsn_b2_w_1"
+      ]
+    },
+    {
+      "word": "welcome",
+      "locations": [
+        "a1 -> lsn_a1_w_1",
+        "a2 -> lsn_a2_w_1"
+      ]
+    },
+    {
+      "word": "well",
+      "locations": [
+        "a1 -> lsn_a1_w_1",
+        "c1 -> lsn_c1_w_1"
+      ]
+    },
+    {
+      "word": "will",
+      "locations": [
+        "a1 -> lsn_a1_w_2",
+        "b1 -> lsn_b1_w_1"
+      ]
+    },
+    {
+      "word": "win",
+      "locations": [
+        "a1 -> lsn_a1_w_2",
+        "b1 -> lsn_b1_w_1"
+      ]
+    },
+    {
+      "word": "wrong",
+      "locations": [
+        "a1 -> lsn_a1_y_1",
+        "b2 -> lsn_b2_w_2"
+      ]
+    },
+    {
+      "word": "young",
+      "locations": [
+        "a1 -> lsn_a1_y_1",
+        "b1 -> lsn_b1_y_1"
+      ]
+    },
+    {
+      "word": "act",
+      "locations": [
+        "a2 -> lsn_a2_a_1",
+        "b1 -> lsn_b1_a_1"
+      ]
+    },
+    {
+      "word": "alternative",
+      "locations": [
+        "a2 -> lsn_a2_a_2",
+        "b1 -> lsn_b1_a_1"
+      ]
+    },
+    {
+      "word": "amount",
+      "locations": [
+        "a2 -> lsn_a2_a_2",
+        "b2 -> lsn_b2_a_2"
+      ]
+    },
+    {
+      "word": "average",
+      "locations": [
+        "a2 -> lsn_a2_a_3",
+        "b1 -> lsn_b1_a_3"
+      ]
+    },
+    {
+      "word": "bar",
+      "locations": [
+        "a2 -> lsn_a2_b_1",
+        "b2 -> lsn_b2_b_1"
+      ]
+    },
+    {
+      "word": "base",
+      "locations": [
+        "a2 -> lsn_a2_b_1",
+        "b1 -> lsn_b1_b_1"
+      ]
+    },
+    {
+      "word": "bear",
+      "locations": [
+        "a2 -> lsn_a2_b_1",
+        "b2 -> lsn_b2_b_1"
+      ]
+    },
+    {
+      "word": "beat",
+      "locations": [
+        "a2 -> lsn_a2_b_1",
+        "b2 -> lsn_b2_b_1"
+      ]
+    },
+    {
+      "word": "benefit",
+      "locations": [
+        "a2 -> lsn_a2_b_1",
+        "b1 -> lsn_b1_b_1"
+      ]
+    },
+    {
+      "word": "blow",
+      "locations": [
+        "a2 -> lsn_a2_b_2",
+        "b2 -> lsn_b2_b_2"
+      ]
+    },
+    {
+      "word": "burn",
+      "locations": [
+        "a2 -> lsn_a2_b_2",
+        "b2 -> lsn_b2_b_3"
+      ]
+    },
+    {
+      "word": "catch",
+      "locations": [
+        "a2 -> lsn_a2_c_1",
+        "b2 -> lsn_b2_c_1"
+      ]
+    },
+    {
+      "word": "clear",
+      "locations": [
+        "a2 -> lsn_a2_c_2",
+        "b1 -> lsn_b1_c_2"
+      ]
+    },
+    {
+      "word": "comment",
+      "locations": [
+        "a2 -> lsn_a2_c_2",
+        "b1 -> lsn_b1_c_2"
+      ]
+    },
+    {
+      "word": "count",
+      "locations": [
+        "a2 -> lsn_a2_c_3",
+        "b1 -> lsn_b1_c_4"
+      ]
+    },
+    {
+      "word": "cover",
+      "locations": [
+        "a2 -> lsn_a2_c_3",
+        "b1 -> lsn_b1_c_4"
+      ]
+    },
+    {
+      "word": "credit",
+      "locations": [
+        "a2 -> lsn_a2_c_3",
+        "b2 -> lsn_b2_c_6"
+      ]
+    },
+    {
+      "word": "daily",
+      "locations": [
+        "a2 -> lsn_a2_d_1",
+        "b1 -> lsn_b1_d_1"
+      ]
+    },
+    {
+      "word": "deep",
+      "locations": [
+        "a2 -> lsn_a2_d_1",
+        "b1 -> lsn_b1_d_1"
+      ]
+    },
+    {
+      "word": "direct",
+      "locations": [
+        "a2 -> lsn_a2_d_2",
+        "b1 -> lsn_b1_d_1"
+      ]
+    },
+    {
+      "word": "document",
+      "locations": [
+        "a2 -> lsn_a2_d_2",
+        "b2 -> lsn_b2_d_4"
+      ]
+    },
+    {
+      "word": "double",
+      "locations": [
+        "a2 -> lsn_a2_d_2",
+        "b1 -> lsn_b1_d_2"
+      ]
+    },
+    {
+      "word": "drop",
+      "locations": [
+        "a2 -> lsn_a2_d_2",
+        "b1 -> lsn_b1_d_2"
+      ]
+    },
+    {
+      "word": "except",
+      "locations": [
+        "a2 -> lsn_a2_e_2",
+        "b1 -> lsn_b1_e_2"
+      ]
+    },
+    {
+      "word": "fear",
+      "locations": [
+        "a2 -> lsn_a2_f_1",
+        "b1 -> lsn_b1_f_1"
+      ]
+    },
+    {
+      "word": "fit",
+      "locations": [
+        "a2 -> lsn_a2_f_2",
+        "c1 -> lsn_c1_f_1"
+      ]
+    },
+    {
+      "word": "fix",
+      "locations": [
+        "a2 -> lsn_a2_f_2",
+        "b2 -> lsn_b2_f_1"
+      ]
+    },
+    {
+      "word": "following",
+      "locations": [
+        "a2 -> lsn_a2_f_2",
+        "b1 -> lsn_b1_f_2",
+        "b2 -> lsn_b2_f_1"
+      ]
+    },
+    {
+      "word": "forward",
+      "locations": [
+        "a2 -> lsn_a2_f_2",
+        "b2 -> lsn_b2_f_2"
+      ]
+    },
+    {
+      "word": "further",
+      "locations": [
+        "a2 -> lsn_a2_f_2",
+        "b1 -> lsn_b1_g_1"
+      ]
+    },
+    {
+      "word": "hold",
+      "locations": [
+        "a2 -> lsn_a2_h_1",
+        "b2 -> lsn_b2_h_1"
+      ]
+    },
+    {
+      "word": "hurt",
+      "locations": [
+        "a2 -> lsn_a2_i_1",
+        "b2 -> lsn_b2_h_2"
+      ]
+    },
+    {
+      "word": "involved",
+      "locations": [
+        "a2 -> lsn_a2_i_2",
+        "b1 -> lsn_b1_i_2"
+      ]
+    },
+    {
+      "word": "knock",
+      "locations": [
+        "a2 -> lsn_a2_k_1",
+        "b1 -> lsn_b1_l_1"
+      ]
+    },
+    {
+      "word": "law",
+      "locations": [
+        "a2 -> lsn_a2_l_1",
+        "c1 -> lsn_c1_l_1"
+      ]
+    },
+    {
+      "word": "lead",
+      "locations": [
+        "a2 -> lsn_a2_l_1",
+        "b1 -> lsn_b1_l_1"
+      ]
+    },
+    {
+      "word": "level",
+      "locations": [
+        "a2 -> lsn_a2_l_1",
+        "b1 -> lsn_b1_l_1"
+      ]
+    },
+    {
+      "word": "material",
+      "locations": [
+        "a2 -> lsn_a2_m_1",
+        "b2 -> lsn_b2_m_1"
+      ]
+    },
+    {
+      "word": "mention",
+      "locations": [
+        "a2 -> lsn_a2_m_1",
+        "b1 -> lsn_b1_m_1"
+      ]
+    },
+    {
+      "word": "mine",
+      "locations": [
+        "a2 -> lsn_a2_m_1",
+        "b1 -> lsn_b1_m_1",
+        "b2 -> lsn_b2_m_2"
+      ]
+    },
+    {
+      "word": "musical",
+      "locations": [
+        "a2 -> lsn_a2_m_2",
+        "b1 -> lsn_b1_m_1"
+      ]
+    },
+    {
+      "word": "narrow",
+      "locations": [
+        "a2 -> lsn_a2_n_1",
+        "b2 -> lsn_b2_n_1"
+      ]
+    },
+    {
+      "word": "neither",
+      "locations": [
+        "a2 -> lsn_a2_n_1",
+        "b1 -> lsn_b1_n_1"
+      ]
+    },
+    {
+      "word": "normal",
+      "locations": [
+        "a2 -> lsn_a2_n_1",
+        "b1 -> lsn_b1_n_1"
+      ]
+    },
+    {
+      "word": "novel",
+      "locations": [
+        "a2 -> lsn_a2_n_1",
+        "c1 -> lsn_c1_n_1"
+      ]
+    },
+    {
+      "word": "original",
+      "locations": [
+        "a2 -> lsn_a2_o_1",
+        "b1 -> lsn_b1_o_1"
+      ]
+    },
+    {
+      "word": "pack",
+      "locations": [
+        "a2 -> lsn_a2_p_1",
+        "b1 -> lsn_b1_p_1"
+      ]
+    },
+    {
+      "word": "patient",
+      "locations": [
+        "a2 -> lsn_a2_p_1",
+        "b2 -> lsn_b2_p_1"
+      ]
+    },
+    {
+      "word": "pick",
+      "locations": [
+        "a2 -> lsn_a2_p_2",
+        "b2 -> lsn_b2_p_2"
+      ]
+    },
+    {
+      "word": "pop",
+      "locations": [
+        "a2 -> lsn_a2_p_2",
+        "c1 -> lsn_c1_p_2"
+      ]
+    },
+    {
+      "word": "power",
+      "locations": [
+        "a2 -> lsn_a2_p_2",
+        "b2 -> lsn_b2_p_3"
+      ]
+    },
+    {
+      "word": "print",
+      "locations": [
+        "a2 -> lsn_a2_p_2",
+        "b2 -> lsn_b2_p_3"
+      ]
+    },
+    {
+      "word": "process",
+      "locations": [
+        "a2 -> lsn_a2_p_3",
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "produce",
+      "locations": [
+        "a2 -> lsn_a2_p_3",
+        "b2 -> lsn_b2_p_4"
+      ]
+    },
+    {
+      "word": "professional",
+      "locations": [
+        "a2 -> lsn_a2_p_3",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "profile",
+      "locations": [
+        "a2 -> lsn_a2_p_3",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "progress",
+      "locations": [
+        "a2 -> lsn_a2_p_3",
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "publish",
+      "locations": [
+        "a2 -> lsn_a2_p_3",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "pull",
+      "locations": [
+        "a2 -> lsn_a2_p_3",
+        "b1 -> lsn_b1_p_4"
+      ]
+    },
+    {
+      "word": "rise",
+      "locations": [
+        "a2 -> lsn_a2_r_2",
+        "b1 -> lsn_b1_r_2"
+      ]
+    },
+    {
+      "word": "round",
+      "locations": [
+        "a2 -> lsn_a2_r_2",
+        "b2 -> lsn_b2_r_2"
+      ]
+    },
+    {
+      "word": "sail",
+      "locations": [
+        "a2 -> lsn_a2_s_1",
+        "b1 -> lsn_b1_s_1"
+      ]
+    },
+    {
+      "word": "schedule",
+      "locations": [
+        "a2 -> lsn_a2_s_1",
+        "b2 -> lsn_b2_s_1"
+      ]
+    },
+    {
+      "word": "screen",
+      "locations": [
+        "a2 -> lsn_a2_s_1",
+        "b2 -> lsn_b2_s_1"
+      ]
+    },
+    {
+      "word": "seat",
+      "locations": [
+        "a2 -> lsn_a2_s_1",
+        "b2 -> lsn_b2_s_1"
+      ]
+    },
+    {
+      "word": "sense",
+      "locations": [
+        "a2 -> lsn_a2_s_1",
+        "b2 -> lsn_b2_s_1"
+      ]
+    },
+    {
+      "word": "shake",
+      "locations": [
+        "a2 -> lsn_a2_s_2",
+        "b1 -> lsn_b1_s_1"
+      ]
+    },
+    {
+      "word": "shape",
+      "locations": [
+        "a2 -> lsn_a2_s_2",
+        "b2 -> lsn_b2_s_2"
+      ]
+    },
+    {
+      "word": "since",
+      "locations": [
+        "a2 -> lsn_a2_s_2",
+        "b1 -> lsn_b1_s_2"
+      ]
+    },
+    {
+      "word": "sort",
+      "locations": [
+        "a2 -> lsn_a2_s_3",
+        "b1 -> lsn_b1_s_2"
+      ]
+    },
+    {
+      "word": "state",
+      "locations": [
+        "a2 -> lsn_a2_s_4",
+        "b1 -> lsn_b1_s_3"
+      ]
+    },
+    {
+      "word": "store",
+      "locations": [
+        "a2 -> lsn_a2_s_4",
+        "b1 -> lsn_b1_s_3"
+      ]
+    },
+    {
+      "word": "suit",
+      "locations": [
+        "a2 -> lsn_a2_s_5",
+        "b1 -> lsn_b1_s_4"
+      ]
+    },
+    {
+      "word": "survey",
+      "locations": [
+        "a2 -> lsn_a2_s_5",
+        "b2 -> lsn_b2_s_6"
+      ]
+    },
+    {
+      "word": "top",
+      "locations": [
+        "a2 -> lsn_a2_t_1",
+        "c1 -> lsn_c1_t_2"
+      ]
+    },
+    {
+      "word": "touch",
+      "locations": [
+        "a2 -> lsn_a2_t_1",
+        "b1 -> lsn_b1_t_2"
+      ]
+    },
+    {
+      "word": "used to",
+      "locations": [
+        "a2 -> lsn_a2_u_1",
+        "b1 -> lsn_b1_v_1"
+      ]
+    },
+    {
+      "word": "view",
+      "locations": [
+        "a2 -> lsn_a2_v_1",
+        "b1 -> lsn_b1_v_1"
+      ]
+    },
+    {
+      "word": "while",
+      "locations": [
+        "a2 -> lsn_a2_w_1",
+        "b1 -> lsn_b1_w_1"
+      ]
+    },
+    {
+      "word": "whole",
+      "locations": [
+        "a2 -> lsn_a2_w_1",
+        "b1 -> lsn_b1_w_1"
+      ]
+    },
+    {
+      "word": "worry",
+      "locations": [
+        "a2 -> lsn_a2_w_2",
+        "b1 -> lsn_b1_w_1"
+      ]
+    },
+    {
+      "word": "worse",
+      "locations": [
+        "a2 -> lsn_a2_w_2",
+        "b1 -> lsn_b1_w_1",
+        "b2 -> lsn_b2_w_2"
+      ]
+    },
+    {
+      "word": "worst",
+      "locations": [
+        "a2 -> lsn_a2_w_2",
+        "b1 -> lsn_b1_w_1"
+      ]
+    },
+    {
+      "word": "yet",
+      "locations": [
+        "a2 -> lsn_a2_y_1",
+        "b2 -> lsn_b2_y_1"
+      ]
+    },
+    {
+      "word": "academic",
+      "locations": [
+        "b1 -> lsn_b1_a_1",
+        "b2 -> lsn_b2_a_1"
+      ]
+    },
+    {
+      "word": "account",
+      "locations": [
+        "b1 -> lsn_b1_a_1",
+        "b2 -> lsn_b2_a_1"
+      ]
+    },
+    {
+      "word": "alarm",
+      "locations": [
+        "b1 -> lsn_b1_a_1",
+        "b2 -> lsn_b2_a_2"
+      ]
+    },
+    {
+      "word": "battle",
+      "locations": [
+        "b1 -> lsn_b1_b_1",
+        "b2 -> lsn_b2_b_1"
+      ]
+    },
+    {
+      "word": "border",
+      "locations": [
+        "b1 -> lsn_b1_b_1",
+        "b2 -> lsn_b2_b_2"
+      ]
+    },
+    {
+      "word": "chain",
+      "locations": [
+        "b1 -> lsn_b1_c_1",
+        "b2 -> lsn_b2_c_1"
+      ]
+    },
+    {
+      "word": "challenge",
+      "locations": [
+        "b1 -> lsn_b1_c_1",
+        "b2 -> lsn_b2_c_1"
+      ]
+    },
+    {
+      "word": "complex",
+      "locations": [
+        "b1 -> lsn_b1_c_3",
+        "b2 -> lsn_b2_c_3"
+      ]
+    },
+    {
+      "word": "current",
+      "locations": [
+        "b1 -> lsn_b1_c_4",
+        "b2 -> lsn_b2_c_7"
+      ]
+    },
+    {
+      "word": "disappointed",
+      "locations": [
+        "b1 -> lsn_b1_d_2",
+        "b2 -> lsn_b2_d_3"
+      ]
+    },
+    {
+      "word": "discount",
+      "locations": [
+        "b1 -> lsn_b1_d_2",
+        "b2 -> lsn_b2_d_3"
+      ]
+    },
+    {
+      "word": "hire",
+      "locations": [
+        "b1 -> lsn_b1_h_1",
+        "b2 -> lsn_b2_h_1"
+      ]
+    },
+    {
+      "word": "hunt",
+      "locations": [
+        "b1 -> lsn_b1_h_1",
+        "b2 -> lsn_b2_h_2"
+      ]
+    },
+    {
+      "word": "latest",
+      "locations": [
+        "b1 -> lsn_b1_l_1",
+        "b2 -> lsn_b2_l_1"
+      ]
+    },
+    {
+      "word": "medium",
+      "locations": [
+        "b1 -> lsn_b1_m_1",
+        "b2 -> lsn_b2_m_2"
+      ]
+    },
+    {
+      "word": "net",
+      "locations": [
+        "b1 -> lsn_b1_n_1",
+        "c1 -> lsn_c1_n_1"
+      ]
+    },
+    {
+      "word": "official",
+      "locations": [
+        "b1 -> lsn_b1_o_1",
+        "b2 -> lsn_b2_o_1"
+      ]
+    },
+    {
+      "word": "passion",
+      "locations": [
+        "b1 -> lsn_b1_p_1",
+        "c1 -> lsn_c1_p_1"
+      ]
+    },
+    {
+      "word": "plot",
+      "locations": [
+        "b1 -> lsn_b1_p_2",
+        "b2 -> lsn_b2_p_2"
+      ]
+    },
+    {
+      "word": "plus",
+      "locations": [
+        "b1 -> lsn_b1_p_2",
+        "b2 -> lsn_b2_p_2"
+      ]
+    },
+    {
+      "word": "pointed",
+      "locations": [
+        "b1 -> lsn_b1_p_2",
+        "b2 -> lsn_b2_p_2"
+      ]
+    },
+    {
+      "word": "primary",
+      "locations": [
+        "b1 -> lsn_b1_p_3",
+        "c1 -> lsn_c1_p_3"
+      ]
+    },
+    {
+      "word": "profit",
+      "locations": [
+        "b1 -> lsn_b1_p_3",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "promote",
+      "locations": [
+        "b1 -> lsn_b1_p_3",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "protest",
+      "locations": [
+        "b1 -> lsn_b1_p_3",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "sample",
+      "locations": [
+        "b1 -> lsn_b1_s_1",
+        "b2 -> lsn_b2_s_1"
+      ]
+    },
+    {
+      "word": "shift",
+      "locations": [
+        "b1 -> lsn_b1_s_2",
+        "b2 -> lsn_b2_s_2"
+      ]
+    },
+    {
+      "word": "shooting",
+      "locations": [
+        "b1 -> lsn_b1_s_2",
+        "b2 -> lsn_b2_s_2"
+      ]
+    },
+    {
+      "word": "spread",
+      "locations": [
+        "b1 -> lsn_b1_s_3",
+        "b2 -> lsn_b2_s_4"
+      ]
+    },
+    {
+      "word": "total",
+      "locations": [
+        "b1 -> lsn_b1_t_2",
+        "c1 -> lsn_c1_t_2"
+      ]
+    },
+    {
+      "word": "value",
+      "locations": [
+        "b1 -> lsn_b1_v_1",
+        "b2 -> lsn_b2_v_1"
+      ]
+    },
+    {
+      "word": "worth",
+      "locations": [
+        "b1 -> lsn_b1_w_2",
+        "b2 -> lsn_b2_w_2"
+      ]
+    },
+    {
+      "word": "acid",
+      "locations": [
+        "b2 -> lsn_b2_a_1",
+        "c1 -> lsn_c1_a_1"
+      ]
+    },
+    {
+      "word": "alien",
+      "locations": [
+        "b2 -> lsn_b2_a_2",
+        "c1 -> lsn_c1_a_3"
+      ]
+    },
+    {
+      "word": "dynamic",
+      "locations": [
+        "b2 -> lsn_b2_d_5",
+        "c1 -> lsn_c1_d_3"
+      ]
+    },
+    {
+      "word": "exit",
+      "locations": [
+        "b2 -> lsn_b2_e_2",
+        "c1 -> lsn_c1_e_3"
+      ]
+    },
+    {
+      "word": "extract",
+      "locations": [
+        "b2 -> lsn_b2_e_2",
+        "c1 -> lsn_c1_e_3"
+      ]
+    },
+    {
+      "word": "license",
+      "locations": [
+        "b2 -> lsn_b2_l_1",
+        "c1 -> lsn_c1_l_2"
+      ]
+    },
+    {
+      "word": "obesity",
+      "locations": [
+        "b2 -> lsn_b2_o_1",
+        "c1 -> lsn_c1_o_1"
+      ]
+    },
+    {
+      "word": "obstacle",
+      "locations": [
+        "b2 -> lsn_b2_o_1",
+        "c1 -> lsn_c1_o_1"
+      ]
+    },
+    {
+      "word": "operator",
+      "locations": [
+        "b2 -> lsn_b2_o_1",
+        "c1 -> lsn_c1_o_1"
+      ]
+    },
+    {
+      "word": "password",
+      "locations": [
+        "b2 -> lsn_b2_p_1",
+        "c1 -> lsn_c1_p_1"
+      ]
+    },
+    {
+      "word": "perception",
+      "locations": [
+        "b2 -> lsn_b2_p_2",
+        "c1 -> lsn_c1_p_1"
+      ]
+    },
+    {
+      "word": "portion",
+      "locations": [
+        "b2 -> lsn_b2_p_2",
+        "c1 -> lsn_c1_p_2"
+      ]
+    },
+    {
+      "word": "potential",
+      "locations": [
+        "b2 -> lsn_b2_p_3",
+        "c1 -> lsn_c1_p_2"
+      ]
+    },
+    {
+      "word": "precise",
+      "locations": [
+        "b2 -> lsn_b2_p_3",
+        "c1 -> lsn_c1_p_2"
+      ]
+    },
+    {
+      "word": "pregnant",
+      "locations": [
+        "b2 -> lsn_b2_p_3",
+        "c1 -> lsn_c1_p_2"
+      ]
+    },
+    {
+      "word": "principal",
+      "locations": [
+        "b2 -> lsn_b2_p_3",
+        "c1 -> lsn_c1_p_3"
+      ]
+    },
+    {
+      "word": "proceed",
+      "locations": [
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_3"
+      ]
+    },
+    {
+      "word": "prompt",
+      "locations": [
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "proof",
+      "locations": [
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "proportion",
+      "locations": [
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "proposal",
+      "locations": [
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_4"
+      ]
+    },
+    {
+      "word": "prospect",
+      "locations": [
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "protection",
+      "locations": [
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "protein",
+      "locations": [
+        "b2 -> lsn_b2_p_4",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "publicity",
+      "locations": [
+        "b2 -> lsn_b2_p_5",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "purchase",
+      "locations": [
+        "b2 -> lsn_b2_p_5",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "pure",
+      "locations": [
+        "b2 -> lsn_b2_p_5",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "pursuit",
+      "locations": [
+        "b2 -> lsn_b2_p_5",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "puzzle",
+      "locations": [
+        "b2 -> lsn_b2_p_5",
+        "c1 -> lsn_c1_p_5"
+      ]
+    },
+    {
+      "word": "recognition",
+      "locations": [
+        "b2 -> lsn_b2_r_1",
+        "c1 -> lsn_c1_r_1"
+      ]
+    },
+    {
+      "word": "spare",
+      "locations": [
+        "b2 -> lsn_b2_s_3",
+        "c1 -> lsn_c1_s_3"
+      ]
+    },
+    {
+      "word": "usage",
+      "locations": [
+        "b2 -> lsn_b2_u_1",
+        "c1 -> lsn_c1_u_1"
+      ]
+    },
+    {
+      "word": "whoever",
+      "locations": [
+        "b2 -> lsn_b2_w_1",
+        "c1 -> lsn_c1_w_1"
+      ]
+    },
+    {
+      "word": "wisdom",
+      "locations": [
+        "b2 -> lsn_b2_w_1",
+        "c1 -> lsn_c1_w_2"
+      ]
+    },
+    {
+      "word": "workforce",
+      "locations": [
+        "b2 -> lsn_b2_w_1",
+        "c1 -> lsn_c1_w_2"
+      ]
+    },
+    {
+      "word": "workplace",
+      "locations": [
+        "b2 -> lsn_b2_w_1",
+        "c1 -> lsn_c1_w_2"
+      ]
+    }
+  ]
+}

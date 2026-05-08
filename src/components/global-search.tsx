@@ -16,8 +16,9 @@ import { Button } from "@/components/ui/button";
 import { Level, Lesson, Category, WordItem } from "@/types";
 import { searchWords } from "@/lib/content/actions";
 import { useDebounce } from "@/hooks/use-debounce"; // We need this hook
+import { SearchErrorBoundary } from "@/components/error-boundaries";
 
-export function GlobalSearch() {
+function GlobalSearchInternal() {
   const [open, setOpen] = React.useState(false);
   const [mounted, setMounted] = React.useState(false);
   const [query, setQuery] = React.useState("");
@@ -100,7 +101,7 @@ export function GlobalSearch() {
               onValueChange={setQuery}
               placeholder="ابحث عن أي شيء..." 
               dir="rtl" 
-              className="font-cairo text-right h-12" 
+              className="font-cairo text-right h-12 text-base md:text-sm" 
             />
             {isSearching && <Loader2 className="h-4 w-4 animate-spin opacity-20 ml-2" />}
           </div>
@@ -142,5 +143,13 @@ export function GlobalSearch() {
         </Command>
       </CommandDialog>
     </>
+  );
+}
+
+export function GlobalSearch() {
+  return (
+    <SearchErrorBoundary>
+      <GlobalSearchInternal />
+    </SearchErrorBoundary>
   );
 }

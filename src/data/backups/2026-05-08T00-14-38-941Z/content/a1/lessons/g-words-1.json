@@ -1,0 +1,525 @@
+{
+  "id": "lsn_a1_g_1",
+  "levelId": "lvl_1",
+  "title": "G Words - Part 1",
+  "slug": "g-words-1",
+  "order": 16,
+  "wordCount": 22,
+  "titleAr": "كلمات حرف G - الجزء 1",
+  "description": "Learn essential A1 vocabulary starting with the letter G.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف G.",
+  "words": [
+    {
+      "id": "w_a1_future",
+      "lessonId": "lsn_a1_g_1",
+      "en": "future",
+      "translation": "مستقبل",
+      "ar": "مستقبل",
+      "pronunciation": "/'fju.tfa/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Think about your future.",
+          "ar": "فكر في مستقبلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_game",
+      "lessonId": "lsn_a1_g_1",
+      "en": "game",
+      "translation": "لعبة",
+      "ar": "لعبة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I love playing this game.",
+          "ar": "أحب أن ألعب هذه اللعبة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_garden",
+      "lessonId": "lsn_a1_g_1",
+      "en": "garden",
+      "translation": "حديقة",
+      "ar": "حديقة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The garden is full of flowers.",
+          "ar": "الحديقة مليئة بالزهور."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_geography",
+      "lessonId": "lsn_a1_g_1",
+      "en": "geography",
+      "translation": "جغرافيا",
+      "ar": "جغرافيا",
+      "pronunciation": "/dyre.fi/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Geography is my favorite subject.",
+          "ar": "الجغرافيا هي مادتي المفضلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_get",
+      "lessonId": "lsn_a1_g_1",
+      "en": "get",
+      "translation": "حصل على / يتلقى / يصل",
+      "ar": "حصل على / يتلقى / يصل",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's get something to eat.",
+          "ar": "لنحصل على شيء نأكله."
+        },
+        {
+          "en": "Did you get my message?",
+          "ar": "هل تلقيت رسالتي؟"
+        },
+        {
+          "en": "She went to get her coat.",
+          "ar": "ذهبت لإحضار معطفها."
+        },
+        {
+          "en": "Tell me when you get there.",
+          "ar": "أخبرني عندما تصل إلى هناك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_girlfriend",
+      "lessonId": "lsn_a1_g_1",
+      "en": "girlfriend",
+      "translation": "عشيقة / حبيبة",
+      "ar": "عشيقة / حبيبة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He doesn't have a girlfriend.",
+          "ar": "ليس لديه عشيقة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_give",
+      "lessonId": "lsn_a1_g_1",
+      "en": "give",
+      "translation": "يعطي",
+      "ar": "يعطي",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Give me your address.",
+          "ar": "أعطني عنوانك."
+        },
+        {
+          "en": "Give me a glass of water please.",
+          "ar": "أعطني كوباً من الماء من فضلك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_glasses",
+      "lessonId": "lsn_a1_g_1",
+      "en": "glasses",
+      "translation": "نظارات",
+      "ar": "نظارات",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She wears glasses to read.",
+          "ar": "إنها تضع نظارات للقراءة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_go",
+      "lessonId": "lsn_a1_g_1",
+      "en": "go",
+      "translation": "يذهب",
+      "ar": "يذهب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's go for a walk.",
+          "ar": "لنذهب في نزهة على الأقدام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_going",
+      "lessonId": "lsn_a1_g_1",
+      "en": "going",
+      "translation": "ذاهب / سوف",
+      "ar": "ذاهب / سوف",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I'm going to meet him.",
+          "ar": "سأقابله."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_good",
+      "lessonId": "lsn_a1_g_1",
+      "en": "good",
+      "translation": "جيد / يجيد",
+      "ar": "جيد / يجيد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "You did a good job.",
+          "ar": "لقد قمت بعمل جيد."
+        },
+        {
+          "en": "I am good at writing.",
+          "ar": "أنا أجيد الكتابة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_goodbye",
+      "lessonId": "lsn_a1_g_1",
+      "en": "goodbye",
+      "translation": "وداعاً",
+      "ar": "وداعاً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Goodbye, see you tomorrow.",
+          "ar": "وداعاً أراك غداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_grandfather",
+      "lessonId": "lsn_a1_g_1",
+      "en": "grandfather",
+      "translation": "جد",
+      "ar": "جد",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His grandfather gave him a watch.",
+          "ar": "لقد أهداه جده ساعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_grandmother",
+      "lessonId": "lsn_a1_g_1",
+      "en": "grandmother",
+      "translation": "جدة",
+      "ar": "جدة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I spent the day with grandmother.",
+          "ar": "قضيت اليوم مع جدتي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_grandparents",
+      "lessonId": "lsn_a1_g_1",
+      "en": "grandparents",
+      "translation": "جدان / الجد والجدة",
+      "ar": "جدان / الجد والجدة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My grandparents live in a small town.",
+          "ar": "يعيش جداي في بلدة صغيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_great",
+      "lessonId": "lsn_a1_g_1",
+      "en": "great",
+      "translation": "رائع",
+      "ar": "رائع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's great to see you.",
+          "ar": "من الرائع رؤيتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_green",
+      "lessonId": "lsn_a1_g_1",
+      "en": "green",
+      "translation": "أخضر",
+      "ar": "أخضر",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She wore a beautiful green dress.",
+          "ar": "ارتدت فستاناً أخضر جميلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_gray",
+      "lessonId": "lsn_a1_g_1",
+      "en": "gray",
+      "translation": "رمادي",
+      "ar": "رمادي",
+      "pronunciation": "/grex/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He was wearing a gray sweater.",
+          "ar": "كان يرتدي سترة رمادية اللون."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_group",
+      "lessonId": "lsn_a1_g_1",
+      "en": "group",
+      "translation": "مجموعة",
+      "ar": "مجموعة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We formed a small study group.",
+          "ar": "شكلنا مجموعة دراسية صغيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_grow",
+      "lessonId": "lsn_a1_g_1",
+      "en": "grow",
+      "translation": "ينمو / يزرع",
+      "ar": "ينمو / يزرع",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Her hair will grow longer soon.",
+          "ar": "سوف ينمو شعرها أطول قريباً."
+        },
+        {
+          "en": "She grows tomatoes by herself.",
+          "ar": "هي تقوم بزراعة الطماطم بنفسها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_guess",
+      "lessonId": "lsn_a1_g_1",
+      "en": "guess",
+      "translation": "يخمن / تخمين",
+      "ar": "يخمن / تخمين",
+      "pronunciation": "/ges/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you guess where I am?",
+          "ar": "هل يمكنك أن تخمن أين أنا؟"
+        },
+        {
+          "en": "My guess is that he left.",
+          "ar": "تخميني هو أنه غادر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_guitar",
+      "lessonId": "lsn_a1_g_1",
+      "en": "guitar",
+      "translation": "جيتار",
+      "ar": "جيتار",
+      "pronunciation": "/gr'to:r/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She plays the guitar every day.",
+          "ar": "تعزف على الجيتار كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

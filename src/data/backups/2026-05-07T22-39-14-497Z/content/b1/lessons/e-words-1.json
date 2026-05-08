@@ -1,0 +1,567 @@
+{
+  "id": "lsn_b1_e_1",
+  "levelId": "lvl_b1",
+  "slug": "e-words-1",
+  "title": "Unit 12: E Words - Part 1",
+  "titleAr": "الوحدة 12: كلمات حرف E - الجزء 1",
+  "description": "Expand your intermediate vocabulary with words starting with E.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف E.",
+  "order": 12,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b1_duty",
+      "en": "duty",
+      "ar": "واجب",
+      "pronunciation": "/'du-ţi/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm doing my duty.",
+          "ar": "أقوم بواجبي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_earthquake",
+      "en": "earthquake",
+      "ar": "زلزال",
+      "pronunciation": "/ 3re kwerk/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I felt the earthquake.",
+          "ar": "شعرت بالزلزال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_eastern",
+      "en": "eastern",
+      "ar": "شرقي / من الشرق",
+      "pronunciation": "/i-stern/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Japan is in eastern Asia.",
+          "ar": "تقع اليابان في شرق آسيا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_economy",
+      "en": "economy",
+      "ar": "اقتصاد",
+      "pronunciation": "/r'ka-no-mi/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The economy is growing fast.",
+          "ar": "الاقتصاد ينمو بسرعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_economic",
+      "en": "economic",
+      "ar": "اقتصادي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our country has some economic problems.",
+          "ar": "بلدنا لديه بعض المشاكل الاقتصادية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_edge",
+      "en": "edge",
+      "ar": "حافة / طرف",
+      "pronunciation": "/ed3/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali walked to the edge of the pool.",
+          "ar": "مشى علي إلى حافة البركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_editor",
+      "en": "editor",
+      "ar": "محرر",
+      "pronunciation": "/ ed- ter/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I've applied for a job as an editor.",
+          "ar": "لقد تقدمت بطلب للحصول على وظيفة كمحرر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_educated",
+      "en": "educated",
+      "ar": "علّم / متعلمة",
+      "pronunciation": "/ed3 kertıd/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I educated people about Islam.",
+          "ar": "علمت الناس حول الإسلام."
+        },
+        {
+          "en": "My mother is an educated woman.",
+          "ar": "والدتي امرأة متعلمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_educational",
+      "en": "educational",
+      "ar": "تعليمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Tell me about your educational achievements.",
+          "ar": "أخبرني عن إنجازاتك التعليمي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_effective",
+      "en": "effective",
+      "ar": "فعال",
+      "pronunciation": "/r'fek tv/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My plan was very effective.",
+          "ar": "كانت خطتي فعالة للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_effectively",
+      "en": "effectively",
+      "ar": "بشكل فعال",
+      "pronunciation": "/ fek-trv-li/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We must reduce costs to compete effectively.",
+          "ar": "يجب أن نخفض التكاليف كي ننافس بشكل فعال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_efforts",
+      "en": "efforts",
+      "ar": "جهود",
+      "pronunciation": "/'ef-art/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Your efforts should be appreciated.",
+          "ar": "جهودك ينبغي أن تُقدّر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_election",
+      "en": "election",
+      "ar": "انتخابات",
+      "pronunciation": "/r'lek fən/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The election day is coming.",
+          "ar": "يوم الانتخابات قادم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_element",
+      "en": "element",
+      "ar": "عنصر",
+      "pronunciation": "/'el mənt/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Hard work is the main element of success.",
+          "ar": "العمل الجاد هو العنصر الأساسي للنجاح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_embarrassed",
+      "en": "embarrassed",
+      "ar": "محرج",
+      "pronunciation": "/ım'bær ast/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I was so embarrassed.",
+          "ar": "كنت محرجًا جدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_embarrassing",
+      "en": "embarrassing",
+      "ar": "محرج (للأشياء)",
+      "pronunciation": "/ım'bær-es 1η/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It's an embarrassing question.",
+          "ar": "إنه سؤال محرج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_emergency",
+      "en": "emergency",
+      "ar": "حالة طارئة",
+      "pronunciation": "/ m3r-dzən-si/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This is a medical emergency.",
+          "ar": "هذه حالة طبية طارئة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_emotions",
+      "en": "emotions",
+      "ar": "مشاعر",
+      "pronunciation": "/ mou-Jan/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Try to express your emotions.",
+          "ar": "حاول التعبير عن مشاعرك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_employment",
+      "en": "employment",
+      "ar": "توظيف / عمل",
+      "pronunciation": "/zm'plox mənt/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I'm looking for full - time employment.",
+          "ar": "أبحث عن وظيفة بدوام كامل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_emptied",
+      "en": "emptied",
+      "ar": "أفرغت",
+      "pronunciation": "/emp-ti/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She emptied the bottle of its contents.",
+          "ar": "هي أفرغت الزجاجة من محتوياتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_encourage",
+      "en": "encourage",
+      "ar": "يشجع",
+      "pronunciation": "/ın kar id3/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I always encourage my students.",
+          "ar": "أنا دائما أشجع طلابي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_enemy",
+      "en": "enemy",
+      "ar": "عدو",
+      "pronunciation": "/'en -mi/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The enemy attacked the town.",
+          "ar": "العدو هاجم البلدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_engaged",
+      "en": "engaged",
+      "ar": "مخطوبة",
+      "pronunciation": "/In gerdzd/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She's engaged to Sami.",
+          "ar": "إنها مخطوبة لسامي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_engineering",
+      "en": "engineering",
+      "ar": "هندسة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I studied engineering at university.",
+          "ar": "درست الهندسة في الجامعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_entertained",
+      "en": "entertained",
+      "ar": "يسلي",
+      "pronunciation": "/ en ter tern/",
+      "lessonId": "lsn_b1_e_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He entertained the children by singing.",
+          "ar": "كان يسلي الأطفال بالغناء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

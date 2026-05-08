@@ -1,0 +1,583 @@
+{
+  "id": "lsn_b2_c_1",
+  "levelId": "lvl_b2",
+  "title": "Unit 7: C Words - Part 1",
+  "slug": "c-words-1",
+  "order": 7,
+  "wordCount": 25,
+  "titleAr": "الوحدة 7: كلمات حرف C - الجزء 1",
+  "description": "Master essential B2 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_b2_cabin",
+      "en": "cabin",
+      "ar": "مقصورة",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I've booked one cabin for both of us.",
+          "ar": "لقد حجزت مقصورة واحدة لكلينا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkæbɪn/"
+    },
+    {
+      "id": "w_b2_cable",
+      "en": "cable",
+      "ar": "سلك / كابل",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I need to buy a new cable for my phone.",
+          "ar": "أحتاج إلى شراء سلك جديد لهاتفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/keɪ.bl/"
+    },
+    {
+      "id": "w_b2_calculate",
+      "en": "calculate",
+      "ar": "يحسب",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This device will calculate your bike's speed.",
+          "ar": "هذا الجهاز سوف يحسب سرعة دراجتك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkælkjəleɪt/"
+    },
+    {
+      "id": "w_b2_canal",
+      "en": "canal",
+      "ar": "قناة",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We went on a trip to the Suez Canal.",
+          "ar": "ذهبنا في رحلة إلى قناة السويس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəˈnɛl/"
+    },
+    {
+      "id": "w_b2_cancel",
+      "en": "cancel",
+      "ar": "يلغي",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your flight has been canceled.",
+          "ar": "رحلتك قد ألغيت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkænsl̩/"
+    },
+    {
+      "id": "w_b2_cancer",
+      "en": "cancer",
+      "ar": "سرطان",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He suffered from stomach cancer for about a year.",
+          "ar": "عانا من سرطان المعدة لمدة عام تقريبا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkæːnsə/"
+    },
+    {
+      "id": "w_b2_candle",
+      "en": "candle",
+      "ar": "شمعة",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I lit the room with candles.",
+          "ar": "لقد أضأت الغرفة بالشموع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkændl̩/"
+    },
+    {
+      "id": "w_b2_capable",
+      "en": "capable",
+      "ar": "قادر",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Are you capable of teaching English in a primary school?",
+          "ar": "هل أنت قادر على تدريس اللغة الإنجليزية في مدرسة ابتدائية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkeɪpəbl̩/"
+    },
+    {
+      "id": "w_b2_capacity",
+      "en": "capacity",
+      "ar": "سعة",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The elevator's capacity is only 5 people.",
+          "ar": "سعة المصعد 5 أشخاص فقط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəˈpæsɪti/"
+    },
+    {
+      "id": "w_b2_capture",
+      "en": "capture",
+      "ar": "يقبض على / القبض",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The police captured the criminal before he escaped.",
+          "ar": "ألقت الشرطة القبض على المجرم قبل أن يهرب."
+        },
+        {
+          "en": "This information led to the capture of several criminals.",
+          "ar": "أدت هذه المعلومات إلى القبض على العديد من المجرمين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkæp.t͡ʃə/"
+    },
+    {
+      "id": "w_b2_carbon",
+      "en": "carbon",
+      "ar": "كربون",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Trees remove carbon from the atmosphere.",
+          "ar": "تقوم الأشجار بإزالة الكربون من الغلاف الجوي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɑɹbən/"
+    },
+    {
+      "id": "w_b2_cast",
+      "en": "cast",
+      "ar": "طاقم تمثيل / يلقي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The sun cast a yellow light on the clouds.",
+          "ar": "ألقت الشمس ضوءا أصفر على الغيوم."
+        },
+        {
+          "en": "There are famous names among the cast.",
+          "ar": "هناك أسماء مشهورة من ضمن طاقم التمثيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_casual",
+      "en": "casual",
+      "ar": "غير رسمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can I wear casual clothes tomorrow morning ?",
+          "ar": "هل يمكنني ارتداء ملابس غير رسمية صباح الغد ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cave",
+      "en": "cave",
+      "ar": "كهف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Exploring underground caves is his hobby.",
+          "ar": "استكشاف الكهوف تحت الأرض هي هوايته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cell",
+      "en": "cell",
+      "ar": "خلية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We learned a lot about cells in biology class.",
+          "ar": "تعلمنا الكثير عن الخلايا في درس الأحياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_certainty",
+      "en": "certainty",
+      "ar": "وجه اليقين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I can't say with certainty where Ali is.",
+          "ar": "لا أستطيع أن أقول على وجه اليقين أين هو علي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_certificate",
+      "en": "certificate",
+      "ar": "شهادة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I have lost my birth certificate.",
+          "ar": "لقد أضعت شهادة ميلادي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chairman",
+      "en": "chairman",
+      "ar": "رئيس مجلس الإدارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is the chairman of the board.",
+          "ar": "إنه رئيس مجلس الإدارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_challenging",
+      "en": "challenging",
+      "ar": "مهمة صعبة / تحدي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It will be a challenging task.",
+          "ar": "ستكون مهمة صعبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_championship",
+      "en": "championship",
+      "ar": "بطولة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I won the championship for the second time in a row.",
+          "ar": "أنا فزت بالبطولة للمرة الثانية على التوالي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_characteristic",
+      "en": "characteristic",
+      "ar": "خصائص / مميز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I can recognize Ali from his characteristic laugh.",
+          "ar": "أستطيع التعرف على علي من ضحكته المميزة."
+        },
+        {
+          "en": "The two cars share many characteristics.",
+          "ar": "تشترك السيارتان في العديد من الخصائص."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_charming",
+      "en": "charming",
+      "ar": "ساحر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He greeted me with his charming smile.",
+          "ar": "لقد سلّم علي بابتسامته الساحرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_chase",
+      "en": "chase",
+      "ar": "يلاحق / مطاردة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The criminals were caught by police after a long chase.",
+          "ar": "تم القبض على المجرمين من قبل الشرطة بعد مطاردة طويلة."
+        },
+        {
+          "en": "The kids chased the dog all day.",
+          "ar": "الأطفال لاحقوا الكلب طوال اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cheek",
+      "en": "cheek",
+      "ar": "خد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He kissed the baby on his pink cheeks.",
+          "ar": "قبل الطفل في خديه الورديين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_cheer",
+      "en": "cheer",
+      "ar": "يهتف / هتاف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The fans cheered for the winning team.",
+          "ar": "هتف المشجعون للفريق الفائز."
+        },
+        {
+          "en": "We heard a loud cheer when he got up on the stage.",
+          "ar": "سمعنا هتافا عاليا عندما صعد على المسرح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

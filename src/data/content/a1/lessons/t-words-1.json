@@ -1,44 +1,14 @@
 {
   "id": "lsn_a1_t_1",
-  "levelId": "lvl_1",
-  "title": "T Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 41: T Words - Part 1",
   "slug": "t-words-1",
-  "order": 40,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف T - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter T.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف T.",
+  "order": 41,
+  "wordCount": 24,
+  "titleAr": "الوحدة 41: كلمات حرف T - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف T.",
   "words": [
-    {
-      "id": "w_a1_swim",
-      "lessonId": "lsn_a1_t_1",
-      "en": "swim",
-      "translation": "يسبح / سباحة / سبح",
-      "ar": "يسبح / سباحة / سبح",
-      "pronunciation": "/swæm/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I can swim fast.",
-          "ar": "يمكنني السباحة بسرعة."
-        },
-        {
-          "en": "Swimming is my favorite hobby.",
-          "ar": "السباحة هي هوايتي المفضلة."
-        },
-        {
-          "en": "We swam in the sea.",
-          "ar": "سبحنا في البحر."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_t_shirts",
       "lessonId": "lsn_a1_t_1",
@@ -89,7 +59,6 @@
       "en": "take",
       "translation": "يأخذ / يلتقط / يستغرق / أخذ (استقل)",
       "ar": "يأخذ / يلتقط / يستغرق / أخذ (استقل)",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -115,7 +84,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/teɪk/"
     },
     {
       "id": "w_a1_talk",
@@ -129,12 +99,17 @@
         {
           "en": "I like to talk to you.",
           "ar": "أحب أن أتحدث معك."
+        },
+        {
+          "en": "He gave a talk about Islam.",
+          "ar": "ألقى محاضرة عن الإسلام :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -145,7 +120,6 @@
       "en": "tall",
       "translation": "طويل",
       "ar": "طويل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -159,7 +133,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tɔːl/"
     },
     {
       "id": "w_a1_tea",
@@ -167,7 +142,6 @@
       "en": "tea",
       "translation": "شاي",
       "ar": "شاي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -181,7 +155,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tiː/"
     },
     {
       "id": "w_a1_teach",
@@ -219,7 +194,6 @@
       "en": "team",
       "translation": "فريق",
       "ar": "فريق",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -233,7 +207,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tiːm/"
     },
     {
       "id": "w_a1_teenager",
@@ -247,12 +222,17 @@
         {
           "en": "My son is a teenager now.",
           "ar": "ابني مراهق الآن."
+        },
+        {
+          "en": "Teenager boys love playing video games.",
+          "ar": "يحب الأولاد المراهقون لعب ألعاب الفيديو."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -263,7 +243,6 @@
       "en": "telephone",
       "translation": "هاتف / يتصل",
       "ar": "هاتف / يتصل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -281,7 +260,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɛləfəʊn/"
     },
     {
       "id": "w_a1_television",
@@ -311,7 +291,6 @@
       "en": "tell",
       "translation": "يخبر",
       "ar": "يخبر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -325,7 +304,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tɛl/"
     },
     {
       "id": "w_a1_ten",
@@ -333,7 +313,6 @@
       "en": "ten",
       "translation": "عشر",
       "ar": "عشر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -347,7 +326,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/tɛn/"
     },
     {
       "id": "w_a1_tennis",
@@ -355,7 +335,6 @@
       "en": "tennis",
       "translation": "تنس",
       "ar": "تنس",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -369,7 +348,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɛn.ɪs/"
     },
     {
       "id": "w_a1_terrible",
@@ -399,7 +379,6 @@
       "en": "test",
       "translation": "اختبار / يختبر",
       "ar": "اختبار / يختبر",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -417,7 +396,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/test/"
     },
     {
       "id": "w_a1_text",
@@ -431,12 +411,17 @@
         {
           "en": "The text is full of mistakes.",
           "ar": "النص مليء بالأخطاء."
+        },
+        {
+          "en": "Text me when you are home",
+          "ar": "راسلني عندما تكون بالمنزل."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -447,7 +432,6 @@
       "en": "than",
       "translation": "من (للمقارنة)",
       "ar": "من (للمقارنة)",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -461,7 +445,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ðæn/"
     },
     {
       "id": "w_a1_thanks",
@@ -469,7 +454,6 @@
       "en": "thanks",
       "translation": "شكر / شكراً",
       "ar": "شكر / شكراً",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -487,7 +471,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/θæŋks/"
     },
     {
       "id": "w_a1_that",
@@ -495,7 +480,6 @@
       "en": "that",
       "translation": "أن / ذلك / الذي",
       "ar": "أن / ذلك / الذي",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -509,15 +493,25 @@
         {
           "en": "The shirt that you bought is nice.",
           "ar": "القميص الذي اشتريته جميل."
+        },
+        {
+          "en": "It is that simple.",
+          "ar": "الأمر بهذه البساطة."
+        },
+        {
+          "en": "He never expected to be quite this successful.",
+          "ar": "لم يتوقع أبدًا أن يكون ناجحًا إلى هذا الحد."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ˈðæt/"
     },
     {
       "id": "w_a1_the",
@@ -525,7 +519,6 @@
       "en": "the",
       "translation": "الـ (أداة تعريف)",
       "ar": "الـ (أداة تعريف)",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -539,7 +532,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ði/"
     },
     {
       "id": "w_a1_theatre",
@@ -591,7 +585,6 @@
       "en": "them",
       "translation": "هم (ضمير مفعول به)",
       "ar": "هم (ضمير مفعول به)",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -605,7 +598,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ðʌm/"
     }
   ]
 }

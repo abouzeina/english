@@ -1,0 +1,563 @@
+{
+  "id": "lsn_b2_a_1",
+  "levelId": "lvl_b2",
+  "slug": "a-words-1",
+  "title": "A Words - Part 1",
+  "titleAr": "كلمات حرف A - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف A.",
+  "order": 1,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_abandon",
+      "en": "abandon",
+      "ar": "يتخلى عن / يترك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They abandoned the project after three years of work.",
+          "ar": "لقد تخلوا عن المشروع بعد ثلاث سنوات من العمل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_absolute",
+      "en": "absolute",
+      "ar": "مطلق / حقيقي",
+      "pronunciation": "abse loot",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I told you the absolute truth.",
+          "ar": "لقد أخبرتك بالحقيقة المطلقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_absorb",
+      "en": "absorb",
+      "ar": "يمتص",
+      "pronunciation": "əb zôrb",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The towel didn't absorb all the water on the floor.",
+          "ar": "المنشفة لم تمتص كل الماء الموجود على الأرضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_abstract",
+      "en": "abstract",
+      "ar": "مجرد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Abstract thinking is an important skill.",
+          "ar": "التفكير المجرد هو مهارة مهمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_academic",
+      "en": "academic",
+      "ar": "أكاديمي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I discussed this topic with some academics.",
+          "ar": "لقد ناقشت هذا الموضوع مع بعض الأكاديميين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accent",
+      "en": "accent",
+      "ar": "لكنة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I can't understand the British accent.",
+          "ar": "لا أستطيع أن أفهم اللكنة البريطانية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_acceptable",
+      "en": "acceptable",
+      "ar": "مقبول",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "These actions are not acceptable in our community.",
+          "ar": "هذه التصرفات غير مقبولة في مجتمعنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accidentally",
+      "en": "accidentally",
+      "ar": "عن طريق الخطأ / بالصدفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I accidentally bit my tongue.",
+          "ar": "عضضت لساني عن طريق الخطأ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accommodate",
+      "en": "accommodate",
+      "ar": "يتسع لـ / يستوعب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our hotel can accommodate up to 300 guests.",
+          "ar": "يمكن لفندقنا أن يتسع لما يصل إلى 300 ضيف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accompany",
+      "en": "accompany",
+      "ar": "يرافق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can you accompany me to a wedding ceremony ?",
+          "ar": "هل يمكنك أن ترافقني إلى حفل زفاف ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accomplish",
+      "en": "accomplish",
+      "ar": "ينجز / يحقق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We accomplished our mission.",
+          "ar": "أنجزنا مهمتنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_account",
+      "en": "account",
+      "ar": "يعتبر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This park is accounted the largest in town.",
+          "ar": "تعتبر هذه الحديقة الأكبر في المدينة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accountant",
+      "en": "accountant",
+      "ar": "محاسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I graduated from college and became an accountant.",
+          "ar": "تخرجت من الكلية وأصبحت محاسبا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accuracy",
+      "en": "accuracy",
+      "ar": "دقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He predicted the results with great accuracy.",
+          "ar": "هو تنبأ بالنتائج بدقة كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accurate",
+      "en": "accurate",
+      "ar": "دقيق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They aren't convinced the report is accurate.",
+          "ar": "هم غير مقتنعين بأن التقرير دقيق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accurately",
+      "en": "accurately",
+      "ar": "بدقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This movie accurately reflects our reality.",
+          "ar": "هذا الفيلم يعكس واقعنا بدقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_accuse",
+      "en": "accuse",
+      "ar": "يتهم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They accused him of murder.",
+          "ar": "اتهموه بجريمة قتل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_acid",
+      "en": "acid",
+      "ar": "حمض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I read about stomach acids in biology class.",
+          "ar": "قرأت عن أحماض المعدة في حصة الأحياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_acknowledge",
+      "en": "acknowledge",
+      "ar": "يقر بـ / يعترف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I acknowledge that I made the wrong decision.",
+          "ar": "أقر بأنني اتخذت القرار الخاطئ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_acquire",
+      "en": "acquire",
+      "ar": "يكتسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I want to acquire new skills by the end of this year.",
+          "ar": "أريد أن أكتسب مهارات جديدة بحلول نهاية هذا العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_activate",
+      "en": "activate",
+      "ar": "يشغل / ينشط",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Pressing this button will activate the device.",
+          "ar": "الضغط على هذا الزر سيشغل الجهاز."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_actual",
+      "en": "actual",
+      "ar": "فعلي / حقيقي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The actual cost is higher than you imagine.",
+          "ar": "التكلفة الفعلية أعلى مما تتخيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_adapt",
+      "en": "adapt",
+      "ar": "يتأقلم / يتكيف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You have to adapt to this new situation.",
+          "ar": "عليك أن تتأقلم مع هذا الوضع الجديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_addiction",
+      "en": "addiction",
+      "ar": "إدمان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Young people suffer from social media addiction.",
+          "ar": "يعاني الشباب من إدمان وسائل التواصل الاجتماعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_additional",
+      "en": "additional",
+      "ar": "إضافي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I need additional resources to complete my research.",
+          "ar": "أحتاج إلى مصادر إضافية لإكمال بحثي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

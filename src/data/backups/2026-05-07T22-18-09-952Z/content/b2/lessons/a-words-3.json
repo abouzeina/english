@@ -1,0 +1,571 @@
+{
+  "id": "lsn_b2_a_3",
+  "levelId": "lvl_b2",
+  "slug": "a-words-3",
+  "title": "A Words - Part 3",
+  "titleAr": "كلمات حرف A - الجزء 3",
+  "description": "Learn essential B2 vocabulary starting with the letter A.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف A.",
+  "order": 3,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_amusing",
+      "en": "amusing",
+      "ar": "مسلي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Let me show you this amusing game.",
+          "ar": "اسمح لي أن أعرض عليك هذه اللعبة المسلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_analyst",
+      "en": "analyst",
+      "ar": "محلل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He works as a data analyst.",
+          "ar": "يعمل كمحلل بيانات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ancestor",
+      "en": "ancestor",
+      "ar": "سلف / أجداد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My ancestors are from Yemen.",
+          "ar": "أجدادي من اليمن ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anger",
+      "en": "anger",
+      "ar": "غضب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He shut the door with anger.",
+          "ar": "أغلق الباب بغضب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_angle",
+      "en": "angle",
+      "ar": "زاوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A square has four angles.",
+          "ar": "المربع له أربع زوايا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_animation",
+      "en": "animation",
+      "ar": "رسوم متحركة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My kids and I watch a new animation movie every week.",
+          "ar": "أنا وأطفالي نشاهد فيلم رسوم متحركة جديد كل أسبوع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anniversary",
+      "en": "anniversary",
+      "ar": "ذكرى سنوية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Tomorrow is our wedding anniversary.",
+          "ar": "غدًا هو ذكرى زواجنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_annual",
+      "en": "annual",
+      "ar": "سنوي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The annual growth rate of the company is 15%.",
+          "ar": "معدل النمو السنوي للشركة هو 15%."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_annually",
+      "en": "annually",
+      "ar": "سنوياً",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The conference is held annually.",
+          "ar": "يعقد المؤتمر سنوياً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anticipate",
+      "en": "anticipate",
+      "ar": "يتوقع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I anticipate many teams will participate.",
+          "ar": "أتوقع أن تشارك العديد من الفرق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anxiety",
+      "en": "anxiety",
+      "ar": "قلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My colleague suffers from social anxiety.",
+          "ar": "زميلي يعاني من القلق الاجتماعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_anxious",
+      "en": "anxious",
+      "ar": "قلق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your mother is anxious about your future.",
+          "ar": "والدتك قلقة على مستقبلك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_apology",
+      "en": "apology",
+      "ar": "اعتذار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I offer you my apology for anything I did wrong.",
+          "ar": "أقدم لك اعتذاري عن أي خطأ فعلته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_apparent",
+      "en": "apparent",
+      "ar": "واضح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "For no apparent reason, the request was rejected.",
+          "ar": "وبدون سبب واضح، تم رفض الطلب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_apparently",
+      "en": "apparently",
+      "ar": "يبدو أن / بوضوح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I thought he had retired, but apparently he hasn't.",
+          "ar": "اعتقدت أنه قد تقاعد، ولكن يبدو أنه لم يفعل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_appeal",
+      "en": "appeal",
+      "ar": "إعجاب / جاذبية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Did the painting appeal to you ?",
+          "ar": "هل نالت اللوحة إعجابك ؟"
+        },
+        {
+          "en": "Their products lack commercial appeal.",
+          "ar": "منتجاتهم تفتقر إلى الجاذبية التجارية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_applicant",
+      "en": "applicant",
+      "ar": "متقدم للوظيفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There were over 200 applicants for the job.",
+          "ar": "كان هناك أكثر من 200 متقدم للوظيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_approach",
+      "en": "approach",
+      "ar": "يقترب / أسلوب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A strong storm is approaching our area.",
+          "ar": "عاصفة قوية تقترب من منطقتنا."
+        },
+        {
+          "en": "We need an alternative approach to deal with this problem.",
+          "ar": "نحن بحاجة إلى أسلوب بديل للتعامل مع هذه المشكلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_appropriate",
+      "en": "appropriate",
+      "ar": "مناسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "When is the appropriate time to announce the results ?",
+          "ar": "متى هو الوقت المناسب لاعلان النتائج ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_appropriately",
+      "en": "appropriately",
+      "ar": "بشكل مناسب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They didn't act appropriately in the hall.",
+          "ar": "لم يتصرفوا بشكل مناسب في القاعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_approval",
+      "en": "approval",
+      "ar": "رضا / موافقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He wanted to win her mother's approval.",
+          "ar": "أراد أن يفوز برضا والدتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_approve",
+      "en": "approve",
+      "ar": "يوافق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She didn't quite approve of the way her son wears clothes.",
+          "ar": "لم توافق تمامًا على الطريقة التي يرتدي بها ابنها الملابس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_arise",
+      "en": "arise",
+      "ar": "تنشأ / تظهر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A serious problem can arise if we stop production.",
+          "ar": "يمكن أن تنشأ مشكلة خطيرة إذا توقفنا عن الإنتاج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_armed",
+      "en": "armed",
+      "ar": "مسلح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Four armed men were seen at the scene.",
+          "ar": "شوهد أربعة رجال مسلحين في مكان الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_arms",
+      "en": "arms",
+      "ar": "أسلحة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_a_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Police officers in this country do not usually carry arms.",
+          "ar": "ضابط الشرطة في هذا البلد لا يحملون أسلحة في العادة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

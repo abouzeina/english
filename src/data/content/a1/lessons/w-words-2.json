@@ -1,13 +1,13 @@
 {
   "id": "lsn_a1_w_2",
-  "levelId": "lvl_1",
-  "title": "W Words - Part 2",
+  "levelId": "lvl_a1",
+  "title": "Unit 47: W Words - Part 2",
   "slug": "w-words-2",
-  "order": 46,
-  "wordCount": 22,
-  "titleAr": "كلمات حرف W - الجزء 2",
-  "description": "Learn essential A1 vocabulary starting with the letter W.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف W.",
+  "order": 47,
+  "wordCount": 23,
+  "titleAr": "الوحدة 47: كلمات حرف W - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter W.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف W.",
   "words": [
     {
       "id": "w_a1_which",
@@ -34,6 +34,28 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_white",
+      "lessonId": "lsn_a1_w_2",
+      "en": "white",
+      "translation": "أبيض",
+      "ar": "أبيض",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Look at that white bird.",
+          "ar": "انظر إلى ذلك الطائر الأبيض."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/waɪt/"
     },
     {
       "id": "w_a1_who",
@@ -67,7 +89,6 @@
       "en": "why",
       "translation": "لماذا / سبب",
       "ar": "لماذا / سبب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -85,29 +106,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_white",
-      "lessonId": "lsn_a1_w_2",
-      "en": "white",
-      "translation": "أبيض",
-      "ar": "أبيض",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Look at that white bird.",
-          "ar": "انظر إلى ذلك الطائر الأبيض."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/waɪ/"
     },
     {
       "id": "w_a1_wife",
@@ -115,7 +115,6 @@
       "en": "wife",
       "translation": "زوجة",
       "ar": "زوجة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -129,7 +128,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/waɪf/"
     },
     {
       "id": "w_a1_will",
@@ -137,7 +137,6 @@
       "en": "will",
       "translation": "سوف / هل (للمستقبل)",
       "ar": "سوف / هل (للمستقبل)",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -147,15 +146,21 @@
         {
           "en": "Will you come tomorrow?",
           "ar": "هل ستأتي غدًا؟"
+        },
+        {
+          "en": "I don't want to go against my father's will.",
+          "ar": "لا أريد أن أخالف إرادة والدي."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɪl/"
     },
     {
       "id": "w_a1_win",
@@ -163,21 +168,26 @@
       "en": "win",
       "translation": "يفوز",
       "ar": "يفوز",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
           "en": "I want to win today.",
           "ar": "أريد أن أفوز اليوم."
+        },
+        {
+          "en": "It was an easy win.",
+          "ar": "لقد كان فوزًا سهلاً."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɪn/"
     },
     {
       "id": "w_a1_window",
@@ -281,7 +291,6 @@
       "en": "without",
       "translation": "بدون",
       "ar": "بدون",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -295,7 +304,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɪθˈʌʊt/"
     },
     {
       "id": "w_a1_woman",
@@ -347,7 +357,6 @@
       "en": "word",
       "translation": "كلمة",
       "ar": "كلمة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -361,7 +370,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɜːd/"
     },
     {
       "id": "w_a1_work",
@@ -369,7 +379,6 @@
       "en": "work",
       "translation": "عمل / يعمل",
       "ar": "عمل / يعمل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -387,7 +396,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/wɜːk/"
     },
     {
       "id": "w_a1_workers",
@@ -473,7 +483,6 @@
       "en": "write",
       "translation": "يكتب",
       "ar": "يكتب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -487,7 +496,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/ɹaɪt/"
     },
     {
       "id": "w_a1_writer",
@@ -517,7 +527,6 @@
       "en": "writing",
       "translation": "الكتابة",
       "ar": "الكتابة",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -529,6 +538,35 @@
       "tags": [
         "A1",
         "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹaɪtɪŋ/"
+    },
+    {
+      "id": "w_a1_wrong",
+      "lessonId": "lsn_a1_w_2",
+      "en": "wrong",
+      "translation": "خاطئ / خاطئة",
+      "ar": "خاطئ / خاطئة",
+      "pronunciation": "/ron/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "That's the wrong answer.",
+          "ar": "تلك إجابة خاطئة."
+        },
+        {
+          "en": "The wrong he committed hurt many innocent people.",
+          "ar": "الخطأ الذي ارتكبه قد أضر بالعديد من الأبرياء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
       "needsTranslationReview": false

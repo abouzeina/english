@@ -1,43 +1,20 @@
 {
   "id": "lsn_a1_n_1",
-  "levelId": "lvl_1",
-  "title": "N Words - Part 1",
+  "levelId": "lvl_a1",
+  "title": "Unit 27: N Words - Part 1",
   "slug": "n-words-1",
   "order": 27,
-  "wordCount": 25,
-  "titleAr": "كلمات حرف N - الجزء 1",
-  "description": "Learn essential A1 vocabulary starting with the letter N.",
-  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف N.",
+  "wordCount": 13,
+  "titleAr": "الوحدة 27: كلمات حرف N - الجزء 1",
+  "description": "Master essential A1 vocabulary starting with the letter N.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف N.",
   "words": [
-    {
-      "id": "w_a1_my",
-      "lessonId": "lsn_a1_n_1",
-      "en": "my",
-      "translation": "ضمير ملكية (لي)",
-      "ar": "ضمير ملكية (لي)",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I forgot my keys at home.",
-          "ar": "نسيت مفاتيحي في المنزل."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_name",
       "lessonId": "lsn_a1_n_1",
       "en": "name",
       "translation": "اسم / يطلق اسم / يذكر اسم",
       "ar": "اسم / يطلق اسم / يذكر اسم",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -51,15 +28,21 @@
         {
           "en": "Name one thing you love.",
           "ar": "اذكر اسم شيء واحد تحبه."
+        },
+        {
+          "en": "My name is Ahmed.",
+          "ar": "اسمي أحمد."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "personal"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/neɪm/"
     },
     {
       "id": "w_a1_natural",
@@ -89,7 +72,6 @@
       "en": "near",
       "translation": "بالقرب / قريب",
       "ar": "بالقرب / قريب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -107,7 +89,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/nɪə(ɹ)/"
     },
     {
       "id": "w_a1_need",
@@ -115,7 +98,6 @@
       "en": "need",
       "translation": "يحتاج",
       "ar": "يحتاج",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -125,15 +107,21 @@
         {
           "en": "We need to talk.",
           "ar": "نحتاج أن نتحدث."
+        },
+        {
+          "en": "There is no need for you to come early tomorrow.",
+          "ar": "ليست هناك حاجة لك أن تأتي مبكرًا غدًا :"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "A2"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/niːd/"
     },
     {
       "id": "w_a1_negative",
@@ -147,12 +135,18 @@
         {
           "en": "I read all the negative comments.",
           "ar": "قرأت جميع التعليقات السلبية."
+        },
+        {
+          "en": "Focus on solutions, not just the negative.",
+          "ar": "ركز على الحلول، وليس فقط على الأمور السلبية."
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high",
       "needsTranslationReview": false
@@ -207,7 +201,6 @@
       "en": "new",
       "translation": "جديد",
       "ar": "جديد",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -221,7 +214,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/njʉː/"
     },
     {
       "id": "w_a1_news",
@@ -229,7 +223,6 @@
       "en": "news",
       "translation": "أخبار",
       "ar": "أخبار",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -243,7 +236,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/njuːz/"
     },
     {
       "id": "w_a1_newspaper",
@@ -273,7 +267,6 @@
       "en": "next",
       "translation": "تالي / بعد ذلك / بجانب",
       "ar": "تالي / بعد ذلك / بجانب",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -287,15 +280,21 @@
         {
           "en": "I parked next to your car.",
           "ar": "أوقفت سيارتي بجانب سيارتك."
+        },
+        {
+          "en": "Who is next?",
+          "ar": "من التالي ؟"
         }
       ],
       "difficulty": "A1",
       "tags": [
         "A1",
-        "core"
+        "core",
+        "B1"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/nɛkst/"
     },
     {
       "id": "w_a1_nice",
@@ -329,7 +328,6 @@
       "en": "night",
       "translation": "ليل",
       "ar": "ليل",
-      "pronunciation": "",
       "type": "word",
       "examples": [
         {
@@ -343,261 +341,8 @@
         "core"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_nineteen",
-      "lessonId": "lsn_a1_n_1",
-      "en": "nineteen",
-      "translation": "تسعة عشر",
-      "ar": "تسعة عشر",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I have only nineteen dollars.",
-          "ar": "لدي تسعة عشر دولاراً فقط."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_ninety",
-      "lessonId": "lsn_a1_n_1",
-      "en": "ninety",
-      "translation": "تسعين",
-      "ar": "تسعين",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "She is ninety years old.",
-          "ar": "تبلغ من العمر تسعين عاماً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_no",
-      "lessonId": "lsn_a1_n_1",
-      "en": "no",
-      "translation": "لا / أي",
-      "ar": "لا / أي",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "No, I'm not coming.",
-          "ar": "لا، لن آتي."
-        },
-        {
-          "en": "I have no idea.",
-          "ar": "ليس لدي أي فكرة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_no_one",
-      "lessonId": "lsn_a1_n_1",
-      "en": "no one",
-      "translation": "لا أحد",
-      "ar": "لا أحد",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "No one is here today.",
-          "ar": "لا أحد هنا اليوم."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_north",
-      "lessonId": "lsn_a1_n_1",
-      "en": "north",
-      "translation": "شمال / شمالي / شمالاً",
-      "ar": "شمال / شمالي / شمالاً",
-      "pronunciation": "/nore/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "They live in the north.",
-          "ar": "يعيشون في الشمال."
-        },
-        {
-          "en": "Meet me at the north door.",
-          "ar": "قابلني عند الباب الشمالي."
-        },
-        {
-          "en": "The train is going north.",
-          "ar": "القطار يتجه شمالاً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_nose",
-      "lessonId": "lsn_a1_n_1",
-      "en": "nose",
-      "translation": "أنف",
-      "ar": "أنف",
-      "pronunciation": "/nouz/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Your nose is very small.",
-          "ar": "أنفك صغير جداً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_not",
-      "lessonId": "lsn_a1_n_1",
-      "en": "not",
-      "translation": "لا",
-      "ar": "لا",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I do not like this man.",
-          "ar": "أنا لا أحب هذا الرجل."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_note",
-      "lessonId": "lsn_a1_n_1",
-      "en": "note",
-      "translation": "ملاحظة",
-      "ar": "ملاحظة",
-      "pronunciation": "/nout/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Read the note on the table.",
-          "ar": "اقرأ الملاحظة على الطاولة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_nothing",
-      "lessonId": "lsn_a1_n_1",
-      "en": "nothing",
-      "translation": "لا شيء",
-      "ar": "لا شيء",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I have nothing to say.",
-          "ar": "ليس لدي شيء أقوله."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_november",
-      "lessonId": "lsn_a1_n_1",
-      "en": "November",
-      "translation": "شهر نوفمبر",
-      "ar": "شهر نوفمبر",
-      "pronunciation": "/nou'vem-bər/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The trees change in November.",
-          "ar": "تتغير الأشجار في شهر نوفمبر."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_now",
-      "lessonId": "lsn_a1_n_1",
-      "en": "now",
-      "translation": "الآن",
-      "ar": "الآن",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I am studying now.",
-          "ar": "أنا أدرس الآن."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/naɪt/"
     }
   ]
 }

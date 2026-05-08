@@ -38,7 +38,14 @@ export class SyncEngine {
   private debounceTimer: NodeJS.Timeout | null = null;
   private isProcessing = false;
 
-  private constructor() {}
+  private constructor() {
+    if (typeof window !== 'undefined') {
+      window.addEventListener('online', () => {
+        console.log("[SyncEngine] Online again, forcing sync...");
+        this.forceSync();
+      });
+    }
+  }
 
   public static getInstance(): SyncEngine {
     if (!SyncEngine.instance) {
@@ -53,6 +60,7 @@ export class SyncEngine {
   public enqueue(userId: string, path: string, data: any) {
     const key = `${userId}/${path}`;
     const existing = this.queue.get(key) || {};
+    if (!this.queue.has(key)) useSyncStore.getState().incrementPending();
     this.queue.set(key, { ...existing, ...data });
     this.triggerDebounce();
   }
@@ -62,6 +70,7 @@ export class SyncEngine {
    */
   public enqueueWord(userId: string, wordId: string, data: any) {
     const key = `${userId}/words/${wordId}`;
+    if (!this.wordQueue.has(key)) useSyncStore.getState().incrementPending();
     this.wordQueue.set(key, data);
     this.triggerDebounce();
   }
@@ -80,6 +89,11 @@ export class SyncEngine {
     // Safety check for uninitialized db (e.g. during build)
     if (!db || !db.type) {
       console.warn("[SyncEngine] Skipping sync: Firestore is not initialized.");
+      return;
+    }
+
+    if (typeof navigator !== 'undefined' && !navigator.onLine) {
+      console.warn("[SyncEngine] Offline, deferring sync.");
       return;
     }
 
@@ -112,6 +126,7 @@ export class SyncEngine {
 
       await batch.commit();
       console.log(`[SyncEngine] Successfully synced ${currentQueue.size} general docs and ${currentWordQueue.size} words.`);
+      useSyncStore.getState().decrementPending(currentQueue.size + currentWordQueue.size);
       useSyncStore.getState().setLastSynced(Date.now());
     } catch (error) {
       console.error("[SyncEngine] Sync failed, re-queueing data:", error);

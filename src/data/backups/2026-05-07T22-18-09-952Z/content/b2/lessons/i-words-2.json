@@ -1,0 +1,563 @@
+{
+  "id": "lsn_b2_i_2",
+  "levelId": "lvl_b2",
+  "slug": "i-words-2",
+  "title": "I Words - Part 2",
+  "titleAr": "كلمات حرف I - الجزء 2",
+  "description": "Learn essential B2 vocabulary starting with the letter I.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف I.",
+  "order": 22,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_index",
+      "en": "index",
+      "ar": "فهرس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The book has a detailed index at the back.",
+          "ar": "يحتوي الكتاب على فهرس مفصل في الخلف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_indication",
+      "en": "indication",
+      "ar": "إشارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her smile was an indication that she was happy.",
+          "ar": "كانت ابتسامتها إشارة على انها سعيدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_industrial",
+      "en": "Industrial",
+      "ar": "الصناعي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Industrial pollution is a major concern.",
+          "ar": "التلوث الصناعي هو مصدر قلق كبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inevitable",
+      "en": "inevitable",
+      "ar": "لا مفر منه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Death is inevitable for all living beings.",
+          "ar": "الموت أمر لا مفر منه لجميع الكائنات الحية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inevitably",
+      "en": "inevitably",
+      "ar": "لا محالة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He will inevitably face the consequences.",
+          "ar": "سيواجه العواقب لا محالة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_infection",
+      "en": "Infection",
+      "ar": "العدوى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Infection can spread quickly in hospitals.",
+          "ar": "يمكن أن تنتشر العدوى بسرعة في المستشفيات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inferred",
+      "en": "inferred",
+      "ar": "استدلت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She inferred from his silence that he was upset.",
+          "ar": "استدلت من صمته أنه كان منزعجا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inflation",
+      "en": "inflation",
+      "ar": "التضخم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The cost of living has increased due to inflation.",
+          "ar": "ارتفعت تكاليف المعيشة بسبب التضخم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_info",
+      "en": "info",
+      "ar": "معلومات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can you give me more info about the event ?",
+          "ar": "هل يمكن أن تعطيني المزيد من المعلومات حول الفعالية ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_informed",
+      "en": "informed",
+      "ar": "أبلغونا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They informed us about the new policies.",
+          "ar": "لقد أبلغونا بالسياسات الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_infrastructure",
+      "en": "infrastructure",
+      "ar": "البنية التحتية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The infrastructure of the new stadium is impressive.",
+          "ar": "البنية التحتية للملعب الجديد مثيرة للإعجاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inhabitants",
+      "en": "inhabitants",
+      "ar": "سكان",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The island's inhabitants are friendly.",
+          "ar": "سكان الجزيرة ودودون"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inherit",
+      "en": "inherit",
+      "ar": "يرث",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is expected to inherit a large fortune.",
+          "ar": "من المتوقع أن يرث ثروة كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_initial",
+      "en": "initial",
+      "ar": "الأولية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She felt nervous during the initial interview.",
+          "ar": "هي شعرت بالتوتر أثناء المقابلة الأولية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_initially",
+      "en": "Initially",
+      "ar": "في البداية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Initially, they thought it was a mistake.",
+          "ar": "في البداية، اعتقدوا أنه كان خطأ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_initiative",
+      "en": "initiative",
+      "ar": "المبادرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The initiative aims to help the homeless.",
+          "ar": "تهدف المبادرة لمساعدة المشردين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ink",
+      "en": "ink",
+      "ar": "الحبر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He prefers to write with blue ink.",
+          "ar": "هو يفضل الكتابة بالحبر الأزرق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inner",
+      "en": "inner",
+      "ar": "الداخلي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She discovered her inner creativity through painting.",
+          "ar": "لقد اكتشفت إبداعها الداخلي من خلال الرسم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_innovation",
+      "en": "Innovation",
+      "ar": "الابتكار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Innovation can solve many global problems.",
+          "ar": "يمكن للابتكار أن يحل العديد من المشاكل العالمية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_innovative",
+      "en": "innovative",
+      "ar": "مبتكرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He introduced an innovative marketing strategy.",
+          "ar": "هو قدم استراتيجية تسويقية مبتكرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_input",
+      "en": "input",
+      "ar": "مدخلات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She gathered input from various experts.",
+          "ar": "لقد جمعت مدخلات من خبراء مختلفين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_inquiry",
+      "en": "inquiry",
+      "ar": "استفسارًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The school received an inquiry from a parent.",
+          "ar": "تلقت المدرسة استفسارًا من أحد الوالدين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_insert",
+      "en": "insert",
+      "ar": "يدرج",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He decided to insert a new paragraph in his essay.",
+          "ar": "قرر أن يدرج فقرة جديدة في مقالته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_insight",
+      "en": "insight",
+      "ar": "نظرة ثاقبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His experience gave him insight into the issue.",
+          "ar": "لقد أعطته خبرته نظرة ثاقبة في هذه القضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_insists",
+      "en": "insists",
+      "ar": "يصر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He insists on paying for dinner every time.",
+          "ar": "هو يصر على دفع ثمن العشاء في كل مرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

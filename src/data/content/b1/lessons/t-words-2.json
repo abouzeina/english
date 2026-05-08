@@ -1,30 +1,92 @@
 {
   "id": "lsn_b1_t_2",
   "levelId": "lvl_b1",
+  "title": "Unit 37: T Words - Part 2",
   "slug": "t-words-2",
-  "title": "Unit 40: T Words - Part 2",
-  "titleAr": "الوحدة 40: كلمات حرف T - الجزء 2",
-  "description": "Expand your intermediate vocabulary with words starting with T.",
-  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف T.",
-  "order": 40,
-  "wordCount": 16,
+  "order": 37,
+  "wordCount": 18,
+  "titleAr": "الوحدة 37: كلمات حرف T - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف T.",
   "words": [
     {
-      "id": "w_b1_total",
-      "en": "total",
-      "ar": "إجمالي / مجموع",
+      "id": "w_b1_tiny",
+      "en": "tiny",
+      "ar": "ضئيلة / صغير جداً",
+      "pronunciation": "/ tar-ni/",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can't eat but a tiny amount of food.",
+          "ar": "لا أستطيع أن آكل إلا كمية ضئيلة من الطعام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tipped",
+      "en": "tipped",
+      "ar": "إكرامية",
+      "pronunciation": "/txp/",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I tipped the waiter already.",
+          "ar": "لقد أعطيت النادل إكرامية بالفعل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_toes",
+      "en": "toes",
+      "ar": "أصابع قدم",
       "pronunciation": "",
       "lessonId": "lsn_b1_t_2",
       "levelId": "lvl_b1",
       "categoryId": "general",
       "examples": [
         {
-          "en": "The total is one hundred riyal.",
-          "ar": "المجموع مئة ريال."
-        },
+          "en": "My toes are frozen.",
+          "ar": "أصابع قدمي متجمدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tongue",
+      "en": "tongue",
+      "ar": "لسان",
+      "pronunciation": "/τη/",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
         {
-          "en": "What are your total sales last month?",
-          "ar": "ما هو إجمالي مبيعاتكم الشهر الماضي ؟"
+          "en": "He bit his tongue while he was eating.",
+          "ar": "عض لسانه بينما كان يأكل."
         }
       ],
       "type": "word",
@@ -47,28 +109,6 @@
         {
           "en": "He came from a totally different culture.",
           "ar": "لقد جاء من ثقافة مختلفة تمامًا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_touch",
-      "en": "touch",
-      "ar": "لمسة / القليل",
-      "pronunciation": "/txt/",
-      "lessonId": "lsn_b1_t_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "This soup needs a touch of pepper.",
-          "ar": "هذا الحساء يحتاج إلى لمسة من الفلفل."
         }
       ],
       "type": "word",
@@ -330,28 +370,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_type",
-      "en": "Type",
-      "ar": "اكتب (يدخل بيانات)",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_t_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Type your email and press enter.",
-          "ar": "اكتب بريدك الإلكتروني واضغط على إدخال."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_b1_typically",
       "en": "Typically",
       "ar": "عادةً",
@@ -363,6 +381,28 @@
         {
           "en": "Typically, we serve beef with vegetables for lunch.",
           "ar": "عادةً، نقدم اللحم البقري مع الخضار على الغداء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tyre",
+      "en": "tyre",
+      "ar": "إطار سيارة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I want to repair the flat tyre of my car.",
+          "ar": "أريد إصلاح إطار سيارتي المثقوب."
         }
       ],
       "type": "word",

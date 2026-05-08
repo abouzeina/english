@@ -1,0 +1,517 @@
+{
+  "id": "lsn_a2_d_2",
+  "levelId": "lvl_2",
+  "slug": "d-words-2",
+  "title": "Unit 11: D Words - Part 2",
+  "titleAr": "الوحدة 11: كلمات حرف D - الجزء 2",
+  "description": "Build on your A2 vocabulary starting with the letter D.",
+  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف D.",
+  "order": 11,
+  "wordCount": 22,
+  "words": [
+    {
+      "id": "w_a2_direct",
+      "en": "direct",
+      "ar": "مباشرة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There is a direct flight from Cairo to Jeddah",
+          "ar": "هناك رحلة مباشرة من القاهرة إلى جدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_direction",
+      "en": "direction",
+      "ar": "اتجاهات",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They went in opposite directions.",
+          "ar": "ذهبوا في اتجاهات متعاكسة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_director",
+      "en": "director",
+      "ar": "مدير",
+      "pronunciation": "/də rek-tər, dar rek tər/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is the director of this project?",
+          "ar": "هو مدير هذا المشروع ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_disagree",
+      "en": "disagree",
+      "ar": "أختلف",
+      "pronunciation": "/ dıs  gri/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I disagree with you on this point",
+          "ar": "أنا أختلف معك في هذه النقطة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_disappear",
+      "en": "disappear",
+      "ar": "اختفت",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "That newspaper disappeared after five years",
+          "ar": "اختفت تلك الصحيفة بعد خمس سنوات :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_disaster",
+      "en": "disaster",
+      "ar": "كارثة",
+      "pronunciation": "/dı zæs tər/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The situation is really a disaster.",
+          "ar": "الوضع هو حقا كارثة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_discover",
+      "en": "discover",
+      "ar": "اكتشف",
+      "pronunciation": "/dr   er/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who discovered America ?",
+          "ar": "من اكتشف أمريكا ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_discovery",
+      "en": "discovery",
+      "ar": "اكتشاف",
+      "pronunciation": "/dr'skav-ər-i/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They made an important discovery.",
+          "ar": "توصلوا إلى اكتشاف مهم :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_discussion",
+      "en": "discussion",
+      "ar": "نقاش",
+      "pronunciation": "/dr skaf en/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I discovered something interesting during our discussion.",
+          "ar": "اكتشفت شيئا مثيرا للاهتمام أثناء نقاشنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_disease",
+      "en": "disease",
+      "ar": "مرض",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Colds are a common disease.",
+          "ar": "نزلات البرد مرض شائع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_distance",
+      "en": "distance",
+      "ar": "مسافات",
+      "pronunciation": "/'dıs-təns/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can't drive long distances.",
+          "ar": "لا أستطيع القيادة لمسافات طويلة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_divorced",
+      "en": "divorced",
+      "ar": "مطلقان",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Tom and Mary are divorced.",
+          "ar": "توم وماري مطلقان :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_document",
+      "en": "document",
+      "ar": "وثيقة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who gave you this document?",
+          "ar": "من أعطاك هذه الوثيقة : ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_double",
+      "en": "double",
+      "ar": "مزدوجة / يضاعف",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Some words have double meanings.",
+          "ar": "بعض الكلمات لها معاني مزدوجة :"
+        },
+        {
+          "en": "We need double the amount we already have",
+          "ar": "نحتاج إلى ضعف المبلغ الذي لدينا بالفعل :"
+        },
+        {
+          "en": "I'm doubling my prices.",
+          "ar": "أنا أضاعف أسعاري :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_download",
+      "en": "download",
+      "ar": "تحميل",
+      "pronunciation": "/daun loud/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How do I download the file ?",
+          "ar": "كيف أحمل الملف : ؟"
+        },
+        {
+          "en": "The download speed is fast here",
+          "ar": "سرعة التحميل سريعة هنا :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_downstairs",
+      "en": "downstairs",
+      "ar": "الطابق السفلي",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please use the downstairs bathroom.",
+          "ar": "الرجاء استخدام حمام الطابق السفلي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_drama",
+      "en": "drama",
+      "ar": "دراما",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Her life was full of drama.",
+          "ar": "كانت حياتها مليئة بالدراما :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_drawing",
+      "en": "drawing",
+      "ar": "رسمة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I like this drawing.",
+          "ar": "تعجبني هذه الرسمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_dream",
+      "en": "dream",
+      "ar": "حلم / يحلم",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It was just a dream.",
+          "ar": "كان مجرد حلم :"
+        },
+        {
+          "en": "I dreamed about my mother.",
+          "ar": "حلمت بأمي :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_drive",
+      "en": "drive",
+      "ar": "قيادة / سيارة",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "It's a four - hour drive to the city.",
+          "ar": "يستغرق الوصول إلى المدينة أربع ساعات بالسيارة :"
+        },
+        {
+          "en": "I started to take driving lessons.",
+          "ar": "بدأت بأخذ دروس في القيادة :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_drop",
+      "en": "drop",
+      "ar": "أسقط",
+      "pronunciation": "",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Tom dropped his coffee cup.",
+          "ar": "علي أسقط فنجان قهوته :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_a2_drug",
+      "en": "drug",
+      "ar": "مخدرات",
+      "pronunciation": "/drag/",
+      "lessonId": "lsn_a2_d_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He was caught selling drugs.",
+          "ar": "تم القبض عليه وهو يبيع المخدرات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

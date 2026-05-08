@@ -33,5 +33,29 @@
     "order": 3,
     "wordCount": 804,
     "totalLessons": 45
+  },
+  {
+    "id": "lvl_b2",
+    "slug": "b2",
+    "name": "Upper Intermediate",
+    "nameAr": "فوق المتوسط (B2)",
+    "title": "B2 Upper Intermediate",
+    "description": "Upper intermediate English vocabulary and advanced communication patterns.",
+    "descriptionAr": "مفردات اللغة الإنجليزية للمستوى فوق المتوسط وأنماط التواصل المتقدمة.",
+    "order": 4,
+    "wordCount": 1219,
+    "totalLessons": 63
+  },
+  {
+    "id": "lvl_c1",
+    "slug": "c1",
+    "name": "Advanced",
+    "nameAr": "متقدم (C1)",
+    "title": "C1 Advanced",
+    "description": "Advanced English vocabulary, nuanced expressions, and academic/professional communication.",
+    "descriptionAr": "مفردات إنجليزية متقدمة، تعبيرات دقيقة، وتواصل أكاديمي ومهني.",
+    "order": 5,
+    "wordCount": 1000,
+    "totalLessons": 52
   }
 ]

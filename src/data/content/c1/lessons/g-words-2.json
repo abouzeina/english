@@ -1,0 +1,299 @@
+{
+  "id": "lsn_c1_g_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 15: G Words - Part 2",
+  "slug": "g-words-2",
+  "order": 15,
+  "wordCount": 13,
+  "titleAr": "الوحدة 15: كلمات حرف G - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter G.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف G.",
+  "words": [
+    {
+      "id": "w_c1_grasp",
+      "en": "grasp",
+      "ar": "يفهم / يمسك",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استغرق الأمر مني بعض الوقت لأفهم معنى المفهوم",
+          "ar": "He tried to grasp the rope before it slipped away."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹɑːsp/"
+    },
+    {
+      "id": "w_c1_grave",
+      "en": "grave",
+      "ar": "قبر / خطير",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وضعوا الزهور على قبر جدهم",
+          "ar": "The doctor warned that the patient was in grave danger."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹeɪv/"
+    },
+    {
+      "id": "w_c1_gravity",
+      "en": "gravity",
+      "ar": "جاذبية / خطورة",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نيوتن مشهور بقانونه للجاذبية الكونية",
+          "ar": "The manager understood the gravity of the situation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡɹævɪti/"
+    },
+    {
+      "id": "w_c1_grid",
+      "en": "grid",
+      "ar": "شبكة",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صُممت المدينة على شبكة بسيطة من الشوارع",
+          "ar": "Power outages can occur if the electrical grid fails."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹɪd/"
+    },
+    {
+      "id": "w_c1_grief",
+      "en": "grief",
+      "ar": "حزن / أسى",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "غمر الحزن (الأسى) العائلة بعد المأساة",
+          "ar": "It takes time to process the grief of losing a loved one."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹiːf/"
+    },
+    {
+      "id": "w_c1_grin",
+      "en": "grin",
+      "ar": "ابتسامة عريضة",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت على وجهه ابتسامة عريضة بعد فوزه بالجائزة",
+          "ar": "She managed to grin despite the difficult circumstances."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹɪn/"
+    },
+    {
+      "id": "w_c1_grind",
+      "en": "grind",
+      "ar": "يطحن / يسحق",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تحتاج لطحن حبوب القهوة قبل إعداد المشروب",
+          "ar": "The machine began to grind to a halt due to the rust."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡɹaɪnd/"
+    },
+    {
+      "id": "w_c1_grip",
+      "en": "grip",
+      "ar": "قبضة / يمسك",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أحكم قبضته على مقبض الحقيبة",
+          "ar": "The fear managed to grip the entire community."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹɪp/"
+    },
+    {
+      "id": "w_c1_gross",
+      "en": "gross",
+      "ar": "إجمالي / مقزز",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تجاوز إجمالي ربح الشركة كل التوقعات",
+          "ar": "I found the smell in the kitchen to be absolutely gross."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹəʊs/"
+    },
+    {
+      "id": "w_c1_guerrilla",
+      "en": "guerrilla",
+      "ar": "عصابات / حرب عصابات",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اختبأ مقاتلو العصابات في الجبال لعدة أشهر",
+          "ar": "The army struggled to deal with the guerrilla tactics."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡəˈɹɪlə/"
+    },
+    {
+      "id": "w_c1_guidance",
+      "en": "guidance",
+      "ar": "توجيه / إرشاد",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "غالباً ما يطلب الطلاب التوجيه من مستشاريهم الأكاديميين",
+          "ar": "Under his guidance, the project was completed on time."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡaɪdəns/"
+    },
+    {
+      "id": "w_c1_guilt",
+      "en": "guilt",
+      "ar": "ذنب / شعور بالذنب",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "شعر بإحساس عميق بالذنب لكذبه على والديه",
+          "ar": "The prosecution failed to prove the defendant's guilt."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɪlt/"
+    },
+    {
+      "id": "w_c1_gut",
+      "en": "gut",
+      "ar": "أمعاء / حدس",
+      "lessonId": "lsn_c1_g_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تناول الطعام الصحي مهم لصحة الأمعاء",
+          "ar": "I had a gut feeling that something was wrong."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡʌt/"
+    }
+  ]
+}

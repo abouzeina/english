@@ -1,13 +1,13 @@
 {
   "id": "lsn_a2_p_2",
-  "levelId": "lvl_2",
+  "levelId": "lvl_a2",
+  "title": "Unit 29: P Words - Part 2",
   "slug": "p-words-2",
-  "title": "Unit 30: P Words - Part 2",
-  "titleAr": "الوحدة 30: كلمات حرف P - الجزء 2",
-  "description": "Build on your A2 vocabulary starting with the letter P.",
-  "descriptionAr": "تعلم كلمات المستوى A2 الأساسية التي تبدأ بحرف P.",
-  "order": 30,
-  "wordCount": 25,
+  "order": 29,
+  "wordCount": 21,
+  "titleAr": "الوحدة 29: كلمات حرف P - الجزء 2",
+  "description": "Master essential A2 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف P.",
   "words": [
     {
       "id": "w_a2_physical",
@@ -35,7 +35,6 @@
       "id": "w_a2_physics",
       "en": "physics",
       "ar": "فيزياء",
-      "pronunciation": "",
       "lessonId": "lsn_a2_p_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -51,7 +50,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈfɪz.ɪks/"
     },
     {
       "id": "w_a2_pick",
@@ -65,13 +65,19 @@
         {
           "en": "Pick a number from one to ten.",
           "ar": "اختر رقمًا من واحد إلى عشرة : يَقْطُف :"
+        },
+        {
+          "en": "Her pick for the movie was perfect.",
+          "ar": "كان اختيارها للفيلم مثاليا."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -109,28 +115,6 @@
         {
           "en": "Are you from another planet?",
           "ar": "هل أنت من كوكب آخر :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_plant",
-      "en": "plant",
-      "ar": "يزرع",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_p_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We may plant a couple more trees.",
-          "ar": "قد نزرع عدة أشجار أخرى."
         }
       ],
       "type": "word",
@@ -212,32 +196,9 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_please",
-      "en": "please",
-      "ar": "يرضي",
-      "pronunciation": "/pliz/",
-      "lessonId": "lsn_a2_p_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "You can't please everybody.",
-          "ar": "لا يمكنك أن ترضي الجميع :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_pleased",
       "en": "pleased",
       "ar": "مسرور",
-      "pronunciation": "",
       "lessonId": "lsn_a2_p_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -253,7 +214,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/pliːzd/"
     },
     {
       "id": "w_a2_pocket",
@@ -325,7 +287,6 @@
       "id": "w_a2_pop",
       "en": "pop",
       "ar": "بوب",
-      "pronunciation": "",
       "lessonId": "lsn_a2_p_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -333,15 +294,22 @@
         {
           "en": "Do you like pop music?",
           "ar": "هل تعجبك موسيقى البوب ؟"
+        },
+        {
+          "en": "فرقع البالون عندما لمس الصبار",
+          "ar": "An idea suddenly popped into my head."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "C1",
+        "advanced"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/pɒp/"
     },
     {
       "id": "w_a2_population",
@@ -364,6 +332,28 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b2_position",
+      "en": "position",
+      "ar": "ضع",
+      "lessonId": "lsn_a2_p_2",
+      "levelId": "lvl_a2",
+      "examples": [
+        {
+          "en": "Carefully position the books on the top shelf.",
+          "ar": "ضع الكتب بعناية على الرف العلوي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəˈzɪʃ(ə)n/"
     },
     {
       "id": "w_a2_possession",
@@ -413,7 +403,6 @@
       "id": "w_a2_poster",
       "en": "poster",
       "ar": "ملصقات",
-      "pronunciation": "",
       "lessonId": "lsn_a2_p_2",
       "levelId": "lvl_2",
       "categoryId": "general",
@@ -429,7 +418,8 @@
         "A2",
         "core"
       ],
-      "confidence": "high"
+      "confidence": "high",
+      "ipa": "/ˈpoʊstɚ/"
     },
     {
       "id": "w_a2_power",
@@ -443,13 +433,19 @@
         {
           "en": "We don't have the power.",
           "ar": "نحن لا نمتلك القوة."
+        },
+        {
+          "en": "This battery can power devices for several hours.",
+          "ar": "يمكن لهذه البطارية أن تشغل الأجهزة لعدة ساعات."
         }
       ],
       "type": "word",
       "difficulty": "A2",
       "tags": [
         "A2",
-        "core"
+        "core",
+        "B2",
+        "advanced"
       ],
       "confidence": "high"
     },
@@ -476,28 +472,6 @@
       "confidence": "high"
     },
     {
-      "id": "w_a2_present",
-      "en": "present",
-      "ar": "يعرض / يقدم",
-      "pronunciation": "/pri zent/",
-      "lessonId": "lsn_a2_p_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She presented the information to her colleagues.",
-          "ar": "قدمت هي المعلومات لزميلاتها."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_president",
       "en": "president",
       "ar": "رئيس",
@@ -509,50 +483,6 @@
         {
           "en": "I met the president himself.",
           "ar": "التقيت الرئيس بنفسه :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_prevent",
-      "en": "prevent",
-      "ar": "يمنع",
-      "pronunciation": "/prx'vent/",
-      "lessonId": "lsn_a2_p_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Bad weather prevented us from leaving.",
-          "ar": "منعنا : سوء الأحوال الجوية من المغادرة :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_print",
-      "en": "print",
-      "ar": "يطبع",
-      "pronunciation": "",
-      "lessonId": "lsn_a2_p_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I have to print 100 pages.",
-          "ar": "علي أن أطبع 100 صفحة :"
         }
       ],
       "type": "word",

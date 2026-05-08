@@ -1,0 +1,565 @@
+{
+  "id": "lsn_b1_l",
+  "levelId": "lvl_b1",
+  "title": "Unit 21: L Words",
+  "slug": "l-words",
+  "order": 21,
+  "wordCount": 24,
+  "titleAr": "الوحدة 21: كلمات حرف L",
+  "description": "Master essential B1 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف L.",
+  "words": [
+    {
+      "id": "w_b1_label",
+      "en": "label",
+      "ar": "ملصق / ماركة مسجلة / يضع ملصق",
+      "pronunciation": "/'ler bal/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I read the label carefully.",
+          "ar": "قرأت الملصق بعناية."
+        },
+        {
+          "en": "They label their cigarettes with these pictures.",
+          "ar": "هم يضعون ملصقات على سجائرهم بهذه الصور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_laboratory",
+      "en": "laboratory",
+      "ar": "مختبر",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have new devices in our laboratory.",
+          "ar": "لدينا أجهزة جديدة في مختبرنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ləˈbɔɹətɹi/"
+    },
+    {
+      "id": "w_b1_lack",
+      "en": "Lack",
+      "ar": "نقص / يفتقر إلى",
+      "pronunciation": "/læk/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Lack of knowledge can lead to expensive mistakes.",
+          "ar": "نقص المعرفة يمكن أن يؤدي إلى أخطاء باهظة الثمن."
+        },
+        {
+          "en": "She lacks experience.",
+          "ar": "إنها تفتقر إلى الخبرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_laid",
+      "en": "laid",
+      "ar": "وضعت",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "She laid the baby down on his bed.",
+          "ar": "هي وضعت الطفل على سريره."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/leɪd/"
+    },
+    {
+      "id": "w_b1_layer",
+      "en": "layer",
+      "ar": "طبقة",
+      "pronunciation": "/'lerer/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There is a thick layer of dust on the table.",
+          "ar": "هنالك طبقة سميكة من الغبار على المنضدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_leading",
+      "en": "leading",
+      "ar": "بارز / هام / رئيسي",
+      "pronunciation": "/li-dın/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This information is from a leading expert in law.",
+          "ar": "هذه المعلومات من خبير بارز في القانون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_leather",
+      "en": "leather",
+      "ar": "جلدي",
+      "pronunciation": "/'leo er/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I want to buy a high - quality leather belt.",
+          "ar": "أريد شراء حزام جلدي عالي الجودة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_leaves",
+      "en": "leaves",
+      "ar": "أوراق (الشجر)",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Dead leaves fall from trees in Autumn.",
+          "ar": "الأوراق الميتة تتساقط من الأشجار في الخريف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/liːvz/"
+    },
+    {
+      "id": "w_b1_legal",
+      "en": "legal",
+      "ar": "قانوني / مسموح به",
+      "pronunciation": "/'li-gəl/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Is it legal to smoke inside the building?",
+          "ar": "هل التدخين داخل المبنى قانوني ( مسموح به ) ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_leisure",
+      "en": "leisure",
+      "ar": "أوقات فراغ",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I like to read advertisements in my leisure time.",
+          "ar": "أحب قراءة الإعلانات في أوقات فراغي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈliːʒə(ɹ)/"
+    },
+    {
+      "id": "w_b1_length",
+      "en": "length",
+      "ar": "طول",
+      "pronunciation": "/leŋke/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you know the exact length of this bridge?",
+          "ar": "هل تعرف طول هذا الجسر بالضبط ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_lied",
+      "en": "lied",
+      "ar": "كذب",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lied to his guests.",
+          "ar": "هو كذب على ضيوفه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/liːd/"
+    },
+    {
+      "id": "w_b1_likes",
+      "en": "likes",
+      "ar": "الأشياء التي تعجبك",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What are your likes and dislikes?",
+          "ar": "ما هي ( الأشياء ) التي تعجبك و ( الأشياء ) التي لا تعجبك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/laɪks/"
+    },
+    {
+      "id": "w_b1_limit",
+      "en": "limit",
+      "ar": "حد / حد أقصى / يحد",
+      "pronunciation": "/lzm-xt/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Three cups of coffee is my daily limit.",
+          "ar": "ثلاثة أكواب من القهوة هي الحد اليومي لي."
+        },
+        {
+          "en": "Perhaps this law will limit road accidents.",
+          "ar": "ربما يحد هذا القانون من حوادث الطرق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_lips",
+      "en": "lips",
+      "ar": "شفتيه / شفاه",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He bit his lips of stress.",
+          "ar": "عض شفتيه من التوتر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/lɪps/"
+    },
+    {
+      "id": "w_b1_liquid",
+      "en": "liquid",
+      "ar": "سائل",
+      "pronunciation": "/'lık WId/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This liquid turns to be active in the heat.",
+          "ar": "هذا السائل يصبح نشطا في الحرارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_literature",
+      "en": "literature",
+      "ar": "أدبي",
+      "pronunciation": "/'lıţ ər-ə-tər/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Young people aren't attracted to literature books.",
+          "ar": "الشباب ليسوا منجذبين للكتب الأدبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_living",
+      "en": "living",
+      "ar": "حي / كسب عيش",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the biggest living animal?",
+          "ar": "ما هو أكبر حيوان حي ؟"
+        },
+        {
+          "en": "What do you do for a living?",
+          "ar": "ماذا تعمل لكسب عيشك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈlɪvɪŋ/"
+    },
+    {
+      "id": "w_b1_locals",
+      "en": "locals",
+      "ar": "سكان محليون",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can buy wood from locals.",
+          "ar": "يمكنك شراء الخشب من السكان المحليين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_locate",
+      "en": "locate",
+      "ar": "يحدد مكان / يقع",
+      "pronunciation": "/'lou-kext/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We are trying to locate the missing soldier.",
+          "ar": "نحاول أن نحدد مكان الجندي المفقود."
+        },
+        {
+          "en": "The building is located in front of the lake.",
+          "ar": "المبنى يقع أمام البحيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_location",
+      "en": "location",
+      "ar": "مكان",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They meet weekly in a secret location.",
+          "ar": "يجتمعون أسبوعيًا في مكان سري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ləʊˈkeɪʃən/"
+    },
+    {
+      "id": "w_b1_lonely",
+      "en": "lonely",
+      "ar": "وحدة / وحيدة",
+      "pronunciation": "/'loun-li/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The queen felt lonely in the castle.",
+          "ar": "شعرت الملكة بالوحدة في القلعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_loss",
+      "en": "loss",
+      "ar": "فقدان",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I want to report the loss of an electric bike.",
+          "ar": "أريد الإبلاغ عن فقدان دراجة كهربائية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/lɑs/"
+    },
+    {
+      "id": "w_b1_luxury",
+      "en": "luxury",
+      "ar": "رفاهية / فخم",
+      "pronunciation": "/ Ink fər-i/",
+      "lessonId": "lsn_b1_l",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lives in luxury abroad.",
+          "ar": "يعيش في رفاهية في الخارج."
+        },
+        {
+          "en": "My boss often stays in luxury hotels.",
+          "ar": "رئيسي في الغالب يقيم في فنادق فخمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

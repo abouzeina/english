@@ -1,0 +1,47 @@
+{
+  "id": "lsn_b2_f_3",
+  "levelId": "lvl_b2",
+  "slug": "f-words-3",
+  "title": "F Words - Part 3",
+  "titleAr": "كلمات حرف F - الجزء 3",
+  "description": "Learn essential B2 vocabulary starting with the letter F.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف F.",
+  "order": 26,
+  "wordCount": 2,
+  "words": [
+    {
+      "id": "w_b2_furious",
+      "en": "furious",
+      "ar": "غاضبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_furthermore",
+      "en": "furthermore",
+      "ar": "علاوة على ذلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "lsn_a1_l_2",
+  "levelId": "lvl_1",
+  "title": "L Words - Part 2",
+  "slug": "l-words-2",
+  "order": 23,
+  "wordCount": 7,
+  "titleAr": "كلمات حرف L - الجزء 2",
+  "description": "Learn essential A1 vocabulary starting with the letter L.",
+  "descriptionAr": "تعلم كلمات المستوى A1 الأساسية التي تبدأ بحرف L.",
+  "words": [
+    {
+      "id": "w_a1_lives",
+      "lessonId": "lsn_a1_l_2",
+      "en": "lives",
+      "translation": "يعيش",
+      "ar": "يعيش",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He lives far from here.",
+          "ar": "يعيش بعيداً عن هنا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_local",
+      "lessonId": "lsn_a1_l_2",
+      "en": "local",
+      "translation": "محلي",
+      "ar": "محلي",
+      "pronunciation": "/'lov kəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The local library is quiet.",
+          "ar": "المكتبة المحلية هادئة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_long",
+      "lessonId": "lsn_a1_l_2",
+      "en": "long",
+      "translation": "طويل / طويلاً",
+      "ar": "طويل / طويلاً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The road is too long.",
+          "ar": "الطريق طويل جداً."
+        },
+        {
+          "en": "It's been a long time.",
+          "ar": "لقد مر وقت طويل."
+        },
+        {
+          "en": "I didn't wait long for the bus.",
+          "ar": "لم أنتظر الحافلة طويلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_look",
+      "lessonId": "lsn_a1_l_2",
+      "en": "look",
+      "translation": "ينظر / يبحث / يبدو",
+      "ar": "ينظر / يبحث / يبدو",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Look at that beautiful painting.",
+          "ar": "انظر إلى تلك اللوحة الجميلة."
+        },
+        {
+          "en": "She's looking for her glasses.",
+          "ar": "إنها تبحث عن نظارتها."
+        },
+        {
+          "en": "You look tired today.",
+          "ar": "تبدين متعبة اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_lose",
+      "lessonId": "lsn_a1_l_2",
+      "en": "lose",
+      "translation": "يفقد / يخسر",
+      "ar": "يفقد / يخسر",
+      "pronunciation": "/luz/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Don't lose hope keep going.",
+          "ar": "لا تفقد الأمل استمر."
+        },
+        {
+          "en": "He hates to lose games.",
+          "ar": "إنه يكره أن يخسر في الألعاب."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_a_lot",
+      "lessonId": "lsn_a1_l_2",
+      "en": "a lot",
+      "translation": "الكثير / كثيراً",
+      "ar": "الكثير / كثيراً",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He has a lot of friends.",
+          "ar": "لديه الكثير من الأصدقاء."
+        },
+        {
+          "en": "He works a lot these days.",
+          "ar": "إنه يعمل كثيراً هذه الأيام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_love",
+      "lessonId": "lsn_a1_l_2",
+      "en": "love",
+      "translation": "حب / يحب",
+      "ar": "حب / يحب",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This book tells a beautiful love story.",
+          "ar": "يروي هذا الكتاب قصة حب جميلة."
+        },
+        {
+          "en": "I love this book so much.",
+          "ar": "أحب هذا الكتاب كثيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

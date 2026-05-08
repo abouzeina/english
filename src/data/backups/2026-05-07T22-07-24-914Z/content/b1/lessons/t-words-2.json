@@ -1,0 +1,377 @@
+{
+  "id": "lsn_b1_t_2",
+  "levelId": "lvl_b1",
+  "slug": "t-words-2",
+  "title": "Unit 40: T Words - Part 2",
+  "titleAr": "الوحدة 40: كلمات حرف T - الجزء 2",
+  "description": "Expand your intermediate vocabulary with words starting with T.",
+  "descriptionAr": "طور حصيلتك اللغوية المتوسطة مع كلمات تبدأ بحرف T.",
+  "order": 40,
+  "wordCount": 16,
+  "words": [
+    {
+      "id": "w_b1_total",
+      "en": "total",
+      "ar": "إجمالي / مجموع",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The total is one hundred riyal.",
+          "ar": "المجموع مئة ريال."
+        },
+        {
+          "en": "What are your total sales last month?",
+          "ar": "ما هو إجمالي مبيعاتكم الشهر الماضي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_totally",
+      "en": "totally",
+      "ar": "تماماً",
+      "pronunciation": "/ tou-tel-i/",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He came from a totally different culture.",
+          "ar": "لقد جاء من ثقافة مختلفة تمامًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_touch",
+      "en": "touch",
+      "ar": "لمسة / القليل",
+      "pronunciation": "/txt/",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This soup needs a touch of pepper.",
+          "ar": "هذا الحساء يحتاج إلى لمسة من الفلفل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_toured",
+      "en": "toured",
+      "ar": "جولة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He toured Egypt with his bicycle.",
+          "ar": "قام بجولة في مصر بدراجته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_trade",
+      "en": "trade",
+      "ar": "تجارة / يتاجر",
+      "pronunciation": "/treid/",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Many countries depend on foreign trade.",
+          "ar": "العديد من الدول تعتمد على التجارة الخارجية."
+        },
+        {
+          "en": "We trade in camping tools.",
+          "ar": "نحن نتاجر في أدوات التخييم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_translate",
+      "en": "translate",
+      "ar": "ترجم / يترجم",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please translate these certain words into Arabic.",
+          "ar": "من فضلك ترجم هذه الكلمات المحددة إلى اللغة العربية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_translation",
+      "en": "translation",
+      "ar": "ترجمة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This translation is not clear.",
+          "ar": "هذه الترجمة غير واضحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_transported",
+      "en": "transported",
+      "ar": "نقل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our furniture was transported by sea.",
+          "ar": "تم نقل أثاثنا عن طريق البحر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_treat",
+      "en": "treat",
+      "ar": "يعامل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You have to treat others with respect.",
+          "ar": "عليك أن تعامل الآخرين باحترام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_treatment",
+      "en": "treatment",
+      "ar": "علاج",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He is responding well to treatment.",
+          "ar": "إنه يستجيب بشكل جيد للعلاج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_trends",
+      "en": "trends",
+      "ar": "اتجاهات",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The essay discusses current trends in teaching.",
+          "ar": "يناقش المقال الاتجاهات الحالية في التدريس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_trick",
+      "en": "trick",
+      "ar": "يخدع / حيل",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I think you are trying to trick me.",
+          "ar": "أعتقد أنك تحاول أن تخدعني."
+        },
+        {
+          "en": "This athlete uses illegal tricks.",
+          "ar": "هذا الرياضي يستخدم حيلا غير قانونية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_truth",
+      "en": "truth",
+      "ar": "حقيقة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Do you think he's telling the truth?",
+          "ar": "هل تعتقد أنه يقول الحقيقة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_tubes",
+      "en": "tubes",
+      "ar": "أنابيب",
+      "pronunciation": "/tub/",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The water flowed through the tubes.",
+          "ar": "تدفقت المياه عبر الأنابيب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_type",
+      "en": "Type",
+      "ar": "اكتب (يدخل بيانات)",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Type your email and press enter.",
+          "ar": "اكتب بريدك الإلكتروني واضغط على إدخال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_typically",
+      "en": "Typically",
+      "ar": "عادةً",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_t_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Typically, we serve beef with vegetables for lunch.",
+          "ar": "عادةً، نقدم اللحم البقري مع الخضار على الغداء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

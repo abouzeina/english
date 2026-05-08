@@ -1,0 +1,435 @@
+{
+  "id": "lsn_c1_l_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 22: L Words - Part 2",
+  "slug": "l-words-2",
+  "order": 22,
+  "wordCount": 19,
+  "titleAr": "الوحدة 22: كلمات حرف L - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف L.",
+  "words": [
+    {
+      "id": "w_c1_liable",
+      "en": "liable",
+      "ar": "مسؤول / عرضة لـ",
+      "pronunciation": "ˈlaɪəbl",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الشركة مسؤولة عن أي ضرر تسببه منتجاتها",
+          "ar": "You are liable to catch a cold if you don't wear a coat."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_liberal",
+      "en": "liberal",
+      "ar": "ليبرالي / متسامح",
+      "pronunciation": "ˈlɪbərəl",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تُعرف المدينة بثقافتها الليبرالية والمتفتحة",
+          "ar": "He has a liberal attitude toward social changes."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_liberty",
+      "en": "liberty",
+      "ar": "حرية",
+      "pronunciation": "ˈlɪbəti",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمثل التمثال قيم الحرية والعدالة",
+          "ar": "Every individual has the right to life and liberty."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_license",
+      "en": "license",
+      "ar": "رخصته",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "He forgot to bring his license when renting the car.",
+          "ar": "نسي إحضار رخصته عند استئجار السيارة."
+        },
+        {
+          "en": "رُخص للشركة بيع العقار الجديد",
+          "ar": "The city decided to license several new food trucks."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlaɪsəns/"
+    },
+    {
+      "id": "w_c1_lifelong",
+      "en": "lifelong",
+      "ar": "مدى الحياة",
+      "pronunciation": "ˈlaɪflɒŋ",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لقد كانا صديقين مدى الحياة منذ الطفولة",
+          "ar": "Learning should be a lifelong pursuit for everyone."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_likelihood",
+      "en": "likelihood",
+      "ar": "احتمالية",
+      "pronunciation": "ˈlaɪklihʊد",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هناك احتمالية كبيرة لسقوط الأمطار في وقت لاحق اليوم",
+          "ar": "The likelihood of success depends on your hard work."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_limb",
+      "en": "limb",
+      "ar": "طرف (من أطراف الجسم)",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "فقد طرفاً في الحادث المأساوي",
+          "ar": "The tree's limbs were covered in thick snow."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/lɪm/"
+    },
+    {
+      "id": "w_c1_line_up",
+      "en": "line-up",
+      "ar": "تشكيلة / صف",
+      "pronunciation": "ˈlaɪn ʌب",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعلن المدرب عن التشكيلة الأساسية للمباراة الكبيرة",
+          "ar": "The festival features an amazing line-up of international stars."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_linear",
+      "en": "linear",
+      "ar": "خطي",
+      "pronunciation": "ˈlɪniə(r)",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتبع القصة سردًا خطيًا بسيطًا من البداية إلى النهاية",
+          "ar": "The relationship between price and demand is not always linear."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_listing",
+      "en": "listing",
+      "ar": "قائمة / إدراج",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمكنك العثور على أوقات الأفلام في القائمة المحلية",
+          "ar": "The company is preparing for its public listing on the stock exchange."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɪstɪŋ/"
+    },
+    {
+      "id": "w_c1_literacy",
+      "en": "literacy",
+      "ar": "الإلمام بالقراءة والكتابة / ثقافة",
+      "pronunciation": "ˈlɪtərəsi",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعمل الحكومة على تحسين معدلات الإلمام بالقراءة والكتابة بين البالغين",
+          "ar": "Computer literacy is essential for finding a job nowadays."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_lobby",
+      "en": "lobby",
+      "ar": "يضغط على (سياسياً) / جماعة ضغط",
+      "pronunciation": "ˈlɒbi",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تضغط المجموعات البيئية على الحكومة لتقليل انبعاثات الكربون",
+          "ar": "The tobacco lobby has a lot of influence in congress."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_log",
+      "en": "log",
+      "ar": "يسجل / سجل رسمي",
+      "pronunciation": "lɒɡ",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب على القائد تسجيل كل أحداث الرحلة",
+          "ar": "You should keep a log of all the phone calls you make."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_logic",
+      "en": "logic",
+      "ar": "منطق",
+      "pronunciation": "ˈlɒdʒɪk",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا يوجد أي منطق في جدالك",
+          "ar": "I fail to see the logic behind their decision."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_long_standing",
+      "en": "long-standing",
+      "ar": "طويل الأمد / قائم منذ زمن",
+      "pronunciation": "ˌlɒŋˈstændɪŋ",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمتلك الدولتان اتفاقية تجارية قائمة منذ زمن طويل",
+          "ar": "It is a long-standing tradition in our family."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_long_time",
+      "en": "long-time",
+      "ar": "قديم / لفترة طويلة",
+      "pronunciation": "ˈlɒŋtaɪm",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه صديق قديم للعائلة",
+          "ar": "The company reward its long-time employees."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_loom",
+      "en": "loom",
+      "ar": "يلوح في الأفق / يبرز بشكل مخيف",
+      "pronunciation": "luːm",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لاحت غيوم مظلمة في الأفق",
+          "ar": "The threat of war looms over the region."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_loop",
+      "en": "loop",
+      "ar": "حلقة / عروة",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "برنامج الكمبيوتر عالق في حلقة مفرغة",
+          "ar": "She tied the rope into a small loop."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/luːp/"
+    },
+    {
+      "id": "w_c1_loyalty",
+      "en": "loyalty",
+      "ar": "ولاء / إخلاص",
+      "pronunciation": "ˈlɔɪəlti",
+      "lessonId": "lsn_c1_l_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب على الموظفين إظهار الولاء لشركتهم",
+          "ar": "His loyalty to his friends is unquestionable."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

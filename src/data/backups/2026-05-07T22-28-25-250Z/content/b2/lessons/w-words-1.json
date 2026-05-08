@@ -1,0 +1,583 @@
+{
+  "id": "lsn_b2_w_1",
+  "levelId": "lvl_b2",
+  "slug": "w-words-1",
+  "title": "W Words - Part 1",
+  "titleAr": "كلمات حرف W - الجزء 1",
+  "description": "Learn essential B2 vocabulary starting with the letter W.",
+  "descriptionAr": "تعلم كلمات المستوى B2 الأساسية التي تبدأ بحرف W.",
+  "order": 60,
+  "wordCount": 25,
+  "words": [
+    {
+      "id": "w_b2_wage",
+      "en": "wage",
+      "ar": "راتبه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His monthly wage is enough to cover his expenses.",
+          "ar": "راتبه الشهري يكفي لتغطية نفقاته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wandered",
+      "en": "wandered",
+      "ar": "تجولوا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They wandered the forest, searching for a hidden path.",
+          "ar": "لقد تجولوا في الغابة باحثين عن طريق مخفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_warming",
+      "en": "warming",
+      "ar": "الاحتباس الحراري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Global warming is a major threat to our planet.",
+          "ar": "يمثل الاحتباس الحراري تهديدًا كبيرًا لكوكبنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_way",
+      "en": "way",
+      "ar": "أصعب بكثير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The test was way harder than I thought.",
+          "ar": "كان الاختبار أصعب بكثير مما توقعت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_weakness",
+      "en": "weakness",
+      "ar": "نقاط ضعفه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His greatest weakness is trusting people too easily.",
+          "ar": "أكبر نقاط ضعفه هي الثقة بالناس بسهولة كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wealth",
+      "en": "wealth",
+      "ar": "ثروة / ثري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She inherited great wealth from her grandfather.",
+          "ar": "لقد ورثت ثروة كبيرة عن جدها."
+        },
+        {
+          "en": "She married a wealthy man from another country.",
+          "ar": "تزوجت من رجل ثري من بلد آخر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_weekly",
+      "en": "weekly",
+      "ar": "الأسبوعية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He enjoys his weekly fishing trips with his father.",
+          "ar": "يستمتع برحلات الصيد الأسبوعية مع والده."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_weird",
+      "en": "weird",
+      "ar": "غريبًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was a weird dream, but I remember everything.",
+          "ar": "لقد كان حلما غريبًا، لكنني أتذكر كل شيء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_welfare",
+      "en": "welfare",
+      "ar": "الرعاية الاجتماعية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His job focuses on improving community welfare services.",
+          "ar": "يركز عمله على تحسين خدمات الرعاية الاجتماعية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wheat",
+      "en": "wheat",
+      "ar": "القمح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She bought a bag of wheat flour today.",
+          "ar": "اشترت كيسا من دقيق القمح اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_whereas",
+      "en": "whereas",
+      "ar": "في حين أن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He likes spicy food, whereas I prefer mild flavors.",
+          "ar": "إنه يحب الطعام الحار، في حين أنني أفضل النكهات الخفيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wherever",
+      "en": "wherever",
+      "ar": "أينما",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He takes his laptop wherever he goes.",
+          "ar": "يأخذ حاسوبه المحمول معه أينما ذهب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_whispered",
+      "en": "whispered",
+      "ar": "همس / بصوت خافت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He whispered the answer during the test.",
+          "ar": "همس بالإجابة أثناء الاختبار."
+        },
+        {
+          "en": "She spoke in a whisper to avoid waking him.",
+          "ar": "تحدثت بصوت خافت كي تتجنب إيقاظه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_whoever",
+      "en": "whoever",
+      "ar": "أياً يكن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Whoever arrives first will get the best seat.",
+          "ar": "أياً يكن الذي يصل أولاً سيحصل على أفضل مقعد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_whom",
+      "en": "whom",
+      "ar": "لمن",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "To whom should I send this invitation?",
+          "ar": "لمن يجب أن أرسل هذه الدعوة؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_widely",
+      "en": "widely",
+      "ar": "على نطاق واسع / منتشرة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Pollution is a widespread problem in many big cities.",
+          "ar": "يعد التلوث مشكلة منتشرة في العديد من المدن الكبرى."
+        },
+        {
+          "en": "The movie was widely praised for its strong acting.",
+          "ar": "حظي الفيلم بإشادة على نطاق واسع بسبب التمثيل القوي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wildlife",
+      "en": "wildlife",
+      "ar": "الحياة البرية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Wildlife photographers capture amazing moments in nature.",
+          "ar": "يلتقط مصورو الحياة البرية لحظات مذهلة في الطبيعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_willing",
+      "en": "willing",
+      "ar": "استعداد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They are willing to work extra hours tonight.",
+          "ar": "إنهم على استعداد للعمل لساعات إضافية الليلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_winds",
+      "en": "winds",
+      "ar": "يتعرج",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The road winds through the mountains like a snake.",
+          "ar": "يتعرج الطريق عبر الجبال مثل الأفعى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wire",
+      "en": "wire",
+      "ar": "سلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We need a thin wire to connect the two batteries.",
+          "ar": "نحتاج إلى سلك رفيع لتوصيل البطاريتين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wisdom",
+      "en": "wisdom",
+      "ar": "الحكمة / حكيمًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She made a wise decision about her future job.",
+          "ar": "لقد اتخذت قرارًا حكيمًا بشأن وظيفتها المستقبلية."
+        },
+        {
+          "en": "Wisdom is more valuable than money or fame.",
+          "ar": "الحكمة أثمن من المال أو الشهرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_withdraw",
+      "en": "withdraw",
+      "ar": "أسحب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I need to withdraw some cash before shopping.",
+          "ar": "أحتاج أن أسحب من البنك بعض النقود قبل التسوق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_witness",
+      "en": "witness",
+      "ar": "الشاهد / شهد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He witnessed the robbery but couldn't stop it.",
+          "ar": "لقد شهد عملية السرقة لكنه لم يستطع إيقافها."
+        },
+        {
+          "en": "The witness described the suspect's appearance in detail.",
+          "ar": "وقد وصف الشاهد ملامح المشتبه به بالتفصيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_workforce",
+      "en": "workforce",
+      "ar": "قوتها العاملة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company expanded its workforce last year.",
+          "ar": "وسعت الشركة قوتها العاملة لديها العام الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_workplace",
+      "en": "workplace",
+      "ar": "مكان العمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_w_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Good communication is essential in a successful workplace.",
+          "ar": "التواصل الجيد أمر ضروري في مكان العمل الناجح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}
