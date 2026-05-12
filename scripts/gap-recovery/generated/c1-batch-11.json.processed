@@ -1,0 +1,566 @@
+[
+  {
+    "en": "dose",
+    "translation": "جرعة",
+    "ipa": "/dəʊs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The doctor prescribed a low dose of the medicine.",
+        "ar": "وصف الطبيب جرعة منخفضة من الدواء."
+      }
+    ]
+  },
+  {
+    "en": "drain",
+    "translation": "يصرف / يستنزف / مصرف",
+    "ipa": "/dreɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The heavy rain caused the drains to overflow.",
+        "ar": "تسبب المطر الغزير في فيضان المصارف."
+      }
+    ]
+  },
+  {
+    "en": "enrol",
+    "translation": "يسجل / يلتحق بـ",
+    "ipa": "/ɪnˈrəʊl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I decided to enrol in an English course.",
+        "ar": "قررت التسجيل في دورة لغة إنجليزية."
+      }
+    ]
+  },
+  {
+    "en": "foreigner",
+    "translation": "أجنبي",
+    "ipa": "/ˈfɒrənə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The city attracts many foreigners every year.",
+        "ar": "تجذب المدينة العديد من الأجانب كل عام."
+      }
+    ]
+  },
+  {
+    "en": "foster",
+    "translation": "يرعى / يعزز / يربي (لفترة مؤقتة)",
+    "ipa": "/ˈfɒstə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The program aims to foster cooperation between schools.",
+        "ar": "يهدف البرنامج لتعزيز التعاون بين المدارس."
+      }
+    ]
+  },
+  {
+    "en": "frustrated",
+    "translation": "محبط / مقهور",
+    "ipa": "/frʌˈstreɪtɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He felt frustrated because he couldn't solve the problem.",
+        "ar": "شعر بالإحباط لأنه لم يستطع حل المشكلة."
+      }
+    ]
+  },
+  {
+    "en": "frustrating",
+    "translation": "محبط / مثير للإحباط",
+    "ipa": "/frʌˈstreɪtɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It's frustrating to wait for so long.",
+        "ar": "إنه لأمر محبط الانتظار لفترة طويلة."
+      }
+    ]
+  },
+  {
+    "en": "frustration",
+    "translation": "إحباط",
+    "ipa": "/frʌˈstreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She expressed her frustration with the lack of progress.",
+        "ar": "أعربت عن إحباطها من قلة التقدم."
+      }
+    ]
+  },
+  {
+    "en": "handy",
+    "translation": "مفيد / في المتناول / بارع",
+    "ipa": "/ˈhændi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "This tool is very handy for small repairs.",
+        "ar": "هذه الأداة مفيدة جداً للإصلاحات الصغيرة."
+      }
+    ]
+  },
+  {
+    "en": "harassment",
+    "translation": "تضييق / تحرش / مضايقة",
+    "ipa": "/ˈhærəsmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company has a strict policy against harassment.",
+        "ar": "الشركة لديها سياسة صارمة ضد التحرش (المضايقات)."
+      }
+    ]
+  },
+  {
+    "en": "hardware",
+    "translation": "أجهزة / معدات معدنية / عتاد الحاسوب",
+    "ipa": "/ˈhɑːdweə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You need to upgrade your hardware to run the latest software.",
+        "ar": "تحتاج لتطوير عتاد حاسوبك (hardware) لتشغيل أحدث البرامج."
+      }
+    ]
+  },
+  {
+    "en": "harmony",
+    "translation": "انسجام / توافق / تناغم",
+    "ipa": "/ˈhɑːməni/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They live together in perfect harmony.",
+        "ar": "يعيشون معاً في انسجام تام."
+      }
+    ]
+  },
+  {
+    "en": "hatred",
+    "translation": "كراهية",
+    "ipa": "/ˈheɪtrɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He felt a deep hatred for his enemies.",
+        "ar": "شعر بكراهية عميقة تجاه أعدائه."
+      }
+    ]
+  },
+  {
+    "en": "heighten",
+    "translation": "يزيد / يرفع / يشتد",
+    "ipa": "/ˈhaɪtn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The tension heightened as the deadline approached.",
+        "ar": "اشتد التوتر مع اقتراب الموعد النهائي."
+      }
+    ]
+  },
+  {
+    "en": "ideological",
+    "translation": "أيديولوجي / فكري",
+    "ipa": "/ˌaɪdiəˈlɒdʒɪkl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There are major ideological differences between the two parties.",
+        "ar": "هناك اختلافات أيديولوجية (فكرية) كبيرة بين الحزبين."
+      }
+    ]
+  },
+  {
+    "en": "implementation",
+    "translation": "تنفيذ / تطبيق",
+    "ipa": "/ˌɪmplɪmenˈteɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The implementation of the new policy will begin next month.",
+        "ar": "سيبدأ تنفيذ السياسة الجديدة الشهر القادم."
+      }
+    ]
+  },
+  {
+    "en": "inappropriate",
+    "translation": "غير مناسب / غير لائق",
+    "ipa": "/ˌɪnəˈprəʊpriət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "His behavior was completely inappropriate.",
+        "ar": "كان سلوكه غير لائق تماماً."
+      }
+    ]
+  },
+  {
+    "en": "inclusion",
+    "translation": "إدراج / تضمين / شمول",
+    "ipa": "/ɪnˈkluːʒn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The inclusion of his name on the list was a mistake.",
+        "ar": "كان إدراج اسمه في القائمة خطأً."
+      }
+    ]
+  },
+  {
+    "en": "incur",
+    "translation": "يتحمل / يتكبد",
+    "ipa": "/ɪnˈkɜː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He incurred heavy debts during his time at university.",
+        "ar": "تكبد ديوناً ثقيلة خلال فترة وجوده في الجامعة."
+      }
+    ]
+  },
+  {
+    "en": "indicator",
+    "translation": "مؤشر",
+    "ipa": "/ˈɪndɪkeɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The stock market is often seen as an economic indicator.",
+        "ar": "غالباً ما يُنظر إلى سوق الأوراق المالية كمؤشر اقتصادي."
+      }
+    ]
+  },
+  {
+    "en": "inequality",
+    "translation": "عدم مساواة / تفاوت",
+    "ipa": "/ˌɪnɪˈkwɒləti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government is trying to tackle social inequality.",
+        "ar": "تحاول الحكومة معالجة عدم المساواة الاجتماعية."
+      }
+    ]
+  },
+  {
+    "en": "infant",
+    "translation": "رضيع / طفل صغير",
+    "ipa": "/ˈɪnfənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She works in an infant school.",
+        "ar": "تعمل في مدرسة للأطفال الصغار (الحضانة)."
+      }
+    ]
+  },
+  {
+    "en": "inmate",
+    "translation": "نزيل (في سجن أو مستشفى)",
+    "ipa": "/ˈɪnmeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The prison has over 1,000 inmates.",
+        "ar": "يوجد في السجن أكثر من ألف نزيل."
+      }
+    ]
+  },
+  {
+    "en": "insertion",
+    "translation": "إدراج / إدخال",
+    "ipa": "/ɪnˈsɜːʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The insertion of the key into the lock was difficult.",
+        "ar": "كان إدخال المفتاح في القفل صعباً."
+      }
+    ]
+  },
+  {
+    "en": "insider",
+    "translation": "مطلع / شخص من الداخل",
+    "ipa": "/ɪnˈsaɪdə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The information came from a government insider.",
+        "ar": "جاءت المعلومات من مطلع في الحكومة."
+      }
+    ]
+  },
+  {
+    "en": "inspect",
+    "translation": "يفحص / يفتش",
+    "ipa": "/ɪnˈspekt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The building was inspected for safety.",
+        "ar": "تم فحص المبنى للتأكد من سلامته."
+      }
+    ]
+  },
+  {
+    "en": "inspection",
+    "translation": "تفتيش / فحص",
+    "ipa": "/ɪnˈspekʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The school underwent an official inspection.",
+        "ar": "خضعت المدرسة لتفتيش رسمي."
+      }
+    ]
+  },
+  {
+    "en": "inspiration",
+    "translation": "إلهام",
+    "ipa": "/ˌɪnspəˈreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Nature is a great source of inspiration for artists.",
+        "ar": "الطبيعة مصدر إلهام كبير للفنانين."
+      }
+    ]
+  },
+  {
+    "en": "instruct",
+    "translation": "يعلم / يأمر / يوجه",
+    "ipa": "/ɪnˈstrʌkt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She instructed the students on how to use the equipment.",
+        "ar": "وجهت (علمت) الطلاب كيفية استخدام المعدات."
+      }
+    ]
+  },
+  {
+    "en": "instrumental",
+    "translation": "فعال / أساسي / موسيقى آلي",
+    "ipa": "/ˌɪnstrəˈmentl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was instrumental in organizing the conference.",
+        "ar": "كان له دور أساسي (فعال) في تنظيم المؤتمر."
+      }
+    ]
+  },
+  {
+    "en": "insufficient",
+    "translation": "غير كافٍ",
+    "ipa": "/ˌɪnsəˈfɪʃnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The evidence was insufficient to prove his guilt.",
+        "ar": "كان الدليل غير كافٍ لإثبات ذنبه."
+      }
+    ]
+  },
+  {
+    "en": "integral",
+    "translation": "أساسي / متكامل / مكمل",
+    "ipa": "/ˈɪntɪɡrəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Music is an integral part of their culture.",
+        "ar": "الموسيقى جزء أساسي (لا يتجزأ) من ثقافتهم."
+      }
+    ]
+  },
+  {
+    "en": "integrated",
+    "translation": "متكامل / مدمج",
+    "ipa": "/ˈɪntɪɡreɪtɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The school has an integrated curriculum.",
+        "ar": "المدرسة لديها منهج متكامل."
+      }
+    ]
+  },
+  {
+    "en": "integration",
+    "translation": "تكامل / دمج / استيعاب",
+    "ipa": "/ˌɪntɪˈɡreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The integration of immigrants into society is important.",
+        "ar": "دمج (استيعاب) المهاجرين في المجتمع أمر مهم."
+      }
+    ]
+  },
+  {
+    "en": "integrity",
+    "translation": "نزاهة / أمانة / تكامل",
+    "ipa": "/ɪnˈteɡrəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a man of great personal integrity.",
+        "ar": "إنه رجل يتمتع بنزاهة شخصية كبيرة."
+      }
+    ]
+  },
+  {
+    "en": "intensify",
+    "translation": "يكثف / يشتد",
+    "ipa": "/ɪnˈtensɪfaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The fighting intensified as the sun went down.",
+        "ar": "اشتد القتال مع غروب الشمس."
+      }
+    ]
+  },
+  {
+    "en": "intensive",
+    "translation": "مكثف / حثيث",
+    "ipa": "/ɪnˈtensɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She took an intensive language course.",
+        "ar": "أخذت دورة لغة مكثفة."
+      }
+    ]
+  },
+  {
+    "en": "interfere",
+    "translation": "يتدخل / يعيق",
+    "ipa": "/ˌɪntəˈfɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Don't interfere in my personal business.",
+        "ar": "لا تتدخل في شؤوني الشخصية."
+      }
+    ]
+  },
+  {
+    "en": "interference",
+    "translation": "تدخل / تشويش",
+    "ipa": "/ˌɪntəˈfɪərəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There was a lot of interference on the radio.",
+        "ar": "كان هناك الكثير من التشويش على الراديو."
+      }
+    ]
+  },
+  {
+    "en": "intermediate",
+    "translation": "متوسط (المستوى)",
+    "ipa": "/ˌɪntəˈmiːdiət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The course is suitable for intermediate students.",
+        "ar": "الدورة مناسبة للطلاب ذوي المستوى المتوسط."
+      }
+    ]
+  },
+  {
+    "en": "intervene",
+    "translation": "يتدخل (للمساعدة أو الفضل)",
+    "ipa": "/ˌɪntəˈviːn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The police had to intervene to stop the fight.",
+        "ar": "اضطرت الشرطة للتدخل لوقف العراك."
+      }
+    ]
+  },
+  {
+    "en": "invoke",
+    "translation": "يتوسل / يستحضر / يطبق (قانوناً)",
+    "ipa": "/ɪnˈvəʊk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The president invoked his emergency powers.",
+        "ar": "استخدم (طبق) الرئيس صلاحيات الطوارئ الخاصة به."
+      }
+    ]
+  },
+  {
+    "en": "lawn",
+    "translation": "عشب / مرج / مسطح أخضر",
+    "ipa": "/lɔːn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He spends his Sundays mowing the lawn.",
+        "ar": "يقضي أيام الأحد في قص العشب (المسطح الأخضر)."
+      }
+    ]
+  },
+  {
+    "en": "lesser",
+    "translation": "أصغر / أقل أهمية",
+    "ipa": "/ˈlesə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She chose the lesser of two evils.",
+        "ar": "اختارت أهون (أقل) الشرين."
+      }
+    ]
+  },
+  {
+    "en": "liberation",
+    "translation": "تحرير / إطلاق سراح",
+    "ipa": "/ˌlɪbəˈreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The city celebrated its liberation from the invaders.",
+        "ar": "احتفلت المدينة بتحريرها من الغزاة."
+      }
+    ]
+  },
+  {
+    "en": "linger",
+    "translation": "يتلكأ / يبقى لفترة طويلة",
+    "ipa": "/ˈlɪŋɡə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The smell of smoke lingered in the room.",
+        "ar": "بقيت رائحة الدخان في الغرفة لفترة طويلة."
+      }
+    ]
+  },
+  {
+    "en": "liver",
+    "translation": "كبد",
+    "ipa": "/ˈlɪvə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The liver is a vital organ in the body.",
+        "ar": "الكبد عضو حيوي في الجسم."
+      }
+    ]
+  }
+]

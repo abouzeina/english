@@ -1,4 +1,5 @@
 import fs from 'fs';
+// Reloading cache for new content...
 import path from 'path';
 import { Level, Lesson, WordItem, Category } from '@/types';
 

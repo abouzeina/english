@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_m_1",
   "levelId": "lvl_b2",
-  "title": "Unit 32: M Words - Part 1",
+  "title": "Unit 39: M Words - Part 1",
   "slug": "m-words-1",
-  "order": 32,
-  "wordCount": 21,
-  "titleAr": "الوحدة 32: كلمات حرف M - الجزء 1",
+  "order": 39,
+  "wordCount": 22,
+  "titleAr": "الوحدة 39: كلمات حرف M - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter M.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف M.",
   "words": [
@@ -96,6 +96,52 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_making",
+      "lessonId": "lsn_b2_m_1",
+      "en": "making",
+      "ar": "صنع / تكوين",
+      "translation": "صنع / تكوين",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The project has been years in the making.",
+          "ar": "استغرق المشروع سنوات في طور التكوين."
+        }
+      ],
+      "ipa": "/ˈmeɪkɪŋ/"
+    },
+    {
+      "id": "w_b2_manufacture",
+      "lessonId": "lsn_b2_m_1",
+      "en": "manufacture",
+      "ar": "يصنع / إنتاج",
+      "translation": "يصنع / إنتاج",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company manufactures car parts.",
+          "ar": "تصنع الشركة قطع غيار السيارات."
+        }
+      ],
+      "ipa": "/ˌmænjuˈfæktʃə(r)/"
     },
     {
       "id": "w_b2_manufactures",
@@ -464,28 +510,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈmeʒ.ə.mənt/"
-    },
-    {
-      "id": "w_b2_mechanic",
-      "en": "mechanic",
-      "ar": "الميكانيكي",
-      "lessonId": "lsn_b2_m_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The mechanic recommended replacing the old tires.",
-          "ar": "أوصى الميكانيكي باستبدال الإطارات القديمة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/məˈkænɪk/"
     }
   ]
 }

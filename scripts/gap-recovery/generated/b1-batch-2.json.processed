@@ -1,0 +1,590 @@
+[
+  {
+    "en": "effort",
+    "translation": "جهد / مسعى",
+    "ipa": "/ˈefət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Success requires a lot of hard work and effort.",
+        "ar": "النجاح يتطلب الكثير من العمل الشاق والجهد."
+      }
+    ]
+  },
+  {
+    "en": "emotion",
+    "translation": "عاطفة / شعور",
+    "ipa": "/ˈɪməʊʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He finds it difficult to express his emotions.",
+        "ar": "يجد صعوبة في التعبير عن مشاعره."
+      }
+    ]
+  },
+  {
+    "en": "entertain",
+    "translation": "يسلي / يستضيف",
+    "ipa": "/ˌentəˈteɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The clown entertained the children for hours.",
+        "ar": "سلى المهرج الأطفال لساعات."
+      }
+    ]
+  },
+  {
+    "en": "escape",
+    "translation": "يهرب / ينجو",
+    "ipa": "/ɪˈskeɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The prisoners tried to escape from the jail.",
+        "ar": "حاول السجناء الهروب من السجن."
+      }
+    ]
+  },
+  {
+    "en": "examine",
+    "translation": "يفحص / يختبر",
+    "ipa": "/ɪɡˈzæmɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The doctor examined the patient carefully.",
+        "ar": "فحص الطبيب المريض بعناية."
+      }
+    ]
+  },
+  {
+    "en": "exchange",
+    "translation": "تبادل / يصرف (عملة)",
+    "ipa": "/ɪksˈtʃeɪndʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We exchanged phone numbers at the end of the meeting.",
+        "ar": "تبادلنا أرقام الهواتف في نهاية الاجتماع."
+      }
+    ]
+  },
+  {
+    "en": "favour",
+    "translation": "معروف / خدمة / يفضل",
+    "ipa": "/ˈfeɪvə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Could you do me a favour?",
+        "ar": "هل يمكنك تقديم خدمة لي؟"
+      }
+    ]
+  },
+  {
+    "en": "file",
+    "translation": "ملف",
+    "ipa": "/faɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I saved the document in a new file.",
+        "ar": "حفظت المستند في ملف جديد."
+      }
+    ]
+  },
+  {
+    "en": "flood",
+    "translation": "فيضان / يغمر",
+    "ipa": "/flʌd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The heavy rain caused severe flooding.",
+        "ar": "تسبب المطر الغزير في فيضانات شديدة."
+      }
+    ]
+  },
+  {
+    "en": "flow",
+    "translation": "يتدفق / سريان",
+    "ipa": "/fləʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The river flows through the valley.",
+        "ar": "يتدفق النهر عبر الوادي."
+      }
+    ]
+  },
+  {
+    "en": "folk",
+    "translation": "ناس / شعبي",
+    "ipa": "/fəʊk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I like listening to traditional folk music.",
+        "ar": "أحب الاستماع إلى الموسيقى الشعبية التقليدية."
+      }
+    ]
+  },
+  {
+    "en": "frame",
+    "translation": "إطار / هيكل",
+    "ipa": "/freɪm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He put the picture in a gold frame.",
+        "ar": "وضع الصورة في إطار ذهبي."
+      }
+    ]
+  },
+  {
+    "en": "fry",
+    "translation": "يقلي",
+    "ipa": "/fraɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She fried some eggs for breakfast.",
+        "ar": "قلت بعض البيض للإفطار."
+      }
+    ]
+  },
+  {
+    "en": "gentleman",
+    "translation": "رجل مهذب / سيد",
+    "ipa": "/ˈdʒentlmən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a true gentleman.",
+        "ar": "إنه رجل مهذب (جنتلمان) حقيقي."
+      }
+    ]
+  },
+  {
+    "en": "glove",
+    "translation": "قفاز",
+    "ipa": "/ɡlʌv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Don't forget to wear your gloves in the winter.",
+        "ar": "لا تنسَ ارتداء قفازاتك في الشتاء."
+      }
+    ]
+  },
+  {
+    "en": "graduate",
+    "translation": "يتخرج / خريج",
+    "ipa": "/ˈɡrædʒueɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She graduated from university last year.",
+        "ar": "تخرجت من الجامعة العام الماضي."
+      }
+    ]
+  },
+  {
+    "en": "headline",
+    "translation": "عنوان رئيسي (في صحيفة)",
+    "ipa": "/ˈhedlaɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I read the headlines in the morning paper.",
+        "ar": "قرأت العناوين الرئيسية في صحيفة الصباح."
+      }
+    ]
+  },
+  {
+    "en": "highlight",
+    "translation": "يسلط الضوء على / أبرز حدث",
+    "ipa": "/ˈhaɪlaɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The report highlights the main issues.",
+        "ar": "يسلط التقرير الضوء على القضايا الرئيسية."
+      }
+    ]
+  },
+  {
+    "en": "hire",
+    "translation": "يستأجر / يوظف",
+    "ipa": "/ˈhaɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We decided to hire a car for our trip.",
+        "ar": "قررنا استئجار سيارة لرحلتنا."
+      }
+    ]
+  },
+  {
+    "en": "hunt",
+    "translation": "يصطاد / يبحث",
+    "ipa": "/hʌnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Lions hunt other animals for food.",
+        "ar": "تصطاد الأسود حيوانات أخرى من أجل الغذاء."
+      }
+    ]
+  },
+  {
+    "en": "immigrant",
+    "translation": "مهاجر",
+    "ipa": "/ˈɪmɪɡrənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country has a large immigrant population.",
+        "ar": "يوجد في البلاد عدد كبير من المهاجرين."
+      }
+    ]
+  },
+  {
+    "en": "improvement",
+    "translation": "تحسن / تطوير",
+    "ipa": "/ɪmˈpruːvmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There has been a significant improvement in his health.",
+        "ar": "حدث تحسن ملحوظ في صحته."
+      }
+    ]
+  },
+  {
+    "en": "indicate",
+    "translation": "يشير إلى / يوضح",
+    "ipa": "/ˈɪndɪkeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The map indicates the best route to take.",
+        "ar": "توضح الخريطة أفضل طريق يجب اتخاذه."
+      }
+    ]
+  },
+  {
+    "en": "ingredient",
+    "translation": "مكون / مقادير (طبخة)",
+    "ipa": "/ɪnˈɡriːdiənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Fresh ingredients are key to a good meal.",
+        "ar": "المكونات الطازجة هي المفتاح لوجبة جيدة."
+      }
+    ]
+  },
+  {
+    "en": "injure",
+    "translation": "يجرح / يصيب",
+    "ipa": "/ˈɪndʒə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He injured his leg while playing football.",
+        "ar": "أصاب ساقه أثناء لعب كرة القدم."
+      }
+    ]
+  },
+  {
+    "en": "intention",
+    "translation": "نية / قصد",
+    "ipa": "/ɪnˈtenʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I have no intention of changing my mind.",
+        "ar": "ليس لدي نية لتغيير رأيي."
+      }
+    ]
+  },
+  {
+    "en": "invest",
+    "translation": "يستثمر",
+    "ipa": "/ɪnˈvest/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You should invest some money for the future.",
+        "ar": "يجب عليك استثمار بعض المال من أجل المستقبل."
+      }
+    ]
+  },
+  {
+    "en": "investigate",
+    "translation": "يحقق في / يبحث",
+    "ipa": "/ɪnˈvestɪɡeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The police are investigating the cause of the fire.",
+        "ar": "تحقق الشرطة في سبب الحريق."
+      }
+    ]
+  },
+  {
+    "en": "issue",
+    "translation": "قضية / مسألة / يصدر",
+    "ipa": "/ˈɪʃuː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Climate change is a global issue.",
+        "ar": "تغير المناخ قضية عالمية."
+      }
+    ]
+  },
+  {
+    "en": "latest",
+    "translation": "الأحدث / الأخير",
+    "ipa": "/ˈleɪtɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Have you seen the latest news?",
+        "ar": "هل رأيت آخر الأخبار؟"
+      }
+    ]
+  },
+  {
+    "en": "lay",
+    "translation": "يضع / يبيض",
+    "ipa": "/leɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She laid the book on the table.",
+        "ar": "وضعت الكتاب على الطاولة."
+      }
+    ]
+  },
+  {
+    "en": "leaf",
+    "translation": "ورقة شجر",
+    "ipa": "/liːf/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The leaves turn brown in the autumn.",
+        "ar": "تتحول أوراق الشجر إلى اللون البني في الخريف."
+      }
+    ]
+  },
+  {
+    "en": "lip",
+    "translation": "شفة",
+    "ipa": "/lɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She put some balm on her dry lips.",
+        "ar": "وضعت بعض البلسم على شفتيها الجافتين."
+      }
+    ]
+  },
+  {
+    "en": "located",
+    "translation": "يقع / موجود في",
+    "ipa": "/ləʊˈkeɪtɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The hotel is located in the city center.",
+        "ar": "يقع الفندق في وسط المدينة."
+      }
+    ]
+  },
+  {
+    "en": "medium",
+    "translation": "متوسط / وسيط",
+    "ipa": "/ˈmiːdiəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is of medium height.",
+        "ar": "هو متوسط الطول."
+      }
+    ]
+  },
+  {
+    "en": "muscle",
+    "translation": "عضلة",
+    "ipa": "/ˈmʌsl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He goes to the gym to build muscle.",
+        "ar": "يذهب إلى النادي الرياضي لبناء العضلات."
+      }
+    ]
+  },
+  {
+    "en": "nail",
+    "translation": "ظفر / مسمار",
+    "ipa": "/neɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She painted her nails red.",
+        "ar": "طليت أظافرها باللون الأحمر."
+      }
+    ]
+  },
+  {
+    "en": "neighbourhood",
+    "translation": "حي / منطقة سكنية",
+    "ipa": "/ˈneɪbəhʊd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It is a quiet and safe neighbourhood.",
+        "ar": "إنه حي هادئ وآمن."
+      }
+    ]
+  },
+  {
+    "en": "nor",
+    "translation": "ولا (تستخدم مع neither)",
+    "ipa": "/nɔː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He neither drinks nor smokes.",
+        "ar": "هو لا يشرب ولا يدخن."
+      }
+    ]
+  },
+  {
+    "en": "occasion",
+    "translation": "مناسبة",
+    "ipa": "/əˈkeɪʒn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We met on several occasions.",
+        "ar": "التقينا في عدة مناسبات."
+      }
+    ]
+  },
+  {
+    "en": "occur",
+    "translation": "يحدث / يقع",
+    "ipa": "/əˈkɜː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "When did the accident occur?",
+        "ar": "متى وقع الحادث؟"
+      }
+    ]
+  },
+  {
+    "en": "official",
+    "translation": "رسمي / مسؤول",
+    "ipa": "/əˈfɪʃl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "What is the official language of Brazil?",
+        "ar": "ما هي اللغة الرسمية للبرازيل؟"
+      }
+    ]
+  },
+  {
+    "en": "ours",
+    "translation": "لنا / ملكنا",
+    "ipa": "/ˈaʊəz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The decision was not ours to make.",
+        "ar": "لم يكن القرار قرارنا لنتخذه."
+      }
+    ]
+  },
+  {
+    "en": "pan",
+    "translation": "مقلاة / طنجرة",
+    "ipa": "/pæn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Heat some oil in a frying pan.",
+        "ar": "سخن بعض الزيت في مقلاة."
+      }
+    ]
+  },
+  {
+    "en": "passion",
+    "translation": "شغف / عاطفة قوية",
+    "ipa": "/ˈpæʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She has a passion for music.",
+        "ar": "لديها شغف بالموسيقى."
+      }
+    ]
+  },
+  {
+    "en": "persuade",
+    "translation": "يقنع",
+    "ipa": "/pəˈsweɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I tried to persuade him to stay.",
+        "ar": "حاولت إقناعه بالبقاء."
+      }
+    ]
+  },
+  {
+    "en": "pipe",
+    "translation": "أنبوب / غليون",
+    "ipa": "/paɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The water is leaking from a broken pipe.",
+        "ar": "الماء يتسرب من أنبوب مكسور."
+      }
+    ]
+  },
+  {
+    "en": "plot",
+    "translation": "حبكة / قطعة أرض / مؤامرة",
+    "ipa": "/plɒt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The movie has a very complex plot.",
+        "ar": "للفيلم حبكة معقدة للغاية."
+      }
+    ]
+  },
+  {
+    "en": "poem",
+    "translation": "قصيدة",
+    "ipa": "/ˈpəʊɪm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She wrote a beautiful poem about nature.",
+        "ar": "كتبت قصيدة جميلة عن الطبيعة."
+      }
+    ]
+  }
+]

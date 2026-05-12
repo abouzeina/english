@@ -1,0 +1,450 @@
+{
+  "id": "lsn_c1_b_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 9: B Words - Part 3",
+  "slug": "b-words-3",
+  "order": 9,
+  "wordCount": 19,
+  "titleAr": "الوحدة 9: كلمات حرف B - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف B.",
+  "words": [
+    {
+      "id": "w_c1_blast",
+      "lessonId": "lsn_c1_b_3",
+      "en": "blast",
+      "ar": "انفجار / عصف / انفجار صوتي",
+      "translation": "انفجار / عصف / انفجار صوتي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The blast shattered all the windows in the street.",
+          "ar": "حطم الانفجار جميع النوافذ في الشارع."
+        }
+      ],
+      "ipa": "/blɑːst/"
+    },
+    {
+      "id": "w_c1_bleed",
+      "lessonId": "lsn_c1_b_3",
+      "en": "bleed",
+      "ar": "ينزف",
+      "translation": "ينزف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "His nose began to bleed.",
+          "ar": "بدأ أنفه ينزف."
+        }
+      ],
+      "ipa": "/bliːd/"
+    },
+    {
+      "id": "w_c1_blend",
+      "lessonId": "lsn_c1_b_3",
+      "en": "blend",
+      "ar": "يمزج / خليط",
+      "translation": "يمزج / خليط",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "This coffee is a blend of three different beans.",
+          "ar": "هذه القهوة هي مزيج من ثلاث حبات مختلفة."
+        }
+      ],
+      "ipa": "/blend/"
+    },
+    {
+      "id": "w_c1_bless",
+      "lessonId": "lsn_c1_b_3",
+      "en": "bless",
+      "ar": "يبارك / ينعم على",
+      "translation": "يبارك / ينعم على",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "God bless you.",
+          "ar": "بارك الله فيك."
+        }
+      ],
+      "ipa": "/bles/"
+    },
+    {
+      "id": "w_c1_blessing",
+      "lessonId": "lsn_c1_b_3",
+      "en": "blessing",
+      "ar": "بركة / نعمة",
+      "translation": "بركة / نعمة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The new job was a blessing for the family.",
+          "ar": "كان العمل الجديد نعمة للعائلة."
+        }
+      ],
+      "ipa": "/ˈblesɪŋ/"
+    },
+    {
+      "id": "w_c1_blow",
+      "lessonId": "lsn_c1_b_3",
+      "en": "blow",
+      "ar": "ينفخ / هبوب / ضربة",
+      "translation": "ينفخ / هبوب / ضربة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The wind was blowing hard.",
+          "ar": "كانت الرياح تهب بشدة."
+        }
+      ],
+      "ipa": "/bləʊ/"
+    },
+    {
+      "id": "w_c1_boast",
+      "lessonId": "lsn_c1_b_3",
+      "en": "boast",
+      "ar": "يتفاخر / يتباهى",
+      "translation": "يتفاخر / يتباهى",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He boasted about his success.",
+          "ar": "تباهى بنجاحه."
+        }
+      ],
+      "ipa": "/bəʊst/"
+    },
+    {
+      "id": "w_c1_bold",
+      "lessonId": "lsn_c1_b_3",
+      "en": "bold",
+      "ar": "جريء / شجاع / بارز",
+      "translation": "جريء / شجاع / بارز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It was a bold move to start his own business.",
+          "ar": "لقد كانت خطوة جريئة أن يبدأ عمله الخاص."
+        }
+      ],
+      "ipa": "/bəʊld/"
+    },
+    {
+      "id": "w_c1_bombing",
+      "lessonId": "lsn_c1_b_3",
+      "en": "bombing",
+      "ar": "قصف / تفجير",
+      "translation": "قصف / تفجير",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The bombing destroyed several buildings.",
+          "ar": "دمر القصف عدة مبانٍ."
+        }
+      ],
+      "ipa": "/ˈbɒmɪŋ/"
+    },
+    {
+      "id": "w_c1_bonus",
+      "lessonId": "lsn_c1_b_3",
+      "en": "bonus",
+      "ar": "مكافأة إضافية / علاوة",
+      "translation": "مكافأة إضافية / علاوة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Employees received a Christmas bonus.",
+          "ar": "حصل الموظفون على مكافأة عيد الميلاد."
+        }
+      ],
+      "ipa": "/ˈbəʊnəs/"
+    },
+    {
+      "id": "w_c1_booking",
+      "lessonId": "lsn_c1_b_3",
+      "en": "booking",
+      "ar": "حجز",
+      "translation": "حجز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I'd like to make a hotel booking.",
+          "ar": "أود إجراء حجز فندقي."
+        }
+      ],
+      "ipa": "/ˈbʊkɪŋ/"
+    },
+    {
+      "id": "w_c1_boom",
+      "lessonId": "lsn_c1_b_3",
+      "en": "boom",
+      "ar": "ازدهار / دوي",
+      "translation": "ازدهار / دوي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country is experiencing an economic boom.",
+          "ar": "تعيش البلاد ازدهاراً اقتصادياً."
+        }
+      ],
+      "ipa": "/buːm/"
+    },
+    {
+      "id": "w_c1_boost",
+      "lessonId": "lsn_c1_b_3",
+      "en": "boost",
+      "ar": "يعزز / يرفع",
+      "translation": "يعزز / يرفع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The new marketing strategy boosted sales.",
+          "ar": "عززت استراتيجية التسويق الجديدة المبيعات."
+        }
+      ],
+      "ipa": "/buːst/"
+    },
+    {
+      "id": "w_c1_bounce",
+      "lessonId": "lsn_c1_b_3",
+      "en": "bounce",
+      "ar": "يرتد / يقفز",
+      "translation": "يرتد / يقفز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The ball bounced off the wall.",
+          "ar": "ارتدت الكرة عن الجدار."
+        }
+      ],
+      "ipa": "/baʊns/"
+    },
+    {
+      "id": "w_c1_bound",
+      "lessonId": "lsn_c1_b_3",
+      "en": "bound",
+      "ar": "مقيد / ملزم / مرجح جداً / وثبة",
+      "translation": "مقيد / ملزم / مرجح جداً / وثبة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You are bound by the terms of the contract.",
+          "ar": "أنت ملزم بشروط العقد."
+        }
+      ],
+      "ipa": "/baʊnd/"
+    },
+    {
+      "id": "w_c1_boundary",
+      "lessonId": "lsn_c1_b_3",
+      "en": "boundary",
+      "ar": "حدود / تخوم",
+      "translation": "حدود / تخوم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The river forms the boundary between the two countries.",
+          "ar": "يشكل النهر الحدود بين البلدين."
+        }
+      ],
+      "ipa": "/ˈbaʊndri/"
+    },
+    {
+      "id": "w_c1_bow",
+      "lessonId": "lsn_c1_b_3",
+      "en": "bow",
+      "ar": "ينحني / قوس",
+      "translation": "ينحني / قوس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He bowed low to the audience.",
+          "ar": "انحنى بشدة للجمهور."
+        }
+      ],
+      "ipa": "/baʊ/"
+    },
+    {
+      "id": "w_c1_breach",
+      "lessonId": "lsn_c1_b_3",
+      "en": "breach",
+      "ar": "خرق / نقض / ثغرة",
+      "translation": "خرق / نقض / ثغرة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company was sued for breach of contract.",
+          "ar": "تمت مقاضاة الشركة بسبب خرق العقد."
+        }
+      ],
+      "ipa": "/briːtʃ/"
+    },
+    {
+      "id": "w_c1_breakdown",
+      "lessonId": "lsn_c1_b_3",
+      "en": "breakdown",
+      "ar": "تعطل / انهيار / تحليل",
+      "translation": "تعطل / انهيار / تحليل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We suffered a car breakdown on the motorway.",
+          "ar": "تعطلت سيارتنا على الطريق السريع."
+        }
+      ],
+      "ipa": "/ˈbreɪkdaʊn/"
+    }
+  ]
+}

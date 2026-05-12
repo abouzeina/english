@@ -4,11 +4,104 @@
   "title": "Unit 9: C Words - Part 3",
   "slug": "c-words-3",
   "order": 9,
-  "wordCount": 25,
+  "wordCount": 24,
   "titleAr": "الوحدة 9: كلمات حرف C - الجزء 3",
   "description": "Master essential B2 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف C.",
   "words": [
+    {
+      "id": "w_b2_colourful",
+      "lessonId": "lsn_b2_c_3",
+      "en": "colourful",
+      "ar": "ملون / مبهج",
+      "translation": "ملون / مبهج",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She wore a colourful dress to the party.",
+          "ar": "ارتدت فستاناً ملوناً في الحفلة."
+        }
+      ],
+      "ipa": "/ˈkʌləfl/"
+    },
+    {
+      "id": "w_b2_combination",
+      "en": "combination",
+      "ar": "مزيج",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The combination of milk and dates is very delicious.",
+          "ar": "مزيج الحليب والتمر لذيذ جدا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kɒmbɪˈneɪʃən/"
+    },
+    {
+      "id": "w_b2_comfort",
+      "en": "comfort",
+      "ar": "رغد / راحة",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was living in comparative comfort.",
+          "ar": "كان يعيش في راحة نسبية."
+        },
+        {
+          "en": "I had enough money to live in comfort.",
+          "ar": "كان لدي ما يكفي من المال للعيش في رغد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkʊm.fət/"
+    },
+    {
+      "id": "w_b2_comforted",
+      "en": "comforted",
+      "ar": "أراحتني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your kind words comforted me.",
+          "ar": "كلماتك الطيبة أراحتني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_b2_comic",
       "en": "comic",
@@ -194,6 +287,29 @@
       "ipa": "/ˈkɒmənli/"
     },
     {
+      "id": "w_b2_comparative",
+      "lessonId": "lsn_b2_c_3",
+      "en": "comparative",
+      "ar": "مقارن / نسبي",
+      "translation": "مقارن / نسبي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company is a comparative newcomer to the field.",
+          "ar": "الشركةُ وافدةٌ جديدةٌ نسبياً في هذا المجال."
+        }
+      ],
+      "ipa": "/kəmˈpærətɪv/"
+    },
+    {
       "id": "w_b2_completion",
       "en": "completion",
       "ar": "الانتهاء",
@@ -236,6 +352,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈkɒmplɪkeɪtɪd/"
+    },
+    {
+      "id": "w_b2_component",
+      "lessonId": "lsn_b2_c_3",
+      "en": "component",
+      "ar": "مكون / جزء",
+      "translation": "مكون / جزء",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Trust is a vital component of any relationship.",
+          "ar": "الثقةُ مكونٌ حيويٌ في أيِ علاقة."
+        }
+      ],
+      "ipa": "/kəmˈpəʊnənt/"
     },
     {
       "id": "w_b2_components",
@@ -348,6 +487,29 @@
       "ipa": "/ˌkɒm.pɹɪˈhɛn.sɪv/"
     },
     {
+      "id": "w_b2_comprise",
+      "lessonId": "lsn_b2_c_3",
+      "en": "comprise",
+      "ar": "يشمل / يتكون من",
+      "translation": "يشمل / يتكون من",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The collection comprises over 300 paintings.",
+          "ar": "تتكون المجموعةُ من أكثرَ من ثلاثمائة لوحة."
+        }
+      ],
+      "ipa": "/kəmˈpraɪz/"
+    },
+    {
       "id": "w_b2_comprises",
       "en": "comprises",
       "ar": "تضم",
@@ -390,190 +552,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/kəmˈpʌlsəri/"
-    },
-    {
-      "id": "w_b2_concentration",
-      "en": "Concentration",
-      "ar": "التركيز",
-      "lessonId": "lsn_b2_c_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Concentration is key to success.",
-          "ar": "التركيز هو مفتاح النجاح."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˌkɒnsənˈtɹeɪʃən/"
-    },
-    {
-      "id": "w_b2_concept",
-      "en": "concept",
-      "ar": "مفهوم",
-      "lessonId": "lsn_b2_c_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The concept of beauty has changed over the past decades.",
-          "ar": "لقد تغير مفهوم الجمال خلال العقود الماضية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈkɒn.sɛpt/"
-    },
-    {
-      "id": "w_b2_concern",
-      "en": "concern",
-      "ar": "يقلقني / قلق",
-      "lessonId": "lsn_b2_c_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "There is growing concern about false news in social media.",
-          "ar": "هناك قلق متزايد بشأن الأخبار الكاذبة في وسائل التواصل الاجتماعي."
-        },
-        {
-          "en": "What concerns me is his lack of experience.",
-          "ar": "ما يقلقني هو قلة خبرته."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/kənˈsɜːn/"
-    },
-    {
-      "id": "w_b2_concerned",
-      "en": "concerned",
-      "ar": "قلق",
-      "lessonId": "lsn_b2_c_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I am concerned about my father's health.",
-          "ar": "أنا قلق بشأن صحة والدي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/kənˈsɜːnd/"
-    },
-    {
-      "id": "w_b2_concrete",
-      "en": "concrete",
-      "ar": "خرسانية / ملموسًا",
-      "lessonId": "lsn_b2_c_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Give me a concrete example.",
-          "ar": "أعطني مثالا ملموسًا."
-        },
-        {
-          "en": "They built concrete blocks around the building.",
-          "ar": "قاموا ببناء كتل خرسانية حول المبنى."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/kɵnˈkɹiːt/"
-    },
-    {
-      "id": "w_b2_conduct",
-      "en": "conduct",
-      "ar": "سلوك",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "It's a complaint about the conduct of one of our employees.",
-          "ar": "إنها شكوى بشأن سلوك أحد موظفينا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_conducting",
-      "en": "conducting",
-      "ar": "نجري",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We're conducting a survey as part of the research.",
-          "ar": "نحن نجري استطلاعا كجزء من البحث."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_confess",
-      "en": "confess",
-      "ar": "يعترف",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He was forced to confess.",
-          "ar": "لقد أجبر على أن يعترف."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
     }
   ]
 }

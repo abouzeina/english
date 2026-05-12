@@ -4,11 +4,33 @@
   "title": "Unit 4: A Words - Part 4",
   "slug": "a-words-4",
   "order": 4,
-  "wordCount": 23,
+  "wordCount": 24,
   "titleAr": "الوحدة 4: كلمات حرف A - الجزء 4",
   "description": "Master essential B2 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف A.",
   "words": [
+    {
+      "id": "w_b2_artwork",
+      "en": "artwork",
+      "ar": "أعمال فنية",
+      "lessonId": "lsn_b2_a_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A collection of artworks from Asian cultures.",
+          "ar": "مجموعة من الأعمال الفنية من الثقافات الآسيوية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɑːtˌwɜːk/"
+    },
     {
       "id": "w_b2_ashamed",
       "en": "ashamed",

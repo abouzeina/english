@@ -1,0 +1,602 @@
+[
+  {
+    "en": "albeit",
+    "translation": "وإن كان / ولو",
+    "ipa": "/ˌɔːlˈbiːɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He finally agreed, albeit reluctantly.",
+        "ar": "وافق أخيراً، وإن كان ذلك على مضض."
+      }
+    ]
+  },
+  {
+    "en": "alert",
+    "translation": "يقظ / منتبه / إنذار",
+    "ipa": "/əˈlɜːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Drivers must be alert to potential hazards.",
+        "ar": "يجب على السائقين أن يكونوا يقظين للمخاطر المحتملة."
+      }
+    ]
+  },
+  {
+    "en": "alien",
+    "translation": "غريب / أجنبي / كائن فضائي",
+    "ipa": "/ˈeɪliən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The concept of freedom is alien to them.",
+        "ar": "مفهوم الحرية غريب بالنسبة لهم."
+      }
+    ]
+  },
+  {
+    "en": "align",
+    "translation": "يحاذي / يصطف",
+    "ipa": "/əˈlaɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The wheels need to be aligned correctly.",
+        "ar": "يجب محاذاة العجلات بشكل صحيح."
+      }
+    ]
+  },
+  {
+    "en": "alignment",
+    "translation": "محاذاة / اصطفاف",
+    "ipa": "/əˈlaɪnmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The alignment of the planets is a rare event.",
+        "ar": "اصطفاف الكواكب حدث نادر."
+      }
+    ]
+  },
+  {
+    "en": "alike",
+    "translation": "على حد سواء / متشابه",
+    "ipa": "/əˈlaɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two brothers are very much alike.",
+        "ar": "الأخوان متشابهان جداً."
+      }
+    ]
+  },
+  {
+    "en": "allegation",
+    "translation": "ادعاء / زعم",
+    "ipa": "/ˌæləˈɡeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government denied allegations of corruption.",
+        "ar": "نفت الحكومة مزاعم الفساد."
+      }
+    ]
+  },
+  {
+    "en": "allege",
+    "translation": "يدعي / يزعم",
+    "ipa": "/əˈledʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is alleged to have stolen the money.",
+        "ar": "يُزعم أنه سرق المال."
+      }
+    ]
+  },
+  {
+    "en": "allegedly",
+    "translation": "كما يزعم / حسب الادعاء",
+    "ipa": "/əˈledʒɪdli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was allegedly involved in the plot.",
+        "ar": "قيل (حسب الادعاء) أنه متورط في المؤامرة."
+      }
+    ]
+  },
+  {
+    "en": "alliance",
+    "translation": "تحالف",
+    "ipa": "/əˈlaɪəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two countries formed a military alliance.",
+        "ar": "شكل البلدان تحالفاً عسكرياً."
+      }
+    ]
+  },
+  {
+    "en": "allocate",
+    "translation": "يخصص / يوزع",
+    "ipa": "/ˈæləkeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government has allocated funds for the project.",
+        "ar": "خصصت الحكومة أموالاً للمشروع."
+      }
+    ]
+  },
+  {
+    "en": "allocation",
+    "translation": "تخصيص / حصة",
+    "ipa": "/ˌæləˈkeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The allocation of resources must be fair.",
+        "ar": "يجب أن يكون توزيع الموارد عادلاً."
+      }
+    ]
+  },
+  {
+    "en": "allowance",
+    "translation": "بدل / مخصص مالي / مصروف",
+    "ipa": "/əˈlaʊəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He receives a monthly allowance from his parents.",
+        "ar": "يتلقى مصروفاً شهرياً من والديه."
+      }
+    ]
+  },
+  {
+    "en": "ally",
+    "translation": "حليف",
+    "ipa": "/ˈælaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country is a close ally of the United States.",
+        "ar": "الدولة حليف وثيق للولايات المتحدة."
+      }
+    ]
+  },
+  {
+    "en": "alongside",
+    "translation": "إلى جانب / جنباً إلى جنب",
+    "ipa": "/əˌlɒŋˈsaɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He worked alongside his father in the shop.",
+        "ar": "عمل إلى جانب والده في المحل."
+      }
+    ]
+  },
+  {
+    "en": "altogether",
+    "translation": "تماماً / إجمالاً",
+    "ipa": "/ˌɔːltəˈɡeðə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "That's another matter altogether.",
+        "ar": "هذا أمر آخر تماماً."
+      }
+    ]
+  },
+  {
+    "en": "aluminum",
+    "translation": "ألومنيوم",
+    "ipa": "/əˈluːmɪnəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The cans are made of aluminum.",
+        "ar": "العلب مصنوعة من الألومنيوم."
+      }
+    ]
+  },
+  {
+    "en": "amateur",
+    "translation": "هاوٍ / غير محترف",
+    "ipa": "/ˈæmətə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is an amateur photographer.",
+        "ar": "هو مصور هاوٍ."
+      }
+    ]
+  },
+  {
+    "en": "ambassador",
+    "translation": "سفير",
+    "ipa": "/æmˈbæsədə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She was appointed as the new ambassador to France.",
+        "ar": "عُينت سفيرة جديدة لدى فرنسا."
+      }
+    ]
+  },
+  {
+    "en": "amend",
+    "translation": "يعدل / يحسن",
+    "ipa": "/əˈmend/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The law was amended to include new regulations.",
+        "ar": "تم تعديل القانون ليشمل لوائح جديدة."
+      }
+    ]
+  },
+  {
+    "en": "amendment",
+    "translation": "تعديل",
+    "ipa": "/əˈmendmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The First Amendment protects freedom of speech.",
+        "ar": "التعديل الأول يحمي حرية التعبير."
+      }
+    ]
+  },
+  {
+    "en": "amid",
+    "translation": "وسط / في خضم",
+    "ipa": "/əˈmɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The building was built amid beautiful gardens.",
+        "ar": "بُني المبنى وسط حدائق جميلة."
+      }
+    ]
+  },
+  {
+    "en": "analogy",
+    "translation": "تناظر / تشابه / قياس",
+    "ipa": "/əˈnælədʒi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He drew an analogy between the brain and a computer.",
+        "ar": "أجرى تشبيهاً (قياساً) بين الدماغ والكمبيوتر."
+      }
+    ]
+  },
+  {
+    "en": "analytic",
+    "translation": "تحليلي",
+    "ipa": "/ˌænəˈlɪtɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She has a very analytic mind.",
+        "ar": "لديها عقل تحليلي للغاية."
+      }
+    ]
+  },
+  {
+    "en": "ancestor",
+    "translation": "سلف / جد",
+    "ipa": "/ˈænsestə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "His ancestors came from Ireland.",
+        "ar": "جاء أسلافه من أيرلندا."
+      }
+    ]
+  },
+  {
+    "en": "anchor",
+    "translation": "مرساة / مذيع رئيسي / يرسو",
+    "ipa": "/ˈæŋkə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The ship dropped anchor in the bay.",
+        "ar": "ألقت السفينة مرساتها في الخليج."
+      }
+    ]
+  },
+  {
+    "en": "angel",
+    "translation": "ملاك",
+    "ipa": "/ˈeɪndʒl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She looks like an angel.",
+        "ar": "تبدو كالملاك."
+      }
+    ]
+  },
+  {
+    "en": "animation",
+    "translation": "رسوم متحركة / حيوية",
+    "ipa": "/ˌænɪˈmeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He works in computer animation.",
+        "ar": "يعمل في مجال الرسوم المتحركة الحاسوبية."
+      }
+    ]
+  },
+  {
+    "en": "annually",
+    "translation": "سنوياً",
+    "ipa": "/ˈænjuəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The report is published annually.",
+        "ar": "يُنشر التقرير سنوياً."
+      }
+    ]
+  },
+  {
+    "en": "anomaly",
+    "translation": "شذوذ / خروج عن المألوف",
+    "ipa": "/əˈnɒməli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The results were an anomaly and could not be repeated.",
+        "ar": "كانت النتائج شاذة ولا يمكن تكرارها."
+      }
+    ]
+  },
+  {
+    "en": "anonymous",
+    "translation": "مجهول / مجهول الهوية",
+    "ipa": "/əˈnɒnɪməs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The donation was made by an anonymous donor.",
+        "ar": "قُدم التبرع من قبل متبرع مجهول."
+      }
+    ]
+  },
+  {
+    "en": "anticipate",
+    "translation": "يتوقع / يستبق",
+    "ipa": "/ænˈtɪsɪpeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We anticipate that prices will rise next year.",
+        "ar": "نتوقع أن ترتفع الأسعار العام القادم."
+      }
+    ]
+  },
+  {
+    "en": "apology",
+    "translation": "اعتذار",
+    "ipa": "/əˈpɒlədʒi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I owe you an apology for my behavior.",
+        "ar": "أنا مدين لك باعتذار عن سلوكي."
+      }
+    ]
+  },
+  {
+    "en": "apparatus",
+    "translation": "جهاز / أداة / هيكل تنظيمي",
+    "ipa": "/ˌæpəˈreɪtəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The laboratory was filled with complex scientific apparatus.",
+        "ar": "كان المختبر مليئاً بالأجهزة العلمية المعقدة."
+      }
+    ]
+  },
+  {
+    "en": "appealing",
+    "translation": "جذاب / ملفت",
+    "ipa": "/əˈpiːlɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The idea of a holiday by the sea is very appealing.",
+        "ar": "فكرة قضاء عطلة على البحر جذابة للغاية."
+      }
+    ]
+  },
+  {
+    "en": "appetite",
+    "translation": "شهية",
+    "ipa": "/ˈæpɪtaɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has a healthy appetite.",
+        "ar": "لديه شهية صحية."
+      }
+    ]
+  },
+  {
+    "en": "applaud",
+    "translation": "يصفق / يشيد بـ",
+    "ipa": "/əˈplɔːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The audience applauded loudly at the end of the show.",
+        "ar": "صفق الجمهور بصوت عالٍ في نهاية العرض."
+      }
+    ]
+  },
+  {
+    "en": "applicable",
+    "translation": "قابل للتطبيق / سارٍ",
+    "ipa": "/əˈplɪkəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The rules are applicable to all students.",
+        "ar": "القواعد قابلة للتطبيق على جميع الطلاب."
+      }
+    ]
+  },
+  {
+    "en": "applicant",
+    "translation": "متقدم (لوظيفة مثلاً)",
+    "ipa": "/ˈæplɪkənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There were over 500 applicants for the job.",
+        "ar": "كان هناك أكثر من خمسمائة متقدم للوظيفة."
+      }
+    ]
+  },
+  {
+    "en": "appoint",
+    "translation": "يعين / يحدد",
+    "ipa": "/əˈpɔɪnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She was appointed as the new manager.",
+        "ar": "عُينت كمديرة جديدة."
+      }
+    ]
+  },
+  {
+    "en": "appointment",
+    "translation": "موعد / تعيين",
+    "ipa": "/əˈpɔɪntmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I have an appointment with the doctor at 10 o'clock.",
+        "ar": "لدي موعد مع الطبيب في الساعة العاشرة."
+      }
+    ]
+  },
+  {
+    "en": "appreciation",
+    "translation": "تقدير / امتنان",
+    "ipa": "/əˌpriːʃiˈeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I'd like to express my appreciation for all your help.",
+        "ar": "أود أن أعبر عن تقديري لكل مساعدتك."
+      }
+    ]
+  },
+  {
+    "en": "appropriately",
+    "translation": "بشكل مناسب",
+    "ipa": "/əˈprəʊpriətli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please make sure you are dressed appropriately for the occasion.",
+        "ar": "يرجى التأكد من أنك ترتدي ملابس مناسبة لهذه المناسبة."
+      }
+    ]
+  },
+  {
+    "en": "arbitrary",
+    "translation": "تعسفي / اعتباطي",
+    "ipa": "/ˈɑːbɪtrəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The decision was completely arbitrary.",
+        "ar": "كان القرار اعتباطياً تماماً."
+      }
+    ]
+  },
+  {
+    "en": "architectural",
+    "translation": "معماري",
+    "ipa": "/ˌɑːkɪˈtektʃərəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The city is famous for its architectural beauty.",
+        "ar": "تشتهر المدينة بجمالها المعماري."
+      }
+    ]
+  },
+  {
+    "en": "archive",
+    "translation": "أرشيف",
+    "ipa": "/ˈɑːkaɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The documents are stored in the national archive.",
+        "ar": "يتم تخزين المستندات في الأرشيف الوطني."
+      }
+    ]
+  },
+  {
+    "en": "arena",
+    "translation": "حلبة / ساحة",
+    "ipa": "/əˈriːnə/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The concert was held in a huge sports arena.",
+        "ar": "أُقيم الحفل الموسيقي في ساحة رياضية ضخمة."
+      }
+    ]
+  },
+  {
+    "en": "arguably",
+    "translation": "من الممكن القول / يجادل بأن",
+    "ipa": "/ˈɑːɡjuəbli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is arguably the best player in the world.",
+        "ar": "من الممكن القول إنه أفضل لاعب في العالم."
+      }
+    ]
+  },
+  {
+    "en": "arm",
+    "translation": "ذراع / يسلح / فرع",
+    "ipa": "/ɑːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The charity is the fundraising arm of the organization.",
+        "ar": "الجمعية الخيرية هي ذراع جمع التبرعات للمنظمة."
+      }
+    ]
+  },
+  {
+    "en": "array",
+    "translation": "مجموعة / مصفوفة",
+    "ipa": "/əˈreɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a wide array of options to choose from.",
+        "ar": "هناك مجموعة واسعة من الخيارات للاختيار من بينها."
+      }
+    ]
+  }
+]

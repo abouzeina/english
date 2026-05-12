@@ -1,14 +1,58 @@
 {
   "id": "lsn_b2_i_3",
   "levelId": "lvl_b2",
-  "title": "Unit 27: I Words - Part 3",
+  "title": "Unit 33: I Words - Part 3",
   "slug": "i-words-3",
-  "order": 27,
-  "wordCount": 19,
-  "titleAr": "الوحدة 27: كلمات حرف I - الجزء 3",
+  "order": 33,
+  "wordCount": 22,
+  "titleAr": "الوحدة 33: كلمات حرف I - الجزء 3",
   "description": "Master essential B2 vocabulary starting with the letter I.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف I.",
   "words": [
+    {
+      "id": "w_b2_initial",
+      "en": "initial",
+      "ar": "الأولية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She felt nervous during the initial interview.",
+          "ar": "هي شعرت بالتوتر أثناء المقابلة الأولية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_initially",
+      "en": "Initially",
+      "ar": "في البداية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Initially, they thought it was a mistake.",
+          "ar": "في البداية، اعتقدوا أنه كان خطأ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_b2_initiative",
       "en": "initiative",
@@ -206,6 +250,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_insist",
+      "lessonId": "lsn_b2_i_3",
+      "en": "insist",
+      "ar": "يصر / يلح",
+      "translation": "يصر / يلح",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She insisted on paying for the meal.",
+          "ar": "أصرت على دفع ثمن الوجبة."
+        }
+      ],
+      "ipa": "/ɪnˈsɪst/"
     },
     {
       "id": "w_b2_insists",

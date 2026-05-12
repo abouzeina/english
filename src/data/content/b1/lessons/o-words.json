@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_o",
   "levelId": "lvl_b1",
-  "title": "Unit 24: O Words",
+  "title": "Unit 27: O Words",
   "slug": "o-words",
-  "order": 24,
-  "wordCount": 14,
-  "titleAr": "الوحدة 24: كلمات حرف O",
+  "order": 27,
+  "wordCount": 18,
+  "titleAr": "الوحدة 27: كلمات حرف O",
   "description": "Master essential B1 vocabulary starting with the letter O.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف O.",
   "words": [
@@ -54,6 +54,29 @@
       "ipa": "/ˈɒ(b).vɪəs.li/"
     },
     {
+      "id": "w_b1_occasion",
+      "lessonId": "lsn_b1_o",
+      "en": "occasion",
+      "ar": "مناسبة",
+      "translation": "مناسبة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We met on several occasions.",
+          "ar": "التقينا في عدة مناسبات."
+        }
+      ],
+      "ipa": "/əˈkeɪʒn/"
+    },
+    {
       "id": "w_b1_occasions",
       "en": "occasions",
       "ar": "مناسبات",
@@ -74,6 +97,29 @@
       ],
       "confidence": "high",
       "ipa": "/əˈkeɪʒənz/"
+    },
+    {
+      "id": "w_b1_occur",
+      "lessonId": "lsn_b1_o",
+      "en": "occur",
+      "ar": "يحدث / يقع",
+      "translation": "يحدث / يقع",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "When did the accident occur?",
+          "ar": "متى وقع الحادث؟"
+        }
+      ],
+      "ipa": "/əˈkɜː(r)/"
     },
     {
       "id": "w_b1_occurred",
@@ -118,6 +164,29 @@
       ],
       "confidence": "high",
       "ipa": "/ɒd/"
+    },
+    {
+      "id": "w_b1_official",
+      "lessonId": "lsn_b1_o",
+      "en": "official",
+      "ar": "رسمي / مسؤول",
+      "translation": "رسمي / مسؤول",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "What is the official language of Brazil?",
+          "ar": "ما هي اللغة الرسمية للبرازيل؟"
+        }
+      ],
+      "ipa": "/əˈfɪʃl/"
     },
     {
       "id": "w_b1_old_fashioned",
@@ -281,6 +350,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_ours",
+      "lessonId": "lsn_b1_o",
+      "en": "ours",
+      "ar": "لنا / ملكنا",
+      "translation": "لنا / ملكنا",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The decision was not ours to make.",
+          "ar": "لم يكن القرار قرارنا لنتخذه."
+        }
+      ],
+      "ipa": "/ˈaʊəz/"
     },
     {
       "id": "w_b1_outdoor",

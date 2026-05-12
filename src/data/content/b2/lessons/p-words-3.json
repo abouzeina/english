@@ -1,36 +1,14 @@
 {
   "id": "lsn_b2_p_3",
   "levelId": "lvl_b2",
-  "title": "Unit 40: P Words - Part 3",
+  "title": "Unit 47: P Words - Part 3",
   "slug": "p-words-3",
-  "order": 40,
-  "wordCount": 20,
-  "titleAr": "الوحدة 40: كلمات حرف P - الجزء 3",
+  "order": 47,
+  "wordCount": 21,
+  "titleAr": "الوحدة 47: كلمات حرف P - الجزء 3",
   "description": "Master essential B2 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف P.",
   "words": [
-    {
-      "id": "w_b2_pose",
-      "en": "pose",
-      "ar": "يشكل",
-      "lessonId": "lsn_b2_p_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "This decision could pose challenges for the team.",
-          "ar": "قد يشكل هذا القرار تحديات للفريق."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/pəʊz/"
-    },
     {
       "id": "w_b2_positives",
       "en": "positives",
@@ -109,6 +87,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/pəˈtɛnʃəl/"
+    },
+    {
+      "id": "w_b2_potentially",
+      "lessonId": "lsn_b2_p_3",
+      "en": "potentially",
+      "ar": "من المحتمل / بشكل كامن",
+      "translation": "من المحتمل / بشكل كامن",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "This is a potentially dangerous situation.",
+          "ar": "هذا موقف قد يكون خطيراً."
+        }
+      ],
+      "ipa": "/pəˈtenʃəli/"
     },
     {
       "id": "w_b2_praise",
@@ -471,6 +472,33 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/pɹaɪ̯m/"
+    },
+    {
+      "id": "w_b2_principal",
+      "en": "principal",
+      "ar": "شاغلها الرئيسي",
+      "lessonId": "lsn_b2_p_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Health is her principal concern at the moment.",
+          "ar": "الصحة هي شاغلها الرئيسي في الوقت الحالي."
+        },
+        {
+          "en": "طُلب للمثول في مكتب مدير المدرسة",
+          "ar": "The principal reason for the delay was the bad weather."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɪnsəpəl/"
     }
   ]
 }

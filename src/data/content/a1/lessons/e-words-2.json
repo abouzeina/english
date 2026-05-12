@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_e_2",
   "levelId": "lvl_a1",
-  "title": "Unit 12: E Words - Part 2",
+  "title": "Unit 13: E Words - Part 2",
   "slug": "e-words-2",
-  "order": 12,
-  "wordCount": 17,
-  "titleAr": "الوحدة 12: كلمات حرف E - الجزء 2",
+  "order": 13,
+  "wordCount": 19,
+  "titleAr": "الوحدة 13: كلمات حرف E - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter E.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف E.",
   "words": [
@@ -192,6 +192,29 @@
       "ipa": "/ˈɛv.ɹi.wʌn/"
     },
     {
+      "id": "w_a1_everything",
+      "lessonId": "lsn_a1_e_2",
+      "en": "everything",
+      "ar": "كل شيء",
+      "translation": "كل شيء",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Everything is going well.",
+          "ar": "كل شيء يسير على ما يرام."
+        }
+      ],
+      "ipa": "/ˈevriθɪŋ/"
+    },
+    {
       "id": "w_a1_exam",
       "lessonId": "lsn_a1_e_2",
       "en": "exam",
@@ -375,6 +398,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_eye",
+      "lessonId": "lsn_a1_e_2",
+      "en": "eye",
+      "ar": "عين",
+      "translation": "عين",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She has blue eyes.",
+          "ar": "لديها عينان زرقاوان."
+        }
+      ],
+      "ipa": "/aɪ/"
     },
     {
       "id": "w_a1_eyes",

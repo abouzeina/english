@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_w_2",
   "levelId": "lvl_a1",
-  "title": "Unit 47: W Words - Part 2",
+  "title": "Unit 50: W Words - Part 2",
   "slug": "w-words-2",
-  "order": 47,
-  "wordCount": 23,
-  "titleAr": "الوحدة 47: كلمات حرف W - الجزء 2",
+  "order": 50,
+  "wordCount": 24,
+  "titleAr": "الوحدة 50: كلمات حرف W - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter W.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف W.",
   "words": [
@@ -398,6 +398,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/wɜːk/"
+    },
+    {
+      "id": "w_a1_worker",
+      "lessonId": "lsn_a1_w_2",
+      "en": "worker",
+      "ar": "عامل",
+      "translation": "عامل",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The factory employs many social workers.",
+          "ar": "المصنع يوظف العديد من العمال."
+        }
+      ],
+      "ipa": "/ˈwɜːkə(r)/"
     },
     {
       "id": "w_a1_workers",

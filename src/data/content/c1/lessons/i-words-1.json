@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_i_1",
   "levelId": "lvl_c1",
-  "title": "Unit 17: I Words - Part 1",
+  "title": "Unit 32: I Words - Part 1",
   "slug": "i-words-1",
-  "order": 17,
-  "wordCount": 25,
-  "titleAr": "الوحدة 17: كلمات حرف I - الجزء 1",
+  "order": 32,
+  "wordCount": 20,
+  "titleAr": "الوحدة 32: كلمات حرف I - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter I.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف I.",
   "words": [
@@ -30,6 +30,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/aɪˌdɛntɪfɪˈkeɪʃən/"
+    },
+    {
+      "id": "w_c1_ideological",
+      "lessonId": "lsn_c1_i_1",
+      "en": "ideological",
+      "ar": "أيديولوجي / فكري",
+      "translation": "أيديولوجي / فكري",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There are major ideological differences between the two parties.",
+          "ar": "هناك اختلافات أيديولوجية (فكرية) كبيرة بين الحزبين."
+        }
+      ],
+      "ipa": "/ˌaɪdiəˈlɒdʒɪkl/"
     },
     {
       "id": "w_c1_ideology",
@@ -164,6 +187,29 @@
       "ipa": "/ˈɪmɪnənt/"
     },
     {
+      "id": "w_c1_implementation",
+      "lessonId": "lsn_c1_i_1",
+      "en": "implementation",
+      "ar": "تنفيذ / تطبيق",
+      "translation": "تنفيذ / تطبيق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The implementation of the new policy will begin next month.",
+          "ar": "سيبدأ تنفيذ السياسة الجديدة الشهر القادم."
+        }
+      ],
+      "ipa": "/ˌɪmplɪmenˈteɪʃn/"
+    },
+    {
       "id": "w_c1_imprison",
       "en": "imprison",
       "ar": "يسجن",
@@ -252,6 +298,29 @@
       "ipa": "/ɪnˈædəkwɪt/"
     },
     {
+      "id": "w_c1_inappropriate",
+      "lessonId": "lsn_c1_i_1",
+      "en": "inappropriate",
+      "ar": "غير مناسب / غير لائق",
+      "translation": "غير مناسب / غير لائق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "His behavior was completely inappropriate.",
+          "ar": "كان سلوكه غير لائق تماماً."
+        }
+      ],
+      "ipa": "/ˌɪnəˈprəʊpriət/"
+    },
+    {
       "id": "w_c1_incidence",
       "en": "incidence",
       "ar": "وقوع / حدوث",
@@ -296,6 +365,75 @@
       "ipa": "/ɪnˈklaɪnd/"
     },
     {
+      "id": "w_c1_inclusion",
+      "lessonId": "lsn_c1_i_1",
+      "en": "inclusion",
+      "ar": "إدراج / تضمين / شمول",
+      "translation": "إدراج / تضمين / شمول",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The inclusion of his name on the list was a mistake.",
+          "ar": "كان إدراج اسمه في القائمة خطأً."
+        }
+      ],
+      "ipa": "/ɪnˈkluːʒn/"
+    },
+    {
+      "id": "w_c1_incur",
+      "lessonId": "lsn_c1_i_1",
+      "en": "incur",
+      "ar": "يتحمل / يتكبد",
+      "translation": "يتحمل / يتكبد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He incurred heavy debts during his time at university.",
+          "ar": "تكبد ديوناً ثقيلة خلال فترة وجوده في الجامعة."
+        }
+      ],
+      "ipa": "/ɪnˈkɜː(r)/"
+    },
+    {
+      "id": "w_c1_indicator",
+      "lessonId": "lsn_c1_i_1",
+      "en": "indicator",
+      "ar": "مؤشر",
+      "translation": "مؤشر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The stock market is often seen as an economic indicator.",
+          "ar": "غالباً ما يُنظر إلى سوق الأوراق المالية كمؤشر اقتصادي."
+        }
+      ],
+      "ipa": "/ˈɪndɪkeɪtə(r)/"
+    },
+    {
       "id": "w_c1_indictment",
       "en": "indictment",
       "ar": "اتهام / إدانة",
@@ -316,248 +454,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ɪnˈdaɪt.mənt/"
-    },
-    {
-      "id": "w_c1_indigenous",
-      "en": "indigenous",
-      "ar": "أصلي / وطني",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يعرض المتحف فنون السكان الأصليين",
-          "ar": "We must respect and protect the indigenous cultures."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈdɪdʒɪnəs/"
-    },
-    {
-      "id": "w_c1_induce",
-      "en": "induce",
-      "ar": "يحث / يسبب",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "قرر الطبيب حث (تحفيز) الولادة من أجل سلامة الطفل",
-          "ar": "Nothing could induce him to change his mind."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈdjuːs/"
-    },
-    {
-      "id": "w_c1_indulge",
-      "en": "indulge",
-      "ar": "ينغمس / يدلل",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أحب أن أنغمس في قطعة من الشوكولاتة بين الحين والآخر",
-          "ar": "Parents should not indulge their children's every whim."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈdʌldʒ/"
-    },
-    {
-      "id": "w_c1_infamous",
-      "en": "infamous",
-      "ar": "سيئ السمعة",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كان القرصان سيئ السمعة بسبب قسوته وجرائمه",
-          "ar": "The prison is infamous for its harsh conditions."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɪnfəməs/"
-    },
-    {
-      "id": "w_c1_infect",
-      "en": "infect",
-      "ar": "يعدي / يلوث",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يمكن للفيروس أن يعدي أي شخص يتصل به",
-          "ar": "The hackers managed to infect the network with a virus."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈfɛkt/"
-    },
-    {
-      "id": "w_c1_inflict",
-      "en": "inflict",
-      "ar": "يلحق / يسبب",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تمكنت العاصفة من إلحاق أضرار جسيمة بالمحاصيل",
-          "ar": "We must not inflict unnecessary pain on animals."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈflɪkt/"
-    },
-    {
-      "id": "w_c1_influential",
-      "en": "influential",
-      "ar": "مؤثر",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "إنها واحدة من أكثر النساء تأثيراً في العالم",
-          "ar": "The book played an influential role in my decision-幕"
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnfluˈɛnʃəl/"
-    },
-    {
-      "id": "w_c1_inherent",
-      "en": "inherent",
-      "ar": "متأصل / كائن في",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "لكل وظيفة مخاطرها وتحدياتها المتأصلة",
-          "ar": "The desire for freedom is inherent in every human."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈhɛɹənt/"
-    },
-    {
-      "id": "w_c1_inhibit",
-      "en": "inhibit",
-      "ar": "يثبط / يمنع",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تمكن الطقس البارد من تثبيط نمو النباتات",
-          "ar": "Fear can often inhibit a person's ability to take risks."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈhɪbɪt/"
-    },
-    {
-      "id": "w_c1_initiate",
-      "en": "initiate",
-      "ar": "يبدأ / يستهل",
-      "pronunciation": "ɪˈnɪʃieɪt",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "قررت الحكومة بدء سياسة تجارية جديدة",
-          "ar": "The company will initiate a formal investigation into the matter."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_inject",
-      "en": "inject",
-      "ar": "يحقن",
-      "lessonId": "lsn_c1_i_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "اضطر الطبيب لحقن الدواء في ذراع المريض",
-          "ar": "The new investment will inject life into the local economy."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈdʒɛkt/"
     }
   ]
 }

@@ -1,0 +1,602 @@
+[
+  {
+    "en": "contemplate",
+    "translation": "يتأمل / يفكر ملياً",
+    "ipa": "/ˈkɒntəmpleɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She sat for a long time, contemplating her future.",
+        "ar": "جلست لفترة طويلة تتأمل مستقبلها."
+      }
+    ]
+  },
+  {
+    "en": "contempt",
+    "translation": "احتقار / ازدراء",
+    "ipa": "/kənˈtempt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has a deep contempt for the law.",
+        "ar": "لديه احتقار عميق للقانون."
+      }
+    ]
+  },
+  {
+    "en": "contend",
+    "translation": "يجادل / ينافس / يصارع",
+    "ipa": "/kənˈtend/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She contended that the rules were unfair.",
+        "ar": "جادلت بأن القواعد كانت غير عادلة."
+      }
+    ]
+  },
+  {
+    "en": "contender",
+    "translation": "منافس / متنافس",
+    "ipa": "/kənˈtendə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a strong contender for the title.",
+        "ar": "هو منافس قوي على اللقب."
+      }
+    ]
+  },
+  {
+    "en": "contention",
+    "translation": "نزاع / جدل / ادعاء",
+    "ipa": "/kənˈtenʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "This has been a major point of contention.",
+        "ar": "لقد كانت هذه نقطة نزاع رئيسية."
+      }
+    ]
+  },
+  {
+    "en": "continually",
+    "translation": "باستمرار / بشكل متواصل",
+    "ipa": "/kənˈtɪnjuəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The situation is continually changing.",
+        "ar": "الوضع يتغير باستمرار."
+      }
+    ]
+  },
+  {
+    "en": "contractor",
+    "translation": "مقاول / متعهد",
+    "ipa": "/kənˈtræktə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The building was constructed by a local contractor.",
+        "ar": "تم بناء المبنى من قبل مقاول محلي."
+      }
+    ]
+  },
+  {
+    "en": "contradiction",
+    "translation": "تناقض",
+    "ipa": "/ˌkɒntrəˈdɪkʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a contradiction between his words and his actions.",
+        "ar": "هناك تناقض بين أقواله وأفعاله."
+      }
+    ]
+  },
+  {
+    "en": "contrary",
+    "translation": "على العكس / مخالف / متضاد",
+    "ipa": "/ˈkɒntrəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Contrary to expectations, the project was a success.",
+        "ar": "على عكس التوقعات، كان المشروع ناجحاً."
+      }
+    ]
+  },
+  {
+    "en": "contributor",
+    "translation": "مساهم",
+    "ipa": "/kənˈtrɪbjətə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a regular contributor to the magazine.",
+        "ar": "هو مساهم منتظم في المجلة."
+      }
+    ]
+  },
+  {
+    "en": "conversion",
+    "translation": "تحويل / تغيير",
+    "ipa": "/kənˈvɜːʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The conversion of the building into flats took a year.",
+        "ar": "استغرق تحويل المبنى إلى شقق عاماً كاملاً."
+      }
+    ]
+  },
+  {
+    "en": "convict",
+    "translation": "يدين / سجين / محكوم عليه",
+    "ipa": "/kənˈvɪkt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was convicted of robbery.",
+        "ar": "أُدين بتهمة السرقة."
+      }
+    ]
+  },
+  {
+    "en": "conviction",
+    "translation": "إدانة / قناعة راسخة",
+    "ipa": "/kənˈvɪkʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She has a strong conviction that the project will succeed.",
+        "ar": "لديها قناعة راسخة بأن المشروع سينجح."
+      }
+    ]
+  },
+  {
+    "en": "cooperate",
+    "translation": "يتعاون",
+    "ipa": "/kəʊˈɒpəreɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two countries agreed to cooperate on security matters.",
+        "ar": "اتفق البلدان على التعاون في المسائل الأمنية."
+      }
+    ]
+  },
+  {
+    "en": "cooperative",
+    "translation": "متعاون / جمعية تعاونية",
+    "ipa": "/kəʊˈɒpərətɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is a very helpful and cooperative colleague.",
+        "ar": "هي زميلة متعاونة ومفيدة جداً."
+      }
+    ]
+  },
+  {
+    "en": "coordinate",
+    "translation": "ينسق",
+    "ipa": "/kəʊˈɔːdɪneɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need to coordinate our efforts to achieve the goal.",
+        "ar": "نحن بحاجة لتنسيق جهودنا لتحقيق الهدف."
+      }
+    ]
+  },
+  {
+    "en": "coordination",
+    "translation": "تنسيق",
+    "ipa": "/kəʊˌɔːdɪˈneɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The project requires close coordination between different departments.",
+        "ar": "يتطلب المشروع تنسيقاً وثيقاً بين الإدارات المختلفة."
+      }
+    ]
+  },
+  {
+    "en": "coordinator",
+    "translation": "منسق",
+    "ipa": "/kəʊˈɔːdɪneɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She was appointed as the project coordinator.",
+        "ar": "عُينت كمنسقة للمشروع."
+      }
+    ]
+  },
+  {
+    "en": "cop",
+    "translation": "شرطي (عامية)",
+    "ipa": "/kɒp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He wanted to be a cop when he grew up.",
+        "ar": "أراد أن يصبح شرطياً (cop) عندما يكبر."
+      }
+    ]
+  },
+  {
+    "en": "copper",
+    "translation": "نحاس",
+    "ipa": "/ˈkɒpə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The pipes are made of copper.",
+        "ar": "الأنابيب مصنوعة من النحاس."
+      }
+    ]
+  },
+  {
+    "en": "copyright",
+    "translation": "حقوق الطبع والنشر",
+    "ipa": "/ˈkɒpiraɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The book is protected by copyright.",
+        "ar": "الكتاب محمي بحقوق الطبع والنشر."
+      }
+    ]
+  },
+  {
+    "en": "correction",
+    "translation": "تصحيح / تعديل",
+    "ipa": "/kəˈrekʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please make the necessary corrections to the text.",
+        "ar": "يرجى إجراء التصحيحات اللازمة على النص."
+      }
+    ]
+  },
+  {
+    "en": "correlate",
+    "translation": "يربط / يتلازم",
+    "ipa": "/ˈkɒrəleɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The study shows how income correlates with education.",
+        "ar": "تظهر الدراسة كيف يرتبط (يتلازم) الدخل مع التعليم."
+      }
+    ]
+  },
+  {
+    "en": "correlation",
+    "translation": "ارتباط / تلازم",
+    "ipa": "/ˌkɒrəˈleɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a strong correlation between smoking and lung cancer.",
+        "ar": "هناك ارتباط قوي بين التدخين وسرطان الرئة."
+      }
+    ]
+  },
+  {
+    "en": "correspond",
+    "translation": "يتطابق / يراسل / يتماثل",
+    "ipa": "/ˌkɒrəˈspɒnd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two reports correspond in every detail.",
+        "ar": "يتطابق التقريران في كل التفاصيل."
+      }
+    ]
+  },
+  {
+    "en": "correspondence",
+    "translation": "مراسلات / تطابق",
+    "ipa": "/ˌkɒrəˈspɒndəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He kept all the personal correspondence from his father.",
+        "ar": "احتفظ بجميع المراسلات الشخصية من والده."
+      }
+    ]
+  },
+  {
+    "en": "correspondent",
+    "translation": "مراسل / متوافق",
+    "ipa": "/ˌkɒrəˈspɒndənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a war correspondent for a national newspaper.",
+        "ar": "هو مراسل حربي لصحيفة وطنية."
+      }
+    ]
+  },
+  {
+    "en": "corresponding",
+    "translation": "مقابل / مماثل",
+    "ipa": "/ˌkɒrəˈspɒndɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Each number has a corresponding letter.",
+        "ar": "كل رقم له حرف مقابل."
+      }
+    ]
+  },
+  {
+    "en": "corrupt",
+    "translation": "فاسد / يفسد",
+    "ipa": "/kəˈrʌpt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The official was accused of being corrupt.",
+        "ar": "اتُهم المسؤول بكونه فاسداً."
+      }
+    ]
+  },
+  {
+    "en": "corruption",
+    "translation": "فساد",
+    "ipa": "/kəˈrʌpʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government is fighting against corruption.",
+        "ar": "الحكومة تحارب الفساد."
+      }
+    ]
+  },
+  {
+    "en": "costly",
+    "translation": "مكلف / باهظ الثمن",
+    "ipa": "/ˈkɒstli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The mistake proved to be very costly.",
+        "ar": "ثبت أن الخطأ كان مكلفاً للغاية."
+      }
+    ]
+  },
+  {
+    "en": "councillor",
+    "translation": "عضو مجلس",
+    "ipa": "/ˈkaʊnsələ(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The local councillor promised to look into the matter.",
+        "ar": "وعد عضو المجلس المحلي بالنظر في الأمر."
+      }
+    ]
+  },
+  {
+    "en": "counselling",
+    "translation": "إرشاد / مشورة",
+    "ipa": "/ˈkaʊnsəlɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is receiving counselling for her depression.",
+        "ar": "هي تتلقى إرشاداً (مشورة نفسية) لعلاج اكتئابها."
+      }
+    ]
+  },
+  {
+    "en": "counsellor",
+    "translation": "مستشار / مرشد",
+    "ipa": "/ˈkaʊnsələ(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "A school counsellor can help students with their problems.",
+        "ar": "يمكن لمرشد المدرسة مساعدة الطلاب في مشاكلهم."
+      }
+    ]
+  },
+  {
+    "en": "counterpart",
+    "translation": "نظير / مثيل",
+    "ipa": "/ˈkaʊntəpɑːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The foreign minister met with his German counterpart.",
+        "ar": "التقى وزير الخارجية بنظيره الألماني."
+      }
+    ]
+  },
+  {
+    "en": "countless",
+    "translation": "لا يحصى / لا يعد",
+    "ipa": "/ˈkaʊntləs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I've told him countless times not to do that.",
+        "ar": "لقد أخبرته مرات لا تحصى ألا يفعل ذلك."
+      }
+    ]
+  },
+  {
+    "en": "coup",
+    "translation": "انقلاب / خطوة ناجحة مفاجئة",
+    "ipa": "/kuː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The military staged a coup to overthrow the government.",
+        "ar": "قام الجيش بانقلاب للإطاحة بالحكومة."
+      }
+    ]
+  },
+  {
+    "en": "courtesy",
+    "translation": "مجاملة / لباقة",
+    "ipa": "/ˈkɜːtəsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He treated everyone with courtesy and respect.",
+        "ar": "عامل الجميع بلباقة (مجاملة) واحترام."
+      }
+    ]
+  },
+  {
+    "en": "crawl",
+    "translation": "يزحف / يحبو",
+    "ipa": "/krɔːl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The baby is just starting to crawl.",
+        "ar": "بدأ الطفل للتو في الحبو (الزحف)."
+      }
+    ]
+  },
+  {
+    "en": "creator",
+    "translation": "خالق / مبدع / صانع",
+    "ipa": "/kriˈeɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Walt Disney was the creator of Mickey Mouse.",
+        "ar": "والت ديزني كان مبدع (خالق) شخصية ميكي ماوس."
+      }
+    ]
+  },
+  {
+    "en": "credibility",
+    "translation": "مصداقية",
+    "ipa": "/ˌkredəˈbɪləti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The scandal has damaged his credibility.",
+        "ar": "لقد أضرت الفضيحة بمصداقيته."
+      }
+    ]
+  },
+  {
+    "en": "credible",
+    "translation": "موثوق / جدير بالتصديق",
+    "ipa": "/ˈkredəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is no credible evidence to support his claim.",
+        "ar": "لا يوجد دليل موثوق لدعم ادعائه."
+      }
+    ]
+  },
+  {
+    "en": "creep",
+    "translation": "يتسلل / يزحف",
+    "ipa": "/kriːp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He tried to creep out of the room without being noticed.",
+        "ar": "حاول التسلل خارج الغرفة دون أن يُلاحظ."
+      }
+    ]
+  },
+  {
+    "en": "critique",
+    "translation": "نقد / مراجعة نقدية",
+    "ipa": "/krɪˈtiːk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The professor gave a detailed critique of the student's essay.",
+        "ar": "قدم الأستاذ نقداً مفصلاً لمقال الطالب."
+      }
+    ]
+  },
+  {
+    "en": "crown",
+    "translation": "تاج / يتوج",
+    "ipa": "/kraʊn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The king wore a heavy gold crown.",
+        "ar": "ارتدى الملك تاجاً ذهبياً ثقيلاً."
+      }
+    ]
+  },
+  {
+    "en": "crude",
+    "translation": "خام / فظ / بدائي",
+    "ipa": "/kruːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country exports crude oil.",
+        "ar": "تُصدر البلاد النفط الخام."
+      }
+    ]
+  },
+  {
+    "en": "crush",
+    "translation": "يسحق / يحطم / زحام",
+    "ipa": "/krʌʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The machine is used to crush rocks.",
+        "ar": "تُستخدم الآلة لسحق الصخور."
+      }
+    ]
+  },
+  {
+    "en": "crystal",
+    "translation": "بلورة / كريستال",
+    "ipa": "/ˈkrɪstl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The vase is made of lead crystal.",
+        "ar": "المزهرية مصنوعة من الكريستال الرصاصي."
+      }
+    ]
+  },
+  {
+    "en": "cult",
+    "translation": "طائفة / عبادة / ذو شعبية خاصة",
+    "ipa": "/kʌlt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was a member of a religious cult.",
+        "ar": "كان عضواً في طائفة دينية."
+      }
+    ]
+  },
+  {
+    "en": "cultivate",
+    "translation": "يزرع / ينمي / يفلح",
+    "ipa": "/ˈkʌltɪveɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The land is used to cultivate wheat.",
+        "ar": "تُستخدم الأرض لزراعة القمح."
+      }
+    ]
+  }
+]

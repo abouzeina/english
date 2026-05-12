@@ -1,14 +1,36 @@
 {
   "id": "lsn_b2_i_2",
   "levelId": "lvl_b2",
-  "title": "Unit 26: I Words - Part 2",
+  "title": "Unit 32: I Words - Part 2",
   "slug": "i-words-2",
-  "order": 26,
-  "wordCount": 20,
-  "titleAr": "الوحدة 26: كلمات حرف I - الجزء 2",
+  "order": 32,
+  "wordCount": 22,
+  "titleAr": "الوحدة 32: كلمات حرف I - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter I.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف I.",
   "words": [
+    {
+      "id": "w_b2_incident",
+      "en": "incident",
+      "ar": "الحادث",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_i_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The police are investigating the incident.",
+          "ar": "الشرطة تحقق في الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_b2_income",
       "en": "income",
@@ -252,6 +274,29 @@
       "ipa": "/ɪnˈfɛkʃən/"
     },
     {
+      "id": "w_b2_infer",
+      "lessonId": "lsn_b2_i_2",
+      "en": "infer",
+      "ar": "يستنتج",
+      "translation": "يستنتج",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "What can we infer from these statistics?",
+          "ar": "ماذا يمكننا أن نستنتج من هذه الإحصائيات؟"
+        }
+      ],
+      "ipa": "/ɪnˈfɜː(r)/"
+    },
+    {
       "id": "w_b2_inferred",
       "en": "inferred",
       "ar": "استدلت",
@@ -318,6 +363,29 @@
       "ipa": "/ˈɪnfəʊ/"
     },
     {
+      "id": "w_b2_inform",
+      "lessonId": "lsn_b2_i_2",
+      "en": "inform",
+      "ar": "يخبر / يبلغ",
+      "translation": "يخبر / يبلغ",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Please inform me of any changes to the schedule.",
+          "ar": "يرجى إبلاغي بأي تغييرات في الجدول الزمني."
+        }
+      ],
+      "ipa": "/ɪnˈfɔːm/"
+    },
+    {
       "id": "w_b2_informed",
       "en": "informed",
       "ar": "أبلغونا",
@@ -362,6 +430,29 @@
       "ipa": "/ˈɪnfɹəˌstɹʌk(t)ʃɚ/"
     },
     {
+      "id": "w_b2_inhabitant",
+      "lessonId": "lsn_b2_i_2",
+      "en": "inhabitant",
+      "ar": "ساكن / قاطن",
+      "translation": "ساكن / قاطن",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The island has only a few hundred inhabitants.",
+          "ar": "تضم الجزيرة بضع مئات فقط من السكان."
+        }
+      ],
+      "ipa": "/ɪnˈhæbɪtənt/"
+    },
+    {
       "id": "w_b2_inhabitants",
       "en": "inhabitants",
       "ar": "سكان",
@@ -394,50 +485,6 @@
         {
           "en": "He is expected to inherit a large fortune.",
           "ar": "من المتوقع أن يرث ثروة كبيرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_initial",
-      "en": "initial",
-      "ar": "الأولية",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_i_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "She felt nervous during the initial interview.",
-          "ar": "هي شعرت بالتوتر أثناء المقابلة الأولية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_initially",
-      "en": "Initially",
-      "ar": "في البداية",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_i_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Initially, they thought it was a mistake.",
-          "ar": "في البداية، اعتقدوا أنه كان خطأ."
         }
       ],
       "type": "word",

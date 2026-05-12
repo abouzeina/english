@@ -1,14 +1,37 @@
 {
   "id": "lsn_b1_q",
   "levelId": "lvl_b1",
-  "title": "Unit 28: Q Words",
+  "title": "Unit 32: Q Words",
   "slug": "q-words",
-  "order": 28,
-  "wordCount": 7,
-  "titleAr": "الوحدة 28: كلمات حرف Q",
+  "order": 32,
+  "wordCount": 9,
+  "titleAr": "الوحدة 32: كلمات حرف Q",
   "description": "Master essential B1 vocabulary starting with the letter Q.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف Q.",
   "words": [
+    {
+      "id": "w_b1_qualification",
+      "lessonId": "lsn_b1_q",
+      "en": "qualification",
+      "ar": "مؤهل / شهادة",
+      "translation": "مؤهل / شهادة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "What professional qualifications do you have?",
+          "ar": "ما هي المؤهلات المهنية التي لديك؟"
+        }
+      ],
+      "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/"
+    },
     {
       "id": "w_b1_qualifications",
       "en": "qualifications",
@@ -122,6 +145,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_quotation",
+      "lessonId": "lsn_b1_q",
+      "en": "quotation",
+      "ar": "اقتباس / تسعيرة",
+      "translation": "اقتباس / تسعيرة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The book begins with a quotation from Shakespeare.",
+          "ar": "يبدأ الكتاب باقتباس من شكسبير."
+        }
+      ],
+      "ipa": "/kwəʊˈteɪʃn/"
     },
     {
       "id": "w_b1_quotations",

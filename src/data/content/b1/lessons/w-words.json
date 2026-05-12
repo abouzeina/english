@@ -1,14 +1,37 @@
 {
   "id": "lsn_b1_w",
   "levelId": "lvl_b1",
-  "title": "Unit 40: W Words",
+  "title": "Unit 44: W Words",
   "slug": "w-words",
-  "order": 40,
-  "wordCount": 17,
-  "titleAr": "الوحدة 40: كلمات حرف W",
+  "order": 44,
+  "wordCount": 21,
+  "titleAr": "الوحدة 44: كلمات حرف W",
   "description": "Master essential B1 vocabulary starting with the letter W.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف W.",
   "words": [
+    {
+      "id": "w_b1_warn",
+      "lessonId": "lsn_b1_w",
+      "en": "warn",
+      "ar": "يحذر",
+      "translation": "يحذر",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They warned us about the danger.",
+          "ar": "حذرونا من الخطر."
+        }
+      ],
+      "ipa": "/wɔːn/"
+    },
     {
       "id": "w_b1_warned",
       "en": "warned",
@@ -30,6 +53,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_warning",
+      "lessonId": "lsn_b1_w",
+      "en": "warning",
+      "ar": "تحذير",
+      "translation": "تحذير",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government issued a weather warning.",
+          "ar": "أصدرت الحكومة تحذيراً من أحوال الطقس."
+        }
+      ],
+      "ipa": "/ˈwɔːnɪŋ/"
     },
     {
       "id": "w_b1_warnings",
@@ -104,6 +150,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_weapon",
+      "lessonId": "lsn_b1_w",
+      "en": "weapon",
+      "ar": "سلاح",
+      "translation": "سلاح",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The police found a hidden weapon.",
+          "ar": "وجدت الشرطة سلاحاً مخبأً."
+        }
+      ],
+      "ipa": "/ˈwepən/"
     },
     {
       "id": "w_b1_weapons",
@@ -236,6 +305,29 @@
       ],
       "confidence": "high",
       "ipa": "/ˈwɛðə(ɹ)/"
+    },
+    {
+      "id": "w_b1_wing",
+      "lessonId": "lsn_b1_w",
+      "en": "wing",
+      "ar": "جناح",
+      "translation": "جناح",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The bird spread its wings and flew away.",
+          "ar": "فرد الطائر جناحيه وطار بعيداً."
+        }
+      ],
+      "ipa": "/wɪŋ/"
     },
     {
       "id": "w_b1_wings",

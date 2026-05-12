@@ -1,14 +1,58 @@
 {
   "id": "lsn_c1_r_3",
   "levelId": "lvl_c1",
-  "title": "Unit 36: R Words - Part 3",
+  "title": "Unit 54: R Words - Part 3",
   "slug": "r-words-3",
-  "order": 36,
-  "wordCount": 19,
-  "titleAr": "الوحدة 36: كلمات حرف R - الجزء 3",
+  "order": 54,
+  "wordCount": 21,
+  "titleAr": "الوحدة 54: كلمات حرف R - الجزء 3",
   "description": "Master essential C1 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف R.",
   "words": [
+    {
+      "id": "w_c1_render",
+      "en": "render",
+      "ar": "يجعل / يقدم (خدمة) / يصور",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "جعل الحادث السيارة غير صالحة للاستعمال",
+          "ar": "They were happy to render assistance to the travelers."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛn.də/"
+    },
+    {
+      "id": "w_c1_renew",
+      "en": "renew",
+      "ar": "يجدد",
+      "lessonId": "lsn_c1_r_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أنا بحاجة لتجديد جواز سفري قبل انتهاء صلاحيته",
+          "ar": "They decided to renew their contract for another year."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈnjuː/"
+    },
     {
       "id": "w_c1_renowned",
       "en": "renowned",

@@ -1,0 +1,542 @@
+[
+  {
+    "en": "curiosity",
+    "translation": "فضول",
+    "ipa": "/ˌkjʊəriˈɒsəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Children have a natural curiosity about the world.",
+        "ar": "لدى الأطفال فضول طبيعي تجاه العالم."
+      }
+    ]
+  },
+  {
+    "en": "custody",
+    "translation": "حضانة / حبس احتياطي / حجز",
+    "ipa": "/ˈkʌstədi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The parents were granted joint custody of the children.",
+        "ar": "مُنح الوالدان حضانة مشتركة للأطفال."
+      }
+    ]
+  },
+  {
+    "en": "cutting",
+    "translation": "قطع / قصاصة / جارح",
+    "ipa": "/ˈkʌtɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She made a cutting remark about his appearance.",
+        "ar": "أدلت بملاحظة جارحة عن مظهره."
+      }
+    ]
+  },
+  {
+    "en": "cynical",
+    "translation": "ساخر / متشائم / مرتاب",
+    "ipa": "/ˈsɪnɪkl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has a cynical view of politics.",
+        "ar": "لديه نظرة ساخرة (متشائمة) للسياسة."
+      }
+    ]
+  },
+  {
+    "en": "dam",
+    "translation": "سد",
+    "ipa": "/dæm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The dam was built to provide hydroelectric power.",
+        "ar": "بُني السد لتوفير الطاقة الكهرومائية."
+      }
+    ]
+  },
+  {
+    "en": "damaging",
+    "translation": "ضار / مؤذٍ / مخرب",
+    "ipa": "/ˈdæmɪdʒɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The storm had a damaging effect on the crops.",
+        "ar": "كان للعاصفة تأثير ضار على المحاصيل."
+      }
+    ]
+  },
+  {
+    "en": "dawn",
+    "translation": "فجر / مطلع",
+    "ipa": "/dɔːn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We set off at the break of dawn.",
+        "ar": "انطلقنا عند مطلع الفجر."
+      }
+    ]
+  },
+  {
+    "en": "debris",
+    "translation": "أنقاض / حطام / بقايا",
+    "ipa": "/ˈdebriː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Emergency workers are clearing the debris from the crash.",
+        "ar": "يقوم عمال الطوارئ بإزالة الحطام الناتج عن الحادث."
+      }
+    ]
+  },
+  {
+    "en": "debut",
+    "translation": "الظهور الأول / العرض الأول",
+    "ipa": "/ˈdeɪbjuː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She made her professional debut at the age of 16.",
+        "ar": "كان أول ظهور احترافي لها في سن السادسة عشرة."
+      }
+    ]
+  },
+  {
+    "en": "decision-making",
+    "translation": "صنع القرار",
+    "ipa": "/dɪˈsɪʒn meɪkɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is involved in the company's decision-making process.",
+        "ar": "هو مشارك في عملية صنع القرار بالشركة."
+      }
+    ]
+  },
+  {
+    "en": "decisive",
+    "translation": "حاسم",
+    "ipa": "/dɪˈsaɪsɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government took decisive action to stop the crisis.",
+        "ar": "اتخذت الحكومة إجراءات حاسمة لوقف الأزمة."
+      }
+    ]
+  },
+  {
+    "en": "declaration",
+    "translation": "إعلان / تصريح",
+    "ipa": "/ˌdekləˈreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The Declaration of Independence was signed in 1776.",
+        "ar": "تم توقيع إعلان الاستقلال في عام 1776."
+      }
+    ]
+  },
+  {
+    "en": "dedicated",
+    "translation": "مخصص / مكرس / مخلص",
+    "ipa": "/ˈdedɪkeɪtɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a dedicated and hardworking teacher.",
+        "ar": "هو معلم مخلص ومجتهد."
+      }
+    ]
+  },
+  {
+    "en": "dedication",
+    "translation": "تفانٍ / إخلاص / إهداء",
+    "ipa": "/ˌdedɪˈkeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The project's success is due to the dedication of the team.",
+        "ar": "يعود نجاح المشروع إلى تفاني الفريق."
+      }
+    ]
+  },
+  {
+    "en": "deed",
+    "translation": "عمل / صك / فعل",
+    "ipa": "/diːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is famous for his good deeds.",
+        "ar": "هو مشهور بأعماله الحسنة."
+      }
+    ]
+  },
+  {
+    "en": "deem",
+    "translation": "يعتبر / يرى",
+    "ipa": "/diːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bridge was deemed unsafe for heavy vehicles.",
+        "ar": "اعتبر الجسر غير آمن للمركبات الثقيلة."
+      }
+    ]
+  },
+  {
+    "en": "default",
+    "translation": "افتراضي / تقصير في السداد",
+    "ipa": "/dɪˈfɔːlt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company defaulted on its loan payments.",
+        "ar": "تخلفت الشركة عن سداد دفعات قروضها."
+      }
+    ]
+  },
+  {
+    "en": "defect",
+    "translation": "عيب / خلل / ينشق عن",
+    "ipa": "/ˈdiːfekt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The car was recalled due to a safety defect.",
+        "ar": "تم سحب السيارة بسبب عيب في السلامة."
+      }
+    ]
+  },
+  {
+    "en": "defensive",
+    "translation": "دفاعي",
+    "ipa": "/dɪˈfensɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The army took a defensive position.",
+        "ar": "اتخذ الجيش وضعاً دفاعياً."
+      }
+    ]
+  },
+  {
+    "en": "deficiency",
+    "translation": "نقص / عجز",
+    "ipa": "/dɪˈfɪʃnsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "A vitamin deficiency can lead to health problems.",
+        "ar": "نقص الفيتامينات يمكن أن يؤدي إلى مشاكل صحية."
+      }
+    ]
+  },
+  {
+    "en": "deficit",
+    "translation": "عجز / نقص مالي",
+    "ipa": "/ˈdefɪsɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government is trying to reduce the budget deficit.",
+        "ar": "تحاول الحكومة تقليل عجز الموازنة."
+      }
+    ]
+  },
+  {
+    "en": "defy",
+    "translation": "يتحدى / يعصي",
+    "ipa": "/dɪˈfaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He defied the orders of his superior.",
+        "ar": "تحدى (عصى) أوامر رئيسه."
+      }
+    ]
+  },
+  {
+    "en": "delegate",
+    "translation": "مندوب / يفوض",
+    "ipa": "/ˈdelɪɡət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Each country sent a delegate to the conference.",
+        "ar": "أرسلت كل دولة مندوباً إلى المؤتمر."
+      }
+    ]
+  },
+  {
+    "en": "delegation",
+    "translation": "وفد / تفويض",
+    "ipa": "/ˌdelɪˈɡeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "A delegation of experts visited the site.",
+        "ar": "زار وفد من الخبراء الموقع."
+      }
+    ]
+  },
+  {
+    "en": "delicate",
+    "translation": "حساس / رقيق / دقيق",
+    "ipa": "/ˈdelɪkət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The skin around the eyes is very delicate.",
+        "ar": "الجلد حول العينين رقيق (حساس) للغاية."
+      }
+    ]
+  },
+  {
+    "en": "demon",
+    "translation": "شيطان / عفريت",
+    "ipa": "/ˈdiːmən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is fighting his personal demons.",
+        "ar": "إنه يصارع شياطينه الشخصية."
+      }
+    ]
+  },
+  {
+    "en": "denial",
+    "translation": "إنكار / نفي",
+    "ipa": "/dɪˈnaɪəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government issued a flat denial of the rumors.",
+        "ar": "أصدرت الحكومة نفياً قاطعاً للشائعات."
+      }
+    ]
+  },
+  {
+    "en": "denounce",
+    "translation": "يدين / يستنكر بشدة / يشي بـ",
+    "ipa": "/dɪˈnaʊns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The project was denounced as a waste of money.",
+        "ar": "تم استنكار المشروع باعتباره إهداراً للمال."
+      }
+    ]
+  },
+  {
+    "en": "dense",
+    "translation": "كثيف",
+    "ipa": "/dens/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We walked through a dense forest.",
+        "ar": "مشينا عبر غابة كثيفة."
+      }
+    ]
+  },
+  {
+    "en": "density",
+    "translation": "كثافة",
+    "ipa": "/ˈdensəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The population density in the city is very high.",
+        "ar": "الكثافة السكانية في المدينة عالية جداً."
+      }
+    ]
+  },
+  {
+    "en": "dependence",
+    "translation": "اعتماد / تبعية",
+    "ipa": "/dɪˈpendəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country is trying to reduce its dependence on oil.",
+        "ar": "تحاول البلاد تقليل اعتمادها على النفط."
+      }
+    ]
+  },
+  {
+    "en": "depict",
+    "translation": "يصور / يرسم / يصف",
+    "ipa": "/dɪˈpɪkt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The painting depicts a scene from the war.",
+        "ar": "تصور اللوحة مشهداً من الحرب."
+      }
+    ]
+  },
+  {
+    "en": "deploy",
+    "translation": "ينشر (قوات) / يستخدم / يفعل",
+    "ipa": "/dɪˈplɔɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The UN decided to deploy more troops to the region.",
+        "ar": "قررت الأمم المتحدة نشر المزيد من القوات في المنطقة."
+      }
+    ]
+  },
+  {
+    "en": "deployment",
+    "translation": "نشر / استخدام",
+    "ipa": "/dɪˈplɔɪmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The deployment of new technology will take time.",
+        "ar": "سيستغرق نشر (استخدام) التكنولوجيا الجديدة وقتاً."
+      }
+    ]
+  },
+  {
+    "en": "deprive",
+    "translation": "يحرم من",
+    "ipa": "/dɪˈpraɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Sleep deprivation can affect your health.",
+        "ar": "الحرمان من النوم يمكن أن يؤثر على صحتك."
+      }
+    ]
+  },
+  {
+    "en": "deputy",
+    "translation": "نائب / وكيل",
+    "ipa": "/ˈdepjuti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She was appointed as the deputy manager.",
+        "ar": "عُينت كنائب للمدير."
+      }
+    ]
+  },
+  {
+    "en": "descend",
+    "translation": "ينزل / يهبط / ينحدر",
+    "ipa": "/dɪˈsend/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The plane began to descend towards the airport.",
+        "ar": "بدأت الطائرة في الهبوط نحو المطار."
+      }
+    ]
+  },
+  {
+    "en": "descent",
+    "translation": "هبوط / نزول / منحدر / أصل",
+    "ipa": "/dɪˈsent/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The pilot started the final descent.",
+        "ar": "بدأ الطيار الهبوط النهائي."
+      }
+    ]
+  },
+  {
+    "en": "designate",
+    "translation": "يعين / يخصص / يحدد",
+    "ipa": "/ˈdezɪɡneɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The area has been designated as a national park.",
+        "ar": "تم تخصيص المنطقة كمنتزه وطني."
+      }
+    ]
+  },
+  {
+    "en": "desirable",
+    "translation": "مرغوب فيه / جذاب",
+    "ipa": "/dɪˈzaɪərəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It is desirable to have some experience in this field.",
+        "ar": "من المرغوب فيه أن يكون لديك بعض الخبرة في هذا المجال."
+      }
+    ]
+  },
+  {
+    "en": "desktop",
+    "translation": "سطح المكتب",
+    "ipa": "/ˈdesktɒp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I saved the file on my desktop.",
+        "ar": "حفظت الملف على سطح المكتب."
+      }
+    ]
+  },
+  {
+    "en": "destructive",
+    "translation": "مدمر / مخرب",
+    "ipa": "/dɪˈstrʌktɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The storm was very destructive.",
+        "ar": "كانت العاصفة مدمرة للغاية."
+      }
+    ]
+  },
+  {
+    "en": "detain",
+    "translation": "يحتجز / يعيق",
+    "ipa": "/dɪˈteɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The police detained the suspect for questioning.",
+        "ar": "احتجزت الشرطة المشتبه به للاستجواب."
+      }
+    ]
+  },
+  {
+    "en": "detection",
+    "translation": "كشف / اكتشاف",
+    "ipa": "/dɪˈtekʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Early detection is key to treating the disease.",
+        "ar": "الكشف المبكر هو المفتاح لعلاج المرض."
+      }
+    ]
+  },
+  {
+    "en": "detention",
+    "translation": "احتجاز / حبس / عقوبة مدرسية",
+    "ipa": "/dɪˈtenʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was held in police detention for 24 hours.",
+        "ar": "احتُجز في حجز الشرطة لمدة 24 ساعة."
+      }
+    ]
+  }
+]

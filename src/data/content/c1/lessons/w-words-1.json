@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_w_1",
   "levelId": "lvl_c1",
-  "title": "Unit 49: W Words - Part 1",
+  "title": "Unit 68: W Words - Part 1",
   "slug": "w-words-1",
-  "order": 49,
-  "wordCount": 14,
-  "titleAr": "الوحدة 49: كلمات حرف W - الجزء 1",
+  "order": 68,
+  "wordCount": 15,
+  "titleAr": "الوحدة 68: كلمات حرف W - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter W.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف W.",
   "words": [
@@ -186,6 +186,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_c1_well_being",
+      "lessonId": "lsn_c1_w_1",
+      "en": "well-being",
+      "ar": "رفاهية / عافية / حسن الحال",
+      "translation": "رفاهية / عافية / حسن الحال",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Physical exercise is important for emotional well-being.",
+          "ar": "التمارين البدنية مهمة للعافية (حسن الحال) العاطفية."
+        }
+      ],
+      "ipa": "/ˌwel ˈbiːɪŋ/"
+    },
+    {
       "id": "w_c1_wellbeing",
       "en": "wellbeing",
       "ar": "رفاهية / صحة ورخاء",
@@ -252,6 +275,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_c1_whilst",
+      "lessonId": "lsn_c1_w_1",
+      "en": "whilst",
+      "ar": "بينما / في حين",
+      "translation": "بينما / في حين",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He went to sleep whilst I was still working.",
+          "ar": "ذهب للنوم بينما كنت لا أزال أعمل."
+        }
+      ],
+      "ipa": "/waɪlst/"
+    },
+    {
       "id": "w_c1_whip",
       "en": "whip",
       "ar": "يجلد / سوط",
@@ -299,28 +345,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/huˈɛvə/"
-    },
-    {
-      "id": "w_c1_wholly",
-      "en": "wholly",
-      "ar": "تماماً / كلياً",
-      "pronunciation": "ˈhəʊlli",
-      "lessonId": "lsn_c1_w_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "التقرير مبني تماماً على معلومات غير دقيقة.",
-          "ar": "I am not wholly convinced by his argument."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
     }
   ]
 }

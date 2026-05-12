@@ -1,0 +1,308 @@
+{
+  "id": "lsn_a1_g_2",
+  "levelId": "lvl_a1",
+  "title": "Unit 18: G Words - Part 2",
+  "slug": "g-words-2",
+  "order": 18,
+  "wordCount": 13,
+  "titleAr": "الوحدة 18: كلمات حرف G - الجزء 2",
+  "description": "Master essential A1 vocabulary starting with the letter G.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف G.",
+  "words": [
+    {
+      "id": "w_a1_goodbye",
+      "lessonId": "lsn_a1_g_2",
+      "en": "goodbye",
+      "translation": "وداعاً",
+      "ar": "وداعاً",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Goodbye, see you tomorrow.",
+          "ar": "وداعاً أراك غداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡədˈbaɪ/"
+    },
+    {
+      "id": "w_a1_grandfather",
+      "lessonId": "lsn_a1_g_2",
+      "en": "grandfather",
+      "translation": "جد",
+      "ar": "جد",
+      "type": "word",
+      "examples": [
+        {
+          "en": "His grandfather gave him a watch.",
+          "ar": "لقد أهداه جده ساعة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡɹæn(d)ˌfɑːðə(r)/"
+    },
+    {
+      "id": "w_a1_grandmother",
+      "lessonId": "lsn_a1_g_2",
+      "en": "grandmother",
+      "translation": "جدة",
+      "ar": "جدة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I spent the day with grandmother.",
+          "ar": "قضيت اليوم مع جدتي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɡɹæn(d)ˌmʌðə(r)/"
+    },
+    {
+      "id": "w_a1_grandparent",
+      "lessonId": "lsn_a1_g_2",
+      "en": "grandparent",
+      "ar": "جد أو جدة",
+      "translation": "جد أو جدة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I visit my grandparents every weekend.",
+          "ar": "أزور جدي وجدتي (أجدادي) كل عطلة نهاية أسبوع."
+        }
+      ],
+      "ipa": "/ˈɡrænpeərənt/"
+    },
+    {
+      "id": "w_a1_grandparents",
+      "lessonId": "lsn_a1_g_2",
+      "en": "grandparents",
+      "translation": "جدان / الجد والجدة",
+      "ar": "جدان / الجد والجدة",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "My grandparents live in a small town.",
+          "ar": "يعيش جداي في بلدة صغيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_gray",
+      "lessonId": "lsn_a1_g_2",
+      "en": "gray",
+      "translation": "رمادي",
+      "ar": "رمادي",
+      "pronunciation": "/grex/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He was wearing a gray sweater.",
+          "ar": "كان يرتدي سترة رمادية اللون."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_great",
+      "lessonId": "lsn_a1_g_2",
+      "en": "great",
+      "translation": "رائع",
+      "ar": "رائع",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's great to see you.",
+          "ar": "من الرائع رؤيتك."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹeɪt/"
+    },
+    {
+      "id": "w_a1_green",
+      "lessonId": "lsn_a1_g_2",
+      "en": "green",
+      "translation": "أخضر",
+      "ar": "أخضر",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She wore a beautiful green dress.",
+          "ar": "ارتدت فستاناً أخضر جميلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹiːn/"
+    },
+    {
+      "id": "w_a1_group",
+      "lessonId": "lsn_a1_g_2",
+      "en": "group",
+      "translation": "مجموعة",
+      "ar": "مجموعة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We formed a small study group.",
+          "ar": "شكلنا مجموعة دراسية صغيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹuːp/"
+    },
+    {
+      "id": "w_a1_grow",
+      "lessonId": "lsn_a1_g_2",
+      "en": "grow",
+      "translation": "ينمو / يزرع",
+      "ar": "ينمو / يزرع",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Her hair will grow longer soon.",
+          "ar": "سوف ينمو شعرها أطول قريباً."
+        },
+        {
+          "en": "She grows tomatoes by herself.",
+          "ar": "هي تقوم بزراعة الطماطم بنفسها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɡɹəʊ/"
+    },
+    {
+      "id": "w_a1_guess",
+      "lessonId": "lsn_a1_g_2",
+      "en": "guess",
+      "translation": "يخمن / تخمين",
+      "ar": "يخمن / تخمين",
+      "pronunciation": "/ges/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Can you guess where I am?",
+          "ar": "هل يمكنك أن تخمن أين أنا؟"
+        },
+        {
+          "en": "My guess is that he left.",
+          "ar": "تخميني هو أنه غادر."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_guitar",
+      "lessonId": "lsn_a1_g_2",
+      "en": "guitar",
+      "translation": "جيتار",
+      "ar": "جيتار",
+      "pronunciation": "/gr'to:r/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She plays the guitar every day.",
+          "ar": "تعزف على الجيتار كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_gym",
+      "lessonId": "lsn_a1_g_2",
+      "en": "gym",
+      "translation": "صالة رياضية",
+      "ar": "صالة رياضية",
+      "pronunciation": "/dzım/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The gym is open all day.",
+          "ar": "الصالة الرياضية مفتوحة طوال اليوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

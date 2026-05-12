@@ -4,7 +4,7 @@
   "title": "Unit 18: I Words - Part 1",
   "slug": "i-words-1",
   "order": 18,
-  "wordCount": 15,
+  "wordCount": 16,
   "titleAr": "الوحدة 18: كلمات حرف I - الجزء 1",
   "description": "Master essential A2 vocabulary starting with the letter I.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف I.",
@@ -162,6 +162,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_included",
+      "lessonId": "lsn_a2_i_1",
+      "en": "included",
+      "ar": "مدرج / متضمن",
+      "translation": "مدرج / متضمن",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Breakfast is included in the price of the room.",
+          "ar": "الإفطار مدرج في سعر الغرفة."
+        }
+      ],
+      "ipa": "/ɪnˈkluːdɪd/"
     },
     {
       "id": "w_a2_including",

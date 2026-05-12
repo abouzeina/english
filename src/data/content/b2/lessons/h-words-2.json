@@ -1,14 +1,36 @@
 {
   "id": "lsn_b2_h_2",
   "levelId": "lvl_b2",
-  "title": "Unit 24: H Words - Part 2",
+  "title": "Unit 30: H Words - Part 2",
   "slug": "h-words-2",
-  "order": 24,
-  "wordCount": 18,
-  "titleAr": "الوحدة 24: كلمات حرف H - الجزء 2",
+  "order": 30,
+  "wordCount": 21,
+  "titleAr": "الوحدة 30: كلمات حرف H - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter H.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف H.",
   "words": [
+    {
+      "id": "w_b2_hilarious",
+      "en": "hilarious",
+      "ar": "مضحكة",
+      "lessonId": "lsn_b2_h_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He told us a hilarious story from his childhood.",
+          "ar": "لقد روى لنا قصة مضحكة من طفولته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/hɪˈlɛəɹiəs/"
+    },
     {
       "id": "w_b2_hip",
       "en": "hip",
@@ -166,6 +188,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈɒn.ə/"
+    },
+    {
+      "id": "w_b2_honour",
+      "lessonId": "lsn_b2_h_2",
+      "en": "honour",
+      "ar": "شرف / تكريم",
+      "translation": "شرف / تكريم",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It is a great honour to meet you.",
+          "ar": "إنه لشرف عظيم أن ألتقي بك."
+        }
+      ],
+      "ipa": "/ˈɒnə(r)/"
     },
     {
       "id": "w_b2_hook",
@@ -342,6 +387,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_humour",
+      "lessonId": "lsn_b2_h_2",
+      "en": "humour",
+      "ar": "فكاهة / مزاح",
+      "translation": "فكاهة / مزاح",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has a very good sense of humour.",
+          "ar": "لديه حس فكاهة جيد جداً."
+        }
+      ],
+      "ipa": "/ˈhjuːmə(r)/"
     },
     {
       "id": "w_b2_hunger",

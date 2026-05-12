@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_o_1",
   "levelId": "lvl_a1",
-  "title": "Unit 29: O Words - Part 1",
+  "title": "Unit 31: O Words - Part 1",
   "slug": "o-words-1",
-  "order": 29,
-  "wordCount": 14,
-  "titleAr": "الوحدة 29: كلمات حرف O - الجزء 1",
+  "order": 31,
+  "wordCount": 15,
+  "titleAr": "الوحدة 31: كلمات حرف O - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter O.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف O.",
   "words": [
@@ -186,6 +186,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_a1_oh",
+      "lessonId": "lsn_a1_o_1",
+      "en": "oh",
+      "ar": "أوه (للتعجب)",
+      "translation": "أوه (للتعجب)",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Oh, I didn't see you there!",
+          "ar": "أوه، لم أرك هناك!"
+        }
+      ],
+      "ipa": "/əʊ/"
+    },
+    {
       "id": "w_a1_ok",
       "lessonId": "lsn_a1_o_1",
       "en": "OK",
@@ -341,6 +364,29 @@
       "ipa": "/wan/"
     },
     {
+      "id": "w_a1_onion",
+      "lessonId": "lsn_a1_o_1",
+      "en": "onion",
+      "ar": "بصل",
+      "translation": "بصل",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I chopped some onions for the soup.",
+          "ar": "قطعت بعض البصل من أجل الحساء."
+        }
+      ],
+      "ipa": "/ˈʌnjən/"
+    },
+    {
       "id": "w_a1_onions",
       "lessonId": "lsn_a1_o_1",
       "en": "onions",
@@ -361,28 +407,6 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_online",
-      "lessonId": "lsn_a1_o_1",
-      "en": "online",
-      "translation": "عبر الإنترنت",
-      "ar": "عبر الإنترنت",
-      "type": "word",
-      "examples": [
-        {
-          "en": "She works online from home.",
-          "ar": "إنها تعمل عبر الإنترنت من المنزل."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɒnˈlaɪn/"
     }
   ]
 }

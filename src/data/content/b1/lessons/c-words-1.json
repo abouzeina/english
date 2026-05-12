@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_c_1",
   "levelId": "lvl_b1",
-  "title": "Unit 5: C Words - Part 1",
+  "title": "Unit 6: C Words - Part 1",
   "slug": "c-words-1",
-  "order": 5,
-  "wordCount": 19,
-  "titleAr": "الوحدة 5: كلمات حرف C - الجزء 1",
+  "order": 6,
+  "wordCount": 24,
+  "titleAr": "الوحدة 6: كلمات حرف C - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف C.",
   "words": [
@@ -86,6 +86,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_candidate",
+      "lessonId": "lsn_b1_c_1",
+      "en": "candidate",
+      "ar": "مرشح",
+      "translation": "مرشح",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There are three candidates for the position.",
+          "ar": "هناك ثلاثة مرشحين لهذا المنصب."
+        }
+      ],
+      "ipa": "/ˈkændɪdət/"
     },
     {
       "id": "w_b1_candidates",
@@ -308,6 +331,52 @@
       "ipa": "/ˈsɛɹɪməni/"
     },
     {
+      "id": "w_b1_chain",
+      "lessonId": "lsn_b1_c_1",
+      "en": "chain",
+      "ar": "سلسلة",
+      "translation": "سلسلة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The dog was tied with a metal chain.",
+          "ar": "كان الكلب مربوطاً بسلسلة معدنية."
+        }
+      ],
+      "ipa": "/tʃeɪn/"
+    },
+    {
+      "id": "w_b1_challenge",
+      "lessonId": "lsn_b1_c_1",
+      "en": "challenge",
+      "ar": "تحدي",
+      "translation": "تحدي",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Climbing the mountain was a great challenge.",
+          "ar": "كان تسلق الجبل تحدياً كبيراً."
+        }
+      ],
+      "ipa": "/ˈtʃælɪndʒ/"
+    },
+    {
       "id": "w_b1_champion",
       "en": "champion",
       "ar": "بطل",
@@ -350,6 +419,29 @@
       ],
       "confidence": "high",
       "ipa": "/ˈtʃænəl/"
+    },
+    {
+      "id": "w_b1_chapter",
+      "lessonId": "lsn_b1_c_1",
+      "en": "chapter",
+      "ar": "فصل / باب (في كتاب)",
+      "translation": "فصل / باب (في كتاب)",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The first chapter of the book is very interesting.",
+          "ar": "الفصل الأول من الكتاب مثير للاهتمام جداً."
+        }
+      ],
+      "ipa": "/ˈtʃæptə(r)/"
     },
     {
       "id": "w_b1_chapters",
@@ -433,6 +525,28 @@
         {
           "en": "The teacher thought I was cheating.",
           "ar": "ظن المعلم أنني كنت أغش."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_cheerful",
+      "en": "cheerful",
+      "ar": "مبتهج / سعيد",
+      "pronunciation": "/ tfıər fəl/",
+      "lessonId": "lsn_b1_c_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He talked in a cheerful voice.",
+          "ar": "تحدث بصوت مبتهج."
         }
       ],
       "type": "word",

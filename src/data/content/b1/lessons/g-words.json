@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_g",
   "levelId": "lvl_b1",
-  "title": "Unit 15: G Words",
+  "title": "Unit 17: G Words",
   "slug": "g-words",
-  "order": 15,
-  "wordCount": 22,
-  "titleAr": "الوحدة 15: كلمات حرف G",
+  "order": 17,
+  "wordCount": 25,
+  "titleAr": "الوحدة 17: كلمات حرف G",
   "description": "Master essential B1 vocabulary starting with the letter G.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف G.",
   "words": [
@@ -142,6 +142,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_gentleman",
+      "lessonId": "lsn_b1_g",
+      "en": "gentleman",
+      "ar": "رجل مهذب / سيد",
+      "translation": "رجل مهذب / سيد",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a true gentleman.",
+          "ar": "إنه رجل مهذب (جنتلمان) حقيقي."
+        }
+      ],
+      "ipa": "/ˈdʒentlmən/"
+    },
+    {
       "id": "w_b1_gentlemen",
       "en": "gentlemen",
       "ar": "سادة",
@@ -256,6 +279,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_glove",
+      "lessonId": "lsn_b1_g",
+      "en": "glove",
+      "ar": "قفاز",
+      "translation": "قفاز",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Don't forget to wear your gloves in the winter.",
+          "ar": "لا تنسَ ارتداء قفازاتك في الشتاء."
+        }
+      ],
+      "ipa": "/ɡlʌv/"
+    },
+    {
       "id": "w_b1_gloves",
       "en": "gloves",
       "ar": "قفازات",
@@ -342,6 +388,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_graduate",
+      "lessonId": "lsn_b1_g",
+      "en": "graduate",
+      "ar": "يتخرج / خريج",
+      "translation": "يتخرج / خريج",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She graduated from university last year.",
+          "ar": "تخرجت من الجامعة العام الماضي."
+        }
+      ],
+      "ipa": "/ˈɡrædʒueɪt/"
     },
     {
       "id": "w_b1_graduated",

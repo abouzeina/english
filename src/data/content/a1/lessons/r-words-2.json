@@ -1,14 +1,41 @@
 {
   "id": "lsn_a1_r_2",
   "levelId": "lvl_a1",
-  "title": "Unit 36: R Words - Part 2",
+  "title": "Unit 38: R Words - Part 2",
   "slug": "r-words-2",
-  "order": 36,
-  "wordCount": 13,
-  "titleAr": "الوحدة 36: كلمات حرف R - الجزء 2",
+  "order": 38,
+  "wordCount": 14,
+  "titleAr": "الوحدة 38: كلمات حرف R - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف R.",
   "words": [
+    {
+      "id": "w_a1_report",
+      "lessonId": "lsn_a1_r_2",
+      "en": "report",
+      "translation": "تقرير",
+      "ar": "تقرير",
+      "type": "word",
+      "examples": [
+        {
+          "en": "This report needs more details.",
+          "ar": "هذا التقرير يحتاج إلى مزيد من التفاصيل."
+        },
+        {
+          "en": "Other researchers reported similar results",
+          "ar": "ذكر باحثون آخرون نتائج مماثلة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəˈpoːt/"
+    },
     {
       "id": "w_a1_restaurant",
       "lessonId": "lsn_a1_r_2",

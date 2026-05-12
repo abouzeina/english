@@ -1,40 +1,36 @@
 {
   "id": "lsn_b2_p_5",
   "levelId": "lvl_b2",
-  "title": "Unit 42: P Words - Part 5",
+  "title": "Unit 49: P Words - Part 5",
   "slug": "p-words-5",
-  "order": 42,
-  "wordCount": 20,
-  "titleAr": "الوحدة 42: كلمات حرف P - الجزء 5",
+  "order": 49,
+  "wordCount": 21,
+  "titleAr": "الوحدة 49: كلمات حرف P - الجزء 5",
   "description": "Master essential B2 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف P.",
   "words": [
     {
-      "id": "w_b2_proposal",
-      "en": "proposal",
-      "ar": "المقترح",
+      "id": "w_b2_propose",
       "lessonId": "lsn_b2_p_5",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The proposal aims to improve employee work conditions.",
-          "ar": "يهدف المقترح إلى تحسين ظروف عمل الموظفين."
-        },
-        {
-          "en": "تدرس اللجنة اقتراحاً لإنشاء حديقة جديدة",
-          "ar": "He accepted her proposal of marriage."
-        }
-      ],
+      "en": "propose",
+      "ar": "يقترح / يخطب",
+      "translation": "يقترح / يخطب",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced",
-        "C1"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/pɹəˈpəʊzəl/"
+      "examples": [
+        {
+          "en": "He proposed a new plan for the company.",
+          "ar": "اقترح خطة جديدة للشركة."
+        }
+      ],
+      "ipa": "/prəˈpəʊz/"
     },
     {
       "id": "w_b2_proposed",
@@ -138,6 +134,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈpɹəʊti.ɪn/"
+    },
+    {
+      "id": "w_b2_protester",
+      "lessonId": "lsn_b2_p_5",
+      "en": "protester",
+      "ar": "متظاهر / محتج",
+      "translation": "متظاهر / محتج",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Thousands of protesters gathered in the city center.",
+          "ar": "تجمع آلاف المتظاهرين في وسط المدينة."
+        }
+      ],
+      "ipa": "/prəˈtestə(r)/"
     },
     {
       "id": "w_b2_protesters",

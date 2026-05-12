@@ -4,7 +4,7 @@
   "title": "Unit 8: C Words - Part 3",
   "slug": "c-words-3",
   "order": 8,
-  "wordCount": 19,
+  "wordCount": 20,
   "titleAr": "الوحدة 8: كلمات حرف C - الجزء 3",
   "description": "Master essential A2 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف C.",
@@ -325,6 +325,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_connected",
+      "lessonId": "lsn_a2_c_3",
+      "en": "connected",
+      "ar": "متصل / مربوط",
+      "translation": "متصل / مربوط",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Is your computer connected to the internet?",
+          "ar": "هل كمبيوترك متصل بالإنترنت؟"
+        }
+      ],
+      "ipa": "/kəˈnektɪd/"
     },
     {
       "id": "w_a2_consider",

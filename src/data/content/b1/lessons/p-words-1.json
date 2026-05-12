@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_p_1",
   "levelId": "lvl_b1",
-  "title": "Unit 25: P Words - Part 1",
+  "title": "Unit 28: P Words - Part 1",
   "slug": "p-words-1",
-  "order": 25,
-  "wordCount": 24,
-  "titleAr": "الوحدة 25: كلمات حرف P - الجزء 1",
+  "order": 28,
+  "wordCount": 21,
+  "titleAr": "الوحدة 28: كلمات حرف P - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف P.",
   "words": [
@@ -98,6 +98,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_pan",
+      "lessonId": "lsn_b1_p_1",
+      "en": "pan",
+      "ar": "مقلاة / طنجرة",
+      "translation": "مقلاة / طنجرة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Heat some oil in a frying pan.",
+          "ar": "سخن بعض الزيت في مقلاة."
+        }
+      ],
+      "ipa": "/pæn/"
+    },
+    {
       "id": "w_b1_pans",
       "en": "pans",
       "ar": "مقالي",
@@ -184,6 +207,29 @@
       ],
       "confidence": "high",
       "ipa": "/ˈpɐːsəz/"
+    },
+    {
+      "id": "w_b1_passion",
+      "lessonId": "lsn_b1_p_1",
+      "en": "passion",
+      "ar": "شغف / عاطفة قوية",
+      "translation": "شغف / عاطفة قوية",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She has a passion for music.",
+          "ar": "لديها شغف بالموسيقى."
+        }
+      ],
+      "ipa": "/ˈpæʃn/"
     },
     {
       "id": "w_b1_path",
@@ -340,6 +386,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_persuade",
+      "lessonId": "lsn_b1_p_1",
+      "en": "persuade",
+      "ar": "يقنع",
+      "translation": "يقنع",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I tried to persuade him to stay.",
+          "ar": "حاولت إقناعه بالبقاء."
+        }
+      ],
+      "ipa": "/pəˈsweɪd/"
+    },
+    {
       "id": "w_b1_persuaded",
       "en": "persuaded",
       "ar": "أقنعته",
@@ -395,142 +464,6 @@
         {
           "en": "Photography is one of my hobbies.",
           "ar": "التصوير الفوتوغرافي هو إحدى هواياتي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_pin",
-      "en": "pin",
-      "ar": "دبوس / يثبت",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Sami wears a silver pin on his coat.",
-          "ar": "سامي يرتدي دبوسًا فضيا في معطفه."
-        },
-        {
-          "en": "Pin the map to the wall.",
-          "ar": "ثبت الخريطة على الحائط."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_pipes",
-      "en": "pipes",
-      "ar": "أنابيب",
-      "pronunciation": "/paxp/",
-      "lessonId": "lsn_b1_p_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "My task today is to fix the pipes.",
-          "ar": "مهمتي اليوم هي إصلاح الأنابيب."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_placed",
-      "en": "placed",
-      "ar": "وضع",
-      "pronunciation": "/plers/",
-      "lessonId": "lsn_b1_p_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He placed his hand on my shoulder.",
-          "ar": "وضع يده على كتفي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_planning",
-      "en": "planning",
-      "ar": "تخطيط",
-      "pronunciation": "/'plez.0/",
-      "lessonId": "lsn_b1_p_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Each department has its own planning process.",
-          "ar": "كل قسم له عملية التخطيط الخاصة به."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_pleasant",
-      "en": "pleasant",
-      "ar": "سارة",
-      "pronunciation": "/'plez.ent/",
-      "lessonId": "lsn_b1_p_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "What a pleasant surprise!!",
-          "ar": "يا لها من مفاجئة سارة !!"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_pleasure",
-      "en": "pleasure",
-      "ar": "سرور",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I read this novel with pleasure.",
-          "ar": "قرأت هذه الرواية بسرور."
         }
       ],
       "type": "word",

@@ -4,7 +4,7 @@
   "title": "Unit 1: A Words - Part 1",
   "slug": "a-words-1",
   "order": 1,
-  "wordCount": 20,
+  "wordCount": 22,
   "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
   "description": "Master essential A2 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف A.",
@@ -140,6 +140,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_according_to",
+      "lessonId": "lsn_a2_a_1",
+      "en": "according to",
+      "ar": "وفقاً لـ / بحسب",
+      "translation": "وفقاً لـ / بحسب",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "According to the weather forecast, it will rain tomorrow.",
+          "ar": "وفقاً لتوقعات الطقس، ستمطر غداً."
+        }
+      ],
+      "ipa": "/əˈkɔːdɪŋ tuː/"
     },
     {
       "id": "w_a2_achieve",
@@ -418,6 +441,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_ah",
+      "lessonId": "lsn_a2_a_1",
+      "en": "ah",
+      "ar": "آه (للتعبير عن الفهم أو المفاجأة)",
+      "translation": "آه (للتعبير عن الفهم أو المفاجأة)",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Ah, I see what you mean now.",
+          "ar": "آه، فهمت ما تعنيه الآن."
+        }
+      ],
+      "ipa": "/ɑː/"
     },
     {
       "id": "w_a2_airline",

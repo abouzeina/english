@@ -10,28 +10,6 @@
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف A.",
   "words": [
     {
-      "id": "w_b2_adequately",
-      "en": "adequately",
-      "ar": "بما فيه الكفاية / بشكل ملائم",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_a_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I have watered the garden adequately.",
-          "ar": "لقد سقيت الحديقة بما فيه الكفاية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
       "id": "w_b2_adjust",
       "en": "adjust",
       "ar": "يتأقلم / يضبط",
@@ -196,6 +174,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈɑːftə.wəd/"
+    },
+    {
+      "id": "w_b2_afterwards",
+      "lessonId": "lsn_b2_a_2",
+      "en": "afterwards",
+      "ar": "بَعْدَ ذَلِكَ / فِيمَا بَعْد",
+      "translation": "بَعْدَ ذَلِكَ / فِيمَا بَعْد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We went to the cinema and had dinner afterwards.",
+          "ar": "ذهبنَا إلى السينما وتناولنَا العشاءَ بعدَ ذلك."
+        }
+      ],
+      "ipa": "/ˈɑːftəwədz/"
     },
     {
       "id": "w_b2_agency",

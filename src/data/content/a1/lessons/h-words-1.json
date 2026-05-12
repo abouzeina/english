@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_h_1",
   "levelId": "lvl_a1",
-  "title": "Unit 17: H Words - Part 1",
+  "title": "Unit 19: H Words - Part 1",
   "slug": "h-words-1",
-  "order": 17,
-  "wordCount": 20,
-  "titleAr": "الوحدة 17: كلمات حرف H - الجزء 1",
+  "order": 19,
+  "wordCount": 21,
+  "titleAr": "الوحدة 19: كلمات حرف H - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter H.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف H.",
   "words": [
@@ -57,6 +57,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/hɑːf/"
+    },
+    {
+      "id": "w_a1_hand",
+      "lessonId": "lsn_a1_h_1",
+      "en": "hand",
+      "ar": "يد",
+      "translation": "يد",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Wash your hands before you eat.",
+          "ar": "اغسل يديك قبل الأكل."
+        }
+      ],
+      "ipa": "/hænd/"
     },
     {
       "id": "w_a1_hands",

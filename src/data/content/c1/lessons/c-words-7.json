@@ -1,0 +1,588 @@
+{
+  "id": "lsn_c1_c_7",
+  "levelId": "lvl_c1",
+  "title": "Unit 17: C Words - Part 7",
+  "slug": "c-words-7",
+  "order": 17,
+  "wordCount": 25,
+  "titleAr": "الوحدة 17: كلمات حرف C - الجزء 7",
+  "description": "Master essential C1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_c1_continually",
+      "lessonId": "lsn_c1_c_7",
+      "en": "continually",
+      "ar": "باستمرار / بشكل متواصل",
+      "translation": "باستمرار / بشكل متواصل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The situation is continually changing.",
+          "ar": "الوضع يتغير باستمرار."
+        }
+      ],
+      "ipa": "/kənˈtɪnjuəli/"
+    },
+    {
+      "id": "w_c1_contractor",
+      "lessonId": "lsn_c1_c_7",
+      "en": "contractor",
+      "ar": "مقاول / متعهد",
+      "translation": "مقاول / متعهد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The building was constructed by a local contractor.",
+          "ar": "تم بناء المبنى من قبل مقاول محلي."
+        }
+      ],
+      "ipa": "/kənˈtræktə(r)/"
+    },
+    {
+      "id": "w_c1_contradiction",
+      "lessonId": "lsn_c1_c_7",
+      "en": "contradiction",
+      "ar": "تناقض",
+      "translation": "تناقض",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a contradiction between his words and his actions.",
+          "ar": "هناك تناقض بين أقواله وأفعاله."
+        }
+      ],
+      "ipa": "/ˌkɒntrəˈdɪkʃn/"
+    },
+    {
+      "id": "w_c1_contrary",
+      "lessonId": "lsn_c1_c_7",
+      "en": "contrary",
+      "ar": "على العكس / مخالف / متضاد",
+      "translation": "على العكس / مخالف / متضاد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Contrary to expectations, the project was a success.",
+          "ar": "على عكس التوقعات، كان المشروع ناجحاً."
+        }
+      ],
+      "ipa": "/ˈkɒntrəri/"
+    },
+    {
+      "id": "w_c1_contributor",
+      "lessonId": "lsn_c1_c_7",
+      "en": "contributor",
+      "ar": "مساهم",
+      "translation": "مساهم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a regular contributor to the magazine.",
+          "ar": "هو مساهم منتظم في المجلة."
+        }
+      ],
+      "ipa": "/kənˈtrɪbjətə(r)/"
+    },
+    {
+      "id": "w_c1_conversion",
+      "lessonId": "lsn_c1_c_7",
+      "en": "conversion",
+      "ar": "تحويل / تغيير",
+      "translation": "تحويل / تغيير",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The conversion of the building into flats took a year.",
+          "ar": "استغرق تحويل المبنى إلى شقق عاماً كاملاً."
+        }
+      ],
+      "ipa": "/kənˈvɜːʃn/"
+    },
+    {
+      "id": "w_c1_convict",
+      "lessonId": "lsn_c1_c_7",
+      "en": "convict",
+      "ar": "يدين / سجين / محكوم عليه",
+      "translation": "يدين / سجين / محكوم عليه",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was convicted of robbery.",
+          "ar": "أُدين بتهمة السرقة."
+        }
+      ],
+      "ipa": "/kənˈvɪkt/"
+    },
+    {
+      "id": "w_c1_conviction",
+      "lessonId": "lsn_c1_c_7",
+      "en": "conviction",
+      "ar": "إدانة / قناعة راسخة",
+      "translation": "إدانة / قناعة راسخة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She has a strong conviction that the project will succeed.",
+          "ar": "لديها قناعة راسخة بأن المشروع سينجح."
+        }
+      ],
+      "ipa": "/kənˈvɪkʃn/"
+    },
+    {
+      "id": "w_c1_cooperate",
+      "lessonId": "lsn_c1_c_7",
+      "en": "cooperate",
+      "ar": "يتعاون",
+      "translation": "يتعاون",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The two countries agreed to cooperate on security matters.",
+          "ar": "اتفق البلدان على التعاون في المسائل الأمنية."
+        }
+      ],
+      "ipa": "/kəʊˈɒpəreɪt/"
+    },
+    {
+      "id": "w_c1_cooperative",
+      "lessonId": "lsn_c1_c_7",
+      "en": "cooperative",
+      "ar": "متعاون / جمعية تعاونية",
+      "translation": "متعاون / جمعية تعاونية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is a very helpful and cooperative colleague.",
+          "ar": "هي زميلة متعاونة ومفيدة جداً."
+        }
+      ],
+      "ipa": "/kəʊˈɒpərətɪv/"
+    },
+    {
+      "id": "w_c1_coordinate",
+      "lessonId": "lsn_c1_c_7",
+      "en": "coordinate",
+      "ar": "ينسق",
+      "translation": "ينسق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need to coordinate our efforts to achieve the goal.",
+          "ar": "نحن بحاجة لتنسيق جهودنا لتحقيق الهدف."
+        }
+      ],
+      "ipa": "/kəʊˈɔːdɪneɪt/"
+    },
+    {
+      "id": "w_c1_coordination",
+      "lessonId": "lsn_c1_c_7",
+      "en": "coordination",
+      "ar": "تنسيق",
+      "translation": "تنسيق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The project requires close coordination between different departments.",
+          "ar": "يتطلب المشروع تنسيقاً وثيقاً بين الإدارات المختلفة."
+        }
+      ],
+      "ipa": "/kəʊˌɔːdɪˈneɪʃn/"
+    },
+    {
+      "id": "w_c1_coordinator",
+      "lessonId": "lsn_c1_c_7",
+      "en": "coordinator",
+      "ar": "منسق",
+      "translation": "منسق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She was appointed as the project coordinator.",
+          "ar": "عُينت كمنسقة للمشروع."
+        }
+      ],
+      "ipa": "/kəʊˈɔːdɪneɪtə(r)/"
+    },
+    {
+      "id": "w_c1_cop",
+      "lessonId": "lsn_c1_c_7",
+      "en": "cop",
+      "ar": "شرطي (عامية)",
+      "translation": "شرطي (عامية)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He wanted to be a cop when he grew up.",
+          "ar": "أراد أن يصبح شرطياً (cop) عندما يكبر."
+        }
+      ],
+      "ipa": "/kɒp/"
+    },
+    {
+      "id": "w_c1_copper",
+      "lessonId": "lsn_c1_c_7",
+      "en": "copper",
+      "ar": "نحاس",
+      "translation": "نحاس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The pipes are made of copper.",
+          "ar": "الأنابيب مصنوعة من النحاس."
+        }
+      ],
+      "ipa": "/ˈkɒpə(r)/"
+    },
+    {
+      "id": "w_c1_copyright",
+      "lessonId": "lsn_c1_c_7",
+      "en": "copyright",
+      "ar": "حقوق الطبع والنشر",
+      "translation": "حقوق الطبع والنشر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The book is protected by copyright.",
+          "ar": "الكتاب محمي بحقوق الطبع والنشر."
+        }
+      ],
+      "ipa": "/ˈkɒpiraɪt/"
+    },
+    {
+      "id": "w_c1_correction",
+      "lessonId": "lsn_c1_c_7",
+      "en": "correction",
+      "ar": "تصحيح / تعديل",
+      "translation": "تصحيح / تعديل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Please make the necessary corrections to the text.",
+          "ar": "يرجى إجراء التصحيحات اللازمة على النص."
+        }
+      ],
+      "ipa": "/kəˈrekʃn/"
+    },
+    {
+      "id": "w_c1_correlate",
+      "lessonId": "lsn_c1_c_7",
+      "en": "correlate",
+      "ar": "يربط / يتلازم",
+      "translation": "يربط / يتلازم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The study shows how income correlates with education.",
+          "ar": "تظهر الدراسة كيف يرتبط (يتلازم) الدخل مع التعليم."
+        }
+      ],
+      "ipa": "/ˈkɒrəleɪt/"
+    },
+    {
+      "id": "w_c1_correlation",
+      "lessonId": "lsn_c1_c_7",
+      "en": "correlation",
+      "ar": "ارتباط / تلازم",
+      "translation": "ارتباط / تلازم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a strong correlation between smoking and lung cancer.",
+          "ar": "هناك ارتباط قوي بين التدخين وسرطان الرئة."
+        }
+      ],
+      "ipa": "/ˌkɒrəˈleɪʃn/"
+    },
+    {
+      "id": "w_c1_correspond",
+      "lessonId": "lsn_c1_c_7",
+      "en": "correspond",
+      "ar": "يتطابق / يراسل / يتماثل",
+      "translation": "يتطابق / يراسل / يتماثل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The two reports correspond in every detail.",
+          "ar": "يتطابق التقريران في كل التفاصيل."
+        }
+      ],
+      "ipa": "/ˌkɒrəˈspɒnd/"
+    },
+    {
+      "id": "w_c1_correspondence",
+      "lessonId": "lsn_c1_c_7",
+      "en": "correspondence",
+      "ar": "مراسلات / تطابق",
+      "translation": "مراسلات / تطابق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He kept all the personal correspondence from his father.",
+          "ar": "احتفظ بجميع المراسلات الشخصية من والده."
+        }
+      ],
+      "ipa": "/ˌkɒrəˈspɒndəns/"
+    },
+    {
+      "id": "w_c1_correspondent",
+      "lessonId": "lsn_c1_c_7",
+      "en": "correspondent",
+      "ar": "مراسل / متوافق",
+      "translation": "مراسل / متوافق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a war correspondent for a national newspaper.",
+          "ar": "هو مراسل حربي لصحيفة وطنية."
+        }
+      ],
+      "ipa": "/ˌkɒrəˈspɒndənt/"
+    },
+    {
+      "id": "w_c1_corresponding",
+      "lessonId": "lsn_c1_c_7",
+      "en": "corresponding",
+      "ar": "مقابل / مماثل",
+      "translation": "مقابل / مماثل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Each number has a corresponding letter.",
+          "ar": "كل رقم له حرف مقابل."
+        }
+      ],
+      "ipa": "/ˌkɒrəˈspɒndɪŋ/"
+    },
+    {
+      "id": "w_c1_corrupt",
+      "lessonId": "lsn_c1_c_7",
+      "en": "corrupt",
+      "ar": "فاسد / يفسد",
+      "translation": "فاسد / يفسد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The official was accused of being corrupt.",
+          "ar": "اتُهم المسؤول بكونه فاسداً."
+        }
+      ],
+      "ipa": "/kəˈrʌpt/"
+    },
+    {
+      "id": "w_c1_corruption",
+      "lessonId": "lsn_c1_c_7",
+      "en": "corruption",
+      "ar": "فساد",
+      "translation": "فساد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government is fighting against corruption.",
+          "ar": "الحكومة تحارب الفساد."
+        }
+      ],
+      "ipa": "/kəˈrʌpʃn/"
+    }
+  ]
+}

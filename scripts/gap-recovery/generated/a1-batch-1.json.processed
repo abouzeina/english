@@ -1,0 +1,362 @@
+[
+  {
+    "en": "activity",
+    "translation": "نشاط",
+    "ipa": "/ækˈtɪvəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Swimming is my favorite outdoor activity.",
+        "ar": "السباحة هي نشاطي الخارجي المفضل."
+      }
+    ]
+  },
+  {
+    "en": "blog",
+    "translation": "مدونة",
+    "ipa": "/blɒɡ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She writes a blog about healthy eating.",
+        "ar": "هي تكتب مدونة عن الأكل الصحي."
+      }
+    ]
+  },
+  {
+    "en": "boot",
+    "translation": "حذاء طويل / صندوق السيارة",
+    "ipa": "/buːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He wore leather boots to the farm.",
+        "ar": "ارتدى أحذية جلدية طويلة (بواط) في المزرعة."
+      }
+    ]
+  },
+  {
+    "en": "carry",
+    "translation": "يحمل",
+    "ipa": "/ˈkæri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Can you help me carry these bags?",
+        "ar": "هل يمكنك مساعدتي في حمل هذه الحقائب؟"
+      }
+    ]
+  },
+  {
+    "en": "cent",
+    "translation": "سنت (جزء من الدولار)",
+    "ipa": "/sent/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There are 100 cents in one dollar.",
+        "ar": "يوجد مائة سنت في الدولار الواحد."
+      }
+    ]
+  },
+  {
+    "en": "centre",
+    "translation": "مركز / وسط",
+    "ipa": "/ˈsentə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The shop is in the city centre.",
+        "ar": "المحل يقع في وسط المدينة."
+      }
+    ]
+  },
+  {
+    "en": "create",
+    "translation": "يخلق / يبدع / يصنع",
+    "ipa": "/kriˈeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The artist created a beautiful painting.",
+        "ar": "أبدع الفنان لوحة جميلة."
+      }
+    ]
+  },
+  {
+    "en": "customer",
+    "translation": "زبون / عميل",
+    "ipa": "/ˈkʌstəmə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The waiter served the customer quickly.",
+        "ar": "قدم النادل الخدمة للزبون بسرعة."
+      }
+    ]
+  },
+  {
+    "en": "dialogue",
+    "translation": "حوار / محادثة",
+    "ipa": "/ˈdaɪəlɒɡ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The movie has a very funny dialogue.",
+        "ar": "الفيلم به حوار مضحك للغاية."
+      }
+    ]
+  },
+  {
+    "en": "die",
+    "translation": "يموت",
+    "ipa": "/daɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Plants will die without water.",
+        "ar": "ستموت النباتات بدون ماء."
+      }
+    ]
+  },
+  {
+    "en": "dollar",
+    "translation": "دولار",
+    "ipa": "/ˈdɒlə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The book costs ten dollars.",
+        "ar": "الكتاب يكلف عشرة دولارات."
+      }
+    ]
+  },
+  {
+    "en": "ear",
+    "translation": "أذن",
+    "ipa": "/ɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Elephants have very big ears.",
+        "ar": "للفيلة آذان كبيرة جداً."
+      }
+    ]
+  },
+  {
+    "en": "egg",
+    "translation": "بيضة",
+    "ipa": "/eɡ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I had a boiled egg for breakfast.",
+        "ar": "تناولت بيضة مسلوقة في الإفطار."
+      }
+    ]
+  },
+  {
+    "en": "euro",
+    "translation": "يورو",
+    "ipa": "/ˈjʊərəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He paid twenty euros for the meal.",
+        "ar": "دفع عشرين يورو مقابل الوجبة."
+      }
+    ]
+  },
+  {
+    "en": "everything",
+    "translation": "كل شيء",
+    "ipa": "/ˈevriθɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Everything is going well.",
+        "ar": "كل شيء يسير على ما يرام."
+      }
+    ]
+  },
+  {
+    "en": "eye",
+    "translation": "عين",
+    "ipa": "/aɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She has blue eyes.",
+        "ar": "لديها عينان زرقاوان."
+      }
+    ]
+  },
+  {
+    "en": "farmer",
+    "translation": "مزارع / فلاح",
+    "ipa": "/ˈfɑːmə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The farmer grows vegetables on his land.",
+        "ar": "يزرع المزارع الخضروات في أرضه."
+      }
+    ]
+  },
+  {
+    "en": "five",
+    "translation": "خمسة",
+    "ipa": "/faɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I have five fingers on each hand.",
+        "ar": "لدي خمسة أصابع في كل يد."
+      }
+    ]
+  },
+  {
+    "en": "girl",
+    "translation": "بنت / فتاة",
+    "ipa": "/ɡɜːl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The little girl is playing with her doll.",
+        "ar": "البنت الصغيرة تلعب بدميتها."
+      }
+    ]
+  },
+  {
+    "en": "glass",
+    "translation": "زجاج / كأس",
+    "ipa": "/ɡlɑːs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Can I have a glass of water, please?",
+        "ar": "هل يمكنني الحصول على كأس ماء من فضلك؟"
+      }
+    ]
+  },
+  {
+    "en": "grandparent",
+    "translation": "جد أو جدة",
+    "ipa": "/ˈɡrænpeərənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I visit my grandparents every weekend.",
+        "ar": "أزور جدي وجدتي (أجدادي) كل عطلة نهاية أسبوع."
+      }
+    ]
+  },
+  {
+    "en": "hand",
+    "translation": "يد",
+    "ipa": "/hænd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Wash your hands before you eat.",
+        "ar": "اغسل يديك قبل الأكل."
+      }
+    ]
+  },
+  {
+    "en": "imagine",
+    "translation": "يتخيل",
+    "ipa": "/ɪˈmædʒɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Can you imagine life without the internet?",
+        "ar": "هل يمكنك تخيل الحياة بدون إنترنت؟"
+      }
+    ]
+  },
+  {
+    "en": "interested",
+    "translation": "مهتم",
+    "ipa": "/ˈɪntrestɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I am interested in learning history.",
+        "ar": "أنا مهتم بتعلم التاريخ."
+      }
+    ]
+  },
+  {
+    "en": "kilometre",
+    "translation": "كيلومتر",
+    "ipa": "/ˈkɪləmiːtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We walked five kilometres yesterday.",
+        "ar": "مشينا خمسة كيلومترات أمس."
+      }
+    ]
+  },
+  {
+    "en": "leg",
+    "translation": "ساق / رجل",
+    "ipa": "/leɡ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He broke his leg while playing football.",
+        "ar": "كسر ساقه أثناء لعب كرة القدم."
+      }
+    ]
+  },
+  {
+    "en": "lot",
+    "translation": "كثير / نصيب",
+    "ipa": "/lɒt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I have a lot of work to do today.",
+        "ar": "لدي الكثير من العمل لأقوم به اليوم."
+      }
+    ]
+  },
+  {
+    "en": "magazine",
+    "translation": "مجلة",
+    "ipa": "/ˌmæɡəˈziːn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She likes reading fashion magazines.",
+        "ar": "تحب قراءة مجلات الموضة."
+      }
+    ]
+  },
+  {
+    "en": "metre",
+    "translation": "متر",
+    "ipa": "/ˈmiːtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The room is four metres long.",
+        "ar": "الغرفة طولها أربعة أمتار."
+      }
+    ]
+  },
+  {
+    "en": "neighbour",
+    "translation": "جار",
+    "ipa": "/ˈneɪbə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Our neighbours are very friendly.",
+        "ar": "جيراننا ودودون للغاية."
+      }
+    ]
+  }
+]

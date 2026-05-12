@@ -1,0 +1,638 @@
+[
+  {
+    "en": "poisonous",
+    "translation": "سام",
+    "ipa": "/ˈpɔɪzənəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Some mushrooms are highly poisonous.",
+        "ar": "بعض أنواع الفطر سامة للغاية."
+      }
+    ]
+  },
+  {
+    "en": "politician",
+    "translation": "سياسي",
+    "ipa": "/ˌpɒləˈtɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The politician gave a speech about the economy.",
+        "ar": "ألقى السياسي خطاباً عن الاقتصاد."
+      }
+    ]
+  },
+  {
+    "en": "pray",
+    "translation": "يصلي / يدعو",
+    "ipa": "/preɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They went to the mosque to pray.",
+        "ar": "ذهبوا إلى المسجد للصلاة."
+      }
+    ]
+  },
+  {
+    "en": "prayer",
+    "translation": "صلاة / دعاء",
+    "ipa": "/preə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He said a short prayer for his family.",
+        "ar": "تلا صلاة قصيرة (دعا) لعائلته."
+      }
+    ]
+  },
+  {
+    "en": "pretend",
+    "translation": "يتظاهر / يدعي",
+    "ipa": "/prɪˈtend/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She pretended to be asleep when I entered.",
+        "ar": "تظاهرت بالنوم عندما دخلت."
+      }
+    ]
+  },
+  {
+    "en": "prisoner",
+    "translation": "سجين",
+    "ipa": "/ˈprɪznə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The prisoners were released after ten years.",
+        "ar": "أُطلق سراح السجناء بعد عشر سنوات."
+      }
+    ]
+  },
+  {
+    "en": "profit",
+    "translation": "ربح / فائدة",
+    "ipa": "/ˈprɒfɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company made a huge profit last year.",
+        "ar": "حققت الشركة ربحاً ضخماً العام الماضي."
+      }
+    ]
+  },
+  {
+    "en": "punish",
+    "translation": "يعاقب",
+    "ipa": "/ˈpʌnɪʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was punished for breaking the rules.",
+        "ar": "عوقب لمخالفته القواعد."
+      }
+    ]
+  },
+  {
+    "en": "qualification",
+    "translation": "مؤهل / شهادة",
+    "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "What professional qualifications do you have?",
+        "ar": "ما هي المؤهلات المهنية التي لديك؟"
+      }
+    ]
+  },
+  {
+    "en": "quotation",
+    "translation": "اقتباس / تسعيرة",
+    "ipa": "/kwəʊˈteɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The book begins with a quotation from Shakespeare.",
+        "ar": "يبدأ الكتاب باقتباس من شكسبير."
+      }
+    ]
+  },
+  {
+    "en": "reference",
+    "translation": "مرجع / إشارة / توصية",
+    "ipa": "/ˈrefrəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Keep this manual for future reference.",
+        "ar": "احتفظ بهذا الدليل كمرجع للمستقبل."
+      }
+    ]
+  },
+  {
+    "en": "reflect",
+    "translation": "يعكس / يفكر بعمق",
+    "ipa": "/rɪˈflekt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The mirror reflects her image.",
+        "ar": "المرآة تعكس صورتها."
+      }
+    ]
+  },
+  {
+    "en": "reject",
+    "translation": "يرفض",
+    "ipa": "/rɪˈdʒekt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The committee rejected the proposal.",
+        "ar": "رفضت اللجنة الاقتراح."
+      }
+    ]
+  },
+  {
+    "en": "represent",
+    "translation": "يمثل / ينوب عن",
+    "ipa": "/ˌreprɪˈzent/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He represents the country in the United Nations.",
+        "ar": "هو يمثل الدولة في الأمم المتحدة."
+      }
+    ]
+  },
+  {
+    "en": "require",
+    "translation": "يتطلب / يحتاج",
+    "ipa": "/rɪˈkwaɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "This project requires a lot of concentration.",
+        "ar": "هذا المشروع يتطلب الكثير من التركيز."
+      }
+    ]
+  },
+  {
+    "en": "resource",
+    "translation": "مورد",
+    "ipa": "/rɪˈsɔːs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Water is a vital natural resource.",
+        "ar": "الماء مورد طبيعي حيوي."
+      }
+    ]
+  },
+  {
+    "en": "risk",
+    "translation": "خطر / يخاطر",
+    "ipa": "/rɪsk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Smoking increases the risk of heart disease.",
+        "ar": "التدخين يزيد من خطر الإصابة بأمراض القلب."
+      }
+    ]
+  },
+  {
+    "en": "robot",
+    "translation": "إنسان آلي / روبوت",
+    "ipa": "/ˈrəʊbɒt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The factory uses robots to assemble cars.",
+        "ar": "يستخدم المصنع الروبوتات لتجميع السيارات."
+      }
+    ]
+  },
+  {
+    "en": "roll",
+    "translation": "يلف / يتدحرج / لفة",
+    "ipa": "/rəʊl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The ball rolled down the hill.",
+        "ar": "تدحرجت الكرة أسفل التل."
+      }
+    ]
+  },
+  {
+    "en": "row",
+    "translation": "صف / يجدف",
+    "ipa": "/rəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They were sitting in the front row.",
+        "ar": "كانوا جالسين في الصف الأمامي."
+      }
+    ]
+  },
+  {
+    "en": "scan",
+    "translation": "يمسح ضوئياً / يفحص بسرعة",
+    "ipa": "/skæn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She scanned the newspaper for the results.",
+        "ar": "تفحصت الصحيفة بسرعة بحثاً عن النتائج."
+      }
+    ]
+  },
+  {
+    "en": "seed",
+    "translation": "بذرة",
+    "ipa": "/siːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She planted some seeds in the garden.",
+        "ar": "زرعت بعض البذور في الحديقة."
+      }
+    ]
+  },
+  {
+    "en": "shelf",
+    "translation": "رف",
+    "ipa": "/ʃelf/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He put the books back on the shelf.",
+        "ar": "أعاد الكتب إلى الرف."
+      }
+    ]
+  },
+  {
+    "en": "shell",
+    "translation": "قشرة / صدفة",
+    "ipa": "/ʃel/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We collected sea shells on the beach.",
+        "ar": "جمعنا الأصداف البحرية على الشاطئ."
+      }
+    ]
+  },
+  {
+    "en": "similarity",
+    "translation": "تشابه",
+    "ipa": "/ˌsɪməˈlærəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a striking similarity between the two cars.",
+        "ar": "هناك تشابه مذهل بين السيارتين."
+      }
+    ]
+  },
+  {
+    "en": "sink",
+    "translation": "يغرق / مغسلة",
+    "ipa": "/sɪŋk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The boat began to sink after hitting a rock.",
+        "ar": "بدأ القارب في الغرق بعد اصطدامه بصخرة."
+      }
+    ]
+  },
+  {
+    "en": "smart",
+    "translation": "ذكي / أنيق",
+    "ipa": "/smɑːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a very smart student.",
+        "ar": "هو طالب ذكي جداً."
+      }
+    ]
+  },
+  {
+    "en": "standard",
+    "translation": "معيار / قياسي",
+    "ipa": "/ˈstændəd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The work was not up to the required standard.",
+        "ar": "العمل لم يكن بالمستوى (المعيار) المطلوب."
+      }
+    ]
+  },
+  {
+    "en": "statistic",
+    "translation": "إحصائية",
+    "ipa": "/stəˈtɪstɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Official statistics show a decline in crime.",
+        "ar": "تظهر الإحصائيات الرسمية انخفاضاً في الجريمة."
+      }
+    ]
+  },
+  {
+    "en": "statue",
+    "translation": "تمثال",
+    "ipa": "/ˈstætʃuː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a statue of the king in the park.",
+        "ar": "يوجد تمثال للملك في المنتزه."
+      }
+    ]
+  },
+  {
+    "en": "stranger",
+    "translation": "غريب",
+    "ipa": "/ˈstreɪndʒə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Don't talk to strangers.",
+        "ar": "لا تتحدث مع الغرباء."
+      }
+    ]
+  },
+  {
+    "en": "string",
+    "translation": "خيط / وتر",
+    "ipa": "/strɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He tied the parcel with a piece of string.",
+        "ar": "ربط الطرد بقطعة من الخيط."
+      }
+    ]
+  },
+  {
+    "en": "studio",
+    "translation": "استوديو",
+    "ipa": "/ˈstjuːdiəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The band is recording in the studio.",
+        "ar": "الفرقة تسجل في الاستوديو."
+      }
+    ]
+  },
+  {
+    "en": "substance",
+    "translation": "مادة / جوهر",
+    "ipa": "/ˈsʌbstəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The water contained a strange chemical substance.",
+        "ar": "كان الماء يحتوي على مادة كيميائية غريبة."
+      }
+    ]
+  },
+  {
+    "en": "suffer",
+    "translation": "يعاني",
+    "ipa": "/ˈsʌfə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He suffers from bad headaches.",
+        "ar": "هو يعاني من صداع سيئ."
+      }
+    ]
+  },
+  {
+    "en": "summarize",
+    "translation": "يلخص",
+    "ipa": "/ˈsʌməraɪz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Can you summarize the main points for me?",
+        "ar": "هل يمكنك تلخيص النقاط الرئيسية لي؟"
+      }
+    ]
+  },
+  {
+    "en": "supporter",
+    "translation": "مؤيد / مشجع",
+    "ipa": "/səˈpɔːtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The team has thousands of loyal supporters.",
+        "ar": "للفريق آلاف المشجعين المخلصين."
+      }
+    ]
+  },
+  {
+    "en": "survive",
+    "translation": "ينجو / يبقى على قيد الحياة",
+    "ipa": "/səˈvaɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "No one survived the plane crash.",
+        "ar": "لم ينجُ أحد من تحطم الطائرة."
+      }
+    ]
+  },
+  {
+    "en": "symptom",
+    "translation": "عرض (لمرض)",
+    "ipa": "/ˈsɪmptəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Fever is a common symptom of the flu.",
+        "ar": "الحمى هي عرض شائع للإنفلونزا."
+      }
+    ]
+  },
+  {
+    "en": "technique",
+    "translation": "تقنية / أسلوب",
+    "ipa": "/tekˈniːk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has excellent painting technique.",
+        "ar": "لديه تقنية رسم ممتازة."
+      }
+    ]
+  },
+  {
+    "en": "toe",
+    "translation": "إصبع القدم",
+    "ipa": "/təʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He injured his toe while running.",
+        "ar": "أصاب إصبع قدمه أثناء الجري."
+      }
+    ]
+  },
+  {
+    "en": "trend",
+    "translation": "اتجاه / نزعة / موضة",
+    "ipa": "/trend/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a trend towards working from home.",
+        "ar": "هناك اتجاه نحو العمل من المنزل."
+      }
+    ]
+  },
+  {
+    "en": "tube",
+    "translation": "أنبوب",
+    "ipa": "/tjuːb/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I need a tube of toothpaste.",
+        "ar": "أحتاج لأنبوب من معجون الأسنان."
+      }
+    ]
+  },
+  {
+    "en": "update",
+    "translation": "تحديث",
+    "ipa": "/ˌʌpˈdeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The software is regularly updated.",
+        "ar": "يتم تحديث البرنامج بانتظام."
+      }
+    ]
+  },
+  {
+    "en": "used",
+    "translation": "مستخدم / مستعمل",
+    "ipa": "/juːzd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He bought a used car.",
+        "ar": "اشترى سيارة مستعملة."
+      }
+    ]
+  },
+  {
+    "en": "victim",
+    "translation": "ضحية",
+    "ipa": "/ˈvɪktɪm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The victims of the flood were given food and shelter.",
+        "ar": "قُدم الطعام والمأوى لضحايا الفيضان."
+      }
+    ]
+  },
+  {
+    "en": "viewer",
+    "translation": "مشاهد",
+    "ipa": "/ˈvjuːə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The program has millions of viewers.",
+        "ar": "للبرنامج ملايين المشاهدين."
+      }
+    ]
+  },
+  {
+    "en": "volunteer",
+    "translation": "متطوع",
+    "ipa": "/ˌvɒlənˈtɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She works as a volunteer for a local charity.",
+        "ar": "تعمل كمتطوعة في جمعية خيرية محلية."
+      }
+    ]
+  },
+  {
+    "en": "vote",
+    "translation": "يصوت / تصويت",
+    "ipa": "/vəʊt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Don't forget to vote in the election.",
+        "ar": "لا تنسَ التصويت في الانتخابات."
+      }
+    ]
+  },
+  {
+    "en": "warn",
+    "translation": "يحذر",
+    "ipa": "/wɔːn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They warned us about the danger.",
+        "ar": "حذرونا من الخطر."
+      }
+    ]
+  },
+  {
+    "en": "warning",
+    "translation": "تحذير",
+    "ipa": "/ˈwɔːnɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government issued a weather warning.",
+        "ar": "أصدرت الحكومة تحذيراً من أحوال الطقس."
+      }
+    ]
+  },
+  {
+    "en": "weapon",
+    "translation": "سلاح",
+    "ipa": "/ˈwepən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The police found a hidden weapon.",
+        "ar": "وجدت الشرطة سلاحاً مخبأً."
+      }
+    ]
+  },
+  {
+    "en": "wing",
+    "translation": "جناح",
+    "ipa": "/wɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bird spread its wings and flew away.",
+        "ar": "فرد الطائر جناحيه وطار بعيداً."
+      }
+    ]
+  }
+]

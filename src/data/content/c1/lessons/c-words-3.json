@@ -1,0 +1,588 @@
+{
+  "id": "lsn_c1_c_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 13: C Words - Part 3",
+  "slug": "c-words-3",
+  "order": 13,
+  "wordCount": 25,
+  "titleAr": "الوحدة 13: كلمات حرف C - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_c1_cleaning",
+      "lessonId": "lsn_c1_c_3",
+      "en": "cleaning",
+      "ar": "تنظيف",
+      "translation": "تنظيف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She does the cleaning every Saturday.",
+          "ar": "تقوم بالتنظيف كل يوم سبت."
+        }
+      ],
+      "ipa": "/ˈkliːnɪŋ/"
+    },
+    {
+      "id": "w_c1_clerical",
+      "lessonId": "lsn_c1_c_3",
+      "en": "clerical",
+      "ar": "كتابي / مكتبي / كنسي",
+      "translation": "كتابي / مكتبي / كنسي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She found a clerical job in a law firm.",
+          "ar": "وجدت وظيفة مكتبية (كتابية) في شركة محاماة."
+        }
+      ],
+      "ipa": "/ˈklerɪkl/"
+    },
+    {
+      "id": "w_c1_cliff",
+      "lessonId": "lsn_c1_c_3",
+      "en": "cliff",
+      "ar": "جرف / منحدر صخري",
+      "translation": "جرف / منحدر صخري",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The house is built on a cliff overlooking the sea.",
+          "ar": "المنزل مبني على جرف يطل على البحر."
+        }
+      ],
+      "ipa": "/klɪf/"
+    },
+    {
+      "id": "w_c1_cling",
+      "lessonId": "lsn_c1_c_3",
+      "en": "cling",
+      "ar": "يتشبث / يلتصق بـ",
+      "translation": "يتشبث / يلتصق بـ",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The child clung to his mother's hand.",
+          "ar": "تشبث الطفل بيد والدته."
+        }
+      ],
+      "ipa": "/klɪŋ/"
+    },
+    {
+      "id": "w_c1_clinical",
+      "lessonId": "lsn_c1_c_3",
+      "en": "clinical",
+      "ar": "سريري / عيادي",
+      "translation": "سريري / عيادي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The drug is undergoing clinical trials.",
+          "ar": "الدواء يخضع لتجارب سريرية."
+        }
+      ],
+      "ipa": "/ˈklɪnɪkl/"
+    },
+    {
+      "id": "w_c1_closure",
+      "lessonId": "lsn_c1_c_3",
+      "en": "closure",
+      "ar": "إغلاق / إنهاء",
+      "translation": "إغلاق / إنهاء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The factory closure resulted in many job losses.",
+          "ar": "أدى إغلاق المصنع إلى فقدان العديد من الوظائف."
+        }
+      ],
+      "ipa": "/ˈkləʊʒə(r)/"
+    },
+    {
+      "id": "w_c1_cluster",
+      "lessonId": "lsn_c1_c_3",
+      "en": "cluster",
+      "ar": "عنقود / مجموعة / يتجمع",
+      "translation": "عنقود / مجموعة / يتجمع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There was a cluster of stars in the sky.",
+          "ar": "كانت هناك مجموعة (عنقود) من النجوم في السماء."
+        }
+      ],
+      "ipa": "/ˈklʌstə(r)/"
+    },
+    {
+      "id": "w_c1_coalition",
+      "lessonId": "lsn_c1_c_3",
+      "en": "coalition",
+      "ar": "ائتلاف / تحالف",
+      "translation": "ائتلاف / تحالف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The two parties formed a coalition government.",
+          "ar": "شكل الحزبان حكومة ائتلافية."
+        }
+      ],
+      "ipa": "/ˌkəʊəˈlɪʃn/"
+    },
+    {
+      "id": "w_c1_coastal",
+      "lessonId": "lsn_c1_c_3",
+      "en": "coastal",
+      "ar": "ساحلي",
+      "translation": "ساحلي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The area has a beautiful coastal landscape.",
+          "ar": "تتمتع المنطقة بمناظر طبيعية ساحلية جميلة."
+        }
+      ],
+      "ipa": "/ˈkəʊstl/"
+    },
+    {
+      "id": "w_c1_cocktail",
+      "lessonId": "lsn_c1_c_3",
+      "en": "cocktail",
+      "ar": "كوكتيل / مشروب مخلوط",
+      "translation": "كوكتيل / مشروب مخلوط",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She ordered a fruit cocktail.",
+          "ar": "طلبت كوكتيل فواكه."
+        }
+      ],
+      "ipa": "/ˈkɒkteɪl/"
+    },
+    {
+      "id": "w_c1_cognitive",
+      "lessonId": "lsn_c1_c_3",
+      "en": "cognitive",
+      "ar": "معرفي / إدراكي",
+      "translation": "معرفي / إدراكي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Cognitive development is important in early childhood.",
+          "ar": "التطور المعرفي مهم في مرحلة الطفولة المبكرة."
+        }
+      ],
+      "ipa": "/ˈkɒɡnətɪv/"
+    },
+    {
+      "id": "w_c1_coincide",
+      "lessonId": "lsn_c1_c_3",
+      "en": "coincide",
+      "ar": "يتزامن / يتوافق",
+      "translation": "يتزامن / يتوافق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The festival coincides with the beginning of spring.",
+          "ar": "يتزامن المهرجان مع بداية الربيع."
+        }
+      ],
+      "ipa": "/ˌkəʊɪnˈsaɪd/"
+    },
+    {
+      "id": "w_c1_collaborate",
+      "lessonId": "lsn_c1_c_3",
+      "en": "collaborate",
+      "ar": "يتعاون",
+      "translation": "يتعاون",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Researchers from around the world collaborated on the study.",
+          "ar": "تعاون باحثون من جميع أنحاء العالم في الدراسة."
+        }
+      ],
+      "ipa": "/kəˈlæbəreɪt/"
+    },
+    {
+      "id": "w_c1_collaboration",
+      "lessonId": "lsn_c1_c_3",
+      "en": "collaboration",
+      "ar": "تعاون",
+      "translation": "تعاون",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The project was a successful collaboration between two companies.",
+          "ar": "كان المشروع تعاوناً ناجحاً بين شركتين."
+        }
+      ],
+      "ipa": "/kəˌlæbəˈreɪʃn/"
+    },
+    {
+      "id": "w_c1_collective",
+      "lessonId": "lsn_c1_c_3",
+      "en": "collective",
+      "ar": "جماعي / مشترك",
+      "translation": "جماعي / مشترك",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The decision was the result of a collective effort.",
+          "ar": "كان القرار نتيجة جهد جماعي."
+        }
+      ],
+      "ipa": "/kəˈlektɪv/"
+    },
+    {
+      "id": "w_c1_collision",
+      "lessonId": "lsn_c1_c_3",
+      "en": "collision",
+      "ar": "تصادم / تضارب",
+      "translation": "تصادم / تضارب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The two cars were involved in a serious collision.",
+          "ar": "تورطت السيارتان في تصادم خطير."
+        }
+      ],
+      "ipa": "/kəˈlɪʒn/"
+    },
+    {
+      "id": "w_c1_colonial",
+      "lessonId": "lsn_c1_c_3",
+      "en": "colonial",
+      "ar": "استعماري",
+      "translation": "استعماري",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country was under colonial rule for many years.",
+          "ar": "كانت البلاد تحت الحكم الاستعماري لسنوات عديدة."
+        }
+      ],
+      "ipa": "/kəˈləʊniəl/"
+    },
+    {
+      "id": "w_c1_columnist",
+      "lessonId": "lsn_c1_c_3",
+      "en": "columnist",
+      "ar": "كاتب عمود (في صحيفة)",
+      "translation": "كاتب عمود (في صحيفة)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a famous political columnist.",
+          "ar": "هو كاتب عمود سياسي مشهور."
+        }
+      ],
+      "ipa": "/ˈkɒləmnɪst/"
+    },
+    {
+      "id": "w_c1_combat",
+      "lessonId": "lsn_c1_c_3",
+      "en": "combat",
+      "ar": "قتال / مكافحة / يحارب",
+      "translation": "قتال / مكافحة / يحارب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Soldiers are trained for combat.",
+          "ar": "يتم تدريب الجنود على القتال."
+        }
+      ],
+      "ipa": "/ˈkɒmbæt/"
+    },
+    {
+      "id": "w_c1_comedian",
+      "lessonId": "lsn_c1_c_3",
+      "en": "comedian",
+      "ar": "كوميدي / ممثل هزلي",
+      "translation": "كوميدي / ممثل هزلي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The comedian told some very funny jokes.",
+          "ar": "ألقى الكوميدي بعض النكات المضحكة جداً."
+        }
+      ],
+      "ipa": "/kəˈmiːdiən/"
+    },
+    {
+      "id": "w_c1_comic",
+      "lessonId": "lsn_c1_c_3",
+      "en": "comic",
+      "ar": "هزلي / كوميدي / مجلة مصورة",
+      "translation": "هزلي / كوميدي / مجلة مصورة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a great comic actor.",
+          "ar": "هو ممثل كوميدي رائع."
+        }
+      ],
+      "ipa": "/ˈkɒmɪk/"
+    },
+    {
+      "id": "w_c1_commander",
+      "lessonId": "lsn_c1_c_3",
+      "en": "commander",
+      "ar": "قائد / آمر",
+      "translation": "قائد / آمر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was the commander of the army.",
+          "ar": "كان قائداً للجيش."
+        }
+      ],
+      "ipa": "/kəˈmɑːndə(r)/"
+    },
+    {
+      "id": "w_c1_commemorate",
+      "lessonId": "lsn_c1_c_3",
+      "en": "commemorate",
+      "ar": "يحيي ذكرى",
+      "translation": "يحيي ذكرى",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The statue commemorates those who died in the war.",
+          "ar": "يحيي التمثال ذكرى الذين ماتوا في الحرب."
+        }
+      ],
+      "ipa": "/kəˈmeməreɪt/"
+    },
+    {
+      "id": "w_c1_commence",
+      "lessonId": "lsn_c1_c_3",
+      "en": "commence",
+      "ar": "يبدأ / يشرع",
+      "translation": "يبدأ / يشرع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The ceremony will commence at 10 o'clock.",
+          "ar": "ستبدأ المراسم في الساعة العاشرة."
+        }
+      ],
+      "ipa": "/kəˈmens/"
+    },
+    {
+      "id": "w_c1_commentary",
+      "lessonId": "lsn_c1_c_3",
+      "en": "commentary",
+      "ar": "تعليق / شرح",
+      "translation": "تعليق / شرح",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He provided a commentary on the football match.",
+          "ar": "قدم تعليقاً على مباراة كرة القدم."
+        }
+      ],
+      "ipa": "/ˈkɒməntri/"
+    }
+  ]
+}

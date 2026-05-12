@@ -4,7 +4,7 @@
   "title": "Unit 1: A Words - Part 1",
   "slug": "a-words-1",
   "order": 1,
-  "wordCount": 25,
+  "wordCount": 17,
   "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف A.",
@@ -152,6 +152,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ækˈtɪ.vɪ.tiz/"
+    },
+    {
+      "id": "w_a1_activity",
+      "lessonId": "lsn_a1_a_1",
+      "en": "activity",
+      "ar": "نشاط",
+      "translation": "نشاط",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Swimming is my favorite outdoor activity.",
+          "ar": "السباحة هي نشاطي الخارجي المفضل."
+        }
+      ],
+      "ipa": "/ækˈtɪvəti/"
     },
     {
       "id": "w_a1_actor",
@@ -378,213 +401,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/əˈɡeɪn/"
-    },
-    {
-      "id": "w_a1_age",
-      "lessonId": "lsn_a1_a_1",
-      "en": "age",
-      "translation": "عمر",
-      "ar": "عمر",
-      "type": "word",
-      "examples": [
-        {
-          "en": "His age is five now.",
-          "ar": "عمره خمس سنوات."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/eɪd͡ʒ/"
-    },
-    {
-      "id": "w_a1_ago",
-      "lessonId": "lsn_a1_a_1",
-      "en": "ago",
-      "translation": "قبل",
-      "ar": "قبل",
-      "type": "word",
-      "examples": [
-        {
-          "en": "We met years ago.",
-          "ar": "التقينا قبل سنوات."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/əˈɡəʊ/"
-    },
-    {
-      "id": "w_a1_agree",
-      "lessonId": "lsn_a1_a_1",
-      "en": "agree",
-      "translation": "يوافق",
-      "ar": "يوافق",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I agree. You are right.",
-          "ar": "أوافقك الرأي / أنت على حق."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/əˈɡɹi/"
-    },
-    {
-      "id": "w_a1_air",
-      "lessonId": "lsn_a1_a_1",
-      "en": "air",
-      "translation": "هواء",
-      "ar": "هواء",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Open the window for air.",
-          "ar": "افتح النافذة لأجل الهواء."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɛə/"
-    },
-    {
-      "id": "w_a1_airport",
-      "lessonId": "lsn_a1_a_1",
-      "en": "airport",
-      "translation": "مطار",
-      "ar": "مطار",
-      "type": "word",
-      "examples": [
-        {
-          "en": "This airport is very big.",
-          "ar": "هذا المطار كبير جدًا."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɛə.pɔːt/"
-    },
-    {
-      "id": "w_a1_all",
-      "lessonId": "lsn_a1_a_1",
-      "en": "all",
-      "translation": "جميع / كل / طوال",
-      "ar": "جميع / كل / طوال",
-      "pronunciation": "/ol/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "All the students are here.",
-          "ar": "جميع الطلاب هنا."
-        },
-        {
-          "en": "We worked all day on this.",
-          "ar": "عملنا طوال اليوم على هذا الأمر."
-        },
-        {
-          "en": "She was dressed all in blue.",
-          "ar": "كانت ترتدي ملابس زرقاء بالكامل"
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core",
-        "A2"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_also",
-      "lessonId": "lsn_a1_a_1",
-      "en": "also",
-      "translation": "أيضا",
-      "ar": "أيضا",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I also want to join you.",
-          "ar": "أريد أن أنضم إليكم أيضا."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɔːl.səʊ/"
-    },
-    {
-      "id": "w_a1_always",
-      "lessonId": "lsn_a1_a_1",
-      "en": "always",
-      "translation": "دائما",
-      "ar": "دائما",
-      "pronunciation": "/'ol weiz/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "She always wakes early.",
-          "ar": "إنها تستيقظ مبكرًا دائمًا."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_amazing",
-      "lessonId": "lsn_a1_a_1",
-      "en": "amazing",
-      "translation": "رائع / مذهل",
-      "ar": "رائع / مذهل",
-      "pronunciation": "/ə'mer-zın/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "It's an amazing story.",
-          "ar": "إنها قصة رائعة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
     }
   ]
 }

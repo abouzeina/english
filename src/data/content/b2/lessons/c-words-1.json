@@ -4,7 +4,7 @@
   "title": "Unit 7: C Words - Part 1",
   "slug": "c-words-1",
   "order": 7,
-  "wordCount": 25,
+  "wordCount": 24,
   "titleAr": "الوحدة 7: كلمات حرف C - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف C.",
@@ -542,32 +542,6 @@
         {
           "en": "He kissed the baby on his pink cheeks.",
           "ar": "قبل الطفل في خديه الورديين."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_cheer",
-      "en": "cheer",
-      "ar": "يهتف / هتاف",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The fans cheered for the winning team.",
-          "ar": "هتف المشجعون للفريق الفائز."
-        },
-        {
-          "en": "We heard a loud cheer when he got up on the stage.",
-          "ar": "سمعنا هتافا عاليا عندما صعد على المسرح."
         }
       ],
       "type": "word",

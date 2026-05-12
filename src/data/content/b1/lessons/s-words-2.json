@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_s_2",
   "levelId": "lvl_b1",
-  "title": "Unit 33: S Words - Part 2",
+  "title": "Unit 37: S Words - Part 2",
   "slug": "s-words-2",
-  "order": 33,
-  "wordCount": 20,
-  "titleAr": "الوحدة 33: كلمات حرف S - الجزء 2",
+  "order": 37,
+  "wordCount": 25,
+  "titleAr": "الوحدة 37: كلمات حرف S - الجزء 2",
   "description": "Master essential B1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف S.",
   "words": [
@@ -284,6 +284,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_similarity",
+      "lessonId": "lsn_b1_s_2",
+      "en": "similarity",
+      "ar": "تشابه",
+      "translation": "تشابه",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a striking similarity between the two cars.",
+          "ar": "هناك تشابه مذهل بين السيارتين."
+        }
+      ],
+      "ipa": "/ˌsɪməˈlærəti/"
+    },
+    {
       "id": "w_b1_similarly",
       "en": "similarly",
       "ar": "بشكل مشابه",
@@ -326,6 +349,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_sink",
+      "lessonId": "lsn_b1_s_2",
+      "en": "sink",
+      "ar": "يغرق / مغسلة",
+      "translation": "يغرق / مغسلة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The boat began to sink after hitting a rock.",
+          "ar": "بدأ القارب في الغرق بعد اصطدامه بصخرة."
+        }
+      ],
+      "ipa": "/sɪŋk/"
     },
     {
       "id": "w_b1_slice",
@@ -398,6 +444,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_smart",
+      "lessonId": "lsn_b1_s_2",
+      "en": "smart",
+      "ar": "ذكي / أنيق",
+      "translation": "ذكي / أنيق",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a very smart student.",
+          "ar": "هو طالب ذكي جداً."
+        }
+      ],
+      "ipa": "/smɑːt/"
+    },
+    {
       "id": "w_b1_smartest",
       "en": "smartest",
       "ar": "أذكى",
@@ -453,6 +522,54 @@
         {
           "en": "You should check the source of this software.",
           "ar": "يجب عليك التحقق من مصدر هذا البرنامج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_soil",
+      "en": "soil",
+      "ar": "تراب / تربة",
+      "pronunciation": "/sozl/",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I like the smell of soil after rain.",
+          "ar": "أحب رائحة التراب بعد المطر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_solid",
+      "en": "solid",
+      "ar": "صلب / حالة صلبة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Only ski on solid ice.",
+          "ar": "تزلج فقط على الجليد الصلب."
+        },
+        {
+          "en": "Three states of matter solid, liquid, and gas.",
+          "ar": "ثلاث حالات للمادة : الصلبة والسائلة والغازية."
         }
       ],
       "type": "word",

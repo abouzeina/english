@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_r_1",
   "levelId": "lvl_a1",
-  "title": "Unit 35: R Words - Part 1",
+  "title": "Unit 37: R Words - Part 1",
   "slug": "r-words-1",
-  "order": 35,
+  "order": 37,
   "wordCount": 14,
-  "titleAr": "الوحدة 35: كلمات حرف R - الجزء 1",
+  "titleAr": "الوحدة 37: كلمات حرف R - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف R.",
   "words": [
@@ -56,6 +56,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_read",
+      "lessonId": "lsn_a1_r_1",
+      "en": "read",
+      "ar": "يقرأ",
+      "translation": "يقرأ",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I like to read books before bed.",
+          "ar": "أحب أن أقرأ الكتب قبل النوم."
+        }
+      ],
+      "ipa": "/riːd/"
     },
     {
       "id": "w_a1_reader",
@@ -303,33 +326,6 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_report",
-      "lessonId": "lsn_a1_r_1",
-      "en": "report",
-      "translation": "تقرير",
-      "ar": "تقرير",
-      "type": "word",
-      "examples": [
-        {
-          "en": "This report needs more details.",
-          "ar": "هذا التقرير يحتاج إلى مزيد من التفاصيل."
-        },
-        {
-          "en": "Other researchers reported similar results",
-          "ar": "ذكر باحثون آخرون نتائج مماثلة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core",
-        "A2"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹəˈpoːt/"
     }
   ]
 }

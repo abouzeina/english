@@ -4,7 +4,7 @@
   "title": "Unit 24: M Words - Part 1",
   "slug": "m-words-1",
   "order": 24,
-  "wordCount": 17,
+  "wordCount": 18,
   "titleAr": "الوحدة 24: كلمات حرف M - الجزء 1",
   "description": "Master essential A2 vocabulary starting with the letter M.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف M.",
@@ -264,6 +264,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_maths",
+      "lessonId": "lsn_a2_m_1",
+      "en": "maths",
+      "ar": "رياضيات",
+      "translation": "رياضيات",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is very good at maths.",
+          "ar": "هي جيدة جداً في الرياضيات."
+        }
+      ],
+      "ipa": "/mæθs/"
     },
     {
       "id": "w_a2_matter",

@@ -1,40 +1,14 @@
 {
   "id": "lsn_b1_b_2",
   "levelId": "lvl_b1",
-  "title": "Unit 4: B Words - Part 2",
+  "title": "Unit 5: B Words - Part 2",
   "slug": "b-words-2",
-  "order": 4,
-  "wordCount": 14,
-  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 2",
+  "order": 5,
+  "wordCount": 18,
+  "titleAr": "الوحدة 5: كلمات حرف B - الجزء 2",
   "description": "Master essential B1 vocabulary starting with the letter B.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف B.",
   "words": [
-    {
-      "id": "w_b1_bite",
-      "en": "bite",
-      "ar": "يعض / قضمة",
-      "pronunciation": "/bart/",
-      "lessonId": "lsn_b1_b_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I promise I won't bite you.",
-          "ar": "أعدك أنني لن أعضك."
-        },
-        {
-          "en": "Ali took another bite of his sandwich.",
-          "ar": "أخذ علي قضمة أخرى من شطيرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_blocks",
       "en": "blocks",
@@ -84,6 +58,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_bomb",
+      "lessonId": "lsn_b1_b_2",
+      "en": "bomb",
+      "ar": "قنبلة",
+      "translation": "قنبلة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The bomb exploded in the city center.",
+          "ar": "انفجرت القنبلة في وسط المدينة."
+        }
+      ],
+      "ipa": "/bɒm/"
+    },
+    {
       "id": "w_b1_bombs",
       "en": "bombs",
       "ar": "قنابل / يقصف",
@@ -110,6 +107,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_border",
+      "lessonId": "lsn_b1_b_2",
+      "en": "border",
+      "ar": "حدود",
+      "translation": "حدود",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They crossed the border illegally.",
+          "ar": "عبروا الحدود بشكل غير قانوني."
+        }
+      ],
+      "ipa": "/ˈbɔːdə(r)/"
+    },
+    {
       "id": "w_b1_bother",
       "en": "bother",
       "ar": "يزعج",
@@ -130,6 +150,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_branch",
+      "lessonId": "lsn_b1_b_2",
+      "en": "branch",
+      "ar": "فرع / غصن",
+      "translation": "فرع / غصن",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The bank has many branches across the country.",
+          "ar": "للبنك فروع عديدة في جميع أنحاء البلاد."
+        }
+      ],
+      "ipa": "/brɑːntʃ/"
     },
     {
       "id": "w_b1_branches",
@@ -290,6 +333,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_bubble",
+      "lessonId": "lsn_b1_b_2",
+      "en": "bubble",
+      "ar": "فقاعة",
+      "translation": "فقاعة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Children love blowing bubbles.",
+          "ar": "الأطفال يحبون نفخ الفقاعات."
+        }
+      ],
+      "ipa": "/ˈbʌbl/"
+    },
+    {
       "id": "w_b1_bubbles",
       "en": "bubbles",
       "ar": "فقاعات",
@@ -332,6 +398,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_bury",
+      "lessonId": "lsn_b1_b_2",
+      "en": "bury",
+      "ar": "يدفن",
+      "translation": "يدفن",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was buried in the local cemetery.",
+          "ar": "دُفن في المقبرة المحلية."
+        }
+      ],
+      "ipa": "/ˈberi/"
     }
   ]
 }

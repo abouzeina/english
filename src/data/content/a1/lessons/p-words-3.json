@@ -1,36 +1,14 @@
 {
   "id": "lsn_a1_p_3",
   "levelId": "lvl_a1",
-  "title": "Unit 33: P Words - Part 3",
+  "title": "Unit 35: P Words - Part 3",
   "slug": "p-words-3",
-  "order": 33,
-  "wordCount": 20,
-  "titleAr": "الوحدة 33: كلمات حرف P - الجزء 3",
+  "order": 35,
+  "wordCount": 21,
+  "titleAr": "الوحدة 35: كلمات حرف P - الجزء 3",
   "description": "Master essential A1 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف P.",
   "words": [
-    {
-      "id": "w_a1_policeman",
-      "lessonId": "lsn_a1_p_3",
-      "en": "policeman",
-      "translation": "شرطي",
-      "ar": "شرطي",
-      "pronunciation": "/pə'lis mən/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I saw a policeman at school.",
-          "ar": "رأيت شرطياً في المدرسة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_pool",
       "lessonId": "lsn_a1_p_3",
@@ -172,6 +150,29 @@
       "ipa": "/pəʊst/"
     },
     {
+      "id": "w_a1_potato",
+      "lessonId": "lsn_a1_p_3",
+      "en": "potato",
+      "ar": "بطاطس",
+      "translation": "بطاطس",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Would you like some mashed potatoes?",
+          "ar": "هل تود بعض البطاطس المهروسة؟"
+        }
+      ],
+      "ipa": "/pəˈteɪtəʊ/"
+    },
+    {
       "id": "w_a1_potatoes",
       "lessonId": "lsn_a1_p_3",
       "en": "potatoes",
@@ -192,6 +193,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/pəˈteɪtəʊz/"
+    },
+    {
+      "id": "w_a1_pound",
+      "lessonId": "lsn_a1_p_3",
+      "en": "pound",
+      "ar": "جنيه / رطل",
+      "translation": "جنيه / رطل",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The book costs five pounds.",
+          "ar": "الكتاب يكلف خمسة جنيهات."
+        }
+      ],
+      "ipa": "/paʊnd/"
     },
     {
       "id": "w_a1_pounds",

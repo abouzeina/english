@@ -1,0 +1,588 @@
+{
+  "id": "lsn_c1_c_5",
+  "levelId": "lvl_c1",
+  "title": "Unit 15: C Words - Part 5",
+  "slug": "c-words-5",
+  "order": 15,
+  "wordCount": 25,
+  "titleAr": "الوحدة 15: كلمات حرف C - الجزء 5",
+  "description": "Master essential C1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_c1_comprehensive",
+      "lessonId": "lsn_c1_c_5",
+      "en": "comprehensive",
+      "ar": "شامل",
+      "translation": "شامل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need a comprehensive solution to the problem.",
+          "ar": "نحن بحاجة لحل شامل للمشكلة."
+        }
+      ],
+      "ipa": "/ˌkɒmprɪˈhensɪv/"
+    },
+    {
+      "id": "w_c1_comprise",
+      "lessonId": "lsn_c1_c_5",
+      "en": "comprise",
+      "ar": "يشمل / يضم",
+      "translation": "يشمل / يضم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The collection comprises over 500 paintings.",
+          "ar": "تضم المجموعة أكثر من خمسمائة لوحة."
+        }
+      ],
+      "ipa": "/kəmˈpraɪz/"
+    },
+    {
+      "id": "w_c1_compromise",
+      "lessonId": "lsn_c1_c_5",
+      "en": "compromise",
+      "ar": "تسوية / حل وسط / يعرض للخطر",
+      "translation": "تسوية / حل وسط / يعرض للخطر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They reached a compromise after long negotiations.",
+          "ar": "وصلوا إلى تسوية (حل وسط) بعد مفاوضات طويلة."
+        }
+      ],
+      "ipa": "/ˈkɒmprəmaɪz/"
+    },
+    {
+      "id": "w_c1_compulsory",
+      "lessonId": "lsn_c1_c_5",
+      "en": "compulsory",
+      "ar": "إلزامي / إجباري",
+      "translation": "إلزامي / إجباري",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Education is compulsory until the age of 16.",
+          "ar": "التعليم إلزامي حتى سن السادسة عشرة."
+        }
+      ],
+      "ipa": "/kəmˈpʌlsəri/"
+    },
+    {
+      "id": "w_c1_compute",
+      "lessonId": "lsn_c1_c_5",
+      "en": "compute",
+      "ar": "يحسب / يقدر",
+      "translation": "يحسب / يقدر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The computer can compute large numbers very quickly.",
+          "ar": "يمكن للكمبيوتر حساب أرقام كبيرة بسرعة فائقة."
+        }
+      ],
+      "ipa": "/kəmˈpjuːt/"
+    },
+    {
+      "id": "w_c1_conceal",
+      "lessonId": "lsn_c1_c_5",
+      "en": "conceal",
+      "ar": "يخفي / يكتم",
+      "translation": "يخفي / يكتم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He tried to conceal his true feelings.",
+          "ar": "حاول إخفاء مشاعره الحقيقية."
+        }
+      ],
+      "ipa": "/kənˈsiːl/"
+    },
+    {
+      "id": "w_c1_concede",
+      "lessonId": "lsn_c1_c_5",
+      "en": "concede",
+      "ar": "يعترف بـ / يقر / يتنازل",
+      "translation": "يعترف بـ / يقر / يتنازل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He finally conceded that he was wrong.",
+          "ar": "اعترف أخيراً بأنه كان مخطئاً."
+        }
+      ],
+      "ipa": "/kənˈsiːd/"
+    },
+    {
+      "id": "w_c1_conceive",
+      "lessonId": "lsn_c1_c_5",
+      "en": "conceive",
+      "ar": "يتصور / يعتقد / تحمل (جنين)",
+      "translation": "يتصور / يعتقد / تحمل (جنين)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I can't conceive of a reason why he would do that.",
+          "ar": "لا أستطيع تصور سبب لقيامه بذلك."
+        }
+      ],
+      "ipa": "/kənˈsiːv/"
+    },
+    {
+      "id": "w_c1_conception",
+      "lessonId": "lsn_c1_c_5",
+      "en": "conception",
+      "ar": "تصور / مفهوم / حمل",
+      "translation": "تصور / مفهوم / حمل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "His conception of the world is very different from mine.",
+          "ar": "تصوره للعالم مختلف تماماً عن تصوري."
+        }
+      ],
+      "ipa": "/kənˈsepʃn/"
+    },
+    {
+      "id": "w_c1_concession",
+      "lessonId": "lsn_c1_c_5",
+      "en": "concession",
+      "ar": "تنازل / امتياز",
+      "translation": "تنازل / امتياز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government made some concessions to the protesters.",
+          "ar": "قدمت الحكومة بعض التنازلات للمتظاهرين."
+        }
+      ],
+      "ipa": "/kənˈseʃn/"
+    },
+    {
+      "id": "w_c1_concrete",
+      "lessonId": "lsn_c1_c_5",
+      "en": "concrete",
+      "ar": "خرسانة / ملموس / واقعي",
+      "translation": "خرسانة / ملموس / واقعي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The building is made of reinforced concrete.",
+          "ar": "المبنى مصنوع من الخرسانة المسلحة."
+        }
+      ],
+      "ipa": "/ˈkɒŋkriːt/"
+    },
+    {
+      "id": "w_c1_condemn",
+      "lessonId": "lsn_c1_c_5",
+      "en": "condemn",
+      "ar": "يدين / يستنكر",
+      "translation": "يدين / يستنكر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The attack was widely condemned by world leaders.",
+          "ar": "أدان زعماء العالم الهجوم على نطاق واسع."
+        }
+      ],
+      "ipa": "/kənˈdem/"
+    },
+    {
+      "id": "w_c1_confer",
+      "lessonId": "lsn_c1_c_5",
+      "en": "confer",
+      "ar": "يتشاور / يمنح (لقباً أو درجة)",
+      "translation": "يتشاور / يمنح (لقباً أو درجة)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The president conferred a medal on the hero.",
+          "ar": "منح الرئيس وساماً للبطل."
+        }
+      ],
+      "ipa": "/kənˈfɜː(r)/"
+    },
+    {
+      "id": "w_c1_confess",
+      "lessonId": "lsn_c1_c_5",
+      "en": "confess",
+      "ar": "يعترف",
+      "translation": "يعترف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He confessed to the crime.",
+          "ar": "اعترف بالجريمة."
+        }
+      ],
+      "ipa": "/kənˈfes/"
+    },
+    {
+      "id": "w_c1_confession",
+      "lessonId": "lsn_c1_c_5",
+      "en": "confession",
+      "ar": "اعتراف",
+      "translation": "اعتراف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The police obtained a written confession.",
+          "ar": "حصلت الشرطة على اعتراف مكتوب."
+        }
+      ],
+      "ipa": "/kənˈfeʃn/"
+    },
+    {
+      "id": "w_c1_configuration",
+      "lessonId": "lsn_c1_c_5",
+      "en": "configuration",
+      "ar": "تكوين / تهيئة / تشكيل",
+      "translation": "تكوين / تهيئة / تشكيل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You need to change the software configuration.",
+          "ar": "أنت بحاجة لتغيير تهيئة البرنامج."
+        }
+      ],
+      "ipa": "/kənˌfɪɡjəˈreɪʃn/"
+    },
+    {
+      "id": "w_c1_confine",
+      "lessonId": "lsn_c1_c_5",
+      "en": "confine",
+      "ar": "يقيد / يحصر",
+      "translation": "يقيد / يحصر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was confined to a wheelchair after the accident.",
+          "ar": "أصبح مقيداً بكرسي متحرك بعد الحادث."
+        }
+      ],
+      "ipa": "/kənˈfaɪn/"
+    },
+    {
+      "id": "w_c1_confirmation",
+      "lessonId": "lsn_c1_c_5",
+      "en": "confirmation",
+      "ar": "تأكيد / إثبات",
+      "translation": "تأكيد / إثبات",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We are still waiting for confirmation of the news.",
+          "ar": "لا نزال ننتظر تأكيد الخبر."
+        }
+      ],
+      "ipa": "/ˌkɒnfəˈmeɪʃn/"
+    },
+    {
+      "id": "w_c1_confront",
+      "lessonId": "lsn_c1_c_5",
+      "en": "confront",
+      "ar": "يواجه",
+      "translation": "يواجه",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We must confront the problem directly.",
+          "ar": "يجب علينا مواجهة المشكلة مباشرة."
+        }
+      ],
+      "ipa": "/kənˈfrʌnt/"
+    },
+    {
+      "id": "w_c1_confrontation",
+      "lessonId": "lsn_c1_c_5",
+      "en": "confrontation",
+      "ar": "مواجهة",
+      "translation": "مواجهة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The confrontation between the two sides was violent.",
+          "ar": "كانت المواجهة بين الجانبين عنيفة."
+        }
+      ],
+      "ipa": "/ˌkɒnfrʌnˈteɪʃn/"
+    },
+    {
+      "id": "w_c1_confusion",
+      "lessonId": "lsn_c1_c_5",
+      "en": "confusion",
+      "ar": "ارتباك / حيرة / فوضى",
+      "translation": "ارتباك / حيرة / فوضى",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There was some confusion about the new rules.",
+          "ar": "كان هناك بعض الارتباك حول القواعد الجديدة."
+        }
+      ],
+      "ipa": "/kənˈfjuːʒn/"
+    },
+    {
+      "id": "w_c1_congratulate",
+      "lessonId": "lsn_c1_c_5",
+      "en": "congratulate",
+      "ar": "يهنئ",
+      "translation": "يهنئ",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I'd like to congratulate you on your success.",
+          "ar": "أود أن أهنئك على نجاحك."
+        }
+      ],
+      "ipa": "/kənˈɡrætʃuleɪt/"
+    },
+    {
+      "id": "w_c1_congregation",
+      "lessonId": "lsn_c1_c_5",
+      "en": "congregation",
+      "ar": "رعية / مصلون / تجمع",
+      "translation": "رعية / مصلون / تجمع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The congregation sang a hymn together.",
+          "ar": "غنت الرعية (المصلون) ترنيمة معاً."
+        }
+      ],
+      "ipa": "/ˌkɒŋɡrɪˈɡeɪʃn/"
+    },
+    {
+      "id": "w_c1_congressional",
+      "lessonId": "lsn_c1_c_5",
+      "en": "congressional",
+      "ar": "خاص بالكونجرس / تشريعي",
+      "translation": "خاص بالكونجرس / تشريعي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The matter was discussed at a congressional hearing.",
+          "ar": "نُوقش الأمر في جلسة استماع بالكونجرس."
+        }
+      ],
+      "ipa": "/kənˈɡreʃənl/"
+    },
+    {
+      "id": "w_c1_conquer",
+      "lessonId": "lsn_c1_c_5",
+      "en": "conquer",
+      "ar": "يغزو / يقهر / يتغلب على",
+      "translation": "يغزو / يقهر / يتغلب على",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The army conquered the city in just three days.",
+          "ar": "غزا الجيش المدينة في ثلاثة أيام فقط."
+        }
+      ],
+      "ipa": "/ˈkɒŋkə(r)/"
+    }
+  ]
+}

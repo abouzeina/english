@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_m_2",
   "levelId": "lvl_c1",
-  "title": "Unit 24: M Words - Part 2",
+  "title": "Unit 41: M Words - Part 2",
   "slug": "m-words-2",
-  "order": 24,
-  "wordCount": 21,
-  "titleAr": "الوحدة 24: كلمات حرف M - الجزء 2",
+  "order": 41,
+  "wordCount": 22,
+  "titleAr": "الوحدة 41: كلمات حرف M - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter M.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف M.",
   "words": [
@@ -470,6 +470,28 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_mill",
+      "en": "mill",
+      "ar": "مطحنة / مصنع",
+      "lessonId": "lsn_c1_m_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يُرسل الحبوب إلى المطحنة ليُطحن ويُحول إلى دقيق",
+          "ar": "He worked in a paper mill for twenty years."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/mɪl/"
     }
   ]
 }

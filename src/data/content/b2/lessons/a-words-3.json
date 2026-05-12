@@ -480,6 +480,29 @@
       "ipa": "/ˈæɹ.əʊ/"
     },
     {
+      "id": "w_b2_artificial",
+      "lessonId": "lsn_b2_a_3",
+      "en": "artificial",
+      "ar": "اصطناعي / صِناعي",
+      "translation": "اصطناعي / صِناعي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The flowers are made of artificial silk.",
+          "ar": "هذه الزهورُ مصنوعةٌ من الحريرِ الاصطناعي."
+        }
+      ],
+      "ipa": "/ˌɑːtɪˈfɪʃl/"
+    },
+    {
       "id": "w_b2_artificial_intelligence",
       "en": "artificial intelligence",
       "ar": "الذكاء الاصطناعي",
@@ -522,28 +545,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ɑːˈtɪstɪk/"
-    },
-    {
-      "id": "w_b2_artwork",
-      "en": "artwork",
-      "ar": "أعمال فنية",
-      "lessonId": "lsn_b2_a_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "A collection of artworks from Asian cultures.",
-          "ar": "مجموعة من الأعمال الفنية من الثقافات الآسيوية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɑːtˌwɜːk/"
     }
   ]
 }

@@ -1,41 +1,14 @@
 {
   "id": "lsn_b2_p_4",
   "levelId": "lvl_b2",
-  "title": "Unit 41: P Words - Part 4",
+  "title": "Unit 48: P Words - Part 4",
   "slug": "p-words-4",
-  "order": 41,
-  "wordCount": 20,
-  "titleAr": "الوحدة 41: كلمات حرف P - الجزء 4",
+  "order": 48,
+  "wordCount": 21,
+  "titleAr": "الوحدة 48: كلمات حرف P - الجزء 4",
   "description": "Master essential B2 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف P.",
   "words": [
-    {
-      "id": "w_b2_principal",
-      "en": "principal",
-      "ar": "شاغلها الرئيسي",
-      "lessonId": "lsn_b2_p_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Health is her principal concern at the moment.",
-          "ar": "الصحة هي شاغلها الرئيسي في الوقت الحالي."
-        },
-        {
-          "en": "طُلب للمثول في مكتب مدير المدرسة",
-          "ar": "The principal reason for the delay was the bad weather."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced",
-        "C1"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈpɹɪnsəpəl/"
-    },
     {
       "id": "w_b2_principle",
       "en": "principle",
@@ -343,6 +316,29 @@
       "ipa": "/pɹəˈɡɹɛsɪv/"
     },
     {
+      "id": "w_b2_prohibit",
+      "lessonId": "lsn_b2_p_4",
+      "en": "prohibit",
+      "ar": "يمنع / يحظر",
+      "translation": "يمنع / يحظر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The law prohibits smoking in public places.",
+          "ar": "القانون يحظر التدخين في الأماكن العامة."
+        }
+      ],
+      "ipa": "/prəˈhɪbɪt/"
+    },
+    {
       "id": "w_b2_prohibits",
       "en": "prohibits",
       "ar": "يحظر",
@@ -488,6 +484,33 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/pɹəˈpɔːʃən/"
+    },
+    {
+      "id": "w_b2_proposal",
+      "en": "proposal",
+      "ar": "المقترح",
+      "lessonId": "lsn_b2_p_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The proposal aims to improve employee work conditions.",
+          "ar": "يهدف المقترح إلى تحسين ظروف عمل الموظفين."
+        },
+        {
+          "en": "تدرس اللجنة اقتراحاً لإنشاء حديقة جديدة",
+          "ar": "He accepted her proposal of marriage."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈpəʊzəl/"
     }
   ]
 }

@@ -1,36 +1,14 @@
 {
   "id": "lsn_a1_s_2",
   "levelId": "lvl_a1",
-  "title": "Unit 38: S Words - Part 2",
+  "title": "Unit 40: S Words - Part 2",
   "slug": "s-words-2",
-  "order": 38,
-  "wordCount": 23,
-  "titleAr": "الوحدة 38: كلمات حرف S - الجزء 2",
+  "order": 40,
+  "wordCount": 25,
+  "titleAr": "الوحدة 40: كلمات حرف S - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_a1_shirt",
-      "lessonId": "lsn_a1_s_2",
-      "en": "shirt",
-      "translation": "قميص",
-      "ar": "قميص",
-      "pronunciation": "/f3rt/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Where is my blue shirt?",
-          "ar": "أين قميصي الأزرق؟"
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_shoe",
       "lessonId": "lsn_a1_s_2",
@@ -82,6 +60,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ʃɒp/"
+    },
+    {
+      "id": "w_a1_shopping",
+      "lessonId": "lsn_a1_s_2",
+      "en": "shopping",
+      "ar": "تسوق",
+      "translation": "تسوق",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We go shopping every Friday.",
+          "ar": "نذهب للتسوق كل يوم جمعة."
+        }
+      ],
+      "ipa": "/ˈʃɒpɪŋ/"
     },
     {
       "id": "w_a1_short",
@@ -543,6 +544,54 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_small",
+      "lessonId": "lsn_a1_s_2",
+      "en": "small",
+      "translation": "صغير / صغيرة",
+      "ar": "صغير / صغيرة",
+      "pronunciation": "/smol/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I grew up in a small village.",
+          "ar": "لقد نشأت في قرية صغيرة."
+        },
+        {
+          "en": "I saw a small snake.",
+          "ar": "رأيت ثعباناً صغيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_snake",
+      "lessonId": "lsn_a1_s_2",
+      "en": "snake",
+      "translation": "ثعبان",
+      "ar": "ثعبان",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a small snake.",
+          "ar": "رأيت ثعباناً صغيراً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsneɪk/"
     }
   ]
 }

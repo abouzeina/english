@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_c_1",
   "levelId": "lvl_a1",
-  "title": "Unit 6: C Words - Part 1",
+  "title": "Unit 7: C Words - Part 1",
   "slug": "c-words-1",
-  "order": 6,
-  "wordCount": 22,
-  "titleAr": "الوحدة 6: كلمات حرف C - الجزء 1",
+  "order": 7,
+  "wordCount": 24,
+  "titleAr": "الوحدة 7: كلمات حرف C - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف C.",
   "words": [
@@ -254,6 +254,29 @@
       "ipa": "/ˈkæɹ.ət/"
     },
     {
+      "id": "w_a1_carry",
+      "lessonId": "lsn_a1_c_1",
+      "en": "carry",
+      "ar": "يحمل",
+      "translation": "يحمل",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Can you help me carry these bags?",
+          "ar": "هل يمكنك مساعدتي في حمل هذه الحقائب؟"
+        }
+      ],
+      "ipa": "/ˈkæri/"
+    },
+    {
       "id": "w_a1_carrying",
       "lessonId": "lsn_a1_c_1",
       "en": "carrying",
@@ -318,6 +341,52 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_cent",
+      "lessonId": "lsn_a1_c_1",
+      "en": "cent",
+      "ar": "سنت (جزء من الدولار)",
+      "translation": "سنت (جزء من الدولار)",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There are 100 cents in one dollar.",
+          "ar": "يوجد مائة سنت في الدولار الواحد."
+        }
+      ],
+      "ipa": "/sent/"
+    },
+    {
+      "id": "w_a1_centre",
+      "lessonId": "lsn_a1_c_1",
+      "en": "centre",
+      "ar": "مركز / وسط",
+      "translation": "مركز / وسط",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The shop is in the city centre.",
+          "ar": "المحل يقع في وسط المدينة."
+        }
+      ],
+      "ipa": "/ˈsentə(r)/"
     },
     {
       "id": "w_a1_cents",
@@ -524,28 +593,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/t͡ʃiz/"
-    },
-    {
-      "id": "w_a1_chicken",
-      "lessonId": "lsn_a1_c_1",
-      "en": "chicken",
-      "translation": "دجاج",
-      "ar": "دجاج",
-      "type": "word",
-      "examples": [
-        {
-          "en": "We had chicken last night.",
-          "ar": "تناولنا الدجاج الليلة الماضية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈt͡ʃɪkɪn/"
     }
   ]
 }

@@ -4,11 +4,78 @@
   "title": "Unit 3: A Words - Part 3",
   "slug": "a-words-3",
   "order": 3,
-  "wordCount": 21,
+  "wordCount": 23,
   "titleAr": "الوحدة 3: كلمات حرف A - الجزء 3",
   "description": "Master essential C1 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف A.",
   "words": [
+    {
+      "id": "w_c1_affirm",
+      "lessonId": "lsn_c1_a_3",
+      "en": "affirm",
+      "ar": "يؤكد / يثبت",
+      "translation": "يؤكد / يثبت",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The court affirmed the previous decision.",
+          "ar": "أكدت المحكمة القرار السابق."
+        }
+      ],
+      "ipa": "/əˈfɜːm/"
+    },
+    {
+      "id": "w_c1_aftermath",
+      "en": "aftermath",
+      "ar": "ما بعد الكارثة / عاقبة",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "واجهت المدينة تعافياً طويلاً في أعقاب الحرب.",
+          "ar": "Many people lost their jobs in the aftermath of the crisis."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæf.təˌmæθ/"
+    },
+    {
+      "id": "w_c1_aggression",
+      "en": "aggression",
+      "ar": "عدوان",
+      "lessonId": "lsn_c1_a_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أظهر الكلب علامات عدوان تجاه الغرباء.",
+          "ar": "The government condemned the act of foreign aggression."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈɡɹɛʃən/"
+    },
     {
       "id": "w_c1_agricultural",
       "en": "agricultural",
@@ -30,6 +97,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˌæɡɹɪˈkʌltjʊəɹəl/"
+    },
+    {
+      "id": "w_c1_agriculture",
+      "lessonId": "lsn_c1_a_3",
+      "en": "agriculture",
+      "ar": "زراعة",
+      "translation": "زراعة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Most of the people in the region work in agriculture.",
+          "ar": "معظم الناس في المنطقة يعملون في الزراعة."
+        }
+      ],
+      "ipa": "/ˈæɡrɪkʌltʃə(r)/"
     },
     {
       "id": "w_c1_aide",
@@ -367,6 +457,52 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_c1_alongside",
+      "lessonId": "lsn_c1_a_3",
+      "en": "alongside",
+      "ar": "إلى جانب / جنباً إلى جنب",
+      "translation": "إلى جانب / جنباً إلى جنب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He worked alongside his father in the shop.",
+          "ar": "عمل إلى جانب والده في المحل."
+        }
+      ],
+      "ipa": "/əˌlɒŋˈsaɪd/"
+    },
+    {
+      "id": "w_c1_altogether",
+      "lessonId": "lsn_c1_a_3",
+      "en": "altogether",
+      "ar": "تماماً / إجمالاً",
+      "translation": "تماماً / إجمالاً",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "That's another matter altogether.",
+          "ar": "هذا أمر آخر تماماً."
+        }
+      ],
+      "ipa": "/ˌɔːltəˈɡeðə(r)/"
+    },
+    {
       "id": "w_c1_aluminium",
       "en": "aluminium",
       "ar": "ألومنيوم",
@@ -387,94 +523,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/əˈluːmɪnəm/"
-    },
-    {
-      "id": "w_c1_amateur",
-      "en": "amateur",
-      "ar": "هاوٍ / غير محترف",
-      "lessonId": "lsn_c1_a_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "المسابقة مفتوحة للاعبي الغولف الهواة والمحترفين.",
-          "ar": "The photos were taken by an amateur photographer."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈæ.mə.tə/"
-    },
-    {
-      "id": "w_c1_ambassador",
-      "en": "ambassador",
-      "ar": "سفير",
-      "lessonId": "lsn_c1_a_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تمت دعوة السفير البريطاني إلى الحفل.",
-          "ar": "She acted as a cultural ambassador for her country."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/æmˈbæs.ə.də(ɹ)/"
-    },
-    {
-      "id": "w_c1_amend",
-      "en": "amend",
-      "ar": "يعدل / يصحح",
-      "lessonId": "lsn_c1_a_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تم تعديل القانون ليشمل تدابير سلامة جديدة.",
-          "ar": "He asked to amend his statement before signing it."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/əˈmɛnd/"
-    },
-    {
-      "id": "w_c1_amendment",
-      "en": "amendment",
-      "ar": "تعديل",
-      "lessonId": "lsn_c1_a_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "التعديل الأول يحمي حرية التعبير.",
-          "ar": "They proposed an amendment to the constitution."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ʌˈmɛnd.mənt/"
     }
   ]
 }

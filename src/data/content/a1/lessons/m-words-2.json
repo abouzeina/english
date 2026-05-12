@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_m_2",
   "levelId": "lvl_a1",
-  "title": "Unit 25: M Words - Part 2",
+  "title": "Unit 27: M Words - Part 2",
   "slug": "m-words-2",
-  "order": 25,
+  "order": 27,
   "wordCount": 18,
-  "titleAr": "الوحدة 25: كلمات حرف M - الجزء 2",
+  "titleAr": "الوحدة 27: كلمات حرف M - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter M.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف M.",
   "words": [
@@ -144,6 +144,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_metre",
+      "lessonId": "lsn_a1_m_2",
+      "en": "metre",
+      "ar": "متر",
+      "translation": "متر",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The room is four metres long.",
+          "ar": "الغرفة طولها أربعة أمتار."
+        }
+      ],
+      "ipa": "/ˈmiːtə(r)/"
     },
     {
       "id": "w_a1_midnight",
@@ -383,28 +406,6 @@
         {
           "en": "Wait a moment, please.",
           "ar": "انتظر لحظة من فضلك."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_monday",
-      "lessonId": "lsn_a1_m_2",
-      "en": "Monday",
-      "translation": "يوم الاثنين",
-      "ar": "يوم الاثنين",
-      "pronunciation": "/'mʌn der/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I wake up early every Monday.",
-          "ar": "أنا أستيقظ مبكراً كل يوم اثنين."
         }
       ],
       "difficulty": "A1",

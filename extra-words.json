@@ -1,5 +1,10 @@
 [
   {
+    "word": "a lot",
+    "level": "A1",
+    "category": "conversational/expression"
+  },
+  {
     "word": "activities",
     "level": "A1",
     "category": "supplemental/teacher-added"
@@ -100,27 +105,17 @@
     "category": "supplemental/teacher-added"
   },
   {
-    "word": "grandparents",
-    "level": "A1",
-    "category": "supplemental/teacher-added"
-  },
-  {
     "word": "Good morning",
     "level": "A1",
     "category": "conversational/expression"
   },
   {
+    "word": "grandparents",
+    "level": "A1",
+    "category": "supplemental/teacher-added"
+  },
+  {
     "word": "hands",
-    "level": "A1",
-    "category": "supplemental/teacher-added"
-  },
-  {
-    "word": "potatoes",
-    "level": "A1",
-    "category": "supplemental/teacher-added"
-  },
-  {
-    "word": "pounds",
     "level": "A1",
     "category": "supplemental/teacher-added"
   },
@@ -133,11 +128,6 @@
     "word": "legs",
     "level": "A1",
     "category": "supplemental/teacher-added"
-  },
-  {
-    "word": "a lot",
-    "level": "A1",
-    "category": "conversational/expression"
   },
   {
     "word": "lives",
@@ -181,6 +171,16 @@
   },
   {
     "word": "plants",
+    "level": "A1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "potatoes",
+    "level": "A1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "pounds",
     "level": "A1",
     "category": "supplemental/teacher-added"
   },
@@ -660,14 +660,14 @@
     "category": "supplemental/teacher-added"
   },
   {
-    "word": "folks",
-    "level": "B1",
-    "category": "supplemental/teacher-added"
-  },
-  {
     "word": "folk art",
     "level": "B1",
     "category": "conversational/expression"
+  },
+  {
+    "word": "folks",
+    "level": "B1",
+    "category": "supplemental/teacher-added"
   },
   {
     "word": "frames",
@@ -985,6 +985,11 @@
     "category": "supplemental/teacher-added"
   },
   {
+    "word": "sank",
+    "level": "B1",
+    "category": "supplemental/teacher-added"
+  },
+  {
     "word": "scanned",
     "level": "B1",
     "category": "supplemental/teacher-added"
@@ -1000,17 +1005,12 @@
     "category": "supplemental/teacher-added"
   },
   {
-    "word": "shelves",
-    "level": "B1",
-    "category": "supplemental/teacher-added"
-  },
-  {
-    "word": "sank",
-    "level": "B1",
-    "category": "supplemental/teacher-added"
-  },
-  {
     "word": "shells",
+    "level": "B1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "shelves",
     "level": "B1",
     "category": "supplemental/teacher-added"
   },
@@ -2035,6 +2035,101 @@
     "category": "supplemental/teacher-added"
   },
   {
+    "word": "activism",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "affiliate",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "affirm",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "aluminum",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "analytic",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "anomaly",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "assigned",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "attainment",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "autonomous",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "beverage",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "broaden",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "cape",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "census",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "cleaning",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "clerical",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "comedian",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "commemorate",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "composite",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "constituent",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
     "word": "hatred",
     "level": "C1",
     "category": "supplemental/teacher-added"
@@ -2086,6 +2181,11 @@
   },
   {
     "word": "shareholder",
+    "level": "C1",
+    "category": "supplemental/teacher-added"
+  },
+  {
+    "word": "situated",
     "level": "C1",
     "category": "supplemental/teacher-added"
   },

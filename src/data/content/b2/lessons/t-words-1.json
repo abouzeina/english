@@ -1,0 +1,496 @@
+{
+  "id": "lsn_b2_t_1",
+  "levelId": "lvl_b2",
+  "title": "Unit 62: T Words - Part 1",
+  "slug": "t-words-1",
+  "order": 62,
+  "wordCount": 21,
+  "titleAr": "الوحدة 62: كلمات حرف T - الجزء 1",
+  "description": "Master essential B2 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف T.",
+  "words": [
+    {
+      "id": "w_b2_tackle",
+      "lessonId": "lsn_b2_t_1",
+      "en": "tackle",
+      "ar": "يتعامل مع / يعالج",
+      "translation": "يتعامل مع / يعالج",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need to tackle the problem of pollution.",
+          "ar": "نحن بحاجة للتعامل مع مشكلة التلوث."
+        }
+      ],
+      "ipa": "/ˈtækl/"
+    },
+    {
+      "id": "w_b2_tag",
+      "lessonId": "lsn_b2_t_1",
+      "en": "tag",
+      "ar": "علامة / بطاقة تصنيف",
+      "translation": "علامة / بطاقة تصنيف",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The price tag is missing from this shirt.",
+          "ar": "بطاقة السعر مفقودة من هذا القميص."
+        }
+      ],
+      "ipa": "/tæɡ/"
+    },
+    {
+      "id": "w_b2_tale",
+      "lessonId": "lsn_b2_t_1",
+      "en": "tale",
+      "ar": "حكاية / قصة",
+      "translation": "حكاية / قصة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He told us an exciting tale of adventure.",
+          "ar": "حكى لنا قصة مغامرة مثيرة."
+        }
+      ],
+      "ipa": "/teɪl/"
+    },
+    {
+      "id": "w_b2_tank",
+      "lessonId": "lsn_b2_t_1",
+      "en": "tank",
+      "ar": "دبابة / خزان",
+      "translation": "دبابة / خزان",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The car has a full tank of petrol.",
+          "ar": "السيارة بها خزان وقود ممتلئ."
+        }
+      ],
+      "ipa": "/tæŋk/"
+    },
+    {
+      "id": "w_b2_tap",
+      "lessonId": "lsn_b2_t_1",
+      "en": "tap",
+      "ar": "صنبور / ينقر",
+      "translation": "صنبور / ينقر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Turn off the tap while you brush your teeth.",
+          "ar": "أغلق الصنبور أثناء تنظيف أسنانك."
+        }
+      ],
+      "ipa": "/tæp/"
+    },
+    {
+      "id": "w_b2_tear",
+      "lessonId": "lsn_b2_t_1",
+      "en": "tear",
+      "ar": "دمعة / يمزق",
+      "translation": "دمعة / يمزق",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She wiped a tear from her eye.",
+          "ar": "مسحت دمعة من عينها."
+        }
+      ],
+      "ipa": "/tɪə(r)/"
+    },
+    {
+      "id": "w_b2_technological",
+      "lessonId": "lsn_b2_t_1",
+      "en": "technological",
+      "ar": "تكنولوجي / تقني",
+      "translation": "تكنولوجي / تقني",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We are living in an era of rapid technological change.",
+          "ar": "نحن نعيش في عصر من التغيير التكنولوجي السريع."
+        }
+      ],
+      "ipa": "/ˌteknəˈlɒdʒɪkl/"
+    },
+    {
+      "id": "w_b2_teens",
+      "lessonId": "lsn_b2_t_1",
+      "en": "teens",
+      "ar": "سن المراهقة",
+      "translation": "سن المراهقة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She's in her late teens.",
+          "ar": "هي في أواخر سن المراهقة."
+        }
+      ],
+      "ipa": "/tiːnz/"
+    },
+    {
+      "id": "w_b2_temple",
+      "lessonId": "lsn_b2_t_1",
+      "en": "temple",
+      "ar": "معبد / صدغ",
+      "translation": "معبد / صدغ",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The ancient temple was built of stone.",
+          "ar": "بُني المعبد القديم من الحجر."
+        }
+      ],
+      "ipa": "/ˈtempl/"
+    },
+    {
+      "id": "w_b2_temporarily",
+      "lessonId": "lsn_b2_t_1",
+      "en": "temporarily",
+      "ar": "مؤقتاً",
+      "translation": "مؤقتاً",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The office is temporarily closed for repairs.",
+          "ar": "المكتب مغلق مؤقتاً للإصلاحات."
+        }
+      ],
+      "ipa": "/ˈtemprərəli/"
+    },
+    {
+      "id": "w_b2_temporary",
+      "lessonId": "lsn_b2_t_1",
+      "en": "temporary",
+      "ar": "مؤقت",
+      "translation": "مؤقت",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He found a temporary job for the summer.",
+          "ar": "وجد وظيفة مؤقتة للصيف."
+        }
+      ],
+      "ipa": "/ˈtemprəri/"
+    },
+    {
+      "id": "w_b2_tendency",
+      "lessonId": "lsn_b2_t_1",
+      "en": "tendency",
+      "ar": "ميل / نزعة",
+      "translation": "ميل / نزعة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a tendency for prices to rise.",
+          "ar": "هناك ميل لارتفاع الأسعار."
+        }
+      ],
+      "ipa": "/ˈtendənsi/"
+    },
+    {
+      "id": "w_b2_tension",
+      "lessonId": "lsn_b2_t_1",
+      "en": "tension",
+      "ar": "توتر",
+      "translation": "توتر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There was a lot of tension in the room.",
+          "ar": "كان هناك الكثير من التوتر في الغرفة."
+        }
+      ],
+      "ipa": "/ˈtenʃn/"
+    },
+    {
+      "id": "w_b2_terms",
+      "lessonId": "lsn_b2_t_1",
+      "en": "terms",
+      "ar": "شروط / مصطلحات",
+      "translation": "شروط / مصطلحات",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Please read the terms and conditions carefully.",
+          "ar": "يرجى قراءة الشروط والأحكام بعناية."
+        }
+      ],
+      "ipa": "/tɜːmz/"
+    },
+    {
+      "id": "w_b2_terribly",
+      "lessonId": "lsn_b2_t_1",
+      "en": "terribly",
+      "ar": "بشكل رهيب / جداً",
+      "translation": "بشكل رهيب / جداً",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I'm terribly sorry for the delay.",
+          "ar": "أنا آسف جداً على التأخير."
+        }
+      ],
+      "ipa": "/ˈterəbli/"
+    },
+    {
+      "id": "w_b2_terrify",
+      "lessonId": "lsn_b2_t_1",
+      "en": "terrify",
+      "ar": "يرعب / يفزع",
+      "translation": "يرعب / يفزع",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The thought of flying terrifies her.",
+          "ar": "فكرة الطيران ترعبها."
+        }
+      ],
+      "ipa": "/ˈterɪfaɪ/"
+    },
+    {
+      "id": "w_b2_territory",
+      "lessonId": "lsn_b2_t_1",
+      "en": "territory",
+      "ar": "إقليم / أرض",
+      "translation": "إقليم / أرض",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The army occupied the enemy territory.",
+          "ar": "احتل الجيش أراضي العدو."
+        }
+      ],
+      "ipa": "/ˈterətri/"
+    },
+    {
+      "id": "w_b2_terror",
+      "lessonId": "lsn_b2_t_1",
+      "en": "terror",
+      "ar": "رعب / ذعر",
+      "translation": "رعب / ذعر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The people lived in terror of the regime.",
+          "ar": "عاش الناس في رعب من النظام."
+        }
+      ],
+      "ipa": "/ˈterə(r)/"
+    },
+    {
+      "id": "w_b2_terrorism",
+      "lessonId": "lsn_b2_t_1",
+      "en": "terrorism",
+      "ar": "إرهاب",
+      "translation": "إرهاب",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government is committed to fighting terrorism.",
+          "ar": "الحكومة ملتزمة بمحاربة الإرهاب."
+        }
+      ],
+      "ipa": "/ˈterərɪzəm/"
+    },
+    {
+      "id": "w_b2_terrorist",
+      "lessonId": "lsn_b2_t_1",
+      "en": "terrorist",
+      "ar": "إرهابي",
+      "translation": "إرهابي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The attack was carried out by a group of terrorists.",
+          "ar": "نُفذ الهجوم من قبل مجموعة من الإرهابيين."
+        }
+      ],
+      "ipa": "/ˈterərɪst/"
+    },
+    {
+      "id": "w_b2_testing",
+      "lessonId": "lsn_b2_t_1",
+      "en": "testing",
+      "ar": "اختبار / فحص",
+      "translation": "اختبار / فحص",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The new drug is still undergoing testing.",
+          "ar": "الدواء الجديد لا يزال قيد الاختبار."
+        }
+      ],
+      "ipa": "/ˈtestɪŋ/"
+    }
+  ]
+}

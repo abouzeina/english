@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_j",
   "levelId": "lvl_b2",
-  "title": "Unit 29: J Words",
+  "title": "Unit 35: J Words",
   "slug": "j-words",
-  "order": 29,
-  "wordCount": 10,
-  "titleAr": "الوحدة 29: كلمات حرف J",
+  "order": 35,
+  "wordCount": 11,
+  "titleAr": "الوحدة 35: كلمات حرف J",
   "description": "Master essential B2 vocabulary starting with the letter J.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف J.",
   "words": [
@@ -126,6 +126,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_judgement",
+      "lessonId": "lsn_b2_j",
+      "en": "judgement",
+      "ar": "حكم / قرار",
+      "translation": "حكم / قرار",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "In my judgement, this is the best option.",
+          "ar": "في تقديري، هذا هو الخيار الأفضل."
+        }
+      ],
+      "ipa": "/ˈdʒʌdʒmənt/"
     },
     {
       "id": "w_b2_judgment",

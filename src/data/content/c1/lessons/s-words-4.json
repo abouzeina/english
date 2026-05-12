@@ -1,14 +1,392 @@
 {
   "id": "lsn_c1_s_4",
   "levelId": "lvl_c1",
-  "title": "Unit 41: S Words - Part 4",
+  "title": "Unit 59: S Words - Part 4",
   "slug": "s-words-4",
-  "order": 41,
-  "wordCount": 24,
-  "titleAr": "الوحدة 41: كلمات حرف S - الجزء 4",
+  "order": 59,
+  "wordCount": 23,
+  "titleAr": "الوحدة 59: كلمات حرف S - الجزء 4",
   "description": "Master essential C1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_c1_spouse",
+      "en": "spouse",
+      "ar": "زوج أو زوجة",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الموظفون مدعوون لإحضار أزواجهم إلى الحفلة.",
+          "ar": "He lives with his spouse and two children."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/spaʊs/"
+    },
+    {
+      "id": "w_c1_spy",
+      "en": "spy",
+      "ar": "يتجسس / جاسوس",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم القبض عليه وهو يحاول التجسس على القاعدة العسكرية.",
+          "ar": "She worked as a spy during the war."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/spaɪ/"
+    },
+    {
+      "id": "w_c1_squad",
+      "en": "squad",
+      "ar": "فرقة / مجموعة",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وصلت فرقة الشرطة بسرعة إلى مسرح الجريمة.",
+          "ar": "He was selected to join the national football squad."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈskwɒd/"
+    },
+    {
+      "id": "w_c1_squeeze",
+      "en": "squeeze",
+      "ar": "يعصر / يضغط",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكنت من عصر بعض العصير الطازج من البرتقالة.",
+          "ar": "We tried to squeeze five people into the small car."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/skwiːz/"
+    },
+    {
+      "id": "w_c1_stab",
+      "en": "stab",
+      "ar": "يطعن",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حاول طعن المهاجم بسكين.",
+          "ar": "She felt a sharp stab of pain in her back."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stæb/"
+    },
+    {
+      "id": "w_c1_stability",
+      "en": "stability",
+      "ar": "استقرار",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تسعى البلاد لتحقيق الاستقرار السياسي والاقتصادي.",
+          "ar": "The new laws were designed to ensure financial stability."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stəˈbɪlɪti/"
+    },
+    {
+      "id": "w_c1_stabilize",
+      "en": "stabilize",
+      "ar": "يستقر / يثبت",
+      "pronunciation": "ˈsteɪbəlaɪz",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحاول الأطباء تثبيت حالة المريض.",
+          "ar": "Prices began to stabilize after the long inflation period."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_stake",
+      "en": "stake",
+      "ar": "حصة / رهينة",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لديه حصة شخصية في نجاح الشركة.",
+          "ar": "The reputation of the brand is at stake."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/steɪk/"
+    },
+    {
+      "id": "w_c1_standing",
+      "en": "standing",
+      "ar": "مكانة / دائم",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتمتع بمكانة اجتماعية عالية في المجتمع.",
+          "ar": "The group has a standing invitation to use the facility."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈstændɪŋ/"
+    },
+    {
+      "id": "w_c1_stark",
+      "en": "stark",
+      "ar": "صارخ / قاسي",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هناك تباين صارخ بين الحيين.",
+          "ar": "The island has a stark, desolate beauty."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɑːk/"
+    },
+    {
+      "id": "w_c1_statistical",
+      "en": "statistical",
+      "ar": "إحصائي",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يوفر التقرير بيانات إحصائية عن السكان.",
+          "ar": "There is no statistical evidence to support this claim."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stəˈtɪstɪkəl/"
+    },
+    {
+      "id": "w_c1_steer",
+      "en": "steer",
+      "ar": "يقود / يوجه",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "من الصعب توجيه القارب في الرياح القوية.",
+          "ar": "The teacher tried to steer the conversation back to the topic."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɪə(ɹ)/"
+    },
+    {
+      "id": "w_c1_stem",
+      "lessonId": "lsn_c1_s_4",
+      "en": "stem",
+      "ar": "ساق النبتة / ينبع من / يتصدى لـ",
+      "translation": "ساق النبتة / ينبع من / يتصدى لـ",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The problem stems from a lack of communication.",
+          "ar": "تنبع المشكلة من قلة التواصل."
+        }
+      ],
+      "ipa": "/stem/"
+    },
+    {
+      "id": "w_c1_stereotype",
+      "lessonId": "lsn_c1_s_4",
+      "en": "stereotype",
+      "ar": "صورة نمطية",
+      "translation": "صورة نمطية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The movie relies on racial stereotypes.",
+          "ar": "يعتمد الفيلم على صور نمطية عرقية."
+        }
+      ],
+      "ipa": "/ˈsteriətaɪp/"
+    },
+    {
+      "id": "w_c1_stimulus",
+      "lessonId": "lsn_c1_s_4",
+      "en": "stimulus",
+      "ar": "محفز / منبه",
+      "translation": "محفز / منبه",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The new law provided a stimulus for the economy.",
+          "ar": "وفر القانون الجديد محفزاً للاقتصاد."
+        }
+      ],
+      "ipa": "/ˈstɪmjələs/"
+    },
+    {
+      "id": "w_c1_stir",
+      "lessonId": "lsn_c1_s_4",
+      "en": "stir",
+      "ar": "يحرك / يثير / ضجة",
+      "translation": "يحرك / يثير / ضجة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Stir the soup slowly.",
+          "ar": "حرك الحساء ببطء."
+        }
+      ],
+      "ipa": "/stɜː(r)/"
+    },
+    {
+      "id": "w_c1_storage",
+      "en": "storage",
+      "ar": "تخزين",
+      "lessonId": "lsn_c1_s_4",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم الاحتفاظ بالأثاث في وحدة تخزين لعدة أشهر.",
+          "ar": "The phone has 128 gigabytes of internal storage. يحتوي الهاتف على 128 غيغابايت من سعة التخزين الداخلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈstɔ.ɹɪd͡ʒ/"
+    },
     {
       "id": "w_c1_straightforward",
       "en": "straightforward",
@@ -134,402 +512,6 @@
         {
           "en": "يجب أن نسعى جاهدين لتحقيق أهدافنا رغم العقبات.",
           "ar": "The organization strives for peace and equality."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_structural",
-      "en": "structural",
-      "ar": "هيكلي / إنشائي",
-      "pronunciation": "ˈstrʌktʃərəl",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تعرض المبنى لبعض الأضرار الهيكلية أثناء الزلزال.",
-          "ar": "The government is planning structural reforms to the economy."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_stumble",
-      "en": "stumble",
-      "ar": "يتعثر",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "بدأ يتعثر وهو يمشي على الأرض غير المستوية.",
-          "ar": "I stumbled across an old photo while cleaning the room."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈstʌmbəl/"
-    },
-    {
-      "id": "w_c1_stun",
-      "en": "stun",
-      "ar": "يصعق / يذهل",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أذهلت أخبار الحادث المجتمع بأسره.",
-          "ar": "The blow to his head stunned him for a moment."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/stʌn/"
-    },
-    {
-      "id": "w_c1_submission",
-      "en": "submission",
-      "ar": "خضوع / تقديم",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "الموعد النهائي لتقديم التقرير هو يوم الجمعة.",
-          "ar": "The enemy was forced into submission after the long war."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səbˈmɪʃən/"
-    },
-    {
-      "id": "w_c1_subscriber",
-      "en": "subscriber",
-      "ar": "مشترك",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "المجلة لديها أكثر من مليون مشترك نشط.",
-          "ar": "The YouTube channel gained many new subscribers this month."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səbˈskɹaɪbəɹ/"
-    },
-    {
-      "id": "w_c1_subscription",
-      "en": "subscription",
-      "ar": "اشتراك",
-      "pronunciation": "səbˈskrɪpʃn",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "قررت إلغاء اشتراكي في النادي الرياضي.",
-          "ar": "You can pay for the subscription on a monthly basis."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_substantial",
-      "en": "substantial",
-      "ar": "جوهري / كبير",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تطلب المشروع مبلغاً كبيراً من المال.",
-          "ar": "There are substantial differences between the two proposals."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səbˈstænʃəl/"
-    },
-    {
-      "id": "w_c1_substantially",
-      "en": "substantially",
-      "ar": "بشكل كبير / جوهرياً",
-      "pronunciation": "səbˈstænʃəli",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تحسنت جودة الخدمة بشكل كبير.",
-          "ar": "The costs have increased substantially over the last year."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_substitute",
-      "en": "substitute",
-      "ar": "بديل / يستبدل",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كان المعلم غائباً، لذا اضطروا للبحث عن بديل.",
-          "ar": "You can substitute honey for sugar in this recipe."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈsʌbstɪtjut/"
-    },
-    {
-      "id": "w_c1_substitution",
-      "en": "substitution",
-      "ar": "استبدال",
-      "pronunciation": "ˌsʌstɪˈtjuːʃn",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "قام المدرب بإجراء تبديل في منتصف المباراة.",
-          "ar": "The substitution of oil for coal reduced pollution levels."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_subtle",
-      "en": "subtle",
-      "ar": "دقيق / خفي / بارع",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "هناك فروق دقيقة في طعم هذين النبيذين.",
-          "ar": "She used a subtle perfume that was hardly noticeable."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈsʌt(ə)l/"
-    },
-    {
-      "id": "w_c1_suburban",
-      "en": "suburban",
-      "ar": "ضواحي / في الضواحي",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يعيشون في حي هادئ في الضواحي خارج المدينة.",
-          "ar": "Suburban life is often slower than living in the city center."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səˈbɜː(ɹ)bən/"
-    },
-    {
-      "id": "w_c1_succession",
-      "en": "succession",
-      "ar": "تعاقب / توالي",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "فاز الفريق بعدة مباريات في تعاقب سريع.",
-          "ar": "The law determines the order of succession to the throne."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səkˈsɛʃ.ən/"
-    },
-    {
-      "id": "w_c1_successive",
-      "en": "successive",
-      "ar": "متتالي / متعاقب",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "فاز بالبطولة لثلاث سنوات متتالية.",
-          "ar": "The company faced successive losses during the crisis."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səkˈsɛsɪv/"
-    },
-    {
-      "id": "w_c1_successor",
-      "en": "successor",
-      "ar": "خليفة / وريث",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يبحث المدير التنفيذي عن خليفة مناسب.",
-          "ar": "The new president is the successor to the previous leader."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səkˈsɛsə(ɹ)/"
-    },
-    {
-      "id": "w_c1_suck",
-      "en": "suck",
-      "ar": "يمتص",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "بدأ الطفل في مص إبهامه.",
-          "ar": "Plants suck water and nutrients from the soil."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/sʌk/"
-    },
-    {
-      "id": "w_c1_sue",
-      "en": "sue",
-      "ar": "يقاضي",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "قرر مقاضاة الشركة للحصول على تعويضات.",
-          "ar": "The victim is planning to sue for medical negligence."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/suː/"
-    },
-    {
-      "id": "w_c1_suicide",
-      "en": "suicide",
-      "ar": "انتحار",
-      "pronunciation": "ˈsuːɪsaɪd",
-      "lessonId": "lsn_c1_s_4",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تحقق الشرطة في القضية على أنها انتحار.",
-          "ar": "He had thoughts of suicide during his deep depression."
         }
       ],
       "type": "word",

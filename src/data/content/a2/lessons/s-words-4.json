@@ -4,33 +4,11 @@
   "title": "Unit 37: S Words - Part 4",
   "slug": "s-words-4",
   "order": 37,
-  "wordCount": 20,
+  "wordCount": 21,
   "titleAr": "الوحدة 37: كلمات حرف S - الجزء 4",
   "description": "Master essential A2 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_a2_somewhere",
-      "en": "somewhere",
-      "ar": "مكان",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Let's go somewhere quiet.",
-          "ar": "لنهب إلى مكان هادئ :"
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high",
-      "ipa": "/ˈsʌm.hweːɹ/"
-    },
     {
       "id": "w_a2_sort",
       "en": "sort",
@@ -79,6 +57,52 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_speaker",
+      "lessonId": "lsn_a2_s_4",
+      "en": "speaker",
+      "ar": "متحدث / سماعة",
+      "translation": "متحدث / سماعة",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a great public speaker.",
+          "ar": "هو متحدث عام رائع."
+        }
+      ],
+      "ipa": "/ˈspiːkə(r)/"
+    },
+    {
+      "id": "w_a2_specific",
+      "lessonId": "lsn_a2_s_4",
+      "en": "specific",
+      "ar": "محدد / خاص",
+      "translation": "محدد / خاص",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Can you give me a specific example?",
+          "ar": "هل يمكنك إعطائي مثالاً محدداً؟"
+        }
+      ],
+      "ipa": "/spəˈsɪfɪk/"
     },
     {
       "id": "w_a2_speech",
@@ -211,6 +235,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_stair",
+      "lessonId": "lsn_a2_s_4",
+      "en": "stair",
+      "ar": "درجة (سلم) / درج",
+      "translation": "درجة (سلم) / درج",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She ran up the stairs to her bedroom.",
+          "ar": "ركضت للأعلى عبر الدرج إلى غرفة نومها."
+        }
+      ],
+      "ipa": "/steə(r)/"
     },
     {
       "id": "w_a2_stairs",
@@ -436,28 +483,6 @@
         {
           "en": "Sami drove straight to his home.",
           "ar": "قاد سامي السيارة مباشرة إلى منزله."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a2_strange",
-      "en": "strange",
-      "ar": "غريب",
-      "pronunciation": "/streınd3/",
-      "lessonId": "lsn_a2_s_4",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "A strange thing happened yesterday.",
-          "ar": "حدث شيء غريب بالأمس :"
         }
       ],
       "type": "word",

@@ -1,58 +1,14 @@
 {
   "id": "lsn_b1_i_2",
   "levelId": "lvl_b1",
-  "title": "Unit 18: I Words - Part 2",
+  "title": "Unit 20: I Words - Part 2",
   "slug": "i-words-2",
-  "order": 18,
-  "wordCount": 15,
-  "titleAr": "الوحدة 18: كلمات حرف I - الجزء 2",
+  "order": 20,
+  "wordCount": 19,
+  "titleAr": "الوحدة 20: كلمات حرف I - الجزء 2",
   "description": "Master essential B1 vocabulary starting with the letter I.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف I.",
   "words": [
-    {
-      "id": "w_b1_indirect",
-      "en": "indirect",
-      "ar": "غير مباشر",
-      "pronunciation": "/ ın də rekt/",
-      "lessonId": "lsn_b1_i_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "There are many indirect effects of using social media.",
-          "ar": "هناك العديد من الآثار غير المباشرة لاستخدام وسائل التواصل الاجتماعي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_indoor",
-      "en": "indoor",
-      "ar": "داخلي",
-      "pronunciation": "/ In dor/",
-      "lessonId": "lsn_b1_i_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I suggest we play some indoor games.",
-          "ar": "أقترح أن نلعب بعض الألعاب الداخلية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_indoors",
       "en": "indoors",
@@ -102,6 +58,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_ingredient",
+      "lessonId": "lsn_b1_i_2",
+      "en": "ingredient",
+      "ar": "مكون / مقادير (طبخة)",
+      "translation": "مكون / مقادير (طبخة)",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Fresh ingredients are key to a good meal.",
+          "ar": "المكونات الطازجة هي المفتاح لوجبة جيدة."
+        }
+      ],
+      "ipa": "/ɪnˈɡriːdiənt/"
+    },
+    {
       "id": "w_b1_ingredients",
       "en": "ingredients",
       "ar": "مكونات",
@@ -122,6 +101,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_injure",
+      "lessonId": "lsn_b1_i_2",
+      "en": "injure",
+      "ar": "يجرح / يصيب",
+      "translation": "يجرح / يصيب",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He injured his leg while playing football.",
+          "ar": "أصاب ساقه أثناء لعب كرة القدم."
+        }
+      ],
+      "ipa": "/ˈɪndʒə(r)/"
     },
     {
       "id": "w_b1_injured",
@@ -216,6 +218,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_intention",
+      "lessonId": "lsn_b1_i_2",
+      "en": "intention",
+      "ar": "نية / قصد",
+      "translation": "نية / قصد",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I have no intention of changing my mind.",
+          "ar": "ليس لدي نية لتغيير رأيي."
+        }
+      ],
+      "ipa": "/ɪnˈtenʃn/"
+    },
+    {
       "id": "w_b1_intentions",
       "en": "intentions",
       "ar": "نوايا",
@@ -238,6 +263,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_invest",
+      "lessonId": "lsn_b1_i_2",
+      "en": "invest",
+      "ar": "يستثمر",
+      "translation": "يستثمر",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You should invest some money for the future.",
+          "ar": "يجب عليك استثمار بعض المال من أجل المستقبل."
+        }
+      ],
+      "ipa": "/ɪnˈvest/"
+    },
+    {
       "id": "w_b1_invested",
       "en": "invested",
       "ar": "استثمر",
@@ -258,6 +306,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_investigate",
+      "lessonId": "lsn_b1_i_2",
+      "en": "investigate",
+      "ar": "يحقق في / يبحث",
+      "translation": "يحقق في / يبحث",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The police are investigating the cause of the fire.",
+          "ar": "تحقق الشرطة في سبب الحريق."
+        }
+      ],
+      "ipa": "/ɪnˈvestɪɡeɪt/"
     },
     {
       "id": "w_b1_investigating",
@@ -332,6 +403,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_issue",
+      "lessonId": "lsn_b1_i_2",
+      "en": "issue",
+      "ar": "قضية / مسألة / يصدر",
+      "translation": "قضية / مسألة / يصدر",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Climate change is a global issue.",
+          "ar": "تغير المناخ قضية عالمية."
+        }
+      ],
+      "ipa": "/ˈɪʃuː/"
     },
     {
       "id": "w_b1_issues",

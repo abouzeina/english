@@ -4,7 +4,7 @@
   "title": "Unit 26: N Words",
   "slug": "n-words",
   "order": 26,
-  "wordCount": 16,
+  "wordCount": 17,
   "titleAr": "الوحدة 26: كلمات حرف N",
   "description": "Master essential A2 vocabulary starting with the letter N.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف N.",
@@ -168,6 +168,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_network",
+      "lessonId": "lsn_a2_n",
+      "en": "network",
+      "ar": "شبكة",
+      "translation": "شبكة",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The social network has millions of users.",
+          "ar": "الشبكة الاجتماعية لديها ملايين المستخدمين."
+        }
+      ],
+      "ipa": "/ˈnetwɜːk/"
     },
     {
       "id": "w_a2_noise",

@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_m_1",
   "levelId": "lvl_a1",
-  "title": "Unit 24: M Words - Part 1",
+  "title": "Unit 26: M Words - Part 1",
   "slug": "m-words-1",
-  "order": 24,
-  "wordCount": 18,
-  "titleAr": "الوحدة 24: كلمات حرف M - الجزء 1",
+  "order": 26,
+  "wordCount": 19,
+  "titleAr": "الوحدة 26: كلمات حرف M - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter M.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف M.",
   "words": [
@@ -30,6 +30,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_magazine",
+      "lessonId": "lsn_a1_m_1",
+      "en": "magazine",
+      "ar": "مجلة",
+      "translation": "مجلة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She likes reading fashion magazines.",
+          "ar": "تحب قراءة مجلات الموضة."
+        }
+      ],
+      "ipa": "/ˌmæɡəˈziːn/"
     },
     {
       "id": "w_a1_magazines",

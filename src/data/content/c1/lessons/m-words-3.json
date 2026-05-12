@@ -1,36 +1,14 @@
 {
   "id": "lsn_c1_m_3",
   "levelId": "lvl_c1",
-  "title": "Unit 25: M Words - Part 3",
+  "title": "Unit 42: M Words - Part 3",
   "slug": "m-words-3",
-  "order": 25,
+  "order": 42,
   "wordCount": 21,
-  "titleAr": "الوحدة 25: كلمات حرف M - الجزء 3",
+  "titleAr": "الوحدة 42: كلمات حرف M - الجزء 3",
   "description": "Master essential C1 vocabulary starting with the letter M.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف M.",
   "words": [
-    {
-      "id": "w_c1_mill",
-      "en": "mill",
-      "ar": "مطحنة / مصنع",
-      "lessonId": "lsn_c1_m_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يُرسل الحبوب إلى المطحنة ليُطحن ويُحول إلى دقيق",
-          "ar": "He worked in a paper mill for twenty years."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/mɪl/"
-    },
     {
       "id": "w_c1_minimal",
       "en": "minimal",
@@ -96,6 +74,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_ministry",
+      "lessonId": "lsn_c1_m_3",
+      "en": "ministry",
+      "ar": "وزارة / مهنة القسيس",
+      "translation": "وزارة / مهنة القسيس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He works in the Ministry of Foreign Affairs.",
+          "ar": "يعمل في وزارة الشؤون الخارجية."
+        }
+      ],
+      "ipa": "/ˈmɪnɪstri/"
     },
     {
       "id": "w_c1_miracle",

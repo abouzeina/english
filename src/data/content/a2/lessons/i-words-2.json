@@ -4,7 +4,7 @@
   "title": "Unit 19: I Words - Part 2",
   "slug": "i-words-2",
   "order": 19,
-  "wordCount": 15,
+  "wordCount": 16,
   "titleAr": "الوحدة 19: كلمات حرف I - الجزء 2",
   "description": "Master essential A2 vocabulary starting with the letter I.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف I.",
@@ -302,6 +302,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_involve",
+      "lessonId": "lsn_a2_i_2",
+      "en": "involve",
+      "ar": "يتضمن / يشرك / يورط",
+      "translation": "يتضمن / يشرك / يورط",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The project involves a lot of hard work.",
+          "ar": "يتضمن المشروع الكثير من العمل الشاق."
+        }
+      ],
+      "ipa": "/ɪnˈvɒlv/"
     },
     {
       "id": "w_a2_item",

@@ -1,14 +1,312 @@
 {
   "id": "lsn_a1_t_3",
   "levelId": "lvl_a1",
-  "title": "Unit 43: T Words - Part 3",
+  "title": "Unit 45: T Words - Part 3",
   "slug": "t-words-3",
-  "order": 43,
-  "wordCount": 23,
-  "titleAr": "الوحدة 43: كلمات حرف T - الجزء 3",
+  "order": 45,
+  "wordCount": 20,
+  "titleAr": "الوحدة 45: كلمات حرف T - الجزء 3",
   "description": "Master essential A1 vocabulary starting with the letter T.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف T.",
   "words": [
+    {
+      "id": "w_a1_three",
+      "lessonId": "lsn_a1_t_3",
+      "en": "three",
+      "translation": "ثلاثة",
+      "ar": "ثلاثة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We will meet in three days.",
+          "ar": "سنلتقي بعد ثلاثة أيام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/θɹiː/"
+    },
+    {
+      "id": "w_a1_through",
+      "lessonId": "lsn_a1_t_3",
+      "en": "through",
+      "translation": "عبر / خلال",
+      "ar": "عبر / خلال",
+      "pronunciation": "/eru/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Look through the window.",
+          "ar": "انظر عبر النافذة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_thursday",
+      "lessonId": "lsn_a1_t_3",
+      "en": "Thursday",
+      "translation": "يوم الخميس",
+      "ar": "يوم الخميس",
+      "pronunciation": "/ 03rz der/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Thursday is my favorite day.",
+          "ar": "الخميس هو يومي المفضل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ticket",
+      "lessonId": "lsn_a1_t_3",
+      "en": "ticket",
+      "translation": "تذكرة",
+      "ar": "تذكرة",
+      "pronunciation": "/'tık-It/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Did you buy the bus ticket?",
+          "ar": "هل اشتريت تذكرة الحافلة؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_time",
+      "lessonId": "lsn_a1_t_3",
+      "en": "time",
+      "translation": "وقت / مرة",
+      "ar": "وقت / مرة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It's time to go home.",
+          "ar": "حان وقت العودة إلى المنزل."
+        },
+        {
+          "en": "This is my first time here.",
+          "ar": "هذه هي المرة الأولى لي هنا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tɑem/"
+    },
+    {
+      "id": "w_a1_tired",
+      "lessonId": "lsn_a1_t_3",
+      "en": "tired",
+      "translation": "متعب",
+      "ar": "متعب",
+      "pronunciation": "/torǝrd/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I feel very tired.",
+          "ar": "أشعر بالتعب الشديد."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_title",
+      "lessonId": "lsn_a1_t_3",
+      "en": "title",
+      "translation": "عنوان / اسم",
+      "ar": "عنوان / اسم",
+      "pronunciation": "/'tar təl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "What's the title of this book?",
+          "ar": "ما هو اسم هذا الكتاب؟"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_to",
+      "lessonId": "lsn_a1_t_3",
+      "en": "to",
+      "translation": "إلى / أن / على",
+      "ar": "إلى / أن / على",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She went to the park.",
+          "ar": "ذهبت إلى الحديقة."
+        },
+        {
+          "en": "I want to sleep early.",
+          "ar": "أريد أن أنام مبكراً."
+        },
+        {
+          "en": "I prefer tea to coffee.",
+          "ar": "أفضل الشاي على القهوة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tʉː/"
+    },
+    {
+      "id": "w_a1_today",
+      "lessonId": "lsn_a1_t_3",
+      "en": "today",
+      "translation": "اليوم",
+      "ar": "اليوم",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Today is a beautiful day.",
+          "ar": "اليوم هو يوم جميل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/təˈdeɪ/"
+    },
+    {
+      "id": "w_a1_together",
+      "lessonId": "lsn_a1_t_3",
+      "en": "together",
+      "translation": "معاً",
+      "ar": "معاً",
+      "pronunciation": "/tə gedər/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Let's study together for the test.",
+          "ar": "دعنا ندرس سوياً للاختبار."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_toilet",
+      "lessonId": "lsn_a1_t_3",
+      "en": "toilet",
+      "translation": "مرحاض",
+      "ar": "مرحاض",
+      "pronunciation": "/'tor lit/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The toilet is very clean.",
+          "ar": "المرحاض نظيف للغاية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_tomato",
+      "lessonId": "lsn_a1_t_3",
+      "en": "tomato",
+      "translation": "طماطم",
+      "ar": "طماطم",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Tomato is my favorite vegetable.",
+          "ar": "الطماطم هي الخضروات المفضلة لدي."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[tʰə̥ˈmɐːtʰɐʉ]/"
+    },
+    {
+      "id": "w_a1_tomorrow",
+      "lessonId": "lsn_a1_t_3",
+      "en": "tomorrow",
+      "translation": "غداً",
+      "ar": "غداً",
+      "type": "word",
+      "examples": [
+        {
+          "en": "See you again tomorrow.",
+          "ar": "أراك مرة أخرى غداً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/təˈmɔɹoʊ/"
+    },
     {
       "id": "w_a1_tonight",
       "lessonId": "lsn_a1_t_3",
@@ -106,6 +404,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_a1_tourist",
+      "lessonId": "lsn_a1_t_3",
+      "en": "tourist",
+      "ar": "سائح",
+      "translation": "سائح",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The city is full of tourists in the summer.",
+          "ar": "المدينة مليئة بالسياح في الصيف."
+        }
+      ],
+      "ipa": "/ˈtʊərɪst/"
+    },
+    {
       "id": "w_a1_tourists",
       "lessonId": "lsn_a1_t_3",
       "en": "tourists",
@@ -148,401 +469,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/taʊn/"
-    },
-    {
-      "id": "w_a1_traffic_light",
-      "lessonId": "lsn_a1_t_3",
-      "en": "traffic light",
-      "translation": "إشارة المرور",
-      "ar": "إشارة المرور",
-      "pronunciation": "/'træf ik/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The traffic light turned red.",
-          "ar": "تحولت إشارة المرور إلى اللون الأحمر."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_train",
-      "lessonId": "lsn_a1_t_3",
-      "en": "train",
-      "translation": "قطار",
-      "ar": "قطار",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The train arrived late.",
-          "ar": "وصل القطار متأخراً."
-        },
-        {
-          "en": "The team trained hard.",
-          "ar": "الفريق تدرب بجد."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core",
-        "A2"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/tɹeɪn/"
-    },
-    {
-      "id": "w_a1_travel",
-      "lessonId": "lsn_a1_t_3",
-      "en": "travel",
-      "translation": "يسافر / سفريات",
-      "ar": "يسافر / سفريات",
-      "type": "word",
-      "examples": [
-        {
-          "en": "We will travel next summer.",
-          "ar": "سوف نسافر في الصيف المقبل."
-        },
-        {
-          "en": "Tell me about your travels.",
-          "ar": "أخبرني عن سفرياتك."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈtɹævəl/"
-    },
-    {
-      "id": "w_a1_trees",
-      "lessonId": "lsn_a1_t_3",
-      "en": "trees",
-      "translation": "أشجار",
-      "ar": "أشجار",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Let's sit under the trees.",
-          "ar": "لنجلس تحت الأشجار."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/tɹiːz/"
-    },
-    {
-      "id": "w_a1_trip",
-      "lessonId": "lsn_a1_t_3",
-      "en": "trip",
-      "translation": "رحلة",
-      "ar": "رحلة",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I'm going on a trip.",
-          "ar": "أنا ذاهب في رحلة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/tɹɪp/"
-    },
-    {
-      "id": "w_a1_trousers",
-      "lessonId": "lsn_a1_t_3",
-      "en": "trousers",
-      "translation": "بنطال",
-      "ar": "بنطال",
-      "pronunciation": "/'trau zərz/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Your trousers look really nice.",
-          "ar": "بنطالك يبدو أنيقاً جداً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_true",
-      "lessonId": "lsn_a1_t_3",
-      "en": "true",
-      "translation": "صحيح / حقيقي",
-      "ar": "صحيح / حقيقي",
-      "pronunciation": "/tru/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "She gave a true answer.",
-          "ar": "لقد أعطت إجابة صحيحة."
-        },
-        {
-          "en": "This is a true story.",
-          "ar": "هذه قصة حقيقية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_try",
-      "lessonId": "lsn_a1_t_3",
-      "en": "try",
-      "translation": "حاول / جرب",
-      "ar": "حاول / جرب",
-      "pronunciation": "/trai/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Try again later.",
-          "ar": "حاول مرة أخرى لاحقاً."
-        },
-        {
-          "en": "Try this pen it writes well.",
-          "ar": "جرب هذا القلم؛ إنه يكتب بشكل جيد."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_tuesday",
-      "lessonId": "lsn_a1_t_3",
-      "en": "Tuesday",
-      "translation": "يوم الثلاثاء",
-      "ar": "يوم الثلاثاء",
-      "pronunciation": "/'tuz der/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Tuesday is a busy day for me.",
-          "ar": "الثلاثاء هو يوم مزدحم بالنسبة لي."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_turn",
-      "lessonId": "lsn_a1_t_3",
-      "en": "turn",
-      "translation": "استدار / دور",
-      "ar": "استدار / دور",
-      "type": "word",
-      "examples": [
-        {
-          "en": "He turned and walked away.",
-          "ar": "لقد استدار ومشى بعيداً."
-        },
-        {
-          "en": "It's your turn to speak.",
-          "ar": "حان دورك للتحدث."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/tɜːn/"
-    },
-    {
-      "id": "w_a1_tv",
-      "lessonId": "lsn_a1_t_3",
-      "en": "TV",
-      "translation": "تلفاز",
-      "ar": "تلفاز",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I don't watch TV these days.",
-          "ar": "لا أشاهد التلفاز هذه الأيام."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_twelve",
-      "lessonId": "lsn_a1_t_3",
-      "en": "twelve",
-      "translation": "اثنتي عشرة",
-      "ar": "اثنتي عشرة",
-      "pronunciation": "/twelv/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "She bought twelve oranges.",
-          "ar": "لقد اشترت اثنتي عشرة برتقالة."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_twenty_five",
-      "lessonId": "lsn_a1_t_3",
-      "en": "twenty-five",
-      "translation": "خمسة وعشرون",
-      "ar": "خمسة وعشرون",
-      "pronunciation": "",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I have twenty-five riyals.",
-          "ar": "لدي خمسة وعشرون ريالاً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_twice",
-      "lessonId": "lsn_a1_t_3",
-      "en": "twice",
-      "translation": "مرتين",
-      "ar": "مرتين",
-      "pronunciation": "/twars/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I visited them twice.",
-          "ar": "قمت بزيارتهم مرتين."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_two",
-      "lessonId": "lsn_a1_t_3",
-      "en": "two",
-      "translation": "اثنان",
-      "ar": "اثنان",
-      "type": "word",
-      "examples": [
-        {
-          "en": "They need two more chairs.",
-          "ar": "يحتاجون إلى كرسيين إضافيين."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/tuː/"
-    },
-    {
-      "id": "w_b1_type",
-      "en": "Type",
-      "ar": "اكتب (يدخل بيانات)",
-      "pronunciation": "",
-      "lessonId": "lsn_a1_t_3",
-      "levelId": "lvl_a1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Type your email and press enter.",
-          "ar": "اكتب بريدك الإلكتروني واضغط على إدخال."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_a1_types",
-      "lessonId": "lsn_a1_t_3",
-      "en": "types",
-      "translation": "أنواع",
-      "ar": "أنواع",
-      "pronunciation": "/tarp/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I like these types of games.",
-          "ar": "أحب هذه الأنواع من الألعاب."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
     }
   ]
 }

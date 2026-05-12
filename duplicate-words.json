@@ -1,37 +1,5 @@
 [
   {
-    "word": "address",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "after",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "all",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "any",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
     "word": "arm",
     "count": 2,
     "levels": [
@@ -40,1061 +8,15 @@
     ]
   },
   {
-    "word": "as",
+    "word": "assistant",
     "count": 2,
     "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "back",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "before",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "best",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "better",
-    "count": 3,
-    "levels": [
-      "A1",
       "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "between",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "bill",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "book",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "but",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "by",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "can",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "chair",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "chart",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "cheap",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "check",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "climb",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "close",
-    "count": 4,
-    "levels": [
-      "A1",
-      "A2",
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "cook",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "cool",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "cream",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "cut",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "dark",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "dear",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "detail",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "downstairs",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "drive",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "even",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "extra",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "fall",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "far",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "farm",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "fat",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "film",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "final",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "fine",
-    "count": 2,
-    "levels": [
-      "A1",
       "C1"
     ]
   },
   {
-    "word": "finish",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "first",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "fish",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "flat",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "fly",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "free",
-    "count": 3,
-    "levels": [
-      "A1",
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "fun",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "future",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "go",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "good",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "hello",
-    "count": 2,
-    "levels": [
-      "A1"
-    ]
-  },
-  {
-    "word": "name",
-    "count": 2,
-    "levels": [
-      "A1"
-    ]
-  },
-  {
-    "word": "half",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "hate",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "high",
-    "count": 3,
-    "levels": [
-      "A1",
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "his",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "home",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "hope",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "include",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "IT",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "present",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "price",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "program",
-    "count": 4,
-    "levels": [
-      "A1",
-      "A2",
-      "B1",
-      "C1"
-    ]
-  },
-  {
-    "word": "project",
-    "count": 3,
-    "levels": [
-      "A1",
-      "B2",
-      "C1"
-    ]
-  },
-  {
-    "word": "just",
-    "count": 2,
-    "levels": [
-      "A1",
-      "C1"
-    ]
-  },
-  {
-    "word": "Key",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "kind",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "land",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "last",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "later",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "leave",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "lie",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "light",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "little",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "look",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "make",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "march",
-    "count": 2,
-    "levels": [
-      "A1",
-      "C1"
-    ]
-  },
-  {
-    "word": "market",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "may",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "model",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "move",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "need",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "negative",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "next",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "note",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "number",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "object",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "once",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "outside",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "own",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "past",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "pay",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "photograph",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "picture",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "please",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "question",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "repeat",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "report",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "ride",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "routine",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "run",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "say",
-    "count": 2,
-    "levels": [
-      "A1",
-      "C1"
-    ]
-  },
-  {
-    "word": "second",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "sentence",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "share",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "sleep",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "sound",
-    "count": 2,
-    "levels": [
-      "A1",
-      "C1"
-    ]
-  },
-  {
-    "word": "spell",
-    "count": 2,
-    "levels": [
-      "A1",
-      "C1"
-    ]
-  },
-  {
-    "word": "spring",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "star",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "stay",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "still",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "subject",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "swim",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "talk",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "teenager",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "text",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "that",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "third",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "train",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "upstairs",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "use",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "very",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "wait",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "warm",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "wash",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "water",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "way",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "welcome",
-    "count": 2,
-    "levels": [
-      "A1",
-      "A2"
-    ]
-  },
-  {
-    "word": "well",
-    "count": 2,
-    "levels": [
-      "A1",
-      "C1"
-    ]
-  },
-  {
-    "word": "will",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "win",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "wrong",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B2"
-    ]
-  },
-  {
-    "word": "young",
-    "count": 2,
-    "levels": [
-      "A1",
-      "B1"
-    ]
-  },
-  {
-    "word": "act",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "alternative",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "amount",
+    "word": "bar",
     "count": 2,
     "levels": [
       "A2",
@@ -1102,19 +24,19 @@
     ]
   },
   {
-    "word": "average",
+    "word": "bear",
     "count": 2,
     "levels": [
       "A2",
-      "B1"
+      "B2"
     ]
   },
   {
-    "word": "base",
+    "word": "beat",
     "count": 2,
     "levels": [
       "A2",
-      "B1"
+      "B2"
     ]
   },
   {
@@ -1122,7 +44,7 @@
     "count": 2,
     "levels": [
       "A2",
-      "B1"
+      "C1"
     ]
   },
   {
@@ -1130,608 +52,11 @@
     "count": 2,
     "levels": [
       "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "burn",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "catch",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "clear",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "comment",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "count",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "cover",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "credit",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "daily",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "deep",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "direct",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "document",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "double",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "drop",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "except",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "fear",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "fit",
-    "count": 2,
-    "levels": [
-      "A2",
       "C1"
     ]
   },
   {
-    "word": "fix",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "following",
-    "count": 3,
-    "levels": [
-      "A2",
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "Forward",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "further",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "hold",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "hurt",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "involved",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "knock",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "law",
-    "count": 2,
-    "levels": [
-      "A2",
-      "C1"
-    ]
-  },
-  {
-    "word": "lead",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "level",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "material",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "mention",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "mine",
-    "count": 3,
-    "levels": [
-      "A2",
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "musical",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "narrow",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "neither",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "normal",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "novel",
-    "count": 2,
-    "levels": [
-      "A2",
-      "C1"
-    ]
-  },
-  {
-    "word": "original",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "pack",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "patient",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "pick",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "pop",
-    "count": 2,
-    "levels": [
-      "A2",
-      "C1"
-    ]
-  },
-  {
-    "word": "power",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "print",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "process",
-    "count": 3,
-    "levels": [
-      "A2",
-      "B2",
-      "C1"
-    ]
-  },
-  {
-    "word": "produce",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "professional",
-    "count": 2,
-    "levels": [
-      "A2",
-      "C1"
-    ]
-  },
-  {
-    "word": "profile",
-    "count": 2,
-    "levels": [
-      "A2",
-      "C1"
-    ]
-  },
-  {
-    "word": "progress",
-    "count": 3,
-    "levels": [
-      "A2",
-      "B2",
-      "C1"
-    ]
-  },
-  {
-    "word": "publish",
-    "count": 2,
-    "levels": [
-      "A2",
-      "C1"
-    ]
-  },
-  {
-    "word": "pull",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "rise",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "round",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "sail",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "schedule",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "screen",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "seat",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "sense",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "shake",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "shape",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "since",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "Sort",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "state",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "store",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "suit",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "survey",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "top",
-    "count": 2,
-    "levels": [
-      "A2",
-      "C1"
-    ]
-  },
-  {
-    "word": "touch",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "used to",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "view",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "while",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "whole",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "worry",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "worse",
-    "count": 3,
-    "levels": [
-      "A2",
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "worst",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B1"
-    ]
-  },
-  {
-    "word": "yet",
-    "count": 2,
-    "levels": [
-      "A2",
-      "B2"
-    ]
-  },
-  {
-    "word": "academic",
+    "word": "battle",
     "count": 2,
     "levels": [
       "B1",
@@ -1739,247 +64,7 @@
     ]
   },
   {
-    "word": "account",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "alarm",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "border",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "chain",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "challenge",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "complex",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "current",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "disappointed",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "discount",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "hire",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "hunt",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "latest",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "medium",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "net",
-    "count": 2,
-    "levels": [
-      "B1",
-      "C1"
-    ]
-  },
-  {
-    "word": "official",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "passion",
-    "count": 2,
-    "levels": [
-      "B1",
-      "C1"
-    ]
-  },
-  {
-    "word": "plot",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "plus",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "pointed",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "primary",
-    "count": 2,
-    "levels": [
-      "B1",
-      "C1"
-    ]
-  },
-  {
-    "word": "profit",
-    "count": 2,
-    "levels": [
-      "B1",
-      "C1"
-    ]
-  },
-  {
-    "word": "promote",
-    "count": 2,
-    "levels": [
-      "B1",
-      "C1"
-    ]
-  },
-  {
-    "word": "protest",
-    "count": 2,
-    "levels": [
-      "B1",
-      "C1"
-    ]
-  },
-  {
-    "word": "sample",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "shift",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "shooting",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "spread",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "total",
-    "count": 2,
-    "levels": [
-      "B1",
-      "C1"
-    ]
-  },
-  {
-    "word": "value",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "worth",
-    "count": 2,
-    "levels": [
-      "B1",
-      "B2"
-    ]
-  },
-  {
-    "word": "acid",
+    "word": "accent",
     "count": 2,
     "levels": [
       "B2",
@@ -1987,7 +72,7 @@
     ]
   },
   {
-    "word": "alien",
+    "word": "accomplish",
     "count": 2,
     "levels": [
       "B2",
@@ -1995,7 +80,7 @@
     ]
   },
   {
-    "word": "dynamic",
+    "word": "activate",
     "count": 2,
     "levels": [
       "B2",
@@ -2003,7 +88,7 @@
     ]
   },
   {
-    "word": "exit",
+    "word": "adjust",
     "count": 2,
     "levels": [
       "B2",
@@ -2011,7 +96,7 @@
     ]
   },
   {
-    "word": "extract",
+    "word": "agriculture",
     "count": 2,
     "levels": [
       "B2",
@@ -2019,7 +104,7 @@
     ]
   },
   {
-    "word": "license",
+    "word": "alongside",
     "count": 2,
     "levels": [
       "B2",
@@ -2027,7 +112,7 @@
     ]
   },
   {
-    "word": "obesity",
+    "word": "altogether",
     "count": 2,
     "levels": [
       "B2",
@@ -2035,7 +120,7 @@
     ]
   },
   {
-    "word": "obstacle",
+    "word": "ancestor",
     "count": 2,
     "levels": [
       "B2",
@@ -2043,7 +128,7 @@
     ]
   },
   {
-    "word": "operator",
+    "word": "animation",
     "count": 2,
     "levels": [
       "B2",
@@ -2051,7 +136,7 @@
     ]
   },
   {
-    "word": "password",
+    "word": "annually",
     "count": 2,
     "levels": [
       "B2",
@@ -2059,7 +144,7 @@
     ]
   },
   {
-    "word": "perception",
+    "word": "anticipate",
     "count": 2,
     "levels": [
       "B2",
@@ -2067,7 +152,7 @@
     ]
   },
   {
-    "word": "portion",
+    "word": "apology",
     "count": 2,
     "levels": [
       "B2",
@@ -2075,7 +160,7 @@
     ]
   },
   {
-    "word": "potential",
+    "word": "applicant",
     "count": 2,
     "levels": [
       "B2",
@@ -2083,7 +168,7 @@
     ]
   },
   {
-    "word": "precise",
+    "word": "appropriately",
     "count": 2,
     "levels": [
       "B2",
@@ -2091,7 +176,7 @@
     ]
   },
   {
-    "word": "pregnant",
+    "word": "asset",
     "count": 2,
     "levels": [
       "B2",
@@ -2099,7 +184,7 @@
     ]
   },
   {
-    "word": "principal",
+    "word": "assumption",
     "count": 2,
     "levels": [
       "B2",
@@ -2107,7 +192,7 @@
     ]
   },
   {
-    "word": "proceed",
+    "word": "assure",
     "count": 2,
     "levels": [
       "B2",
@@ -2115,7 +200,7 @@
     ]
   },
   {
-    "word": "prompt",
+    "word": "astonishing",
     "count": 2,
     "levels": [
       "B2",
@@ -2123,7 +208,7 @@
     ]
   },
   {
-    "word": "proof",
+    "word": "attachment",
     "count": 2,
     "levels": [
       "B2",
@@ -2131,7 +216,7 @@
     ]
   },
   {
-    "word": "proportion",
+    "word": "auction",
     "count": 2,
     "levels": [
       "B2",
@@ -2139,7 +224,7 @@
     ]
   },
   {
-    "word": "proposal",
+    "word": "audio",
     "count": 2,
     "levels": [
       "B2",
@@ -2147,7 +232,7 @@
     ]
   },
   {
-    "word": "prospect",
+    "word": "badge",
     "count": 2,
     "levels": [
       "B2",
@@ -2155,7 +240,7 @@
     ]
   },
   {
-    "word": "protection",
+    "word": "barely",
     "count": 2,
     "levels": [
       "B2",
@@ -2163,7 +248,7 @@
     ]
   },
   {
-    "word": "protein",
+    "word": "barrier",
     "count": 2,
     "levels": [
       "B2",
@@ -2171,7 +256,7 @@
     ]
   },
   {
-    "word": "publicity",
+    "word": "basement",
     "count": 2,
     "levels": [
       "B2",
@@ -2179,7 +264,7 @@
     ]
   },
   {
-    "word": "purchase",
+    "word": "basket",
     "count": 2,
     "levels": [
       "B2",
@@ -2187,7 +272,7 @@
     ]
   },
   {
-    "word": "pure",
+    "word": "bat",
     "count": 2,
     "levels": [
       "B2",
@@ -2195,7 +280,7 @@
     ]
   },
   {
-    "word": "pursuit",
+    "word": "beneficial",
     "count": 2,
     "levels": [
       "B2",
@@ -2203,7 +288,7 @@
     ]
   },
   {
-    "word": "puzzle",
+    "word": "bent",
     "count": 2,
     "levels": [
       "B2",
@@ -2211,7 +296,7 @@
     ]
   },
   {
-    "word": "recognition",
+    "word": "beside",
     "count": 2,
     "levels": [
       "B2",
@@ -2219,7 +304,7 @@
     ]
   },
   {
-    "word": "spare",
+    "word": "besides",
     "count": 2,
     "levels": [
       "B2",
@@ -2227,7 +312,7 @@
     ]
   },
   {
-    "word": "usage",
+    "word": "bias",
     "count": 2,
     "levels": [
       "B2",
@@ -2235,7 +320,7 @@
     ]
   },
   {
-    "word": "whoever",
+    "word": "bid",
     "count": 2,
     "levels": [
       "B2",
@@ -2243,7 +328,7 @@
     ]
   },
   {
-    "word": "wisdom",
+    "word": "biological",
     "count": 2,
     "levels": [
       "B2",
@@ -2251,7 +336,7 @@
     ]
   },
   {
-    "word": "workforce",
+    "word": "bold",
     "count": 2,
     "levels": [
       "B2",
@@ -2259,7 +344,327 @@
     ]
   },
   {
-    "word": "workplace",
+    "word": "bombing",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "booking",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "boost",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "bound",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "brick",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "brief",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "briefly",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "broadcaster",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "bug",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "capacity",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "carbon",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "casual",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "cave",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "certainty",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "certificate",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "challenging",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "championship",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "charming",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "chase",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "cheek",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "cheer",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "choir",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "circuit",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "classify",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "cliff",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "comic",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "commander",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "compose",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "composer",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "compound",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "comprehensive",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "comprise",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "compulsory",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "concrete",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "confess",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "confusion",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "conservation",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "considerable",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "considerably",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "consistently",
+    "count": 2,
+    "levels": [
+      "B2",
+      "C1"
+    ]
+  },
+  {
+    "word": "conspiracy",
     "count": 2,
     "levels": [
       "B2",

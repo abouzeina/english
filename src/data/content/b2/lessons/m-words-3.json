@@ -1,14 +1,36 @@
 {
   "id": "lsn_b2_m_3",
   "levelId": "lvl_b2",
-  "title": "Unit 34: M Words - Part 3",
+  "title": "Unit 41: M Words - Part 3",
   "slug": "m-words-3",
-  "order": 34,
-  "wordCount": 20,
-  "titleAr": "الوحدة 34: كلمات حرف M - الجزء 3",
+  "order": 41,
+  "wordCount": 21,
+  "titleAr": "الوحدة 41: كلمات حرف M - الجزء 3",
   "description": "Master essential B2 vocabulary starting with the letter M.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف M.",
   "words": [
+    {
+      "id": "w_b2_modest",
+      "en": "modest",
+      "ar": "متواضعة",
+      "lessonId": "lsn_b2_m_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She has modest ambitions for the future.",
+          "ar": "لديها طموحات متواضعة للمستقبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈmɑdəst/"
+    },
     {
       "id": "w_b2_modify",
       "en": "modify",

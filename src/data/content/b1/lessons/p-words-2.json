@@ -1,14 +1,173 @@
 {
   "id": "lsn_b1_p_2",
   "levelId": "lvl_b1",
-  "title": "Unit 26: P Words - Part 2",
+  "title": "Unit 29: P Words - Part 2",
   "slug": "p-words-2",
-  "order": 26,
-  "wordCount": 23,
-  "titleAr": "الوحدة 26: كلمات حرف P - الجزء 2",
+  "order": 29,
+  "wordCount": 21,
+  "titleAr": "الوحدة 29: كلمات حرف P - الجزء 2",
   "description": "Master essential B1 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف P.",
   "words": [
+    {
+      "id": "w_b1_pin",
+      "en": "pin",
+      "ar": "دبوس / يثبت",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Sami wears a silver pin on his coat.",
+          "ar": "سامي يرتدي دبوسًا فضيا في معطفه."
+        },
+        {
+          "en": "Pin the map to the wall.",
+          "ar": "ثبت الخريطة على الحائط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pipe",
+      "lessonId": "lsn_b1_p_2",
+      "en": "pipe",
+      "ar": "أنبوب / غليون",
+      "translation": "أنبوب / غليون",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The water is leaking from a broken pipe.",
+          "ar": "الماء يتسرب من أنبوب مكسور."
+        }
+      ],
+      "ipa": "/paɪp/"
+    },
+    {
+      "id": "w_b1_pipes",
+      "en": "pipes",
+      "ar": "أنابيب",
+      "pronunciation": "/paxp/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "My task today is to fix the pipes.",
+          "ar": "مهمتي اليوم هي إصلاح الأنابيب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_placed",
+      "en": "placed",
+      "ar": "وضع",
+      "pronunciation": "/plers/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He placed his hand on my shoulder.",
+          "ar": "وضع يده على كتفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_planning",
+      "en": "planning",
+      "ar": "تخطيط",
+      "pronunciation": "/'plez.0/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Each department has its own planning process.",
+          "ar": "كل قسم له عملية التخطيط الخاصة به."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pleasant",
+      "en": "pleasant",
+      "ar": "سارة",
+      "pronunciation": "/'plez.ent/",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What a pleasant surprise!!",
+          "ar": "يا لها من مفاجئة سارة !!"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_pleasure",
+      "en": "pleasure",
+      "ar": "سرور",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I read this novel with pleasure.",
+          "ar": "قرأت هذه الرواية بسرور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_b1_plenty",
       "en": "plenty",
@@ -30,6 +189,52 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_plot",
+      "lessonId": "lsn_b1_p_2",
+      "en": "plot",
+      "ar": "حبكة / قطعة أرض / مؤامرة",
+      "translation": "حبكة / قطعة أرض / مؤامرة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The movie has a very complex plot.",
+          "ar": "للفيلم حبكة معقدة للغاية."
+        }
+      ],
+      "ipa": "/plɒt/"
+    },
+    {
+      "id": "w_b1_poem",
+      "lessonId": "lsn_b1_p_2",
+      "en": "poem",
+      "ar": "قصيدة",
+      "translation": "قصيدة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She wrote a beautiful poem about nature.",
+          "ar": "كتبت قصيدة جميلة عن الطبيعة."
+        }
+      ],
+      "ipa": "/ˈpəʊɪm/"
     },
     {
       "id": "w_b1_poems",
@@ -128,6 +333,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_poisonous",
+      "lessonId": "lsn_b1_p_2",
+      "en": "poisonous",
+      "ar": "سام",
+      "translation": "سام",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Some mushrooms are highly poisonous.",
+          "ar": "بعض أنواع الفطر سامة للغاية."
+        }
+      ],
+      "ipa": "/ˈpɔɪzənəs/"
+    },
+    {
       "id": "w_b1_policy",
       "en": "policy",
       "ar": "سياسة (شركة أو منظمة)",
@@ -170,6 +398,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_politician",
+      "lessonId": "lsn_b1_p_2",
+      "en": "politician",
+      "ar": "سياسي",
+      "translation": "سياسي",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The politician gave a speech about the economy.",
+          "ar": "ألقى السياسي خطاباً عن الاقتصاد."
+        }
+      ],
+      "ipa": "/ˌpɒləˈtɪʃn/"
     },
     {
       "id": "w_b1_politicians",
@@ -227,300 +478,6 @@
         {
           "en": "Our ship reached the port of Alexandria.",
           "ar": "سفينتنا وصلت إلى ميناء الإسكندرية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_portrait",
-      "en": "portrait",
-      "ar": "صورة مرسومة",
-      "pronunciation": "/'pɔ:r.trxt/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He is pleased with his new portrait.",
-          "ar": "إنه مسرور بصورته المرسومة الجديدة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_possibly",
-      "en": "possibly",
-      "ar": "ربما",
-      "pronunciation": "/'pa:.sə.bli/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "His father died, possibly due to a heart attack.",
-          "ar": "والده توفي، ربما بسبب نوبة قلبية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_pot",
-      "en": "pot",
-      "ar": "قدر طبخ",
-      "pronunciation": "/pa:t/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "We need a large cooking pot.",
-          "ar": "نحتاج قدر طبخ كبير."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_pour",
-      "en": "Pour",
-      "ar": "اسكب",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Pour the boiled water into the bowl.",
-          "ar": "اسكب الماء المغلي في الوعاء."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_poverty",
-      "en": "poverty",
-      "ar": "فقر",
-      "pronunciation": "/'pa:.va.ti/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "How can we reduce poverty in our community?",
-          "ar": "كيف يمكننا الحد من الفقر في مجتمعنا ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_powder",
-      "en": "powder",
-      "ar": "مسحوق / مجفف",
-      "pronunciation": "/'pau.de-/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Don't add sauce with milk powder.",
-          "ar": "لا تضيفي الصلصة مع مسحوق الحليب."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_powerful",
-      "en": "powerful",
-      "ar": "قوية",
-      "pronunciation": "/'pau.ə.fǝl/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "It is a powerful organization.",
-          "ar": "إنها منظمة قوية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_practical",
-      "en": "practical",
-      "ar": "عملية (تجربة)",
-      "pronunciation": "/'præk.tı.kəl/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Do you have practical experience in marketing?",
-          "ar": "هل لديك خبرة عملية في التسويق ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_prayed",
-      "en": "prayed",
-      "ar": "دعوت / صلى",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I prayed to God for her.",
-          "ar": "دعوت الله لها."
-        },
-        {
-          "en": "Did you attend Friday prayers?",
-          "ar": "هل حضرت صلاة الجمعة ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_prediction",
-      "en": "prediction",
-      "ar": "توقع",
-      "pronunciation": "/prı'dık.jən/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Our prediction that the economy will grow slowly.",
-          "ar": "توقعنا أن الاقتصاد سينمو ببطء."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_prepared",
-      "en": "prepared",
-      "ar": "مستعد",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Our society was not prepared for these changes.",
-          "ar": "مجتمعنا لم يكن مستعدا لهذه التغييرات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_presentation",
-      "en": "presentation",
-      "ar": "عرض تقديمي",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He spoke about three solutions in his presentation.",
-          "ar": "تحدث عن ثلاثة حلول في عرضه التقديمي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_press",
-      "en": "Press",
-      "ar": "اضغط / صحافة",
-      "pronunciation": "/pres/",
-      "lessonId": "lsn_b1_p_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Press the button after writing the comment.",
-          "ar": "اضغط على الزر بعد كتابة التعليق."
-        },
-        {
-          "en": "The lecture was reported in the press.",
-          "ar": "نشرت المحاضرة في الصحف."
         }
       ],
       "type": "word",

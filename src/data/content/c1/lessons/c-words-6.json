@@ -1,0 +1,588 @@
+{
+  "id": "lsn_c1_c_6",
+  "levelId": "lvl_c1",
+  "title": "Unit 16: C Words - Part 6",
+  "slug": "c-words-6",
+  "order": 16,
+  "wordCount": 25,
+  "titleAr": "الوحدة 16: كلمات حرف C - الجزء 6",
+  "description": "Master essential C1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_c1_conscience",
+      "lessonId": "lsn_c1_c_6",
+      "en": "conscience",
+      "ar": "ضمير",
+      "translation": "ضمير",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has a clear conscience.",
+          "ar": "لديه ضمير مرتاح."
+        }
+      ],
+      "ipa": "/ˈkɒnʃəns/"
+    },
+    {
+      "id": "w_c1_consciousness",
+      "lessonId": "lsn_c1_c_6",
+      "en": "consciousness",
+      "ar": "وعي / إدراك",
+      "translation": "وعي / إدراك",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He lost consciousness after the fall.",
+          "ar": "فقد وعيه بعد السقوط."
+        }
+      ],
+      "ipa": "/ˈkɒnʃəsnəs/"
+    },
+    {
+      "id": "w_c1_consecutive",
+      "lessonId": "lsn_c1_c_6",
+      "en": "consecutive",
+      "ar": "متتابع / متتالي",
+      "translation": "متتابع / متتالي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It rained for three consecutive days.",
+          "ar": "أمطرت لثلاثة أيام متتالية."
+        }
+      ],
+      "ipa": "/kənˈsekjətɪv/"
+    },
+    {
+      "id": "w_c1_consensus",
+      "lessonId": "lsn_c1_c_6",
+      "en": "consensus",
+      "ar": "إجماع / توافق في الآراء",
+      "translation": "إجماع / توافق في الآراء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a general consensus that the system needs to change.",
+          "ar": "هناك إجماع عام على أن النظام بحاجة للتغيير."
+        }
+      ],
+      "ipa": "/kənˈsensəs/"
+    },
+    {
+      "id": "w_c1_consent",
+      "lessonId": "lsn_c1_c_6",
+      "en": "consent",
+      "ar": "موافقة / يوافق",
+      "translation": "موافقة / يوافق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He signed the form to show his consent.",
+          "ar": "وقع النموذج لإظهار موافقته."
+        }
+      ],
+      "ipa": "/kənˈsent/"
+    },
+    {
+      "id": "w_c1_conservation",
+      "lessonId": "lsn_c1_c_6",
+      "en": "conservation",
+      "ar": "حفظ / صون / حماية البيئة",
+      "translation": "حفظ / صون / حماية البيئة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We must work for the conservation of wildlife.",
+          "ar": "يجب أن نعمل من أجل صون (حماية) الحياة البرية."
+        }
+      ],
+      "ipa": "/ˌkɒnsəˈveɪʃn/"
+    },
+    {
+      "id": "w_c1_conserve",
+      "lessonId": "lsn_c1_c_6",
+      "en": "conserve",
+      "ar": "يحافظ على / يصون",
+      "translation": "يحافظ على / يصون",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need to conserve energy.",
+          "ar": "نحن بحاجة للحفاظ على الطاقة."
+        }
+      ],
+      "ipa": "/kənˈsɜːv/"
+    },
+    {
+      "id": "w_c1_considerable",
+      "lessonId": "lsn_c1_c_6",
+      "en": "considerable",
+      "ar": "كبير / ملحوظ / هام",
+      "translation": "كبير / ملحوظ / هام",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The project cost a considerable amount of money.",
+          "ar": "كلف المشروع مبلغاً كبيراً من المال."
+        }
+      ],
+      "ipa": "/kənˈsɪdərəbl/"
+    },
+    {
+      "id": "w_c1_considerably",
+      "lessonId": "lsn_c1_c_6",
+      "en": "considerably",
+      "ar": "بدرجة كبيرة / ملحوظة",
+      "translation": "بدرجة كبيرة / ملحوظة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The situation has improved considerably.",
+          "ar": "تحسن الوضع بدرجة كبيرة."
+        }
+      ],
+      "ipa": "/kənˈsɪdərəbli/"
+    },
+    {
+      "id": "w_c1_consistency",
+      "lessonId": "lsn_c1_c_6",
+      "en": "consistency",
+      "ar": "ثبات / اتساق / قوام",
+      "translation": "ثبات / اتساق / قوام",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Consistency is the key to success.",
+          "ar": "الثبات (الاتساق) هو مفتاح النجاح."
+        }
+      ],
+      "ipa": "/kənˈsɪstənsi/"
+    },
+    {
+      "id": "w_c1_consistently",
+      "lessonId": "lsn_c1_c_6",
+      "en": "consistently",
+      "ar": "بثبات / بانتظام",
+      "translation": "بثبات / بانتظام",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has consistently performed well throughout the year.",
+          "ar": "لقد أدى بشكل جيد بانتظام طوال العام."
+        }
+      ],
+      "ipa": "/kənˈsɪstəntli/"
+    },
+    {
+      "id": "w_c1_consolidate",
+      "lessonId": "lsn_c1_c_6",
+      "en": "consolidate",
+      "ar": "يوطد / يدمج / يدعم",
+      "translation": "يوطد / يدمج / يدعم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company is trying to consolidate its position in the market.",
+          "ar": "تحاول الشركة توطيد مكانتها في السوق."
+        }
+      ],
+      "ipa": "/kənˈsɒlɪdeɪt/"
+    },
+    {
+      "id": "w_c1_conspiracy",
+      "lessonId": "lsn_c1_c_6",
+      "en": "conspiracy",
+      "ar": "مؤامرة",
+      "translation": "مؤامرة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They were charged with conspiracy to commit murder.",
+          "ar": "وُجهت إليهم تهمة التآمر لارتكاب جريمة قتل."
+        }
+      ],
+      "ipa": "/kənˈspɪrəsi/"
+    },
+    {
+      "id": "w_c1_constituency",
+      "lessonId": "lsn_c1_c_6",
+      "en": "constituency",
+      "ar": "دائرة انتخابية",
+      "translation": "دائرة انتخابية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He represents a rural constituency in the north.",
+          "ar": "هو يمثل دائرة انتخابية ريفية في الشمال."
+        }
+      ],
+      "ipa": "/kənˈstɪtʃuənsi/"
+    },
+    {
+      "id": "w_c1_constituent",
+      "lessonId": "lsn_c1_c_6",
+      "en": "constituent",
+      "ar": "مكون / ناخب",
+      "translation": "مكون / ناخب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Sodium is a constituent of salt.",
+          "ar": "الصوديوم هو أحد مكونات الملح."
+        }
+      ],
+      "ipa": "/kənˈstɪtʃuənt/"
+    },
+    {
+      "id": "w_c1_constitute",
+      "lessonId": "lsn_c1_c_6",
+      "en": "constitute",
+      "ar": "يشكل / يؤسس",
+      "translation": "يشكل / يؤسس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "These activities constitute a threat to national security.",
+          "ar": "تشكل هذه الأنشطة تهديداً للأمن القومي."
+        }
+      ],
+      "ipa": "/ˈkɒnstɪtjuːt/"
+    },
+    {
+      "id": "w_c1_constitution",
+      "lessonId": "lsn_c1_c_6",
+      "en": "constitution",
+      "ar": "دستور / تكوين",
+      "translation": "دستور / تكوين",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country has a written constitution.",
+          "ar": "للدولة دستور مكتوب."
+        }
+      ],
+      "ipa": "/ˌkɒnstɪˈtjuːʃn/"
+    },
+    {
+      "id": "w_c1_constitutional",
+      "lessonId": "lsn_c1_c_6",
+      "en": "constitutional",
+      "ar": "دستوري",
+      "translation": "دستوري",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The new law was declared unconstitutional.",
+          "ar": "أُعلن أن القانون الجديد غير دستوري."
+        }
+      ],
+      "ipa": "/ˌkɒnstɪˈtjuːʃənl/"
+    },
+    {
+      "id": "w_c1_constraint",
+      "lessonId": "lsn_c1_c_6",
+      "en": "constraint",
+      "ar": "قيد / إكراه / عائق",
+      "translation": "قيد / إكراه / عائق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Financial constraints limited the scope of the project.",
+          "ar": "حدت القيود المالية من نطاق المشروع."
+        }
+      ],
+      "ipa": "/kənˈstreɪnt/"
+    },
+    {
+      "id": "w_c1_consultation",
+      "lessonId": "lsn_c1_c_6",
+      "en": "consultation",
+      "ar": "استشارة / مشاورات",
+      "translation": "استشارة / مشاورات",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The decision was made after consultation with experts.",
+          "ar": "اتخذ القرار بعد التشاور مع الخبراء."
+        }
+      ],
+      "ipa": "/ˌkɒnslˈteɪʃn/"
+    },
+    {
+      "id": "w_c1_contemplate",
+      "lessonId": "lsn_c1_c_6",
+      "en": "contemplate",
+      "ar": "يتأمل / يفكر ملياً",
+      "translation": "يتأمل / يفكر ملياً",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She sat for a long time, contemplating her future.",
+          "ar": "جلست لفترة طويلة تتأمل مستقبلها."
+        }
+      ],
+      "ipa": "/ˈkɒntəmpleɪt/"
+    },
+    {
+      "id": "w_c1_contempt",
+      "lessonId": "lsn_c1_c_6",
+      "en": "contempt",
+      "ar": "احتقار / ازدراء",
+      "translation": "احتقار / ازدراء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has a deep contempt for the law.",
+          "ar": "لديه احتقار عميق للقانون."
+        }
+      ],
+      "ipa": "/kənˈtempt/"
+    },
+    {
+      "id": "w_c1_contend",
+      "lessonId": "lsn_c1_c_6",
+      "en": "contend",
+      "ar": "يجادل / ينافس / يصارع",
+      "translation": "يجادل / ينافس / يصارع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She contended that the rules were unfair.",
+          "ar": "جادلت بأن القواعد كانت غير عادلة."
+        }
+      ],
+      "ipa": "/kənˈtend/"
+    },
+    {
+      "id": "w_c1_contender",
+      "lessonId": "lsn_c1_c_6",
+      "en": "contender",
+      "ar": "منافس / متنافس",
+      "translation": "منافس / متنافس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a strong contender for the title.",
+          "ar": "هو منافس قوي على اللقب."
+        }
+      ],
+      "ipa": "/kənˈtendə(r)/"
+    },
+    {
+      "id": "w_c1_contention",
+      "lessonId": "lsn_c1_c_6",
+      "en": "contention",
+      "ar": "نزاع / جدل / ادعاء",
+      "translation": "نزاع / جدل / ادعاء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "This has been a major point of contention.",
+          "ar": "لقد كانت هذه نقطة نزاع رئيسية."
+        }
+      ],
+      "ipa": "/kənˈtenʃn/"
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "id": "lsn_b2_t_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 63: T Words - Part 2",
+  "slug": "t-words-2",
+  "order": 63,
+  "wordCount": 21,
+  "titleAr": "الوحدة 63: كلمات حرف T - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف T.",
+  "words": [
+    {
+      "id": "w_b2_textbook",
+      "lessonId": "lsn_b2_t_2",
+      "en": "textbook",
+      "ar": "كتاب مدرسي",
+      "translation": "كتاب مدرسي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We use this textbook for our English class.",
+          "ar": "نحن نستخدم هذا الكتاب المدرسي لصف اللغة الإنجليزية."
+        }
+      ],
+      "ipa": "/ˈtekstbʊk/"
+    },
+    {
+      "id": "w_b2_theft",
+      "lessonId": "lsn_b2_t_2",
+      "en": "theft",
+      "ar": "سرقة",
+      "translation": "سرقة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was charged with car theft.",
+          "ar": "وُجهت إليه تهمة سرقة سيارة."
+        }
+      ],
+      "ipa": "/θeft/"
+    },
+    {
+      "id": "w_b2_therapist",
+      "lessonId": "lsn_b2_t_2",
+      "en": "therapist",
+      "ar": "معالج",
+      "translation": "معالج",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is seeing a therapist to help with her anxiety.",
+          "ar": "هي تراجع معالجاً لمساعدتها في قلقها."
+        }
+      ],
+      "ipa": "/ˈθerəpɪst/"
+    },
+    {
+      "id": "w_b2_therapy",
+      "lessonId": "lsn_b2_t_2",
+      "en": "therapy",
+      "ar": "علاج",
+      "translation": "علاج",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Physical therapy can help after an injury.",
+          "ar": "يمكن للعلاج الفيزيائي أن يساعد بعد الإصابة."
+        }
+      ],
+      "ipa": "/ˈθerəpi/"
+    },
+    {
+      "id": "w_b2_thesis",
+      "lessonId": "lsn_b2_t_2",
+      "en": "thesis",
+      "ar": "أطروحة / رسالة علمية",
+      "translation": "أطروحة / رسالة علمية",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is writing her doctoral thesis on history.",
+          "ar": "هي تكتب أطروحة الدكتوراه الخاصة بها في التاريخ."
+        }
+      ],
+      "ipa": "/ˈθiːsɪs/"
+    },
+    {
+      "id": "w_b2_thorough",
+      "lessonId": "lsn_b2_t_2",
+      "en": "thorough",
+      "ar": "شامل / دقيق",
+      "translation": "شامل / دقيق",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The police carried out a thorough investigation.",
+          "ar": "أجرت الشرطة تحقيقاً شاملاً."
+        }
+      ],
+      "ipa": "/ˈθʌrə/"
+    },
+    {
+      "id": "w_b2_thoroughly",
+      "lessonId": "lsn_b2_t_2",
+      "en": "thoroughly",
+      "ar": "بشكل كامل / بدقة",
+      "translation": "بشكل كامل / بدقة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Clean the room thoroughly before the guests arrive.",
+          "ar": "نظف الغرفة بدقة قبل وصول الضيوف."
+        }
+      ],
+      "ipa": "/ˈθʌrəli/"
+    },
+    {
+      "id": "w_b2_threat",
+      "lessonId": "lsn_b2_t_2",
+      "en": "threat",
+      "ar": "تهديد",
+      "translation": "تهديد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Global warming is a serious threat to the planet.",
+          "ar": "الاحتباس الحراري تهديد خطير للكوكب."
+        }
+      ],
+      "ipa": "/θret/"
+    },
+    {
+      "id": "w_b2_threaten",
+      "lessonId": "lsn_b2_t_2",
+      "en": "threaten",
+      "ar": "يهدد",
+      "translation": "يهدد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He threatened to call the police.",
+          "ar": "هدد بالاتصال بالشرطة."
+        }
+      ],
+      "ipa": "/ˈθretn/"
+    },
+    {
+      "id": "w_b2_thumb",
+      "lessonId": "lsn_b2_t_2",
+      "en": "thumb",
+      "ar": "إبهام",
+      "translation": "إبهام",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He gave us a thumbs-up sign.",
+          "ar": "أعطانا إشارة الإبهام للأعلى (علامة الموافقة)."
+        }
+      ],
+      "ipa": "/θʌm/"
+    },
+    {
+      "id": "w_b2_thus",
+      "lessonId": "lsn_b2_t_2",
+      "en": "thus",
+      "ar": "وبالتالي / وهكذا",
+      "translation": "وبالتالي / وهكذا",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He failed the test and thus was unable to graduate.",
+          "ar": "فشل في الاختبار وبالتالي لم يتمكن من التخرج."
+        }
+      ],
+      "ipa": "/ðʌs/"
+    },
+    {
+      "id": "w_b2_timing",
+      "lessonId": "lsn_b2_t_2",
+      "en": "timing",
+      "ar": "توقيت",
+      "translation": "توقيت",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The timing of his arrival was perfect.",
+          "ar": "كان توقيت وصوله مثالياً."
+        }
+      ],
+      "ipa": "/ˈtaɪmɪŋ/"
+    },
+    {
+      "id": "w_b2_tissue",
+      "lessonId": "lsn_b2_t_2",
+      "en": "tissue",
+      "ar": "نسيج / منديل ورقي",
+      "translation": "نسيج / منديل ورقي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He wiped his nose with a tissue.",
+          "ar": "مسح أنفه بمنديل ورقي."
+        }
+      ],
+      "ipa": "/ˈtɪʃuː/"
+    },
+    {
+      "id": "w_b2_ton",
+      "lessonId": "lsn_b2_t_2",
+      "en": "ton",
+      "ar": "طن (وحدة وزن)",
+      "translation": "طن (وحدة وزن)",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The elephant weighs several tons.",
+          "ar": "يزن الفيل عدة أطنان."
+        }
+      ],
+      "ipa": "/tʌn/"
+    },
+    {
+      "id": "w_b2_tone",
+      "lessonId": "lsn_b2_t_2",
+      "en": "tone",
+      "ar": "نبرة / نغمة",
+      "translation": "نبرة / نغمة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I didn't like the tone of his voice.",
+          "ar": "لم تعجبني نبرة صوته."
+        }
+      ],
+      "ipa": "/təʊn/"
+    },
+    {
+      "id": "w_b2_tonne",
+      "lessonId": "lsn_b2_t_2",
+      "en": "tonne",
+      "ar": "طن متري",
+      "translation": "طن متري",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They exported 500 tonnes of wheat.",
+          "ar": "صدروا خمسمائة طن من القمح."
+        }
+      ],
+      "ipa": "/tʌn/"
+    },
+    {
+      "id": "w_b2_tough",
+      "lessonId": "lsn_b2_t_2",
+      "en": "tough",
+      "ar": "صعب / قاسٍ / متين",
+      "translation": "صعب / قاسٍ / متين",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It was a very tough decision to make.",
+          "ar": "كان قراراً صعباً للغاية."
+        }
+      ],
+      "ipa": "/tʌf/"
+    },
+    {
+      "id": "w_b2_tournament",
+      "lessonId": "lsn_b2_t_2",
+      "en": "tournament",
+      "ar": "بطولة / دورة رياضة",
+      "translation": "بطولة / دورة رياضة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He won the tennis tournament last year.",
+          "ar": "فاز ببطولة التنس العام الماضي."
+        }
+      ],
+      "ipa": "/ˈtʊənəmənt/"
+    },
+    {
+      "id": "w_c1_trace",
+      "en": "trace",
+      "ar": "أثر / يتتبع",
+      "lessonId": "lsn_b2_t_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "تحاول الشرطة تتبع مصدر المكالمة.",
+          "ar": "There is no trace of the missing person so far."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/tɹeɪs/"
+    },
+    {
+      "id": "w_b2_trading",
+      "lessonId": "lsn_b2_t_2",
+      "en": "trading",
+      "ar": "تجارة / تداول",
+      "translation": "تجارة / تداول",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company is involved in international trading.",
+          "ar": "الشركة منخرطة في التجارة الدولية."
+        }
+      ],
+      "ipa": "/ˈtreɪdɪŋ/"
+    },
+    {
+      "id": "w_b2_tragedy",
+      "lessonId": "lsn_b2_t_2",
+      "en": "tragedy",
+      "ar": "مأساة",
+      "translation": "مأساة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The accident was a terrible tragedy.",
+          "ar": "كان الحادث مأساة رهيبة."
+        }
+      ],
+      "ipa": "/ˈtrædʒədi/"
+    }
+  ]
+}

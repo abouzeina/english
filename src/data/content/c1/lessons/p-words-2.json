@@ -1,14 +1,256 @@
 {
   "id": "lsn_c1_p_2",
   "levelId": "lvl_c1",
-  "title": "Unit 30: P Words - Part 2",
+  "title": "Unit 47: P Words - Part 2",
   "slug": "p-words-2",
-  "order": 30,
-  "wordCount": 22,
-  "titleAr": "الوحدة 30: كلمات حرف P - الجزء 2",
+  "order": 47,
+  "wordCount": 21,
+  "titleAr": "الوحدة 47: كلمات حرف P - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف P.",
   "words": [
+    {
+      "id": "w_c1_petition",
+      "en": "petition",
+      "ar": "عريضة / التماس",
+      "pronunciation": "pəˈtɪʃn",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وقع آلاف الأشخاص عريضة ضد الضريبة الجديدة",
+          "ar": "They presented a petition to the local council."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_philosopher",
+      "en": "philosopher",
+      "ar": "فيلسوف",
+      "pronunciation": "fəˈlɒsəfə(r)",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان سقراط فيلسوفاً يونانياً مشهوراً",
+          "ar": "He is a leading philosopher in the field of ethics."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_philosophical",
+      "en": "philosophical",
+      "ar": "فلسفي",
+      "pronunciation": "ˌfɪləˈsɒfɪkl",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "دار بين الصديقين نقاش فلسفي طويل",
+          "ar": "He took a philosophical approach to his failure."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_physician",
+      "en": "physician",
+      "ar": "طبيب (بشري)",
+      "pronunciation": "fɪˈzɪʃn",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم علاجه من قبل طبيب العائلة",
+          "ar": "The hospital is looking for an experienced physician."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pioneer",
+      "en": "pioneer",
+      "ar": "رائد / يبتكر",
+      "pronunciation": "ˌpaɪəˈnɪə(r)",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت رائدة في مجال علوم الكمبيوتر",
+          "ar": "The company pioneered the use of solar energy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pipeline",
+      "en": "pipeline",
+      "ar": "خط أنابيب / قيد التنفيذ",
+      "pronunciation": "ˈpaɪplaɪn",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سيمتد خط أنابيب النفط الجديد عبر الصحراء",
+          "ar": "There are several new projects in the pipeline."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pirate",
+      "en": "pirate",
+      "ar": "قرصان / يقرصن",
+      "pronunciation": "ˈpaɪrət",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعرضت السفينة لهجوم من قبل قراصنة في المحيط الهندي",
+          "ar": "The company is trying to stop people from pirating its software."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pit",
+      "en": "pit",
+      "ar": "حفرة / منجم",
+      "pronunciation": "pɪt",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حفر العمال حفرة عميقة في الأرض",
+          "ar": "The coal pit was closed down many years ago."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_plea",
+      "en": "plea",
+      "ar": "نداء / التماس / دفع (قانوني)",
+      "pronunciation": "pliː",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وجهت العائلة نداءً عاطفياً لعودة ابنهم سالماً",
+          "ar": "He entered a plea of not guilty to the charges."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_plead",
+      "en": "plead",
+      "ar": "يتوسل / يدفع (قانونياً)",
+      "pronunciation": "pliːd",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توسلت إليه أن يغير رأيه",
+          "ar": "The defendant pleaded guilty to the crime."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pledge",
+      "en": "pledge",
+      "ar": "يتعهد / عهد / وعد",
+      "pronunciation": "pledʒ",
+      "lessonId": "lsn_c1_p_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعهدت الحكومة بخفض الضرائب",
+          "ar": "He made a solemn pledge to tell the truth."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_c1_plug",
       "en": "plug",
@@ -218,274 +460,6 @@
         {
           "en": "إنها ممارس قانوني لديها سنوات عديدة من الخبرة",
           "ar": "He is a general practitioner in a small town."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_preach",
-      "en": "preach",
-      "ar": "يعظ / يبشر",
-      "pronunciation": "priːtʃ",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "ألقى الكاهن عظة عن أهمية التسامح",
-          "ar": "He is always preaching to us about the dangers of smoking."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_precedent",
-      "en": "precedent",
-      "ar": "سابقة (قانونية أو تاريخية)",
-      "pronunciation": "ˈpresɪdənt",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "حدد قرار القاضي سابقة للقضايا المستقبلية",
-          "ar": "There is no historical precedent for this kind of event."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_precision",
-      "en": "precision",
-      "ar": "دقة / ضبط",
-      "pronunciation": "prɪˈsɪʒn",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تتطلب الأجهزة درجة عالية من الدقة",
-          "ar": "He spoke with great precision and clarity."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_predator",
-      "en": "predator",
-      "ar": "مفترس / كائن مفترس",
-      "pronunciation": "ˈpredətə(r)",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "الأسود هي المفترسات الرئيسية في هذه المنطقة",
-          "ar": "The small fish are easy prey for predators."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_predecessor",
-      "en": "predecessor",
-      "ar": "سلف / الشخص السابق في المنصب",
-      "pronunciation": "ˈpriːdəsesə(r)",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "الرئيس الجديد أكثر شعبية بكثير من سلفه",
-          "ar": "The current model is a great improvement on its predecessor."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_predominantly",
-      "en": "predominantly",
-      "ar": "غالباً / في الغالب / بشكل مسيطر",
-      "pronunciation": "prɪˈdɒmɪnəntli",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "سكان الجزيرة في الغالب من الشباب",
-          "ar": "The disease affects predominantly older men."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_prejudice",
-      "en": "prejudice",
-      "ar": "تحيز / تعصب / ضرر",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يجب أن نعمل معاً للتغلب على التحيز العنصري",
-          "ar": "The judge's comments could prejudice the outcome of the trial."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈpɹɛd͡ʒədɪs/"
-    },
-    {
-      "id": "w_c1_preliminary",
-      "en": "preliminary",
-      "ar": "تمهيدي / أولي",
-      "pronunciation": "prɪˈlɪmɪnəri",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أُعلنت النتائج الأولية للانتخابات ليلة أمس",
-          "ar": "We need to have a preliminary meeting to discuss the plan."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_premier",
-      "en": "premier",
-      "ar": "رئيس وزراء / أول / رائد",
-      "pronunciation": "ˈpremiə(r)",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أعلن رئيس الوزراء عن سياسة الحكومة الجديدة اليوم",
-          "ar": "This is the premier collection of modern art in the country."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_premise",
-      "en": "premise",
-      "ar": "فرضية / منطلق",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تعتمد النظرية على فرضية خاطئة",
-          "ar": "We started from the premise that all people are equal."
-        },
-        {
-          "en": "يعتمد الجدال بالكامل على فرضية خاطئة",
-          "ar": "We started with the premise that everyone deserves an education."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈpɹɛ.mɪs/"
-    },
-    {
-      "id": "w_c1_premium",
-      "en": "premium",
-      "ar": "قسط تأمين / مكافأة / ممتاز (عالي الجودة)",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يجب عليك دفع قسط شهري لتأمينك الصحي",
-          "ar": "The company offers a premium service for its best customers."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈpɹimiəm/"
-    },
-    {
-      "id": "w_c1_prescribe",
-      "en": "prescribe",
-      "ar": "يصف علاجاً / يحدد (رسمياً)",
-      "pronunciation": "prɪˈskraɪb",
-      "lessonId": "lsn_c1_p_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "وصف الطبيب بعض المضادات الحيوية للعدوى",
-          "ar": "The regulations prescribe the maximum weight for the vehicle."
         }
       ],
       "type": "word",

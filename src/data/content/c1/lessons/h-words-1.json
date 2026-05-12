@@ -1,0 +1,348 @@
+{
+  "id": "lsn_c1_h_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 30: H Words - Part 1",
+  "slug": "h-words-1",
+  "order": 30,
+  "wordCount": 15,
+  "titleAr": "الوحدة 30: كلمات حرف H - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter H.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف H.",
+  "words": [
+    {
+      "id": "w_c1_hail",
+      "en": "hail",
+      "ar": "يهتف / يحيي / برد",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قرر النقاد الإشادة (الهتاف) بالفيلم كعمل فني رائع",
+          "ar": "A sudden storm brought heavy hail to the region."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/heɪl/"
+    },
+    {
+      "id": "w_c1_halfway",
+      "en": "halfway",
+      "ar": "في منتصف الطريق",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نحن في منتصف الطريق من المشروع وكل شيء يسير وفق الخطة",
+          "ar": "The hotel is located halfway between the city and the airport."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/hɑːfˈweɪ/"
+    },
+    {
+      "id": "w_c1_halt",
+      "en": "halt",
+      "ar": "توقف / يوقف",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توقفت أعمال البناء فجأة بسبب المطر",
+          "ar": "The guards were ordered to halt anyone trying to enter."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/hɔːlt/"
+    },
+    {
+      "id": "w_c1_handful",
+      "en": "handful",
+      "ar": "حفنة / قليل",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حضر حفنة (عدد قليل) من الناس فقط الحفل الصغير",
+          "ar": "He picked up a handful of sand and let it slip through his fingers."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈhæn(d)fəl/"
+    },
+    {
+      "id": "w_c1_handling",
+      "en": "handling",
+      "ar": "معالجة / تعامل",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أُثني على المدير لمعالجته (تعامله مع) الأزمة",
+          "ar": "Please be careful with the handling of these fragile items."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈhændlɪŋ/"
+    },
+    {
+      "id": "w_c1_handy",
+      "lessonId": "lsn_c1_h_1",
+      "en": "handy",
+      "ar": "مفيد / في المتناول / بارع",
+      "translation": "مفيد / في المتناول / بارع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "This tool is very handy for small repairs.",
+          "ar": "هذه الأداة مفيدة جداً للإصلاحات الصغيرة."
+        }
+      ],
+      "ipa": "/ˈhændi/"
+    },
+    {
+      "id": "w_c1_harassment",
+      "lessonId": "lsn_c1_h_1",
+      "en": "harassment",
+      "ar": "تضييق / تحرش / مضايقة",
+      "translation": "تضييق / تحرش / مضايقة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company has a strict policy against harassment.",
+          "ar": "الشركة لديها سياسة صارمة ضد التحرش (المضايقات)."
+        }
+      ],
+      "ipa": "/ˈhærəsmənt/"
+    },
+    {
+      "id": "w_c1_hardware",
+      "lessonId": "lsn_c1_h_1",
+      "en": "hardware",
+      "ar": "أجهزة / معدات معدنية / عتاد الحاسوب",
+      "translation": "أجهزة / معدات معدنية / عتاد الحاسوب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You need to upgrade your hardware to run the latest software.",
+          "ar": "تحتاج لتطوير عتاد حاسوبك (hardware) لتشغيل أحدث البرامج."
+        }
+      ],
+      "ipa": "/ˈhɑːdweə(r)/"
+    },
+    {
+      "id": "w_c1_harmony",
+      "lessonId": "lsn_c1_h_1",
+      "en": "harmony",
+      "ar": "انسجام / توافق / تناغم",
+      "translation": "انسجام / توافق / تناغم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They live together in perfect harmony.",
+          "ar": "يعيشون معاً في انسجام تام."
+        }
+      ],
+      "ipa": "/ˈhɑːməni/"
+    },
+    {
+      "id": "w_c1_harsh",
+      "en": "harsh",
+      "ar": "قاسي / صارم",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "احتُجز السجناء في ظروف قاسية للغاية",
+          "ar": "He received a harsh criticism for his latest book."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/hɑːʃ/"
+    },
+    {
+      "id": "w_c1_harvest",
+      "en": "harvest",
+      "ar": "حصاد / يحصد",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يستعد المزارعون لحصاد القمح السنوي",
+          "ar": "We were able to harvest a lot of vegetables from the garden."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈhaːvəst/"
+    },
+    {
+      "id": "w_c1_hatred",
+      "en": "hatred",
+      "ar": "كراهية",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كانت عيناه مليئتين بالكراهية عندما نظر إلى عدوه",
+          "ar": "We must work together to eliminate hatred and prejudice."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈheɪtɹɪd/"
+    },
+    {
+      "id": "w_c1_haunt",
+      "en": "haunt",
+      "ar": "يطارد / يرتاد",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لا تزال ذكريات الحرب تطارده",
+          "ar": "The old house was said to be haunted by ghosts."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/hænt/"
+    },
+    {
+      "id": "w_c1_hazard",
+      "en": "hazard",
+      "ar": "خطر / مجازفة",
+      "lessonId": "lsn_c1_h_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "التدخين خطر صحي جسيم على الجميع",
+          "ar": "Heavy fog can be a major hazard for drivers on the highway."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈhazəd/"
+    },
+    {
+      "id": "w_c1_heighten",
+      "lessonId": "lsn_c1_h_1",
+      "en": "heighten",
+      "ar": "يزيد / يرفع / يشتد",
+      "translation": "يزيد / يرفع / يشتد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The tension heightened as the deadline approached.",
+          "ar": "اشتد التوتر مع اقتراب الموعد النهائي."
+        }
+      ],
+      "ipa": "/ˈhaɪtn/"
+    }
+  ]
+}

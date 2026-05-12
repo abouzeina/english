@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_o_1",
   "levelId": "lvl_c1",
-  "title": "Unit 27: O Words - Part 1",
+  "title": "Unit 44: O Words - Part 1",
   "slug": "o-words-1",
-  "order": 27,
-  "wordCount": 15,
-  "titleAr": "الوحدة 27: كلمات حرف O - الجزء 1",
+  "order": 44,
+  "wordCount": 16,
+  "titleAr": "الوحدة 44: كلمات حرف O - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter O.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف O.",
   "words": [
@@ -145,6 +145,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_occasional",
+      "lessonId": "lsn_c1_o_1",
+      "en": "occasional",
+      "ar": "عرضي / من حين لآخر",
+      "translation": "عرضي / من حين لآخر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He makes occasional visits to the capital.",
+          "ar": "يقوم بزيارات عرضية (من حين لآخر) للعاصمة."
+        }
+      ],
+      "ipa": "/əˈkeɪʒənl/"
     },
     {
       "id": "w_c1_occurrence",

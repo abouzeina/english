@@ -5,7 +5,7 @@ import type { NextRequest } from 'next/server';
 const protectedRoutes = ['/dashboard', '/review', '/favorites', '/settings'];
 const authRoutes = ['/login', '/signup'];
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const token = request.cookies.get('wafi_token')?.value;
   const { pathname } = request.nextUrl;
 

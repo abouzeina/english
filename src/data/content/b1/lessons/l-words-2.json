@@ -1,0 +1,339 @@
+{
+  "id": "lsn_b1_l_2",
+  "levelId": "lvl_b1",
+  "title": "Unit 24: L Words - Part 2",
+  "slug": "l-words-2",
+  "order": 24,
+  "wordCount": 14,
+  "titleAr": "الوحدة 24: كلمات حرف L - الجزء 2",
+  "description": "Master essential B1 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف L.",
+  "words": [
+    {
+      "id": "w_b1_likes",
+      "en": "likes",
+      "ar": "الأشياء التي تعجبك",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What are your likes and dislikes?",
+          "ar": "ما هي ( الأشياء ) التي تعجبك و ( الأشياء ) التي لا تعجبك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/laɪks/"
+    },
+    {
+      "id": "w_b1_limit",
+      "en": "limit",
+      "ar": "حد / حد أقصى / يحد",
+      "pronunciation": "/lzm-xt/",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Three cups of coffee is my daily limit.",
+          "ar": "ثلاثة أكواب من القهوة هي الحد اليومي لي."
+        },
+        {
+          "en": "Perhaps this law will limit road accidents.",
+          "ar": "ربما يحد هذا القانون من حوادث الطرق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_lip",
+      "lessonId": "lsn_b1_l_2",
+      "en": "lip",
+      "ar": "شفة",
+      "translation": "شفة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She put some balm on her dry lips.",
+          "ar": "وضعت بعض البلسم على شفتيها الجافتين."
+        }
+      ],
+      "ipa": "/lɪp/"
+    },
+    {
+      "id": "w_b1_lips",
+      "en": "lips",
+      "ar": "شفتيه / شفاه",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He bit his lips of stress.",
+          "ar": "عض شفتيه من التوتر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/lɪps/"
+    },
+    {
+      "id": "w_b1_liquid",
+      "en": "liquid",
+      "ar": "سائل",
+      "pronunciation": "/'lık WId/",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This liquid turns to be active in the heat.",
+          "ar": "هذا السائل يصبح نشطا في الحرارة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_literature",
+      "en": "literature",
+      "ar": "أدبي",
+      "pronunciation": "/'lıţ ər-ə-tər/",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Young people aren't attracted to literature books.",
+          "ar": "الشباب ليسوا منجذبين للكتب الأدبية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_living",
+      "en": "living",
+      "ar": "حي / كسب عيش",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the biggest living animal?",
+          "ar": "ما هو أكبر حيوان حي ؟"
+        },
+        {
+          "en": "What do you do for a living?",
+          "ar": "ماذا تعمل لكسب عيشك ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈlɪvɪŋ/"
+    },
+    {
+      "id": "w_b1_locals",
+      "en": "locals",
+      "ar": "سكان محليون",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "You can buy wood from locals.",
+          "ar": "يمكنك شراء الخشب من السكان المحليين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_locate",
+      "en": "locate",
+      "ar": "يحدد مكان / يقع",
+      "pronunciation": "/'lou-kext/",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We are trying to locate the missing soldier.",
+          "ar": "نحاول أن نحدد مكان الجندي المفقود."
+        },
+        {
+          "en": "The building is located in front of the lake.",
+          "ar": "المبنى يقع أمام البحيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_located",
+      "lessonId": "lsn_b1_l_2",
+      "en": "located",
+      "ar": "يقع / موجود في",
+      "translation": "يقع / موجود في",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The hotel is located in the city center.",
+          "ar": "يقع الفندق في وسط المدينة."
+        }
+      ],
+      "ipa": "/ləʊˈkeɪtɪd/"
+    },
+    {
+      "id": "w_b1_location",
+      "en": "location",
+      "ar": "مكان",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They meet weekly in a secret location.",
+          "ar": "يجتمعون أسبوعيًا في مكان سري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ləʊˈkeɪʃən/"
+    },
+    {
+      "id": "w_b1_lonely",
+      "en": "lonely",
+      "ar": "وحدة / وحيدة",
+      "pronunciation": "/'loun-li/",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The queen felt lonely in the castle.",
+          "ar": "شعرت الملكة بالوحدة في القلعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_loss",
+      "en": "loss",
+      "ar": "فقدان",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I want to report the loss of an electric bike.",
+          "ar": "أريد الإبلاغ عن فقدان دراجة كهربائية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/lɑs/"
+    },
+    {
+      "id": "w_b1_luxury",
+      "en": "luxury",
+      "ar": "رفاهية / فخم",
+      "pronunciation": "/ Ink fər-i/",
+      "lessonId": "lsn_b1_l_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "He lives in luxury abroad.",
+          "ar": "يعيش في رفاهية في الخارج."
+        },
+        {
+          "en": "My boss often stays in luxury hotels.",
+          "ar": "رئيسي في الغالب يقيم في فنادق فخمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "title": "Unit 16: G Words",
   "slug": "g-words",
   "order": 16,
-  "wordCount": 17,
+  "wordCount": 18,
   "titleAr": "الوحدة 16: كلمات حرف G",
   "description": "Master essential A2 vocabulary starting with the letter G.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف G.",
@@ -276,6 +276,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_greet",
+      "lessonId": "lsn_a2_g",
+      "en": "greet",
+      "ar": "يحيي / يرحب بـ",
+      "translation": "يحيي / يرحب بـ",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She greeted us with a big smile.",
+          "ar": "حيّتنا بابتسامة كبيرة."
+        }
+      ],
+      "ipa": "/ɡriːt/"
     },
     {
       "id": "w_a2_ground",

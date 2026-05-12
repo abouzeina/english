@@ -1,44 +1,14 @@
 {
   "id": "lsn_b1_r_3",
   "levelId": "lvl_b1",
-  "title": "Unit 31: R Words - Part 3",
+  "title": "Unit 35: R Words - Part 3",
   "slug": "r-words-3",
-  "order": 31,
-  "wordCount": 17,
-  "titleAr": "الوحدة 31: كلمات حرف R - الجزء 3",
+  "order": 35,
+  "wordCount": 20,
+  "titleAr": "الوحدة 35: كلمات حرف R - الجزء 3",
   "description": "Master essential B1 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف R.",
   "words": [
-    {
-      "id": "w_b1_respect",
-      "en": "respect",
-      "ar": "يحترم / حق / احترام",
-      "pronunciation": "/rx'spekt/",
-      "lessonId": "lsn_b1_r_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Please respect my right to disagree with you.",
-          "ar": "من فضلك احترم حقي في أن أختلف معك."
-        },
-        {
-          "en": "Show me some respect.",
-          "ar": "أظهر لي بعض الاحترام."
-        },
-        {
-          "en": "You have to treat others with respect.",
-          "ar": "عليك أن تعامل الآخرين باحترام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_responsibility",
       "en": "responsibility",
@@ -172,6 +142,29 @@
       "ipa": "/ɹɪˈvaɪ̯z/"
     },
     {
+      "id": "w_b1_risk",
+      "lessonId": "lsn_b1_r_3",
+      "en": "risk",
+      "ar": "خطر / يخاطر",
+      "translation": "خطر / يخاطر",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Smoking increases the risk of heart disease.",
+          "ar": "التدخين يزيد من خطر الإصابة بأمراض القلب."
+        }
+      ],
+      "ipa": "/rɪsk/"
+    },
+    {
       "id": "w_b1_risks",
       "en": "risks",
       "ar": "مخاطر / خاطر",
@@ -198,6 +191,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_robot",
+      "lessonId": "lsn_b1_r_3",
+      "en": "robot",
+      "ar": "إنسان آلي / روبوت",
+      "translation": "إنسان آلي / روبوت",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The factory uses robots to assemble cars.",
+          "ar": "يستخدم المصنع الروبوتات لتجميع السيارات."
+        }
+      ],
+      "ipa": "/ˈrəʊbɒt/"
+    },
+    {
       "id": "w_b1_robots",
       "en": "robots",
       "ar": "روبوتات",
@@ -218,6 +234,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_roll",
+      "lessonId": "lsn_b1_r_3",
+      "en": "roll",
+      "ar": "يلف / يتدحرج / لفة",
+      "translation": "يلف / يتدحرج / لفة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The ball rolled down the hill.",
+          "ar": "تدحرجت الكرة أسفل التل."
+        }
+      ],
+      "ipa": "/rəʊl/"
     },
     {
       "id": "w_b1_rolled",
@@ -310,6 +349,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_row",
+      "lessonId": "lsn_b1_r_3",
+      "en": "row",
+      "ar": "صف / يجدف",
+      "translation": "صف / يجدف",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They were sitting in the front row.",
+          "ar": "كانوا جالسين في الصف الأمامي."
+        }
+      ],
+      "ipa": "/rəʊ/"
     },
     {
       "id": "w_b1_rows",

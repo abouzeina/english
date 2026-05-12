@@ -1,36 +1,14 @@
 {
   "id": "lsn_b1_c_2",
   "levelId": "lvl_b1",
-  "title": "Unit 6: C Words - Part 2",
+  "title": "Unit 7: C Words - Part 2",
   "slug": "c-words-2",
-  "order": 6,
-  "wordCount": 19,
-  "titleAr": "الوحدة 6: كلمات حرف C - الجزء 2",
+  "order": 7,
+  "wordCount": 24,
+  "titleAr": "الوحدة 7: كلمات حرف C - الجزء 2",
   "description": "Master essential B1 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف C.",
   "words": [
-    {
-      "id": "w_b1_cheerful",
-      "en": "cheerful",
-      "ar": "مبتهج / سعيد",
-      "pronunciation": "/ tfıər fəl/",
-      "lessonId": "lsn_b1_c_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "He talked in a cheerful voice.",
-          "ar": "تحدث بصوت مبتهج."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_chemical",
       "en": "chemical",
@@ -194,6 +172,29 @@
       "ipa": "/klɪk/"
     },
     {
+      "id": "w_b1_client",
+      "lessonId": "lsn_b1_c_2",
+      "en": "client",
+      "ar": "عميل / زبون",
+      "translation": "عميل / زبون",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need to attract more clients to our business.",
+          "ar": "نحن بحاجة لجذب المزيد من العملاء لعملنا."
+        }
+      ],
+      "ipa": "/ˈklaɪənt/"
+    },
+    {
       "id": "w_b1_clients",
       "en": "clients",
       "ar": "عملاء",
@@ -304,6 +305,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_coin",
+      "lessonId": "lsn_b1_c_2",
+      "en": "coin",
+      "ar": "عملة معدنية",
+      "translation": "عملة معدنية",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He found a gold coin in the garden.",
+          "ar": "وجد عملة ذهبية في الحديقة."
+        }
+      ],
+      "ipa": "/kɔɪn/"
+    },
+    {
       "id": "w_b1_coins",
       "en": "coins",
       "ar": "قطع نقدية",
@@ -370,6 +394,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_combine",
+      "lessonId": "lsn_b1_c_2",
+      "en": "combine",
+      "ar": "يجمع / يدمج",
+      "translation": "يجمع / يدمج",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Combine all the ingredients in a bowl.",
+          "ar": "اجمع كل المكونات في وعاء."
+        }
+      ],
+      "ipa": "/kəmˈbaɪn/"
+    },
+    {
       "id": "w_b1_combined",
       "en": "combined",
       "ar": "يمزج / يخلط",
@@ -434,6 +481,73 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_commit",
+      "lessonId": "lsn_b1_c_2",
+      "en": "commit",
+      "ar": "يرتكب / يلتزم",
+      "translation": "يرتكب / يلتزم",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He committed a crime when he was young.",
+          "ar": "ارتكب جريمة عندما كان شاباً."
+        }
+      ],
+      "ipa": "/kəˈmɪt/"
+    },
+    {
+      "id": "w_b1_committed",
+      "en": "committed",
+      "ar": "ارتكب",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Who committed that crime?",
+          "ar": "من ارتكب تلك الجريمة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kəˈmɪtɪd/"
+    },
+    {
+      "id": "w_b1_communication",
+      "en": "communication",
+      "ar": "تواصل",
+      "lessonId": "lsn_b1_c_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Family communication is important.",
+          "ar": "التواصل الأسري مهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/kəˌmjuːnɪˈkeɪʃən/"
     }
   ]
 }

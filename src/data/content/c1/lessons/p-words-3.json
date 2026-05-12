@@ -1,14 +1,305 @@
 {
   "id": "lsn_c1_p_3",
   "levelId": "lvl_c1",
-  "title": "Unit 31: P Words - Part 3",
+  "title": "Unit 48: P Words - Part 3",
   "slug": "p-words-3",
-  "order": 31,
-  "wordCount": 22,
-  "titleAr": "الوحدة 31: كلمات حرف P - الجزء 3",
+  "order": 48,
+  "wordCount": 21,
+  "titleAr": "الوحدة 48: كلمات حرف P - الجزء 3",
   "description": "Master essential C1 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف P.",
   "words": [
+    {
+      "id": "w_c1_preach",
+      "en": "preach",
+      "ar": "يعظ / يبشر",
+      "pronunciation": "priːtʃ",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ألقى الكاهن عظة عن أهمية التسامح",
+          "ar": "He is always preaching to us about the dangers of smoking."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_precedent",
+      "en": "precedent",
+      "ar": "سابقة (قانونية أو تاريخية)",
+      "pronunciation": "ˈpresɪdənt",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حدد قرار القاضي سابقة للقضايا المستقبلية",
+          "ar": "There is no historical precedent for this kind of event."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_precision",
+      "en": "precision",
+      "ar": "دقة / ضبط",
+      "pronunciation": "prɪˈsɪʒn",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تتطلب الأجهزة درجة عالية من الدقة",
+          "ar": "He spoke with great precision and clarity."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_predator",
+      "en": "predator",
+      "ar": "مفترس / كائن مفترس",
+      "pronunciation": "ˈpredətə(r)",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الأسود هي المفترسات الرئيسية في هذه المنطقة",
+          "ar": "The small fish are easy prey for predators."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_predecessor",
+      "en": "predecessor",
+      "ar": "سلف / الشخص السابق في المنصب",
+      "pronunciation": "ˈpriːdəsesə(r)",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "الرئيس الجديد أكثر شعبية بكثير من سلفه",
+          "ar": "The current model is a great improvement on its predecessor."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_predominantly",
+      "en": "predominantly",
+      "ar": "غالباً / في الغالب / بشكل مسيطر",
+      "pronunciation": "prɪˈdɒmɪnəntli",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "سكان الجزيرة في الغالب من الشباب",
+          "ar": "The disease affects predominantly older men."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pregnancy",
+      "lessonId": "lsn_c1_p_3",
+      "en": "pregnancy",
+      "ar": "حمل",
+      "translation": "حمل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She had a healthy pregnancy.",
+          "ar": "كان لديها حمل صحي."
+        }
+      ],
+      "ipa": "/ˈpreɡnənsi/"
+    },
+    {
+      "id": "w_c1_prejudice",
+      "en": "prejudice",
+      "ar": "تحيز / تعصب / ضرر",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب أن نعمل معاً للتغلب على التحيز العنصري",
+          "ar": "The judge's comments could prejudice the outcome of the trial."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɛd͡ʒədɪs/"
+    },
+    {
+      "id": "w_c1_preliminary",
+      "en": "preliminary",
+      "ar": "تمهيدي / أولي",
+      "pronunciation": "prɪˈlɪmɪnəri",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أُعلنت النتائج الأولية للانتخابات ليلة أمس",
+          "ar": "We need to have a preliminary meeting to discuss the plan."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_premier",
+      "en": "premier",
+      "ar": "رئيس وزراء / أول / رائد",
+      "pronunciation": "ˈpremiə(r)",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أعلن رئيس الوزراء عن سياسة الحكومة الجديدة اليوم",
+          "ar": "This is the premier collection of modern art in the country."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_premise",
+      "en": "premise",
+      "ar": "فرضية / منطلق",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعتمد النظرية على فرضية خاطئة",
+          "ar": "We started from the premise that all people are equal."
+        },
+        {
+          "en": "يعتمد الجدال بالكامل على فرضية خاطئة",
+          "ar": "We started with the premise that everyone deserves an education."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɛ.mɪs/"
+    },
+    {
+      "id": "w_c1_premium",
+      "en": "premium",
+      "ar": "قسط تأمين / مكافأة / ممتاز (عالي الجودة)",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك دفع قسط شهري لتأمينك الصحي",
+          "ar": "The company offers a premium service for its best customers."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹimiəm/"
+    },
+    {
+      "id": "w_c1_prescribe",
+      "en": "prescribe",
+      "ar": "يصف علاجاً / يحدد (رسمياً)",
+      "pronunciation": "prɪˈskraɪb",
+      "lessonId": "lsn_c1_p_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وصف الطبيب بعض المضادات الحيوية للعدوى",
+          "ar": "The regulations prescribe the maximum weight for the vehicle."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_c1_prescription",
       "en": "prescription",
@@ -184,314 +475,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/pɹɪˈzjuːməbli/"
-    },
-    {
-      "id": "w_c1_presume",
-      "en": "presume",
-      "ar": "يفترض / يجرؤ على",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أفترض أنك قد انتهيت بالفعل من التقرير",
-          "ar": "I wouldn't presume to tell you how to do your job."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/pɹɪˈzjuːm/"
-    },
-    {
-      "id": "w_c1_prevail",
-      "en": "prevail",
-      "ar": "يسود / ينتصر / يعم",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "نأمل أن يسود المنطق في النهاية",
-          "ar": "Justice prevailed and the innocent man was released."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/pɹɪˈveɪl/"
-    },
-    {
-      "id": "w_c1_prevalence",
-      "en": "prevalence",
-      "ar": "انتشار / شيوع",
-      "pronunciation": "ˈprevələns",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تبحث الدراسة في مدى انتشار السمنة بين الأطفال",
-          "ar": "The prevalence of the disease has decreased in recent years."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_prioritize",
-      "en": "prioritize",
-      "ar": "يعطي الأولوية",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "نحن بحاجة لإعطاء الأولوية للمهام الأكثر إلحاحاً",
-          "ar": "The government is prioritizing education and health."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/pɹaɪˈɒɹətaɪz/"
-    },
-    {
-      "id": "w_c1_privatization",
-      "en": "privatization",
-      "ar": "خصخصة",
-      "pronunciation": "ˌpraɪvətaɪˈzeɪʃn",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تخطط الحكومة لخصخصة شركة الطيران الوطنية",
-          "ar": "The privatization of the water supply led to higher prices."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_privilege",
-      "en": "privilege",
-      "ar": "امتياز / فخر / ميزة",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يجب أن يكون التعليم حقاً لا امتيازاً",
-          "ar": "It was a privilege to meet the Nobel Prize winner."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈpɹɪv(ɪ)lɪdʒ/"
-    },
-    {
-      "id": "w_c1_probe",
-      "en": "probe",
-      "ar": "تحقيق / مسبار / يستكشف",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "بدأت الشرطة تحقيقاً في أسباب الحريق",
-          "ar": "The space probe landed on Mars last night."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/pɹəʊb/"
-    },
-    {
-      "id": "w_c1_problematic",
-      "en": "problematic",
-      "ar": "معضل / مثير للمشاكل",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "الوضع معضل للغاية ويحتاج لتعامل حذر",
-          "ar": "His behavior is very problematic for the rest of the team."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˌpɹɒbləˈmætɪk/"
-    },
-    {
-      "id": "w_c1_proceedings",
-      "en": "proceedings",
-      "ar": "إجراءات / وقائع (جلسة أو مؤتمر)",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "ستبدأ الإجراءات القانونية ضد الشركة الشهر المقبل",
-          "ar": "The published proceedings of the conference are very useful."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/pɹəˈsiːd.ɪŋz/"
-    },
-    {
-      "id": "w_c1_proceeds",
-      "en": "proceeds",
-      "ar": "عائدات / أرباح",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "ستذهب عائدات الحفل الموسيقي للأعمال الخيرية",
-          "ar": "The company donated the proceeds from the auction to the hospital."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈpɹəʊsiːdz/"
-    },
-    {
-      "id": "w_c1_processing",
-      "en": "processing",
-      "ar": "معالجة / تشغيل / تحويل",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تستغرق معالجة البيانات حوالي عشر دقائق",
-          "ar": "The company is involved in food processing."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈpɹəʊsɛsɪŋ/"
-    },
-    {
-      "id": "w_c1_processor",
-      "en": "processor",
-      "ar": "معالج (كمبيوتر) / مصنع / أداة معالجة",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يحتوي الكمبيوتر على معالج سريع جداً",
-          "ar": "He bought a new food processor for the kitchen."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈpɹəʊˌsɛsə(ɹ)/"
-    },
-    {
-      "id": "w_c1_proclaim",
-      "en": "proclaim",
-      "ar": "يعلن (رسمياً) / يجهر",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أعلن الرئيس حالة الطوارئ",
-          "ar": "The paintings proclaim the artist's love for nature."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/pɹoʊˈkleɪm/"
-    },
-    {
-      "id": "w_c1_productive",
-      "en": "productive",
-      "ar": "منتج / مثمر",
-      "lessonId": "lsn_c1_p_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كان الاجتماع مثمراً للغاية واتخذنا عدة قرارات",
-          "ar": "We need to find more productive ways to work."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/pɹəˈdʌktɪv/"
     }
   ]
 }

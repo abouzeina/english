@@ -1,0 +1,565 @@
+{
+  "id": "lsn_c1_c_8",
+  "levelId": "lvl_c1",
+  "title": "Unit 18: C Words - Part 8",
+  "slug": "c-words-8",
+  "order": 18,
+  "wordCount": 24,
+  "titleAr": "الوحدة 18: كلمات حرف C - الجزء 8",
+  "description": "Master essential C1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_c1_costly",
+      "lessonId": "lsn_c1_c_8",
+      "en": "costly",
+      "ar": "مكلف / باهظ الثمن",
+      "translation": "مكلف / باهظ الثمن",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The mistake proved to be very costly.",
+          "ar": "ثبت أن الخطأ كان مكلفاً للغاية."
+        }
+      ],
+      "ipa": "/ˈkɒstli/"
+    },
+    {
+      "id": "w_c1_councillor",
+      "lessonId": "lsn_c1_c_8",
+      "en": "councillor",
+      "ar": "عضو مجلس",
+      "translation": "عضو مجلس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The local councillor promised to look into the matter.",
+          "ar": "وعد عضو المجلس المحلي بالنظر في الأمر."
+        }
+      ],
+      "ipa": "/ˈkaʊnsələ(r)/"
+    },
+    {
+      "id": "w_c1_counselling",
+      "lessonId": "lsn_c1_c_8",
+      "en": "counselling",
+      "ar": "إرشاد / مشورة",
+      "translation": "إرشاد / مشورة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is receiving counselling for her depression.",
+          "ar": "هي تتلقى إرشاداً (مشورة نفسية) لعلاج اكتئابها."
+        }
+      ],
+      "ipa": "/ˈkaʊnsəlɪŋ/"
+    },
+    {
+      "id": "w_c1_counsellor",
+      "lessonId": "lsn_c1_c_8",
+      "en": "counsellor",
+      "ar": "مستشار / مرشد",
+      "translation": "مستشار / مرشد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "A school counsellor can help students with their problems.",
+          "ar": "يمكن لمرشد المدرسة مساعدة الطلاب في مشاكلهم."
+        }
+      ],
+      "ipa": "/ˈkaʊnsələ(r)/"
+    },
+    {
+      "id": "w_c1_counterpart",
+      "lessonId": "lsn_c1_c_8",
+      "en": "counterpart",
+      "ar": "نظير / مثيل",
+      "translation": "نظير / مثيل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The foreign minister met with his German counterpart.",
+          "ar": "التقى وزير الخارجية بنظيره الألماني."
+        }
+      ],
+      "ipa": "/ˈkaʊntəpɑːt/"
+    },
+    {
+      "id": "w_c1_countless",
+      "lessonId": "lsn_c1_c_8",
+      "en": "countless",
+      "ar": "لا يحصى / لا يعد",
+      "translation": "لا يحصى / لا يعد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I've told him countless times not to do that.",
+          "ar": "لقد أخبرته مرات لا تحصى ألا يفعل ذلك."
+        }
+      ],
+      "ipa": "/ˈkaʊntləs/"
+    },
+    {
+      "id": "w_c1_coup",
+      "lessonId": "lsn_c1_c_8",
+      "en": "coup",
+      "ar": "انقلاب / خطوة ناجحة مفاجئة",
+      "translation": "انقلاب / خطوة ناجحة مفاجئة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The military staged a coup to overthrow the government.",
+          "ar": "قام الجيش بانقلاب للإطاحة بالحكومة."
+        }
+      ],
+      "ipa": "/kuː/"
+    },
+    {
+      "id": "w_c1_courtesy",
+      "lessonId": "lsn_c1_c_8",
+      "en": "courtesy",
+      "ar": "مجاملة / لباقة",
+      "translation": "مجاملة / لباقة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He treated everyone with courtesy and respect.",
+          "ar": "عامل الجميع بلباقة (مجاملة) واحترام."
+        }
+      ],
+      "ipa": "/ˈkɜːtəsi/"
+    },
+    {
+      "id": "w_c1_crawl",
+      "lessonId": "lsn_c1_c_8",
+      "en": "crawl",
+      "ar": "يزحف / يحبو",
+      "translation": "يزحف / يحبو",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The baby is just starting to crawl.",
+          "ar": "بدأ الطفل للتو في الحبو (الزحف)."
+        }
+      ],
+      "ipa": "/krɔːl/"
+    },
+    {
+      "id": "w_c1_creator",
+      "lessonId": "lsn_c1_c_8",
+      "en": "creator",
+      "ar": "خالق / مبدع / صانع",
+      "translation": "خالق / مبدع / صانع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Walt Disney was the creator of Mickey Mouse.",
+          "ar": "والت ديزني كان مبدع (خالق) شخصية ميكي ماوس."
+        }
+      ],
+      "ipa": "/kriˈeɪtə(r)/"
+    },
+    {
+      "id": "w_c1_credibility",
+      "lessonId": "lsn_c1_c_8",
+      "en": "credibility",
+      "ar": "مصداقية",
+      "translation": "مصداقية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The scandal has damaged his credibility.",
+          "ar": "لقد أضرت الفضيحة بمصداقيته."
+        }
+      ],
+      "ipa": "/ˌkredəˈbɪləti/"
+    },
+    {
+      "id": "w_c1_credible",
+      "lessonId": "lsn_c1_c_8",
+      "en": "credible",
+      "ar": "موثوق / جدير بالتصديق",
+      "translation": "موثوق / جدير بالتصديق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is no credible evidence to support his claim.",
+          "ar": "لا يوجد دليل موثوق لدعم ادعائه."
+        }
+      ],
+      "ipa": "/ˈkredəbl/"
+    },
+    {
+      "id": "w_c1_creep",
+      "lessonId": "lsn_c1_c_8",
+      "en": "creep",
+      "ar": "يتسلل / يزحف",
+      "translation": "يتسلل / يزحف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He tried to creep out of the room without being noticed.",
+          "ar": "حاول التسلل خارج الغرفة دون أن يُلاحظ."
+        }
+      ],
+      "ipa": "/kriːp/"
+    },
+    {
+      "id": "w_c1_critique",
+      "lessonId": "lsn_c1_c_8",
+      "en": "critique",
+      "ar": "نقد / مراجعة نقدية",
+      "translation": "نقد / مراجعة نقدية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The professor gave a detailed critique of the student's essay.",
+          "ar": "قدم الأستاذ نقداً مفصلاً لمقال الطالب."
+        }
+      ],
+      "ipa": "/krɪˈtiːk/"
+    },
+    {
+      "id": "w_c1_crown",
+      "lessonId": "lsn_c1_c_8",
+      "en": "crown",
+      "ar": "تاج / يتوج",
+      "translation": "تاج / يتوج",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The king wore a heavy gold crown.",
+          "ar": "ارتدى الملك تاجاً ذهبياً ثقيلاً."
+        }
+      ],
+      "ipa": "/kraʊn/"
+    },
+    {
+      "id": "w_c1_crude",
+      "lessonId": "lsn_c1_c_8",
+      "en": "crude",
+      "ar": "خام / فظ / بدائي",
+      "translation": "خام / فظ / بدائي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country exports crude oil.",
+          "ar": "تُصدر البلاد النفط الخام."
+        }
+      ],
+      "ipa": "/kruːd/"
+    },
+    {
+      "id": "w_c1_crush",
+      "lessonId": "lsn_c1_c_8",
+      "en": "crush",
+      "ar": "يسحق / يحطم / زحام",
+      "translation": "يسحق / يحطم / زحام",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The machine is used to crush rocks.",
+          "ar": "تُستخدم الآلة لسحق الصخور."
+        }
+      ],
+      "ipa": "/krʌʃ/"
+    },
+    {
+      "id": "w_c1_crystal",
+      "lessonId": "lsn_c1_c_8",
+      "en": "crystal",
+      "ar": "بلورة / كريستال",
+      "translation": "بلورة / كريستال",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The vase is made of lead crystal.",
+          "ar": "المزهرية مصنوعة من الكريستال الرصاصي."
+        }
+      ],
+      "ipa": "/ˈkrɪstl/"
+    },
+    {
+      "id": "w_c1_cult",
+      "lessonId": "lsn_c1_c_8",
+      "en": "cult",
+      "ar": "طائفة / عبادة / ذو شعبية خاصة",
+      "translation": "طائفة / عبادة / ذو شعبية خاصة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was a member of a religious cult.",
+          "ar": "كان عضواً في طائفة دينية."
+        }
+      ],
+      "ipa": "/kʌlt/"
+    },
+    {
+      "id": "w_c1_cultivate",
+      "lessonId": "lsn_c1_c_8",
+      "en": "cultivate",
+      "ar": "يزرع / ينمي / يفلح",
+      "translation": "يزرع / ينمي / يفلح",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The land is used to cultivate wheat.",
+          "ar": "تُستخدم الأرض لزراعة القمح."
+        }
+      ],
+      "ipa": "/ˈkʌltɪveɪt/"
+    },
+    {
+      "id": "w_c1_curiosity",
+      "lessonId": "lsn_c1_c_8",
+      "en": "curiosity",
+      "ar": "فضول",
+      "translation": "فضول",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Children have a natural curiosity about the world.",
+          "ar": "لدى الأطفال فضول طبيعي تجاه العالم."
+        }
+      ],
+      "ipa": "/ˌkjʊəriˈɒsəti/"
+    },
+    {
+      "id": "w_c1_custody",
+      "lessonId": "lsn_c1_c_8",
+      "en": "custody",
+      "ar": "حضانة / حبس احتياطي / حجز",
+      "translation": "حضانة / حبس احتياطي / حجز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The parents were granted joint custody of the children.",
+          "ar": "مُنح الوالدان حضانة مشتركة للأطفال."
+        }
+      ],
+      "ipa": "/ˈkʌstədi/"
+    },
+    {
+      "id": "w_c1_cutting",
+      "lessonId": "lsn_c1_c_8",
+      "en": "cutting",
+      "ar": "قطع / قصاصة / جارح",
+      "translation": "قطع / قصاصة / جارح",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She made a cutting remark about his appearance.",
+          "ar": "أدلت بملاحظة جارحة عن مظهره."
+        }
+      ],
+      "ipa": "/ˈkʌtɪŋ/"
+    },
+    {
+      "id": "w_c1_cynical",
+      "lessonId": "lsn_c1_c_8",
+      "en": "cynical",
+      "ar": "ساخر / متشائم / مرتاب",
+      "translation": "ساخر / متشائم / مرتاب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has a cynical view of politics.",
+          "ar": "لديه نظرة ساخرة (متشائمة) للسياسة."
+        }
+      ],
+      "ipa": "/ˈsɪnɪkl/"
+    }
+  ]
+}

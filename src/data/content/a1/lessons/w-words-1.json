@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_w_1",
   "levelId": "lvl_a1",
-  "title": "Unit 46: W Words - Part 1",
+  "title": "Unit 49: W Words - Part 1",
   "slug": "w-words-1",
-  "order": 46,
-  "wordCount": 24,
-  "titleAr": "الوحدة 46: كلمات حرف W - الجزء 1",
+  "order": 49,
+  "wordCount": 25,
+  "titleAr": "الوحدة 49: كلمات حرف W - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter W.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف W.",
   "words": [
@@ -57,6 +57,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_wake",
+      "lessonId": "lsn_a1_w_1",
+      "en": "wake",
+      "ar": "يستيقظ",
+      "translation": "يستيقظ",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "What time do you usually wake up?",
+          "ar": "في أي وقت تستيقظ عادة؟"
+        }
+      ],
+      "ipa": "/weɪk/"
     },
     {
       "id": "w_a1_wake_up",

@@ -1,0 +1,602 @@
+[
+  {
+    "en": "battlefield",
+    "translation": "ميدان المعركة",
+    "ipa": "/ˈbætlfiːld/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The soldiers were buried on the battlefield.",
+        "ar": "دُفن الجنود في ميدان المعركة."
+      }
+    ]
+  },
+  {
+    "en": "bay",
+    "translation": "خليج",
+    "ipa": "/beɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The hotel overlooks a beautiful bay.",
+        "ar": "يطل الفندق على خليج جميل."
+      }
+    ]
+  },
+  {
+    "en": "beam",
+    "translation": "شعاع / عارضة",
+    "ipa": "/biːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "A beam of light shone through the window.",
+        "ar": "سطع شعاع من الضوء عبر النافذة."
+      }
+    ]
+  },
+  {
+    "en": "beast",
+    "translation": "وحش / دابة",
+    "ipa": "/biːst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The lion is known as the king of beasts.",
+        "ar": "يُعرف الأسد بملك الوحوش."
+      }
+    ]
+  },
+  {
+    "en": "behalf",
+    "translation": "نيابة عن / لصالح",
+    "ipa": "/bɪˈhɑːf/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I am writing on behalf of my client.",
+        "ar": "أنا أكتب نيابة عن موكلي."
+      }
+    ]
+  },
+  {
+    "en": "beloved",
+    "translation": "محبوب / عزيز",
+    "ipa": "/bɪˈlʌvɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He lost his beloved wife last year.",
+        "ar": "فقد زوجته المحبوبة العام الماضي."
+      }
+    ]
+  },
+  {
+    "en": "bench",
+    "translation": "مقعد / منصة القضاء",
+    "ipa": "/bentʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We sat on a park bench and watched the people.",
+        "ar": "جلسنا على مقعد في المنتزه وشاهدنا الناس."
+      }
+    ]
+  },
+  {
+    "en": "benchmark",
+    "translation": "معيار / مقياس مرجعي",
+    "ipa": "/ˈbentʃmɑːk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The results will serve as a benchmark for future studies.",
+        "ar": "ستكون النتائج بمثابة معيار للدراسات المستقبلية."
+      }
+    ]
+  },
+  {
+    "en": "beneath",
+    "translation": "تحت / أسفل",
+    "ipa": "/bɪˈniːθ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The boat sank beneath the waves.",
+        "ar": "غرق القارب تحت الأمواج."
+      }
+    ]
+  },
+  {
+    "en": "beneficial",
+    "translation": "مفيد / نافع",
+    "ipa": "/ˌbenɪˈfɪʃl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Regular exercise is beneficial to health.",
+        "ar": "التمارين المنتظمة مفيدة للصحة."
+      }
+    ]
+  },
+  {
+    "en": "beneficiary",
+    "translation": "مستفيد",
+    "ipa": "/ˌbenɪˈfɪʃəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Who is the main beneficiary of the will?",
+        "ar": "من هو المستفيد الرئيسي من الوصية؟"
+      }
+    ]
+  },
+  {
+    "en": "benefit",
+    "translation": "فائدة / مصلحة / ينفع",
+    "ipa": "/ˈbenɪfɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new law will benefit many people.",
+        "ar": "سيفيد القانون الجديد الكثير من الناس."
+      }
+    ]
+  },
+  {
+    "en": "bent",
+    "translation": "منحنٍ / عازم على",
+    "ipa": "/bent/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was bent over his desk, working hard.",
+        "ar": "كان منحنياً على مكتبه، يعمل بجد."
+      }
+    ]
+  },
+  {
+    "en": "beside",
+    "translation": "بجانب",
+    "ipa": "/bɪˈsaɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Come and sit beside me.",
+        "ar": "تعال واجلس بجانبي."
+      }
+    ]
+  },
+  {
+    "en": "besides",
+    "translation": "بالإضافة إلى / علاوة على ذلك",
+    "ipa": "/bɪˈsaɪdz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Besides being a teacher, she is also a writer.",
+        "ar": "بالإضافة لكونها معلمة، هي أيضاً كاتبة."
+      }
+    ]
+  },
+  {
+    "en": "betray",
+    "translation": "يخون / يغدر",
+    "ipa": "/bɪˈtreɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He felt that his friends had betrayed him.",
+        "ar": "شعر أن أصدقاءه قد خانوه."
+      }
+    ]
+  },
+  {
+    "en": "beverage",
+    "translation": "مشروب",
+    "ipa": "/ˈbevərɪdʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The price includes a free beverage.",
+        "ar": "السعر يشمل مشروباً مجانياً."
+      }
+    ]
+  },
+  {
+    "en": "bias",
+    "translation": "انحياز / تحيز",
+    "ipa": "/ˈbaɪəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The newspaper was accused of political bias.",
+        "ar": "اتُهمت الصحيفة بالانحياز السياسي."
+      }
+    ]
+  },
+  {
+    "en": "bid",
+    "translation": "عرض سعر / مناقصة / محاولة",
+    "ipa": "/bɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company made a bid for the contract.",
+        "ar": "قدمت الشركة عرضاً للمناقصة على العقد."
+      }
+    ]
+  },
+  {
+    "en": "bind",
+    "translation": "يربط / يلزم",
+    "ipa": "/baɪnd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The contract binds both parties to the agreement.",
+        "ar": "يلزم العقد كلا الطرفين بالاتفاقية."
+      }
+    ]
+  },
+  {
+    "en": "biography",
+    "translation": "سيرة ذاتية (يكتبها شخص آخر)",
+    "ipa": "/baɪˈɒɡrəfi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I'm reading a biography of Albert Einstein.",
+        "ar": "أنا أقرأ سيرة ذاتية لألبرت أينشتاين."
+      }
+    ]
+  },
+  {
+    "en": "biological",
+    "translation": "بيولوجي / حيوي",
+    "ipa": "/ˌbaɪəˈlɒdʒɪkl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Parents have a biological link to their children.",
+        "ar": "للوالدين رابط بيولوجي بأطفالهم."
+      }
+    ]
+  },
+  {
+    "en": "bishop",
+    "translation": "أسقف",
+    "ipa": "/ˈbɪʃəp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bishop led the church service.",
+        "ar": "قاد الأسقف الخدمة الكنسية."
+      }
+    ]
+  },
+  {
+    "en": "bizarre",
+    "translation": "غريب / غريب الأطوار",
+    "ipa": "/bɪˈzɑː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It was a truly bizarre situation.",
+        "ar": "لقد كان موقفاً غريباً حقاً."
+      }
+    ]
+  },
+  {
+    "en": "blade",
+    "translation": "شفرة / نصل",
+    "ipa": "/bleɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The knife has a very sharp blade.",
+        "ar": "السكين لها نصل حاد جداً."
+      }
+    ]
+  },
+  {
+    "en": "blast",
+    "translation": "انفجار / عصف / انفجار صوتي",
+    "ipa": "/blɑːst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The blast shattered all the windows in the street.",
+        "ar": "حطم الانفجار جميع النوافذ في الشارع."
+      }
+    ]
+  },
+  {
+    "en": "bleed",
+    "translation": "ينزف",
+    "ipa": "/bliːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "His nose began to bleed.",
+        "ar": "بدأ أنفه ينزف."
+      }
+    ]
+  },
+  {
+    "en": "blend",
+    "translation": "يمزج / خليط",
+    "ipa": "/blend/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "This coffee is a blend of three different beans.",
+        "ar": "هذه القهوة هي مزيج من ثلاث حبات مختلفة."
+      }
+    ]
+  },
+  {
+    "en": "bless",
+    "translation": "يبارك / ينعم على",
+    "ipa": "/bles/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "God bless you.",
+        "ar": "بارك الله فيك."
+      }
+    ]
+  },
+  {
+    "en": "blessing",
+    "translation": "بركة / نعمة",
+    "ipa": "/ˈblesɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new job was a blessing for the family.",
+        "ar": "كان العمل الجديد نعمة للعائلة."
+      }
+    ]
+  },
+  {
+    "en": "blow",
+    "translation": "ينفخ / هبوب / ضربة",
+    "ipa": "/bləʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The wind was blowing hard.",
+        "ar": "كانت الرياح تهب بشدة."
+      }
+    ]
+  },
+  {
+    "en": "boast",
+    "translation": "يتفاخر / يتباهى",
+    "ipa": "/bəʊst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He boasted about his success.",
+        "ar": "تباهى بنجاحه."
+      }
+    ]
+  },
+  {
+    "en": "bold",
+    "translation": "جريء / شجاع / بارز",
+    "ipa": "/bəʊld/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It was a bold move to start his own business.",
+        "ar": "لقد كانت خطوة جريئة أن يبدأ عمله الخاص."
+      }
+    ]
+  },
+  {
+    "en": "bombing",
+    "translation": "قصف / تفجير",
+    "ipa": "/ˈbɒmɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bombing destroyed several buildings.",
+        "ar": "دمر القصف عدة مبانٍ."
+      }
+    ]
+  },
+  {
+    "en": "bonus",
+    "translation": "مكافأة إضافية / علاوة",
+    "ipa": "/ˈbəʊnəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Employees received a Christmas bonus.",
+        "ar": "حصل الموظفون على مكافأة عيد الميلاد."
+      }
+    ]
+  },
+  {
+    "en": "booking",
+    "translation": "حجز",
+    "ipa": "/ˈbʊkɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I'd like to make a hotel booking.",
+        "ar": "أود إجراء حجز فندقي."
+      }
+    ]
+  },
+  {
+    "en": "boom",
+    "translation": "ازدهار / دوي",
+    "ipa": "/buːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country is experiencing an economic boom.",
+        "ar": "تعيش البلاد ازدهاراً اقتصادياً."
+      }
+    ]
+  },
+  {
+    "en": "boost",
+    "translation": "يعزز / يرفع",
+    "ipa": "/buːst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new marketing strategy boosted sales.",
+        "ar": "عززت استراتيجية التسويق الجديدة المبيعات."
+      }
+    ]
+  },
+  {
+    "en": "bounce",
+    "translation": "يرتد / يقفز",
+    "ipa": "/baʊns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The ball bounced off the wall.",
+        "ar": "ارتدت الكرة عن الجدار."
+      }
+    ]
+  },
+  {
+    "en": "bound",
+    "translation": "مقيد / ملزم / مرجح جداً / وثبة",
+    "ipa": "/baʊnd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You are bound by the terms of the contract.",
+        "ar": "أنت ملزم بشروط العقد."
+      }
+    ]
+  },
+  {
+    "en": "boundary",
+    "translation": "حدود / تخوم",
+    "ipa": "/ˈbaʊndri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The river forms the boundary between the two countries.",
+        "ar": "يشكل النهر الحدود بين البلدين."
+      }
+    ]
+  },
+  {
+    "en": "bow",
+    "translation": "ينحني / قوس",
+    "ipa": "/baʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He bowed low to the audience.",
+        "ar": "انحنى بشدة للجمهور."
+      }
+    ]
+  },
+  {
+    "en": "breach",
+    "translation": "خرق / نقض / ثغرة",
+    "ipa": "/briːtʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company was sued for breach of contract.",
+        "ar": "تمت مقاضاة الشركة بسبب خرق العقد."
+      }
+    ]
+  },
+  {
+    "en": "breakdown",
+    "translation": "تعطل / انهيار / تحليل",
+    "ipa": "/ˈbreɪkdaʊn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We suffered a car breakdown on the motorway.",
+        "ar": "تعطلت سيارتنا على الطريق السريع."
+      }
+    ]
+  },
+  {
+    "en": "breakthrough",
+    "translation": "اختراق / تقدم كبير",
+    "ipa": "/ˈbreɪkθruː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Scientists have made a major breakthrough in cancer research.",
+        "ar": "حقق العلماء اختراقاً كبيراً في أبحاث السرطان."
+      }
+    ]
+  },
+  {
+    "en": "breed",
+    "translation": "يتكاثر / سلالة",
+    "ipa": "/briːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He breeds racehorses.",
+        "ar": "هو يربي (يهجن) خيول السباق."
+      }
+    ]
+  },
+  {
+    "en": "brick",
+    "translation": "طوبة / لبنة",
+    "ipa": "/brɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The house is built of red bricks.",
+        "ar": "المنزل مبني من الطوب الأحمر."
+      }
+    ]
+  },
+  {
+    "en": "brief",
+    "translation": "موجز / مختصر",
+    "ipa": "/briːf/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please give a brief summary of the report.",
+        "ar": "يرجى تقديم ملخص موجز للتقرير."
+      }
+    ]
+  },
+  {
+    "en": "briefly",
+    "translation": "باختصار / لفترة وجيزة",
+    "ipa": "/ˈbriːfli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We met briefly to discuss the plan.",
+        "ar": "التقينا لفترة وجيزة لمناقشة الخطة."
+      }
+    ]
+  },
+  {
+    "en": "broadband",
+    "translation": "نطاق عريض / إنترنت سريع",
+    "ipa": "/ˈbrɔːdbænd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "High-speed broadband is available in most areas.",
+        "ar": "يتوفر الإنترنت السريع (نطاق عريض) في معظم المناطق."
+      }
+    ]
+  }
+]

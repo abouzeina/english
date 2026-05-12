@@ -1,14 +1,36 @@
 {
   "id": "lsn_c1_t_2",
   "levelId": "lvl_c1",
-  "title": "Unit 44: T Words - Part 2",
+  "title": "Unit 63: T Words - Part 2",
   "slug": "t-words-2",
-  "order": 44,
+  "order": 63,
   "wordCount": 21,
-  "titleAr": "الوحدة 44: كلمات حرف T - الجزء 2",
+  "titleAr": "الوحدة 63: كلمات حرف T - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter T.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف T.",
   "words": [
+    {
+      "id": "w_c1_thoughtful",
+      "en": "thoughtful",
+      "ar": "مراعٍ للآخرين / متأمل",
+      "pronunciation": "ˈθɔːtfl",
+      "lessonId": "lsn_c1_t_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان من اللطيف جداً منك (مراعاة منك) إرسال الزهور.",
+          "ar": "He sat in silence with a thoughtful expression on his face."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_c1_thread",
       "en": "thread",
@@ -458,28 +480,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/tɹænˈzækʃən/"
-    },
-    {
-      "id": "w_c1_transcript",
-      "en": "transcript",
-      "ar": "نسخة / سجل الدرجات",
-      "lessonId": "lsn_c1_t_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يجب عليك تقديم نسخة رسمية من سجل درجاتك.",
-          "ar": "The court published a transcript of the trial."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈtɹænskɹɪpt/"
     }
   ]
 }

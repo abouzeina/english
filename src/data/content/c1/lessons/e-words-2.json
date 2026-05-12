@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_e_2",
   "levelId": "lvl_c1",
-  "title": "Unit 10: E Words - Part 2",
+  "title": "Unit 24: E Words - Part 2",
   "slug": "e-words-2",
-  "order": 10,
-  "wordCount": 24,
-  "titleAr": "الوحدة 10: كلمات حرف E - الجزء 2",
+  "order": 24,
+  "wordCount": 25,
+  "titleAr": "الوحدة 24: كلمات حرف E - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter E.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف E.",
   "words": [
@@ -272,6 +272,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ɪnˈɹɪt͡ʃ/"
+    },
+    {
+      "id": "w_c1_enrol",
+      "lessonId": "lsn_c1_e_2",
+      "en": "enrol",
+      "ar": "يسجل / يلتحق بـ",
+      "translation": "يسجل / يلتحق بـ",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I decided to enrol in an English course.",
+          "ar": "قررت التسجيل في دورة لغة إنجليزية."
+        }
+      ],
+      "ipa": "/ɪnˈrəʊl/"
     },
     {
       "id": "w_c1_ensue",

@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_c_4",
   "levelId": "lvl_b1",
-  "title": "Unit 8: C Words - Part 4",
+  "title": "Unit 9: C Words - Part 4",
   "slug": "c-words-4",
-  "order": 8,
-  "wordCount": 19,
-  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 4",
+  "order": 9,
+  "wordCount": 24,
+  "titleAr": "الوحدة 9: كلمات حرف C - الجزء 4",
   "description": "Master essential B1 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف C.",
   "words": [
@@ -74,6 +74,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_contrast",
+      "lessonId": "lsn_b1_c_4",
+      "en": "contrast",
+      "ar": "تباين / تضاد",
+      "translation": "تباين / تضاد",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a sharp contrast between the two styles.",
+          "ar": "هناك تباين حاد بين الأسلوبين."
+        }
+      ],
+      "ipa": "/ˈkɒntrɑːst/"
     },
     {
       "id": "w_b1_contrasts",
@@ -287,6 +310,29 @@
       "ipa": "/ˈkʌvə/"
     },
     {
+      "id": "w_b1_covered",
+      "lessonId": "lsn_b1_c_4",
+      "en": "covered",
+      "ar": "مغطى",
+      "translation": "مغطى",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The mountains were covered with snow.",
+          "ar": "كانت الجبال مغطاة بالثلوج."
+        }
+      ],
+      "ipa": "/ˈkʌvəd/"
+    },
+    {
       "id": "w_b1_criminals",
       "en": "criminals",
       "ar": "مجرمين",
@@ -375,6 +421,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_current",
+      "lessonId": "lsn_b1_c_4",
+      "en": "current",
+      "ar": "حالي / تيار",
+      "translation": "حالي / تيار",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "What is your current address?",
+          "ar": "ما هو عنوانك الحالي؟"
+        }
+      ],
+      "ipa": "/ˈkʌrənt/"
+    },
+    {
       "id": "w_b1_currently",
       "en": "currently",
       "ar": "حالياً",
@@ -397,6 +466,29 @@
       "ipa": "/ˈkʌɹəntli/"
     },
     {
+      "id": "w_b1_curtain",
+      "lessonId": "lsn_b1_c_4",
+      "en": "curtain",
+      "ar": "ستارة",
+      "translation": "ستارة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She closed the curtains to keep the light out.",
+          "ar": "أغلقت الستائر لمنع دخول الضوء."
+        }
+      ],
+      "ipa": "/ˈkɜːtn/"
+    },
+    {
       "id": "w_b1_curtains",
       "en": "curtains",
       "ar": "ستائر",
@@ -417,6 +509,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_custom",
+      "lessonId": "lsn_b1_c_4",
+      "en": "custom",
+      "ar": "عادة / عرف / جمارك",
+      "translation": "عادة / عرف / جمارك",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It is a local custom to welcome guests with coffee.",
+          "ar": "من العادات المحلية الترحيب بالضيوف بالقهوة."
+        }
+      ],
+      "ipa": "/ˈkʌstəm/"
     },
     {
       "id": "w_b1_customs",

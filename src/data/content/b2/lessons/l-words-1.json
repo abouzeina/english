@@ -1,11 +1,11 @@
 {
-  "id": "lsn_b2_l",
+  "id": "lsn_b2_l_1",
   "levelId": "lvl_b2",
-  "title": "Unit 31: L Words",
-  "slug": "l-words",
-  "order": 31,
-  "wordCount": 22,
-  "titleAr": "الوحدة 31: كلمات حرف L",
+  "title": "Unit 37: L Words - Part 1",
+  "slug": "l-words-1",
+  "order": 37,
+  "wordCount": 20,
+  "titleAr": "الوحدة 37: كلمات حرف L - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter L.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف L.",
   "words": [
@@ -13,7 +13,7 @@
       "id": "w_b2_labor",
       "en": "Labor",
       "ar": "العمل",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -32,10 +32,33 @@
       "ipa": "/ˈleɪ.bɚ/"
     },
     {
+      "id": "w_b2_labour",
+      "lessonId": "lsn_b2_l_1",
+      "en": "labour",
+      "ar": "عمل / عمالة",
+      "translation": "عمل / عمالة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The cost of skilled labour is rising.",
+          "ar": "تكلفة العمالة الماهرة في ارتفاع."
+        }
+      ],
+      "ipa": "/ˈleɪbə(r)/"
+    },
+    {
       "id": "w_b2_ladder",
       "en": "ladder",
       "ar": "السلم",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -57,7 +80,7 @@
       "id": "w_b2_landing",
       "en": "landing",
       "ar": "هبوط",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -79,7 +102,7 @@
       "id": "w_b2_landscape",
       "en": "landscape",
       "ar": "منظرًا طبيعيًا",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -101,7 +124,7 @@
       "id": "w_b2_lane",
       "en": "lane",
       "ar": "الطريق (الضيق)",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -123,7 +146,7 @@
       "id": "w_b2_largely",
       "en": "largely",
       "ar": "إلى حد كبير",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -145,7 +168,7 @@
       "id": "w_b2_lately",
       "en": "lately",
       "ar": "مؤخراً",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -167,7 +190,7 @@
       "id": "w_b2_launch",
       "en": "launch",
       "ar": "إطلاق",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -193,7 +216,7 @@
       "id": "w_b2_leadership",
       "en": "Leadership",
       "ar": "القيادة",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -212,11 +235,34 @@
       "ipa": "/ˈliːdəʃɪp/"
     },
     {
+      "id": "w_b2_leaflet",
+      "lessonId": "lsn_b2_l_1",
+      "en": "leaflet",
+      "ar": "منشور / مطوية",
+      "translation": "منشور / مطوية",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He handed out leaflets on the street.",
+          "ar": "وزع منشورات في الشارع."
+        }
+      ],
+      "ipa": "/ˈliːflət/"
+    },
+    {
       "id": "w_b2_leaflets",
       "en": "leaflets",
       "ar": "منشورات",
       "pronunciation": "",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -237,7 +283,7 @@
       "id": "w_b2_league",
       "en": "league",
       "ar": "دوري",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -259,7 +305,7 @@
       "id": "w_b2_lean",
       "en": "lean",
       "ar": "يتكئ",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -281,7 +327,7 @@
       "id": "w_b2_legend",
       "en": "legend",
       "ar": "أسطورة",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -303,7 +349,7 @@
       "id": "w_b2_lens",
       "en": "lens",
       "ar": "عدسة",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -326,7 +372,7 @@
       "en": "leveled",
       "ar": "تسوية",
       "pronunciation": "",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -347,7 +393,7 @@
       "id": "w_b2_lifetime",
       "en": "lifetime",
       "ar": "عمراً كاملاً",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -369,7 +415,7 @@
       "id": "w_b2_lighting",
       "en": "lighting",
       "ar": "إضاءة",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -391,7 +437,7 @@
       "id": "w_b2_likewise",
       "en": "likewise",
       "ar": "وكذلك",
-      "lessonId": "lsn_b2_l",
+      "lessonId": "lsn_b2_l_1",
       "levelId": "lvl_b2",
       "examples": [
         {
@@ -408,94 +454,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈlaɪkˌwaɪz/"
-    },
-    {
-      "id": "w_b2_limitation",
-      "en": "limitation",
-      "ar": "محدوديته",
-      "lessonId": "lsn_b2_l",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "His physical limitation affects his performance.",
-          "ar": "تؤثر محدوديته البدنية على ادائه."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/lɪmɪˈteɪʃən/"
-    },
-    {
-      "id": "w_b2_limited",
-      "en": "limited",
-      "ar": "محدودة",
-      "lessonId": "lsn_b2_l",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "His knowledge is limited in this field.",
-          "ar": "معرفته محدودة في هذا المجال."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈlɪmɪtɪd/"
-    },
-    {
-      "id": "w_b2_lined",
-      "en": "lined",
-      "ar": "بتبطين",
-      "lessonId": "lsn_b2_l",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I lined the sides of the box with fabric.",
-          "ar": "قمت بتبطين جوانب الصندوق بالقماش."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/laɪnd/"
-    },
-    {
-      "id": "w_b2_literally",
-      "en": "literally",
-      "ar": "حرفيا",
-      "lessonId": "lsn_b2_l",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The room is literally freezing cold.",
-          "ar": "الغرفة حرفيا متجمدة من البرد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈlɪtəɹəli/"
     }
   ]
 }

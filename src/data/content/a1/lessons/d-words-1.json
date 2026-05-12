@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_d_1",
   "levelId": "lvl_a1",
-  "title": "Unit 9: D Words - Part 1",
+  "title": "Unit 10: D Words - Part 1",
   "slug": "d-words-1",
-  "order": 9,
-  "wordCount": 21,
-  "titleAr": "الوحدة 9: كلمات حرف D - الجزء 1",
+  "order": 10,
+  "wordCount": 23,
+  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف D.",
   "words": [
@@ -434,6 +434,29 @@
       "ipa": "/ˈdiːteɪl/"
     },
     {
+      "id": "w_a1_dialogue",
+      "lessonId": "lsn_a1_d_1",
+      "en": "dialogue",
+      "ar": "حوار / محادثة",
+      "translation": "حوار / محادثة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The movie has a very funny dialogue.",
+          "ar": "الفيلم به حوار مضحك للغاية."
+        }
+      ],
+      "ipa": "/ˈdaɪəlɒɡ/"
+    },
+    {
       "id": "w_a1_dialogues",
       "lessonId": "lsn_a1_d_1",
       "en": "dialogues",
@@ -476,6 +499,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_die",
+      "lessonId": "lsn_a1_d_1",
+      "en": "die",
+      "ar": "يموت",
+      "translation": "يموت",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Plants will die without water.",
+          "ar": "ستموت النباتات بدون ماء."
+        }
+      ],
+      "ipa": "/daɪ/"
     },
     {
       "id": "w_a1_died",

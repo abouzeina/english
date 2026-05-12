@@ -1,0 +1,526 @@
+{
+  "id": "lsn_b2_s_6",
+  "levelId": "lvl_b2",
+  "title": "Unit 60: S Words - Part 6",
+  "slug": "s-words-6",
+  "order": 60,
+  "wordCount": 22,
+  "titleAr": "الوحدة 60: كلمات حرف S - الجزء 6",
+  "description": "Master essential B2 vocabulary starting with the letter S.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف S.",
+  "words": [
+    {
+      "id": "w_b2_sticky",
+      "en": "sticky",
+      "ar": "الشريط اللاصق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The sticky tape held the broken pieces together.",
+          "ar": "ثبت الشريط اللاصق القطع المكسورة ببعضها البعض."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stiff",
+      "en": "stiff",
+      "ar": "صلبا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The board felt stiff and hard to bend.",
+          "ar": "كان اللوح صلبا وصعب الثني."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stimulate",
+      "en": "stimulate",
+      "ar": "تحفيز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The discussion helped stimulate new ideas and solutions.",
+          "ar": "ساعدت المناقشة في تحفيز الأفكار والحلول الجديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stock",
+      "en": "stock",
+      "ar": "مخزونًا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The store received new stock this morning.",
+          "ar": "استلم المتجر مخزونًا جديدًا هذا الصباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stream",
+      "en": "stream",
+      "ar": "جدول",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A gentle stream flowed behind their house.",
+          "ar": "كان هناك جدول صغير يتدفق خلف منزلهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɹiːm/"
+    },
+    {
+      "id": "w_b2_strengthen",
+      "en": "strengthen",
+      "ar": "ستقوي",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Regular practice will strengthen your writing skills.",
+          "ar": "الممارسة المنتظمة ستقوي مهاراتك في الكتابة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈstɹɛŋ(k)θən/"
+    },
+    {
+      "id": "w_b2_stretch",
+      "lessonId": "lsn_b2_s_6",
+      "en": "stretch",
+      "ar": "يمدد / يتمدد",
+      "translation": "يمدد / يتمدد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He stretched his arms and legs.",
+          "ar": "مدد ذراعيه وساقيه."
+        }
+      ],
+      "ipa": "/stretʃ/"
+    },
+    {
+      "id": "w_b2_stretches",
+      "en": "stretches",
+      "ar": "يمتد / امتداد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The road stretches far into the countryside.",
+          "ar": "يمتد الطريق بعيدا في الريف."
+        },
+        {
+          "en": "This road has a dangerous stretch with sharp turns.",
+          "ar": "يحتوي هذا الطريق على امتداد خطير مع منعطفات حادة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_strict",
+      "en": "strict",
+      "ar": "صارمة / منعا باتا",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Smoking is strictly prohibited inside the building.",
+          "ar": "التدخين ممنوع منعا باتا داخل المبنى."
+        },
+        {
+          "en": "The school has strict policies on student behavior.",
+          "ar": "لدى المدرسة سياسات صارمة بشأن سلوك الطلاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɹɪkt/"
+    },
+    {
+      "id": "w_b2_strictly",
+      "lessonId": "lsn_b2_s_6",
+      "en": "strictly",
+      "ar": "بصرامة / بدقة",
+      "translation": "بصرامة / بدقة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The rules must be strictly followed.",
+          "ar": "يجب اتباع القواعد بصرامة."
+        }
+      ],
+      "ipa": "/ˈstrɪktli/"
+    },
+    {
+      "id": "w_b2_strike",
+      "en": "strike",
+      "ar": "الإضراب / ضربت / ضربة حظ",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A sudden stroke of luck changed his life.",
+          "ar": "ضربة حظ مفاجئة غيرت حياته."
+        },
+        {
+          "en": "The branches struck the window during the storm.",
+          "ar": "ضربت الأغصان النافذة أثناء العاصفة."
+        },
+        {
+          "en": "The strike lasted for nearly two weeks.",
+          "ar": "استمر الإضراب لمدة أسبوعين تقريبا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɹaɪk/"
+    },
+    {
+      "id": "w_b2_striking",
+      "lessonId": "lsn_b2_s_6",
+      "en": "striking",
+      "ar": "لافت للنظر / مذهل",
+      "translation": "لافت للنظر / مذهل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The similarity between the two brothers is striking.",
+          "ar": "التشابه بين الأخوين مذهل."
+        }
+      ],
+      "ipa": "/ˈstraɪkɪŋ/"
+    },
+    {
+      "id": "w_b2_stroke",
+      "lessonId": "lsn_b2_s_6",
+      "en": "stroke",
+      "ar": "سكتة دماغية / جرة / لمسة",
+      "translation": "سكتة دماغية / جرة / لمسة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He suffered a stroke last year.",
+          "ar": "أُصيب بسكتة دماغية العام الماضي."
+        }
+      ],
+      "ipa": "/strəʊk/"
+    },
+    {
+      "id": "w_b2_structured",
+      "en": "structured",
+      "ar": "رتب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He structured his speech carefully.",
+          "ar": "لقد رتب خطابه بعناية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_struggle",
+      "en": "struggle",
+      "ar": "كافح / النضال",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The struggle for freedom lasted many years.",
+          "ar": "استمر النضال من أجل الحرية سنوات عديدة."
+        },
+        {
+          "en": "The team struggled but finally won the game.",
+          "ar": "كافح الفريق لكنه فاز في النهاية بالمباراة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stuffed",
+      "en": "stuffed",
+      "ar": "حشو",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He stuffed his shoes with newspaper to dry them.",
+          "ar": "قام بحشو حذائه بالجرائد لتجفيفه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_stunning",
+      "en": "stunning",
+      "ar": "بديعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The wedding decorations looked absolutely stunning.",
+          "ar": "بدت ديكورات الزفاف بديعة للغاية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_submit",
+      "en": "submit",
+      "ar": "تقديم",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They failed to submit the required documents.",
+          "ar": "فشلوا في تقديم المستندات المطلوبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səbˈmɪt/"
+    },
+    {
+      "id": "w_b2_subsequent",
+      "en": "subsequent",
+      "ar": "اللاحقة / وبعد ذلك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He trained daily and subsequently won the championship.",
+          "ar": "كان يتدرب يوميًا وبعد ذلك فاز بالبطولة."
+        },
+        {
+          "en": "She improved in subsequent attempts after practicing more.",
+          "ar": "لقد تحسنت في المحاولات اللاحقة بعد أن تدربت أكثر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_subsequently",
+      "lessonId": "lsn_b2_s_6",
+      "en": "subsequently",
+      "ar": "لاحقاً / بعد ذلك",
+      "translation": "لاحقاً / بعد ذلك",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The decision was subsequently changed.",
+          "ar": "تم تغيير القرار لاحقاً."
+        }
+      ],
+      "ipa": "/ˈsʌbsɪkwəntli/"
+    },
+    {
+      "id": "w_b2_suburb",
+      "en": "suburb",
+      "ar": "الضاحية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The suburb is connected to the city by train.",
+          "ar": "ترتبط الضاحية بالمدينة عبر القطار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_suffering",
+      "en": "suffering",
+      "ar": "معاناتها",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She hid her suffering behind a fake smile.",
+          "ar": "أخفت معاناتها وراء ابتسامة مزيفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

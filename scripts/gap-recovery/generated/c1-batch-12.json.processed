@@ -1,0 +1,710 @@
+[
+  {
+    "en": "ministry",
+    "translation": "وزارة / مهنة القسيس",
+    "ipa": "/ˈmɪnɪstri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He works in the Ministry of Foreign Affairs.",
+        "ar": "يعمل في وزارة الشؤون الخارجية."
+      }
+    ]
+  },
+  {
+    "en": "occasional",
+    "translation": "عرضي / من حين لآخر",
+    "ipa": "/əˈkeɪʒənl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He makes occasional visits to the capital.",
+        "ar": "يقوم بزيارات عرضية (من حين لآخر) للعاصمة."
+      }
+    ]
+  },
+  {
+    "en": "parish",
+    "translation": "أبرشية / منطقة كنسية",
+    "ipa": "/ˈpærɪʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is the priest of a small rural parish.",
+        "ar": "هو كاهن أبرشية ريفية صغيرة."
+      }
+    ]
+  },
+  {
+    "en": "parliamentary",
+    "translation": "برلماني",
+    "ipa": "/ˌpɑːləˈmentri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country has a parliamentary system of government.",
+        "ar": "للدولة نظام حكم برلماني."
+      }
+    ]
+  },
+  {
+    "en": "partial",
+    "translation": "جزئي / متحيز",
+    "ipa": "/ˈpɑːʃl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The project was only a partial success.",
+        "ar": "كان المشروع نجاحاً جزئياً فقط."
+      }
+    ]
+  },
+  {
+    "en": "partially",
+    "translation": "جزئياً",
+    "ipa": "/ˈpɑːʃəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The building was partially destroyed by the fire.",
+        "ar": "دُمر المبنى جزئياً بسبب الحريق."
+      }
+    ]
+  },
+  {
+    "en": "passing",
+    "translation": "مرور / عبور / زائل / عرضي",
+    "ipa": "/ˈpɑːsɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He only mentioned it in passing.",
+        "ar": "ذكره بشكل عرضي (عابراً) فقط."
+      }
+    ]
+  },
+  {
+    "en": "passive",
+    "translation": "سلبي / مبني للمجهول",
+    "ipa": "/ˈpæsɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He played a passive role in the meeting.",
+        "ar": "لعب دوراً سلبياً في الاجتماع."
+      }
+    ]
+  },
+  {
+    "en": "pastor",
+    "translation": "قسيس / راعي كنيسة",
+    "ipa": "/ˈpɑːstə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The pastor gave an inspiring sermon.",
+        "ar": "ألقى القسيس خطبة ملهمة."
+      }
+    ]
+  },
+  {
+    "en": "patch",
+    "translation": "رقعة / قطعة أرض / لاصقة",
+    "ipa": "/pætʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He had a patch on the elbow of his jacket.",
+        "ar": "كان لديه رقعة على مرفق سترته."
+      }
+    ]
+  },
+  {
+    "en": "patent",
+    "translation": "براءة اختراع / واضح",
+    "ipa": "/ˈpeɪtnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She applied for a patent for her new invention.",
+        "ar": "تقدمت بطلب للحصول على براءة اختراع لاختراعها الجديد."
+      }
+    ]
+  },
+  {
+    "en": "pathway",
+    "translation": "مسار / طريق / درب",
+    "ipa": "/ˈpɑːθweɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The garden has many stone pathways.",
+        "ar": "الحديقة بها العديد من المسارات الحجرية."
+      }
+    ]
+  },
+  {
+    "en": "pregnancy",
+    "translation": "حمل",
+    "ipa": "/ˈpreɡnənsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She had a healthy pregnancy.",
+        "ar": "كان لديها حمل صحي."
+      }
+    ]
+  },
+  {
+    "en": "prevention",
+    "translation": "وقاية / منع",
+    "ipa": "/prɪˈvenʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Prevention is better than cure.",
+        "ar": "الوقاية خير من العلاج."
+      }
+    ]
+  },
+  {
+    "en": "prey",
+    "translation": "فريسة",
+    "ipa": "/preɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The eagle was searching for its prey.",
+        "ar": "كان النسر يبحث عن فريسته."
+      }
+    ]
+  },
+  {
+    "en": "prominent",
+    "translation": "بارز / مشهور / ناتئ",
+    "ipa": "/ˈprɒmɪnənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a prominent figure in the local community.",
+        "ar": "هو شخصية بارزة في المجتمع المحلي."
+      }
+    ]
+  },
+  {
+    "en": "pronounced",
+    "translation": "واضح / منطوق / بارز",
+    "ipa": "/prəˈnaʊnst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There has been a pronounced improvement in the economy.",
+        "ar": "كان هناك تحسن واضح (بارز) في الاقتصاد."
+      }
+    ]
+  },
+  {
+    "en": "propaganda",
+    "translation": "دعاية / بروباغندا",
+    "ipa": "/ˌprɒpəˈɡændə/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The information was dismissed as enemy propaganda.",
+        "ar": "تم رفض المعلومات باعتبارها دعاية (بروباغندا) للعدو."
+      }
+    ]
+  },
+  {
+    "en": "protective",
+    "translation": "واقي / وقائي",
+    "ipa": "/prəˈtektɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You should wear protective clothing for the task.",
+        "ar": "يجب عليك ارتداء ملابس واقية لهذه المهمة."
+      }
+    ]
+  },
+  {
+    "en": "query",
+    "translation": "استفسار / تساؤل",
+    "ipa": "/ˈkwɪəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "If you have any queries, please contact us.",
+        "ar": "إذا كان لديك أي استفسارات، يرجى الاتصال بنا."
+      }
+    ]
+  },
+  {
+    "en": "quest",
+    "translation": "بحث / سعى / مهمة",
+    "ipa": "/kwest/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They are on a quest for the truth.",
+        "ar": "إنهم في مهمة بحث عن الحقيقة."
+      }
+    ]
+  },
+  {
+    "en": "radar",
+    "translation": "رادار",
+    "ipa": "/ˈreɪdɑː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The ship disappeared from the radar screen.",
+        "ar": "اختفت السفينة من شاشة الرادار."
+      }
+    ]
+  },
+  {
+    "en": "rage",
+    "translation": "غضب عارم / غيظ",
+    "ipa": "/reɪdʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He flew into a rage when he heard the news.",
+        "ar": "استشاط غضباً عندما سمع الأخبار."
+      }
+    ]
+  },
+  {
+    "en": "ray",
+    "translation": "شعاع",
+    "ipa": "/reɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "A ray of sunlight came through the window.",
+        "ar": "دخل شعاع من ضوء الشمس عبر النافذة."
+      }
+    ]
+  },
+  {
+    "en": "rebel",
+    "translation": "متمرد / ثائر",
+    "ipa": "/ˈrebl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The rebels captured the city.",
+        "ar": "استولى المتمردون على المدينة."
+      }
+    ]
+  },
+  {
+    "en": "referendum",
+    "translation": "استفتاء",
+    "ipa": "/ˌrefəˈrendəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government held a referendum on the new law.",
+        "ar": "أجرت الحكومة استفتاءً على القانون الجديد."
+      }
+    ]
+  },
+  {
+    "en": "reflection",
+    "translation": "انعكاس / تفكير / تأمل",
+    "ipa": "/rɪˈflekʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He saw his reflection in the water.",
+        "ar": "رأى انعكاس صورته في الماء."
+      }
+    ]
+  },
+  {
+    "en": "rumour",
+    "translation": "شائعة / قيل وقال",
+    "ipa": "/ˈruːmə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Don't believe everything you hear; it's just a rumour.",
+        "ar": "لا تصدق كل ما تسمع؛ إنها مجرد شائعة."
+      }
+    ]
+  },
+  {
+    "en": "sceptical",
+    "translation": "متشكك / مرتاب",
+    "ipa": "/ˈskeptɪkl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I'm very sceptical about his story.",
+        "ar": "أنا متشكك جداً في قصته."
+      }
+    ]
+  },
+  {
+    "en": "secular",
+    "translation": "علماني / دنيوي",
+    "ipa": "/ˈsekjələ(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country has a secular education system.",
+        "ar": "للدولة نظام تعليمي علماني."
+      }
+    ]
+  },
+  {
+    "en": "segment",
+    "translation": "قطاع / جزء / قطعة",
+    "ipa": "/ˈseɡmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The orange is divided into several segments.",
+        "ar": "تنقسم البرتقالة إلى عدة فصوص (قطع)."
+      }
+    ]
+  },
+  {
+    "en": "settlement",
+    "translation": "تسوية / مستوطنة / استقرار",
+    "ipa": "/ˈsetlmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They reached a peaceful settlement of the dispute.",
+        "ar": "توصلوا إلى تسوية سلمية للنزاع."
+      }
+    ]
+  },
+  {
+    "en": "situated",
+    "translation": "يقع في / كائن في",
+    "ipa": "/ˈsɪtʃueɪtɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The hotel is beautifully situated near the lake.",
+        "ar": "يقع الفندق في موقع جميل بالقرب من البحيرة."
+      }
+    ]
+  },
+  {
+    "en": "sacrifice",
+    "translation": "تضحية / يضحي",
+    "ipa": "/ˈsækrɪfaɪs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Parents often make sacrifices for their children.",
+        "ar": "غالباً ما يقدم الوالدان تضحيات من أجل أطفالهما."
+      }
+    ]
+  },
+  {
+    "en": "screw",
+    "translation": "مسمار لولبي / برغي",
+    "ipa": "/skruː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I need a screwdriver to tighten this screw.",
+        "ar": "أحتاج لمفك براغي لشد هذا المسمار اللولبي."
+      }
+    ]
+  },
+  {
+    "en": "separation",
+    "translation": "انفصال / فراق",
+    "ipa": "/ˌsepəˈreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The separation from his family was very difficult.",
+        "ar": "كان الانفصال عن عائلته صعباً للغاية."
+      }
+    ]
+  },
+  {
+    "en": "shareholder",
+    "translation": "مساهم / صاحب أسهم",
+    "ipa": "/ˈʃeəhəʊldə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company held a meeting for its shareholders.",
+        "ar": "عقدت الشركة اجتماعاً لمساهميها."
+      }
+    ]
+  },
+  {
+    "en": "shrink",
+    "translation": "ينكمش / يتقلص",
+    "ipa": "/ʃrɪŋk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The woolen sweater shrank in the wash.",
+        "ar": "انكمشت السترة الصوفية في الغسيل."
+      }
+    ]
+  },
+  {
+    "en": "shrug",
+    "translation": "يهز كتفيه (عدم اهتمام أو عدم معرفة)",
+    "ipa": "/ʃrʌɡ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He just shrugged his shoulders and said nothing.",
+        "ar": "هز كتفيه فقط ولم يقل شيئاً."
+      }
+    ]
+  },
+  {
+    "en": "sigh",
+    "translation": "يتنهد / تنهيدة",
+    "ipa": "/saɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She gave a deep sigh of relief.",
+        "ar": "تنهدت تنهيدة عميقة من الراحة."
+      }
+    ]
+  },
+  {
+    "en": "simulate",
+    "translation": "يحاكي / يقلد",
+    "ipa": "/ˈsɪmjuleɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The software can simulate flight conditions.",
+        "ar": "يمكن للبرنامج محاكاة ظروف الطيران."
+      }
+    ]
+  },
+  {
+    "en": "simulation",
+    "translation": "محاكاة / تمثيل",
+    "ipa": "/ˌsɪmjuˈleɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Training includes a computer simulation of the task.",
+        "ar": "يتضمن التدريب محاكاة حاسوبية للمهمة."
+      }
+    ]
+  },
+  {
+    "en": "simultaneously",
+    "translation": "في آن واحد / في نفس الوقت",
+    "ipa": "/ˌsɪmlˈteɪniəsli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two events happened simultaneously.",
+        "ar": "وقع الحدثان في آن واحد."
+      }
+    ]
+  },
+  {
+    "en": "sin",
+    "translation": "خطيئة / ذنب",
+    "ipa": "/sɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He asked for forgiveness for his sins.",
+        "ar": "طلب المغفرة لذنوبه (خطاياه)."
+      }
+    ]
+  },
+  {
+    "en": "sketch",
+    "translation": "رسم تخطيطي / مسودة / اسكتش",
+    "ipa": "/sketʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She made a quick sketch of the landscape.",
+        "ar": "رسمت مخططاً (اسكتشاً) سريعاً للمناظر الطبيعية."
+      }
+    ]
+  },
+  {
+    "en": "skip",
+    "translation": "يتخطى / يقفز",
+    "ipa": "/skɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He decided to skip breakfast.",
+        "ar": "قرر تخطي وجبة الإفطار."
+      }
+    ]
+  },
+  {
+    "en": "stem",
+    "translation": "ساق النبتة / ينبع من / يتصدى لـ",
+    "ipa": "/stem/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The problem stems from a lack of communication.",
+        "ar": "تنبع المشكلة من قلة التواصل."
+      }
+    ]
+  },
+  {
+    "en": "stereotype",
+    "translation": "صورة نمطية",
+    "ipa": "/ˈsteriətaɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The movie relies on racial stereotypes.",
+        "ar": "يعتمد الفيلم على صور نمطية عرقية."
+      }
+    ]
+  },
+  {
+    "en": "stimulus",
+    "translation": "محفز / منبه",
+    "ipa": "/ˈstɪmjələs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new law provided a stimulus for the economy.",
+        "ar": "وفر القانون الجديد محفزاً للاقتصاد."
+      }
+    ]
+  },
+  {
+    "en": "stir",
+    "translation": "يحرك / يثير / ضجة",
+    "ipa": "/stɜː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Stir the soup slowly.",
+        "ar": "حرك الحساء ببطء."
+      }
+    ]
+  },
+  {
+    "en": "subsidy",
+    "translation": "دعم مالي / إعانة",
+    "ipa": "/ˈsʌbsədi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Farmers receive a subsidy from the government.",
+        "ar": "يتلقى المزارعون دعماً مالياً من الحكومة."
+      }
+    ]
+  },
+  {
+    "en": "surplus",
+    "translation": "فائض",
+    "ipa": "/ˈsɜːpləs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country has a trade surplus.",
+        "ar": "البلاد لديها فائض تجاري."
+      }
+    ]
+  },
+  {
+    "en": "surrender",
+    "translation": "يستسلم / تنازل",
+    "ipa": "/səˈrendə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The soldiers were forced to surrender.",
+        "ar": "اضطر الجنود للاستسلام."
+      }
+    ]
+  },
+  {
+    "en": "swing",
+    "translation": "يتأرجح / أرجوحة / تقلب",
+    "ipa": "/swɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The pendulum swings back and forth.",
+        "ar": "يتأرجح البندول ذهاباً وإياباً."
+      }
+    ]
+  },
+  {
+    "en": "terminal",
+    "translation": "محطة / نهائي / مميت",
+    "ipa": "/ˈtɜːmɪnl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bus arrived at the terminal.",
+        "ar": "وصلت الحافلة إلى المحطة النهائية."
+      }
+    ]
+  },
+  {
+    "en": "terrific",
+    "translation": "رائع / عظيم / هائل",
+    "ipa": "/təˈrɪfɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You've done a terrific job!",
+        "ar": "لقد قمت بعمل رائع!"
+      }
+    ]
+  },
+  {
+    "en": "versus",
+    "translation": "ضد / مقابل",
+    "ipa": "/ˈvɜːsəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The match was France versus Italy.",
+        "ar": "كانت المباراة فرنسا ضد إيطاليا."
+      }
+    ]
+  },
+  {
+    "en": "well-being",
+    "translation": "رفاهية / عافية / حسن الحال",
+    "ipa": "/ˌwel ˈbiːɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Physical exercise is important for emotional well-being.",
+        "ar": "التمارين البدنية مهمة للعافية (حسن الحال) العاطفية."
+      }
+    ]
+  },
+  {
+    "en": "whilst",
+    "translation": "بينما / في حين",
+    "ipa": "/waɪlst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He went to sleep whilst I was still working.",
+        "ar": "ذهب للنوم بينما كنت لا أزال أعمل."
+      }
+    ]
+  }
+]

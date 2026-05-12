@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_v",
   "levelId": "lvl_b1",
-  "title": "Unit 39: V Words",
+  "title": "Unit 43: V Words",
   "slug": "v-words",
-  "order": 39,
-  "wordCount": 10,
-  "titleAr": "الوحدة 39: كلمات حرف V",
+  "order": 43,
+  "wordCount": 14,
+  "titleAr": "الوحدة 43: كلمات حرف V",
   "description": "Master essential B1 vocabulary starting with the letter V.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف V.",
   "words": [
@@ -104,6 +104,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_victim",
+      "lessonId": "lsn_b1_v",
+      "en": "victim",
+      "ar": "ضحية",
+      "translation": "ضحية",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The victims of the flood were given food and shelter.",
+          "ar": "قُدم الطعام والمأوى لضحايا الفيضان."
+        }
+      ],
+      "ipa": "/ˈvɪktɪm/"
+    },
+    {
       "id": "w_b1_victims",
       "en": "victims",
       "ar": "ضحايا",
@@ -157,6 +180,29 @@
       "ipa": "/vjuː/"
     },
     {
+      "id": "w_b1_viewer",
+      "lessonId": "lsn_b1_v",
+      "en": "viewer",
+      "ar": "مشاهد",
+      "translation": "مشاهد",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The program has millions of viewers.",
+          "ar": "للبرنامج ملايين المشاهدين."
+        }
+      ],
+      "ipa": "/ˈvjuːə(r)/"
+    },
+    {
       "id": "w_b1_violent",
       "en": "violent",
       "ar": "عنيفاً",
@@ -177,6 +223,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_volunteer",
+      "lessonId": "lsn_b1_v",
+      "en": "volunteer",
+      "ar": "متطوع",
+      "translation": "متطوع",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She works as a volunteer for a local charity.",
+          "ar": "تعمل كمتطوعة في جمعية خيرية محلية."
+        }
+      ],
+      "ipa": "/ˌvɒlənˈtɪə(r)/"
     },
     {
       "id": "w_b1_volunteers",
@@ -203,6 +272,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_vote",
+      "lessonId": "lsn_b1_v",
+      "en": "vote",
+      "ar": "يصوت / تصويت",
+      "translation": "يصوت / تصويت",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Don't forget to vote in the election.",
+          "ar": "لا تنسَ التصويت في الانتخابات."
+        }
+      ],
+      "ipa": "/vəʊt/"
     },
     {
       "id": "w_b1_voted",

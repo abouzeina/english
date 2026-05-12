@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_h_1",
   "levelId": "lvl_b2",
-  "title": "Unit 23: H Words - Part 1",
+  "title": "Unit 29: H Words - Part 1",
   "slug": "h-words-1",
-  "order": 23,
-  "wordCount": 19,
-  "titleAr": "الوحدة 23: كلمات حرف H - الجزء 1",
+  "order": 29,
+  "wordCount": 21,
+  "titleAr": "الوحدة 29: كلمات حرف H - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter H.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف H.",
   "words": [
@@ -78,6 +78,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_harbour",
+      "lessonId": "lsn_b2_h_1",
+      "en": "harbour",
+      "ar": "ميناء / مرفأ",
+      "translation": "ميناء / مرفأ",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The boat sailed slowly into the harbour.",
+          "ar": "أبحرت السفينة ببطء في الميناء."
+        }
+      ],
+      "ipa": "/ˈhɑːbə(r)/"
     },
     {
       "id": "w_b2_harm",
@@ -326,6 +349,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_b2_herb",
+      "lessonId": "lsn_b2_h_1",
+      "en": "herb",
+      "ar": "عشب / نبات عشبي",
+      "translation": "عشب / نبات عشبي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She grows fresh herbs in her garden.",
+          "ar": "تزرع أعشاباً طازجة في حديقتها."
+        }
+      ],
+      "ipa": "/hɜːb/"
+    },
+    {
       "id": "w_b2_herbs",
       "en": "herbs",
       "ar": "الأعشاب",
@@ -346,6 +392,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_hesitate",
+      "lessonId": "lsn_b2_h_1",
+      "en": "hesitate",
+      "ar": "يتردد",
+      "translation": "يتردد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Don't hesitate to ask if you need help.",
+          "ar": "لا تتردد في السؤال إذا كنت بحاجة للمساعدة."
+        }
+      ],
+      "ipa": "/ˈhezɪteɪt/"
     },
     {
       "id": "w_b2_hesitated",
@@ -412,28 +481,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈhaɪweɪ/"
-    },
-    {
-      "id": "w_b2_hilarious",
-      "en": "hilarious",
-      "ar": "مضحكة",
-      "lessonId": "lsn_b2_h_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He told us a hilarious story from his childhood.",
-          "ar": "لقد روى لنا قصة مضحكة من طفولته."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/hɪˈlɛəɹiəs/"
     }
   ]
 }

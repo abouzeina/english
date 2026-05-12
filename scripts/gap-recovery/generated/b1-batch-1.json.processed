@@ -1,0 +1,590 @@
+[
+  {
+    "en": "academic",
+    "translation": "أكاديمي / دراسي",
+    "ipa": "/ˌækəˈdemɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has a strong academic background.",
+        "ar": "لديه خلفية أكاديمية قوية."
+      }
+    ]
+  },
+  {
+    "en": "account",
+    "translation": "حساب / تقرير",
+    "ipa": "/əˈkaʊnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I need to open a bank account.",
+        "ar": "أنا بحاجة لفتح حساب بنكي."
+      }
+    ]
+  },
+  {
+    "en": "ad",
+    "translation": "إعلان",
+    "ipa": "/æd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I saw an ad for a new car.",
+        "ar": "رأيت إعلاناً لسيارة جديدة."
+      }
+    ]
+  },
+  {
+    "en": "addition",
+    "translation": "إضافة / زيادة",
+    "ipa": "/əˈdɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "In addition to his job, he also teaches.",
+        "ar": "بالإضافة إلى عمله، هو يدرس أيضاً."
+      }
+    ]
+  },
+  {
+    "en": "alarm",
+    "translation": "إنذار / منبه",
+    "ipa": "/əˈlɑːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The fire alarm went off suddenly.",
+        "ar": "انطلق إنذار الحريق فجأة."
+      }
+    ]
+  },
+  {
+    "en": "alcoholic",
+    "translation": "كحولي / مدمن كحول",
+    "ipa": "/ˌælkəˈhɒlɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Is this drink alcoholic?",
+        "ar": "هل هذا المشروب كحولي؟"
+      }
+    ]
+  },
+  {
+    "en": "analyse",
+    "translation": "يحلل",
+    "ipa": "/ˈænəlaɪz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need to analyse the results carefully.",
+        "ar": "نحن بحاجة لتحليل النتائج بعناية."
+      }
+    ]
+  },
+  {
+    "en": "arrest",
+    "translation": "يعتقل / يقبض على",
+    "ipa": "/əˈrest/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The police arrested the thief yesterday.",
+        "ar": "قبضت الشرطة على اللص بالأمس."
+      }
+    ]
+  },
+  {
+    "en": "attach",
+    "translation": "يرفق / يربط",
+    "ipa": "/əˈtætʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please attach your photo to the form.",
+        "ar": "يرجى إرفاق صورتك بالنموذج."
+      }
+    ]
+  },
+  {
+    "en": "attract",
+    "translation": "يجذب",
+    "ipa": "/əˈtrækt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The exhibition attracted many visitors.",
+        "ar": "جذب المعرض الكثير من الزوار."
+      }
+    ]
+  },
+  {
+    "en": "authority",
+    "translation": "سلطة / هيئة",
+    "ipa": "/ɔːˈθɒrəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is an authority on modern art.",
+        "ar": "هو مرجع (سلطة) في الفن الحديث."
+      }
+    ]
+  },
+  {
+    "en": "bee",
+    "translation": "نحلة",
+    "ipa": "/biː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "A bee is collecting nectar from the flower.",
+        "ar": "نحلة تجمع الرحيق من الزهرة."
+      }
+    ]
+  },
+  {
+    "en": "belief",
+    "translation": "اعتقاد / إيمان",
+    "ipa": "/bɪˈliːf/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It is my belief that we will succeed.",
+        "ar": "إيماني هو أننا سننجح."
+      }
+    ]
+  },
+  {
+    "en": "block",
+    "translation": "كتلة / مبنى / يسد",
+    "ipa": "/blɒk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "A large tree blocked the road.",
+        "ar": "سدت شجرة كبيرة الطريق."
+      }
+    ]
+  },
+  {
+    "en": "bomb",
+    "translation": "قنبلة",
+    "ipa": "/bɒm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bomb exploded in the city center.",
+        "ar": "انفجرت القنبلة في وسط المدينة."
+      }
+    ]
+  },
+  {
+    "en": "border",
+    "translation": "حدود",
+    "ipa": "/ˈbɔːdə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They crossed the border illegally.",
+        "ar": "عبروا الحدود بشكل غير قانوني."
+      }
+    ]
+  },
+  {
+    "en": "branch",
+    "translation": "فرع / غصن",
+    "ipa": "/brɑːntʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bank has many branches across the country.",
+        "ar": "للبنك فروع عديدة في جميع أنحاء البلاد."
+      }
+    ]
+  },
+  {
+    "en": "bubble",
+    "translation": "فقاعة",
+    "ipa": "/ˈbʌbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Children love blowing bubbles.",
+        "ar": "الأطفال يحبون نفخ الفقاعات."
+      }
+    ]
+  },
+  {
+    "en": "bury",
+    "translation": "يدفن",
+    "ipa": "/ˈberi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was buried in the local cemetery.",
+        "ar": "دُفن في المقبرة المحلية."
+      }
+    ]
+  },
+  {
+    "en": "candidate",
+    "translation": "مرشح",
+    "ipa": "/ˈkændɪdət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There are three candidates for the position.",
+        "ar": "هناك ثلاثة مرشحين لهذا المنصب."
+      }
+    ]
+  },
+  {
+    "en": "chain",
+    "translation": "سلسلة",
+    "ipa": "/tʃeɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The dog was tied with a metal chain.",
+        "ar": "كان الكلب مربوطاً بسلسلة معدنية."
+      }
+    ]
+  },
+  {
+    "en": "challenge",
+    "translation": "تحدي",
+    "ipa": "/ˈtʃælɪndʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Climbing the mountain was a great challenge.",
+        "ar": "كان تسلق الجبل تحدياً كبيراً."
+      }
+    ]
+  },
+  {
+    "en": "chapter",
+    "translation": "فصل / باب (في كتاب)",
+    "ipa": "/ˈtʃæptə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The first chapter of the book is very interesting.",
+        "ar": "الفصل الأول من الكتاب مثير للاهتمام جداً."
+      }
+    ]
+  },
+  {
+    "en": "client",
+    "translation": "عميل / زبون",
+    "ipa": "/ˈklaɪənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need to attract more clients to our business.",
+        "ar": "نحن بحاجة لجذب المزيد من العملاء لعملنا."
+      }
+    ]
+  },
+  {
+    "en": "coin",
+    "translation": "عملة معدنية",
+    "ipa": "/kɔɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He found a gold coin in the garden.",
+        "ar": "وجد عملة ذهبية في الحديقة."
+      }
+    ]
+  },
+  {
+    "en": "combine",
+    "translation": "يجمع / يدمج",
+    "ipa": "/kəmˈbaɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Combine all the ingredients in a bowl.",
+        "ar": "اجمع كل المكونات في وعاء."
+      }
+    ]
+  },
+  {
+    "en": "commit",
+    "translation": "يرتكب / يلتزم",
+    "ipa": "/kəˈmɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He committed a crime when he was young.",
+        "ar": "ارتكب جريمة عندما كان شاباً."
+      }
+    ]
+  },
+  {
+    "en": "competitor",
+    "translation": "منافس",
+    "ipa": "/kəmˈpetɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company has many international competitors.",
+        "ar": "للشركة العديد من المنافسين الدوليين."
+      }
+    ]
+  },
+  {
+    "en": "complex",
+    "translation": "معقد / مجمع",
+    "ipa": "/ˈkɒmpleks/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The brain is a very complex organ.",
+        "ar": "الدماغ عضو معقد للغاية."
+      }
+    ]
+  },
+  {
+    "en": "conclusion",
+    "translation": "خاتمة / استنتاج",
+    "ipa": "/kənˈkluːʒn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "In conclusion, we need to act now.",
+        "ar": "ختاماً، نحن بحاجة للتحرك الآن."
+      }
+    ]
+  },
+  {
+    "en": "consequence",
+    "translation": "عاقبة / نتيجة",
+    "ipa": "/ˈkɒnsɪkwəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Every action has a consequence.",
+        "ar": "لكل فعل عاقبة."
+      }
+    ]
+  },
+  {
+    "en": "consist",
+    "translation": "يتكون من",
+    "ipa": "/kənˈsɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The team consists of five members.",
+        "ar": "يتكون الفريق من خمسة أعضاء."
+      }
+    ]
+  },
+  {
+    "en": "consume",
+    "translation": "يستهلك",
+    "ipa": "/kənˈsjuːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Cars consume a lot of fuel.",
+        "ar": "تستهلك السيارات الكثير من الوقود."
+      }
+    ]
+  },
+  {
+    "en": "consumer",
+    "translation": "مستهلك",
+    "ipa": "/kənˈsjuːmə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new law protects consumer rights.",
+        "ar": "القانون الجديد يحمي حقوق المستهلك."
+      }
+    ]
+  },
+  {
+    "en": "contrast",
+    "translation": "تباين / تضاد",
+    "ipa": "/ˈkɒntrɑːst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a sharp contrast between the two styles.",
+        "ar": "هناك تباين حاد بين الأسلوبين."
+      }
+    ]
+  },
+  {
+    "en": "covered",
+    "translation": "مغطى",
+    "ipa": "/ˈkʌvəd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The mountains were covered with snow.",
+        "ar": "كانت الجبال مغطاة بالثلوج."
+      }
+    ]
+  },
+  {
+    "en": "current",
+    "translation": "حالي / تيار",
+    "ipa": "/ˈkʌrənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "What is your current address?",
+        "ar": "ما هو عنوانك الحالي؟"
+      }
+    ]
+  },
+  {
+    "en": "curtain",
+    "translation": "ستارة",
+    "ipa": "/ˈkɜːtn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She closed the curtains to keep the light out.",
+        "ar": "أغلقت الستائر لمنع دخول الضوء."
+      }
+    ]
+  },
+  {
+    "en": "custom",
+    "translation": "عادة / عرف / جمارك",
+    "ipa": "/ˈkʌstəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It is a local custom to welcome guests with coffee.",
+        "ar": "من العادات المحلية الترحيب بالضيوف بالقهوة."
+      }
+    ]
+  },
+  {
+    "en": "decade",
+    "translation": "عقد (عشر سنوات)",
+    "ipa": "/ˈdekeɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The world has changed a lot in the last decade.",
+        "ar": "لقد تغير العالم كثيراً في العقد الماضي."
+      }
+    ]
+  },
+  {
+    "en": "decorate",
+    "translation": "يزين",
+    "ipa": "/ˈdekəreɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They decorated the house for the party.",
+        "ar": "زينوا المنزل للحفلة."
+      }
+    ]
+  },
+  {
+    "en": "difficulty",
+    "translation": "صعوبة",
+    "ipa": "/ˈdɪfɪkəlti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I had great difficulty in finding the place.",
+        "ar": "واجهت صعوبة كبيرة في العثور على المكان."
+      }
+    ]
+  },
+  {
+    "en": "disadvantage",
+    "translation": "عيب / نقطة ضعف",
+    "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "One disadvantage of living in the city is the noise.",
+        "ar": "أحد عيوب العيش في المدينة هو الضجيج."
+      }
+    ]
+  },
+  {
+    "en": "disappointed",
+    "translation": "محبط / خائب الأمل",
+    "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was disappointed that he didn't get the job.",
+        "ar": "كان محبطاً لأنه لم يحصل على الوظيفة."
+      }
+    ]
+  },
+  {
+    "en": "discount",
+    "translation": "خصم / تخفيض",
+    "ipa": "/ˈdɪskaʊnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Students get a 10% discount on all books.",
+        "ar": "يحصل الطلاب على خصم 10% على جميع الكتب."
+      }
+    ]
+  },
+  {
+    "en": "documentary",
+    "translation": "فيلم وثائقي",
+    "ipa": "/ˌdɒkjuˈmentri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I watched an interesting documentary about nature.",
+        "ar": "شاهدت فيلماً وثائقياً ممتعاً عن الطبيعة."
+      }
+    ]
+  },
+  {
+    "en": "drum",
+    "translation": "طبل / طبلة",
+    "ipa": "/drʌm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He plays the drums in a rock band.",
+        "ar": "يعزف على الطبول في فرقة روك."
+      }
+    ]
+  },
+  {
+    "en": "due",
+    "translation": "مستحق / متوقع",
+    "ipa": "/djuː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The payment is due next Friday.",
+        "ar": "الدفع مستحق يوم الجمعة القادم."
+      }
+    ]
+  },
+  {
+    "en": "educate",
+    "translation": "يعلم / يثقف",
+    "ipa": "/ˈedjukeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need to educate children about the environment.",
+        "ar": "نحن بحاجة لتعليم الأطفال عن البيئة."
+      }
+    ]
+  }
+]

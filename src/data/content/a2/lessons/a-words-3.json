@@ -4,11 +4,33 @@
   "title": "Unit 3: A Words - Part 3",
   "slug": "a-words-3",
   "order": 3,
-  "wordCount": 20,
+  "wordCount": 21,
   "titleAr": "الوحدة 3: كلمات حرف A - الجزء 3",
   "description": "Master essential A2 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف A.",
   "words": [
+    {
+      "id": "w_a2_architect",
+      "en": "architect",
+      "ar": "مهندس معماري",
+      "pronunciation": "/ar-kz tekt/",
+      "lessonId": "lsn_a2_a_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali wants to be a successful architect.",
+          "ar": "يريد علي أن يكون مهندسا معماريا ناجحًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_architecture",
       "en": "architecture",

@@ -1,0 +1,442 @@
+{
+  "id": "lsn_c1_i_3",
+  "levelId": "lvl_c1",
+  "title": "Unit 34: I Words - Part 3",
+  "slug": "i-words-3",
+  "order": 34,
+  "wordCount": 19,
+  "titleAr": "الوحدة 34: كلمات حرف I - الجزء 3",
+  "description": "Master essential C1 vocabulary starting with the letter I.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف I.",
+  "words": [
+    {
+      "id": "w_c1_inspection",
+      "lessonId": "lsn_c1_i_3",
+      "en": "inspection",
+      "ar": "تفتيش / فحص",
+      "translation": "تفتيش / فحص",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The school underwent an official inspection.",
+          "ar": "خضعت المدرسة لتفتيش رسمي."
+        }
+      ],
+      "ipa": "/ɪnˈspekʃn/"
+    },
+    {
+      "id": "w_c1_inspiration",
+      "lessonId": "lsn_c1_i_3",
+      "en": "inspiration",
+      "ar": "إلهام",
+      "translation": "إلهام",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Nature is a great source of inspiration for artists.",
+          "ar": "الطبيعة مصدر إلهام كبير للفنانين."
+        }
+      ],
+      "ipa": "/ˌɪnspəˈreɪʃn/"
+    },
+    {
+      "id": "w_c1_instinct",
+      "en": "instinct",
+      "ar": "غريزة",
+      "lessonId": "lsn_c1_i_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تعتمد الحيوانات على الغريزة للبقاء في البرية",
+          "ar": "My first instinct was to say no to the offer."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪn.stɪŋkt/"
+    },
+    {
+      "id": "w_c1_institutional",
+      "en": "institutional",
+      "ar": "مؤسسي",
+      "lessonId": "lsn_c1_i_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمر الجامعة بتغييرات مؤسسية كبرى",
+          "ar": "We need to strengthen our institutional capacity to handle the crisis."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/-ʃnəl/"
+    },
+    {
+      "id": "w_c1_instruct",
+      "lessonId": "lsn_c1_i_3",
+      "en": "instruct",
+      "ar": "يعلم / يأمر / يوجه",
+      "translation": "يعلم / يأمر / يوجه",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She instructed the students on how to use the equipment.",
+          "ar": "وجهت (علمت) الطلاب كيفية استخدام المعدات."
+        }
+      ],
+      "ipa": "/ɪnˈstrʌkt/"
+    },
+    {
+      "id": "w_c1_instrumental",
+      "lessonId": "lsn_c1_i_3",
+      "en": "instrumental",
+      "ar": "فعال / أساسي / موسيقى آلي",
+      "translation": "فعال / أساسي / موسيقى آلي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was instrumental in organizing the conference.",
+          "ar": "كان له دور أساسي (فعال) في تنظيم المؤتمر."
+        }
+      ],
+      "ipa": "/ˌɪnstrəˈmentl/"
+    },
+    {
+      "id": "w_c1_insufficient",
+      "lessonId": "lsn_c1_i_3",
+      "en": "insufficient",
+      "ar": "غير كافٍ",
+      "translation": "غير كافٍ",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The evidence was insufficient to prove his guilt.",
+          "ar": "كان الدليل غير كافٍ لإثبات ذنبه."
+        }
+      ],
+      "ipa": "/ˌɪnsəˈfɪʃnt/"
+    },
+    {
+      "id": "w_c1_insult",
+      "en": "insult",
+      "ar": "إهانة / يهين",
+      "lessonId": "lsn_c1_i_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "شعر أن الملاحظة كانت إهانة شخصية له",
+          "ar": "It is never acceptable to insult someone's beliefs."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈsʌlt/"
+    },
+    {
+      "id": "w_c1_intact",
+      "en": "intact",
+      "ar": "سليم / لم يمس",
+      "lessonId": "lsn_c1_i_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وُجدت المزهرية القديمة سليمة تماماً في المقبرة",
+          "ar": "Despite the accident, his sense of humor remained intact."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈtækt/"
+    },
+    {
+      "id": "w_c1_intake",
+      "en": "intake",
+      "ar": "استهلاك / مدخول",
+      "lessonId": "lsn_c1_i_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك تقليل استهلاكك اليومي من السكر والملح",
+          "ar": "The annual intake of students has increased this year."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪnteɪk/"
+    },
+    {
+      "id": "w_c1_integral",
+      "lessonId": "lsn_c1_i_3",
+      "en": "integral",
+      "ar": "أساسي / متكامل / مكمل",
+      "translation": "أساسي / متكامل / مكمل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Music is an integral part of their culture.",
+          "ar": "الموسيقى جزء أساسي (لا يتجزأ) من ثقافتهم."
+        }
+      ],
+      "ipa": "/ˈɪntɪɡrəl/"
+    },
+    {
+      "id": "w_c1_integrated",
+      "lessonId": "lsn_c1_i_3",
+      "en": "integrated",
+      "ar": "متكامل / مدمج",
+      "translation": "متكامل / مدمج",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The school has an integrated curriculum.",
+          "ar": "المدرسة لديها منهج متكامل."
+        }
+      ],
+      "ipa": "/ˈɪntɪɡreɪtɪd/"
+    },
+    {
+      "id": "w_c1_integration",
+      "lessonId": "lsn_c1_i_3",
+      "en": "integration",
+      "ar": "تكامل / دمج / استيعاب",
+      "translation": "تكامل / دمج / استيعاب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The integration of immigrants into society is important.",
+          "ar": "دمج (استيعاب) المهاجرين في المجتمع أمر مهم."
+        }
+      ],
+      "ipa": "/ˌɪntɪˈɡreɪʃn/"
+    },
+    {
+      "id": "w_c1_integrity",
+      "lessonId": "lsn_c1_i_3",
+      "en": "integrity",
+      "ar": "نزاهة / أمانة / تكامل",
+      "translation": "نزاهة / أمانة / تكامل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a man of great personal integrity.",
+          "ar": "إنه رجل يتمتع بنزاهة شخصية كبيرة."
+        }
+      ],
+      "ipa": "/ɪnˈteɡrəti/"
+    },
+    {
+      "id": "w_c1_intensify",
+      "lessonId": "lsn_c1_i_3",
+      "en": "intensify",
+      "ar": "يكثف / يشتد",
+      "translation": "يكثف / يشتد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The fighting intensified as the sun went down.",
+          "ar": "اشتد القتال مع غروب الشمس."
+        }
+      ],
+      "ipa": "/ɪnˈtensɪfaɪ/"
+    },
+    {
+      "id": "w_c1_intensity",
+      "en": "intensity",
+      "ar": "شدة / حدة",
+      "lessonId": "lsn_c1_i_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأت شدة الشمس في الازدياد عند الظهر",
+          "ar": "He worked with great intensity to finish the project."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈtɛnsɪti/"
+    },
+    {
+      "id": "w_c1_intensive",
+      "lessonId": "lsn_c1_i_3",
+      "en": "intensive",
+      "ar": "مكثف / حثيث",
+      "translation": "مكثف / حثيث",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She took an intensive language course.",
+          "ar": "أخذت دورة لغة مكثفة."
+        }
+      ],
+      "ipa": "/ɪnˈtensɪv/"
+    },
+    {
+      "id": "w_c1_intent",
+      "en": "intent",
+      "ar": "نية / عزم",
+      "lessonId": "lsn_c1_i_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لم تكن نيتي جرح مشاعرك",
+          "ar": "The company announced its intent to expand into new markets."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈtɛnt/"
+    },
+    {
+      "id": "w_c1_interactive",
+      "en": "interactive",
+      "ar": "تفاعلي",
+      "lessonId": "lsn_c1_i_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يضم المتحف عدة شاشات تفاعلية للأطفال",
+          "ar": "We need to create an interactive website for our users."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪntɚˈæktɪv/"
+    }
+  ]
+}

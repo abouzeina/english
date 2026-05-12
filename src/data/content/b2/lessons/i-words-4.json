@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_i_4",
   "levelId": "lvl_b2",
-  "title": "Unit 28: I Words - Part 4",
+  "title": "Unit 34: I Words - Part 4",
   "slug": "i-words-4",
-  "order": 28,
-  "wordCount": 19,
-  "titleAr": "الوحدة 28: كلمات حرف I - الجزء 4",
+  "order": 34,
+  "wordCount": 21,
+  "titleAr": "الوحدة 34: كلمات حرف I - الجزء 4",
   "description": "Master essential B2 vocabulary starting with the letter I.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف I.",
   "words": [
@@ -340,6 +340,29 @@
       "ipa": "/ɪnˌvɛstəˈɡeɪʃən/"
     },
     {
+      "id": "w_b2_investment",
+      "lessonId": "lsn_b2_i_4",
+      "en": "investment",
+      "ar": "استثمار",
+      "translation": "استثمار",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Education is a good investment for the future.",
+          "ar": "التعليم استثمار جيد للمستقبل."
+        }
+      ],
+      "ipa": "/ɪnˈvestmənt/"
+    },
+    {
       "id": "w_b2_investments",
       "en": "investments",
       "ar": "الاستثمارات",
@@ -382,6 +405,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ɪnˈvɛstɚ/"
+    },
+    {
+      "id": "w_b2_isolate",
+      "lessonId": "lsn_b2_i_4",
+      "en": "isolate",
+      "ar": "يعزل",
+      "translation": "يعزل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The village was isolated by the heavy snow.",
+          "ar": "عُزلت القرية بسبب الثلوج الكثيفة."
+        }
+      ],
+      "ipa": "/ˈaɪsəleɪt/"
     },
     {
       "id": "w_b2_isolated",

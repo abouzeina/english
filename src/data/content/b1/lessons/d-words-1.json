@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_d_1",
   "levelId": "lvl_b1",
-  "title": "Unit 9: D Words - Part 1",
+  "title": "Unit 10: D Words - Part 1",
   "slug": "d-words-1",
-  "order": 9,
-  "wordCount": 17,
-  "titleAr": "الوحدة 9: كلمات حرف D - الجزء 1",
+  "order": 10,
+  "wordCount": 22,
+  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف D.",
   "words": [
@@ -76,6 +76,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_decade",
+      "lessonId": "lsn_b1_d_1",
+      "en": "decade",
+      "ar": "عقد (عشر سنوات)",
+      "translation": "عقد (عشر سنوات)",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The world has changed a lot in the last decade.",
+          "ar": "لقد تغير العالم كثيراً في العقد الماضي."
+        }
+      ],
+      "ipa": "/ˈdekeɪd/"
+    },
+    {
       "id": "w_b1_decades",
       "en": "decades",
       "ar": "عقود من الزمن",
@@ -96,6 +119,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_decorate",
+      "lessonId": "lsn_b1_d_1",
+      "en": "decorate",
+      "ar": "يزين",
+      "translation": "يزين",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They decorated the house for the party.",
+          "ar": "زينوا المنزل للحفلة."
+        }
+      ],
+      "ipa": "/ˈdekəreɪt/"
     },
     {
       "id": "w_b1_decorating",
@@ -377,6 +423,73 @@
         {
           "en": "He gave his wife a diamond ring.",
           "ar": "أعطى زوجته خاتم الماس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_difficulty",
+      "lessonId": "lsn_b1_d_1",
+      "en": "difficulty",
+      "ar": "صعوبة",
+      "translation": "صعوبة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I had great difficulty in finding the place.",
+          "ar": "واجهت صعوبة كبيرة في العثور على المكان."
+        }
+      ],
+      "ipa": "/ˈdɪfɪkəlti/"
+    },
+    {
+      "id": "w_b1_directing",
+      "en": "directing",
+      "ar": "يوجه",
+      "pronunciation": "/dı'rekt/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The police officer is directing traffic.",
+          "ar": "ضابط الشرطة يوجه حركة المرور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_directly",
+      "en": "directly",
+      "ar": "مباشرة",
+      "pronunciation": "/direkt.li/",
+      "lessonId": "lsn_b1_d_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The road leads directly to the beach.",
+          "ar": "الطريق يؤدي مباشرة إلى الشاطئ."
         }
       ],
       "type": "word",

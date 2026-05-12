@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_k",
   "levelId": "lvl_a1",
-  "title": "Unit 21: K Words",
+  "title": "Unit 23: K Words",
   "slug": "k-words",
-  "order": 21,
-  "wordCount": 6,
-  "titleAr": "الوحدة 21: كلمات حرف K",
+  "order": 23,
+  "wordCount": 7,
+  "titleAr": "الوحدة 23: كلمات حرف K",
   "description": "Master essential A1 vocabulary starting with the letter K.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف K.",
   "words": [
@@ -111,6 +111,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_kilometre",
+      "lessonId": "lsn_a1_k",
+      "en": "kilometre",
+      "ar": "كيلومتر",
+      "translation": "كيلومتر",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We walked five kilometres yesterday.",
+          "ar": "مشينا خمسة كيلومترات أمس."
+        }
+      ],
+      "ipa": "/ˈkɪləmiːtə(r)/"
     },
     {
       "id": "w_a1_kind",

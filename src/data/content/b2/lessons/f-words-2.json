@@ -1,91 +1,71 @@
 {
   "id": "lsn_b2_f_2",
   "levelId": "lvl_b2",
-  "title": "Unit 20: F Words - Part 2",
+  "title": "Unit 24: F Words - Part 2",
   "slug": "f-words-2",
-  "order": 20,
-  "wordCount": 24,
-  "titleAr": "الوحدة 20: كلمات حرف F - الجزء 2",
+  "order": 24,
+  "wordCount": 19,
+  "titleAr": "الوحدة 24: كلمات حرف F - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter F.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف F.",
   "words": [
     {
-      "id": "w_b2_fossils",
-      "en": "fossils",
-      "ar": "حفريات",
-      "pronunciation": "",
+      "id": "w_b2_finding",
       "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "They found fossils of animals in those rocks.",
-          "ar": "وجدوا حفريات الحيوانات في تلك الصخور."
-        }
-      ],
+      "en": "finding",
+      "ar": "نتيجة / اكتشاف",
+      "translation": "نتيجة / اكتشاف",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_foundation",
-      "en": "foundation",
-      "ar": "أساس",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Respect is a solid foundation for marriage.",
-          "ar": "الاحترام هو أساس متين للزواج."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/faʊnˈdeɪʃən/"
-    },
-    {
-      "id": "w_b2_founded",
-      "en": "founded",
-      "ar": "أسس",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "My father founded the school in 1985.",
-          "ar": "أسس والدي المدرسة عام 1985."
+          "en": "The findings of the research were surprising.",
+          "ar": "كانت نتائج البحث مفاجئة."
         }
       ],
+      "ipa": "/ˈfaɪndɪŋ/"
+    },
+    {
+      "id": "w_b2_firefighter",
+      "lessonId": "lsn_b2_f_2",
+      "en": "firefighter",
+      "ar": "رجل إطفاء",
+      "translation": "رجل إطفاء",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈfaʊndɪd/"
+      "examples": [
+        {
+          "en": "The firefighters arrived quickly at the scene.",
+          "ar": "وصل رجال الإطفاء بسرعة إلى مكان الحادث."
+        }
+      ],
+      "ipa": "/ˈfaɪəfaɪtə(r)/"
     },
     {
-      "id": "w_b2_founder",
-      "en": "founder",
-      "ar": "مؤسس",
+      "id": "w_b2_firefighters",
+      "en": "firefighters",
+      "ar": "رجال الإطفاء",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "Who is the founder of this beneficial Youtube channel?",
-          "ar": "من هو مؤسس هذه القناة اليوتيوبية المفيدة؟"
+          "en": "Three firefighters were injured.",
+          "ar": "أصيب ثلاثة من رجال الإطفاء."
         }
       ],
       "type": "word",
@@ -98,16 +78,39 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_fraction",
-      "en": "fraction",
-      "ar": "نسبة قليلة",
+      "id": "w_b2_firework",
+      "lessonId": "lsn_b2_f_2",
+      "en": "firework",
+      "ar": "ألعاب نارية",
+      "translation": "ألعاب نارية",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The sky was full of beautiful fireworks.",
+          "ar": "كانت السماء مليئة بالألعاب النارية الجميلة."
+        }
+      ],
+      "ipa": "/ˈfaɪəwɜːk/"
+    },
+    {
+      "id": "w_b2_fireworks",
+      "en": "fireworks",
+      "ar": "الألعاب النارية",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "Only a fraction of people believe that earth is flat.",
-          "ar": "نسبة قليلة فقط من الناس تعتقد أن الأرض مسطحة."
+          "en": "We watched the fireworks from the window.",
+          "ar": "شاهدنا الألعاب النارية من النافذة."
         }
       ],
       "type": "word",
@@ -120,16 +123,20 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_fragment",
-      "en": "fragment",
-      "ar": "قطعة",
+      "id": "w_b2_firm",
+      "en": "firm",
+      "ar": "شركة / مكتب / حازم",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "We found a fragment of an old chair in the garden.",
-          "ar": "وجدنا قطعة من كرسي قديم في الحديقة."
+          "en": "He works in a law firm.",
+          "ar": "يعمل في شركة / مكتب محاماة."
+        },
+        {
+          "en": "You should be firm with your children.",
+          "ar": "يجب أن تكونوا حازمين مع أطفالكم."
         }
       ],
       "type": "word",
@@ -142,16 +149,16 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_framework",
-      "en": "framework",
-      "ar": "الإطار",
+      "id": "w_b2_firmly",
+      "en": "firmly",
+      "ar": "بقوة",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "They fixed the metal framework of the ship.",
-          "ar": "قاموا بإصلاح الإطار المعدني للسفينة."
+          "en": "Hold on to the rope firmly.",
+          "ar": "تمسك بالحبل بقوة."
         }
       ],
       "type": "word",
@@ -164,16 +171,39 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_fraud",
-      "en": "fraud",
-      "ar": "الاحتيال",
+      "id": "w_b2_flame",
+      "lessonId": "lsn_b2_f_2",
+      "en": "flame",
+      "ar": "لهب",
+      "translation": "لهب",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The dry grass burst into flames.",
+          "ar": "اشتعل العشب الجاف في ألسنة اللهب."
+        }
+      ],
+      "ipa": "/fleɪm/"
+    },
+    {
+      "id": "w_b2_flames",
+      "en": "flames",
+      "ar": "اللهب",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "The police arrested him for fraud.",
-          "ar": "اعتقله الشرطة بتهمة الاحتيال."
+          "en": "The house was filled with smoke and flames.",
+          "ar": "امتلأ المنزل بالدخان واللهب."
         }
       ],
       "type": "word",
@@ -186,16 +216,20 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_freedom",
-      "en": "freedom",
-      "ar": "حرية",
+      "id": "w_b2_flash",
+      "en": "flash",
+      "ar": "وميض / الوميض",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "We demand freedom of speech.",
-          "ar": "نحن نطالب بحرية التعبير."
+          "en": "Cross the street when the green sign starts to flash.",
+          "ar": "اعبر الشارع عندما تبدأ الإشارة الخضراء في الوميض."
+        },
+        {
+          "en": "We saw a bright flash in the sky.",
+          "ar": "رأينا وميضًا ساطعا في السماء."
         }
       ],
       "type": "word",
@@ -208,16 +242,16 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_freely",
-      "en": "freely",
-      "ar": "بحرية",
+      "id": "w_b2_flavor",
+      "en": "flavor",
+      "ar": "طعم",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "You can talk about your opinions freely.",
-          "ar": "يمكنك التحدث عن آرائك بحرية."
+          "en": "This strange fruit has almost no flavor.",
+          "ar": "هذه الفاكهة الغريبة ليس لها أي طعم تقريبا."
         }
       ],
       "type": "word",
@@ -230,16 +264,39 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_frequency",
-      "en": "frequency",
-      "ar": "وتيرة",
+      "id": "w_b2_flavour",
+      "lessonId": "lsn_b2_f_2",
+      "en": "flavour",
+      "ar": "نكهة",
+      "translation": "نكهة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "This soup has a delicious spicy flavour.",
+          "ar": "هذا الحساء له نكهة حارة لذيذة."
+        }
+      ],
+      "ipa": "/ˈfleɪvə(r)/"
+    },
+    {
+      "id": "w_b2_flexible",
+      "en": "flexible",
+      "ar": "مرنة",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "I don't want to change my exercise frequency.",
-          "ar": "لا أريد تغيير وتيرة التدريب الخاصة بي."
+          "en": "You need to be more flexible about your study plan.",
+          "ar": "تحتاج أن تكون أكثر مرونة فيما يتعلق بخطة دراستك."
         }
       ],
       "type": "word",
@@ -252,16 +309,39 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_frequent",
-      "en": "frequent",
-      "ar": "متكررا",
+      "id": "w_b2_float",
+      "lessonId": "lsn_b2_f_2",
+      "en": "float",
+      "ar": "يطفو",
+      "translation": "يطفو",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Wood floats on water.",
+          "ar": "الخشب يطفو على الماء."
+        }
+      ],
+      "ipa": "/fləʊt/"
+    },
+    {
+      "id": "w_b2_floats",
+      "en": "floats",
+      "ar": "يطفو",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "Sudden death has become frequent these days.",
-          "ar": "لقد أصبح موت الفجأة متكررا هذه الأيام."
+          "en": "Do you know that oil floats on water?",
+          "ar": "هل تعلم أن الزيت يطفو على الماء ؟"
         }
       ],
       "type": "word",
@@ -274,16 +354,16 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_fuelled",
-      "en": "fuelled",
-      "ar": "تعمل / تدار بـ",
+      "id": "w_b2_folding",
+      "en": "folding",
+      "ar": "قابل للطي",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "These plants are fuelled by natural gas.",
-          "ar": "تعمل هذه المحطات بالغاز الطبيعي."
+          "en": "Watch this advertisement, it's about a folding chair.",
+          "ar": "شاهد هذا الإعلان إنه حول كرسي قابل للطي."
         }
       ],
       "type": "word",
@@ -296,16 +376,16 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_fulfill",
-      "en": "fulfill",
-      "ar": "الوفاء بـ",
+      "id": "w_b2_fond",
+      "en": "fond",
+      "ar": "مولع",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "He didn't fulfill his duties toward his family.",
-          "ar": "لم يقم بالوفاء بواجباته تجاه أسرته."
+          "en": "He's fond of taking pictures.",
+          "ar": "إنه مولع بالتقاط الصور."
         }
       ],
       "type": "word",
@@ -318,16 +398,16 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_full_time",
-      "en": "full - time",
-      "ar": "دوام كامل",
+      "id": "w_b2_fool",
+      "en": "fool",
+      "ar": "أحمق",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "We have 10 full - time employees.",
-          "ar": "لدينا 10 موظفين بدوام كامل"
+          "en": "He gave them all his money? He is such a fool.",
+          "ar": "أعطاهم كل أمواله ؟ ياله من أحمق."
         }
       ],
       "type": "word",
@@ -340,192 +420,16 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_fully",
-      "en": "fully",
-      "ar": "بشكل كامل",
+      "id": "w_b2_forbade",
+      "en": "forbade",
+      "ar": "منعت",
       "pronunciation": "",
       "lessonId": "lsn_b2_f_2",
       "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "He didn't fully recover from the accident.",
-          "ar": "لم يتعافى بشكل كامل من الحادث."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_functions",
-      "en": "functions",
-      "ar": "يعمل",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I don't know how this machine functions.",
-          "ar": "لا أعرف كيف يعمل هذا الجهاز."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_fund",
-      "en": "fund",
-      "ar": "سيمول",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We don't know who will fund this research ?",
-          "ar": "لا نعرف من سيمول هذا البحث ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_fundamental",
-      "en": "fundamental",
-      "ar": "جوهري",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "There is a fundamental difference between the two ideas.",
-          "ar": "هناك فرق جوهري بين الفكرتين."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_fundamentally",
-      "en": "fundamentally",
-      "ar": "بشكل جوهري",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The two methods are fundamentally different.",
-          "ar": "الطريقتان مختلفتان بشكل جوهري."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_funding",
-      "en": "funding",
-      "ar": "التمويل",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "How much is the government funding for scientific research?",
-          "ar": "ما حجم التمويل الحكومي للبحث العلمي ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_funds",
-      "en": "funds",
-      "ar": "تمويل / نقص التمويل",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "They canceled the project because of a lack of funds.",
-          "ar": "ألغوا المشروع بسبب نقص التمويل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_furious",
-      "en": "furious",
-      "ar": "غاضبة",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "She was furious when she discovered that I had lied to her.",
-          "ar": "كانت غاضبة عندما اكتشفت أنني كذبت عليها."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_furthermore",
-      "en": "furthermore",
-      "ar": "علاوة على ذلك",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_f_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He didn't call; furthermore, he didn't show up.",
-          "ar": "لم يتصل؛ علاوة على ذلك، لم يحضر."
+          "en": "Her mother forbade the marriage.",
+          "ar": "والدتها منعت الزواج."
         }
       ],
       "type": "word",

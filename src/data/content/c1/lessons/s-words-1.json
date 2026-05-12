@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_s_1",
   "levelId": "lvl_c1",
-  "title": "Unit 38: S Words - Part 1",
+  "title": "Unit 56: S Words - Part 1",
   "slug": "s-words-1",
-  "order": 38,
-  "wordCount": 25,
-  "titleAr": "الوحدة 38: كلمات حرف S - الجزء 1",
+  "order": 56,
+  "wordCount": 24,
+  "titleAr": "الوحدة 56: كلمات حرف S - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف S.",
   "words": [
@@ -206,6 +206,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈskoʊp/"
+    },
+    {
+      "id": "w_c1_screw",
+      "lessonId": "lsn_c1_s_1",
+      "en": "screw",
+      "ar": "مسمار لولبي / برغي",
+      "translation": "مسمار لولبي / برغي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I need a screwdriver to tighten this screw.",
+          "ar": "أحتاج لمفك براغي لشد هذا المسمار اللولبي."
+        }
+      ],
+      "ipa": "/skruː/"
     },
     {
       "id": "w_c1_scrutiny",
@@ -514,50 +537,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈsɪəɹiːəɫ/"
-    },
-    {
-      "id": "w_c1_set_up",
-      "en": "set-up",
-      "ar": "إعداد / نظام / بنية",
-      "pronunciation": "ˈset ʌp",
-      "lessonId": "lsn_c1_s_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كان إعداد التجربة معقداً للغاية",
-          "ar": "I'm not happy with the current set-up of the office."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_settlement",
-      "en": "settlement",
-      "ar": "تسوية / مستوطنة / تجمع سكني",
-      "lessonId": "lsn_c1_s_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "توصل الطرفان لتسوية قانونية خارج المحكمة",
-          "ar": "Archaeologists discovered an ancient settlement near the river."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈset.l.mənt/"
     }
   ]
 }

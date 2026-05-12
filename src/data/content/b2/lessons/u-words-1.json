@@ -1,0 +1,328 @@
+{
+  "id": "lsn_b2_u_1",
+  "levelId": "lvl_b2",
+  "title": "Unit 65: U Words - Part 1",
+  "slug": "u-words-1",
+  "order": 65,
+  "wordCount": 14,
+  "titleAr": "الوحدة 65: كلمات حرف U - الجزء 1",
+  "description": "Master essential B2 vocabulary starting with the letter U.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف U.",
+  "words": [
+    {
+      "id": "w_b2_ultimate",
+      "en": "ultimate",
+      "ar": "النهائي / نهاية المطاف",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He ultimately decided to accept the job offer.",
+          "ar": "وقد قرر في نهاية المطاف أن يقبل عرض العمل."
+        },
+        {
+          "en": "Our ultimate goal is to create a better future.",
+          "ar": "هدفنا النهائي هو صنع مستقبل أفضل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈʌltɪmɪt/"
+    },
+    {
+      "id": "w_b2_ultimately",
+      "lessonId": "lsn_b2_u_1",
+      "en": "ultimately",
+      "ar": "في النهاية / في نهاية المطاف",
+      "translation": "في النهاية / في نهاية المطاف",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Ultimately, the decision rests with you.",
+          "ar": "في نهاية المطاف، القرار يعود إليك."
+        }
+      ],
+      "ipa": "/ˈʌltɪmətli/"
+    },
+    {
+      "id": "w_b2_unacceptable",
+      "en": "unacceptable",
+      "ar": "غير مقبول",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your rude behavior is completely unacceptable.",
+          "ar": "سلوكك الوقح غير مقبول على الإطلاق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_uncertainty",
+      "en": "uncertainty",
+      "ar": "الشك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She hesitated, filled with uncertainty and fear.",
+          "ar": "تردت، وقد ملأها الشك والخوف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unconscious",
+      "en": "unconscious",
+      "ar": "فاقدا للوعي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was found unconscious on the bathroom floor.",
+          "ar": "تم العثور عليه فاقدا للوعي على أرضية الحمام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_undergo",
+      "en": "undergo",
+      "ar": "يخضع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The bridge must undergo repairs after the heavy storm.",
+          "ar": "يجب أن يخضع الجسر للإصلاحات بعد العاصفة الشديدة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_undertake",
+      "lessonId": "lsn_b2_u_1",
+      "en": "undertake",
+      "ar": "يتعهد / يتولى / يقوم بـ",
+      "translation": "يتعهد / يتولى / يقوم بـ",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company decided to undertake a new project.",
+          "ar": "قررت الشركة تولي مشروع جديد."
+        }
+      ],
+      "ipa": "/ˌʌndəˈteɪk/"
+    },
+    {
+      "id": "w_b2_undertakes",
+      "en": "undertakes",
+      "ar": "يتولى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He undertakes many responsibilities at work.",
+          "ar": "إنه يتولى العديد من المسؤوليات في العمل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unexpected",
+      "en": "unexpected",
+      "ar": "غير متوقعة",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "An unexpected storm forced us to cancel the trip.",
+          "ar": "أجبرتنا عاصفة غير متوقعة على إلغاء الرحلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ʌnɪkˈspɛktɪd/"
+    },
+    {
+      "id": "w_b2_unfold",
+      "lessonId": "lsn_b2_u_1",
+      "en": "unfold",
+      "ar": "ينكشف / ينبسط / يفتح",
+      "translation": "ينكشف / ينبسط / يفتح",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We watched the events unfold on television.",
+          "ar": "شاهدنا الأحداث وهي تنكشف على التلفزيون."
+        }
+      ],
+      "ipa": "/ʌnˈfəʊld/"
+    },
+    {
+      "id": "w_b2_unfolded",
+      "en": "unfolded",
+      "ar": "قمنا بفرد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We unfolded the large picnic blanket together.",
+          "ar": "قمنا بفرد بطانية التنزه الكبيرة سويًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unfortunate",
+      "en": "unfortunate",
+      "ar": "مؤسفة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She had an unfortunate experience during her vacation.",
+          "ar": "مرت بتجربة مؤسفة خلال إجازتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unique",
+      "en": "unique",
+      "ar": "فريد من نوعه",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Her dress had a unique design with bright colors.",
+          "ar": "كان فستانها ذو تصميم فريد من نوعه بألوانه الزاهية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unite",
+      "en": "unite",
+      "ar": "يتحد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_1",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The leaders will unite to solve the country's problems.",
+          "ar": "سوف يتحد القادة لحل مشاكل البلاد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

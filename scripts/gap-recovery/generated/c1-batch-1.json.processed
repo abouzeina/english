@@ -1,0 +1,602 @@
+[
+  {
+    "en": "abolish",
+    "translation": "يلغي / يبطل",
+    "ipa": "/əˈbɒlɪʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government decided to abolish the tax.",
+        "ar": "قررت الحكومة إلغاء الضريبة."
+      }
+    ]
+  },
+  {
+    "en": "abortion",
+    "translation": "إجهاض",
+    "ipa": "/əˈbɔːʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The debate over abortion continues to be highly controversial.",
+        "ar": "لا يزال الجدل حول الإجهاض مثيراً للغاية للجدل."
+      }
+    ]
+  },
+  {
+    "en": "absence",
+    "translation": "غياب",
+    "ipa": "/ˈæbsəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The decision was made in his absence.",
+        "ar": "اتخذ القرار في غيابه."
+      }
+    ]
+  },
+  {
+    "en": "absent",
+    "translation": "غائب",
+    "ipa": "/ˈæbsənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was absent from school for three days.",
+        "ar": "تغيب عن المدرسة لمدة ثلاثة أيام."
+      }
+    ]
+  },
+  {
+    "en": "absurd",
+    "translation": "سخيف / منافٍ للعقل",
+    "ipa": "/əbˈsɜːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It's absurd to suggest that he's a thief.",
+        "ar": "من السخف اقتراح أنه لص."
+      }
+    ]
+  },
+  {
+    "en": "abundance",
+    "translation": "وفرة / غزارة",
+    "ipa": "/əˈbʌndəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There was an abundance of food at the party.",
+        "ar": "كان هناك وفرة من الطعام في الحفلة."
+      }
+    ]
+  },
+  {
+    "en": "abuse",
+    "translation": "إساءة / تعسف / ينتهك",
+    "ipa": "/əˈbjuːs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was accused of drug abuse.",
+        "ar": "اتُهم بإساءة استخدام العقاقير."
+      }
+    ]
+  },
+  {
+    "en": "academy",
+    "translation": "أكاديمية",
+    "ipa": "/əˈkædəmi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He studied at the royal military academy.",
+        "ar": "درس في الأكاديمية العسكرية الملكية."
+      }
+    ]
+  },
+  {
+    "en": "accelerate",
+    "translation": "يسرع / يتسارع",
+    "ipa": "/əkˈseləreɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The car accelerated as it hit the highway.",
+        "ar": "تسارعت السيارة عندما وصلت إلى الطريق السريع."
+      }
+    ]
+  },
+  {
+    "en": "accent",
+    "translation": "لكنة / لهجة",
+    "ipa": "/ˈæksent/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He speaks with a strong British accent.",
+        "ar": "يتحدث بلكنة بريطانية قوية."
+      }
+    ]
+  },
+  {
+    "en": "acceptance",
+    "translation": "قبول / موافقة",
+    "ipa": "/əkˈseptəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Her speech won wide acceptance from the crowd.",
+        "ar": "نال خطابها قبولاً واسعاً من الجمهور."
+      }
+    ]
+  },
+  {
+    "en": "accessible",
+    "translation": "سهل الوصول / متاح",
+    "ipa": "/əkˈsesəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The building is fully accessible to wheelchair users.",
+        "ar": "المبنى متاح بالكامل لمستخدمي الكراسي المتحركة."
+      }
+    ]
+  },
+  {
+    "en": "accommodation",
+    "translation": "سكن / إقامة",
+    "ipa": "/əˌkɒməˈdeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The university provides accommodation for all first-year students.",
+        "ar": "توفر الجامعة السكن لجميع طلاب السنة الأولى."
+      }
+    ]
+  },
+  {
+    "en": "accomplish",
+    "translation": "ينجز / يحقق",
+    "ipa": "/əˈkʌmplɪʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They accomplished a lot in a very short time.",
+        "ar": "أنجزوا الكثير في وقت قصير جداً."
+      }
+    ]
+  },
+  {
+    "en": "accomplishment",
+    "translation": "إنجاز / إتمام",
+    "ipa": "/əˈkʌmplɪʃmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It was a major accomplishment for the whole team.",
+        "ar": "كان إنجازاً كبيراً للفريق بأكمله."
+      }
+    ]
+  },
+  {
+    "en": "accordance",
+    "translation": "وفقاً لـ / بموجب",
+    "ipa": "/əˈkɔːdns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Everything was done in accordance with the law.",
+        "ar": "كل شيء تم وفقاً للقانون."
+      }
+    ]
+  },
+  {
+    "en": "accordingly",
+    "translation": "بناءً على ذلك / تبعا لذلك",
+    "ipa": "/əˈkɔːdɪŋli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We found the situation difficult and acted accordingly.",
+        "ar": "وجدنا الموقف صعباً وتصرفنا بناءً على ذلك."
+      }
+    ]
+  },
+  {
+    "en": "accountability",
+    "translation": "مساءلة / مسؤولية",
+    "ipa": "/əˌkaʊntəˈbɪləti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a need for greater accountability in government.",
+        "ar": "هناك حاجة لمزيد من المساءلة في الحكومة."
+      }
+    ]
+  },
+  {
+    "en": "accountable",
+    "translation": "مسؤول / خاضع للمساءلة",
+    "ipa": "/əˈkaʊntəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Managers are accountable for their team's performance.",
+        "ar": "المدراء مسؤولون عن أداء فرقهم."
+      }
+    ]
+  },
+  {
+    "en": "accumulate",
+    "translation": "يتراكم / يجمع",
+    "ipa": "/əˈkjuːmjəleɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Dust had accumulated on the old books.",
+        "ar": "تراكم الغبار على الكتب القديمة."
+      }
+    ]
+  },
+  {
+    "en": "accumulation",
+    "translation": "تراكم / تجميع",
+    "ipa": "/əˌkjuːmjəˈleɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The accumulation of wealth takes many years.",
+        "ar": "تراكم الثروة يستغرق سنوات عديدة."
+      }
+    ]
+  },
+  {
+    "en": "accusation",
+    "translation": "اتهام",
+    "ipa": "/ˌækjuˈzeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She denied the accusation of theft.",
+        "ar": "أنكرت اتهام السرقة."
+      }
+    ]
+  },
+  {
+    "en": "accused",
+    "translation": "المتهم",
+    "ipa": "/əˈkjuːzd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The accused was found not guilty.",
+        "ar": "وُجد المتهم غير مذنب."
+      }
+    ]
+  },
+  {
+    "en": "acid",
+    "translation": "حمض / حمضي",
+    "ipa": "/ˈæsɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Lemon juice contains citric acid.",
+        "ar": "عصير الليمون يحتوي على حمض الستريك."
+      }
+    ]
+  },
+  {
+    "en": "activate",
+    "translation": "ينشط / يفعل",
+    "ipa": "/ˈæktɪveɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You need a code to activate the software.",
+        "ar": "أنت بحاجة لرمز لتفعيل البرنامج."
+      }
+    ]
+  },
+  {
+    "en": "activism",
+    "translation": "نشاط / نضال",
+    "ipa": "/ˈæktɪvɪzəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is known for her political activism.",
+        "ar": "هي معروفة بنشاطها السياسي."
+      }
+    ]
+  },
+  {
+    "en": "activist",
+    "translation": "ناشط",
+    "ipa": "/ˈæktɪvɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a human rights activist.",
+        "ar": "هو ناشط في مجال حقوق الإنسان."
+      }
+    ]
+  },
+  {
+    "en": "acute",
+    "translation": "حاد / شديد",
+    "ipa": "/əˈkjuːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is an acute shortage of housing in the city.",
+        "ar": "هناك نقص حاد في المساكن في المدينة."
+      }
+    ]
+  },
+  {
+    "en": "adaptation",
+    "translation": "تكيف / اقتباس",
+    "ipa": "/ˌædæpˈteɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The film is an adaptation of a novel.",
+        "ar": "الفيلم هو اقتباس من رواية."
+      }
+    ]
+  },
+  {
+    "en": "adhere",
+    "translation": "يلتزم / يلتصق",
+    "ipa": "/ədˈhɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Members must adhere to the rules of the club.",
+        "ar": "يجب على الأعضاء الالتزام بقواعد النادي."
+      }
+    ]
+  },
+  {
+    "en": "adjacent",
+    "translation": "مجاور / ملاصق",
+    "ipa": "/əˈdʒeɪsnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The school is adjacent to the library.",
+        "ar": "المدرسة مجاورة للمكتبة."
+      }
+    ]
+  },
+  {
+    "en": "adjust",
+    "translation": "يضبط / يعدل",
+    "ipa": "/əˈdʒʌst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You can adjust the height of the chair.",
+        "ar": "يمكنك ضبط ارتفاع الكرسي."
+      }
+    ]
+  },
+  {
+    "en": "adjustment",
+    "translation": "تعديل / ضبط",
+    "ipa": "/əˈdʒʌstmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Small adjustments were made to the schedule.",
+        "ar": "أجريت تعديلات صغيرة على الجدول الزمني."
+      }
+    ]
+  },
+  {
+    "en": "administer",
+    "translation": "يدير / يعطي (دواء)",
+    "ipa": "/ədˈmɪnɪstə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The university is administered by a board of governors.",
+        "ar": "تدار الجامعة من قبل مجلس محافظين."
+      }
+    ]
+  },
+  {
+    "en": "administrative",
+    "translation": "إداري",
+    "ipa": "/ədˈmɪnɪstrətɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She has strong administrative skills.",
+        "ar": "لديها مهارات إدارية قوية."
+      }
+    ]
+  },
+  {
+    "en": "administrator",
+    "translation": "مدير / مسؤول إداري",
+    "ipa": "/ədˈmɪnɪstreɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He works as a database administrator.",
+        "ar": "يعمل كمسؤول قاعدة بيانات."
+      }
+    ]
+  },
+  {
+    "en": "admission",
+    "translation": "قبول / اعتراف",
+    "ipa": "/ədˈmɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Admission to the museum is free.",
+        "ar": "الدخول (القبول) للمتحف مجاني."
+      }
+    ]
+  },
+  {
+    "en": "adolescent",
+    "translation": "مراهق",
+    "ipa": "/ˌædəˈlesnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Adolescents often go through a difficult period.",
+        "ar": "غالباً ما يمر المراهقون بفترة صعبة."
+      }
+    ]
+  },
+  {
+    "en": "adoption",
+    "translation": "تبني / اتخاذ",
+    "ipa": "/əˈdɒpʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They are considering the adoption of a child.",
+        "ar": "إنهم يفكرون في تبني طفل."
+      }
+    ]
+  },
+  {
+    "en": "adverse",
+    "translation": "ضار / معاكس",
+    "ipa": "/ˈædvɜːs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The medicine can have adverse side effects.",
+        "ar": "يمكن أن يكون للدواء آثار جانبية ضارة."
+      }
+    ]
+  },
+  {
+    "en": "advocate",
+    "translation": "يدافع عن / يؤيد / محامٍ",
+    "ipa": "/ˈædvəkeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a strong advocate for free speech.",
+        "ar": "هو مؤيد قوي لحرية التعبير."
+      }
+    ]
+  },
+  {
+    "en": "aesthetic",
+    "translation": "جمالي / علم الجمال",
+    "ipa": "/iːsˈθetɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The building is admired for its aesthetic appeal.",
+        "ar": "يُعجب بالمبنى لجاذبيته الجمالية."
+      }
+    ]
+  },
+  {
+    "en": "affection",
+    "translation": "مودة / حنان",
+    "ipa": "/əˈfekʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She felt deep affection for her grandparents.",
+        "ar": "شعرت بمودة عميقة تجاه أجدادها."
+      }
+    ]
+  },
+  {
+    "en": "affiliate",
+    "translation": "ينتسب إلى / فرع",
+    "ipa": "/əˈfɪlieɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The college is affiliated with the university.",
+        "ar": "الكلية منتسبة للجامعة."
+      }
+    ]
+  },
+  {
+    "en": "affirm",
+    "translation": "يؤكد / يثبت",
+    "ipa": "/əˈfɜːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The court affirmed the previous decision.",
+        "ar": "أكدت المحكمة القرار السابق."
+      }
+    ]
+  },
+  {
+    "en": "aftermath",
+    "translation": "أعقاب / تبعات",
+    "ipa": "/ˈɑːftəmæθ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The aftermath of the war was devastating.",
+        "ar": "كانت أعقاب الحرب مدمرة."
+      }
+    ]
+  },
+  {
+    "en": "aggression",
+    "translation": "عدوان / اعتداء",
+    "ipa": "/əˈɡreʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country was accused of aggression against its neighbor.",
+        "ar": "اتُهمت الدولة بالعدوان على جارتها."
+      }
+    ]
+  },
+  {
+    "en": "agricultural",
+    "translation": "زراعي",
+    "ipa": "/ˌæɡrɪˈkʌltʃərəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They sell a wide range of agricultural products.",
+        "ar": "يبيعون مجموعة واسعة من المنتجات الزراعية."
+      }
+    ]
+  },
+  {
+    "en": "agriculture",
+    "translation": "زراعة",
+    "ipa": "/ˈæɡrɪkʌltʃə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Most of the people in the region work in agriculture.",
+        "ar": "معظم الناس في المنطقة يعملون في الزراعة."
+      }
+    ]
+  },
+  {
+    "en": "aide",
+    "translation": "مساعد",
+    "ipa": "/eɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a close aide to the president.",
+        "ar": "هو مساعد مقرب من الرئيس."
+      }
+    ]
+  }
+]

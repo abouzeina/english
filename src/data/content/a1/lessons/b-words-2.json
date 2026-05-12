@@ -1,44 +1,14 @@
 {
   "id": "lsn_a1_b_2",
   "levelId": "lvl_a1",
-  "title": "Unit 4: B Words - Part 2",
+  "title": "Unit 5: B Words - Part 2",
   "slug": "b-words-2",
-  "order": 4,
-  "wordCount": 21,
-  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 2",
+  "order": 5,
+  "wordCount": 22,
+  "titleAr": "الوحدة 5: كلمات حرف B - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter B.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف B.",
   "words": [
-    {
-      "id": "w_a1_believe",
-      "lessonId": "lsn_a1_b_2",
-      "en": "believe",
-      "translation": "يصدق / يؤمن",
-      "ar": "يصدق / يؤمن",
-      "pronunciation": "/bi'liv/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I don't believe you.",
-          "ar": "أنا لا أصدقك."
-        },
-        {
-          "en": "Believe me it's going to be okay.",
-          "ar": "صدقني سيكون كل شيء على ما يرام."
-        },
-        {
-          "en": "I believe this is true.",
-          "ar": "أنا أؤمن بأن هذا صحيح."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
     {
       "id": "w_a1_below",
       "lessonId": "lsn_a1_b_2",
@@ -285,6 +255,29 @@
       "ipa": "/blak/"
     },
     {
+      "id": "w_a1_blog",
+      "lessonId": "lsn_a1_b_2",
+      "en": "blog",
+      "ar": "مدونة",
+      "translation": "مدونة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She writes a blog about healthy eating.",
+          "ar": "هي تكتب مدونة عن الأكل الصحي."
+        }
+      ],
+      "ipa": "/blɒɡ/"
+    },
+    {
       "id": "w_a1_blogs",
       "lessonId": "lsn_a1_b_2",
       "en": "blogs",
@@ -428,6 +421,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/buːk/"
+    },
+    {
+      "id": "w_a1_boot",
+      "lessonId": "lsn_a1_b_2",
+      "en": "boot",
+      "ar": "حذاء طويل / صندوق السيارة",
+      "translation": "حذاء طويل / صندوق السيارة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He wore leather boots to the farm.",
+          "ar": "ارتدى أحذية جلدية طويلة (بواط) في المزرعة."
+        }
+      ],
+      "ipa": "/buːt/"
     },
     {
       "id": "w_a1_boots",

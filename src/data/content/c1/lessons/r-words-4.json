@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_r_4",
   "levelId": "lvl_c1",
-  "title": "Unit 37: R Words - Part 4",
+  "title": "Unit 55: R Words - Part 4",
   "slug": "r-words-4",
-  "order": 37,
-  "wordCount": 19,
-  "titleAr": "الوحدة 37: كلمات حرف R - الجزء 4",
+  "order": 55,
+  "wordCount": 20,
+  "titleAr": "الوحدة 55: كلمات حرف R - الجزء 4",
   "description": "Master essential C1 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف R.",
   "words": [
@@ -426,6 +426,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈɹuːlɪŋ/"
+    },
+    {
+      "id": "w_c1_rumour",
+      "lessonId": "lsn_c1_r_4",
+      "en": "rumour",
+      "ar": "شائعة / قيل وقال",
+      "translation": "شائعة / قيل وقال",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Don't believe everything you hear; it's just a rumour.",
+          "ar": "لا تصدق كل ما تسمع؛ إنها مجرد شائعة."
+        }
+      ],
+      "ipa": "/ˈruːmə(r)/"
     }
   ]
 }

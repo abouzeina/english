@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_i_1",
   "levelId": "lvl_b1",
-  "title": "Unit 17: I Words - Part 1",
+  "title": "Unit 19: I Words - Part 1",
   "slug": "i-words-1",
-  "order": 17,
-  "wordCount": 15,
-  "titleAr": "الوحدة 17: كلمات حرف I - الجزء 1",
+  "order": 19,
+  "wordCount": 20,
+  "titleAr": "الوحدة 19: كلمات حرف I - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter I.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف I.",
   "words": [
@@ -118,6 +118,29 @@
       ],
       "confidence": "high",
       "ipa": "/ɪˈmiːdɪət/"
+    },
+    {
+      "id": "w_b1_immigrant",
+      "lessonId": "lsn_b1_i_1",
+      "en": "immigrant",
+      "ar": "مهاجر",
+      "translation": "مهاجر",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country has a large immigrant population.",
+          "ar": "يوجد في البلاد عدد كبير من المهاجرين."
+        }
+      ],
+      "ipa": "/ˈɪmɪɡrənt/"
     },
     {
       "id": "w_b1_immigrants",
@@ -260,6 +283,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_improvement",
+      "lessonId": "lsn_b1_i_1",
+      "en": "improvement",
+      "ar": "تحسن / تطوير",
+      "translation": "تحسن / تطوير",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There has been a significant improvement in his health.",
+          "ar": "حدث تحسن ملحوظ في صحته."
+        }
+      ],
+      "ipa": "/ɪmˈpruːvmənt/"
+    },
+    {
       "id": "w_b1_improvements",
       "en": "improvements",
       "ar": "تحسينات",
@@ -326,6 +372,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_indicate",
+      "lessonId": "lsn_b1_i_1",
+      "en": "indicate",
+      "ar": "يشير إلى / يوضح",
+      "translation": "يشير إلى / يوضح",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The map indicates the best route to take.",
+          "ar": "توضح الخريطة أفضل طريق يجب اتخاذه."
+        }
+      ],
+      "ipa": "/ˈɪndɪkeɪt/"
+    },
+    {
       "id": "w_b1_indicates",
       "en": "indicates",
       "ar": "تشير",
@@ -346,6 +415,50 @@
       ],
       "confidence": "high",
       "ipa": "/ˈɪndɪkeɪts/"
+    },
+    {
+      "id": "w_b1_indirect",
+      "en": "indirect",
+      "ar": "غير مباشر",
+      "pronunciation": "/ ın də rekt/",
+      "lessonId": "lsn_b1_i_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "There are many indirect effects of using social media.",
+          "ar": "هناك العديد من الآثار غير المباشرة لاستخدام وسائل التواصل الاجتماعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_indoor",
+      "en": "indoor",
+      "ar": "داخلي",
+      "pronunciation": "/ In dor/",
+      "lessonId": "lsn_b1_i_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I suggest we play some indoor games.",
+          "ar": "أقترح أن نلعب بعض الألعاب الداخلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
     }
   ]
 }

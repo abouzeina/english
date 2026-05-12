@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_p_1",
   "levelId": "lvl_a1",
-  "title": "Unit 31: P Words - Part 1",
+  "title": "Unit 33: P Words - Part 1",
   "slug": "p-words-1",
-  "order": 31,
-  "wordCount": 21,
-  "titleAr": "الوحدة 31: كلمات حرف P - الجزء 1",
+  "order": 33,
+  "wordCount": 22,
+  "titleAr": "الوحدة 33: كلمات حرف P - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف P.",
   "words": [
@@ -156,6 +156,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_parent",
+      "lessonId": "lsn_a1_p_1",
+      "en": "parent",
+      "ar": "والد أو والدة",
+      "translation": "والد أو والدة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "My parents live in Cairo.",
+          "ar": "والداي يعيشان في القاهرة."
+        }
+      ],
+      "ipa": "/ˈpeərənt/"
     },
     {
       "id": "w_a1_parents",

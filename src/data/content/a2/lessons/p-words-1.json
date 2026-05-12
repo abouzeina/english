@@ -4,7 +4,7 @@
   "title": "Unit 28: P Words - Part 1",
   "slug": "p-words-1",
   "order": 28,
-  "wordCount": 21,
+  "wordCount": 22,
   "titleAr": "الوحدة 28: كلمات حرف P - الجزء 1",
   "description": "Master essential A2 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف P.",
@@ -327,6 +327,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_per_cent",
+      "lessonId": "lsn_a2_p_1",
+      "en": "per cent",
+      "ar": "بالمئة",
+      "translation": "بالمئة",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Ten per cent of the students failed the test.",
+          "ar": "عشرة بالمئة من الطلاب رسبوا في الاختبار."
+        }
+      ],
+      "ipa": "/pə ˈsent/"
     },
     {
       "id": "w_a2_percent",

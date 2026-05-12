@@ -4,7 +4,7 @@
   "title": "Unit 1: A Words - Part 1",
   "slug": "a-words-1",
   "order": 1,
-  "wordCount": 21,
+  "wordCount": 23,
   "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف A.",
@@ -208,6 +208,29 @@
       "ipa": "/æk.ˈsɛl.ə.ˌɹeɪt/"
     },
     {
+      "id": "w_c1_accent",
+      "lessonId": "lsn_c1_a_1",
+      "en": "accent",
+      "ar": "لكنة / لهجة",
+      "translation": "لكنة / لهجة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He speaks with a strong British accent.",
+          "ar": "يتحدث بلكنة بريطانية قوية."
+        }
+      ],
+      "ipa": "/ˈæksent/"
+    },
+    {
       "id": "w_c1_acceptance",
       "en": "acceptance",
       "ar": "قبول / موافقة",
@@ -250,6 +273,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/əkˈsɛs.ə.bəl/"
+    },
+    {
+      "id": "w_c1_accomplish",
+      "lessonId": "lsn_c1_a_1",
+      "en": "accomplish",
+      "ar": "ينجز / يحقق",
+      "translation": "ينجز / يحقق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They accomplished a lot in a very short time.",
+          "ar": "أنجزوا الكثير في وقت قصير جداً."
+        }
+      ],
+      "ipa": "/əˈkʌmplɪʃ/"
     },
     {
       "id": "w_c1_accomplishment",

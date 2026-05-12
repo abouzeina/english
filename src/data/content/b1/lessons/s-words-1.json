@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_s_1",
   "levelId": "lvl_b1",
-  "title": "Unit 32: S Words - Part 1",
+  "title": "Unit 36: S Words - Part 1",
   "slug": "s-words-1",
-  "order": 32,
-  "wordCount": 21,
-  "titleAr": "الوحدة 32: كلمات حرف S - الجزء 1",
+  "order": 36,
+  "wordCount": 25,
+  "titleAr": "الوحدة 36: كلمات حرف S - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف S.",
   "words": [
@@ -124,6 +124,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_scan",
+      "lessonId": "lsn_b1_s_1",
+      "en": "scan",
+      "ar": "يمسح ضوئياً / يفحص بسرعة",
+      "translation": "يمسح ضوئياً / يفحص بسرعة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She scanned the newspaper for the results.",
+          "ar": "تفحصت الصحيفة بسرعة بحثاً عن النتائج."
+        }
+      ],
+      "ipa": "/skæn/"
     },
     {
       "id": "w_b1_scanned",
@@ -256,6 +279,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_seed",
+      "lessonId": "lsn_b1_s_1",
+      "en": "seed",
+      "ar": "بذرة",
+      "translation": "بذرة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She planted some seeds in the garden.",
+          "ar": "زرعت بعض البذور في الحديقة."
+        }
+      ],
+      "ipa": "/siːd/"
     },
     {
       "id": "w_b1_seeds",
@@ -480,6 +526,52 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_shelf",
+      "lessonId": "lsn_b1_s_1",
+      "en": "shelf",
+      "ar": "رف",
+      "translation": "رف",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He put the books back on the shelf.",
+          "ar": "أعاد الكتب إلى الرف."
+        }
+      ],
+      "ipa": "/ʃelf/"
+    },
+    {
+      "id": "w_b1_shell",
+      "lessonId": "lsn_b1_s_1",
+      "en": "shell",
+      "ar": "قشرة / صدفة",
+      "translation": "قشرة / صدفة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We collected sea shells on the beach.",
+          "ar": "جمعنا الأصداف البحرية على الشاطئ."
+        }
+      ],
+      "ipa": "/ʃel/"
     }
   ]
 }

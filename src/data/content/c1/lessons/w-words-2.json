@@ -1,14 +1,36 @@
 {
   "id": "lsn_c1_w_2",
   "levelId": "lvl_c1",
-  "title": "Unit 50: W Words - Part 2",
+  "title": "Unit 69: W Words - Part 2",
   "slug": "w-words-2",
-  "order": 50,
-  "wordCount": 13,
-  "titleAr": "الوحدة 50: كلمات حرف W - الجزء 2",
+  "order": 69,
+  "wordCount": 14,
+  "titleAr": "الوحدة 69: كلمات حرف W - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter W.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف W.",
   "words": [
+    {
+      "id": "w_c1_wholly",
+      "en": "wholly",
+      "ar": "تماماً / كلياً",
+      "pronunciation": "ˈhəʊlli",
+      "lessonId": "lsn_c1_w_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "التقرير مبني تماماً على معلومات غير دقيقة.",
+          "ar": "I am not wholly convinced by his argument."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_c1_widen",
       "en": "widen",

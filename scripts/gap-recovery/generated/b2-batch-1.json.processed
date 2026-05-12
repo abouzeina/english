@@ -1,0 +1,602 @@
+[
+  {
+    "en": "afterwards",
+    "translation": "بَعْدَ ذَلِكَ / فِيمَا بَعْد",
+    "ipa": "/ˈɑːftəwədz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We went to the cinema and had dinner afterwards.",
+        "ar": "ذهبنَا إلى السينما وتناولنَا العشاءَ بعدَ ذلك."
+      }
+    ]
+  },
+  {
+    "en": "artificial",
+    "translation": "اصطناعي / صِناعي",
+    "ipa": "/ˌɑːtɪˈfɪʃl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The flowers are made of artificial silk.",
+        "ar": "هذه الزهورُ مصنوعةٌ من الحريرِ الاصطناعي."
+      }
+    ]
+  },
+  {
+    "en": "colony",
+    "translation": "مستعمرة",
+    "ipa": "/ˈkɒləni/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country was once a British colony.",
+        "ar": "كانت البلادُ يوماً ما مستعمرةً بريطانية."
+      }
+    ]
+  },
+  {
+    "en": "colourful",
+    "translation": "ملون / مبهج",
+    "ipa": "/ˈkʌləfl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She wore a colourful dress to the party.",
+        "ar": "ارتدت فستاناً ملوناً في الحفلة."
+      }
+    ]
+  },
+  {
+    "en": "comparative",
+    "translation": "مقارن / نسبي",
+    "ipa": "/kəmˈpærətɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company is a comparative newcomer to the field.",
+        "ar": "الشركةُ وافدةٌ جديدةٌ نسبياً في هذا المجال."
+      }
+    ]
+  },
+  {
+    "en": "component",
+    "translation": "مكون / جزء",
+    "ipa": "/kəmˈpəʊnənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Trust is a vital component of any relationship.",
+        "ar": "الثقةُ مكونٌ حيويٌ في أيِ علاقة."
+      }
+    ]
+  },
+  {
+    "en": "comprise",
+    "translation": "يشمل / يتكون من",
+    "ipa": "/kəmˈpraɪz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The collection comprises over 300 paintings.",
+        "ar": "تتكون المجموعةُ من أكثرَ من ثلاثمائة لوحة."
+      }
+    ]
+  },
+  {
+    "en": "conflict",
+    "translation": "صراع / نزاع",
+    "ipa": "/ˈkɒnflɪkt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two countries are in a long-running conflict.",
+        "ar": "البلدان في صراعٍ طويلِ الأمد."
+      }
+    ]
+  },
+  {
+    "en": "conspiracy",
+    "translation": "مؤامرة",
+    "ipa": "/kənˈspɪrəsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They were charged with conspiracy to commit murder.",
+        "ar": "وُجهت إليهم تهمةُ التآمرِ لارتكابِ جريمةِ قتل."
+      }
+    ]
+  },
+  {
+    "en": "construct",
+    "translation": "يبني / يشيد",
+    "ipa": "/kənˈstrʌkt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bridge was constructed in the 19th century.",
+        "ar": "بُني الجسرُ في القرنِ التاسع عشر."
+      }
+    ]
+  },
+  {
+    "en": "consultant",
+    "translation": "مستشار",
+    "ipa": "/kənˈsʌltənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She works as a management consultant.",
+        "ar": "تعملُ مستشارةً إدارية."
+      }
+    ]
+  },
+  {
+    "en": "contribute",
+    "translation": "يساهم / يتبرع",
+    "ipa": "/kənˈtrɪbjuːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Everyone should contribute to the discussion.",
+        "ar": "يجبُ على الجميعِ المساهمةُ في المناقشة."
+      }
+    ]
+  },
+  {
+    "en": "convert",
+    "translation": "يحول / يغير",
+    "ipa": "/kənˈvɜːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They converted the garage into a bedroom.",
+        "ar": "حولوا المرآبَ إلى غرفةِ نوم."
+      }
+    ]
+  },
+  {
+    "en": "county",
+    "translation": "مقاطعة / إقليم",
+    "ipa": "/ˈkaʊnti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "This is one of the largest counties in England.",
+        "ar": "هذه واحدةٌ من أكبرِ المقاطعاتِ في إنجلترا."
+      }
+    ]
+  },
+  {
+    "en": "crack",
+    "translation": "صدع / شق",
+    "ipa": "/kræk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a small crack in the window.",
+        "ar": "يوجدُ شقٌ صغيرٌ في النافذة."
+      }
+    ]
+  },
+  {
+    "en": "creature",
+    "translation": "كائن / مخلوق",
+    "ipa": "/ˈkriːtʃə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The sea is full of strange creatures.",
+        "ar": "البحرُ مليءٌ بالكائناتِ الغريبة."
+      }
+    ]
+  },
+  {
+    "en": "criterion",
+    "translation": "معيار",
+    "ipa": "/kraɪˈtɪəriən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "What is the main criterion for selection?",
+        "ar": "ما هو المعيارُ الأساسيُ للاختيار؟"
+      }
+    ]
+  },
+  {
+    "en": "criticize",
+    "translation": "ينتقد",
+    "ipa": "/ˈkrɪtɪsaɪz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government has been criticized for its policies.",
+        "ar": "تعرضت الحكومةُ للانتقادِ بسببِ سياساتها."
+      }
+    ]
+  },
+  {
+    "en": "crop",
+    "translation": "محصول",
+    "ipa": "/krɒp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Rice is the main crop in this region.",
+        "ar": "الأرزُ هو المحصولُ الرئيسيُ في هذه المنطقة."
+      }
+    ]
+  },
+  {
+    "en": "dare",
+    "translation": "يجرؤ / يتجرأ",
+    "ipa": "/deə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He didn't dare to tell her the truth.",
+        "ar": "لم يجرؤ على إخبارها بالحقيقة."
+      }
+    ]
+  },
+  {
+    "en": "debate",
+    "translation": "مناظرة / نقاش",
+    "ipa": "/dɪˈbeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There has been much debate on this issue.",
+        "ar": "كان هناك الكثيرُ من الجدلِ حولَ هذه القضية."
+      }
+    ]
+  },
+  {
+    "en": "debt",
+    "translation": "دين / ديون",
+    "ipa": "/det/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company is struggling with huge debts.",
+        "ar": "تكافحُ الشركةُ مع ديونٍ ضخمة."
+      }
+    ]
+  },
+  {
+    "en": "declare",
+    "translation": "يعلن / يصرح",
+    "ipa": "/dɪˈkleə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country declared independence in 1960.",
+        "ar": "أعلنت الدولةُ استقلالها في عام ألف وتسعمائة وستين."
+      }
+    ]
+  },
+  {
+    "en": "decoration",
+    "translation": "زينة / ديكور",
+    "ipa": "/ˌdekəˈreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The house was full of Christmas decorations.",
+        "ar": "كان المنزلُ مليئاً بزينةِ عيدِ الميلاد."
+      }
+    ]
+  },
+  {
+    "en": "delete",
+    "translation": "يحذف",
+    "ipa": "/dɪˈliːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Be careful not to delete important files.",
+        "ar": "كن حذراً حتى لا تحذفَ ملفاتٍ مهمة."
+      }
+    ]
+  },
+  {
+    "en": "demand",
+    "translation": "طلب / يطالب",
+    "ipa": "/dɪˈmɑːnd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a high demand for organic food.",
+        "ar": "هناك طلبٌ كبيرٌ على الأغذيةِ العضوية."
+      }
+    ]
+  },
+  {
+    "en": "demonstrate",
+    "translation": "يوضح / يتظاهر",
+    "ipa": "/ˈdemənstreɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The study demonstrates the benefits of exercise.",
+        "ar": "توضحُ الدراسةُ فوائدَ التمارينِ الرياضية."
+      }
+    ]
+  },
+  {
+    "en": "deny",
+    "translation": "ينكر / يرفض",
+    "ipa": "/dɪˈnaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The suspect denied all the allegations.",
+        "ar": "أنكر المشتبه بهِ جميعَ الاتهامات."
+      }
+    ]
+  },
+  {
+    "en": "derive",
+    "translation": "يشتق / يستمد",
+    "ipa": "/dɪˈraɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Many English words are derived from Latin.",
+        "ar": "تشتق العديدُ من الكلماتِ الإنجليزيةِ من اللاتينية."
+      }
+    ]
+  },
+  {
+    "en": "deserve",
+    "translation": "يستحق",
+    "ipa": "/dɪˈzɜːv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You deserve a rest after all that hard work.",
+        "ar": "أنت تستحقُ قسطاً من الراحةِ بعدَ كلِ ذلك العملِ الشاق."
+      }
+    ]
+  },
+  {
+    "en": "devote",
+    "translation": "يخصص / يكرس",
+    "ipa": "/dɪˈvəʊt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She devotes her life to helping the poor.",
+        "ar": "تكرسُ حياتها لمساعدةِ الفقراء."
+      }
+    ]
+  },
+  {
+    "en": "differ",
+    "translation": "يختلف",
+    "ipa": "/ˈdɪfə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Opinions differ on how to solve the problem.",
+        "ar": "تختلفُ الآراءُ حولَ كيفيةِ حلِ المشكلة."
+      }
+    ]
+  },
+  {
+    "en": "dig",
+    "translation": "يحفر",
+    "ipa": "/dɪɡ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They are digging a hole in the garden.",
+        "ar": "إنهم يحفرون حفرةً في الحديقة."
+      }
+    ]
+  },
+  {
+    "en": "disability",
+    "translation": "إعاقة",
+    "ipa": "/ˌdɪsəˈbɪləti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has a physical disability but leads an active life.",
+        "ar": "لديهِ إعاقةٌ جسديةٌ لكنهُ يعيشُ حياةً نشطة."
+      }
+    ]
+  },
+  {
+    "en": "disappoint",
+    "translation": "يخيب أمل",
+    "ipa": "/ˌdɪsəˈpɔɪnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I'm sorry to disappoint you, but I can't come.",
+        "ar": "آسفٌ لخيبةِ أملك، لكنني لا أستطيعُ المجيء."
+      }
+    ]
+  },
+  {
+    "en": "disc",
+    "translation": "قرص",
+    "ipa": "/dɪsk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The data is stored on a compact disc.",
+        "ar": "يتم تخزينُ البياناتِ على قرصٍ مدمج."
+      }
+    ]
+  },
+  {
+    "en": "discourage",
+    "translation": "يثبط / يحبط",
+    "ipa": "/dɪˈskʌrɪdʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Don't let one failure discourage you.",
+        "ar": "لا تدع فشلاً واحداً يثبطُ عزيمتك."
+      }
+    ]
+  },
+  {
+    "en": "dismiss",
+    "translation": "يفصل / يرفض",
+    "ipa": "/dɪsˈmɪs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was dismissed from his job for being late.",
+        "ar": "تم فصلهُ من عملهِ بسببِ التأخير."
+      }
+    ]
+  },
+  {
+    "en": "distract",
+    "translation": "يشتت",
+    "ipa": "/dɪˈstrækt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Noise distracts me from my work.",
+        "ar": "الضجيجُ يشتتُ تركيزي عن عملي."
+      }
+    ]
+  },
+  {
+    "en": "district",
+    "translation": "منطقة / حي",
+    "ipa": "/ˈdɪstrɪkt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He lives in the business district of the city.",
+        "ar": "يعيشُ في المنطقةِ التجاريةِ بالمدينة."
+      }
+    ]
+  },
+  {
+    "en": "disturb",
+    "translation": "يزعج",
+    "ipa": "/dɪˈstɜːb/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please do not disturb me while I'm sleeping.",
+        "ar": "رجاءً لا تزعجني أثناءَ نومي."
+      }
+    ]
+  },
+  {
+    "en": "donation",
+    "translation": "تبرع",
+    "ipa": "/dəʊˈneɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The hospital relies on private donations.",
+        "ar": "يعتمدُ المستشفى على التبرعاتِ الخاصة."
+      }
+    ]
+  },
+  {
+    "en": "downwards",
+    "translation": "إلى الأسفل",
+    "ipa": "/ˈdaʊnwədz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The path slopes downwards towards the sea.",
+        "ar": "ينحدرُ المسارُ إلى الأسفلِ باتجاهِ البحر."
+      }
+    ]
+  },
+  {
+    "en": "dump",
+    "translation": "يفرغ / يلقي / مكب",
+    "ipa": "/dʌmp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Toxic waste was illegally dumped in the river.",
+        "ar": "تم إلقاءُ النفاياتِ السامةِ في النهرِ بشكلٍ غيرِ قانوني."
+      }
+    ]
+  },
+  {
+    "en": "economics",
+    "translation": "علم الاقتصاد",
+    "ipa": "/ˌiːkəˈnɒmɪks/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is studying economics at university.",
+        "ar": "تدرسُ علمَ الاقتصادِ في الجامعة."
+      }
+    ]
+  },
+  {
+    "en": "economist",
+    "translation": "خبير اقتصادي",
+    "ipa": "/ɪˈkɒnəmɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Economists predict a slow recovery.",
+        "ar": "يتوقعُ خبراءُ الاقتصادِ تعافياً بطيئاً."
+      }
+    ]
+  },
+  {
+    "en": "edit",
+    "translation": "يحرر / يعدل",
+    "ipa": "/ˈedɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You can edit the text before publishing it.",
+        "ar": "يمكنك تحريرُ النصِ قبلَ نشره."
+      }
+    ]
+  },
+  {
+    "en": "edition",
+    "translation": "طبعة / إصدار",
+    "ipa": "/ɪˈdɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The third edition of the book was published last year.",
+        "ar": "نُشرت الطبعةُ الثالثةُ من الكتابِ العام الماضي."
+      }
+    ]
+  },
+  {
+    "en": "editorial",
+    "translation": "افتتاحية / تحريري",
+    "ipa": "/ˌedɪˈtɔːriəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The paper's editorial criticized the new law.",
+        "ar": "انتقدت افتتاحيةُ الصحيفةِ القانونَ الجديد."
+      }
+    ]
+  },
+  {
+    "en": "efficient",
+    "translation": "فعال / كفء",
+    "ipa": "/ɪˈfɪʃnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new system is much more efficient.",
+        "ar": "النظامُ الجديدُ أكثرُ كفاءةً بكثير."
+      }
+    ]
+  }
+]

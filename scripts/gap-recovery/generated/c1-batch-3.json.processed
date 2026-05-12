@@ -1,0 +1,602 @@
+[
+  {
+    "en": "articulate",
+    "translation": "فصيح / بليغ / يوضح بجلاء",
+    "ipa": "/ɑːˈtɪkjuleɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is an articulate and intelligent woman.",
+        "ar": "هي امرأة فصيحة وذكية."
+      }
+    ]
+  },
+  {
+    "en": "ash",
+    "translation": "رماد",
+    "ipa": "/æʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The volcano erupted, covering the village in ash.",
+        "ar": "اندلع البركان، مغطياً القرية بالرماد."
+      }
+    ]
+  },
+  {
+    "en": "aspiration",
+    "translation": "طموح / تطلع",
+    "ipa": "/ˌæspəˈreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has high aspirations for his future career.",
+        "ar": "لديه طموحات عالية لمسيرته المهنية المستقبلية."
+      }
+    ]
+  },
+  {
+    "en": "aspire",
+    "translation": "يطمح إلى / يتطلع إلى",
+    "ipa": "/əˈspaɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Many young people aspire to be famous.",
+        "ar": "يطمح الكثير من الشباب إلى أن يكونوا مشهورين."
+      }
+    ]
+  },
+  {
+    "en": "assassination",
+    "translation": "اغتيال",
+    "ipa": "/əˌsæsɪˈneɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The assassination of the president shocked the nation.",
+        "ar": "صدم اغتيال الرئيس الأمة."
+      }
+    ]
+  },
+  {
+    "en": "assault",
+    "translation": "اعتداء / هجوم",
+    "ipa": "/əˈsɔːlt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was charged with sexual assault.",
+        "ar": "وُجهت إليه تهمة الاعتداء الجنسي."
+      }
+    ]
+  },
+  {
+    "en": "assemble",
+    "translation": "يجمع / يركب / يتجمع",
+    "ipa": "/əˈsembl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The children assembled in the main hall.",
+        "ar": "تجمع الأطفال في القاعة الرئيسية."
+      }
+    ]
+  },
+  {
+    "en": "assembly",
+    "translation": "تجمع / جمعية / تركيب",
+    "ipa": "/əˈsembli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "School assembly is held every Monday morning.",
+        "ar": "يُعقد طابور الصباح (التجمع المدرسي) كل صباح اثنين."
+      }
+    ]
+  },
+  {
+    "en": "assert",
+    "translation": "يؤكد / يجزم",
+    "ipa": "/əˈsɜːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She continued to assert her innocence.",
+        "ar": "واصلت التأكيد على براءتها."
+      }
+    ]
+  },
+  {
+    "en": "assertion",
+    "translation": "تأكيد / جزم / زعم",
+    "ipa": "/əˈsɜːʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The report's assertions were not supported by facts.",
+        "ar": "تأكيدات التقرير لم تكن مدعومة بالحقائق."
+      }
+    ]
+  },
+  {
+    "en": "asset",
+    "translation": "أصل / مورد / ميزة",
+    "ipa": "/ˈæset/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "His knowledge of French is a real asset to the company.",
+        "ar": "معرفته بالفرنسية ميزة حقيقية للشركة."
+      }
+    ]
+  },
+  {
+    "en": "assigned",
+    "translation": "معين / مكلف بـ",
+    "ipa": "/əˈsaɪnd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has been assigned a new role in the department.",
+        "ar": "تم تكليفه بدور جديد في القسم."
+      }
+    ]
+  },
+  {
+    "en": "assistant",
+    "translation": "مساعد",
+    "ipa": "/əˈsɪstənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She works as a personal assistant to the CEO.",
+        "ar": "تعمل كمساعدة شخصية للمدير التنفيذي."
+      }
+    ]
+  },
+  {
+    "en": "assumption",
+    "translation": "افتراض",
+    "ipa": "/əˈsʌmpʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We are working on the assumption that the project will be approved.",
+        "ar": "نحن نعمل على افتراض أن المشروع سيتم اعتماده."
+      }
+    ]
+  },
+  {
+    "en": "assurance",
+    "translation": "ضمان / تأكيد / ثقة",
+    "ipa": "/əˈʃʊərəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He gave us every assurance that the work would be done.",
+        "ar": "أعطانا كل الضمانات بأن العمل سينجز."
+      }
+    ]
+  },
+  {
+    "en": "assure",
+    "translation": "يؤكد / يطمئن",
+    "ipa": "/əˈʃʊə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I can assure you that everything is under control.",
+        "ar": "أستطيع أن أؤكد لك أن كل شيء تحت السيطرة."
+      }
+    ]
+  },
+  {
+    "en": "astonishing",
+    "translation": "مذهل / مدهش",
+    "ipa": "/əˈstɒnɪʃɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The results were truly astonishing.",
+        "ar": "كانت النتائج مذهلة حقاً."
+      }
+    ]
+  },
+  {
+    "en": "asylum",
+    "translation": "لجوء / مأوى",
+    "ipa": "/əˈsaɪləm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is seeking political asylum in the UK.",
+        "ar": "إنه يطلب اللجوء السياسي في المملكة المتحدة."
+      }
+    ]
+  },
+  {
+    "en": "atrocity",
+    "translation": "فظاعة / عمل وحشي",
+    "ipa": "/əˈtrɒsəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Both sides were accused of committing atrocities.",
+        "ar": "اتُهم كلا الجانبين بارتكاب فظائع."
+      }
+    ]
+  },
+  {
+    "en": "attachment",
+    "translation": "مرفق / تعلق",
+    "ipa": "/əˈtætʃmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please see the file in the attachment.",
+        "ar": "يرجى الاطلاع على الملف في المرفقات."
+      }
+    ]
+  },
+  {
+    "en": "attainment",
+    "translation": "نيل / تحقيق / إنجاز",
+    "ipa": "/əˈteɪnmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The attainment of these goals will take time.",
+        "ar": "نيل هذه الأهداف سيستغرق وقتاً."
+      }
+    ]
+  },
+  {
+    "en": "attendance",
+    "translation": "حضور",
+    "ipa": "/əˈtendəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Attendance at the meeting is compulsory.",
+        "ar": "الحضور في الاجتماع إلزامي."
+      }
+    ]
+  },
+  {
+    "en": "attorney",
+    "translation": "محامٍ / وكيل",
+    "ipa": "/əˈtɜːni/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He hired an attorney to represent him in court.",
+        "ar": "استأجر محامياً لتمثيله في المحكمة."
+      }
+    ]
+  },
+  {
+    "en": "attribute",
+    "translation": "سمة / صفة / ينسب إلى",
+    "ipa": "/ˈætrɪbjuːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Patience is one of his best attributes.",
+        "ar": "الصبر واحد من أفضل سماته."
+      }
+    ]
+  },
+  {
+    "en": "auction",
+    "translation": "مزاد علني",
+    "ipa": "/ˈɔːkʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The painting was sold at an auction.",
+        "ar": "بيعت اللوحة في مزاد علني."
+      }
+    ]
+  },
+  {
+    "en": "audio",
+    "translation": "صوتي / سمعي",
+    "ipa": "/ˈɔːdiəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The video has excellent audio quality.",
+        "ar": "الفيديو يتمتع بجودة صوت ممتازة."
+      }
+    ]
+  },
+  {
+    "en": "audit",
+    "translation": "تدقيق حسابات / فحص",
+    "ipa": "/ˈɔːdɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company is undergoing an annual financial audit.",
+        "ar": "تخضع الشركة لتدقيق مالي سنوي."
+      }
+    ]
+  },
+  {
+    "en": "authentic",
+    "translation": "أصيل / موثوق / حقيقي",
+    "ipa": "/ɔːˈθentɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The restaurant serves authentic Italian food.",
+        "ar": "يقدم المطعم طعاماً إيطالياً أصيلاً."
+      }
+    ]
+  },
+  {
+    "en": "authorize",
+    "translation": "يفوض / يرخص / يأذن بـ",
+    "ipa": "/ˈɔːθəraɪz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Only authorized personnel are allowed in the building.",
+        "ar": "يُسمح فقط للأفراد المخولين (المصرح لهم) بدخول المبنى."
+      }
+    ]
+  },
+  {
+    "en": "auto",
+    "translation": "سيارة / آلي",
+    "ipa": "/ˈɔːtəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He works in the auto industry.",
+        "ar": "يعمل في صناعة السيارات."
+      }
+    ]
+  },
+  {
+    "en": "autonomous",
+    "translation": "مستقل / ذاتي الحكم",
+    "ipa": "/ɔːˈtɒnəməs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The region is now an autonomous territory.",
+        "ar": "المنطقة الآن إقليم يتمتع بالحكم الذاتي."
+      }
+    ]
+  },
+  {
+    "en": "availability",
+    "translation": "توفر / إتاحة",
+    "ipa": "/əˌveɪləˈbɪləti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The availability of fresh water is a major concern.",
+        "ar": "توفر المياه العذبة مصدر قلق رئيسي."
+      }
+    ]
+  },
+  {
+    "en": "await",
+    "translation": "ينتظر / يترقب",
+    "ipa": "/əˈweɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We are awaiting the results of the test.",
+        "ar": "نحن ننتظر نتائج الاختبار."
+      }
+    ]
+  },
+  {
+    "en": "backdrop",
+    "translation": "خلفية / مشهد خلفي",
+    "ipa": "/ˈbækdrɒp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The mountains provided a beautiful backdrop for the photo.",
+        "ar": "وفرت الجبال خلفية جميلة للصورة."
+      }
+    ]
+  },
+  {
+    "en": "backing",
+    "translation": "دعم / مساندة / تأييد",
+    "ipa": "/ˈbækɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The proposal has the backing of the majority.",
+        "ar": "يحظى الاقتراح بدعم الأغلبية."
+      }
+    ]
+  },
+  {
+    "en": "backup",
+    "translation": "نسخة احتياطية / دعم",
+    "ipa": "/ˈbækʌp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Make sure you have a backup of all your files.",
+        "ar": "تأكد من أن لديك نسخة احتياطية لجميع ملفاتك."
+      }
+    ]
+  },
+  {
+    "en": "badge",
+    "translation": "شارة / علامة",
+    "ipa": "/bædʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The police officer showed his badge.",
+        "ar": "أظهر ضابط الشرطة شارته."
+      }
+    ]
+  },
+  {
+    "en": "bail",
+    "translation": "كفالة / يخرج بكفالة",
+    "ipa": "/beɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was released on bail of $10,000.",
+        "ar": "أُطلق سراحه بكفالة قدرها عشرة آلاف دولار."
+      }
+    ]
+  },
+  {
+    "en": "balanced",
+    "translation": "متوازن",
+    "ipa": "/ˈbælənst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It is important to eat a balanced diet.",
+        "ar": "من المهم تناول غذاء متوازن."
+      }
+    ]
+  },
+  {
+    "en": "ballot",
+    "translation": "اقتراع / تصويت",
+    "ipa": "/ˈbælət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The election was conducted by secret ballot.",
+        "ar": "أُجريت الانتخابات عن طريق الاقتراع السري."
+      }
+    ]
+  },
+  {
+    "en": "banner",
+    "translation": "لافتة / شعار",
+    "ipa": "/ˈbænə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The protesters carried banners with slogans.",
+        "ar": "حمل المتظاهرون لافتات عليها شعارات."
+      }
+    ]
+  },
+  {
+    "en": "bare",
+    "translation": "عارٍ / مكشوف / مجرد",
+    "ipa": "/beə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He walked across the beach in bare feet.",
+        "ar": "مشى عبر الشاطئ بقدمين عاريتين."
+      }
+    ]
+  },
+  {
+    "en": "barely",
+    "translation": "بالكاد / بشق الأنفس",
+    "ipa": "/ˈbeəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I could barely hear what she was saying.",
+        "ar": "بالكاد استطعت سماع ما كانت تقوله."
+      }
+    ]
+  },
+  {
+    "en": "barrel",
+    "translation": "برميل",
+    "ipa": "/ˈbærəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Oil prices are measured by the barrel.",
+        "ar": "تُقاس أسعار النفط بالبرميل."
+      }
+    ]
+  },
+  {
+    "en": "barrier",
+    "translation": "حاجز / عائق",
+    "ipa": "/ˈbæriə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Language can be a barrier to communication.",
+        "ar": "اللغة يمكن أن تكون عائقاً أمام التواصل."
+      }
+    ]
+  },
+  {
+    "en": "basement",
+    "translation": "قبو / طابق سفلي",
+    "ipa": "/ˈbeɪsmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The laundry room is in the basement.",
+        "ar": "غرفة الغسيل موجودة في القبو."
+      }
+    ]
+  },
+  {
+    "en": "basket",
+    "translation": "سلة",
+    "ipa": "/ˈbɑːskɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She put the apples in a basket.",
+        "ar": "وضعت التفاح في سلة."
+      }
+    ]
+  },
+  {
+    "en": "bass",
+    "translation": "صوت جهير / سمك القاروص / آلة الباص",
+    "ipa": "/beɪs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He plays the bass guitar in a band.",
+        "ar": "يعزف على غيتار الباص في فرقة."
+      }
+    ]
+  },
+  {
+    "en": "bat",
+    "translation": "مضرب / خفاش",
+    "ipa": "/bæt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He hit the ball with a wooden bat.",
+        "ar": "ضرب الكرة بمضرب خشبي."
+      }
+    ]
+  },
+  {
+    "en": "battle",
+    "translation": "معركة / صراع",
+    "ipa": "/ˈbætl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two armies met in a fierce battle.",
+        "ar": "التقى الجيشان في معركة ضارية."
+      }
+    ]
+  }
+]

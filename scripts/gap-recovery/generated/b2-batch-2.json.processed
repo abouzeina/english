@@ -1,0 +1,602 @@
+[
+  {
+    "en": "efficiently",
+    "translation": "بكفاءة",
+    "ipa": "/ɪˈfɪʃntli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The team worked efficiently to meet the deadline.",
+        "ar": "عمل الفريق بكفاءة للالتزام بالموعد النهائي."
+      }
+    ]
+  },
+  {
+    "en": "elbow",
+    "translation": "كوع / مرفق",
+    "ipa": "/ˈelbəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He rested his elbows on the table.",
+        "ar": "أراح مرفقيه على الطاولة."
+      }
+    ]
+  },
+  {
+    "en": "elderly",
+    "translation": "مسن / كبار السن",
+    "ipa": "/ˈeldəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The charity provides help for the elderly.",
+        "ar": "تقدم الجمعية الخيرية المساعدة لكبار السن."
+      }
+    ]
+  },
+  {
+    "en": "elect",
+    "translation": "ينتخب",
+    "ipa": "/ɪˈlekt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She was elected as the new president.",
+        "ar": "تم انتخابها كرئيسة جديدة."
+      }
+    ]
+  },
+  {
+    "en": "electronics",
+    "translation": "إلكترونيات",
+    "ipa": "/ɪˌlekˈtrɒnɪks/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is an expert in consumer electronics.",
+        "ar": "هو خبير في الإلكترونيات الاستهلاكية."
+      }
+    ]
+  },
+  {
+    "en": "elegant",
+    "translation": "أنيق",
+    "ipa": "/ˈelɪɡənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She looked very elegant in her black dress.",
+        "ar": "بدت أنيقة جداً في فستانها الأسود."
+      }
+    ]
+  },
+  {
+    "en": "elementary",
+    "translation": "ابتدائي / أساسي",
+    "ipa": "/ˌelɪˈmentri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The book explains the elementary principles of physics.",
+        "ar": "يشرح الكتاب المبادئ الأساسية للفيزياء."
+      }
+    ]
+  },
+  {
+    "en": "eliminate",
+    "translation": "يزيل / يقضي على",
+    "ipa": "/ɪˈlɪmɪneɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need to eliminate all possible errors.",
+        "ar": "نحن بحاجة للقضاء على جميع الأخطاء الممكنة."
+      }
+    ]
+  },
+  {
+    "en": "elsewhere",
+    "translation": "في مكان آخر",
+    "ipa": "/ˌelsˈweə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "If you are not satisfied, you can look elsewhere.",
+        "ar": "إذا لم تكن راضياً، يمكنك البحث في مكان آخر."
+      }
+    ]
+  },
+  {
+    "en": "embrace",
+    "translation": "يعانق / يتبنى",
+    "ipa": "/ɪmˈbreɪs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She embraced her children warmly.",
+        "ar": "عانقت أطفالها بحرارة."
+      }
+    ]
+  },
+  {
+    "en": "emerge",
+    "translation": "يظهر / يبرز",
+    "ipa": "/ɪˈmɜːdʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The sun emerged from behind the clouds.",
+        "ar": "ظهرت الشمس من خلف الغيوم."
+      }
+    ]
+  },
+  {
+    "en": "emission",
+    "translation": "انبعاث",
+    "ipa": "/ɪˈmɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government aims to reduce carbon emissions.",
+        "ar": "تهدف الحكومة إلى تقليل انبعاثات الكربون."
+      }
+    ]
+  },
+  {
+    "en": "emotional",
+    "translation": "عاطفي / وجداني",
+    "ipa": "/ɪˈməʊʃənl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Moving house is a very emotional experience.",
+        "ar": "الانتقال من منزل لآخر تجربة عاطفية جداً."
+      }
+    ]
+  },
+  {
+    "en": "emotionally",
+    "translation": "عاطفياً",
+    "ipa": "/ɪˈməʊʃənəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is very attached to his family emotionally.",
+        "ar": "هو مرتبط جداً بعائلته عاطفياً."
+      }
+    ]
+  },
+  {
+    "en": "emphasis",
+    "translation": "تأكيد / تركيز",
+    "ipa": "/ˈemfəsɪs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a strong emphasis on practical skills.",
+        "ar": "هناك تركيز قوي على المهارات العملية."
+      }
+    ]
+  },
+  {
+    "en": "emphasize",
+    "translation": "يؤكد / يشدد على",
+    "ipa": "/ˈemfəsaɪz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The report emphasizes the need for change.",
+        "ar": "يشدد التقرير على الحاجة للتغيير."
+      }
+    ]
+  },
+  {
+    "en": "empire",
+    "translation": "إمبراطورية",
+    "ipa": "/ˈempaɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The Roman Empire was one of the largest in history.",
+        "ar": "كانت الإمبراطورية الرومانية واحدة من أكبر الإمبراطوريات في التاريخ."
+      }
+    ]
+  },
+  {
+    "en": "enable",
+    "translation": "يمكن / يتيح",
+    "ipa": "/ɪˈneɪbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new law will enable more people to vote.",
+        "ar": "سيمكن القانون الجديد المزيد من الناس من التصويت."
+      }
+    ]
+  },
+  {
+    "en": "encounter",
+    "translation": "يواجه / يصادف",
+    "ipa": "/ɪnˈkaʊntə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We encountered many difficulties during our trip.",
+        "ar": "صادفنا العديد من الصعوبات خلال رحلتنا."
+      }
+    ]
+  },
+  {
+    "en": "engage",
+    "translation": "يشغل / يشرك / ينخرط",
+    "ipa": "/ɪnˈɡeɪdʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It's difficult to engage students in boring topics.",
+        "ar": "من الصعب إشراك الطلاب في مواضيع مملة."
+      }
+    ]
+  },
+  {
+    "en": "enhance",
+    "translation": "يحسن / يعزز",
+    "ipa": "/ɪnˈhɑːns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You can enhance the flavor of the dish with herbs.",
+        "ar": "يمكنك تحسين نكهة الطبق بالأعشاب."
+      }
+    ]
+  },
+  {
+    "en": "enjoyable",
+    "translation": "ممتع",
+    "ipa": "/ɪnˈdʒɔɪəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We had a very enjoyable evening together.",
+        "ar": "قضينا أمسية ممتعة جداً معاً."
+      }
+    ]
+  },
+  {
+    "en": "enquiry",
+    "translation": "استفسار / تحقيق",
+    "ipa": "/ɪnˈkwaɪəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The police are conducting an enquiry into the accident.",
+        "ar": "تجري الشرطة تحقيقاً في الحادث."
+      }
+    ]
+  },
+  {
+    "en": "ensure",
+    "translation": "يضمن / يتأكد من",
+    "ipa": "/ɪnˈʃʊə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please ensure that all windows are closed.",
+        "ar": "يرجى التأكد من أن جميع النوافذ مغلقة."
+      }
+    ]
+  },
+  {
+    "en": "entertaining",
+    "translation": "مسلٍ / ممتع",
+    "ipa": "/ˌentəˈteɪnɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The movie was very entertaining.",
+        "ar": "كان الفيلم مسلياً جداً."
+      }
+    ]
+  },
+  {
+    "en": "enthusiasm",
+    "translation": "حماس",
+    "ipa": "/ɪnˈθjuːziæzəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He showed great enthusiasm for the project.",
+        "ar": "أظهر حماساً كبيراً للمشروع."
+      }
+    ]
+  },
+  {
+    "en": "enthusiastic",
+    "translation": "متحمس",
+    "ipa": "/ɪnˌθjuːziˈæstɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They were very enthusiastic about the new idea.",
+        "ar": "كانوا متحمسين جداً للفكرة الجديدة."
+      }
+    ]
+  },
+  {
+    "en": "entire",
+    "translation": "كامل / بأكمله",
+    "ipa": "/ɪnˈtaɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The entire village was destroyed by the flood.",
+        "ar": "دُمرت القرية بأكملها بسبب الفيضان."
+      }
+    ]
+  },
+  {
+    "en": "entirely",
+    "translation": "تماماً / كلياً",
+    "ipa": "/ɪnˈtaɪəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I entirely agree with your decision.",
+        "ar": "أنا أتفق تماماً مع قرارك."
+      }
+    ]
+  },
+  {
+    "en": "equip",
+    "translation": "يجهز / يزود",
+    "ipa": "/ɪˈkwɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The laboratory is equipped with modern machines.",
+        "ar": "المختبر مجهز بآلات حديثة."
+      }
+    ]
+  },
+  {
+    "en": "ethic",
+    "translation": "أخلاق / مبدأ أخلاقي",
+    "ipa": "/ˈeθɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They have a strong work ethic in this company.",
+        "ar": "لديهم أخلاقيات عمل قوية في هذه الشركة."
+      }
+    ]
+  },
+  {
+    "en": "evaluate",
+    "translation": "يقيم",
+    "ipa": "/ɪˈvæljueɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The teacher will evaluate your progress next week.",
+        "ar": "سيقيم المعلم تقدمك الأسبوع القادم."
+      }
+    ]
+  },
+  {
+    "en": "evolve",
+    "translation": "يتطور",
+    "ipa": "/ɪˈvɒlv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company has evolved into a global leader.",
+        "ar": "تطورت الشركة لتصبح رائدة عالمية."
+      }
+    ]
+  },
+  {
+    "en": "exception",
+    "translation": "استثناء",
+    "ipa": "/ɪkˈsepʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Everyone must follow the rules, with no exceptions.",
+        "ar": "يجب على الجميع اتباع القواعد، دون استثناءات."
+      }
+    ]
+  },
+  {
+    "en": "expectation",
+    "translation": "توقع",
+    "ipa": "/ˌekspekˈteɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The film did not meet my expectations.",
+        "ar": "الفيلم لم يرقَ لتوقعاتي."
+      }
+    ]
+  },
+  {
+    "en": "expense",
+    "translation": "نفقة / تكلفة",
+    "ipa": "/ɪkˈspens/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We can't afford the expense of a new car.",
+        "ar": "لا يمكننا تحمل تكاليف سيارة جديدة."
+      }
+    ]
+  },
+  {
+    "en": "fabric",
+    "translation": "قماش / نسيج",
+    "ipa": "/ˈfæbrɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "This shirt is made from a very soft fabric.",
+        "ar": "هذا القميص مصنوع من نسيج ناعم جداً."
+      }
+    ]
+  },
+  {
+    "en": "fabulous",
+    "translation": "رائع / مذهل",
+    "ipa": "/ˈfæbjələs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The view from the top of the mountain is fabulous.",
+        "ar": "المنظر من قمة الجبل رائع."
+      }
+    ]
+  },
+  {
+    "en": "facility",
+    "translation": "منشأة / مرفق / سهولة",
+    "ipa": "/fəˈsɪləti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The hotel has excellent sports facilities.",
+        "ar": "يحتوي الفندق على مرافق رياضية ممتازة."
+      }
+    ]
+  },
+  {
+    "en": "failed",
+    "translation": "فاشل / أخفق",
+    "ipa": "/feɪld/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He felt like a failed artist.",
+        "ar": "شعر وكأنه فنان فاشل."
+      }
+    ]
+  },
+  {
+    "en": "failure",
+    "translation": "فشل",
+    "ipa": "/ˈfeɪljə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Failure is the first step towards success.",
+        "ar": "الفشل هو الخطوة الأولى نحو النجاح."
+      }
+    ]
+  },
+  {
+    "en": "faith",
+    "translation": "إيمان / ثقة",
+    "ipa": "/feɪθ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I have complete faith in your abilities.",
+        "ar": "لدي ثقة كاملة في قدراتك."
+      }
+    ]
+  },
+  {
+    "en": "fake",
+    "translation": "مزيف",
+    "ipa": "/feɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was caught using a fake passport.",
+        "ar": "قُبض عليه وهو يستخدم جواز سفر مزيف."
+      }
+    ]
+  },
+  {
+    "en": "fame",
+    "translation": "شهرة",
+    "ipa": "/feɪm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Wealth and fame don't always bring happiness.",
+        "ar": "الثروة والشهرة لا تجلب السعادة دائماً."
+      }
+    ]
+  },
+  {
+    "en": "fantasy",
+    "translation": "خيال",
+    "ipa": "/ˈfæntəsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The book is a classic work of fantasy.",
+        "ar": "الكتاب عمل كلاسيكي من الخيال."
+      }
+    ]
+  },
+  {
+    "en": "fare",
+    "translation": "أجرة (المواصلات)",
+    "ipa": "/feə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Bus fares have increased again this month.",
+        "ar": "ارتفعت أجور الحافلات مرة أخرى هذا الشهر."
+      }
+    ]
+  },
+  {
+    "en": "fault",
+    "translation": "خطأ / عيب",
+    "ipa": "/fɔːlt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It's not my fault that we are late.",
+        "ar": "ليس خطئي أننا متأخرون."
+      }
+    ]
+  },
+  {
+    "en": "feather",
+    "translation": "ريشة",
+    "ipa": "/ˈfeðə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bird's feathers were bright blue.",
+        "ar": "كان ريش الطائر أزرق ساطعاً."
+      }
+    ]
+  },
+  {
+    "en": "federal",
+    "translation": "فيدرالي / اتحادي",
+    "ipa": "/ˈfedərəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The federal government is responsible for national security.",
+        "ar": "الحكومة الفيدرالية مسؤولة عن الأمن القومي."
+      }
+    ]
+  },
+  {
+    "en": "fee",
+    "translation": "رسوم",
+    "ipa": "/fiː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The school fees are very high.",
+        "ar": "رسوم المدرسة مرتفعة جداً."
+      }
+    ]
+  }
+]

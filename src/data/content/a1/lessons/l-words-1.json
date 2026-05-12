@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_l_1",
   "levelId": "lvl_a1",
-  "title": "Unit 22: L Words - Part 1",
+  "title": "Unit 24: L Words - Part 1",
   "slug": "l-words-1",
-  "order": 22,
-  "wordCount": 16,
-  "titleAr": "الوحدة 22: كلمات حرف L - الجزء 1",
+  "order": 24,
+  "wordCount": 17,
+  "titleAr": "الوحدة 24: كلمات حرف L - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter L.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف L.",
   "words": [
@@ -234,6 +234,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/lɛft/"
+    },
+    {
+      "id": "w_a1_leg",
+      "lessonId": "lsn_a1_l_1",
+      "en": "leg",
+      "ar": "ساق / رجل",
+      "translation": "ساق / رجل",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He broke his leg while playing football.",
+          "ar": "كسر ساقه أثناء لعب كرة القدم."
+        }
+      ],
+      "ipa": "/leɡ/"
     },
     {
       "id": "w_a1_legs",

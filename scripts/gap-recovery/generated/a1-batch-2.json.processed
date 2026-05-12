@@ -1,0 +1,374 @@
+[
+  {
+    "en": "next to",
+    "translation": "بجانب / بجوار",
+    "ipa": "/ˈnekst tuː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bank is next to the post office.",
+        "ar": "البنك يقع بجانب مكتب البريد."
+      }
+    ]
+  },
+  {
+    "en": "nine",
+    "translation": "تسعة",
+    "ipa": "/naɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There are nine players in the team.",
+        "ar": "يوجد تسعة لاعبين في الفريق."
+      }
+    ]
+  },
+  {
+    "en": "nobody",
+    "translation": "لا أحد",
+    "ipa": "/ˈnəʊbədi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Nobody was at home when I called.",
+        "ar": "لم يكن أحد في المنزل عندما اتصلت."
+      }
+    ]
+  },
+  {
+    "en": "oh",
+    "translation": "أوه (للتعجب)",
+    "ipa": "/əʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Oh, I didn't see you there!",
+        "ar": "أوه، لم أرك هناك!"
+      }
+    ]
+  },
+  {
+    "en": "onion",
+    "translation": "بصل",
+    "ipa": "/ˈʌnjən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I chopped some onions for the soup.",
+        "ar": "قطعت بعض البصل من أجل الحساء."
+      }
+    ]
+  },
+  {
+    "en": "parent",
+    "translation": "والد أو والدة",
+    "ipa": "/ˈpeərənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "My parents live in Cairo.",
+        "ar": "والداي يعيشان في القاهرة."
+      }
+    ]
+  },
+  {
+    "en": "potato",
+    "translation": "بطاطس",
+    "ipa": "/pəˈteɪtəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Would you like some mashed potatoes?",
+        "ar": "هل تود بعض البطاطس المهروسة؟"
+      }
+    ]
+  },
+  {
+    "en": "pound",
+    "translation": "جنيه / رطل",
+    "ipa": "/paʊnd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The book costs five pounds.",
+        "ar": "الكتاب يكلف خمسة جنيهات."
+      }
+    ]
+  },
+  {
+    "en": "read",
+    "translation": "يقرأ",
+    "ipa": "/riːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I like to read books before bed.",
+        "ar": "أحب أن أقرأ الكتب قبل النوم."
+      }
+    ]
+  },
+  {
+    "en": "sea",
+    "translation": "بحر",
+    "ipa": "/siː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The kids love playing in the sea.",
+        "ar": "يحب الأطفال اللعب في البحر."
+      }
+    ]
+  },
+  {
+    "en": "shopping",
+    "translation": "تسوق",
+    "ipa": "/ˈʃɒpɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We go shopping every Friday.",
+        "ar": "نذهب للتسوق كل يوم جمعة."
+      }
+    ]
+  },
+  {
+    "en": "somebody",
+    "translation": "شخص ما",
+    "ipa": "/ˈsʌmbədi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Somebody left their umbrella in the hallway.",
+        "ar": "ترك شخص ما مظلته في الردهة."
+      }
+    ]
+  },
+  {
+    "en": "spelling",
+    "translation": "هجاء / تهجئة",
+    "ipa": "/ˈspelɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "What is the correct spelling of your name?",
+        "ar": "ما هي التهجئة (الهجاء) الصحيحة لاسمك؟"
+      }
+    ]
+  },
+  {
+    "en": "spend",
+    "translation": "ينفق / يقضي (وقتاً)",
+    "ipa": "/spend/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "How much money did you spend?",
+        "ar": "كم من المال أنفقت؟"
+      }
+    ]
+  },
+  {
+    "en": "story",
+    "translation": "قصة / طابق",
+    "ipa": "/ˈstɔːri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He told me a very interesting story.",
+        "ar": "أخبرني قصة ممتعة للغاية."
+      }
+    ]
+  },
+  {
+    "en": "street",
+    "translation": "شارع",
+    "ipa": "/striːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The children were playing in the street.",
+        "ar": "كان الأطفال يلعبون في الشارع."
+      }
+    ]
+  },
+  {
+    "en": "sugar",
+    "translation": "سكر",
+    "ipa": "/ˈʃʊɡə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Do you take sugar in your tea?",
+        "ar": "هل تضع السكر في شايك؟"
+      }
+    ]
+  },
+  {
+    "en": "swimming",
+    "translation": "سباحة",
+    "ipa": "/ˈswɪmɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Swimming is good for your health.",
+        "ar": "السباحة جيدة لصحتك."
+      }
+    ]
+  },
+  {
+    "en": "T-shirt",
+    "translation": "قميص صيفي / تي شيرت",
+    "ipa": "/ˈtiː ʃɜːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He wore a white T-shirt and blue jeans.",
+        "ar": "ارتدى تي شيرت أبيض وبنطال جينز أزرق."
+      }
+    ]
+  },
+  {
+    "en": "taxi",
+    "translation": "تاكسي / سيارة أجرة",
+    "ipa": "/ˈtæksi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We took a taxi to the airport.",
+        "ar": "استقلينا تاكسي (سيارة أجرة) إلى المطار."
+      }
+    ]
+  },
+  {
+    "en": "teacher",
+    "translation": "معلم / مدرس",
+    "ipa": "/ˈtiːtʃə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is an excellent English teacher.",
+        "ar": "هي معلمة لغة إنجليزية ممتازة."
+      }
+    ]
+  },
+  {
+    "en": "thank",
+    "translation": "يشكر",
+    "ipa": "/θæŋk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I want to thank you for your help.",
+        "ar": "أريد أن أشكرك على مساعدتك."
+      }
+    ]
+  },
+  {
+    "en": "there",
+    "translation": "هناك",
+    "ipa": "/ðeə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Look over there!",
+        "ar": "انظر هناك!"
+      }
+    ]
+  },
+  {
+    "en": "tourist",
+    "translation": "سائح",
+    "ipa": "/ˈtʊərɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The city is full of tourists in the summer.",
+        "ar": "المدينة مليئة بالسياح في الصيف."
+      }
+    ]
+  },
+  {
+    "en": "traffic",
+    "translation": "مرور / حركة السير",
+    "ipa": "/ˈtræfɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a lot of traffic this morning.",
+        "ar": "يوجد الكثير من حركة السير (المرور) هذا الصباح."
+      }
+    ]
+  },
+  {
+    "en": "tree",
+    "translation": "شجرة",
+    "ipa": "/triː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The cat climbed up the tree.",
+        "ar": "تسلق القط الشجرة."
+      }
+    ]
+  },
+  {
+    "en": "twenty",
+    "translation": "عشرون",
+    "ipa": "/ˈtwenti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is twenty years old.",
+        "ar": "عمرها عشرون عاماً."
+      }
+    ]
+  },
+  {
+    "en": "vegetable",
+    "translation": "خضروات",
+    "ipa": "/ˈvedʒtəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You should eat more fresh vegetables.",
+        "ar": "يجب عليك تناول المزيد من الخضروات الطازجة."
+      }
+    ]
+  },
+  {
+    "en": "wake",
+    "translation": "يستيقظ",
+    "ipa": "/weɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "What time do you usually wake up?",
+        "ar": "في أي وقت تستيقظ عادة؟"
+      }
+    ]
+  },
+  {
+    "en": "worker",
+    "translation": "عامل",
+    "ipa": "/ˈwɜːkə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The factory employs many social workers.",
+        "ar": "المصنع يوظف العديد من العمال."
+      }
+    ]
+  },
+  {
+    "en": "year",
+    "translation": "سنة / عام",
+    "ipa": "/jɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I finished university last year.",
+        "ar": "أنهيت الجامعة العام الماضي."
+      }
+    ]
+  }
+]

@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_r_1",
   "levelId": "lvl_b1",
-  "title": "Unit 29: R Words - Part 1",
+  "title": "Unit 33: R Words - Part 1",
   "slug": "r-words-1",
-  "order": 29,
-  "wordCount": 17,
-  "titleAr": "الوحدة 29: كلمات حرف R - الجزء 1",
+  "order": 33,
+  "wordCount": 21,
+  "titleAr": "الوحدة 33: كلمات حرف R - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف R.",
   "words": [
@@ -186,6 +186,29 @@
       "ipa": "/ˌɹɛkəmənˈdeɪʃən/"
     },
     {
+      "id": "w_b1_reference",
+      "lessonId": "lsn_b1_r_1",
+      "en": "reference",
+      "ar": "مرجع / إشارة / توصية",
+      "translation": "مرجع / إشارة / توصية",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Keep this manual for future reference.",
+          "ar": "احتفظ بهذا الدليل كمرجع للمستقبل."
+        }
+      ],
+      "ipa": "/ˈrefrəns/"
+    },
+    {
       "id": "w_b1_references",
       "en": "references",
       "ar": "مراجع",
@@ -208,6 +231,29 @@
       "ipa": "/ˈɹɛf.(ə)ɹən.sɪz/"
     },
     {
+      "id": "w_b1_reflect",
+      "lessonId": "lsn_b1_r_1",
+      "en": "reflect",
+      "ar": "يعكس / يفكر بعمق",
+      "translation": "يعكس / يفكر بعمق",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The mirror reflects her image.",
+          "ar": "المرآة تعكس صورتها."
+        }
+      ],
+      "ipa": "/rɪˈflekt/"
+    },
+    {
       "id": "w_b1_regularly",
       "en": "regularly",
       "ar": "بانتظام",
@@ -228,6 +274,29 @@
       ],
       "confidence": "high",
       "ipa": "/ˈɹɛɡjəli/"
+    },
+    {
+      "id": "w_b1_reject",
+      "lessonId": "lsn_b1_r_1",
+      "en": "reject",
+      "ar": "يرفض",
+      "translation": "يرفض",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The committee rejected the proposal.",
+          "ar": "رفضت اللجنة الاقتراح."
+        }
+      ],
+      "ipa": "/rɪˈdʒekt/"
     },
     {
       "id": "w_b1_rejected",
@@ -382,6 +451,28 @@
       ],
       "confidence": "high",
       "ipa": "/ɹɪˈlækst/"
+    },
+    {
+      "id": "w_b1_relaxing",
+      "en": "relaxing",
+      "ar": "مريح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_r_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I spent a relaxing week in the fields.",
+          "ar": "قضيت أسبوعًا مريحًا في الحقول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
     }
   ]
 }

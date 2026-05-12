@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_m",
   "levelId": "lvl_b1",
-  "title": "Unit 22: M Words",
+  "title": "Unit 25: M Words",
   "slug": "m-words",
-  "order": 22,
-  "wordCount": 19,
-  "titleAr": "الوحدة 22: كلمات حرف M",
+  "order": 25,
+  "wordCount": 21,
+  "titleAr": "الوحدة 25: كلمات حرف M",
   "description": "Master essential B1 vocabulary starting with the letter M.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف M.",
   "words": [
@@ -216,6 +216,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_medium",
+      "lessonId": "lsn_b1_m",
+      "en": "medium",
+      "ar": "متوسط / وسيط",
+      "translation": "متوسط / وسيط",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is of medium height.",
+          "ar": "هو متوسط الطول."
+        }
+      ],
+      "ipa": "/ˈmiːdiəm/"
+    },
+    {
       "id": "w_b1_mental",
       "en": "mental",
       "ar": "عقلي / ذهني",
@@ -398,6 +421,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_muscle",
+      "lessonId": "lsn_b1_m",
+      "en": "muscle",
+      "ar": "عضلة",
+      "translation": "عضلة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He goes to the gym to build muscle.",
+          "ar": "يذهب إلى النادي الرياضي لبناء العضلات."
+        }
+      ],
+      "ipa": "/ˈmʌsl/"
     },
     {
       "id": "w_b1_muscles",

@@ -1,14 +1,240 @@
 {
   "id": "lsn_b2_d_3",
   "levelId": "lvl_b2",
-  "title": "Unit 15: D Words - Part 3",
+  "title": "Unit 16: D Words - Part 3",
   "slug": "d-words-3",
-  "order": 15,
+  "order": 16,
   "wordCount": 24,
-  "titleAr": "الوحدة 15: كلمات حرف D - الجزء 3",
+  "titleAr": "الوحدة 16: كلمات حرف D - الجزء 3",
   "description": "Master essential B2 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف D.",
   "words": [
+    {
+      "id": "w_b2_depressing",
+      "en": "depressing",
+      "ar": "كئيبة",
+      "lessonId": "lsn_b2_d_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was a depressing experience.",
+          "ar": "كانت تجربة كئيبة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈpɹɛsɪŋ(ɡ)/"
+    },
+    {
+      "id": "w_b2_depression",
+      "en": "depression",
+      "ar": "الاكتئاب",
+      "lessonId": "lsn_b2_d_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "One of my family members suffers from depression.",
+          "ar": "أحد أفراد عائلتي يعاني من الاكتئاب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈpɹɛʃən/"
+    },
+    {
+      "id": "w_b2_depth",
+      "en": "depth",
+      "ar": "عمق",
+      "lessonId": "lsn_b2_d_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "What's the depth of this lake ?",
+          "ar": "ما هو عمق هذه البحيرة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɛpθ/"
+    },
+    {
+      "id": "w_b2_derive",
+      "lessonId": "lsn_b2_d_3",
+      "en": "derive",
+      "ar": "يشتق / يستمد",
+      "translation": "يشتق / يستمد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Many English words are derived from Latin.",
+          "ar": "تشتق العديدُ من الكلماتِ الإنجليزيةِ من اللاتينية."
+        }
+      ],
+      "ipa": "/dɪˈraɪ/"
+    },
+    {
+      "id": "w_b2_derived",
+      "en": "derived",
+      "ar": "مشتقة",
+      "lessonId": "lsn_b2_d_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Some Turkish words are derived from Arabic.",
+          "ar": "بعض الكلمات التركية مشتقة من اللغة العربية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈɹaɪvd/"
+    },
+    {
+      "id": "w_b2_deserted",
+      "en": "deserted",
+      "ar": "هجره",
+      "lessonId": "lsn_b2_d_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This neighborhood has been deserted.",
+          "ar": "هذا الحي قد تم هجره."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈzɜːtəd/"
+    },
+    {
+      "id": "w_b2_deserve",
+      "lessonId": "lsn_b2_d_3",
+      "en": "deserve",
+      "ar": "يستحق",
+      "translation": "يستحق",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You deserve a rest after all that hard work.",
+          "ar": "أنت تستحقُ قسطاً من الراحةِ بعدَ كلِ ذلك العملِ الشاق."
+        }
+      ],
+      "ipa": "/dɪˈzɜːv/"
+    },
+    {
+      "id": "w_b2_deserves",
+      "en": "deserves",
+      "ar": "يستحق",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The boy deserves an award for his achievement.",
+          "ar": "الفتى يستحق جائزة لإنجازه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_desire",
+      "en": "desire",
+      "ar": "رغبة / يرغب",
+      "lessonId": "lsn_b2_d_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I have no desire to do anything.",
+          "ar": "ليس لدي أي رغبة لفعل أي شيء."
+        },
+        {
+          "en": "The people desire to end the war.",
+          "ar": "الشعب يرغب في إنهاء الحرب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈzaɪə/"
+    },
+    {
+      "id": "w_b2_desperate",
+      "en": "desperate",
+      "ar": "يائس",
+      "lessonId": "lsn_b2_d_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Why are you desperate ? Everything will be fine.",
+          "ar": "لماذا أنت يائس، كل شيء سيكون على ما يرام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɛsp(ə)ɹət/"
+    },
     {
       "id": "w_b2_desperately",
       "en": "desperately",
@@ -120,6 +346,29 @@
       "ipa": "/dɪˌtɜːmɪˈneɪʃən/"
     },
     {
+      "id": "w_b2_devote",
+      "lessonId": "lsn_b2_d_3",
+      "en": "devote",
+      "ar": "يخصص / يكرس",
+      "translation": "يخصص / يكرس",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She devotes her life to helping the poor.",
+          "ar": "تكرسُ حياتها لمساعدةِ الفقراء."
+        }
+      ],
+      "ipa": "/dɪˈvəʊt/"
+    },
+    {
       "id": "w_b2_devoted",
       "en": "devoted",
       "ar": "كرس",
@@ -140,6 +389,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/dɪˈvəʊtəd/"
+    },
+    {
+      "id": "w_b2_differ",
+      "lessonId": "lsn_b2_d_3",
+      "en": "differ",
+      "ar": "يختلف",
+      "translation": "يختلف",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Opinions differ on how to solve the problem.",
+          "ar": "تختلفُ الآراءُ حولَ كيفيةِ حلِ المشكلة."
+        }
+      ],
+      "ipa": "/ˈdɪfə(r)/"
     },
     {
       "id": "w_b2_differs",
@@ -164,6 +436,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_b2_dig",
+      "lessonId": "lsn_b2_d_3",
+      "en": "dig",
+      "ar": "يحفر",
+      "translation": "يحفر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They are digging a hole in the garden.",
+          "ar": "إنهم يحفرون حفرةً في الحديقة."
+        }
+      ],
+      "ipa": "/dɪɡ/"
+    },
+    {
       "id": "w_b2_disabilities",
       "en": "disabilities",
       "ar": "إعاقات",
@@ -184,6 +479,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_disability",
+      "lessonId": "lsn_b2_d_3",
+      "en": "disability",
+      "ar": "إعاقة",
+      "translation": "إعاقة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has a physical disability but leads an active life.",
+          "ar": "لديهِ إعاقةٌ جسديةٌ لكنهُ يعيشُ حياةً نشطة."
+        }
+      ],
+      "ipa": "/ˌdɪsəˈbɪləti/"
     },
     {
       "id": "w_b2_disabled",
@@ -218,318 +536,6 @@
         {
           "en": "We had a major disagreement about choosing the winner.",
           "ar": "كان لدينا خلاف كبير حول اختيار الفائز."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_disappointment",
-      "en": "disappointment",
-      "ar": "خيبة أمل",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Your decision gave me great disappointment.",
-          "ar": "قرارك أصابني بخيبة أمل كبيرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_discipline",
-      "en": "discipline",
-      "ar": "الانضباط",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "This school lacks discipline.",
-          "ar": "هذه المدرسة تفتقر إلى الانضباط."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_discouraged",
-      "en": "discouraged",
-      "ar": "أثناني",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "My father discouraged me from traveling.",
-          "ar": "والدي أثناني عن السفر."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_dishonest",
-      "en": "dishonest",
-      "ar": "غير أمين",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Get away from this guy; he is dishonest.",
-          "ar": "ابتعد عن هذا الشخص فهو غير أمين."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_disk",
-      "en": "disk",
-      "ar": "القرص",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "First, copy all the content of the disk into the computer.",
-          "ar": "أولاً، قم بنسخ كافة محتويات القرص إلى الكمبيوتر."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_dismissed",
-      "en": "dismissed",
-      "ar": "تسريح",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The company dismissed most of its employees.",
-          "ar": "قامت الشركة بتسريح معظم موظفيها."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_disorder",
-      "en": "disorder",
-      "ar": "اضطراب",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He suffers from an anxiety disorder.",
-          "ar": "يعاني من اضطراب القلق."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_display",
-      "en": "display",
-      "ar": "تظهر / عرض",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The display includes examples of his previous works.",
-          "ar": "يتضمن العرض نماذج من أعماله السابقة."
-        },
-        {
-          "en": "We will display this text on the main screen.",
-          "ar": "سوف تظهر هذا النص في الشاشة الرئيسية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_distant",
-      "en": "distant",
-      "ar": "بعيد",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "These travelers came from a distant country.",
-          "ar": "جاء هؤلاء المسافرون من بلد بعيد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_distinct",
-      "en": "distinct",
-      "ar": "مميزة",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "There is a distinct smell of coffee in this hall.",
-          "ar": "هناك رائحة مميزة للبن في هذه القاعة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_distinguish",
-      "en": "distinguish",
-      "ar": "تميز",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Can dogs distinguish colors?",
-          "ar": "هل تستطيع الكلاب أن تميز الألوان ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_distracting",
-      "en": "distracting",
-      "ar": "تشتت",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Please be quiet, you are distracting me.",
-          "ar": "من فضلك اصمت، أنت تشتت انتباهي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_distribute",
-      "en": "distribute",
-      "ar": "توزيع",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We are going to distribute the newspaper free this week.",
-          "ar": "سنقوم بتوزيع الصحيفة مجاناً هذا الأسبوع."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_distribution",
-      "en": "distribution",
-      "ar": "التوزيع",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_3",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We faced some difficulties in distribution this time.",
-          "ar": "واجهنا بعض الصعوبات في التوزيع هذه المرة."
         }
       ],
       "type": "word",

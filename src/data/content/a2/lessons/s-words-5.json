@@ -4,11 +4,33 @@
   "title": "Unit 38: S Words - Part 5",
   "slug": "s-words-5",
   "order": 38,
-  "wordCount": 20,
+  "wordCount": 21,
   "titleAr": "الوحدة 38: كلمات حرف S - الجزء 5",
   "description": "Master essential A2 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_a2_strange",
+      "en": "strange",
+      "ar": "غريب",
+      "pronunciation": "/streınd3/",
+      "lessonId": "lsn_a2_s_5",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "A strange thing happened yesterday.",
+          "ar": "حدث شيء غريب بالأمس :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
+    },
     {
       "id": "w_a2_strategy",
       "en": "strategy",

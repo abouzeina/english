@@ -4,39 +4,11 @@
   "title": "Unit 35: S Words - Part 2",
   "slug": "s-words-2",
   "order": 35,
-  "wordCount": 21,
+  "wordCount": 22,
   "titleAr": "الوحدة 35: كلمات حرف S - الجزء 2",
   "description": "Master essential A2 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_a2_sense",
-      "en": "sense",
-      "ar": "حواس",
-      "pronunciation": "/sens/",
-      "lessonId": "lsn_a2_s_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Humans have five senses.",
-          "ar": "البشر لديهم خمس حواس"
-        },
-        {
-          "en": "Dogs can sense their owner's emotions very well.",
-          "ar": "يمكن للكلاب أن تحس بمشاعر مالكها بشكل جيد جدًا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core",
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_a2_separate",
       "en": "separate",
@@ -464,6 +436,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_a2_singing",
+      "lessonId": "lsn_a2_s_2",
+      "en": "singing",
+      "ar": "غناء",
+      "translation": "غناء",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I love singing in the shower.",
+          "ar": "أحب الغناء أثناء الاستحمام."
+        }
+      ],
+      "ipa": "/ˈsɪŋɪŋ/"
+    },
+    {
       "id": "w_a2_single",
       "en": "single",
       "ar": "واحدة",
@@ -506,6 +501,28 @@
       ],
       "confidence": "high",
       "ipa": "/ˈsə(ɹ)/"
+    },
+    {
+      "id": "w_a2_site",
+      "en": "site",
+      "ar": "موقع",
+      "pronunciation": "/sart/",
+      "lessonId": "lsn_a2_s_2",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Ali was at the site this morning.",
+          "ar": "كان علي في الموقع هذا الصباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high"
     }
   ]
 }

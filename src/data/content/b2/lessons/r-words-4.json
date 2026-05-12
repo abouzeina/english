@@ -1,0 +1,550 @@
+{
+  "id": "lsn_b2_r_4",
+  "levelId": "lvl_b2",
+  "title": "Unit 54: R Words - Part 4",
+  "slug": "r-words-4",
+  "order": 54,
+  "wordCount": 23,
+  "titleAr": "الوحدة 54: كلمات حرف R - الجزء 4",
+  "description": "Master essential B2 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف R.",
+  "words": [
+    {
+      "id": "w_b2_revolution",
+      "lessonId": "lsn_b2_r_4",
+      "en": "revolution",
+      "ar": "ثورة / دوران",
+      "translation": "ثورة / دوران",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The French Revolution began in 1789.",
+          "ar": "بدأت الثورة الفرنسية في عام ألف وسبعمائة وتسعة وثمانين."
+        }
+      ],
+      "ipa": "/ˌrevəˈluːʃn/"
+    },
+    {
+      "id": "w_b2_reward",
+      "lessonId": "lsn_b2_r_4",
+      "en": "reward",
+      "ar": "مكافأة / يكافئ",
+      "translation": "مكافأة / يكافئ",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He received a reward for his honesty.",
+          "ar": "حصل على مكافأة لأمانته."
+        }
+      ],
+      "ipa": "/rɪˈwɔːd/"
+    },
+    {
+      "id": "w_b2_rhythm",
+      "en": "rhythm",
+      "ar": "إيقاع",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The poem's rhythm makes it easy to read.",
+          "ar": "إيقاع القصيدة يجعل من السهل قراءتها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɪ.ð(ə)m/"
+    },
+    {
+      "id": "w_b2_rid",
+      "en": "rid",
+      "ar": "تخلصت",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I finally got rid of my headache.",
+          "ar": "لقد تخلصت أخيرًا من صداعي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɪd/"
+    },
+    {
+      "id": "w_b2_ridiculous",
+      "en": "ridiculous",
+      "ar": "سخيفا",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Don't be ridiculous; you know that's impossible.",
+          "ar": "لا تكن سخيفا، أنت تعلم أن هذا مستحيل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹiːˈdɪkjʊləs/"
+    },
+    {
+      "id": "w_b2_risky",
+      "en": "risky",
+      "ar": "محفوف بالمخاطر",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Starting a business without research is very risky.",
+          "ar": "بدء عمل تجاري دون إجراء بحث هو أمر محفوف بالمخاطر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɪski/"
+    },
+    {
+      "id": "w_b2_rival",
+      "en": "rival",
+      "ar": "منافس",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He considers me his biggest rival at work.",
+          "ar": "إنه يعتبرني أكبر منافس له في العمل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹaɪvəl/"
+    },
+    {
+      "id": "w_b2_rob",
+      "en": "rob",
+      "ar": "سرقة / سطو",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was arrested for committing a big robbery.",
+          "ar": "تم القبض عليه لارتكابه عملية سطو كبيرة."
+        },
+        {
+          "en": "The thieves failed to rob the jewelry store.",
+          "ar": "فشل اللصوص في سرقة متجر المجوهرات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɒb/"
+    },
+    {
+      "id": "w_b2_robbery",
+      "lessonId": "lsn_b2_r_4",
+      "en": "robbery",
+      "ar": "سرقة / سطو",
+      "translation": "سرقة / سطو",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There was an armed robbery at the bank.",
+          "ar": "كان هناك سطو مسلح في البنك."
+        }
+      ],
+      "ipa": "/ˈrɒbəri/"
+    },
+    {
+      "id": "w_b2_rocket",
+      "en": "rocket",
+      "ar": "صاروخ",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A rocket was launched to explore Mars.",
+          "ar": "تم إطلاق صاروخ لاستكشاف المريخ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɒkɪt/"
+    },
+    {
+      "id": "w_b2_romance",
+      "en": "romance",
+      "ar": "قصة حب",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Their romance began on a warm summer evening.",
+          "ar": "بدأت قصة حبهم في أمسية صيفية دافئة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹəˈmæns/"
+    },
+    {
+      "id": "w_b2_root",
+      "lessonId": "lsn_b2_r_4",
+      "en": "root",
+      "ar": "جذر / أصل",
+      "translation": "جذر / أصل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need to get to the root of the problem.",
+          "ar": "نحن بحاجة للوصول إلى أصل المشكلة."
+        }
+      ],
+      "ipa": "/ruːt/"
+    },
+    {
+      "id": "w_b2_roots",
+      "en": "roots",
+      "ar": "جذور",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The tree's roots spread deep into the soil.",
+          "ar": "امتدت جذور الشجرة في عمق التربة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹuːts/"
+    },
+    {
+      "id": "w_b2_rose",
+      "lessonId": "lsn_b2_r_4",
+      "en": "rose",
+      "ar": "وردة / زهرة",
+      "translation": "وردة / زهرة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She planted some red roses in the garden.",
+          "ar": "زرعت بعض الورود الحمراء في الحديقة."
+        }
+      ],
+      "ipa": "/rəʊz/"
+    },
+    {
+      "id": "w_b2_roses",
+      "en": "roses",
+      "ar": "وردات",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She picked three roses from the garden this morning.",
+          "ar": "قطفت ثلاث وردات من الحديقة هذا الصباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹoʊzɨz̥/"
+    },
+    {
+      "id": "w_b2_roughly",
+      "en": "roughly",
+      "ar": "حوالي / بخشونة",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She spoke roughly to the customer, which upset them.",
+          "ar": "لقد تحدثت بخشونة مع الزبون، الأمر الذي أزعجها."
+        },
+        {
+          "en": "The population of the town is roughly 50,000.",
+          "ar": "يبلغ عدد سكان البلدة حوالي 50,000 نسمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹʌf.li/"
+    },
+    {
+      "id": "w_b2_rub",
+      "lessonId": "lsn_b2_r_4",
+      "en": "rub",
+      "ar": "يفرك / يدلك",
+      "translation": "يفرك / يدلك",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He rubbed his eyes and yawned.",
+          "ar": "فرك عينيه وتثاءب."
+        }
+      ],
+      "ipa": "/rʌb/"
+    },
+    {
+      "id": "w_b2_rubbed",
+      "en": "rubbed",
+      "ar": "فرك",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He rubbed the table to make it shine.",
+          "ar": "لقد فرك الطاولة ليجعلها تلمع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹʌbd/"
+    },
+    {
+      "id": "w_b2_rubber",
+      "en": "rubber",
+      "ar": "مطاط / مطاطيًا",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He wore rubber boots to walk through the mud.",
+          "ar": "كان يرتدي حذاءً مطاطيًا لكي يمشي في الوحل."
+        },
+        {
+          "en": "I used a piece of rubber to fix the pipe.",
+          "ar": "استخدمت قطعة من المطاط لإصلاح الأنبوب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹʌbə(ɹ)/"
+    },
+    {
+      "id": "w_b2_ruin",
+      "lessonId": "lsn_b2_r_4",
+      "en": "ruin",
+      "ar": "يدمر / يفسد / أطلال",
+      "translation": "يدمر / يفسد / أطلال",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The heavy rain ruined the crops.",
+          "ar": "دمر المطر الغزير المحاصيل."
+        }
+      ],
+      "ipa": "/ˈruːɪn/"
+    },
+    {
+      "id": "w_b2_ruined",
+      "en": "ruined",
+      "ar": "أتلف / خراب / أطلال",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The ancient ruins attract many tourists.",
+          "ar": "تجذب الأطلال القديمة العديد من السياح."
+        },
+        {
+          "en": "The castle was left in ruin after the battle.",
+          "ar": "تركت القلعة في حالة خراب بعد المعركة."
+        },
+        {
+          "en": "The flood ruined their furniture and carpets.",
+          "ar": "لقد أتلف الفيضان أثاثهم وسجادهم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹuːnd/"
+    },
+    {
+      "id": "w_b2_rural",
+      "en": "rural",
+      "ar": "الريفية",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He enjoys the peaceful rural lifestyle.",
+          "ar": "إنه يستمتع بنمط الحياة الريفية الهادئة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɔːɹəl/"
+    },
+    {
+      "id": "w_b2_rush",
+      "en": "rush",
+      "ar": "هرع / عجلة",
+      "lessonId": "lsn_b2_r_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He rushed to help when he saw the accident.",
+          "ar": "هرع للمساعدة عندما رأى الحادث."
+        },
+        {
+          "en": "She was in a rush to catch the train.",
+          "ar": "كانت في عجلة من أمرها للحاق بالقطار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹʌʃ/"
+    }
+  ]
+}

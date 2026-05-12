@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_f_2",
   "levelId": "lvl_b1",
-  "title": "Unit 14: F Words - Part 2",
+  "title": "Unit 16: F Words - Part 2",
   "slug": "f-words-2",
-  "order": 14,
-  "wordCount": 19,
-  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 2",
+  "order": 16,
+  "wordCount": 22,
+  "titleAr": "الوحدة 16: كلمات حرف F - الجزء 2",
   "description": "Master essential B1 vocabulary starting with the letter F.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف F.",
   "words": [
@@ -78,6 +78,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_folk",
+      "lessonId": "lsn_b1_f_2",
+      "en": "folk",
+      "ar": "ناس / شعبي",
+      "translation": "ناس / شعبي",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I like listening to traditional folk music.",
+          "ar": "أحب الاستماع إلى الموسيقى الشعبية التقليدية."
+        }
+      ],
+      "ipa": "/fəʊk/"
     },
     {
       "id": "w_b1_folk_art",
@@ -170,6 +193,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_frame",
+      "lessonId": "lsn_b1_f_2",
+      "en": "frame",
+      "ar": "إطار / هيكل",
+      "translation": "إطار / هيكل",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He put the picture in a gold frame.",
+          "ar": "وضع الصورة في إطار ذهبي."
+        }
+      ],
+      "ipa": "/freɪm/"
     },
     {
       "id": "w_b1_frames",
@@ -372,6 +418,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_fry",
+      "lessonId": "lsn_b1_f_2",
+      "en": "fry",
+      "ar": "يقلي",
+      "translation": "يقلي",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She fried some eggs for breakfast.",
+          "ar": "قلت بعض البيض للإفطار."
+        }
+      ],
+      "ipa": "/fraɪ/"
     },
     {
       "id": "w_b1_fuel",

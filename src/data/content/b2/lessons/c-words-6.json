@@ -4,11 +4,418 @@
   "title": "Unit 12: C Words - Part 6",
   "slug": "c-words-6",
   "order": 12,
-  "wordCount": 24,
+  "wordCount": 23,
   "titleAr": "الوحدة 12: كلمات حرف C - الجزء 6",
   "description": "Master essential B2 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف C.",
   "words": [
+    {
+      "id": "w_b2_convert",
+      "lessonId": "lsn_b2_c_6",
+      "en": "convert",
+      "ar": "يحول / يغير",
+      "translation": "يحول / يغير",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They converted the garage into a bedroom.",
+          "ar": "حولوا المرآبَ إلى غرفةِ نوم."
+        }
+      ],
+      "ipa": "/kənˈvɜːt/"
+    },
+    {
+      "id": "w_b2_converting",
+      "en": "converting",
+      "ar": "يعتنقون",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "A lot of people are converting to Islam in western countries.",
+          "ar": "الكثير من الناس يعتنقون الإسلام في الدول الغربية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_convey",
+      "en": "convey",
+      "ar": "تنقل",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Words cannot convey my feelings.",
+          "ar": "الكلمات لا تستطيع أن تنقل مشاعري."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈveɪ/"
+    },
+    {
+      "id": "w_b2_convinced",
+      "en": "convinced",
+      "ar": "مقتنع",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am convinced that he is innocent.",
+          "ar": "أنا مقتنع بأنه بريء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈvɪnst/"
+    },
+    {
+      "id": "w_b2_convincing",
+      "en": "convincing",
+      "ar": "مقنعة",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your argument is not convincing.",
+          "ar": "حجتك غير مقنعة ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈvɪnsɪŋ/"
+    },
+    {
+      "id": "w_b2_cope",
+      "en": "cope",
+      "ar": "تتخطى الأمر",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was a difficult time, but you will cope.",
+          "ar": "لقد كان وقتا عصيبًا، لكنك ستتخطى الأمر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kəʊp/"
+    },
+    {
+      "id": "w_b2_core",
+      "en": "core",
+      "ar": "جوهر / أساسية",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The report didn't mention the core of the problem.",
+          "ar": "التقرير لم يذكر جوهر المشكلة."
+        },
+        {
+          "en": "What's the core issue in today's discussion?",
+          "ar": "ما هي القضية الأساسية في نقاش اليوم؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kɔː/"
+    },
+    {
+      "id": "w_b2_corporate",
+      "en": "corporate",
+      "ar": "الشركات",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This country has high corporate taxes.",
+          "ar": "هذا البلد لديه ضرائب عالية على الشركات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɔːp(ə)ɹət/"
+    },
+    {
+      "id": "w_b2_corporation",
+      "en": "corporation",
+      "ar": "شركة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The two brothers formed a corporation.",
+          "ar": "قام الأخوان بتكوين شركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_corridor",
+      "en": "corridor",
+      "ar": "ممر",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He led us through a narrow corridor to our room.",
+          "ar": "قادنا عبر ممر ضيق إلى غرفتنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɒɹɪˌdɔː(ɹ)/"
+    },
+    {
+      "id": "w_b2_council",
+      "en": "council",
+      "ar": "مجلس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I have served on the town council for two years.",
+          "ar": "لقد عملت في مجلس المدينة لمدة عامين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_counter",
+      "en": "counter",
+      "ar": "المنضدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Tell the man behind the counter what you want.",
+          "ar": "أخبر الرجل الذي يقف خلف المنضدة بما تريد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_counties",
+      "en": "counties",
+      "ar": "المقاطعات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I haven't visited northern counties before.",
+          "ar": "لم أزر المقاطعات الشمالية من قبل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_county",
+      "lessonId": "lsn_b2_c_6",
+      "en": "county",
+      "ar": "مقاطعة / إقليم",
+      "translation": "مقاطعة / إقليم",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "This is one of the largest counties in England.",
+          "ar": "هذه واحدةٌ من أكبرِ المقاطعاتِ في إنجلترا."
+        }
+      ],
+      "ipa": "/ˈkaʊnti/"
+    },
+    {
+      "id": "w_b2_courage",
+      "en": "courage",
+      "ar": "الشجاعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He had the courage to speak in front of the public.",
+          "ar": "كان لديه الشجاعة للتحدث أمام الجمهور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_coverage",
+      "en": "coverage",
+      "ar": "تغطية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The president's speech had wide press coverage.",
+          "ar": "حظي خطاب الرئيس بتغطية صحفية واسعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_crack",
+      "lessonId": "lsn_b2_c_6",
+      "en": "crack",
+      "ar": "صدع / شق",
+      "translation": "صدع / شق",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a small crack in the window.",
+          "ar": "يوجدُ شقٌ صغيرٌ في النافذة."
+        }
+      ],
+      "ipa": "/kræk/"
+    },
+    {
+      "id": "w_b2_cracks",
+      "en": "cracks",
+      "ar": "شقوق / يتصدع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_6",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Don't step on this ice, it will crack.",
+          "ar": "لا تطأ على هذا الجليد، سوف يتصدع."
+        },
+        {
+          "en": "We have to fix the wall, it has many cracks.",
+          "ar": "علينا أن نصلح الجدار، فبه شقوق كثيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_b2_craft",
       "en": "craft",
@@ -102,456 +509,27 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_creatures",
-      "en": "creatures",
-      "ar": "كائنات",
-      "pronunciation": "",
+      "id": "w_b2_creature",
       "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "It was an underwater trip to see sea creatures.",
-          "ar": "كانت رحلة تحت الماء لرؤية الكائنات البحرية."
-        }
-      ],
+      "en": "creature",
+      "ar": "كائن / مخلوق",
+      "translation": "كائن / مخلوق",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_crew",
-      "en": "crew",
-      "ar": "فريق",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I am the leader of the support crew.",
-          "ar": "أنا قائد فريق الدعم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_cries",
-      "en": "cries",
-      "ar": "صرخات",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I hear children's cries coming from the dentist's clinic.",
-          "ar": "أسمع صرخات أطفال قادمة من عيادة طبيب الأسنان."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_crisis",
-      "en": "crisis",
-      "ar": "أزمة",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The government is facing a financial crisis due to Covid-19.",
-          "ar": "تواجه الحكومة أزمة مالية بسبب وباء كوفد -19."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_criteria",
-      "en": "criteria",
-      "ar": "معايير",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "By these criteria, few people participated.",
-          "ar": "وفقا لهذه المعايير، شارك عدد قليل من الناس."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_critic",
-      "en": "critic",
-      "ar": "ناقد",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I am a film critic.",
-          "ar": "أنا ناقد سينمائي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_critical",
-      "en": "critical",
-      "ar": "حرجة",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "One of the victims is in a critical condition.",
-          "ar": "أحد الضحايا في حالة حرجة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_critically",
-      "en": "critically",
-      "ar": "بشكل انتقادي",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He spoke critically of the president's war strategy.",
-          "ar": "تحدث بشكل انتقادي عن استراتيجية الرئيس في الحرب."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_criticism",
-      "en": "criticism",
-      "ar": "انتقادي",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "My only criticism of the car is that it's small.",
-          "ar": "انتقادي الوحيد للسيارة هو أنها صغيرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_criticized",
-      "en": "criticized",
-      "ar": "انتقدت",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The press strongly criticized the government.",
-          "ar": "انتقدت الصحافة الحكومة بشدة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_crops",
-      "en": "crops",
-      "ar": "محاصيل",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "These fields produce rice crops.",
-          "ar": "تنتج هذه الحقول محاصيل الأرز."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_crucial",
-      "en": "crucial",
-      "ar": "جوهريا",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "School plays a crucial role in improving children's behavior.",
-          "ar": "تلعب المدرسة دورا جوهريا في تحسين سلوك الأطفال."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_cruise",
-      "en": "cruise",
-      "ar": "رحلات بحرية",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We spent three weeks cruising Europe.",
-          "ar": "لقد أمضينا ثلاثة أسابيع في رحلة بحرية إلى أوروبا."
-        },
-        {
-          "en": "We traveled on a luxury cruise ship.",
-          "ar": "سافرنا على متن سفينة رحلات بحرية فاخرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_cue",
-      "en": "cue",
-      "ar": "إشارتك",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "When I raise my hand, that's your cue to appear.",
-          "ar": "عندما أرفع يدي، فهذا إشارتك لأن تظهر."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_cure",
-      "en": "cure",
-      "ar": "علاج / دواء",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Is there a cure for cancer?",
-          "ar": "هل هناك علاج للسرطان ؟"
-        },
-        {
-          "en": "They didn't find any medicine to cure this disease.",
-          "ar": "لم يجدوا أي دواء لعلاج هذا المرض."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_curious",
-      "en": "curious",
-      "ar": "فضول",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We were curious to know who will be the new boss.",
-          "ar": "كان لدينا فضول لمعرفة من سيكون الرئيس الجديد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_curriculum",
-      "en": "curriculum",
-      "ar": "المنهج الدراسي",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "They updated the curriculum last year.",
-          "ar": "لقد قاموا بتحديث المنهج الدراسي في العام الماضي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/kəˈɹɪk.jə.ləm/"
-    },
-    {
-      "id": "w_b2_curve",
-      "en": "curve",
-      "ar": "منعطف / ينعطف",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "Slow down, there is a tight curve ahead.",
-          "ar": "تمهل هناك منعطف ضيق أمامك."
-        },
-        {
-          "en": "The road curves towards the south.",
-          "ar": "الطريق ينعطف نحو الجنوب."
+          "en": "The sea is full of strange creatures.",
+          "ar": "البحرُ مليءٌ بالكائناتِ الغريبة."
         }
       ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/kɜːv/"
-    },
-    {
-      "id": "w_b2_curved",
-      "en": "curved",
-      "ar": "منحنية",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I bought a new phone with a curved screen.",
-          "ar": "اشتريت هاتفا جديدًا بشاشة منحنية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/kɜːvd/"
-    },
-    {
-      "id": "w_b2_cute",
-      "en": "cute",
-      "ar": "لطيفة",
-      "lessonId": "lsn_b2_c_6",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "It is a cute little cat.",
-          "ar": "إنها قطة صغيرة لطيفة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/kjuːt/"
+      "ipa": "/ˈkriːtʃə(r)/"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_v",
   "levelId": "lvl_b2",
-  "title": "Unit 53: V Words",
+  "title": "Unit 67: V Words",
   "slug": "v-words",
-  "order": 53,
-  "wordCount": 20,
-  "titleAr": "الوحدة 53: كلمات حرف V",
+  "order": 67,
+  "wordCount": 21,
+  "titleAr": "الوحدة 67: كلمات حرف V",
   "description": "Master essential B2 vocabulary starting with the letter V.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف V.",
   "words": [
@@ -360,6 +360,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_vitamin",
+      "lessonId": "lsn_b2_v",
+      "en": "vitamin",
+      "ar": "فيتامين",
+      "translation": "فيتامين",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Oranges are a good source of vitamin C.",
+          "ar": "البرتقال مصدر جيد لفيتامين سي."
+        }
+      ],
+      "ipa": "/ˈvɪtəmɪn/"
     },
     {
       "id": "w_b2_vitamins",

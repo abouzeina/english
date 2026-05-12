@@ -1,0 +1,490 @@
+{
+  "id": "lsn_b1_p_4",
+  "levelId": "lvl_b1",
+  "title": "Unit 31: P Words - Part 4",
+  "slug": "p-words-4",
+  "order": 31,
+  "wordCount": 21,
+  "titleAr": "الوحدة 31: كلمات حرف P - الجزء 4",
+  "description": "Master essential B1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_b1_primary",
+      "en": "primary",
+      "ar": "أساسي / أولي",
+      "pronunciation": "/'praz.mer.i/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Our primary purpose is to help them.",
+          "ar": "هدفنا الأساسي هو مساعدتهم."
+        },
+        {
+          "en": "اهتمامنا الأساسي هو سلامة الأطفال",
+          "ar": "The discovery was of primary importance to science."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core",
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_prince",
+      "en": "prince",
+      "ar": "أمير",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I gave the document to the prince.",
+          "ar": "أعطيت الوثيقة للأمير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_princess",
+      "en": "princess",
+      "ar": "أميرة",
+      "pronunciation": "/przn.ses/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What type of education did the princess get?",
+          "ar": "ما نوع التعليم الذي حصلت عليه الأميرة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_printing",
+      "en": "printing",
+      "ar": "طباعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "The invention of printing changed history.",
+          "ar": "اختراع الطباعة غير التاريخ."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_prisoner",
+      "lessonId": "lsn_b1_p_4",
+      "en": "prisoner",
+      "ar": "سجين",
+      "translation": "سجين",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The prisoners were released after ten years.",
+          "ar": "أُطلق سراح السجناء بعد عشر سنوات."
+        }
+      ],
+      "ipa": "/ˈprɪznə(r)/"
+    },
+    {
+      "id": "w_b1_prisoners",
+      "en": "prisoners",
+      "ar": "سجناء",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Some of our employees were prisoners.",
+          "ar": "بعض موظفينا كانوا سجناء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_private",
+      "en": "private",
+      "ar": "خاصة",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Don't fish here this is a private lake.",
+          "ar": "لا تصطاد هنا هذه بحيرة خاصة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_producer",
+      "en": "producer",
+      "ar": "منتج",
+      "pronunciation": "/prə du:.so/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Kuwait is a major oil producer.",
+          "ar": "الكويت منتج رئيسي للنفط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_production",
+      "en": "production",
+      "ar": "إنتاج",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We have to focus on production.",
+          "ar": "يجب علينا التركيز على الإنتاج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_profession",
+      "en": "profession",
+      "ar": "مهنة",
+      "pronunciation": "/prə fef.ən/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "decided to change my profession.",
+          "ar": "قررت تغيير مهنتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_profit",
+      "lessonId": "lsn_b1_p_4",
+      "en": "profit",
+      "ar": "ربح / فائدة",
+      "translation": "ربح / فائدة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company made a huge profit last year.",
+          "ar": "حققت الشركة ربحاً ضخماً العام الماضي."
+        }
+      ],
+      "ipa": "/ˈprɒfɪt/"
+    },
+    {
+      "id": "w_b1_promote",
+      "en": "promote",
+      "ar": "يروج",
+      "pronunciation": "/pre mout/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We invented a new way to promote our products.",
+          "ar": "اخترعنا طريقة جديدة لنروج لمنتجاتنا."
+        },
+        {
+          "en": "تهدف الحملة إلى الترويج للأكل الصحي",
+          "ar": "He was promoted to manager last month."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core",
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_proper",
+      "en": "proper",
+      "ar": "مناسب / صحيح",
+      "pronunciation": "/pra:.pe/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "We got the proper training.",
+          "ar": "لقد حصلنا على التدريب المناسب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_properly",
+      "en": "properly",
+      "ar": "كما ينبغي / بشكل صحيح",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "How can we do the job properly?",
+          "ar": "كيف يمكننا أداء العمل كما ينبغي ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_property",
+      "en": "property",
+      "ar": "ملكية",
+      "pronunciation": "/'pra:.po-.ti/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "This land is government property.",
+          "ar": "هذه الأرض هي ملكية حكومية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_protested",
+      "en": "protested",
+      "ar": "احتججنا",
+      "pronunciation": "/'prou.test/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "In college we protested the war.",
+          "ar": "احتججنا في الكلية على الحرب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_proud",
+      "en": "proud",
+      "ar": "فخور",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I am proud of my work as a journalist.",
+          "ar": "أنا فخور بعملي كصحفي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_prove",
+      "en": "prove",
+      "ar": "يثبت",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Can you prove that your method is the best?",
+          "ar": "هل يمكنك أن تثبت أن طريقتك هي الأفضل ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_punish",
+      "lessonId": "lsn_b1_p_4",
+      "en": "punish",
+      "ar": "يعاقب",
+      "translation": "يعاقب",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was punished for breaking the rules.",
+          "ar": "عوقب لمخالفته القواعد."
+        }
+      ],
+      "ipa": "/ˈpʌnɪʃ/"
+    },
+    {
+      "id": "w_b1_punished",
+      "en": "punished",
+      "ar": "عاقبوا",
+      "pronunciation": "/pʌn.1/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "They punished the child by forcing him to taste a lemon.",
+          "ar": "عاقبوا الطفل بإجباره على تذوق الليمون."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_punishment",
+      "en": "punishment",
+      "ar": "عقوبة",
+      "pronunciation": "/pan.[/",
+      "lessonId": "lsn_b1_p_4",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "What is the punishment for this crime?",
+          "ar": "ما هي عقوبة هذه الجريمة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_p_1",
   "levelId": "lvl_b2",
-  "title": "Unit 38: P Words - Part 1",
+  "title": "Unit 45: P Words - Part 1",
   "slug": "p-words-1",
-  "order": 38,
-  "wordCount": 21,
-  "titleAr": "الوحدة 38: كلمات حرف P - الجزء 1",
+  "order": 45,
+  "wordCount": 22,
+  "titleAr": "الوحدة 45: كلمات حرف P - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف P.",
   "words": [
@@ -439,6 +439,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/pɑzd/"
+    },
+    {
+      "id": "w_b2_peer",
+      "lessonId": "lsn_b2_p_1",
+      "en": "peer",
+      "ar": "نظير / زميل / يحدق",
+      "translation": "نظير / زميل / يحدق",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Children are often influenced by their peers.",
+          "ar": "غالباً ما يتأثر الأطفال بأقرانهم."
+        }
+      ],
+      "ipa": "/pɪə(r)/"
     },
     {
       "id": "w_b2_peers",

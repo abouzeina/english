@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_b_1",
   "levelId": "lvl_b1",
-  "title": "Unit 3: B Words - Part 1",
+  "title": "Unit 4: B Words - Part 1",
   "slug": "b-words-1",
-  "order": 3,
-  "wordCount": 14,
-  "titleAr": "الوحدة 3: كلمات حرف B - الجزء 1",
+  "order": 4,
+  "wordCount": 18,
+  "titleAr": "الوحدة 4: كلمات حرف B - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter B.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف B.",
   "words": [
@@ -242,6 +242,29 @@
       "ipa": "/ˈbuːti/"
     },
     {
+      "id": "w_b1_bee",
+      "lessonId": "lsn_b1_b_1",
+      "en": "bee",
+      "ar": "نحلة",
+      "translation": "نحلة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "A bee is collecting nectar from the flower.",
+          "ar": "نحلة تجمع الرحيق من الزهرة."
+        }
+      ],
+      "ipa": "/biː/"
+    },
+    {
       "id": "w_b1_bees",
       "en": "bees",
       "ar": "نحل",
@@ -262,6 +285,29 @@
       ],
       "confidence": "high",
       "ipa": "/biːz/"
+    },
+    {
+      "id": "w_b1_belief",
+      "lessonId": "lsn_b1_b_1",
+      "en": "belief",
+      "ar": "اعتقاد / إيمان",
+      "translation": "اعتقاد / إيمان",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It is my belief that we will succeed.",
+          "ar": "إيماني هو أننا سننجح."
+        }
+      ],
+      "ipa": "/bɪˈliːf/"
     },
     {
       "id": "w_b1_beliefs",
@@ -332,6 +378,55 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_bite",
+      "en": "bite",
+      "ar": "يعض / قضمة",
+      "pronunciation": "/bart/",
+      "lessonId": "lsn_b1_b_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I promise I won't bite you.",
+          "ar": "أعدك أنني لن أعضك."
+        },
+        {
+          "en": "Ali took another bite of his sandwich.",
+          "ar": "أخذ علي قضمة أخرى من شطيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_block",
+      "lessonId": "lsn_b1_b_1",
+      "en": "block",
+      "ar": "كتلة / مبنى / يسد",
+      "translation": "كتلة / مبنى / يسد",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "A large tree blocked the road.",
+          "ar": "سدت شجرة كبيرة الطريق."
+        }
+      ],
+      "ipa": "/blɒk/"
     }
   ]
 }

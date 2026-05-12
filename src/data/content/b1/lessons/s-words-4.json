@@ -1,58 +1,14 @@
 {
   "id": "lsn_b1_s_4",
   "levelId": "lvl_b1",
-  "title": "Unit 35: S Words - Part 4",
+  "title": "Unit 39: S Words - Part 4",
   "slug": "s-words-4",
-  "order": 35,
-  "wordCount": 20,
-  "titleAr": "الوحدة 35: كلمات حرف S - الجزء 4",
+  "order": 39,
+  "wordCount": 25,
+  "titleAr": "الوحدة 39: كلمات حرف S - الجزء 4",
   "description": "Master essential B1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_b1_strength",
-      "en": "strength",
-      "ar": "قوة",
-      "pronunciation": "/streŋke/",
-      "lessonId": "lsn_b1_s_4",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I pushed against the door with all my strength.",
-          "ar": "دفعت الباب بكل قوتي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_strings",
-      "en": "strings",
-      "ar": "خيوط",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_4",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Tie these two strings together.",
-          "ar": "اربط هذين الخيطين معا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_strongly",
       "en": "strongly",
@@ -74,6 +30,29 @@
       ],
       "confidence": "high",
       "ipa": "/stɹɑŋli/"
+    },
+    {
+      "id": "w_b1_studio",
+      "lessonId": "lsn_b1_s_4",
+      "en": "studio",
+      "ar": "استوديو",
+      "translation": "استوديو",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The band is recording in the studio.",
+          "ar": "الفرقة تسجل في الاستوديو."
+        }
+      ],
+      "ipa": "/ˈstjuːdiəʊ/"
     },
     {
       "id": "w_b1_studios",
@@ -118,6 +97,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_substance",
+      "lessonId": "lsn_b1_s_4",
+      "en": "substance",
+      "ar": "مادة / جوهر",
+      "translation": "مادة / جوهر",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The water contained a strange chemical substance.",
+          "ar": "كان الماء يحتوي على مادة كيميائية غريبة."
+        }
+      ],
+      "ipa": "/ˈsʌbstəns/"
     },
     {
       "id": "w_b1_substances",
@@ -186,6 +188,29 @@
       "ipa": "/ˈsʌdən/"
     },
     {
+      "id": "w_b1_suffer",
+      "lessonId": "lsn_b1_s_4",
+      "en": "suffer",
+      "ar": "يعاني",
+      "translation": "يعاني",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He suffers from bad headaches.",
+          "ar": "هو يعاني من صداع سيئ."
+        }
+      ],
+      "ipa": "/ˈsʌfə(r)/"
+    },
+    {
       "id": "w_b1_suffered",
       "en": "suffered",
       "ar": "عانى / يعاني",
@@ -228,6 +253,29 @@
       ],
       "confidence": "high",
       "ipa": "/ˈsuːtəbl/"
+    },
+    {
+      "id": "w_b1_summarize",
+      "lessonId": "lsn_b1_s_4",
+      "en": "summarize",
+      "ar": "يلخص",
+      "translation": "يلخص",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Can you summarize the main points for me?",
+          "ar": "هل يمكنك تلخيص النقاط الرئيسية لي؟"
+        }
+      ],
+      "ipa": "/ˈsʌməraɪz/"
     },
     {
       "id": "w_b1_summarizes",
@@ -300,6 +348,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_supporter",
+      "lessonId": "lsn_b1_s_4",
+      "en": "supporter",
+      "ar": "مؤيد / مشجع",
+      "translation": "مؤيد / مشجع",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The team has thousands of loyal supporters.",
+          "ar": "للفريق آلاف المشجعين المخلصين."
+        }
+      ],
+      "ipa": "/səˈpɔːtə(r)/"
+    },
+    {
       "id": "w_b1_supporters",
       "en": "supporters",
       "ar": "داعمون",
@@ -366,6 +437,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_survive",
+      "lessonId": "lsn_b1_s_4",
+      "en": "survive",
+      "ar": "ينجو / يبقى على قيد الحياة",
+      "translation": "ينجو / يبقى على قيد الحياة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "No one survived the plane crash.",
+          "ar": "لم ينجُ أحد من تحطم الطائرة."
+        }
+      ],
+      "ipa": "/səˈvaɪv/"
+    },
+    {
       "id": "w_b1_survived",
       "en": "survived",
       "ar": "نجا / ينجو",
@@ -430,6 +524,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_symptom",
+      "lessonId": "lsn_b1_s_4",
+      "en": "symptom",
+      "ar": "عرض (لمرض)",
+      "translation": "عرض (لمرض)",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Fever is a common symptom of the flu.",
+          "ar": "الحمى هي عرض شائع للإنفلونزا."
+        }
+      ],
+      "ipa": "/ˈsɪmptəm/"
     },
     {
       "id": "w_b1_symptoms",

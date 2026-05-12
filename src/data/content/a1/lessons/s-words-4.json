@@ -1,67 +1,14 @@
 {
   "id": "lsn_a1_s_4",
   "levelId": "lvl_a1",
-  "title": "Unit 40: S Words - Part 4",
+  "title": "Unit 42: S Words - Part 4",
   "slug": "s-words-4",
-  "order": 40,
-  "wordCount": 22,
-  "titleAr": "الوحدة 40: كلمات حرف S - الجزء 4",
+  "order": 42,
+  "wordCount": 24,
+  "titleAr": "الوحدة 42: كلمات حرف S - الجزء 4",
   "description": "Master essential A1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_a1_stand",
-      "lessonId": "lsn_a1_s_4",
-      "en": "stand",
-      "translation": "يقف",
-      "ar": "يقف",
-      "type": "word",
-      "examples": [
-        {
-          "en": "He can't stand for too long.",
-          "ar": "لا يمكنه أن يقف طويلاً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/stænd/"
-    },
-    {
-      "id": "w_a1_star",
-      "lessonId": "lsn_a1_s_4",
-      "en": "star",
-      "translation": "نجم",
-      "ar": "نجم",
-      "type": "word",
-      "examples": [
-        {
-          "en": "The nearest star is the sun.",
-          "ar": "أقرب نجم هو الشمس."
-        },
-        {
-          "en": "He was the star of the show.",
-          "ar": "لقد كان نجم العرض."
-        },
-        {
-          "en": "He starred in that movie.",
-          "ar": "لعب دور البطولة في هذا الفيلم :"
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core",
-        "A2"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/stɑː(ɹ)/"
-    },
     {
       "id": "w_a2_start",
       "en": "start",
@@ -231,6 +178,52 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_a1_story",
+      "lessonId": "lsn_a1_s_4",
+      "en": "story",
+      "ar": "قصة / طابق",
+      "translation": "قصة / طابق",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He told me a very interesting story.",
+          "ar": "أخبرني قصة ممتعة للغاية."
+        }
+      ],
+      "ipa": "/ˈstɔːri/"
+    },
+    {
+      "id": "w_a1_street",
+      "lessonId": "lsn_a1_s_4",
+      "en": "street",
+      "ar": "شارع",
+      "translation": "شارع",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The children were playing in the street.",
+          "ar": "كان الأطفال يلعبون في الشارع."
+        }
+      ],
+      "ipa": "/striːt/"
+    },
+    {
       "id": "w_a1_strong",
       "lessonId": "lsn_a1_s_4",
       "en": "strong",
@@ -375,6 +368,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/səkˈsɛs/"
+    },
+    {
+      "id": "w_a1_sugar",
+      "lessonId": "lsn_a1_s_4",
+      "en": "sugar",
+      "ar": "سكر",
+      "translation": "سكر",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Do you take sugar in your tea?",
+          "ar": "هل تضع السكر في شايك؟"
+        }
+      ],
+      "ipa": "/ˈʃʊɡə(r)/"
     },
     {
       "id": "w_a1_summer",
@@ -542,6 +558,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_swimming",
+      "lessonId": "lsn_a1_s_4",
+      "en": "swimming",
+      "ar": "سباحة",
+      "translation": "سباحة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Swimming is good for your health.",
+          "ar": "السباحة جيدة لصحتك."
+        }
+      ],
+      "ipa": "/ˈswɪmɪŋ/"
     }
   ]
 }

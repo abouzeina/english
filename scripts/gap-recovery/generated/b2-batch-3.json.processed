@@ -1,0 +1,602 @@
+[
+  {
+    "en": "feedback",
+    "translation": "ملاحظات / تغذية راجعة",
+    "ipa": "/ˈfiːdbæk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We welcome feedback from our customers.",
+        "ar": "نحن نرحب بملاحظات عملائنا."
+      }
+    ]
+  },
+  {
+    "en": "fellow",
+    "translation": "زميل / رفيق",
+    "ipa": "/ˈfeləʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is well-respected by his fellows.",
+        "ar": "هو يحظى باحترام كبير من قبل زملائه."
+      }
+    ]
+  },
+  {
+    "en": "fever",
+    "translation": "حمى",
+    "ipa": "/ˈfiːvə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has a high fever and needs to rest.",
+        "ar": "يعاني من حمى شديدة ويحتاج للراحة."
+      }
+    ]
+  },
+  {
+    "en": "finance",
+    "translation": "مالية / تمويل",
+    "ipa": "/ˈfaɪnæns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She works in the finance department.",
+        "ar": "تعمل في القسم المالي."
+      }
+    ]
+  },
+  {
+    "en": "finding",
+    "translation": "نتيجة / اكتشاف",
+    "ipa": "/ˈfaɪndɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The findings of the research were surprising.",
+        "ar": "كانت نتائج البحث مفاجئة."
+      }
+    ]
+  },
+  {
+    "en": "firefighter",
+    "translation": "رجل إطفاء",
+    "ipa": "/ˈfaɪəfaɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The firefighters arrived quickly at the scene.",
+        "ar": "وصل رجال الإطفاء بسرعة إلى مكان الحادث."
+      }
+    ]
+  },
+  {
+    "en": "firework",
+    "translation": "ألعاب نارية",
+    "ipa": "/ˈfaɪəwɜːk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The sky was full of beautiful fireworks.",
+        "ar": "كانت السماء مليئة بالألعاب النارية الجميلة."
+      }
+    ]
+  },
+  {
+    "en": "flame",
+    "translation": "لهب",
+    "ipa": "/fleɪm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The dry grass burst into flames.",
+        "ar": "اشتعل العشب الجاف في ألسنة اللهب."
+      }
+    ]
+  },
+  {
+    "en": "flavour",
+    "translation": "نكهة",
+    "ipa": "/ˈfleɪvə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "This soup has a delicious spicy flavour.",
+        "ar": "هذا الحساء له نكهة حارة لذيذة."
+      }
+    ]
+  },
+  {
+    "en": "float",
+    "translation": "يطفو",
+    "ipa": "/fləʊt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Wood floats on water.",
+        "ar": "الخشب يطفو على الماء."
+      }
+    ]
+  },
+  {
+    "en": "forbid",
+    "translation": "يمنع / يحرم",
+    "ipa": "/fəˈbɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Smoking is strictly forbidden in this building.",
+        "ar": "التدخين ممنوع منعاً باتاً في هذا المبنى."
+      }
+    ]
+  },
+  {
+    "en": "fossil",
+    "translation": "أحفورة",
+    "ipa": "/ˈfɒsl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Scientists found ancient fossils in the desert.",
+        "ar": "وجد العلماء أحافير قديمة في الصحراء."
+      }
+    ]
+  },
+  {
+    "en": "found",
+    "translation": "يؤسس",
+    "ipa": "/faʊnd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The university was founded in 1850.",
+        "ar": "تأسست الجامعة عام ألف وثمانمائة وخمسين."
+      }
+    ]
+  },
+  {
+    "en": "fulfil",
+    "translation": "يحقق / ينجز / يلبي",
+    "ipa": "/fʊlˈfɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She finally fulfilled her dream of becoming a pilot.",
+        "ar": "حققت أخيراً حلمها في أن تصبح طيارة."
+      }
+    ]
+  },
+  {
+    "en": "gender",
+    "translation": "جنس / نوع",
+    "ipa": "/ˈdʒendə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Discrimination on the basis of gender is illegal.",
+        "ar": "التمييز على أساس الجنس غير قانوني."
+      }
+    ]
+  },
+  {
+    "en": "gene",
+    "translation": "جين / مورثة",
+    "ipa": "/dʒiːn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Scientists are studying the genes responsible for the disease.",
+        "ar": "يدرس العلماء الجينات المسؤولة عن المرض."
+      }
+    ]
+  },
+  {
+    "en": "grab",
+    "translation": "يمسك / يختطف",
+    "ipa": "/ɡræb/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He grabbed his bag and ran to the station.",
+        "ar": "أمسك حقيبته وركض إلى المحطة."
+      }
+    ]
+  },
+  {
+    "en": "guideline",
+    "translation": "مبدأ توجيهي / إرشاد",
+    "ipa": "/ˈɡaɪdlaɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government has issued new health guidelines.",
+        "ar": "أصدرت الحكومة إرشادات صحية جديدة."
+      }
+    ]
+  },
+  {
+    "en": "harbour",
+    "translation": "ميناء / مرفأ",
+    "ipa": "/ˈhɑːbə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The boat sailed slowly into the harbour.",
+        "ar": "أبحرت السفينة ببطء في الميناء."
+      }
+    ]
+  },
+  {
+    "en": "herb",
+    "translation": "عشب / نبات عشبي",
+    "ipa": "/hɜːb/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She grows fresh herbs in her garden.",
+        "ar": "تزرع أعشاباً طازجة في حديقتها."
+      }
+    ]
+  },
+  {
+    "en": "hesitate",
+    "translation": "يتردد",
+    "ipa": "/ˈhezɪteɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Don't hesitate to ask if you need help.",
+        "ar": "لا تتردد في السؤال إذا كنت بحاجة للمساعدة."
+      }
+    ]
+  },
+  {
+    "en": "honour",
+    "translation": "شرف / تكريم",
+    "ipa": "/ˈɒnə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It is a great honour to meet you.",
+        "ar": "إنه لشرف عظيم أن ألتقي بك."
+      }
+    ]
+  },
+  {
+    "en": "humour",
+    "translation": "فكاهة / مزاح",
+    "ipa": "/ˈhjuːmə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has a very good sense of humour.",
+        "ar": "لديه حس فكاهة جيد جداً."
+      }
+    ]
+  },
+  {
+    "en": "implication",
+    "translation": "تلميح / نتيجة مترتبة",
+    "ipa": "/ˌɪmplɪˈkeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new law has serious implications for businesses.",
+        "ar": "للقانون الجديد تداعيات خطيرة على الشركات."
+      }
+    ]
+  },
+  {
+    "en": "imply",
+    "translation": "يلمح / يعني ضمناً",
+    "ipa": "/ɪmˈplaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "What do you mean to imply by that remark?",
+        "ar": "ماذا تقصد أن تلمح بذلك التعليق؟"
+      }
+    ]
+  },
+  {
+    "en": "impress",
+    "translation": "يبهر / يثير الإعجاب",
+    "ipa": "/ɪmˈpres/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He tried to impress his boss with his hard work.",
+        "ar": "حاول إبهار رئيسه بعمله الشاق."
+      }
+    ]
+  },
+  {
+    "en": "infer",
+    "translation": "يستنتج",
+    "ipa": "/ɪnˈfɜː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "What can we infer from these statistics?",
+        "ar": "ماذا يمكننا أن نستنتج من هذه الإحصائيات؟"
+      }
+    ]
+  },
+  {
+    "en": "inform",
+    "translation": "يخبر / يبلغ",
+    "ipa": "/ɪnˈfɔːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please inform me of any changes to the schedule.",
+        "ar": "يرجى إبلاغي بأي تغييرات في الجدول الزمني."
+      }
+    ]
+  },
+  {
+    "en": "inhabitant",
+    "translation": "ساكن / قاطن",
+    "ipa": "/ɪnˈhæbɪtənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The island has only a few hundred inhabitants.",
+        "ar": "تضم الجزيرة بضع مئات فقط من السكان."
+      }
+    ]
+  },
+  {
+    "en": "insist",
+    "translation": "يصر / يلح",
+    "ipa": "/ɪnˈsɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She insisted on paying for the meal.",
+        "ar": "أصرت على دفع ثمن الوجبة."
+      }
+    ]
+  },
+  {
+    "en": "investment",
+    "translation": "استثمار",
+    "ipa": "/ɪnˈvestmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Education is a good investment for the future.",
+        "ar": "التعليم استثمار جيد للمستقبل."
+      }
+    ]
+  },
+  {
+    "en": "isolate",
+    "translation": "يعزل",
+    "ipa": "/ˈaɪsəleɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The village was isolated by the heavy snow.",
+        "ar": "عُزلت القرية بسبب الثلوج الكثيفة."
+      }
+    ]
+  },
+  {
+    "en": "judgement",
+    "translation": "حكم / قرار",
+    "ipa": "/ˈdʒʌdʒmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "In my judgement, this is the best option.",
+        "ar": "في تقديري، هذا هو الخيار الأفضل."
+      }
+    ]
+  },
+  {
+    "en": "labour",
+    "translation": "عمل / عمالة",
+    "ipa": "/ˈleɪbə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The cost of skilled labour is rising.",
+        "ar": "تكلفة العمالة الماهرة في ارتفاع."
+      }
+    ]
+  },
+  {
+    "en": "leaflet",
+    "translation": "منشور / مطوية",
+    "ipa": "/ˈliːflət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He handed out leaflets on the street.",
+        "ar": "وزع منشورات في الشارع."
+      }
+    ]
+  },
+  {
+    "en": "literary",
+    "translation": "أدبي",
+    "ipa": "/ˈlɪtərəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is interested in literary criticism.",
+        "ar": "هي مهتمة بالنقد الأدبي."
+      }
+    ]
+  },
+  {
+    "en": "litre",
+    "translation": "لتر",
+    "ipa": "/ˈliːtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I need to buy two litres of milk.",
+        "ar": "أحتاج لشراء لترين من الحليب."
+      }
+    ]
+  },
+  {
+    "en": "litter",
+    "translation": "نفايات / فضلات",
+    "ipa": "/ˈlɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please don't leave litter in the park.",
+        "ar": "يرجى عدم ترك النفايات في المنتزه."
+      }
+    ]
+  },
+  {
+    "en": "lively",
+    "translation": "حيوي / مفعم بالنشاط",
+    "ipa": "/ˈlaɪvli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The city has a lively nightlife.",
+        "ar": "تتمتع المدينة بحياة ليلية حيوية."
+      }
+    ]
+  },
+  {
+    "en": "load",
+    "translation": "حمل / شحنة",
+    "ipa": "/ləʊd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The truck was carrying a heavy load of bricks.",
+        "ar": "كانت الشاحنة تحمل شحنة ثقيلة من الطوب."
+      }
+    ]
+  },
+  {
+    "en": "loan",
+    "translation": "قرض",
+    "ipa": "/ləʊn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He took out a loan to buy a new house.",
+        "ar": "أخذ قرضاً لشراء منزل جديد."
+      }
+    ]
+  },
+  {
+    "en": "logical",
+    "translation": "منطقي",
+    "ipa": "/ˈlɒdʒɪkl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "That seems like a logical conclusion.",
+        "ar": "يبدو ذلك استنتاجاً منطقياً."
+      }
+    ]
+  },
+  {
+    "en": "logo",
+    "translation": "شعار",
+    "ipa": "/ˈləʊɡəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company's logo is recognizable worldwide.",
+        "ar": "شعار الشركة معروف في جميع أنحاء العالم."
+      }
+    ]
+  },
+  {
+    "en": "long-term",
+    "translation": "طويل الأمد",
+    "ipa": "/ˌlɒŋ ˈtɜːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need a long-term solution to this problem.",
+        "ar": "نحن بحاجة إلى حل طويل الأمد لهذه المشكلة."
+      }
+    ]
+  },
+  {
+    "en": "loose",
+    "translation": "فضفاض / مرتخٍ",
+    "ipa": "/luːs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He wears loose clothing in the summer.",
+        "ar": "يرتدي ملابس فضفاضة في الصيف."
+      }
+    ]
+  },
+  {
+    "en": "lord",
+    "translation": "لورد / سيد",
+    "ipa": "/lɔːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The castle belonged to a powerful lord.",
+        "ar": "كانت القلعة تنتمي للورد قوي."
+      }
+    ]
+  },
+  {
+    "en": "lottery",
+    "translation": "يانصيب",
+    "ipa": "/ˈlɒtəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She won a million dollars in the lottery.",
+        "ar": "فازت بمليون دولار في اليانصيب."
+      }
+    ]
+  },
+  {
+    "en": "lower",
+    "translation": "يخفض / أدنى",
+    "ipa": "/ˈləʊə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bank lowered its interest rates.",
+        "ar": "خفض البنك أسعار الفائدة."
+      }
+    ]
+  },
+  {
+    "en": "loyal",
+    "translation": "وفي / مخلص",
+    "ipa": "/ˈlɔɪəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a very loyal friend.",
+        "ar": "هو صديق مخلص جداً."
+      }
+    ]
+  },
+  {
+    "en": "lung",
+    "translation": "رئة",
+    "ipa": "/lʌŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Smoking can damage your lungs.",
+        "ar": "التدخين يمكن أن يضر برئتيك."
+      }
+    ]
+  }
+]

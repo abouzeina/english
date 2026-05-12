@@ -4,7 +4,7 @@
   "title": "Unit 2: A Words - Part 2",
   "slug": "a-words-2",
   "order": 2,
-  "wordCount": 20,
+  "wordCount": 21,
   "titleAr": "الوحدة 2: كلمات حرف A - الجزء 2",
   "description": "Master essential A2 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف A.",
@@ -82,6 +82,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_alone",
+      "lessonId": "lsn_a2_a_2",
+      "en": "alone",
+      "ar": "وحيد / بمفرده",
+      "translation": "وحيد / بمفرده",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He likes to spend time alone in nature.",
+          "ar": "يحب قضاء الوقت وحيداً في الطبيعة."
+        }
+      ],
+      "ipa": "/əˈləʊn/"
     },
     {
       "id": "w_a2_along",
@@ -275,6 +298,29 @@
       "ipa": "/ˈæŋ.kəl/"
     },
     {
+      "id": "w_a2_any_more",
+      "lessonId": "lsn_a2_a_2",
+      "en": "any more",
+      "ar": "بعد الآن / لم يعد",
+      "translation": "بعد الآن / لم يعد",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I don't live in London any more.",
+          "ar": "لم أعد أعيش في لندن بعد الآن."
+        }
+      ],
+      "ipa": "/ˌeni ˈmɔː(r)/"
+    },
+    {
       "id": "w_a2_anybody",
       "en": "anybody",
       "ar": "أي شخص / أحد",
@@ -449,28 +495,6 @@
       ],
       "confidence": "high",
       "ipa": "/əˈplaɪ/"
-    },
-    {
-      "id": "w_a2_architect",
-      "en": "architect",
-      "ar": "مهندس معماري",
-      "pronunciation": "/ar-kz tekt/",
-      "lessonId": "lsn_a2_a_2",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali wants to be a successful architect.",
-          "ar": "يريد علي أن يكون مهندسا معماريا ناجحًا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
     }
   ]
 }

@@ -1,0 +1,450 @@
+{
+  "id": "lsn_c1_b_4",
+  "levelId": "lvl_c1",
+  "title": "Unit 10: B Words - Part 4",
+  "slug": "b-words-4",
+  "order": 10,
+  "wordCount": 19,
+  "titleAr": "الوحدة 10: كلمات حرف B - الجزء 4",
+  "description": "Master essential C1 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف B.",
+  "words": [
+    {
+      "id": "w_c1_breakthrough",
+      "lessonId": "lsn_c1_b_4",
+      "en": "breakthrough",
+      "ar": "اختراق / تقدم كبير",
+      "translation": "اختراق / تقدم كبير",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Scientists have made a major breakthrough in cancer research.",
+          "ar": "حقق العلماء اختراقاً كبيراً في أبحاث السرطان."
+        }
+      ],
+      "ipa": "/ˈbreɪkθruː/"
+    },
+    {
+      "id": "w_c1_breed",
+      "lessonId": "lsn_c1_b_4",
+      "en": "breed",
+      "ar": "يتكاثر / سلالة",
+      "translation": "يتكاثر / سلالة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He breeds racehorses.",
+          "ar": "هو يربي (يهجن) خيول السباق."
+        }
+      ],
+      "ipa": "/briːd/"
+    },
+    {
+      "id": "w_c1_brick",
+      "lessonId": "lsn_c1_b_4",
+      "en": "brick",
+      "ar": "طوبة / لبنة",
+      "translation": "طوبة / لبنة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The house is built of red bricks.",
+          "ar": "المنزل مبني من الطوب الأحمر."
+        }
+      ],
+      "ipa": "/brɪk/"
+    },
+    {
+      "id": "w_c1_brief",
+      "lessonId": "lsn_c1_b_4",
+      "en": "brief",
+      "ar": "موجز / مختصر",
+      "translation": "موجز / مختصر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Please give a brief summary of the report.",
+          "ar": "يرجى تقديم ملخص موجز للتقرير."
+        }
+      ],
+      "ipa": "/briːf/"
+    },
+    {
+      "id": "w_c1_briefly",
+      "lessonId": "lsn_c1_b_4",
+      "en": "briefly",
+      "ar": "باختصار / لفترة وجيزة",
+      "translation": "باختصار / لفترة وجيزة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We met briefly to discuss the plan.",
+          "ar": "التقينا لفترة وجيزة لمناقشة الخطة."
+        }
+      ],
+      "ipa": "/ˈbriːfli/"
+    },
+    {
+      "id": "w_c1_broadband",
+      "lessonId": "lsn_c1_b_4",
+      "en": "broadband",
+      "ar": "نطاق عريض / إنترنت سريع",
+      "translation": "نطاق عريض / إنترنت سريع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "High-speed broadband is available in most areas.",
+          "ar": "يتوفر الإنترنت السريع (نطاق عريض) في معظم المناطق."
+        }
+      ],
+      "ipa": "/ˈbrɔːdbænd/"
+    },
+    {
+      "id": "w_c1_broadcaster",
+      "lessonId": "lsn_c1_b_4",
+      "en": "broadcaster",
+      "ar": "مذيع / هيئة إذاعية",
+      "translation": "مذيع / هيئة إذاعية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The BBC is a world-famous broadcaster.",
+          "ar": "البي بي سي هي هيئة إذاعية مشهورة عالمياً."
+        }
+      ],
+      "ipa": "/ˈbrɔːdkɑːstə(r)/"
+    },
+    {
+      "id": "w_c1_broaden",
+      "lessonId": "lsn_c1_b_4",
+      "en": "broaden",
+      "ar": "يوسع / يعرض",
+      "translation": "يوسع / يعرض",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Travel broadens the mind.",
+          "ar": "السفر يوسع الأفق."
+        }
+      ],
+      "ipa": "/ˈbrɔːdn/"
+    },
+    {
+      "id": "w_c1_browser",
+      "lessonId": "lsn_c1_b_4",
+      "en": "browser",
+      "ar": "متصفح",
+      "translation": "متصفح",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Which web browser do you use?",
+          "ar": "أي متصفح ويب تستخدم؟"
+        }
+      ],
+      "ipa": "/ˈbraʊzə(r)/"
+    },
+    {
+      "id": "w_c1_brutal",
+      "lessonId": "lsn_c1_b_4",
+      "en": "brutal",
+      "ar": "وحشي / قارس",
+      "translation": "وحشي / قارس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The attack was described as brutal and cowardly.",
+          "ar": "وُصف الهجوم بأنه وحشي وجبان."
+        }
+      ],
+      "ipa": "/ˈbruːtl/"
+    },
+    {
+      "id": "w_c1_buck",
+      "lessonId": "lsn_c1_b_4",
+      "en": "buck",
+      "ar": "دولار (عامية) / ذكر الغزال",
+      "translation": "دولار (عامية) / ذكر الغزال",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "That meal cost me fifty bucks.",
+          "ar": "كلفتني تلك الوجبة خمسين دولاراً."
+        }
+      ],
+      "ipa": "/bʌk/"
+    },
+    {
+      "id": "w_c1_buddy",
+      "lessonId": "lsn_c1_b_4",
+      "en": "buddy",
+      "ar": "صديق / رفيق (عامية)",
+      "translation": "صديق / رفيق (عامية)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We've been buddies since primary school.",
+          "ar": "نحن أصدقاء منذ المدرسة الابتدائية."
+        }
+      ],
+      "ipa": "/ˈbʌdi/"
+    },
+    {
+      "id": "w_c1_buffer",
+      "lessonId": "lsn_c1_b_4",
+      "en": "buffer",
+      "ar": "حاجز وقائي / ذاكرة وسيطة",
+      "translation": "حاجز وقائي / ذاكرة وسيطة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The trees act as a buffer against the noise.",
+          "ar": "تعمل الأشجار كحاجز وقائي ضد الضجيج."
+        }
+      ],
+      "ipa": "/ˈbʌfə(r)/"
+    },
+    {
+      "id": "w_c1_bug",
+      "lessonId": "lsn_c1_b_4",
+      "en": "bug",
+      "ar": "حشرة / خطأ برمجى / فيروس",
+      "translation": "حشرة / خطأ برمجى / فيروس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a bug in the software.",
+          "ar": "يوجد خطأ برمجى (bug) في البرنامج."
+        }
+      ],
+      "ipa": "/bʌɡ/"
+    },
+    {
+      "id": "w_c1_bulk",
+      "lessonId": "lsn_c1_b_4",
+      "en": "bulk",
+      "ar": "حجم كبير / معظم",
+      "translation": "حجم كبير / معظم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The bulk of the work has been finished.",
+          "ar": "تم الانتهاء من معظم العمل."
+        }
+      ],
+      "ipa": "/bʌlk/"
+    },
+    {
+      "id": "w_c1_burden",
+      "lessonId": "lsn_c1_b_4",
+      "en": "burden",
+      "ar": "عبء / حمل",
+      "translation": "عبء / حمل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The debt has become a heavy burden for the company.",
+          "ar": "أصبح الدين عبئاً ثقيلاً على الشركة."
+        }
+      ],
+      "ipa": "/ˈbɜːdn/"
+    },
+    {
+      "id": "w_c1_bureaucracy",
+      "lessonId": "lsn_c1_b_4",
+      "en": "bureaucracy",
+      "ar": "بيروقراطية / روتين حكومي",
+      "translation": "بيروقراطية / روتين حكومي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is too much bureaucracy in the government.",
+          "ar": "هناك الكثير من البيروقراطية في الحكومة."
+        }
+      ],
+      "ipa": "/bjʊəˈrɒkrəsi/"
+    },
+    {
+      "id": "w_c1_burial",
+      "lessonId": "lsn_c1_b_4",
+      "en": "burial",
+      "ar": "دفن",
+      "translation": "دفن",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The burial took place in the local cemetery.",
+          "ar": "تم الدفن في المقبرة المحلية."
+        }
+      ],
+      "ipa": "/ˈberiəl/"
+    },
+    {
+      "id": "w_c1_burst",
+      "lessonId": "lsn_c1_b_4",
+      "en": "burst",
+      "ar": "ينفجر / اندفاع",
+      "translation": "ينفجر / اندفاع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The balloon burst suddenly.",
+          "ar": "انفجر البالون فجأة."
+        }
+      ],
+      "ipa": "/bɜːst/"
+    }
+  ]
+}

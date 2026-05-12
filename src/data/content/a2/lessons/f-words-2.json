@@ -4,11 +4,34 @@
   "title": "Unit 15: F Words - Part 2",
   "slug": "f-words-2",
   "order": 15,
-  "wordCount": 18,
+  "wordCount": 19,
   "titleAr": "الوحدة 15: كلمات حرف F - الجزء 2",
   "description": "Master essential A2 vocabulary starting with the letter F.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف F.",
   "words": [
+    {
+      "id": "w_a2_fishing",
+      "lessonId": "lsn_a2_f_2",
+      "en": "fishing",
+      "ar": "صيد السمك",
+      "translation": "صيد السمك",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We went fishing by the lake.",
+          "ar": "ذهبنا لصيد السمك بجانب البحيرة."
+        }
+      ],
+      "ipa": "/ˈfɪʃɪŋ/"
+    },
     {
       "id": "w_a2_fit",
       "en": "fit",

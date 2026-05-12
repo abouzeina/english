@@ -1,0 +1,438 @@
+{
+  "id": "lsn_a1_a_3",
+  "levelId": "lvl_a1",
+  "title": "Unit 3: A Words - Part 3",
+  "slug": "a-words-3",
+  "order": 3,
+  "wordCount": 17,
+  "titleAr": "الوحدة 3: كلمات حرف A - الجزء 3",
+  "description": "Master essential A1 vocabulary starting with the letter A.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف A.",
+  "words": [
+    {
+      "id": "w_a1_apartment",
+      "lessonId": "lsn_a1_a_3",
+      "en": "apartment",
+      "translation": "شقة",
+      "ar": "شقة",
+      "pronunciation": "/ə'part-mənt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We live in a small apartment.",
+          "ar": "نعيش في شقة صغيرة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_apple",
+      "lessonId": "lsn_a1_a_3",
+      "en": "apple",
+      "translation": "تفاحة",
+      "ar": "تفاحة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She ate a red apple.",
+          "ar": "أكلت تفاحة حمراء."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈæp.əl/"
+    },
+    {
+      "id": "w_a1_april",
+      "lessonId": "lsn_a1_a_3",
+      "en": "April",
+      "translation": "شهر ابريل",
+      "ar": "شهر ابريل",
+      "pronunciation": "/'exprəl/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The event is in April.",
+          "ar": "تقام الفعالية في شهر أبريل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_area",
+      "lessonId": "lsn_a1_a_3",
+      "en": "area",
+      "translation": "منطقة",
+      "ar": "منطقة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He lives in this area.",
+          "ar": "إنه يعيش في هذه المنطقة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛə̯ɹɪə̯/"
+    },
+    {
+      "id": "w_a1_arm",
+      "lessonId": "lsn_a1_a_3",
+      "en": "arm",
+      "translation": "ذراع",
+      "ar": "ذراع",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He has strong arms.",
+          "ar": "لديه ذراعان قويتان."
+        },
+        {
+          "en": "كان المتمردون مسلحين بأسلحة ثقيلة.",
+          "ar": "We need to arm ourselves with the facts before the meeting."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɑːm/"
+    },
+    {
+      "id": "w_a1_around",
+      "lessonId": "lsn_a1_a_3",
+      "en": "around",
+      "translation": "حوالي / حول / أرجاء",
+      "ar": "حوالي / حول / أرجاء",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It costs around 50 riyals.",
+          "ar": "تبلغ تكلفته حوالي 50 ريالاً."
+        },
+        {
+          "en": "Trees grew around the house.",
+          "ar": "نمت الأشجار حول المنزل."
+        },
+        {
+          "en": "Come, I will show you around.",
+          "ar": "تعال سأريك أرجاء المكان."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈɹaʊnd/"
+    },
+    {
+      "id": "w_a1_arrive",
+      "lessonId": "lsn_a1_a_3",
+      "en": "arrive",
+      "translation": "يصل",
+      "ar": "يصل",
+      "type": "word",
+      "examples": [
+        {
+          "en": "They will arrive tomorrow.",
+          "ar": "سوف يصلون غدًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈɹaɪv/"
+    },
+    {
+      "id": "w_a1_art",
+      "lessonId": "lsn_a1_a_3",
+      "en": "art",
+      "translation": "فن",
+      "ar": "فن",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Drawing is a type of art.",
+          "ar": "الرسم هو نوع من أنواع الفن."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɑːt/"
+    },
+    {
+      "id": "w_a1_article",
+      "lessonId": "lsn_a1_a_3",
+      "en": "article",
+      "translation": "مقال",
+      "ar": "مقال",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I read an interesting article.",
+          "ar": "قرأت مقالاً مثيراً للاهتمام."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɑːtɪkəl/"
+    },
+    {
+      "id": "w_a1_artist",
+      "lessonId": "lsn_a1_a_3",
+      "en": "artist",
+      "translation": "فنان",
+      "ar": "فنان",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The artist paints every day.",
+          "ar": "يرسم الفنان كل يوم."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɑːtɪst/"
+    },
+    {
+      "id": "w_a1_as",
+      "lessonId": "lsn_a1_a_3",
+      "en": "as",
+      "translation": "كـ",
+      "ar": "كـ",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I see him as a friend.",
+          "ar": "أراه كصديق."
+        },
+        {
+          "en": "She works as a teacher.",
+          "ar": "تعمل كمعلمة."
+        },
+        {
+          "en": "You're as tall as your brother.",
+          "ar": "أنت طويل كأخيك."
+        },
+        {
+          "en": "Leave the papers as they are",
+          "ar": "اترك الأوراق كما هي"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_ask",
+      "lessonId": "lsn_a1_a_3",
+      "en": "ask",
+      "translation": "يطلب / يسأل",
+      "ar": "يطلب / يسأل",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He asked me about work.",
+          "ar": "سألني عن العمل."
+        },
+        {
+          "en": "I asked Omar to stay.",
+          "ar": "طلبت من عمر البقاء."
+        },
+        {
+          "en": "He asked for more time.",
+          "ar": "طلب المزيد من الوقت."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈask/"
+    },
+    {
+      "id": "w_a1_at",
+      "lessonId": "lsn_a1_a_3",
+      "en": "at",
+      "translation": "في",
+      "ar": "في",
+      "pronunciation": "",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She is at home.",
+          "ar": "إنها في المنزل."
+        },
+        {
+          "en": "Ali wakes up at six.",
+          "ar": "علي يستيقظ في الساعة السادسة."
+        },
+        {
+          "en": "The event begins at 8:30 pm.",
+          "ar": "تبدأ الفعالية في الساعة 8:30 مساءً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_august",
+      "lessonId": "lsn_a1_a_3",
+      "en": "August",
+      "translation": "شهر أغسطس",
+      "ar": "شهر أغسطس",
+      "pronunciation": "/'o gəst/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She was born in August.",
+          "ar": "ولدت في شهر أغسطس."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_aunt",
+      "lessonId": "lsn_a1_a_3",
+      "en": "aunt",
+      "translation": "عمة / خالة",
+      "ar": "عمة / خالة",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I visit my aunts often.",
+          "ar": "أزور عماتي كثيرًا."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɑ(ː)nt/"
+    },
+    {
+      "id": "w_a1_autumn",
+      "lessonId": "lsn_a1_a_3",
+      "en": "autumn",
+      "translation": "خريف",
+      "ar": "خريف",
+      "pronunciation": "/'a-təm/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The leaves change in autumn.",
+          "ar": "تتغير أوراق الشجر في الخريف."
+        },
+        {
+          "en": "Autumn afternoons are great for reading outside.",
+          "ar": "فترة ما بعد الظهيرة في الخريف رائعة للقراءة في الخارج."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_away",
+      "lessonId": "lsn_a1_a_3",
+      "en": "away",
+      "translation": "بعيد / على بعد",
+      "ar": "بعيد / على بعد",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The beach is two miles away.",
+          "ar": "يقع الشاطئ على بعد ميلين."
+        },
+        {
+          "en": "His house is far away from the city center.",
+          "ar": "منزله بعيد عن وسط المدينة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈweɪ/"
+    }
+  ]
+}

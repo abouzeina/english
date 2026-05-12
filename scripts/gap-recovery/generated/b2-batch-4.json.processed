@@ -1,0 +1,602 @@
+[
+  {
+    "en": "lyric",
+    "translation": "كلمات الأغنية / غنائي",
+    "ipa": "/ˈlɪrɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The lyrics of the song are very poetic.",
+        "ar": "كلمات الأغنية شاعرية جداً."
+      }
+    ]
+  },
+  {
+    "en": "making",
+    "translation": "صنع / تكوين",
+    "ipa": "/ˈmeɪkɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The project has been years in the making.",
+        "ar": "استغرق المشروع سنوات في طور التكوين."
+      }
+    ]
+  },
+  {
+    "en": "manufacture",
+    "translation": "يصنع / إنتاج",
+    "ipa": "/ˌmænjuˈfæktʃə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company manufactures car parts.",
+        "ar": "تصنع الشركة قطع غيار السيارات."
+      }
+    ]
+  },
+  {
+    "en": "mineral",
+    "translation": "معدن / معدني",
+    "ipa": "/ˈmɪnərəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Milk is rich in vitamins and minerals.",
+        "ar": "الحليب غني بالفيتامينات والمعادن."
+      }
+    ]
+  },
+  {
+    "en": "notebook",
+    "translation": "دفتر ملاحظات",
+    "ipa": "/ˈnəʊtbʊk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She wrote the phone number in her notebook.",
+        "ar": "كتبت رقم الهاتف في دفتر ملاحظاتها."
+      }
+    ]
+  },
+  {
+    "en": "obligation",
+    "translation": "التزام / واجب",
+    "ipa": "/ˌɒblɪˈɡeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We have a moral obligation to help others.",
+        "ar": "علينا التزام أخلاقي بمساعدة الآخرين."
+      }
+    ]
+  },
+  {
+    "en": "occupy",
+    "translation": "يشغل / يحتل",
+    "ipa": "/ˈɒkjupaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The office occupies the top floor of the building.",
+        "ar": "يشغل المكتب الطابق العلوي من المبنى."
+      }
+    ]
+  },
+  {
+    "en": "overcome",
+    "translation": "يتغلب على",
+    "ipa": "/ˌəʊvəˈkʌm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She overcame her fear of heights.",
+        "ar": "تغلبت على خوفها من المرتفعات."
+      }
+    ]
+  },
+  {
+    "en": "peer",
+    "translation": "نظير / زميل / يحدق",
+    "ipa": "/pɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Children are often influenced by their peers.",
+        "ar": "غالباً ما يتأثر الأطفال بأقرانهم."
+      }
+    ]
+  },
+  {
+    "en": "potentially",
+    "translation": "من المحتمل / بشكل كامن",
+    "ipa": "/pəˈtenʃəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "This is a potentially dangerous situation.",
+        "ar": "هذا موقف قد يكون خطيراً."
+      }
+    ]
+  },
+  {
+    "en": "prohibit",
+    "translation": "يمنع / يحظر",
+    "ipa": "/prəˈhɪbɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The law prohibits smoking in public places.",
+        "ar": "القانون يحظر التدخين في الأماكن العامة."
+      }
+    ]
+  },
+  {
+    "en": "propose",
+    "translation": "يقترح / يخطب",
+    "ipa": "/prəˈpəʊz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He proposed a new plan for the company.",
+        "ar": "اقترح خطة جديدة للشركة."
+      }
+    ]
+  },
+  {
+    "en": "protester",
+    "translation": "متظاهر / محتج",
+    "ipa": "/prəˈtestə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Thousands of protesters gathered in the city center.",
+        "ar": "تجمع آلاف المتظاهرين في وسط المدينة."
+      }
+    ]
+  },
+  {
+    "en": "racial",
+    "translation": "عرقي / عنصري",
+    "ipa": "/ˈreɪʃl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The goal is to eliminate racial discrimination.",
+        "ar": "الهدف هو القضاء على التمييز العرقي."
+      }
+    ]
+  },
+  {
+    "en": "racism",
+    "translation": "عنصرية",
+    "ipa": "/ˈreɪsɪzəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We must all fight against racism.",
+        "ar": "يجب علينا جميعاً محاربة العنصرية."
+      }
+    ]
+  },
+  {
+    "en": "racist",
+    "translation": "عنصري",
+    "ipa": "/ˈreɪsɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was accused of making racist remarks.",
+        "ar": "اتُهم بالإدلاء بتعليقات عنصرية."
+      }
+    ]
+  },
+  {
+    "en": "radiation",
+    "translation": "إشعاع",
+    "ipa": "/ˌreɪdiˈeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The sun emits ultraviolet radiation.",
+        "ar": "تنبعث من الشمس الأشعة فوق البنفسجية."
+      }
+    ]
+  },
+  {
+    "en": "rail",
+    "translation": "سكك حديدية / سياج",
+    "ipa": "/reɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Travel by rail is becoming more expensive.",
+        "ar": "أصبح السفر عبر السكك الحديدية أكثر تكلفة."
+      }
+    ]
+  },
+  {
+    "en": "random",
+    "translation": "عشوائي",
+    "ipa": "/ˈrændəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The samples were chosen at random.",
+        "ar": "تم اختيار العينات بشكل عشوائي."
+      }
+    ]
+  },
+  {
+    "en": "rank",
+    "translation": "رتبة / يصنف",
+    "ipa": "/ræŋk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He holds the rank of captain in the army.",
+        "ar": "هو يحمل رتبة نقيب في الجيش."
+      }
+    ]
+  },
+  {
+    "en": "rapid",
+    "translation": "سريع",
+    "ipa": "/ˈræpɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company has seen rapid growth this year.",
+        "ar": "شهدت الشركة نمواً سريعاً هذا العام."
+      }
+    ]
+  },
+  {
+    "en": "rapidly",
+    "translation": "بسرعة",
+    "ipa": "/ˈræpɪdli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The technology is developing rapidly.",
+        "ar": "التكنولوجيا تتطور بسرعة."
+      }
+    ]
+  },
+  {
+    "en": "rat",
+    "translation": "جرذ / فأر كبير",
+    "ipa": "/ræt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There were rats in the old warehouse.",
+        "ar": "كانت هناك جرذان في المستودع القديم."
+      }
+    ]
+  },
+  {
+    "en": "rating",
+    "translation": "تقييم / تصنيف",
+    "ipa": "/ˈreɪtɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The hotel has a five-star rating.",
+        "ar": "الفندق حاصل على تقييم خمس نجوم."
+      }
+    ]
+  },
+  {
+    "en": "raw",
+    "translation": "خام / نيء",
+    "ipa": "/rɔː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country exports raw materials.",
+        "ar": "تصدر البلاد المواد الخام."
+      }
+    ]
+  },
+  {
+    "en": "realistic",
+    "translation": "واقعي",
+    "ipa": "/ˌrɪəˈlɪstɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need to set realistic goals.",
+        "ar": "نحن بحاجة إلى وضع أهداف واقعية."
+      }
+    ]
+  },
+  {
+    "en": "reasonable",
+    "translation": "معقول / منطقي",
+    "ipa": "/ˈriːznəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The price of the car was very reasonable.",
+        "ar": "كان سعر السيارة معقولاً جداً."
+      }
+    ]
+  },
+  {
+    "en": "reasonably",
+    "translation": "بشكل معقول / إلى حد ما",
+    "ipa": "/ˈriːznəbli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The exam was reasonably easy.",
+        "ar": "كان الامتحان سهلاً إلى حد ما."
+      }
+    ]
+  },
+  {
+    "en": "rebuild",
+    "translation": "يعيد بناء",
+    "ipa": "/ˌriːˈbɪld/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The city was rebuilt after the earthquake.",
+        "ar": "أُعيد بناء المدينة بعد الزلزال."
+      }
+    ]
+  },
+  {
+    "en": "recall",
+    "translation": "يتذكر / يستدعي",
+    "ipa": "/rɪˈkɔːl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I can't recall his name right now.",
+        "ar": "لا أستطيع تذكر اسمه الآن."
+      }
+    ]
+  },
+  {
+    "en": "receiver",
+    "translation": "مستقبل / جهاز استقبال",
+    "ipa": "/rɪˈsiːvə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please pick up the receiver.",
+        "ar": "يرجى رفع سماعة الهاتف (جهاز الاستقبال)."
+      }
+    ]
+  },
+  {
+    "en": "recession",
+    "translation": "ركود اقتصادي",
+    "ipa": "/rɪˈseʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country is in a deep recession.",
+        "ar": "تعيش البلاد في ركود عميق."
+      }
+    ]
+  },
+  {
+    "en": "reckon",
+    "translation": "يعتقد / يقدر",
+    "ipa": "/ˈrekən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I reckon it will take about two hours.",
+        "ar": "أقدر أن الأمر سيستغرق حوالي ساعتين."
+      }
+    ]
+  },
+  {
+    "en": "recovery",
+    "translation": "تعافٍ / استعادة",
+    "ipa": "/rɪˈkʌvəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He made a full recovery after the operation.",
+        "ar": "تماثل للشفاء التام بعد العملية."
+      }
+    ]
+  },
+  {
+    "en": "refugee",
+    "translation": "لاجئ",
+    "ipa": "/ˌrefjuˈdʒiː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Thousands of refugees are fleeing the war.",
+        "ar": "آلاف اللاجئين يفرون من الحرب."
+      }
+    ]
+  },
+  {
+    "en": "regulate",
+    "translation": "ينظم / يضبط",
+    "ipa": "/ˈreɡjuleɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government regulates the banking industry.",
+        "ar": "تنظم الحكومة قطاع المصارف."
+      }
+    ]
+  },
+  {
+    "en": "rely",
+    "translation": "يعتمد على",
+    "ipa": "/rɪˈlaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You can rely on him to do a good job.",
+        "ar": "يمكنك الاعتماد عليه للقيام بعمل جيد."
+      }
+    ]
+  },
+  {
+    "en": "remarkably",
+    "translation": "بشكل لافت / بشكل ملحوظ",
+    "ipa": "/rɪˈmɑːkəbli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The results were remarkably good.",
+        "ar": "كانت النتائج جيدة بشكل ملحوظ."
+      }
+    ]
+  },
+  {
+    "en": "requirement",
+    "translation": "شرط / متطلب",
+    "ipa": "/rɪˈkwaɪəmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Good communication skills are a requirement for this job.",
+        "ar": "مهارات التواصل الجيدة هي مطلب لهذا العمل."
+      }
+    ]
+  },
+  {
+    "en": "rescue",
+    "translation": "ينقذ / إنقاذ",
+    "ipa": "/ˈreskjuː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The pilot was rescued from the sea.",
+        "ar": "تم إنقاذ الطيار من البحر."
+      }
+    ]
+  },
+  {
+    "en": "reserve",
+    "translation": "يحجز / احتياطي",
+    "ipa": "/rɪˈzɜːv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I'd like to reserve a table for two.",
+        "ar": "أود حجز طاولة لشخصين."
+      }
+    ]
+  },
+  {
+    "en": "resident",
+    "translation": "مقيم / ساكن",
+    "ipa": "/ˈrezɪdənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The local residents are happy with the new park.",
+        "ar": "المقيمون المحليون سعداء بالمنتزه الجديد."
+      }
+    ]
+  },
+  {
+    "en": "resign",
+    "translation": "يستقيل",
+    "ipa": "/rɪˈzaɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He resigned from his post as manager.",
+        "ar": "استقال من منصب المدير."
+      }
+    ]
+  },
+  {
+    "en": "resist",
+    "translation": "يقاوم",
+    "ipa": "/rɪˈzɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I couldn't resist the chocolate cake.",
+        "ar": "لم أستطع مقاومة كعكة الشوكولاتة."
+      }
+    ]
+  },
+  {
+    "en": "resolution",
+    "translation": "قرار / دقة / حل",
+    "ipa": "/ˌrezəˈluːʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He made a New Year's resolution to exercise more.",
+        "ar": "اتخذ قراراً مع بداية العام الجديد بممارسة المزيد من الرياضة."
+      }
+    ]
+  },
+  {
+    "en": "resolve",
+    "translation": "يحل / يحسم",
+    "ipa": "/rɪˈzɒlv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They are working to resolve the conflict peacefully.",
+        "ar": "إنهم يعملون على حل النزاع سلمياً."
+      }
+    ]
+  },
+  {
+    "en": "resort",
+    "translation": "منتجع / يلجأ إلى",
+    "ipa": "/rɪˈzɔːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We stayed at a beautiful seaside resort.",
+        "ar": "أقمنا في منتجع جميل على شاطئ البحر."
+      }
+    ]
+  },
+  {
+    "en": "restore",
+    "translation": "يستعيد / يرمم",
+    "ipa": "/rɪˈstɔː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The old painting has been carefully restored.",
+        "ar": "تم ترميم اللوحة القديمة بعناية."
+      }
+    ]
+  },
+  {
+    "en": "restrict",
+    "translation": "يقيد / يحصر",
+    "ipa": "/rɪˈstrɪkt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new law restricts the use of pesticides.",
+        "ar": "القانون الجديد يقيد استخدام المبيدات الحشرية."
+      }
+    ]
+  },
+  {
+    "en": "restriction",
+    "translation": "قيد / حظر",
+    "ipa": "/rɪˈstrɪkʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There are strict restrictions on travel.",
+        "ar": "هناك قيود صارمة على السفر."
+      }
+    ]
+  }
+]

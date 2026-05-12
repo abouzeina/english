@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_t_1",
   "levelId": "lvl_c1",
-  "title": "Unit 43: T Words - Part 1",
+  "title": "Unit 62: T Words - Part 1",
   "slug": "t-words-1",
-  "order": 43,
+  "order": 62,
   "wordCount": 21,
-  "titleAr": "الوحدة 43: كلمات حرف T - الجزء 1",
+  "titleAr": "الوحدة 62: كلمات حرف T - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter T.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف T.",
   "words": [
@@ -225,6 +225,29 @@
       "ipa": "/tə.ˈreɪn/"
     },
     {
+      "id": "w_c1_terrific",
+      "lessonId": "lsn_c1_t_1",
+      "en": "terrific",
+      "ar": "رائع / عظيم / هائل",
+      "translation": "رائع / عظيم / هائل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You've done a terrific job!",
+          "ar": "لقد قمت بعمل رائع!"
+        }
+      ],
+      "ipa": "/təˈrɪfɪk/"
+    },
+    {
       "id": "w_c1_testify",
       "en": "testify",
       "ar": "يشهد",
@@ -433,28 +456,6 @@
         {
           "en": "كان الفيلم الوثائقي مثيراً جداً للتفكير وغنياً بالمعلومات.",
           "ar": "The professor gave a thought-provoking lecture on ethics."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_thoughtful",
-      "en": "thoughtful",
-      "ar": "مراعٍ للآخرين / متأمل",
-      "pronunciation": "ˈθɔːtfl",
-      "lessonId": "lsn_c1_t_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كان من اللطيف جداً منك (مراعاة منك) إرسال الزهور.",
-          "ar": "He sat in silence with a thoughtful expression on his face."
         }
       ],
       "type": "word",

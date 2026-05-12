@@ -1,14 +1,278 @@
 {
   "id": "lsn_c1_s_3",
   "levelId": "lvl_c1",
-  "title": "Unit 40: S Words - Part 3",
+  "title": "Unit 58: S Words - Part 3",
   "slug": "s-words-3",
-  "order": 40,
-  "wordCount": 24,
-  "titleAr": "الوحدة 40: كلمات حرف S - الجزء 3",
+  "order": 58,
+  "wordCount": 23,
+  "titleAr": "الوحدة 58: كلمات حرف S - الجزء 3",
   "description": "Master essential C1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_c1_snap",
+      "en": "snap",
+      "ar": "يكسر بسرعة / يفرقع",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "انكسر الغصن الجاف تحت ثقله.",
+          "ar": "He snapped his fingers to get the waiter's attention."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/snæp/"
+    },
+    {
+      "id": "w_c1_soak",
+      "en": "soak",
+      "ar": "ينقع / يغمر",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك نقع الفاصوليا طوال الليل قبل الطهي.",
+          "ar": "His clothes were soaked through by the heavy rain."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səʊk/"
+    },
+    {
+      "id": "w_c1_soar",
+      "en": "soar",
+      "ar": "يحلق / يرتفع عالياً",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدأ النسر يحلق عالياً فوق الجبال.",
+          "ar": "Stock prices are expected to soar next month."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɔː/"
+    },
+    {
+      "id": "w_c1_socialist",
+      "en": "socialist",
+      "ar": "اشتراكي",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمتلك الحزب مبادئ اشتراكية قوية.",
+          "ar": "He joined a socialist organization during his university years."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsəʊʃəlɪst/"
+    },
+    {
+      "id": "w_c1_sole",
+      "en": "sole",
+      "ar": "وحيد / منفرد",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان الناجي الوحيد من تحطم الطائرة.",
+          "ar": "The company is under the sole management of the CEO."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səʊl/"
+    },
+    {
+      "id": "w_c1_solely",
+      "en": "solely",
+      "ar": "فقط / حصرياً",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اعتمد القرار حصرياً على العوامل الاقتصادية.",
+          "ar": "He is solely responsible for the success of the project."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsəʊl.li/"
+    },
+    {
+      "id": "w_c1_solicitor",
+      "en": "solicitor",
+      "ar": "محامٍ",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك استشارة محامٍ قبل توقيع العقد.",
+          "ar": "The solicitor prepared all the necessary legal documents."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səˈlɪsɪtə/"
+    },
+    {
+      "id": "w_c1_solidarity",
+      "en": "solidarity",
+      "ar": "تضامن",
+      "pronunciation": "ˌsɒlɪˈdærəti",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أظهر المجتمع تضامناً مع الضحايا.",
+          "ar": "Workers went on strike in solidarity with their colleagues."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_solo",
+      "en": "solo",
+      "ar": "منفرد / فردي",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أدت رقصة منفردة على المسرح.",
+          "ar": "The pilot completed his first solo flight yesterday."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsoʊ.loʊ/"
+    },
+    {
+      "id": "w_c1_sovereignty",
+      "en": "sovereignty",
+      "ar": "سيادة",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قاتلت الأمة بجد لحماية سيادتها.",
+          "ar": "The treaty recognizes the sovereignty of each state."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɒv.ɹən.ti/"
+    },
+    {
+      "id": "w_c1_spam",
+      "en": "spam",
+      "ar": "رسائل مزعجة",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "صندوق الوارد الخاص بي مليء برسائل البريد الإلكتروني المزعجة غير المرغوب فيها.",
+          "ar": "The filter helps to block most of the spam."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈspæm/"
+    },
+    {
+      "id": "w_c1_span",
+      "en": "span",
+      "ar": "يمتد / مدى",
+      "lessonId": "lsn_c1_s_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "امتدت حياته المهنية لأكثر من أربعين عاماً.",
+          "ar": "The bridge has a span of several hundred meters."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/spæn/"
+    },
     {
       "id": "w_c1_spare",
       "en": "spare",
@@ -250,292 +514,6 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_spouse",
-      "en": "spouse",
-      "ar": "زوج أو زوجة",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "الموظفون مدعوون لإحضار أزواجهم إلى الحفلة.",
-          "ar": "He lives with his spouse and two children."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/spaʊs/"
-    },
-    {
-      "id": "w_c1_spy",
-      "en": "spy",
-      "ar": "يتجسس / جاسوس",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تم القبض عليه وهو يحاول التجسس على القاعدة العسكرية.",
-          "ar": "She worked as a spy during the war."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/spaɪ/"
-    },
-    {
-      "id": "w_c1_squad",
-      "en": "squad",
-      "ar": "فرقة / مجموعة",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "وصلت فرقة الشرطة بسرعة إلى مسرح الجريمة.",
-          "ar": "He was selected to join the national football squad."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈskwɒd/"
-    },
-    {
-      "id": "w_c1_squeeze",
-      "en": "squeeze",
-      "ar": "يعصر / يضغط",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تمكنت من عصر بعض العصير الطازج من البرتقالة.",
-          "ar": "We tried to squeeze five people into the small car."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/skwiːz/"
-    },
-    {
-      "id": "w_c1_stab",
-      "en": "stab",
-      "ar": "يطعن",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "حاول طعن المهاجم بسكين.",
-          "ar": "She felt a sharp stab of pain in her back."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/stæb/"
-    },
-    {
-      "id": "w_c1_stability",
-      "en": "stability",
-      "ar": "استقرار",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تسعى البلاد لتحقيق الاستقرار السياسي والاقتصادي.",
-          "ar": "The new laws were designed to ensure financial stability."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/stəˈbɪlɪti/"
-    },
-    {
-      "id": "w_c1_stabilize",
-      "en": "stabilize",
-      "ar": "يستقر / يثبت",
-      "pronunciation": "ˈsteɪbəlaɪz",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يحاول الأطباء تثبيت حالة المريض.",
-          "ar": "Prices began to stabilize after the long inflation period."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_stake",
-      "en": "stake",
-      "ar": "حصة / رهينة",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "لديه حصة شخصية في نجاح الشركة.",
-          "ar": "The reputation of the brand is at stake."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/steɪk/"
-    },
-    {
-      "id": "w_c1_standing",
-      "en": "standing",
-      "ar": "مكانة / دائم",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تتمتع بمكانة اجتماعية عالية في المجتمع.",
-          "ar": "The group has a standing invitation to use the facility."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈstændɪŋ/"
-    },
-    {
-      "id": "w_c1_stark",
-      "en": "stark",
-      "ar": "صارخ / قاسي",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "هناك تباين صارخ بين الحيين.",
-          "ar": "The island has a stark, desolate beauty."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/stɑːk/"
-    },
-    {
-      "id": "w_c1_statistical",
-      "en": "statistical",
-      "ar": "إحصائي",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يوفر التقرير بيانات إحصائية عن السكان.",
-          "ar": "There is no statistical evidence to support this claim."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/stəˈtɪstɪkəl/"
-    },
-    {
-      "id": "w_c1_steer",
-      "en": "steer",
-      "ar": "يقود / يوجه",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "من الصعب توجيه القارب في الرياح القوية.",
-          "ar": "The teacher tried to steer the conversation back to the topic."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/stɪə(ɹ)/"
-    },
-    {
-      "id": "w_c1_storage",
-      "en": "storage",
-      "ar": "تخزين",
-      "lessonId": "lsn_c1_s_3",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تم الاحتفاظ بالأثاث في وحدة تخزين لعدة أشهر.",
-          "ar": "The phone has 128 gigabytes of internal storage. يحتوي الهاتف على 128 غيغابايت من سعة التخزين الداخلية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈstɔ.ɹɪd͡ʒ/"
     }
   ]
 }

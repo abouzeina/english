@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_g_2",
   "levelId": "lvl_b2",
-  "title": "Unit 22: G Words - Part 2",
+  "title": "Unit 28: G Words - Part 2",
   "slug": "g-words-2",
-  "order": 22,
-  "wordCount": 16,
-  "titleAr": "الوحدة 22: كلمات حرف G - الجزء 2",
+  "order": 28,
+  "wordCount": 18,
+  "titleAr": "الوحدة 28: كلمات حرف G - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter G.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف G.",
   "words": [
@@ -118,6 +118,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈɡʌv(ə)nə(ɹ)/"
+    },
+    {
+      "id": "w_b2_grab",
+      "lessonId": "lsn_b2_g_2",
+      "en": "grab",
+      "ar": "يمسك / يختطف",
+      "translation": "يمسك / يختطف",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He grabbed his bag and ran to the station.",
+          "ar": "أمسك حقيبته وركض إلى المحطة."
+        }
+      ],
+      "ipa": "/ɡræb/"
     },
     {
       "id": "w_b2_grabbed",
@@ -346,6 +369,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_guideline",
+      "lessonId": "lsn_b2_g_2",
+      "en": "guideline",
+      "ar": "مبدأ توجيهي / إرشاد",
+      "translation": "مبدأ توجيهي / إرشاد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government has issued new health guidelines.",
+          "ar": "أصدرت الحكومة إرشادات صحية جديدة."
+        }
+      ],
+      "ipa": "/ˈɡaɪdlaɪn/"
     },
     {
       "id": "w_b2_guidelines",

@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_p_2",
   "levelId": "lvl_a1",
-  "title": "Unit 32: P Words - Part 2",
+  "title": "Unit 34: P Words - Part 2",
   "slug": "p-words-2",
-  "order": 32,
-  "wordCount": 20,
-  "titleAr": "الوحدة 32: كلمات حرف P - الجزء 2",
+  "order": 34,
+  "wordCount": 21,
+  "titleAr": "الوحدة 34: كلمات حرف P - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف P.",
   "words": [
@@ -484,6 +484,28 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/[pəˈliːs]/"
+    },
+    {
+      "id": "w_a1_policeman",
+      "lessonId": "lsn_a1_p_2",
+      "en": "policeman",
+      "translation": "شرطي",
+      "ar": "شرطي",
+      "pronunciation": "/pə'lis mən/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "I saw a policeman at school.",
+          "ar": "رأيت شرطياً في المدرسة."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
     }
   ]
 }

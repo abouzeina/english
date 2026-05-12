@@ -1,14 +1,36 @@
 {
   "id": "lsn_b2_m_2",
   "levelId": "lvl_b2",
-  "title": "Unit 33: M Words - Part 2",
+  "title": "Unit 40: M Words - Part 2",
   "slug": "m-words-2",
-  "order": 33,
-  "wordCount": 20,
-  "titleAr": "الوحدة 33: كلمات حرف M - الجزء 2",
+  "order": 40,
+  "wordCount": 21,
+  "titleAr": "الوحدة 40: كلمات حرف M - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter M.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف M.",
   "words": [
+    {
+      "id": "w_b2_mechanic",
+      "en": "mechanic",
+      "ar": "الميكانيكي",
+      "lessonId": "lsn_b2_m_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The mechanic recommended replacing the old tires.",
+          "ar": "أوصى الميكانيكي باستبدال الإطارات القديمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/məˈkænɪk/"
+    },
     {
       "id": "w_b2_mechanical",
       "en": "mechanical",
@@ -234,6 +256,29 @@
       "ipa": "/ˈmaɪnə/"
     },
     {
+      "id": "w_b2_mineral",
+      "lessonId": "lsn_b2_m_2",
+      "en": "mineral",
+      "ar": "معدن / معدني",
+      "translation": "معدن / معدني",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Milk is rich in vitamins and minerals.",
+          "ar": "الحليب غني بالفيتامينات والمعادن."
+        }
+      ],
+      "ipa": "/ˈmɪnərəl/"
+    },
+    {
       "id": "w_b2_minimum",
       "en": "minimum",
       "ar": "الحد الأدنى",
@@ -434,28 +479,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/məʊd/"
-    },
-    {
-      "id": "w_b2_modest",
-      "en": "modest",
-      "ar": "متواضعة",
-      "lessonId": "lsn_b2_m_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "She has modest ambitions for the future.",
-          "ar": "لديها طموحات متواضعة للمستقبل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈmɑdəst/"
     }
   ]
 }

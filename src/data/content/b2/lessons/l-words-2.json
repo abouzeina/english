@@ -1,0 +1,469 @@
+{
+  "id": "lsn_b2_l_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 38: L Words - Part 2",
+  "slug": "l-words-2",
+  "order": 38,
+  "wordCount": 20,
+  "titleAr": "الوحدة 38: كلمات حرف L - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter L.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف L.",
+  "words": [
+    {
+      "id": "w_b2_limitation",
+      "en": "limitation",
+      "ar": "محدوديته",
+      "lessonId": "lsn_b2_l_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His physical limitation affects his performance.",
+          "ar": "تؤثر محدوديته البدنية على ادائه."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/lɪmɪˈteɪʃən/"
+    },
+    {
+      "id": "w_b2_limited",
+      "en": "limited",
+      "ar": "محدودة",
+      "lessonId": "lsn_b2_l_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His knowledge is limited in this field.",
+          "ar": "معرفته محدودة في هذا المجال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɪmɪtɪd/"
+    },
+    {
+      "id": "w_b2_lined",
+      "en": "lined",
+      "ar": "بتبطين",
+      "lessonId": "lsn_b2_l_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I lined the sides of the box with fabric.",
+          "ar": "قمت بتبطين جوانب الصندوق بالقماش."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/laɪnd/"
+    },
+    {
+      "id": "w_b2_literally",
+      "en": "literally",
+      "ar": "حرفيا",
+      "lessonId": "lsn_b2_l_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The room is literally freezing cold.",
+          "ar": "الغرفة حرفيا متجمدة من البرد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈlɪtəɹəli/"
+    },
+    {
+      "id": "w_b2_literary",
+      "lessonId": "lsn_b2_l_2",
+      "en": "literary",
+      "ar": "أدبي",
+      "translation": "أدبي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is interested in literary criticism.",
+          "ar": "هي مهتمة بالنقد الأدبي."
+        }
+      ],
+      "ipa": "/ˈlɪtərəri/"
+    },
+    {
+      "id": "w_b2_litre",
+      "lessonId": "lsn_b2_l_2",
+      "en": "litre",
+      "ar": "لتر",
+      "translation": "لتر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I need to buy two litres of milk.",
+          "ar": "أحتاج لشراء لترين من الحليب."
+        }
+      ],
+      "ipa": "/ˈliːtə(r)/"
+    },
+    {
+      "id": "w_b2_litter",
+      "lessonId": "lsn_b2_l_2",
+      "en": "litter",
+      "ar": "نفايات / فضلات",
+      "translation": "نفايات / فضلات",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Please don't leave litter in the park.",
+          "ar": "يرجى عدم ترك النفايات في المنتزه."
+        }
+      ],
+      "ipa": "/ˈlɪtə(r)/"
+    },
+    {
+      "id": "w_b2_lively",
+      "lessonId": "lsn_b2_l_2",
+      "en": "lively",
+      "ar": "حيوي / مفعم بالنشاط",
+      "translation": "حيوي / مفعم بالنشاط",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The city has a lively nightlife.",
+          "ar": "تتمتع المدينة بحياة ليلية حيوية."
+        }
+      ],
+      "ipa": "/ˈlaɪvli/"
+    },
+    {
+      "id": "w_b2_load",
+      "lessonId": "lsn_b2_l_2",
+      "en": "load",
+      "ar": "حمل / شحنة",
+      "translation": "حمل / شحنة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The truck was carrying a heavy load of bricks.",
+          "ar": "كانت الشاحنة تحمل شحنة ثقيلة من الطوب."
+        }
+      ],
+      "ipa": "/ləʊd/"
+    },
+    {
+      "id": "w_b2_loan",
+      "lessonId": "lsn_b2_l_2",
+      "en": "loan",
+      "ar": "قرض",
+      "translation": "قرض",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He took out a loan to buy a new house.",
+          "ar": "أخذ قرضاً لشراء منزل جديد."
+        }
+      ],
+      "ipa": "/ləʊn/"
+    },
+    {
+      "id": "w_b2_logical",
+      "lessonId": "lsn_b2_l_2",
+      "en": "logical",
+      "ar": "منطقي",
+      "translation": "منطقي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "That seems like a logical conclusion.",
+          "ar": "يبدو ذلك استنتاجاً منطقياً."
+        }
+      ],
+      "ipa": "/ˈlɒdʒɪkl/"
+    },
+    {
+      "id": "w_b2_logo",
+      "lessonId": "lsn_b2_l_2",
+      "en": "logo",
+      "ar": "شعار",
+      "translation": "شعار",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company's logo is recognizable worldwide.",
+          "ar": "شعار الشركة معروف في جميع أنحاء العالم."
+        }
+      ],
+      "ipa": "/ˈləʊɡəʊ/"
+    },
+    {
+      "id": "w_b2_long_term",
+      "lessonId": "lsn_b2_l_2",
+      "en": "long-term",
+      "ar": "طويل الأمد",
+      "translation": "طويل الأمد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need a long-term solution to this problem.",
+          "ar": "نحن بحاجة إلى حل طويل الأمد لهذه المشكلة."
+        }
+      ],
+      "ipa": "/ˌlɒŋ ˈtɜːm/"
+    },
+    {
+      "id": "w_b2_loose",
+      "lessonId": "lsn_b2_l_2",
+      "en": "loose",
+      "ar": "فضفاض / مرتخٍ",
+      "translation": "فضفاض / مرتخٍ",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He wears loose clothing in the summer.",
+          "ar": "يرتدي ملابس فضفاضة في الصيف."
+        }
+      ],
+      "ipa": "/luːs/"
+    },
+    {
+      "id": "w_b2_lord",
+      "lessonId": "lsn_b2_l_2",
+      "en": "lord",
+      "ar": "لورد / سيد",
+      "translation": "لورد / سيد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The castle belonged to a powerful lord.",
+          "ar": "كانت القلعة تنتمي للورد قوي."
+        }
+      ],
+      "ipa": "/lɔːd/"
+    },
+    {
+      "id": "w_b2_lottery",
+      "lessonId": "lsn_b2_l_2",
+      "en": "lottery",
+      "ar": "يانصيب",
+      "translation": "يانصيب",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She won a million dollars in the lottery.",
+          "ar": "فازت بمليون دولار في اليانصيب."
+        }
+      ],
+      "ipa": "/ˈlɒtəri/"
+    },
+    {
+      "id": "w_b2_lower",
+      "lessonId": "lsn_b2_l_2",
+      "en": "lower",
+      "ar": "يخفض / أدنى",
+      "translation": "يخفض / أدنى",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The bank lowered its interest rates.",
+          "ar": "خفض البنك أسعار الفائدة."
+        }
+      ],
+      "ipa": "/ˈləʊə(r)/"
+    },
+    {
+      "id": "w_b2_loyal",
+      "lessonId": "lsn_b2_l_2",
+      "en": "loyal",
+      "ar": "وفي / مخلص",
+      "translation": "وفي / مخلص",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a very loyal friend.",
+          "ar": "هو صديق مخلص جداً."
+        }
+      ],
+      "ipa": "/ˈlɔɪəl/"
+    },
+    {
+      "id": "w_b2_lung",
+      "lessonId": "lsn_b2_l_2",
+      "en": "lung",
+      "ar": "رئة",
+      "translation": "رئة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Smoking can damage your lungs.",
+          "ar": "التدخين يمكن أن يضر برئتيك."
+        }
+      ],
+      "ipa": "/lʌŋ/"
+    },
+    {
+      "id": "w_b2_lyric",
+      "lessonId": "lsn_b2_l_2",
+      "en": "lyric",
+      "ar": "كلمات الأغنية / غنائي",
+      "translation": "كلمات الأغنية / غنائي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The lyrics of the song are very poetic.",
+          "ar": "كلمات الأغنية شاعرية جداً."
+        }
+      ],
+      "ipa": "/ˈlɪrɪk/"
+    }
+  ]
+}

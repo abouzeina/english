@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_f_1",
   "levelId": "lvl_a1",
-  "title": "Unit 13: F Words - Part 1",
+  "title": "Unit 14: F Words - Part 1",
   "slug": "f-words-1",
-  "order": 13,
-  "wordCount": 19,
-  "titleAr": "الوحدة 13: كلمات حرف F - الجزء 1",
+  "order": 14,
+  "wordCount": 20,
+  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter F.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف F.",
   "words": [
@@ -225,6 +225,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/fɑːɹm/"
+    },
+    {
+      "id": "w_a1_farmer",
+      "lessonId": "lsn_a1_f_1",
+      "en": "farmer",
+      "ar": "مزارع / فلاح",
+      "translation": "مزارع / فلاح",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The farmer grows vegetables on his land.",
+          "ar": "يزرع المزارع الخضروات في أرضه."
+        }
+      ],
+      "ipa": "/ˈfɑːmə(r)/"
     },
     {
       "id": "w_a1_farmers",

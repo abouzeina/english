@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_u",
   "levelId": "lvl_b1",
-  "title": "Unit 38: U Words",
+  "title": "Unit 42: U Words",
   "slug": "u-words",
-  "order": 38,
-  "wordCount": 16,
-  "titleAr": "الوحدة 38: كلمات حرف U",
+  "order": 42,
+  "wordCount": 18,
+  "titleAr": "الوحدة 42: كلمات حرف U",
   "description": "Master essential B1 vocabulary starting with the letter U.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف U.",
   "words": [
@@ -296,6 +296,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_update",
+      "lessonId": "lsn_b1_u",
+      "en": "update",
+      "ar": "تحديث",
+      "translation": "تحديث",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The software is regularly updated.",
+          "ar": "يتم تحديث البرنامج بانتظام."
+        }
+      ],
+      "ipa": "/ˌʌpˈdeɪt/"
+    },
+    {
       "id": "w_b1_updates",
       "en": "updates",
       "ar": "تحديثات / نحدث",
@@ -368,6 +391,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_used",
+      "lessonId": "lsn_b1_u",
+      "en": "used",
+      "ar": "مستخدم / مستعمل",
+      "translation": "مستخدم / مستعمل",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He bought a used car.",
+          "ar": "اشترى سيارة مستعملة."
+        }
+      ],
+      "ipa": "/juːzd/"
     }
   ]
 }

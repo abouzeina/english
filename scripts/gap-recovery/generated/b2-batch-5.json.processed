@@ -1,0 +1,602 @@
+[
+  {
+    "en": "retail",
+    "translation": "بيع بالتجزئة",
+    "ipa": "/ˈriːteɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The price is higher at the retail level.",
+        "ar": "السعر أعلى عند مستوى البيع بالتجزئة."
+      }
+    ]
+  },
+  {
+    "en": "retain",
+    "translation": "يحتفظ بـ / يستبقي",
+    "ipa": "/rɪˈteɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company tries to retain its best employees.",
+        "ar": "تحاول الشركة الاحتفاظ بأفضل موظفيها."
+      }
+    ]
+  },
+  {
+    "en": "retirement",
+    "translation": "تقاعد",
+    "ipa": "/rɪˈtaɪəmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is planning for his retirement.",
+        "ar": "إنه يخطط لتقاعده."
+      }
+    ]
+  },
+  {
+    "en": "reveal",
+    "translation": "يكشف / يظهر",
+    "ipa": "/rɪˈviːl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The investigation revealed a series of errors.",
+        "ar": "كشف التحقيق عن سلسلة من الأخطاء."
+      }
+    ]
+  },
+  {
+    "en": "revenue",
+    "translation": "إيرادات / دخل",
+    "ipa": "/ˈrevənjuː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government's main source of revenue is taxes.",
+        "ar": "المصدر الرئيسي لإيرادات الحكومة هو الضرائب."
+      }
+    ]
+  },
+  {
+    "en": "revision",
+    "translation": "مراجعة / تعديل",
+    "ipa": "/rɪˈvɪʒn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The student is doing revision for the exam.",
+        "ar": "الطالب يقوم بالمراجعة للامتحان."
+      }
+    ]
+  },
+  {
+    "en": "revolution",
+    "translation": "ثورة / دوران",
+    "ipa": "/ˌrevəˈluːʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The French Revolution began in 1789.",
+        "ar": "بدأت الثورة الفرنسية في عام ألف وسبعمائة وتسعة وثمانين."
+      }
+    ]
+  },
+  {
+    "en": "reward",
+    "translation": "مكافأة / يكافئ",
+    "ipa": "/rɪˈwɔːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He received a reward for his honesty.",
+        "ar": "حصل على مكافأة لأمانته."
+      }
+    ]
+  },
+  {
+    "en": "robbery",
+    "translation": "سرقة / سطو",
+    "ipa": "/ˈrɒbəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There was an armed robbery at the bank.",
+        "ar": "كان هناك سطو مسلح في البنك."
+      }
+    ]
+  },
+  {
+    "en": "root",
+    "translation": "جذر / أصل",
+    "ipa": "/ruːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need to get to the root of the problem.",
+        "ar": "نحن بحاجة للوصول إلى أصل المشكلة."
+      }
+    ]
+  },
+  {
+    "en": "rose",
+    "translation": "وردة / زهرة",
+    "ipa": "/rəʊz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She planted some red roses in the garden.",
+        "ar": "زرعت بعض الورود الحمراء في الحديقة."
+      }
+    ]
+  },
+  {
+    "en": "rub",
+    "translation": "يفرك / يدلك",
+    "ipa": "/rʌb/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He rubbed his eyes and yawned.",
+        "ar": "فرك عينيه وتثاءب."
+      }
+    ]
+  },
+  {
+    "en": "ruin",
+    "translation": "يدمر / يفسد / أطلال",
+    "ipa": "/ˈruːɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The heavy rain ruined the crops.",
+        "ar": "دمر المطر الغزير المحاصيل."
+      }
+    ]
+  },
+  {
+    "en": "satisfaction",
+    "translation": "رضا / قناعة",
+    "ipa": "/ˌsætɪsˈfækʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Job satisfaction is very important.",
+        "ar": "الرضا الوظيفي مهم جداً."
+      }
+    ]
+  },
+  {
+    "en": "satisfied",
+    "translation": "راضٍ / مقتنع",
+    "ipa": "/ˈsætɪsfaɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Are you satisfied with the service?",
+        "ar": "هل أنت راضٍ عن الخدمة؟"
+      }
+    ]
+  },
+  {
+    "en": "satisfy",
+    "translation": "يرضي / يلبي",
+    "ipa": "/ˈsætɪsfaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The food was not enough to satisfy his hunger.",
+        "ar": "لم يكن الطعام كافياً لإشباع جوعه."
+      }
+    ]
+  },
+  {
+    "en": "saving",
+    "translation": "توفير / ادخار",
+    "ipa": "/ˈseɪvɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He puts his savings into a special bank account.",
+        "ar": "يضع مدخراته في حساب بنكي خاص."
+      }
+    ]
+  },
+  {
+    "en": "screening",
+    "translation": "فحص / عرض (فيلم)",
+    "ipa": "/ˈskriːnɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Health screening can help detect diseases early.",
+        "ar": "يمكن للفحص الصحي أن يساعد في اكتشاف الأمراض مبكراً."
+      }
+    ]
+  },
+  {
+    "en": "seeker",
+    "translation": "باحث عن / طالب",
+    "ipa": "/ˈsiːkə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There are many job seekers in the market.",
+        "ar": "هناك العديد من الباحثين عن عمل في السوق."
+      }
+    ]
+  },
+  {
+    "en": "settler",
+    "translation": "مستوطن",
+    "ipa": "/ˈsetlə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The first European settlers arrived in the 17th century.",
+        "ar": "وصل المستوطنون الأوروبيون الأوائل في القرن السابع عشر."
+      }
+    ]
+  },
+  {
+    "en": "severely",
+    "translation": "بشدة / بقسوة",
+    "ipa": "/sɪˈvɪəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The building was severely damaged in the storm.",
+        "ar": "تضرر المبنى بشدة في العاصفة."
+      }
+    ]
+  },
+  {
+    "en": "shaped",
+    "translation": "مشكل / على شكل",
+    "ipa": "/ʃeɪpt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The pool is shaped like a kidney.",
+        "ar": "المسبح مصمم على شكل كلية."
+      }
+    ]
+  },
+  {
+    "en": "shocked",
+    "translation": "مصدوم",
+    "ipa": "/ʃɒkt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We were shocked by the news of his death.",
+        "ar": "صُدمنا بخبر وفاته."
+      }
+    ]
+  },
+  {
+    "en": "shocking",
+    "translation": "صادم",
+    "ipa": "/ˈʃɒkɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The report revealed some shocking facts.",
+        "ar": "كشف التقرير عن بعض الحقائق الصادمة."
+      }
+    ]
+  },
+  {
+    "en": "sibling",
+    "translation": "شقيق / أخ أو أخت",
+    "ipa": "/ˈsɪblɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Do you have any siblings?",
+        "ar": "هل لديك أي أشقاء؟"
+      }
+    ]
+  },
+  {
+    "en": "significantly",
+    "translation": "بشكل ملحوظ / بشكل كبير",
+    "ipa": "/sɪɡˈnɪfɪkəntli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The price has increased significantly.",
+        "ar": "ارتفع السعر بشكل ملحوظ."
+      }
+    ]
+  },
+  {
+    "en": "slave",
+    "translation": "عبد",
+    "ipa": "/sleɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Slavery was abolished in the 19th century.",
+        "ar": "أُلغيت العبودية في القرن التاسع عشر."
+      }
+    ]
+  },
+  {
+    "en": "spectator",
+    "translation": "متفرج / مشاهد",
+    "ipa": "/spekˈteɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Thousands of spectators watched the race.",
+        "ar": "شاهد آلاف المتفرجين السباق."
+      }
+    ]
+  },
+  {
+    "en": "speculation",
+    "translation": "تخمين / مضاربة",
+    "ipa": "/ˌspekjuˈleɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There has been a lot of speculation about his future.",
+        "ar": "كان هناك الكثير من التكهنات حول مستقبله."
+      }
+    ]
+  },
+  {
+    "en": "spice",
+    "translation": "توابل / بهارات",
+    "ipa": "/spaɪs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The dish is flavoured with many different spices.",
+        "ar": "الطبق منكه بالعديد من التوابل المختلفة."
+      }
+    ]
+  },
+  {
+    "en": "spill",
+    "translation": "يسكب / يدلق",
+    "ipa": "/spɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Be careful not to spill your coffee.",
+        "ar": "كن حذراً حتى لا تسكب قهوتك."
+      }
+    ]
+  },
+  {
+    "en": "spokesperson",
+    "translation": "متحدث رسمي",
+    "ipa": "/ˈspəʊkspɜːsn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "A spokesperson for the company denied the rumours.",
+        "ar": "نفى متحدث باسم الشركة الشائعات."
+      }
+    ]
+  },
+  {
+    "en": "spokeswoman",
+    "translation": "متحدثة رسمية",
+    "ipa": "/ˈspəʊkswʊmən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is the spokeswoman for the government.",
+        "ar": "هي المتحدثة الرسمية باسم الحكومة."
+      }
+    ]
+  },
+  {
+    "en": "sponsorship",
+    "translation": "رعاية / تمويل",
+    "ipa": "/ˈspɒnsəʃɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The event was organized with the help of sponsorship.",
+        "ar": "نُظم الحدث بمساعدة الرعاية."
+      }
+    ]
+  },
+  {
+    "en": "stare",
+    "translation": "يحدق",
+    "ipa": "/steə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It's rude to stare at people.",
+        "ar": "من الوقاحة التحديق في الناس."
+      }
+    ]
+  },
+  {
+    "en": "steadily",
+    "translation": "بثبات / بانتظام",
+    "ipa": "/ˈstedəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The population is increasing steadily.",
+        "ar": "السكان يتزايدون بثبات."
+      }
+    ]
+  },
+  {
+    "en": "stretch",
+    "translation": "يمدد / يتمدد",
+    "ipa": "/stretʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He stretched his arms and legs.",
+        "ar": "مدد ذراعيه وساقيه."
+      }
+    ]
+  },
+  {
+    "en": "strictly",
+    "translation": "بصرامة / بدقة",
+    "ipa": "/ˈstrɪktli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The rules must be strictly followed.",
+        "ar": "يجب اتباع القواعد بصرامة."
+      }
+    ]
+  },
+  {
+    "en": "striking",
+    "translation": "لافت للنظر / مذهل",
+    "ipa": "/ˈstraɪkɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The similarity between the two brothers is striking.",
+        "ar": "التشابه بين الأخوين مذهل."
+      }
+    ]
+  },
+  {
+    "en": "stroke",
+    "translation": "سكتة دماغية / جرة / لمسة",
+    "ipa": "/strəʊk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He suffered a stroke last year.",
+        "ar": "أُصيب بسكتة دماغية العام الماضي."
+      }
+    ]
+  },
+  {
+    "en": "subsequently",
+    "translation": "لاحقاً / بعد ذلك",
+    "ipa": "/ˈsʌbsɪkwəntli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The decision was subsequently changed.",
+        "ar": "تم تغيير القرار لاحقاً."
+      }
+    ]
+  },
+  {
+    "en": "sufficiently",
+    "translation": "بشكل كافٍ",
+    "ipa": "/səˈfɪʃntli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Make sure you are sufficiently prepared.",
+        "ar": "تأكد من أنك مستعد بشكل كافٍ."
+      }
+    ]
+  },
+  {
+    "en": "surrounding",
+    "translation": "محيط",
+    "ipa": "/səˈraʊndɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The surrounding countryside is beautiful.",
+        "ar": "الريف المحيط جميل."
+      }
+    ]
+  },
+  {
+    "en": "survivor",
+    "translation": "ناجٍ",
+    "ipa": "/səˈvaɪvə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There were only a few survivors of the crash.",
+        "ar": "لم يكن هناك سوى عدد قليل من الناجين من الحادث."
+      }
+    ]
+  },
+  {
+    "en": "suspend",
+    "translation": "يعلق / يوقف مؤقتاً",
+    "ipa": "/səˈspend/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The ferry service has been suspended due to the storm.",
+        "ar": "تم تعليق خدمة العبارات بسبب العاصفة."
+      }
+    ]
+  },
+  {
+    "en": "swallow",
+    "translation": "يبتلع / طائر السنونو",
+    "ipa": "/ˈswɒləʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Chew your food properly before you swallow it.",
+        "ar": "امضغ طعامك جيداً قبل أن تبتلعه."
+      }
+    ]
+  },
+  {
+    "en": "swear",
+    "translation": "يقسم / يشتم",
+    "ipa": "/sweə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I swear that I'm telling the truth.",
+        "ar": "أقسم أنني أقول الحقيقة."
+      }
+    ]
+  },
+  {
+    "en": "sweep",
+    "translation": "يكنس",
+    "ipa": "/swiːp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She swept the floor with a broom.",
+        "ar": "كنست الأرض بالمكنسة."
+      }
+    ]
+  },
+  {
+    "en": "sympathetic",
+    "translation": "متعاطف",
+    "ipa": "/ˌsɪmpəˈθetɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was very sympathetic when I lost my job.",
+        "ar": "كان متعاطفاً جداً عندما فقدت عملي."
+      }
+    ]
+  },
+  {
+    "en": "tackle",
+    "translation": "يتعامل مع / يعالج",
+    "ipa": "/ˈtækl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need to tackle the problem of pollution.",
+        "ar": "نحن بحاجة للتعامل مع مشكلة التلوث."
+      }
+    ]
+  }
+]

@@ -1,14 +1,37 @@
 {
   "id": "lsn_b2_w_2",
   "levelId": "lvl_b2",
-  "title": "Unit 55: W Words - Part 2",
+  "title": "Unit 69: W Words - Part 2",
   "slug": "w-words-2",
-  "order": 55,
-  "wordCount": 13,
-  "titleAr": "الوحدة 55: كلمات حرف W - الجزء 2",
+  "order": 69,
+  "wordCount": 17,
+  "titleAr": "الوحدة 69: كلمات حرف W - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter W.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف W.",
   "words": [
+    {
+      "id": "w_b2_widespread",
+      "lessonId": "lsn_b2_w_2",
+      "en": "widespread",
+      "ar": "واسع الانتشار",
+      "translation": "واسع الانتشار",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The use of computers is now widespread.",
+          "ar": "أصبح استخدام أجهزة الكمبيوتر الآن واسع الانتشار."
+        }
+      ],
+      "ipa": "/ˈwaɪdspred/"
+    },
     {
       "id": "w_b2_wildlife",
       "en": "wildlife",
@@ -129,6 +152,29 @@
       "ipa": "/ˈwɪzdəm/"
     },
     {
+      "id": "w_b2_wise",
+      "lessonId": "lsn_b2_w_2",
+      "en": "wise",
+      "ar": "حكيم",
+      "translation": "حكيم",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "That was a very wise decision.",
+          "ar": "كان ذلك قراراً حكيماً للغاية."
+        }
+      ],
+      "ipa": "/waɪz/"
+    },
+    {
       "id": "w_b2_withdraw",
       "en": "withdraw",
       "ar": "أسحب",
@@ -197,6 +243,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈwɜːk.ʃɒp/"
+    },
+    {
+      "id": "w_b2_worm",
+      "lessonId": "lsn_b2_w_2",
+      "en": "worm",
+      "ar": "دودة",
+      "translation": "دودة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Birds like to eat worms.",
+          "ar": "الطيور تحب أكل الديدان."
+        }
+      ],
+      "ipa": "/wɜːm/"
     },
     {
       "id": "w_b2_worms",
@@ -282,6 +351,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/wuːnd/"
+    },
+    {
+      "id": "w_b2_wrap",
+      "lessonId": "lsn_b2_w_2",
+      "en": "wrap",
+      "ar": "يلف / يغلف",
+      "translation": "يلف / يغلف",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He wrapped the present in colourful paper.",
+          "ar": "لف الهدية بورق ملون."
+        }
+      ],
+      "ipa": "/ræp/"
     },
     {
       "id": "w_b2_wrapped",

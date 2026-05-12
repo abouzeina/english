@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_v_1",
   "levelId": "lvl_c1",
-  "title": "Unit 47: V Words - Part 1",
+  "title": "Unit 66: V Words - Part 1",
   "slug": "v-words-1",
-  "order": 47,
-  "wordCount": 13,
-  "titleAr": "الوحدة 47: كلمات حرف V - الجزء 1",
+  "order": 66,
+  "wordCount": 14,
+  "titleAr": "الوحدة 66: كلمات حرف V - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter V.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف V.",
   "words": [
@@ -272,6 +272,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_versus",
+      "lessonId": "lsn_c1_v_1",
+      "en": "versus",
+      "ar": "ضد / مقابل",
+      "translation": "ضد / مقابل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The match was France versus Italy.",
+          "ar": "كانت المباراة فرنسا ضد إيطاليا."
+        }
+      ],
+      "ipa": "/ˈvɜːsəs/"
     },
     {
       "id": "w_c1_vessel",

@@ -1,62 +1,14 @@
 {
   "id": "lsn_a1_s_3",
   "levelId": "lvl_a1",
-  "title": "Unit 39: S Words - Part 3",
+  "title": "Unit 41: S Words - Part 3",
   "slug": "s-words-3",
-  "order": 39,
-  "wordCount": 22,
-  "titleAr": "الوحدة 39: كلمات حرف S - الجزء 3",
+  "order": 41,
+  "wordCount": 25,
+  "titleAr": "الوحدة 41: كلمات حرف S - الجزء 3",
   "description": "Master essential A1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_a1_small",
-      "lessonId": "lsn_a1_s_3",
-      "en": "small",
-      "translation": "صغير / صغيرة",
-      "ar": "صغير / صغيرة",
-      "pronunciation": "/smol/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I grew up in a small village.",
-          "ar": "لقد نشأت في قرية صغيرة."
-        },
-        {
-          "en": "I saw a small snake.",
-          "ar": "رأيت ثعباناً صغيراً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_a1_snake",
-      "lessonId": "lsn_a1_s_3",
-      "en": "snake",
-      "translation": "ثعبان",
-      "ar": "ثعبان",
-      "type": "word",
-      "examples": [
-        {
-          "en": "I saw a small snake.",
-          "ar": "رأيت ثعباناً صغيراً."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈsneɪk/"
-    },
     {
       "id": "w_a1_snow",
       "lessonId": "lsn_a1_s_3",
@@ -138,6 +90,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_somebody",
+      "lessonId": "lsn_a1_s_3",
+      "en": "somebody",
+      "ar": "شخص ما",
+      "translation": "شخص ما",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Somebody left their umbrella in the hallway.",
+          "ar": "ترك شخص ما مظلته في الردهة."
+        }
+      ],
+      "ipa": "/ˈsʌmbədi/"
     },
     {
       "id": "w_a1_someone",
@@ -488,6 +463,52 @@
       "ipa": "/spɛl/"
     },
     {
+      "id": "w_a1_spelling",
+      "lessonId": "lsn_a1_s_3",
+      "en": "spelling",
+      "ar": "هجاء / تهجئة",
+      "translation": "هجاء / تهجئة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "What is the correct spelling of your name?",
+          "ar": "ما هي التهجئة (الهجاء) الصحيحة لاسمك؟"
+        }
+      ],
+      "ipa": "/ˈspelɪŋ/"
+    },
+    {
+      "id": "w_a1_spend",
+      "lessonId": "lsn_a1_s_3",
+      "en": "spend",
+      "ar": "ينفق / يقضي (وقتاً)",
+      "translation": "ينفق / يقضي (وقتاً)",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "How much money did you spend?",
+          "ar": "كم من المال أنفقت؟"
+        }
+      ],
+      "ipa": "/spend/"
+    },
+    {
       "id": "w_a1_spent",
       "lessonId": "lsn_a1_s_3",
       "en": "spent",
@@ -562,6 +583,59 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/spɹɪŋ/"
+    },
+    {
+      "id": "w_a1_stand",
+      "lessonId": "lsn_a1_s_3",
+      "en": "stand",
+      "translation": "يقف",
+      "ar": "يقف",
+      "type": "word",
+      "examples": [
+        {
+          "en": "He can't stand for too long.",
+          "ar": "لا يمكنه أن يقف طويلاً."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stænd/"
+    },
+    {
+      "id": "w_a1_star",
+      "lessonId": "lsn_a1_s_3",
+      "en": "star",
+      "translation": "نجم",
+      "ar": "نجم",
+      "type": "word",
+      "examples": [
+        {
+          "en": "The nearest star is the sun.",
+          "ar": "أقرب نجم هو الشمس."
+        },
+        {
+          "en": "He was the star of the show.",
+          "ar": "لقد كان نجم العرض."
+        },
+        {
+          "en": "He starred in that movie.",
+          "ar": "لعب دور البطولة في هذا الفيلم :"
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core",
+        "A2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/stɑː(ɹ)/"
     }
   ]
 }

@@ -1,36 +1,14 @@
 {
   "id": "lsn_b1_t_2",
   "levelId": "lvl_b1",
-  "title": "Unit 37: T Words - Part 2",
+  "title": "Unit 41: T Words - Part 2",
   "slug": "t-words-2",
-  "order": 37,
-  "wordCount": 18,
-  "titleAr": "الوحدة 37: كلمات حرف T - الجزء 2",
+  "order": 41,
+  "wordCount": 20,
+  "titleAr": "الوحدة 41: كلمات حرف T - الجزء 2",
   "description": "Master essential B1 vocabulary starting with the letter T.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف T.",
   "words": [
-    {
-      "id": "w_b1_tiny",
-      "en": "tiny",
-      "ar": "ضئيلة / صغير جداً",
-      "pronunciation": "/ tar-ni/",
-      "lessonId": "lsn_b1_t_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I can't eat but a tiny amount of food.",
-          "ar": "لا أستطيع أن آكل إلا كمية ضئيلة من الطعام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_tipped",
       "en": "tipped",
@@ -52,6 +30,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_toe",
+      "lessonId": "lsn_b1_t_2",
+      "en": "toe",
+      "ar": "إصبع القدم",
+      "translation": "إصبع القدم",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He injured his toe while running.",
+          "ar": "أصاب إصبع قدمه أثناء الجري."
+        }
+      ],
+      "ipa": "/təʊ/"
     },
     {
       "id": "w_b1_toes",
@@ -278,6 +279,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_trend",
+      "lessonId": "lsn_b1_t_2",
+      "en": "trend",
+      "ar": "اتجاه / نزعة / موضة",
+      "translation": "اتجاه / نزعة / موضة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a trend towards working from home.",
+          "ar": "هناك اتجاه نحو العمل من المنزل."
+        }
+      ],
+      "ipa": "/trend/"
+    },
+    {
       "id": "w_b1_trends",
       "en": "trends",
       "ar": "اتجاهات",
@@ -346,6 +370,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_tube",
+      "lessonId": "lsn_b1_t_2",
+      "en": "tube",
+      "ar": "أنبوب",
+      "translation": "أنبوب",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I need a tube of toothpaste.",
+          "ar": "أحتاج لأنبوب من معجون الأسنان."
+        }
+      ],
+      "ipa": "/tjuːb/"
     },
     {
       "id": "w_b1_tubes",

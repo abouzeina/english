@@ -1,0 +1,542 @@
+{
+  "id": "lsn_b2_r_3",
+  "levelId": "lvl_b2",
+  "title": "Unit 53: R Words - Part 3",
+  "slug": "r-words-3",
+  "order": 53,
+  "wordCount": 23,
+  "titleAr": "الوحدة 53: كلمات حرف R - الجزء 3",
+  "description": "Master essential B2 vocabulary starting with the letter R.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف R.",
+  "words": [
+    {
+      "id": "w_b2_remarkably",
+      "lessonId": "lsn_b2_r_3",
+      "en": "remarkably",
+      "ar": "بشكل لافت / بشكل ملحوظ",
+      "translation": "بشكل لافت / بشكل ملحوظ",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The results were remarkably good.",
+          "ar": "كانت النتائج جيدة بشكل ملحوظ."
+        }
+      ],
+      "ipa": "/rɪˈmɑːkəbli/"
+    },
+    {
+      "id": "w_b2_reporting",
+      "en": "reporting",
+      "ar": "التقارير الصحفية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_r_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Quality reporting can influence public opinion.",
+          "ar": "يمكن للتقارير الصحفية عالية الجودة أن تؤثر على الرأي العام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_representative",
+      "en": "representative",
+      "ar": "ممثل / تمثل",
+      "lessonId": "lsn_b2_r_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Each department has a representative at the meeting.",
+          "ar": "كل قسم لديه ممثل في الاجتماع."
+        },
+        {
+          "en": "The samples are not representative of the region's diversity.",
+          "ar": "العينات لا تمثل التنوع في المنطقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɹɛpɹɪˈzɛnt(ət)ɪv/"
+    },
+    {
+      "id": "w_b2_reputation",
+      "en": "reputation",
+      "ar": "سمعة",
+      "lessonId": "lsn_b2_r_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company's reputation was damaged after the incident.",
+          "ar": "تضررت سمعة الشركة بعد الحادث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɹɛpjʊˈteɪʃən/"
+    },
+    {
+      "id": "w_b2_requirement",
+      "lessonId": "lsn_b2_r_3",
+      "en": "requirement",
+      "ar": "شرط / متطلب",
+      "translation": "شرط / متطلب",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Good communication skills are a requirement for this job.",
+          "ar": "مهارات التواصل الجيدة هي مطلب لهذا العمل."
+        }
+      ],
+      "ipa": "/rɪˈkwaɪəmənt/"
+    },
+    {
+      "id": "w_b2_requirements",
+      "en": "requirements",
+      "ar": "المتطلبات",
+      "lessonId": "lsn_b2_r_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She fulfilled all the requirements for the position.",
+          "ar": "لقد استوفت جميع المتطلبات لشغل المنصب."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈkwaɪɹmənts/"
+    },
+    {
+      "id": "w_b2_rescue",
+      "lessonId": "lsn_b2_r_3",
+      "en": "rescue",
+      "ar": "ينقذ / إنقاذ",
+      "translation": "ينقذ / إنقاذ",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The pilot was rescued from the sea.",
+          "ar": "تم إنقاذ الطيار من البحر."
+        }
+      ],
+      "ipa": "/ˈreskjuː/"
+    },
+    {
+      "id": "w_b2_reserve",
+      "lessonId": "lsn_b2_r_3",
+      "en": "reserve",
+      "ar": "يحجز / احتياطي",
+      "translation": "يحجز / احتياطي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I'd like to reserve a table for two.",
+          "ar": "أود حجز طاولة لشخصين."
+        }
+      ],
+      "ipa": "/rɪˈzɜːv/"
+    },
+    {
+      "id": "w_b2_resident",
+      "lessonId": "lsn_b2_r_3",
+      "en": "resident",
+      "ar": "مقيم / ساكن",
+      "translation": "مقيم / ساكن",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The local residents are happy with the new park.",
+          "ar": "المقيمون المحليون سعداء بالمنتزه الجديد."
+        }
+      ],
+      "ipa": "/ˈrezɪdənt/"
+    },
+    {
+      "id": "w_b2_resign",
+      "lessonId": "lsn_b2_r_3",
+      "en": "resign",
+      "ar": "يستقيل",
+      "translation": "يستقيل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He resigned from his post as manager.",
+          "ar": "استقال من منصب المدير."
+        }
+      ],
+      "ipa": "/rɪˈzaɪn/"
+    },
+    {
+      "id": "w_b2_resist",
+      "lessonId": "lsn_b2_r_3",
+      "en": "resist",
+      "ar": "يقاوم",
+      "translation": "يقاوم",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I couldn't resist the chocolate cake.",
+          "ar": "لم أستطع مقاومة كعكة الشوكولاتة."
+        }
+      ],
+      "ipa": "/rɪˈzɪst/"
+    },
+    {
+      "id": "w_b2_resolution",
+      "lessonId": "lsn_b2_r_3",
+      "en": "resolution",
+      "ar": "قرار / دقة / حل",
+      "translation": "قرار / دقة / حل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He made a New Year's resolution to exercise more.",
+          "ar": "اتخذ قراراً مع بداية العام الجديد بممارسة المزيد من الرياضة."
+        }
+      ],
+      "ipa": "/ˌrezəˈluːʃn/"
+    },
+    {
+      "id": "w_b2_resolve",
+      "lessonId": "lsn_b2_r_3",
+      "en": "resolve",
+      "ar": "يحل / يحسم",
+      "translation": "يحل / يحسم",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They are working to resolve the conflict peacefully.",
+          "ar": "إنهم يعملون على حل النزاع سلمياً."
+        }
+      ],
+      "ipa": "/rɪˈzɒlv/"
+    },
+    {
+      "id": "w_b2_resort",
+      "lessonId": "lsn_b2_r_3",
+      "en": "resort",
+      "ar": "منتجع / يلجأ إلى",
+      "translation": "منتجع / يلجأ إلى",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We stayed at a beautiful seaside resort.",
+          "ar": "أقمنا في منتجع جميل على شاطئ البحر."
+        }
+      ],
+      "ipa": "/rɪˈzɔːt/"
+    },
+    {
+      "id": "w_b2_restore",
+      "lessonId": "lsn_b2_r_3",
+      "en": "restore",
+      "ar": "يستعيد / يرمم",
+      "translation": "يستعيد / يرمم",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The old painting has been carefully restored.",
+          "ar": "تم ترميم اللوحة القديمة بعناية."
+        }
+      ],
+      "ipa": "/rɪˈstɔː(r)/"
+    },
+    {
+      "id": "w_b2_restrict",
+      "lessonId": "lsn_b2_r_3",
+      "en": "restrict",
+      "ar": "يقيد / يحصر",
+      "translation": "يقيد / يحصر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The new law restricts the use of pesticides.",
+          "ar": "القانون الجديد يقيد استخدام المبيدات الحشرية."
+        }
+      ],
+      "ipa": "/rɪˈstrɪkt/"
+    },
+    {
+      "id": "w_b2_restriction",
+      "lessonId": "lsn_b2_r_3",
+      "en": "restriction",
+      "ar": "قيد / حظر",
+      "translation": "قيد / حظر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There are strict restrictions on travel.",
+          "ar": "هناك قيود صارمة على السفر."
+        }
+      ],
+      "ipa": "/rɪˈstrɪkʃn/"
+    },
+    {
+      "id": "w_b2_retail",
+      "lessonId": "lsn_b2_r_3",
+      "en": "retail",
+      "ar": "بيع بالتجزئة",
+      "translation": "بيع بالتجزئة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The price is higher at the retail level.",
+          "ar": "السعر أعلى عند مستوى البيع بالتجزئة."
+        }
+      ],
+      "ipa": "/ˈriːteɪl/"
+    },
+    {
+      "id": "w_b2_retain",
+      "lessonId": "lsn_b2_r_3",
+      "en": "retain",
+      "ar": "يحتفظ بـ / يستبقي",
+      "translation": "يحتفظ بـ / يستبقي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company tries to retain its best employees.",
+          "ar": "تحاول الشركة الاحتفاظ بأفضل موظفيها."
+        }
+      ],
+      "ipa": "/rɪˈteɪn/"
+    },
+    {
+      "id": "w_b2_retirement",
+      "lessonId": "lsn_b2_r_3",
+      "en": "retirement",
+      "ar": "تقاعد",
+      "translation": "تقاعد",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is planning for his retirement.",
+          "ar": "إنه يخطط لتقاعده."
+        }
+      ],
+      "ipa": "/rɪˈtaɪəmənt/"
+    },
+    {
+      "id": "w_b2_reveal",
+      "lessonId": "lsn_b2_r_3",
+      "en": "reveal",
+      "ar": "يكشف / يظهر",
+      "translation": "يكشف / يظهر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The investigation revealed a series of errors.",
+          "ar": "كشف التحقيق عن سلسلة من الأخطاء."
+        }
+      ],
+      "ipa": "/rɪˈviːl/"
+    },
+    {
+      "id": "w_b2_revenue",
+      "lessonId": "lsn_b2_r_3",
+      "en": "revenue",
+      "ar": "إيرادات / دخل",
+      "translation": "إيرادات / دخل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government's main source of revenue is taxes.",
+          "ar": "المصدر الرئيسي لإيرادات الحكومة هو الضرائب."
+        }
+      ],
+      "ipa": "/ˈrevənjuː/"
+    },
+    {
+      "id": "w_b2_revision",
+      "lessonId": "lsn_b2_r_3",
+      "en": "revision",
+      "ar": "مراجعة / تعديل",
+      "translation": "مراجعة / تعديل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The student is doing revision for the exam.",
+          "ar": "الطالب يقوم بالمراجعة للامتحان."
+        }
+      ],
+      "ipa": "/rɪˈvɪʒn/"
+    }
+  ]
+}

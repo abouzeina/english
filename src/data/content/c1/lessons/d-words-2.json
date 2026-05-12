@@ -1,376 +1,415 @@
 {
   "id": "lsn_c1_d_2",
   "levelId": "lvl_c1",
-  "title": "Unit 7: D Words - Part 2",
+  "title": "Unit 20: D Words - Part 2",
   "slug": "d-words-2",
-  "order": 7,
-  "wordCount": 17,
-  "titleAr": "الوحدة 7: كلمات حرف D - الجزء 2",
+  "order": 20,
+  "wordCount": 24,
+  "titleAr": "الوحدة 20: كلمات حرف D - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف D.",
   "words": [
     {
-      "id": "w_c1_discard",
-      "en": "discard",
-      "ar": "يتخلص من / ينبذ",
+      "id": "w_c1_dense",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يرجى التخلص من أي مستندات قديمة في سلة المهملات",
-          "ar": "He decided to discard his old habits and start fresh."
-        }
-      ],
+      "en": "dense",
+      "ar": "كثيف",
+      "translation": "كثيف",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɪskɑːd/"
+      "examples": [
+        {
+          "en": "We walked through a dense forest.",
+          "ar": "مشينا عبر غابة كثيفة."
+        }
+      ],
+      "ipa": "/dens/"
     },
     {
-      "id": "w_c1_discharge",
-      "en": "discharge",
-      "ar": "يطلق سراح / يفرغ",
+      "id": "w_c1_density",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "سيقوم المستشفى بإخراج (إطلاق سراح) المريض غداً صباحاً",
-          "ar": "Factories must not discharge toxic waste into the river."
-        }
-      ],
+      "en": "density",
+      "ar": "كثافة",
+      "translation": "كثافة",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɪstʃɑːdʒ/"
+      "examples": [
+        {
+          "en": "The population density in the city is very high.",
+          "ar": "الكثافة السكانية في المدينة عالية جداً."
+        }
+      ],
+      "ipa": "/ˈdensəti/"
     },
     {
-      "id": "w_c1_disclose",
-      "en": "disclose",
-      "ar": "يكشف / يعلن",
+      "id": "w_c1_dependence",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "رفضت الشركة الكشف عن تفاصيل الاندماج",
-          "ar": "He promised not to disclose any confidential information."
-        }
-      ],
+      "en": "dependence",
+      "ar": "اعتماد / تبعية",
+      "translation": "اعتماد / تبعية",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪsˈkləʊz/"
+      "examples": [
+        {
+          "en": "The country is trying to reduce its dependence on oil.",
+          "ar": "تحاول البلاد تقليل اعتمادها على النفط."
+        }
+      ],
+      "ipa": "/dɪˈpendəns/"
     },
     {
-      "id": "w_c1_disclosure",
-      "en": "disclosure",
-      "ar": "كشف / إفصاح",
+      "id": "w_c1_depict",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أدى الإفصاح الكامل عن الحقائق إلى محاكمة عادلة",
-          "ar": "Any financial disclosure must be signed by the auditor."
-        }
-      ],
+      "en": "depict",
+      "ar": "يصور / يرسم / يصف",
+      "translation": "يصور / يرسم / يصف",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪsˈkləʊʒə(ɹ)/"
+      "examples": [
+        {
+          "en": "The painting depicts a scene from the war.",
+          "ar": "تصور اللوحة مشهداً من الحرب."
+        }
+      ],
+      "ipa": "/dɪˈpɪkt/"
     },
     {
-      "id": "w_c1_discourse",
-      "en": "discourse",
-      "ar": "خطاب / نقاش",
+      "id": "w_c1_deploy",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يقدم الكتاب خطاباً عميقاً عن الفلسفة الحديثة",
-          "ar": "Political discourse should be based on mutual respect."
-        }
-      ],
+      "en": "deploy",
+      "ar": "ينشر (قوات) / يستخدم / يفعل",
+      "translation": "ينشر (قوات) / يستخدم / يفعل",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪsˈkɔː(ɹ)s/"
+      "examples": [
+        {
+          "en": "The UN decided to deploy more troops to the region.",
+          "ar": "قررت الأمم المتحدة نشر المزيد من القوات في المنطقة."
+        }
+      ],
+      "ipa": "/dɪˈplɔɪ/"
     },
     {
-      "id": "w_c1_discretion",
-      "en": "discretion",
-      "ar": "حرية التصرف / حصافة",
+      "id": "w_c1_deployment",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يجب على الآباء استخدام حرية تصرفهم عند السماح للأطفال بدخول الإنترنت",
-          "ar": "The doctor handled the sensitive matter with great discretion."
-        }
-      ],
+      "en": "deployment",
+      "ar": "نشر / استخدام",
+      "translation": "نشر / استخدام",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈskɹɛʃən/"
+      "examples": [
+        {
+          "en": "The deployment of new technology will take time.",
+          "ar": "سيستغرق نشر (استخدام) التكنولوجيا الجديدة وقتاً."
+        }
+      ],
+      "ipa": "/dɪˈplɔɪmənt/"
     },
     {
-      "id": "w_c1_discrimination",
-      "en": "discrimination",
-      "ar": "تمييز",
+      "id": "w_c1_deprive",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "هناك قوانين مطبقة لمنع التمييز العنصري",
-          "ar": "Discrimination in hiring is strictly prohibited by the company."
-        }
-      ],
+      "en": "deprive",
+      "ar": "يحرم من",
+      "translation": "يحرم من",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪskɹɪmɪˈneɪʃən/"
+      "examples": [
+        {
+          "en": "Sleep deprivation can affect your health.",
+          "ar": "الحرمان من النوم يمكن أن يؤثر على صحتك."
+        }
+      ],
+      "ipa": "/dɪˈpraɪ/"
     },
     {
-      "id": "w_c1_dismissal",
-      "en": "dismissal",
-      "ar": "إقالة / رفض",
+      "id": "w_c1_deputy",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "إقالته المفاجئة من الشركة فاجأت الجميع",
-          "ar": "The dismissal of the case was due to a lack of evidence."
-        }
-      ],
+      "en": "deputy",
+      "ar": "نائب / وكيل",
+      "translation": "نائب / وكيل",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/[dɪsˈmɪsəɫ]/"
+      "examples": [
+        {
+          "en": "She was appointed as the deputy manager.",
+          "ar": "عُينت كنائب للمدير."
+        }
+      ],
+      "ipa": "/ˈdepjuti/"
     },
     {
-      "id": "w_c1_displace",
-      "en": "displace",
-      "ar": "يهجر / يزيح",
+      "id": "w_c1_descend",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تمكنت الحرب من تهجير آلاف العائلات من منازلهم",
-          "ar": "New technologies often displace older methods of production."
-        }
-      ],
+      "en": "descend",
+      "ar": "ينزل / يهبط / ينحدر",
+      "translation": "ينزل / يهبط / ينحدر",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪsˈpleɪs/"
+      "examples": [
+        {
+          "en": "The plane began to descend towards the airport.",
+          "ar": "بدأت الطائرة في الهبوط نحو المطار."
+        }
+      ],
+      "ipa": "/dɪˈsend/"
     },
     {
-      "id": "w_c1_disposal",
-      "en": "disposal",
-      "ar": "تخلص من / تصرف",
+      "id": "w_c1_descent",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "التخلص السليم من النفايات ضروري للصحة البيئية",
-          "ar": "The team has a large budget at its disposal for the project."
-        }
-      ],
+      "en": "descent",
+      "ar": "هبوط / نزول / منحدر / أصل",
+      "translation": "هبوط / نزول / منحدر / أصل",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/[dɪsˈpəʊzəɫ]/"
+      "examples": [
+        {
+          "en": "The pilot started the final descent.",
+          "ar": "بدأ الطيار الهبوط النهائي."
+        }
+      ],
+      "ipa": "/dɪˈsent/"
     },
     {
-      "id": "w_c1_dispose",
-      "en": "dispose",
-      "ar": "يتخلص من",
+      "id": "w_c1_designate",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يجب عليك التخلص من النفايات الكيميائية بطريقة آمنة",
-          "ar": "The company needs to dispose of its old equipment."
-        }
-      ],
+      "en": "designate",
+      "ar": "يعين / يخصص / يحدد",
+      "translation": "يعين / يخصص / يحدد",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈspəʊz/"
+      "examples": [
+        {
+          "en": "The area has been designated as a national park.",
+          "ar": "تم تخصيص المنطقة كمنتزه وطني."
+        }
+      ],
+      "ipa": "/ˈdezɪɡneɪt/"
     },
     {
-      "id": "w_c1_dispute",
-      "en": "dispute",
-      "ar": "نزاع / يجادل",
+      "id": "w_c1_desirable",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "استمر النزاع الإقليمي بين الدولتين لسنوات",
-          "ar": "No one can dispute the facts presented in the report."
-        }
-      ],
+      "en": "desirable",
+      "ar": "مرغوب فيه / جذاب",
+      "translation": "مرغوب فيه / جذاب",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɪs.pjuːt/"
+      "examples": [
+        {
+          "en": "It is desirable to have some experience in this field.",
+          "ar": "من المرغوب فيه أن يكون لديك بعض الخبرة في هذا المجال."
+        }
+      ],
+      "ipa": "/dɪˈzaɪərəbl/"
     },
     {
-      "id": "w_c1_disrupt",
-      "en": "disrupt",
-      "ar": "يعطل / يشوش",
+      "id": "w_c1_desktop",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "حاول المتظاهرون تعطيل المؤتمر الدولي",
-          "ar": "A heavy snowstorm can disrupt the entire transport network."
-        }
-      ],
+      "en": "desktop",
+      "ar": "سطح المكتب",
+      "translation": "سطح المكتب",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪsˈɹʌpt/"
+      "examples": [
+        {
+          "en": "I saved the file on my desktop.",
+          "ar": "حفظت الملف على سطح المكتب."
+        }
+      ],
+      "ipa": "/ˈdesktɒp/"
     },
     {
-      "id": "w_c1_disruption",
-      "en": "disruption",
-      "ar": "تعطيل / اضطراب",
+      "id": "w_c1_destructive",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تسبب الإضراب في تعطيل كبير لخدمات القطارات",
-          "ar": "Technological disruption is changing the way we do business."
-        }
-      ],
+      "en": "destructive",
+      "ar": "مدمر / مخرب",
+      "translation": "مدمر / مخرب",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪsˈɹʌpʃən/"
+      "examples": [
+        {
+          "en": "The storm was very destructive.",
+          "ar": "كانت العاصفة مدمرة للغاية."
+        }
+      ],
+      "ipa": "/dɪˈstrʌktɪv/"
     },
     {
-      "id": "w_c1_dissolve",
-      "en": "dissolve",
-      "ar": "يذيب / يحل",
+      "id": "w_c1_detain",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تحتاج لإذابة السكر في الماء الساخن أولاً",
-          "ar": "The king decided to dissolve the parliament and call for elections."
-        }
-      ],
+      "en": "detain",
+      "ar": "يحتجز / يعيق",
+      "translation": "يحتجز / يعيق",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈzɒlv/"
+      "examples": [
+        {
+          "en": "The police detained the suspect for questioning.",
+          "ar": "احتجزت الشرطة المشتبه به للاستجواب."
+        }
+      ],
+      "ipa": "/dɪˈteɪn/"
     },
     {
-      "id": "w_c1_distinction",
-      "en": "distinction",
-      "ar": "تميز / فرق",
+      "id": "w_c1_detection",
       "lessonId": "lsn_c1_d_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تخرج من الجامعة بأعلى درجات التميز",
-          "ar": "There is a clear distinction between right and wrong."
-        }
-      ],
+      "en": "detection",
+      "ar": "كشف / اكتشاف",
+      "translation": "كشف / اكتشاف",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈstɪŋkʃən/"
+      "examples": [
+        {
+          "en": "Early detection is key to treating the disease.",
+          "ar": "الكشف المبكر هو المفتاح لعلاج المرض."
+        }
+      ],
+      "ipa": "/dɪˈtekʃn/"
     },
     {
-      "id": "w_c1_distinctive",
-      "en": "distinctive",
-      "ar": "مميز / فارق",
+      "id": "w_c1_detention",
+      "lessonId": "lsn_c1_d_2",
+      "en": "detention",
+      "ar": "احتجاز / حبس / عقوبة مدرسية",
+      "translation": "احتجاز / حبس / عقوبة مدرسية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was held in police detention for 24 hours.",
+          "ar": "احتُجز في حجز الشرطة لمدة 24 ساعة."
+        }
+      ],
+      "ipa": "/dɪˈtenʃn/"
+    },
+    {
+      "id": "w_c1_deteriorate",
+      "en": "deteriorate",
+      "ar": "يتدهور / يسوء",
       "lessonId": "lsn_c1_d_2",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "يُعرف الطائر بريشه الأزرق المميز",
-          "ar": "Each culture has its own distinctive traditions and customs."
+          "en": "بدأت حالة المريض في التدهور بسرعة خلال الليل",
+          "ar": "The lack of maintenance caused the building to deteriorate."
         }
       ],
       "type": "word",
@@ -381,7 +420,139 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈstɪŋktɪv/"
+      "ipa": "/dɪˈtɪəɹɪəɹeɪt/"
+    },
+    {
+      "id": "w_c1_devastate",
+      "en": "devastate",
+      "ar": "يدمر / يخرب",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكن الزلزال من تدمير المدينة الساحلية بأكملها",
+          "ar": "The news of the accident will devastate his family."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɛvəsteɪt/"
+    },
+    {
+      "id": "w_c1_devil",
+      "en": "devil",
+      "ar": "شيطان",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وُصف بأنه شيطان في هيئة بشر",
+          "ar": "The devil is in the details of this contract."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɛvəl/"
+    },
+    {
+      "id": "w_c1_devise",
+      "en": "devise",
+      "ar": "يبتكر / يخطط",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحتاج المهندسون إلى ابتكار نظام جديد لتنقية المياه",
+          "ar": "We must devise a strategy to increase our market share."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈvaɪz/"
+    },
+    {
+      "id": "w_c1_diagnose",
+      "en": "diagnose",
+      "ar": "يشخص",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استغرق الأمر شهوراً ليقوم الأطباء بتشخيص حالته النادرة",
+          "ar": "The mechanic was able to diagnose the engine problem quickly."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/daɪəɡˈnəʊz/"
+    },
+    {
+      "id": "w_c1_diagnosis",
+      "en": "diagnosis",
+      "ar": "تشخيص",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أكد الطبيب التشخيص بعد عدة فحوصات طبية",
+          "ar": "A correct diagnosis is the first step toward effective treatment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/daɪəɡˈnəʊsɪs/"
+    },
+    {
+      "id": "w_c1_dictate",
+      "en": "dictate",
+      "ar": "يملي / يفرض",
+      "lessonId": "lsn_c1_d_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يحب المدير إملاء الخطابات على مساعده الشخصي",
+          "ar": "Common sense should dictate how you handle the situation."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪkˌteɪt/"
     }
   ]
 }

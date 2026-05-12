@@ -1,567 +1,542 @@
 {
   "id": "lsn_b2_e_1",
   "levelId": "lvl_b2",
-  "title": "Unit 17: E Words - Part 1",
+  "title": "Unit 19: E Words - Part 1",
   "slug": "e-words-1",
-  "order": 17,
-  "wordCount": 25,
-  "titleAr": "الوحدة 17: كلمات حرف E - الجزء 1",
+  "order": 19,
+  "wordCount": 23,
+  "titleAr": "الوحدة 19: كلمات حرف E - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter E.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف E.",
   "words": [
     {
-      "id": "w_b2_entrepreneur",
-      "en": "entrepreneur",
-      "ar": "رجل أعمال",
-      "pronunciation": "",
+      "id": "w_b2_economics",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He is a successful entrepreneur who created five companies.",
-          "ar": "إنه رجل أعمال ناجح أنشأ خمس شركات."
-        }
-      ],
+      "en": "economics",
+      "ar": "علم الاقتصاد",
+      "translation": "علم الاقتصاد",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is studying economics at university.",
+          "ar": "تدرسُ علمَ الاقتصادِ في الجامعة."
+        }
+      ],
+      "ipa": "/ˌiːkəˈnɒmɪks/"
     },
     {
-      "id": "w_b2_envelope",
-      "en": "envelope",
-      "ar": "ظرف",
-      "pronunciation": "",
+      "id": "w_b2_economist",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Which stamp do I need to put on this envelope?",
-          "ar": "ما هو الطابع البريدي الذي أحتاج لوضعه على هذا الظرف ؟"
-        }
-      ],
+      "en": "economist",
+      "ar": "خبير اقتصادي",
+      "translation": "خبير اقتصادي",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Economists predict a slow recovery.",
+          "ar": "يتوقعُ خبراءُ الاقتصادِ تعافياً بطيئاً."
+        }
+      ],
+      "ipa": "/ɪˈkɒnəmɪst/"
     },
     {
-      "id": "w_b2_equals",
-      "en": "equals",
-      "ar": "على قدم المساواة",
-      "pronunciation": "",
+      "id": "w_b2_edit",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Teachers should treat all students as equals.",
-          "ar": "يجب على المعلمين معاملة جميع الطلاب على قدم المساواة."
-        }
-      ],
+      "en": "edit",
+      "ar": "يحرر / يعدل",
+      "translation": "يحرر / يعدل",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You can edit the text before publishing it.",
+          "ar": "يمكنك تحريرُ النصِ قبلَ نشره."
+        }
+      ],
+      "ipa": "/ˈedɪt/"
     },
     {
-      "id": "w_b2_equipped",
-      "en": "equipped",
-      "ar": "مجهز",
-      "pronunciation": "",
+      "id": "w_b2_edition",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We rented a fully equipped flat for a good price.",
-          "ar": "استأجرنا شقة مجهزة بالكامل بسعر جيد."
-        }
-      ],
+      "en": "edition",
+      "ar": "طبعة / إصدار",
+      "translation": "طبعة / إصدار",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The third edition of the book was published last year.",
+          "ar": "نُشرت الطبعةُ الثالثةُ من الكتابِ العام الماضي."
+        }
+      ],
+      "ipa": "/ɪˈdɪʃn/"
     },
     {
-      "id": "w_b2_equivalent",
-      "en": "equivalent",
-      "ar": "ما يعادله",
-      "pronunciation": "",
+      "id": "w_b2_editorial",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The price is $250 or the equivalent in your own currency.",
-          "ar": "السعر هو 250 دولارًا أو ما يعادله بعملتك المحلية."
-        }
-      ],
+      "en": "editorial",
+      "ar": "افتتاحية / تحريري",
+      "translation": "افتتاحية / تحريري",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The paper's editorial criticized the new law.",
+          "ar": "انتقدت افتتاحيةُ الصحيفةِ القانونَ الجديد."
+        }
+      ],
+      "ipa": "/ˌedɪˈtɔːriəl/"
     },
     {
-      "id": "w_b2_era",
-      "en": "era",
-      "ar": "عصر",
-      "pronunciation": "",
+      "id": "w_b2_efficient",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We live in the technology era.",
-          "ar": "نحن نعيش في عصر التكنولوجيا."
-        }
-      ],
+      "en": "efficient",
+      "ar": "فعال / كفء",
+      "translation": "فعال / كفء",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The new system is much more efficient.",
+          "ar": "النظامُ الجديدُ أكثرُ كفاءةً بكثير."
+        }
+      ],
+      "ipa": "/ɪˈfɪʃnt/"
     },
     {
-      "id": "w_b2_erupt",
-      "en": "erupt",
-      "ar": "يثور",
-      "pronunciation": "",
+      "id": "w_b2_efficiently",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "They left the village, the volcano may erupt anytime.",
-          "ar": "لقد غادروا القرية، قد يثور البركان في أي وقت."
-        }
-      ],
+      "en": "efficiently",
+      "ar": "بكفاءة",
+      "translation": "بكفاءة",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The team worked efficiently to meet the deadline.",
+          "ar": "عمل الفريق بكفاءة للالتزام بالموعد النهائي."
+        }
+      ],
+      "ipa": "/ɪˈfɪʃntli/"
     },
     {
-      "id": "w_b2_essentially",
-      "en": "essentially",
-      "ar": "في الأساس",
-      "pronunciation": "",
+      "id": "w_b2_elbow",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Essentially, what we suggest is a change in the staff.",
-          "ar": "في الأساس، ما نقترحه هو تغيير في طاقم العمل."
-        }
-      ],
+      "en": "elbow",
+      "ar": "كوع / مرفق",
+      "translation": "كوع / مرفق",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He rested his elbows on the table.",
+          "ar": "أراح مرفقيه على الطاولة."
+        }
+      ],
+      "ipa": "/ˈelbəʊ/"
     },
     {
-      "id": "w_b2_establish",
-      "en": "establish",
-      "ar": "ننشئ",
-      "pronunciation": "",
+      "id": "w_b2_elderly",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We'll establish a private school with high standards.",
-          "ar": "سوف ننشئ مدرسة خاصة بمعايير عالية."
-        }
-      ],
+      "en": "elderly",
+      "ar": "مسن / كبار السن",
+      "translation": "مسن / كبار السن",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The charity provides help for the elderly.",
+          "ar": "تقدم الجمعية الخيرية المساعدة لكبار السن."
+        }
+      ],
+      "ipa": "/ˈeldəli/"
     },
     {
-      "id": "w_b2_estate",
-      "en": "estate",
-      "ar": "أرض / ملكية",
-      "pronunciation": "",
+      "id": "w_b2_elect",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We own a large estate in the southern part of the country.",
-          "ar": "نملك أرضًا كبيرة في الجزء الجنوبي من البلاد."
-        }
-      ],
+      "en": "elect",
+      "ar": "ينتخب",
+      "translation": "ينتخب",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She was elected as the new president.",
+          "ar": "تم انتخابها كرئيسة جديدة."
+        }
+      ],
+      "ipa": "/ɪˈlekt/"
     },
     {
-      "id": "w_b2_estimate",
-      "en": "estimate",
-      "ar": "تقدير",
-      "pronunciation": "",
+      "id": "w_b2_electronics",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I can't give you an accurate estimate of the cost.",
-          "ar": "لا أستطيع أن أعطيك تقديرًا دقيقًا للتكلفة."
-        }
-      ],
+      "en": "electronics",
+      "ar": "إلكترونيات",
+      "translation": "إلكترونيات",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is an expert in consumer electronics.",
+          "ar": "هو خبير في الإلكترونيات الاستهلاكية."
+        }
+      ],
+      "ipa": "/ɪˌlekˈtrɒnɪks/"
     },
     {
-      "id": "w_b2_estimated",
-      "en": "estimated",
-      "ar": "قدروا",
-      "pronunciation": "",
+      "id": "w_b2_elegant",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "They estimated the damage at five thousand dollars.",
-          "ar": "قدروا الأضرار بخمسة آلاف دولار."
-        }
-      ],
+      "en": "elegant",
+      "ar": "أنيق",
+      "translation": "أنيق",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She looked very elegant in her black dress.",
+          "ar": "بدت أنيقة جداً في فستانها الأسود."
+        }
+      ],
+      "ipa": "/ˈelɪɡənt/"
     },
     {
-      "id": "w_b2_ethical",
-      "en": "ethical",
-      "ar": "أخلاقية",
-      "pronunciation": "",
+      "id": "w_b2_elementary",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "This book discusses some ethical issues.",
-          "ar": "يناقش هذا الكتاب بعض القضايا الأخلاقية."
-        }
-      ],
+      "en": "elementary",
+      "ar": "ابتدائي / أساسي",
+      "translation": "ابتدائي / أساسي",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The book explains the elementary principles of physics.",
+          "ar": "يشرح الكتاب المبادئ الأساسية للفيزياء."
+        }
+      ],
+      "ipa": "/ˌelɪˈmentri/"
     },
     {
-      "id": "w_b2_ethics",
-      "en": "ethics",
-      "ar": "مبادئ / أخلاقيات",
-      "pronunciation": "",
+      "id": "w_b2_eliminate",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "My ethics prevent me from accepting your offer.",
-          "ar": "مبادئي تمنعني من قبول عرضك."
-        }
-      ],
+      "en": "eliminate",
+      "ar": "يزيل / يقضي على",
+      "translation": "يزيل / يقضي على",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need to eliminate all possible errors.",
+          "ar": "نحن بحاجة للقضاء على جميع الأخطاء الممكنة."
+        }
+      ],
+      "ipa": "/ɪˈlɪmɪneɪt/"
     },
     {
-      "id": "w_b2_ethnic",
-      "en": "ethnic",
-      "ar": "عرقي",
-      "pronunciation": "",
+      "id": "w_b2_elsewhere",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We have an amazing ethnic diversity in our country.",
-          "ar": "لدينا تنوع عرقي مدهش في بلدنا."
-        }
-      ],
+      "en": "elsewhere",
+      "ar": "في مكان آخر",
+      "translation": "في مكان آخر",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "If you are not satisfied, you can look elsewhere.",
+          "ar": "إذا لم تكن راضياً، يمكنك البحث في مكان آخر."
+        }
+      ],
+      "ipa": "/ˌelsˈweə(r)/"
     },
     {
-      "id": "w_b2_evaluates",
-      "en": "evaluates",
-      "ar": "يقوم بتقييم",
-      "pronunciation": "",
+      "id": "w_b2_embrace",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We are a team that evaluates coffee quality.",
-          "ar": "نحن فريق يقوم بتقييم جودة القهوة."
-        }
-      ],
+      "en": "embrace",
+      "ar": "يعانق / يتبنى",
+      "translation": "يعانق / يتبنى",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She embraced her children warmly.",
+          "ar": "عانقت أطفالها بحرارة."
+        }
+      ],
+      "ipa": "/ɪmˈbreɪs/"
     },
     {
-      "id": "w_b2_evaluation",
-      "en": "evaluation",
-      "ar": "تقييم",
-      "pronunciation": "",
+      "id": "w_b2_emerge",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Did you finish the evaluation of all candidates?",
-          "ar": "هل انتهيتم من تقييم جميع المرشحين ؟"
-        }
-      ],
+      "en": "emerge",
+      "ar": "يظهر / يبرز",
+      "translation": "يظهر / يبرز",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The sun emerged from behind the clouds.",
+          "ar": "ظهرت الشمس من خلف الغيوم."
+        }
+      ],
+      "ipa": "/ɪˈmɜːdʒ/"
     },
     {
-      "id": "w_b2_evident",
-      "en": "evident",
-      "ar": "جليا / واضحا",
-      "pronunciation": "",
+      "id": "w_b2_emission",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "It has become evident for us that he was innocent.",
-          "ar": "لقد أصبح جليا لدينا أنه كان بريءا."
-        }
-      ],
+      "en": "emission",
+      "ar": "انبعاث",
+      "translation": "انبعاث",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government aims to reduce carbon emissions.",
+          "ar": "تهدف الحكومة إلى تقليل انبعاثات الكربون."
+        }
+      ],
+      "ipa": "/ɪˈmɪʃn/"
     },
     {
-      "id": "w_b2_evil",
-      "en": "evil",
-      "ar": "شرير / شر",
-      "pronunciation": "",
+      "id": "w_b2_emotional",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "An evil smile appeared on his face.",
-          "ar": "ظهرت ابتسامة شريرة على وجهه."
-        },
-        {
-          "en": "The conflict between good and evil continues.",
-          "ar": "ويستمر الصراع بين الخير والشر."
-        }
-      ],
+      "en": "emotional",
+      "ar": "عاطفي / وجداني",
+      "translation": "عاطفي / وجداني",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Moving house is a very emotional experience.",
+          "ar": "الانتقال من منزل لآخر تجربة عاطفية جداً."
+        }
+      ],
+      "ipa": "/ɪˈməʊʃənl/"
     },
     {
-      "id": "w_b2_evolution",
-      "en": "evolution",
-      "ar": "التطور",
-      "pronunciation": "",
+      "id": "w_b2_emotionally",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We studied Darwin's theory of evolution in college.",
-          "ar": "لقد درسنا نظرية التطور لدارون في الكلية."
-        }
-      ],
+      "en": "emotionally",
+      "ar": "عاطفياً",
+      "translation": "عاطفياً",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is very attached to his family emotionally.",
+          "ar": "هو مرتبط جداً بعائلته عاطفياً."
+        }
+      ],
+      "ipa": "/ɪˈməʊʃənəli/"
     },
     {
-      "id": "w_b2_evolved",
-      "en": "evolved",
-      "ar": "تطورت",
-      "pronunciation": "",
+      "id": "w_b2_emphasis",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Online games evolved over the past decade.",
-          "ar": "تطورت ألعاب الإنترنت على مدى العقد الماضي."
-        }
-      ],
+      "en": "emphasis",
+      "ar": "تأكيد / تركيز",
+      "translation": "تأكيد / تركيز",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a strong emphasis on practical skills.",
+          "ar": "هناك تركيز قوي على المهارات العملية."
+        }
+      ],
+      "ipa": "/ˈemfəsɪs/"
     },
     {
-      "id": "w_b2_examination",
-      "en": "examination",
-      "ar": "اختبار",
-      "pronunciation": "",
+      "id": "w_b2_emphasize",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "She failed her examination in biology.",
-          "ar": "لقد رسبت في اختبارها في الأحياء."
-        }
-      ],
+      "en": "emphasize",
+      "ar": "يؤكد / يشدد على",
+      "translation": "يؤكد / يشدد على",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The report emphasizes the need for change.",
+          "ar": "يشدد التقرير على الحاجة للتغيير."
+        }
+      ],
+      "ipa": "/ˈemfəsaɪz/"
     },
     {
-      "id": "w_b2_exceed",
-      "en": "exceed",
-      "ar": "تتجاوز",
-      "pronunciation": "",
+      "id": "w_b2_empire",
       "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The cost of our services will not exceed 2000 Riyals.",
-          "ar": "تكلفة خدماتنا لن تتجاوز 2000 ريال."
-        }
-      ],
+      "en": "empire",
+      "ar": "إمبراطورية",
+      "translation": "إمبراطورية",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_exceptions",
-      "en": "exceptions",
-      "ar": "استثناءات",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
+      "needsTranslationReview": false,
       "examples": [
         {
-          "en": "Are there any exceptions to that policy ?",
-          "ar": "هل هناك أي استثناءات لهذه السياسة ؟"
+          "en": "The Roman Empire was one of the largest in history.",
+          "ar": "كانت الإمبراطورية الرومانية واحدة من أكبر الإمبراطوريات في التاريخ."
         }
       ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_excessive",
-      "en": "excessive",
-      "ar": "المفرطة",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_e_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "They reported that the police had used excessive force.",
-          "ar": "أفادوا أن الشرطة استخدمت القوة المفرطة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "ipa": "/ˈempaɪə(r)/"
     }
   ]
 }

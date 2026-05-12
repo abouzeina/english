@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_l_2",
   "levelId": "lvl_c1",
-  "title": "Unit 22: L Words - Part 2",
+  "title": "Unit 39: L Words - Part 2",
   "slug": "l-words-2",
-  "order": 22,
-  "wordCount": 19,
-  "titleAr": "الوحدة 22: كلمات حرف L - الجزء 2",
+  "order": 39,
+  "wordCount": 22,
+  "titleAr": "الوحدة 39: كلمات حرف L - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter L.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف L.",
   "words": [
@@ -52,6 +52,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_liberation",
+      "lessonId": "lsn_c1_l_2",
+      "en": "liberation",
+      "ar": "تحرير / إطلاق سراح",
+      "translation": "تحرير / إطلاق سراح",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The city celebrated its liberation from the invaders.",
+          "ar": "احتفلت المدينة بتحريرها من الغزاة."
+        }
+      ],
+      "ipa": "/ˌlɪbəˈreɪʃn/"
     },
     {
       "id": "w_c1_liberty",
@@ -212,6 +235,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_c1_linger",
+      "lessonId": "lsn_c1_l_2",
+      "en": "linger",
+      "ar": "يتلكأ / يبقى لفترة طويلة",
+      "translation": "يتلكأ / يبقى لفترة طويلة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The smell of smoke lingered in the room.",
+          "ar": "بقيت رائحة الدخان في الغرفة لفترة طويلة."
+        }
+      ],
+      "ipa": "/ˈlɪŋɡə(r)/"
+    },
+    {
       "id": "w_c1_listing",
       "en": "listing",
       "ar": "قائمة / إدراج",
@@ -254,6 +300,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_liver",
+      "lessonId": "lsn_c1_l_2",
+      "en": "liver",
+      "ar": "كبد",
+      "translation": "كبد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The liver is a vital organ in the body.",
+          "ar": "الكبد عضو حيوي في الجسم."
+        }
+      ],
+      "ipa": "/ˈlɪvə(r)/"
     },
     {
       "id": "w_c1_lobby",

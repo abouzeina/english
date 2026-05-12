@@ -1,24 +1,24 @@
 {
   "id": "lsn_c1_d_3",
   "levelId": "lvl_c1",
-  "title": "Unit 8: D Words - Part 3",
+  "title": "Unit 21: D Words - Part 3",
   "slug": "d-words-3",
-  "order": 8,
-  "wordCount": 17,
-  "titleAr": "الوحدة 8: كلمات حرف D - الجزء 3",
+  "order": 21,
+  "wordCount": 24,
+  "titleAr": "الوحدة 21: كلمات حرف D - الجزء 3",
   "description": "Master essential C1 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف D.",
   "words": [
     {
-      "id": "w_c1_distort",
-      "en": "distort",
-      "ar": "يشوه / يحرف",
+      "id": "w_c1_dictator",
+      "en": "dictator",
+      "ar": "ديكتاتور / طاغية",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "حاولت وسائل الإعلام تشويه الحقيقة بشأن الحادث",
-          "ar": "The curved mirror will distort your reflection."
+          "en": "عانت الأمة لسنوات تحت حكم ديكتاتور قاسي",
+          "ar": "History shows that no dictator can remain in power forever."
         }
       ],
       "type": "word",
@@ -29,18 +29,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪsˈtɔːt/"
+      "ipa": "/dɪkˈteɪtə(ɹ)/"
     },
     {
-      "id": "w_c1_distress",
-      "en": "distress",
-      "ar": "ضيق / ألم / يحزن",
+      "id": "w_c1_differentiate",
+      "en": "differentiate",
+      "ar": "يميز / يفرق",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "تسببت أخبار الفشل في ضيق نفسي كبير لها",
-          "ar": "The ship sent out a signal because it was in distress."
+          "en": "من الصعب التمييز بين التوأمين المتطابقين",
+          "ar": "Product quality is what helps differentiate us from our competitors."
         }
       ],
       "type": "word",
@@ -51,18 +51,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈstɹɛs/"
+      "ipa": "/dɪf.əˈɹɛn.ʃi.eɪt/"
     },
     {
-      "id": "w_c1_disturbing",
-      "en": "disturbing",
-      "ar": "مزعج / مقلق",
+      "id": "w_c1_dignity",
+      "en": "dignity",
+      "ar": "كرامة / وقار",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "كشف الفيلم الوثائقي عن بعض الحقائق المقلقة بشأن التلوث",
-          "ar": "I found his lack of empathy to be quite disturbing."
+          "en": "واجهت الموقف الصعب بشجاعة وكرامة",
+          "ar": "Every human being deserves to be treated with dignity."
         }
       ],
       "type": "word",
@@ -73,18 +73,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪsˈtɜːbɪŋ/"
+      "ipa": "/ˈdɪɡnɪti/"
     },
     {
-      "id": "w_c1_divert",
-      "en": "divert",
-      "ar": "يحول / يصرف",
+      "id": "w_c1_dilemma",
+      "en": "dilemma",
+      "ar": "معضلة / مأزق",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "اضطرت الشرطة لتحويل حركة المرور بسبب الحادث",
-          "ar": "They tried to divert his attention from the bad news."
+          "en": "واجه معضلة صعبة بين حياته المهنية وعائلته",
+          "ar": "The government is in a dilemma regarding the new tax laws."
         }
       ],
       "type": "word",
@@ -95,18 +95,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/daɪˈvɜːt/"
+      "ipa": "/daɪˈlɛmə/"
     },
     {
-      "id": "w_c1_divine",
-      "en": "divine",
-      "ar": "إلهي / مقدس",
+      "id": "w_c1_dimension",
+      "en": "dimension",
+      "ar": "بُعد / جانب",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "تؤمن العديد من الثقافات بوجود قوة إلهية",
-          "ar": "The sunset over the ocean was a truly divine sight."
+          "en": "أضاف الاكتشاف الجديد بُعداً جديداً تماماً للبحث",
+          "ar": "We need to measure every dimension of the room before buying furniture."
         }
       ],
       "type": "word",
@@ -117,18 +117,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈvaɪn/"
+      "ipa": "/daɪˈmɛnʃən/"
     },
     {
-      "id": "w_c1_doctrine",
-      "en": "doctrine",
-      "ar": "عقيدة / مذهب",
+      "id": "w_c1_diminish",
+      "en": "diminish",
+      "ar": "يقلل / يتلاشى",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "العقيدة القانونية للاستخدام العادل مهمة للباحثين",
-          "ar": "Religious doctrine often dictates how people live their lives."
+          "en": "لا ينبغي لنا أن نقلل من أهمية مساهماته",
+          "ar": "The pain started to diminish after he took the medicine."
         }
       ],
       "type": "word",
@@ -139,18 +139,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɒktɹɪn/"
+      "ipa": "/dɪˈmɪnɪʃ/"
     },
     {
-      "id": "w_c1_documentation",
-      "en": "documentation",
-      "ar": "توثيق / مستندات",
+      "id": "w_c1_dip",
+      "en": "dip",
+      "ar": "ينغمس / ينخفض",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "يرجى تقديم جميع المستندات اللازمة لطلبك",
-          "ar": "Good documentation is essential for software development."
+          "en": "بدأت الشمس في الانخفاض تحت الأفق",
+          "ar": "Prices often dip during the holiday sales season."
         }
       ],
       "type": "word",
@@ -161,18 +161,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˌdɒkjʊmənˈteɪʃən/"
+      "ipa": "/dɪp/"
     },
     {
-      "id": "w_c1_domain",
-      "en": "domain",
-      "ar": "مجال / نطاق",
+      "id": "w_c1_diplomat",
+      "en": "diplomat",
+      "ar": "دبلوماسي",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "نطاق الموقع الإلكتروني تم تسجيله منذ سنوات عديدة",
-          "ar": "The discovery falls within the domain of modern physics."
+          "en": "قضى الدبلوماسي سنوات في التفاوض على معاهدة السلام",
+          "ar": "He was appointed as a senior diplomat to represent his country."
         }
       ],
       "type": "word",
@@ -183,18 +183,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dəʊˈmeɪn/"
+      "ipa": "/ˈdɪ.plə.mæt/"
     },
     {
-      "id": "w_c1_dominance",
-      "en": "dominance",
-      "ar": "هيمنة / سيطرة",
+      "id": "w_c1_diplomatic",
+      "en": "diplomatic",
+      "ar": "دبلوماسي",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "تحافظ شركة التكنولوجيا العملاقة على هيمنتها في السوق العالمية",
-          "ar": "The struggle for dominance between the two teams was intense."
+          "en": "قررت الدولتان استعادة العلاقات الدبلوماسية",
+          "ar": "He used a very diplomatic approach to resolve the conflict."
         }
       ],
       "type": "word",
@@ -205,18 +205,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɒmɪnəns/"
+      "ipa": "/ˌdɪpləˈmætɪk/"
     },
     {
-      "id": "w_c1_donor",
-      "en": "donor",
-      "ar": "متبرع",
+      "id": "w_c1_directory",
+      "en": "directory",
+      "ar": "دليل",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "يبحث المستشفى عن متبرع دم متوافق",
-          "ar": "A generous donor provided the funds for the new library."
+          "en": "يمكنك العثور على معلومات الاتصال الخاصة به في دليل الموظفين",
+          "ar": "The system maintains a directory of all registered users."
         }
       ],
       "type": "word",
@@ -227,18 +227,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdəʊnə/"
+      "ipa": "/daɪˈɹɛktəɹi/"
     },
     {
-      "id": "w_c1_drift",
-      "en": "drift",
-      "ar": "ينجرف / يطوف",
+      "id": "w_c1_disastrous",
+      "en": "disastrous",
+      "ar": "كارثي",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "بدأ القارب في الانجراف ببطء بعيداً عن الشاطئ",
-          "ar": "It is easy to drift into a state of daydreaming during long lectures."
+          "en": "كان لقرار خفض الميزانية نتائج كارثية",
+          "ar": "The storm caused disastrous damage to the local infrastructure."
         }
       ],
       "type": "word",
@@ -249,18 +249,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɹɪft/"
+      "ipa": "/dɪˈzɑːstɹəs/"
     },
     {
-      "id": "w_c1_drown",
-      "en": "drown",
-      "ar": "يغرق",
+      "id": "w_c1_discard",
+      "en": "discard",
+      "ar": "يتخلص من / ينبذ",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "بدأت الموسيقى الصاخبة في طمس (إغراق) محادثتهما",
-          "ar": "He managed to save the child before he could drown."
+          "en": "يرجى التخلص من أي مستندات قديمة في سلة المهملات",
+          "ar": "He decided to discard his old habits and start fresh."
         }
       ],
       "type": "word",
@@ -271,18 +271,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɹaʊn/"
+      "ipa": "/ˈdɪskɑːd/"
     },
     {
-      "id": "w_c1_dual",
-      "en": "dual",
-      "ar": "مزدوج / ثنائي",
+      "id": "w_c1_discharge",
+      "en": "discharge",
+      "ar": "يطلق سراح / يفرغ",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "يتميز الهاتف الذكي الجديد بنظام كاميرا مزدوج",
-          "ar": "He holds dual citizenship in Egypt and the United Kingdom."
+          "en": "سيقوم المستشفى بإخراج (إطلاق سراح) المريض غداً صباحاً",
+          "ar": "Factories must not discharge toxic waste into the river."
         }
       ],
       "type": "word",
@@ -293,18 +293,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdjuː.əl/"
+      "ipa": "/ˈdɪstʃɑːdʒ/"
     },
     {
-      "id": "w_c1_dub",
-      "en": "dub",
-      "ar": "يلقب / يدبلج",
+      "id": "w_c1_disclose",
+      "en": "disclose",
+      "ar": "يكشف / يعلن",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "قررت وسائل الإعلام تلقيبه بملك البوب",
-          "ar": "They plan to dub the documentary into several languages."
+          "en": "رفضت الشركة الكشف عن تفاصيل الاندماج",
+          "ar": "He promised not to disclose any confidential information."
         }
       ],
       "type": "word",
@@ -315,18 +315,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dʌb/"
+      "ipa": "/dɪsˈkləʊz/"
     },
     {
-      "id": "w_c1_dumb",
-      "en": "dumb",
-      "ar": "أبكم / صامت",
+      "id": "w_c1_disclosure",
+      "en": "disclosure",
+      "ar": "كشف / إفصاح",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "أصابها الصمت من شدة الذهول عند سماع الأخبار",
-          "ar": "The witness remained dumb throughout the entire trial."
+          "en": "أدى الإفصاح الكامل عن الحقائق إلى محاكمة عادلة",
+          "ar": "Any financial disclosure must be signed by the auditor."
         }
       ],
       "type": "word",
@@ -337,18 +337,18 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dʌm/"
+      "ipa": "/dɪsˈkləʊʒə(ɹ)/"
     },
     {
-      "id": "w_c1_duo",
-      "en": "duo",
-      "ar": "ثنائي",
+      "id": "w_c1_discourse",
+      "en": "discourse",
+      "ar": "خطاب / نقاش",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "قدم الثنائي الموسيقي الشهير أحدث أغانيهما على المسرح",
-          "ar": "The comedy duo has been working together for over a decade."
+          "en": "يقدم الكتاب خطاباً عميقاً عن الفلسفة الحديثة",
+          "ar": "Political discourse should be based on mutual respect."
         }
       ],
       "type": "word",
@@ -359,34 +359,183 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdjuː.əʊ/"
+      "ipa": "/dɪsˈkɔː(ɹ)s/"
     },
     {
-      "id": "w_c1_dynamic",
-      "en": "dynamic",
-      "ar": "ديناميكي / حيوي",
-      "pronunciation": "daɪˈnæmɪk",
+      "id": "w_c1_discretion",
+      "en": "discretion",
+      "ar": "حرية التصرف / حصافة",
       "lessonId": "lsn_c1_d_3",
       "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "الرئيس التنفيذي الجديد قائد ديناميكي يمتلك رؤية واضحة",
-          "ar": "We live in a dynamic world where technology changes daily."
-        },
-        {
-          "en": "Ahmed has a dynamic personality.",
-          "ar": "يتمتع أحمد بشخصية مفعمة بالنشاط."
+          "en": "يجب على الآباء استخدام حرية تصرفهم عند السماح للأطفال بدخول الإنترنت",
+          "ar": "The doctor handled the sensitive matter with great discretion."
         }
       ],
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced",
-        "B2"
+        "advanced"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈskɹɛʃən/"
+    },
+    {
+      "id": "w_c1_discrimination",
+      "en": "discrimination",
+      "ar": "تمييز",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "هناك قوانين مطبقة لمنع التمييز العنصري",
+          "ar": "Discrimination in hiring is strictly prohibited by the company."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪskɹɪmɪˈneɪʃən/"
+    },
+    {
+      "id": "w_c1_dismissal",
+      "en": "dismissal",
+      "ar": "إقالة / رفض",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إقالته المفاجئة من الشركة فاجأت الجميع",
+          "ar": "The dismissal of the case was due to a lack of evidence."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[dɪsˈmɪsəɫ]/"
+    },
+    {
+      "id": "w_c1_displace",
+      "en": "displace",
+      "ar": "يهجر / يزيح",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكنت الحرب من تهجير آلاف العائلات من منازلهم",
+          "ar": "New technologies often displace older methods of production."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈpleɪs/"
+    },
+    {
+      "id": "w_c1_disposal",
+      "en": "disposal",
+      "ar": "تخلص من / تصرف",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "التخلص السليم من النفايات ضروري للصحة البيئية",
+          "ar": "The team has a large budget at its disposal for the project."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/[dɪsˈpəʊzəɫ]/"
+    },
+    {
+      "id": "w_c1_dispose",
+      "en": "dispose",
+      "ar": "يتخلص من",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك التخلص من النفايات الكيميائية بطريقة آمنة",
+          "ar": "The company needs to dispose of its old equipment."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪˈspəʊz/"
+    },
+    {
+      "id": "w_c1_dispute",
+      "en": "dispute",
+      "ar": "نزاع / يجادل",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "استمر النزاع الإقليمي بين الدولتين لسنوات",
+          "ar": "No one can dispute the facts presented in the report."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈdɪs.pjuːt/"
+    },
+    {
+      "id": "w_c1_disrupt",
+      "en": "disrupt",
+      "ar": "يعطل / يشوش",
+      "lessonId": "lsn_c1_d_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "حاول المتظاهرون تعطيل المؤتمر الدولي",
+          "ar": "A heavy snowstorm can disrupt the entire transport network."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/dɪsˈɹʌpt/"
     }
   ]
 }

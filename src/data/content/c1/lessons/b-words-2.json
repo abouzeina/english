@@ -1,0 +1,473 @@
+{
+  "id": "lsn_c1_b_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 8: B Words - Part 2",
+  "slug": "b-words-2",
+  "order": 8,
+  "wordCount": 20,
+  "titleAr": "الوحدة 8: كلمات حرف B - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف B.",
+  "words": [
+    {
+      "id": "w_c1_beloved",
+      "lessonId": "lsn_c1_b_2",
+      "en": "beloved",
+      "ar": "محبوب / عزيز",
+      "translation": "محبوب / عزيز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He lost his beloved wife last year.",
+          "ar": "فقد زوجته المحبوبة العام الماضي."
+        }
+      ],
+      "ipa": "/bɪˈlʌvɪd/"
+    },
+    {
+      "id": "w_c1_bench",
+      "lessonId": "lsn_c1_b_2",
+      "en": "bench",
+      "ar": "مقعد / منصة القضاء",
+      "translation": "مقعد / منصة القضاء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We sat on a park bench and watched the people.",
+          "ar": "جلسنا على مقعد في المنتزه وشاهدنا الناس."
+        }
+      ],
+      "ipa": "/bentʃ/"
+    },
+    {
+      "id": "w_c1_benchmark",
+      "lessonId": "lsn_c1_b_2",
+      "en": "benchmark",
+      "ar": "معيار / مقياس مرجعي",
+      "translation": "معيار / مقياس مرجعي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The results will serve as a benchmark for future studies.",
+          "ar": "ستكون النتائج بمثابة معيار للدراسات المستقبلية."
+        }
+      ],
+      "ipa": "/ˈbentʃmɑːk/"
+    },
+    {
+      "id": "w_c1_beneath",
+      "lessonId": "lsn_c1_b_2",
+      "en": "beneath",
+      "ar": "تحت / أسفل",
+      "translation": "تحت / أسفل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The boat sank beneath the waves.",
+          "ar": "غرق القارب تحت الأمواج."
+        }
+      ],
+      "ipa": "/bɪˈniːθ/"
+    },
+    {
+      "id": "w_c1_beneficial",
+      "lessonId": "lsn_c1_b_2",
+      "en": "beneficial",
+      "ar": "مفيد / نافع",
+      "translation": "مفيد / نافع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Regular exercise is beneficial to health.",
+          "ar": "التمارين المنتظمة مفيدة للصحة."
+        }
+      ],
+      "ipa": "/ˌbenɪˈfɪʃl/"
+    },
+    {
+      "id": "w_c1_beneficiary",
+      "lessonId": "lsn_c1_b_2",
+      "en": "beneficiary",
+      "ar": "مستفيد",
+      "translation": "مستفيد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Who is the main beneficiary of the will?",
+          "ar": "من هو المستفيد الرئيسي من الوصية؟"
+        }
+      ],
+      "ipa": "/ˌbenɪˈfɪʃəri/"
+    },
+    {
+      "id": "w_c1_benefit",
+      "lessonId": "lsn_c1_b_2",
+      "en": "benefit",
+      "ar": "فائدة / مصلحة / ينفع",
+      "translation": "فائدة / مصلحة / ينفع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The new law will benefit many people.",
+          "ar": "سيفيد القانون الجديد الكثير من الناس."
+        }
+      ],
+      "ipa": "/ˈbenɪfɪt/"
+    },
+    {
+      "id": "w_c1_bent",
+      "lessonId": "lsn_c1_b_2",
+      "en": "bent",
+      "ar": "منحنٍ / عازم على",
+      "translation": "منحنٍ / عازم على",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was bent over his desk, working hard.",
+          "ar": "كان منحنياً على مكتبه، يعمل بجد."
+        }
+      ],
+      "ipa": "/bent/"
+    },
+    {
+      "id": "w_c1_beside",
+      "lessonId": "lsn_c1_b_2",
+      "en": "beside",
+      "ar": "بجانب",
+      "translation": "بجانب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Come and sit beside me.",
+          "ar": "تعال واجلس بجانبي."
+        }
+      ],
+      "ipa": "/bɪˈsaɪd/"
+    },
+    {
+      "id": "w_c1_besides",
+      "lessonId": "lsn_c1_b_2",
+      "en": "besides",
+      "ar": "بالإضافة إلى / علاوة على ذلك",
+      "translation": "بالإضافة إلى / علاوة على ذلك",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Besides being a teacher, she is also a writer.",
+          "ar": "بالإضافة لكونها معلمة، هي أيضاً كاتبة."
+        }
+      ],
+      "ipa": "/bɪˈsaɪdz/"
+    },
+    {
+      "id": "w_c1_betray",
+      "lessonId": "lsn_c1_b_2",
+      "en": "betray",
+      "ar": "يخون / يغدر",
+      "translation": "يخون / يغدر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He felt that his friends had betrayed him.",
+          "ar": "شعر أن أصدقاءه قد خانوه."
+        }
+      ],
+      "ipa": "/bɪˈtreɪ/"
+    },
+    {
+      "id": "w_c1_beverage",
+      "lessonId": "lsn_c1_b_2",
+      "en": "beverage",
+      "ar": "مشروب",
+      "translation": "مشروب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The price includes a free beverage.",
+          "ar": "السعر يشمل مشروباً مجانياً."
+        }
+      ],
+      "ipa": "/ˈbevərɪdʒ/"
+    },
+    {
+      "id": "w_c1_bias",
+      "lessonId": "lsn_c1_b_2",
+      "en": "bias",
+      "ar": "انحياز / تحيز",
+      "translation": "انحياز / تحيز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The newspaper was accused of political bias.",
+          "ar": "اتُهمت الصحيفة بالانحياز السياسي."
+        }
+      ],
+      "ipa": "/ˈbaɪəs/"
+    },
+    {
+      "id": "w_c1_bid",
+      "lessonId": "lsn_c1_b_2",
+      "en": "bid",
+      "ar": "عرض سعر / مناقصة / محاولة",
+      "translation": "عرض سعر / مناقصة / محاولة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company made a bid for the contract.",
+          "ar": "قدمت الشركة عرضاً للمناقصة على العقد."
+        }
+      ],
+      "ipa": "/bɪd/"
+    },
+    {
+      "id": "w_c1_bind",
+      "lessonId": "lsn_c1_b_2",
+      "en": "bind",
+      "ar": "يربط / يلزم",
+      "translation": "يربط / يلزم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The contract binds both parties to the agreement.",
+          "ar": "يلزم العقد كلا الطرفين بالاتفاقية."
+        }
+      ],
+      "ipa": "/baɪnd/"
+    },
+    {
+      "id": "w_c1_biography",
+      "lessonId": "lsn_c1_b_2",
+      "en": "biography",
+      "ar": "سيرة ذاتية (يكتبها شخص آخر)",
+      "translation": "سيرة ذاتية (يكتبها شخص آخر)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I'm reading a biography of Albert Einstein.",
+          "ar": "أنا أقرأ سيرة ذاتية لألبرت أينشتاين."
+        }
+      ],
+      "ipa": "/baɪˈɒɡrəfi/"
+    },
+    {
+      "id": "w_c1_biological",
+      "lessonId": "lsn_c1_b_2",
+      "en": "biological",
+      "ar": "بيولوجي / حيوي",
+      "translation": "بيولوجي / حيوي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Parents have a biological link to their children.",
+          "ar": "للوالدين رابط بيولوجي بأطفالهم."
+        }
+      ],
+      "ipa": "/ˌbaɪəˈlɒdʒɪkl/"
+    },
+    {
+      "id": "w_c1_bishop",
+      "lessonId": "lsn_c1_b_2",
+      "en": "bishop",
+      "ar": "أسقف",
+      "translation": "أسقف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The bishop led the church service.",
+          "ar": "قاد الأسقف الخدمة الكنسية."
+        }
+      ],
+      "ipa": "/ˈbɪʃəp/"
+    },
+    {
+      "id": "w_c1_bizarre",
+      "lessonId": "lsn_c1_b_2",
+      "en": "bizarre",
+      "ar": "غريب / غريب الأطوار",
+      "translation": "غريب / غريب الأطوار",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It was a truly bizarre situation.",
+          "ar": "لقد كان موقفاً غريباً حقاً."
+        }
+      ],
+      "ipa": "/bɪˈzɑː(r)/"
+    },
+    {
+      "id": "w_c1_blade",
+      "lessonId": "lsn_c1_b_2",
+      "en": "blade",
+      "ar": "شفرة / نصل",
+      "translation": "شفرة / نصل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The knife has a very sharp blade.",
+          "ar": "السكين لها نصل حاد جداً."
+        }
+      ],
+      "ipa": "/bleɪd/"
+    }
+  ]
+}

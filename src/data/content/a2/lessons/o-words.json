@@ -4,7 +4,7 @@
   "title": "Unit 27: O Words",
   "slug": "o-words",
   "order": 27,
-  "wordCount": 12,
+  "wordCount": 13,
   "titleAr": "الوحدة 27: كلمات حرف O",
   "description": "Master essential A2 vocabulary starting with the letter O.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف O.",
@@ -100,6 +100,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_onto",
+      "lessonId": "lsn_a2_o",
+      "en": "onto",
+      "ar": "على / إلى فوق",
+      "translation": "على / إلى فوق",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The cat jumped onto the table.",
+          "ar": "قفزت القطة على الطاولة."
+        }
+      ],
+      "ipa": "/ˈɒntə/"
     },
     {
       "id": "w_a2_opportunity",

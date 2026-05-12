@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_t_1",
   "levelId": "lvl_b1",
-  "title": "Unit 36: T Words - Part 1",
+  "title": "Unit 40: T Words - Part 1",
   "slug": "t-words-1",
-  "order": 36,
-  "wordCount": 19,
-  "titleAr": "الوحدة 36: كلمات حرف T - الجزء 1",
+  "order": 40,
+  "wordCount": 21,
+  "titleAr": "الوحدة 40: كلمات حرف T - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter T.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف T.",
   "words": [
@@ -144,6 +144,29 @@
       ],
       "confidence": "high",
       "ipa": "/ˈtɛk.nɪk.əl/"
+    },
+    {
+      "id": "w_b1_technique",
+      "lessonId": "lsn_b1_t_1",
+      "en": "technique",
+      "ar": "تقنية / أسلوب",
+      "translation": "تقنية / أسلوب",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has excellent painting technique.",
+          "ar": "لديه تقنية رسم ممتازة."
+        }
+      ],
+      "ipa": "/tekˈniːk/"
     },
     {
       "id": "w_b1_techniques",
@@ -434,6 +457,28 @@
       ],
       "confidence": "high",
       "ipa": "/tɪn/"
+    },
+    {
+      "id": "w_b1_tiny",
+      "en": "tiny",
+      "ar": "ضئيلة / صغير جداً",
+      "pronunciation": "/ tar-ni/",
+      "lessonId": "lsn_b1_t_1",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I can't eat but a tiny amount of food.",
+          "ar": "لا أستطيع أن آكل إلا كمية ضئيلة من الطعام."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
     }
   ]
 }

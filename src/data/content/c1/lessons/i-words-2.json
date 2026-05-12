@@ -1,14 +1,302 @@
 {
   "id": "lsn_c1_i_2",
   "levelId": "lvl_c1",
-  "title": "Unit 18: I Words - Part 2",
+  "title": "Unit 33: I Words - Part 2",
   "slug": "i-words-2",
-  "order": 18,
-  "wordCount": 24,
-  "titleAr": "الوحدة 18: كلمات حرف I - الجزء 2",
+  "order": 33,
+  "wordCount": 19,
+  "titleAr": "الوحدة 33: كلمات حرف I - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter I.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف I.",
   "words": [
+    {
+      "id": "w_c1_indigenous",
+      "en": "indigenous",
+      "ar": "أصلي / وطني",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يعرض المتحف فنون السكان الأصليين",
+          "ar": "We must respect and protect the indigenous cultures."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdɪdʒɪnəs/"
+    },
+    {
+      "id": "w_c1_induce",
+      "en": "induce",
+      "ar": "يحث / يسبب",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قرر الطبيب حث (تحفيز) الولادة من أجل سلامة الطفل",
+          "ar": "Nothing could induce him to change his mind."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdjuːs/"
+    },
+    {
+      "id": "w_c1_indulge",
+      "en": "indulge",
+      "ar": "ينغمس / يدلل",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أحب أن أنغمس في قطعة من الشوكولاتة بين الحين والآخر",
+          "ar": "Parents should not indulge their children's every whim."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdʌldʒ/"
+    },
+    {
+      "id": "w_c1_inequality",
+      "lessonId": "lsn_c1_i_2",
+      "en": "inequality",
+      "ar": "عدم مساواة / تفاوت",
+      "translation": "عدم مساواة / تفاوت",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government is trying to tackle social inequality.",
+          "ar": "تحاول الحكومة معالجة عدم المساواة الاجتماعية."
+        }
+      ],
+      "ipa": "/ˌɪnɪˈkwɒləti/"
+    },
+    {
+      "id": "w_c1_infamous",
+      "en": "infamous",
+      "ar": "سيئ السمعة",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان القرصان سيئ السمعة بسبب قسوته وجرائمه",
+          "ar": "The prison is infamous for its harsh conditions."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɪnfəməs/"
+    },
+    {
+      "id": "w_c1_infant",
+      "lessonId": "lsn_c1_i_2",
+      "en": "infant",
+      "ar": "رضيع / طفل صغير",
+      "translation": "رضيع / طفل صغير",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She works in an infant school.",
+          "ar": "تعمل في مدرسة للأطفال الصغار (الحضانة)."
+        }
+      ],
+      "ipa": "/ˈɪnfənt/"
+    },
+    {
+      "id": "w_c1_infect",
+      "en": "infect",
+      "ar": "يعدي / يلوث",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يمكن للفيروس أن يعدي أي شخص يتصل به",
+          "ar": "The hackers managed to infect the network with a virus."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈfɛkt/"
+    },
+    {
+      "id": "w_c1_inflict",
+      "en": "inflict",
+      "ar": "يلحق / يسبب",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكنت العاصفة من إلحاق أضرار جسيمة بالمحاصيل",
+          "ar": "We must not inflict unnecessary pain on animals."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈflɪkt/"
+    },
+    {
+      "id": "w_c1_influential",
+      "en": "influential",
+      "ar": "مؤثر",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنها واحدة من أكثر النساء تأثيراً في العالم",
+          "ar": "The book played an influential role in my decision-幕"
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnfluˈɛnʃəl/"
+    },
+    {
+      "id": "w_c1_inherent",
+      "en": "inherent",
+      "ar": "متأصل / كائن في",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لكل وظيفة مخاطرها وتحدياتها المتأصلة",
+          "ar": "The desire for freedom is inherent in every human."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈhɛɹənt/"
+    },
+    {
+      "id": "w_c1_inhibit",
+      "en": "inhibit",
+      "ar": "يثبط / يمنع",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكن الطقس البارد من تثبيط نمو النباتات",
+          "ar": "Fear can often inhibit a person's ability to take risks."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈhɪbɪt/"
+    },
+    {
+      "id": "w_c1_initiate",
+      "en": "initiate",
+      "ar": "يبدأ / يستهل",
+      "pronunciation": "ɪˈnɪʃieɪt",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الحكومة بدء سياسة تجارية جديدة",
+          "ar": "The company will initiate a formal investigation into the matter."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_inject",
+      "en": "inject",
+      "ar": "يحقن",
+      "lessonId": "lsn_c1_i_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "اضطر الطبيب لحقن الدواء في ذراع المريض",
+          "ar": "The new investment will inject life into the local economy."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪnˈdʒɛkt/"
+    },
     {
       "id": "w_c1_injection",
       "en": "injection",
@@ -54,488 +342,96 @@
       "ipa": "/ɪnˈdʒʌs.tɪs/"
     },
     {
-      "id": "w_c1_instinct",
-      "en": "instinct",
-      "ar": "غريزة",
+      "id": "w_c1_inmate",
       "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تعتمد الحيوانات على الغريزة للبقاء في البرية",
-          "ar": "My first instinct was to say no to the offer."
-        }
-      ],
+      "en": "inmate",
+      "ar": "نزيل (في سجن أو مستشفى)",
+      "translation": "نزيل (في سجن أو مستشفى)",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈɪn.stɪŋkt/"
-    },
-    {
-      "id": "w_c1_institutional",
-      "en": "institutional",
-      "ar": "مؤسسي",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "تمر الجامعة بتغييرات مؤسسية كبرى",
-          "ar": "We need to strengthen our institutional capacity to handle the crisis."
+          "en": "The prison has over 1,000 inmates.",
+          "ar": "يوجد في السجن أكثر من ألف نزيل."
         }
       ],
+      "ipa": "/ˈɪnmeɪt/"
+    },
+    {
+      "id": "w_c1_insertion",
+      "lessonId": "lsn_c1_i_2",
+      "en": "insertion",
+      "ar": "إدراج / إدخال",
+      "translation": "إدراج / إدخال",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/-ʃnəl/"
-    },
-    {
-      "id": "w_c1_insult",
-      "en": "insult",
-      "ar": "إهانة / يهين",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "شعر أن الملاحظة كانت إهانة شخصية له",
-          "ar": "It is never acceptable to insult someone's beliefs."
+          "en": "The insertion of the key into the lock was difficult.",
+          "ar": "كان إدخال المفتاح في القفل صعباً."
         }
       ],
+      "ipa": "/ɪnˈsɜːʃn/"
+    },
+    {
+      "id": "w_c1_insider",
+      "lessonId": "lsn_c1_i_2",
+      "en": "insider",
+      "ar": "مطلع / شخص من الداخل",
+      "translation": "مطلع / شخص من الداخل",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ɪnˈsʌlt/"
-    },
-    {
-      "id": "w_c1_intact",
-      "en": "intact",
-      "ar": "سليم / لم يمس",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "وُجدت المزهرية القديمة سليمة تماماً في المقبرة",
-          "ar": "Despite the accident, his sense of humor remained intact."
+          "en": "The information came from a government insider.",
+          "ar": "جاءت المعلومات من مطلع في الحكومة."
         }
       ],
+      "ipa": "/ɪnˈsaɪdə(r)/"
+    },
+    {
+      "id": "w_c1_inspect",
+      "lessonId": "lsn_c1_i_2",
+      "en": "inspect",
+      "ar": "يفحص / يفتش",
+      "translation": "يفحص / يفتش",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ɪnˈtækt/"
-    },
-    {
-      "id": "w_c1_intake",
-      "en": "intake",
-      "ar": "استهلاك / مدخول",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "يجب عليك تقليل استهلاكك اليومي من السكر والملح",
-          "ar": "The annual intake of students has increased this year."
+          "en": "The building was inspected for safety.",
+          "ar": "تم فحص المبنى للتأكد من سلامته."
         }
       ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɪnteɪk/"
-    },
-    {
-      "id": "w_c1_intensity",
-      "en": "intensity",
-      "ar": "شدة / حدة",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "بدأت شدة الشمس في الازدياد عند الظهر",
-          "ar": "He worked with great intensity to finish the project."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈtɛnsɪti/"
-    },
-    {
-      "id": "w_c1_intent",
-      "en": "intent",
-      "ar": "نية / عزم",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "لم تكن نيتي جرح مشاعرك",
-          "ar": "The company announced its intent to expand into new markets."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈtɛnt/"
-    },
-    {
-      "id": "w_c1_interactive",
-      "en": "interactive",
-      "ar": "تفاعلي",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يضم المتحف عدة شاشات تفاعلية للأطفال",
-          "ar": "We need to create an interactive website for our users."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪntɚˈæktɪv/"
-    },
-    {
-      "id": "w_c1_interface",
-      "en": "interface",
-      "ar": "واجهة",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "واجهة المستخدم الخاصة بالتطبيق بسيطة وسهلة الاستخدام",
-          "ar": "We need to design a better interface for the software."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɪntəfeɪs/"
-    },
-    {
-      "id": "w_c1_interim",
-      "en": "interim",
-      "ar": "مؤقت / انتقالي",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "عين المجلس رئيساً تنفيذياً مؤقتاً بينما يبحثون عن رئيس دائم",
-          "ar": "The two parties reached an interim agreement on trade."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɪntəɹɪm/"
-    },
-    {
-      "id": "w_c1_interior",
-      "en": "interior",
-      "ar": "داخلي / داخل",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "دُيكر الجزء الداخلي من المنزل بأسلوب حديث",
-          "ar": "The ministry of interior is responsible for national security."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈtɪəɹɪə/"
-    },
-    {
-      "id": "w_c1_intervention",
-      "en": "intervention",
-      "ar": "تدخل",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تطلبت الأزمة تدخلاً عسكرياً فورياً",
-          "ar": "Medical intervention was necessary to save the patient's life."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪntəˈvɛnʃən/"
-    },
-    {
-      "id": "w_c1_intimate",
-      "en": "intimate",
-      "ar": "حميم / مقرب",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تناولا عشاءً حميماً في مطعم هادئ",
-          "ar": "He has an intimate knowledge of the local history."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɪn.tɪ.mət/"
-    },
-    {
-      "id": "w_c1_intriguing",
-      "en": "intriguing",
-      "ar": "مثير للاهتمام",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "وجد العالم بعض النتائج المثيرة للاهتمام في الدراسة",
-          "ar": "The movie has an intriguing plot that keeps you guessing."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈtɹiːɡɪŋ/"
-    },
-    {
-      "id": "w_c1_investigator",
-      "en": "investigator",
-      "ar": "محقق",
-      "pronunciation": "ɪnˈvestɪɡeɪتə(r)",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تم استئجار المحقق الخاص للعثور على الشخص المفقود",
-          "ar": "The lead investigator presented the evidence to the court."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_invisible",
-      "en": "invisible",
-      "ar": "غير مرئي",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "الفيروس غير مرئي للعين المجردة",
-          "ar": "He felt invisible in the large crowd of people."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɪnˈvɪzəb(ə)l/"
-    },
-    {
-      "id": "w_c1_involvement",
-      "en": "involvement",
-      "ar": "مشاركة / تورط",
-      "pronunciation": "ɪnˈvɒlvməنت",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "مشاركة أولياء الأمور في المدرسة مهمة جداً",
-          "ar": "The police are investigating his involvement in the crime."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_ironic",
-      "en": "ironic",
-      "ar": "ساخر / مليء بالمفارقات",
-      "pronunciation": "aɪˈrɒnɪك",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "من المفارقات الساخرة أن محطة الإطفاء احترقت",
-          "ar": "He made an ironic comment about the situation."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_ironically",
-      "en": "ironically",
-      "ar": "من المفارقات / بسخرية",
-      "pronunciation": "aɪˈrɒnɪkli",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "من المفارقات أن الحمية الغذائية جعلته يكتسب وزناً بدلاً من فقدانه",
-          "ar": "He smiled ironically when he heard the news."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_irony",
-      "en": "irony",
-      "ar": "سخرية / مفارقة",
-      "pronunciation": "ˈaɪrəni",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "المفارقة (السخرية) هي أنه فشل في الاختبار الذي استعد له",
-          "ar": "She used a touch of irony in her response to him."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_irrelevant",
-      "en": "irrelevant",
-      "ar": "غير ذي صلة",
-      "pronunciation": "ɪˈreləvənt",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أخطاؤه الماضية غير ذي صلة بأدائه الحالي",
-          "ar": "Please ignore any irrelevant information in the report."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_isolation",
-      "en": "isolation",
-      "ar": "عزلة / عزل",
-      "lessonId": "lsn_c1_i_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تعيش القرية النائية في عزلة شبه كاملة",
-          "ar": "The patient was kept in isolation to prevent the spread of the virus."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˌaɪsəˈleɪʃən/"
+      "ipa": "/ɪnˈspekt/"
     }
   ]
 }

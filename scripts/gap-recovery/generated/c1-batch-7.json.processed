@@ -1,0 +1,602 @@
+[
+  {
+    "en": "competence",
+    "translation": "كفاءة / جدارة",
+    "ipa": "/ˈkɒmpɪtəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has shown high competence in his work.",
+        "ar": "أظهر كفاءة عالية في عمله."
+      }
+    ]
+  },
+  {
+    "en": "competent",
+    "translation": "كفء / مؤهل",
+    "ipa": "/ˈkɒmpɪtənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is a very competent lawyer.",
+        "ar": "هي محامية كفءة جداً."
+      }
+    ]
+  },
+  {
+    "en": "compile",
+    "translation": "يجمع / يصنف / يحرر",
+    "ipa": "/kəmˈpaɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We are compiling a list of all the participants.",
+        "ar": "نحن نجمع قائمة بجميع المشاركين."
+      }
+    ]
+  },
+  {
+    "en": "complement",
+    "translation": "يكمل / تكملة",
+    "ipa": "/ˈkɒmplɪment/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two styles complement each other perfectly.",
+        "ar": "الأسلوبان يكملان بعضهما البعض تماماً."
+      }
+    ]
+  },
+  {
+    "en": "complexity",
+    "translation": "تعقيد",
+    "ipa": "/kəmˈpleksəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The complexity of the problem surprised us.",
+        "ar": "فاجأنا تعقيد المشكلة."
+      }
+    ]
+  },
+  {
+    "en": "compliance",
+    "translation": "امتثال / طاعة",
+    "ipa": "/kəmˈplaɪəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company is in full compliance with the law.",
+        "ar": "الشركة في حالة امتثال تام للقانون."
+      }
+    ]
+  },
+  {
+    "en": "complication",
+    "translation": "تعقيد / مضاعفات",
+    "ipa": "/ˌkɒmplɪˈkeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There were some complications during the surgery.",
+        "ar": "كانت هناك بعض المضاعفات أثناء الجراحة."
+      }
+    ]
+  },
+  {
+    "en": "comply",
+    "translation": "يمتثل / يطيع",
+    "ipa": "/kəmˈplaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "All citizens must comply with the regulations.",
+        "ar": "يجب على جميع المواطنين الامتثال للوائح."
+      }
+    ]
+  },
+  {
+    "en": "compose",
+    "translation": "يؤلف / يشكل",
+    "ipa": "/kəmˈpəʊz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Water is composed of hydrogen and oxygen.",
+        "ar": "يتكون الماء من الهيدروجين والأكسجين."
+      }
+    ]
+  },
+  {
+    "en": "composer",
+    "translation": "ملحن / مؤلف موسيقي",
+    "ipa": "/kəmˈpəʊzə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Beethoven is one of the world's greatest composers.",
+        "ar": "بيتهوفن هو واحد من أعظم الملحنين في العالم."
+      }
+    ]
+  },
+  {
+    "en": "composite",
+    "translation": "مركب / مؤلف من أجزاء",
+    "ipa": "/ˈkɒmpəzɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The material is a composite of plastic and metal.",
+        "ar": "المادة هي مركب من البلاستيك والمعدن."
+      }
+    ]
+  },
+  {
+    "en": "composition",
+    "translation": "تكوين / تأليف / إنشاء",
+    "ipa": "/ˌkɒmpəˈzɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The composition of the team has changed.",
+        "ar": "تغير تكوين الفريق."
+      }
+    ]
+  },
+  {
+    "en": "compound",
+    "translation": "مركب / مجمع / يضاعف",
+    "ipa": "/ˈkɒmpaʊnd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Salt is a chemical compound.",
+        "ar": "الملح مركب كيميائي."
+      }
+    ]
+  },
+  {
+    "en": "comprehensive",
+    "translation": "شامل",
+    "ipa": "/ˌkɒmprɪˈhensɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need a comprehensive solution to the problem.",
+        "ar": "نحن بحاجة لحل شامل للمشكلة."
+      }
+    ]
+  },
+  {
+    "en": "comprise",
+    "translation": "يشمل / يضم",
+    "ipa": "/kəmˈpraɪz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The collection comprises over 500 paintings.",
+        "ar": "تضم المجموعة أكثر من خمسمائة لوحة."
+      }
+    ]
+  },
+  {
+    "en": "compromise",
+    "translation": "تسوية / حل وسط / يعرض للخطر",
+    "ipa": "/ˈkɒmprəmaɪz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They reached a compromise after long negotiations.",
+        "ar": "وصلوا إلى تسوية (حل وسط) بعد مفاوضات طويلة."
+      }
+    ]
+  },
+  {
+    "en": "compulsory",
+    "translation": "إلزامي / إجباري",
+    "ipa": "/kəmˈpʌlsəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Education is compulsory until the age of 16.",
+        "ar": "التعليم إلزامي حتى سن السادسة عشرة."
+      }
+    ]
+  },
+  {
+    "en": "compute",
+    "translation": "يحسب / يقدر",
+    "ipa": "/kəmˈpjuːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The computer can compute large numbers very quickly.",
+        "ar": "يمكن للكمبيوتر حساب أرقام كبيرة بسرعة فائقة."
+      }
+    ]
+  },
+  {
+    "en": "conceal",
+    "translation": "يخفي / يكتم",
+    "ipa": "/kənˈsiːl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He tried to conceal his true feelings.",
+        "ar": "حاول إخفاء مشاعره الحقيقية."
+      }
+    ]
+  },
+  {
+    "en": "concede",
+    "translation": "يعترف بـ / يقر / يتنازل",
+    "ipa": "/kənˈsiːd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He finally conceded that he was wrong.",
+        "ar": "اعترف أخيراً بأنه كان مخطئاً."
+      }
+    ]
+  },
+  {
+    "en": "conceive",
+    "translation": "يتصور / يعتقد / تحمل (جنين)",
+    "ipa": "/kənˈsiːv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I can't conceive of a reason why he would do that.",
+        "ar": "لا أستطيع تصور سبب لقيامه بذلك."
+      }
+    ]
+  },
+  {
+    "en": "conception",
+    "translation": "تصور / مفهوم / حمل",
+    "ipa": "/kənˈsepʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "His conception of the world is very different from mine.",
+        "ar": "تصوره للعالم مختلف تماماً عن تصوري."
+      }
+    ]
+  },
+  {
+    "en": "concession",
+    "translation": "تنازل / امتياز",
+    "ipa": "/kənˈseʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government made some concessions to the protesters.",
+        "ar": "قدمت الحكومة بعض التنازلات للمتظاهرين."
+      }
+    ]
+  },
+  {
+    "en": "concrete",
+    "translation": "خرسانة / ملموس / واقعي",
+    "ipa": "/ˈkɒŋkriːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The building is made of reinforced concrete.",
+        "ar": "المبنى مصنوع من الخرسانة المسلحة."
+      }
+    ]
+  },
+  {
+    "en": "condemn",
+    "translation": "يدين / يستنكر",
+    "ipa": "/kənˈdem/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The attack was widely condemned by world leaders.",
+        "ar": "أدان زعماء العالم الهجوم على نطاق واسع."
+      }
+    ]
+  },
+  {
+    "en": "confer",
+    "translation": "يتشاور / يمنح (لقباً أو درجة)",
+    "ipa": "/kənˈfɜː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The president conferred a medal on the hero.",
+        "ar": "منح الرئيس وساماً للبطل."
+      }
+    ]
+  },
+  {
+    "en": "confess",
+    "translation": "يعترف",
+    "ipa": "/kənˈfes/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He confessed to the crime.",
+        "ar": "اعترف بالجريمة."
+      }
+    ]
+  },
+  {
+    "en": "confession",
+    "translation": "اعتراف",
+    "ipa": "/kənˈfeʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The police obtained a written confession.",
+        "ar": "حصلت الشرطة على اعتراف مكتوب."
+      }
+    ]
+  },
+  {
+    "en": "configuration",
+    "translation": "تكوين / تهيئة / تشكيل",
+    "ipa": "/kənˌfɪɡjəˈreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You need to change the software configuration.",
+        "ar": "أنت بحاجة لتغيير تهيئة البرنامج."
+      }
+    ]
+  },
+  {
+    "en": "confine",
+    "translation": "يقيد / يحصر",
+    "ipa": "/kənˈfaɪn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was confined to a wheelchair after the accident.",
+        "ar": "أصبح مقيداً بكرسي متحرك بعد الحادث."
+      }
+    ]
+  },
+  {
+    "en": "confirmation",
+    "translation": "تأكيد / إثبات",
+    "ipa": "/ˌkɒnfəˈmeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We are still waiting for confirmation of the news.",
+        "ar": "لا نزال ننتظر تأكيد الخبر."
+      }
+    ]
+  },
+  {
+    "en": "confront",
+    "translation": "يواجه",
+    "ipa": "/kənˈfrʌnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We must confront the problem directly.",
+        "ar": "يجب علينا مواجهة المشكلة مباشرة."
+      }
+    ]
+  },
+  {
+    "en": "confrontation",
+    "translation": "مواجهة",
+    "ipa": "/ˌkɒnfrʌnˈteɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The confrontation between the two sides was violent.",
+        "ar": "كانت المواجهة بين الجانبين عنيفة."
+      }
+    ]
+  },
+  {
+    "en": "confusion",
+    "translation": "ارتباك / حيرة / فوضى",
+    "ipa": "/kənˈfjuːʒn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There was some confusion about the new rules.",
+        "ar": "كان هناك بعض الارتباك حول القواعد الجديدة."
+      }
+    ]
+  },
+  {
+    "en": "congratulate",
+    "translation": "يهنئ",
+    "ipa": "/kənˈɡrætʃuleɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I'd like to congratulate you on your success.",
+        "ar": "أود أن أهنئك على نجاحك."
+      }
+    ]
+  },
+  {
+    "en": "congregation",
+    "translation": "رعية / مصلون / تجمع",
+    "ipa": "/ˌkɒŋɡrɪˈɡeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The congregation sang a hymn together.",
+        "ar": "غنت الرعية (المصلون) ترنيمة معاً."
+      }
+    ]
+  },
+  {
+    "en": "congressional",
+    "translation": "خاص بالكونجرس / تشريعي",
+    "ipa": "/kənˈɡreʃənl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The matter was discussed at a congressional hearing.",
+        "ar": "نُوقش الأمر في جلسة استماع بالكونجرس."
+      }
+    ]
+  },
+  {
+    "en": "conquer",
+    "translation": "يغزو / يقهر / يتغلب على",
+    "ipa": "/ˈkɒŋkə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The army conquered the city in just three days.",
+        "ar": "غزا الجيش المدينة في ثلاثة أيام فقط."
+      }
+    ]
+  },
+  {
+    "en": "conscience",
+    "translation": "ضمير",
+    "ipa": "/ˈkɒnʃəns/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has a clear conscience.",
+        "ar": "لديه ضمير مرتاح."
+      }
+    ]
+  },
+  {
+    "en": "consciousness",
+    "translation": "وعي / إدراك",
+    "ipa": "/ˈkɒnʃəsnəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He lost consciousness after the fall.",
+        "ar": "فقد وعيه بعد السقوط."
+      }
+    ]
+  },
+  {
+    "en": "consecutive",
+    "translation": "متتابع / متتالي",
+    "ipa": "/kənˈsekjətɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It rained for three consecutive days.",
+        "ar": "أمطرت لثلاثة أيام متتالية."
+      }
+    ]
+  },
+  {
+    "en": "consensus",
+    "translation": "إجماع / توافق في الآراء",
+    "ipa": "/kənˈsensəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a general consensus that the system needs to change.",
+        "ar": "هناك إجماع عام على أن النظام بحاجة للتغيير."
+      }
+    ]
+  },
+  {
+    "en": "consent",
+    "translation": "موافقة / يوافق",
+    "ipa": "/kənˈsent/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He signed the form to show his consent.",
+        "ar": "وقع النموذج لإظهار موافقته."
+      }
+    ]
+  },
+  {
+    "en": "conservation",
+    "translation": "حفظ / صون / حماية البيئة",
+    "ipa": "/ˌkɒnsəˈveɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We must work for the conservation of wildlife.",
+        "ar": "يجب أن نعمل من أجل صون (حماية) الحياة البرية."
+      }
+    ]
+  },
+  {
+    "en": "conserve",
+    "translation": "يحافظ على / يصون",
+    "ipa": "/kənˈsɜːv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We need to conserve energy.",
+        "ar": "نحن بحاجة للحفاظ على الطاقة."
+      }
+    ]
+  },
+  {
+    "en": "considerable",
+    "translation": "كبير / ملحوظ / هام",
+    "ipa": "/kənˈsɪdərəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The project cost a considerable amount of money.",
+        "ar": "كلف المشروع مبلغاً كبيراً من المال."
+      }
+    ]
+  },
+  {
+    "en": "considerably",
+    "translation": "بدرجة كبيرة / ملحوظة",
+    "ipa": "/kənˈsɪdərəbli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The situation has improved considerably.",
+        "ar": "تحسن الوضع بدرجة كبيرة."
+      }
+    ]
+  },
+  {
+    "en": "consistency",
+    "translation": "ثبات / اتساق / قوام",
+    "ipa": "/kənˈsɪstənsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Consistency is the key to success.",
+        "ar": "الثبات (الاتساق) هو مفتاح النجاح."
+      }
+    ]
+  },
+  {
+    "en": "consistently",
+    "translation": "بثبات / بانتظام",
+    "ipa": "/kənˈsɪstəntli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has consistently performed well throughout the year.",
+        "ar": "لقد أدى بشكل جيد بانتظام طوال العام."
+      }
+    ]
+  },
+  {
+    "en": "consolidate",
+    "translation": "يوطد / يدمج / يدعم",
+    "ipa": "/kənˈsɒlɪdeɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company is trying to consolidate its position in the market.",
+        "ar": "تحاول الشركة توطيد مكانتها في السوق."
+      }
+    ]
+  }
+]

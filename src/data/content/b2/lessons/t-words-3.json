@@ -1,0 +1,472 @@
+{
+  "id": "lsn_b2_t_3",
+  "levelId": "lvl_b2",
+  "title": "Unit 64: T Words - Part 3",
+  "slug": "t-words-3",
+  "order": 64,
+  "wordCount": 20,
+  "titleAr": "الوحدة 64: كلمات حرف T - الجزء 3",
+  "description": "Master essential B2 vocabulary starting with the letter T.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف T.",
+  "words": [
+    {
+      "id": "w_b2_tragic",
+      "lessonId": "lsn_b2_t_3",
+      "en": "tragic",
+      "ar": "مأساوي",
+      "translation": "مأساوي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It was a tragic loss for the family.",
+          "ar": "كانت خسارة مأساوية للعائلة."
+        }
+      ],
+      "ipa": "/ˈtrædʒɪk/"
+    },
+    {
+      "id": "w_b2_trait",
+      "lessonId": "lsn_b2_t_3",
+      "en": "trait",
+      "ar": "سمة / خصلة",
+      "translation": "سمة / خصلة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Patience is a very important trait.",
+          "ar": "الصبر سمة مهمة جداً."
+        }
+      ],
+      "ipa": "/treɪt/"
+    },
+    {
+      "id": "w_b2_transfer",
+      "lessonId": "lsn_b2_t_3",
+      "en": "transfer",
+      "ar": "ينقل / تحويل",
+      "translation": "ينقل / تحويل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was transferred to the London office.",
+          "ar": "تم نقله إلى مكتب لندن."
+        }
+      ],
+      "ipa": "/trænsˈfɜː(r)/"
+    },
+    {
+      "id": "w_b2_transform",
+      "lessonId": "lsn_b2_t_3",
+      "en": "transform",
+      "ar": "يحول / يغير جذرياً",
+      "translation": "يحول / يغير جذرياً",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The Internet has transformed the way we work.",
+          "ar": "لقد حول الإنترنت الطريقة التي نعمل بها."
+        }
+      ],
+      "ipa": "/trænsˈfɔːm/"
+    },
+    {
+      "id": "w_b2_transition",
+      "lessonId": "lsn_b2_t_3",
+      "en": "transition",
+      "ar": "انتقال / تحول",
+      "translation": "انتقال / تحول",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The transition to a new system takes time.",
+          "ar": "الانتقال إلى نظام جديد يستغرق وقتاً."
+        }
+      ],
+      "ipa": "/trænˈzɪʃn/"
+    },
+    {
+      "id": "w_b2_transmit",
+      "lessonId": "lsn_b2_t_3",
+      "en": "transmit",
+      "ar": "ينقل / يرسل",
+      "translation": "ينقل / يرسل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The virus can be transmitted through the air.",
+          "ar": "يمكن أن ينتقل الفيروس عبر الهواء."
+        }
+      ],
+      "ipa": "/trænzˈmɪt/"
+    },
+    {
+      "id": "w_b2_transportation",
+      "lessonId": "lsn_b2_t_3",
+      "en": "transportation",
+      "ar": "نقل / مواصلات",
+      "translation": "نقل / مواصلات",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Public transportation in this city is excellent.",
+          "ar": "المواصلات العامة في هذه المدينة ممتازة."
+        }
+      ],
+      "ipa": "/ˌtrænspɔːˈteɪʃn/"
+    },
+    {
+      "id": "w_b2_trap",
+      "lessonId": "lsn_b2_t_3",
+      "en": "trap",
+      "ar": "فخ / مصيدة",
+      "translation": "فخ / مصيدة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The mouse was caught in a trap.",
+          "ar": "وقع الفأر في المصيدة."
+        }
+      ],
+      "ipa": "/træp/"
+    },
+    {
+      "id": "w_b2_treasure",
+      "lessonId": "lsn_b2_t_3",
+      "en": "treasure",
+      "ar": "كنز",
+      "translation": "كنز",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They found buried treasure on the island.",
+          "ar": "وجدوا كنزاً مدفوناً في الجزيرة."
+        }
+      ],
+      "ipa": "/ˈtreʒə(r)/"
+    },
+    {
+      "id": "w_b2_trial",
+      "lessonId": "lsn_b2_t_3",
+      "en": "trial",
+      "ar": "محاكمة / تجربة",
+      "translation": "محاكمة / تجربة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The trial lasted for several weeks.",
+          "ar": "استمرت المحاكمة لعدة أسابيع."
+        }
+      ],
+      "ipa": "/ˈtraɪəl/"
+    },
+    {
+      "id": "w_b2_tribe",
+      "lessonId": "lsn_b2_t_3",
+      "en": "tribe",
+      "ar": "قبيلة",
+      "translation": "قبيلة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The tribe has lived in this forest for centuries.",
+          "ar": "عاشت القبيلة في هذه الغابة لقرون."
+        }
+      ],
+      "ipa": "/traɪb/"
+    },
+    {
+      "id": "w_c1_trigger",
+      "en": "trigger",
+      "ar": "يثير / يطلق شرارة / زناد",
+      "lessonId": "lsn_b2_t_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "يمكن للطقس البارد أن يثير نوبات الربو لدى بعض الناس.",
+          "ar": "His comments triggered a heated debate."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹɪɡə/"
+    },
+    {
+      "id": "w_b2_trillion",
+      "lessonId": "lsn_b2_t_3",
+      "en": "trillion",
+      "ar": "تريليون (ألف مليار)",
+      "translation": "تريليون (ألف مليار)",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The national debt is over a trillion dollars.",
+          "ar": "الدين القومي يتجاوز تريليون دولار."
+        }
+      ],
+      "ipa": "/ˈtrɪljən/"
+    },
+    {
+      "id": "w_b2_troop",
+      "lessonId": "lsn_b2_t_3",
+      "en": "troop",
+      "ar": "قوات / جنود",
+      "translation": "قوات / جنود",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government sent troops to the border.",
+          "ar": "أرسلت الحكومة قوات إلى الحدود."
+        }
+      ],
+      "ipa": "/truːp/"
+    },
+    {
+      "id": "w_b2_tropical",
+      "lessonId": "lsn_b2_t_3",
+      "en": "tropical",
+      "ar": "استوائي",
+      "translation": "استوائي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The island has a tropical climate.",
+          "ar": "الجزيرة لها مناخ استوائي."
+        }
+      ],
+      "ipa": "/ˈtrɒpɪkl/"
+    },
+    {
+      "id": "w_b2_truly",
+      "lessonId": "lsn_b2_t_3",
+      "en": "truly",
+      "ar": "حقاً / بصدق",
+      "translation": "حقاً / بصدق",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I am truly sorry for what happened.",
+          "ar": "أنا آسف حقاً لما حدث."
+        }
+      ],
+      "ipa": "/ˈtruːli/"
+    },
+    {
+      "id": "w_b2_trust",
+      "lessonId": "lsn_b2_t_3",
+      "en": "trust",
+      "ar": "ثقة / يثق",
+      "translation": "ثقة / يثق",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Trust is essential in any friendship.",
+          "ar": "الثقة ضرورية في أي صداقة."
+        }
+      ],
+      "ipa": "/trʌst/"
+    },
+    {
+      "id": "w_b2_tsunami",
+      "lessonId": "lsn_b2_t_3",
+      "en": "tsunami",
+      "ar": "تسونامي / أمواج عاتية",
+      "translation": "تسونامي / أمواج عاتية",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The coastline was devastated by a tsunami.",
+          "ar": "دُمر الساحل بسبب تسونامي."
+        }
+      ],
+      "ipa": "/tsuːˈnɑːmi/"
+    },
+    {
+      "id": "w_b2_tune",
+      "lessonId": "lsn_b2_t_3",
+      "en": "tune",
+      "ar": "لحن / نغمة",
+      "translation": "لحن / نغمة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was humming a catchy tune.",
+          "ar": "كان يدندن لحناً جذاباً."
+        }
+      ],
+      "ipa": "/tjuːn/"
+    },
+    {
+      "id": "w_b2_tunnel",
+      "lessonId": "lsn_b2_t_3",
+      "en": "tunnel",
+      "ar": "نفق",
+      "translation": "نفق",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The train passed through a long tunnel.",
+          "ar": "مر القطار عبر نفق طويل."
+        }
+      ],
+      "ipa": "/ˈtʌnl/"
+    }
+  ]
+}

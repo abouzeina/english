@@ -1,0 +1,602 @@
+[
+  {
+    "en": "tag",
+    "translation": "علامة / بطاقة تصنيف",
+    "ipa": "/tæɡ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The price tag is missing from this shirt.",
+        "ar": "بطاقة السعر مفقودة من هذا القميص."
+      }
+    ]
+  },
+  {
+    "en": "tale",
+    "translation": "حكاية / قصة",
+    "ipa": "/teɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He told us an exciting tale of adventure.",
+        "ar": "حكى لنا قصة مغامرة مثيرة."
+      }
+    ]
+  },
+  {
+    "en": "tank",
+    "translation": "دبابة / خزان",
+    "ipa": "/tæŋk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The car has a full tank of petrol.",
+        "ar": "السيارة بها خزان وقود ممتلئ."
+      }
+    ]
+  },
+  {
+    "en": "tap",
+    "translation": "صنبور / ينقر",
+    "ipa": "/tæp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Turn off the tap while you brush your teeth.",
+        "ar": "أغلق الصنبور أثناء تنظيف أسنانك."
+      }
+    ]
+  },
+  {
+    "en": "tear",
+    "translation": "دمعة / يمزق",
+    "ipa": "/tɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She wiped a tear from her eye.",
+        "ar": "مسحت دمعة من عينها."
+      }
+    ]
+  },
+  {
+    "en": "technological",
+    "translation": "تكنولوجي / تقني",
+    "ipa": "/ˌteknəˈlɒdʒɪkl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We are living in an era of rapid technological change.",
+        "ar": "نحن نعيش في عصر من التغيير التكنولوجي السريع."
+      }
+    ]
+  },
+  {
+    "en": "teens",
+    "translation": "سن المراهقة",
+    "ipa": "/tiːnz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She's in her late teens.",
+        "ar": "هي في أواخر سن المراهقة."
+      }
+    ]
+  },
+  {
+    "en": "temple",
+    "translation": "معبد / صدغ",
+    "ipa": "/ˈtempl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The ancient temple was built of stone.",
+        "ar": "بُني المعبد القديم من الحجر."
+      }
+    ]
+  },
+  {
+    "en": "temporarily",
+    "translation": "مؤقتاً",
+    "ipa": "/ˈtemprərəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The office is temporarily closed for repairs.",
+        "ar": "المكتب مغلق مؤقتاً للإصلاحات."
+      }
+    ]
+  },
+  {
+    "en": "temporary",
+    "translation": "مؤقت",
+    "ipa": "/ˈtemprəri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He found a temporary job for the summer.",
+        "ar": "وجد وظيفة مؤقتة للصيف."
+      }
+    ]
+  },
+  {
+    "en": "tendency",
+    "translation": "ميل / نزعة",
+    "ipa": "/ˈtendənsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a tendency for prices to rise.",
+        "ar": "هناك ميل لارتفاع الأسعار."
+      }
+    ]
+  },
+  {
+    "en": "tension",
+    "translation": "توتر",
+    "ipa": "/ˈtenʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There was a lot of tension in the room.",
+        "ar": "كان هناك الكثير من التوتر في الغرفة."
+      }
+    ]
+  },
+  {
+    "en": "terms",
+    "translation": "شروط / مصطلحات",
+    "ipa": "/tɜːmz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Please read the terms and conditions carefully.",
+        "ar": "يرجى قراءة الشروط والأحكام بعناية."
+      }
+    ]
+  },
+  {
+    "en": "terribly",
+    "translation": "بشكل رهيب / جداً",
+    "ipa": "/ˈterəbli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I'm terribly sorry for the delay.",
+        "ar": "أنا آسف جداً على التأخير."
+      }
+    ]
+  },
+  {
+    "en": "terrify",
+    "translation": "يرعب / يفزع",
+    "ipa": "/ˈterɪfaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The thought of flying terrifies her.",
+        "ar": "فكرة الطيران ترعبها."
+      }
+    ]
+  },
+  {
+    "en": "territory",
+    "translation": "إقليم / أرض",
+    "ipa": "/ˈterətri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The army occupied the enemy territory.",
+        "ar": "احتل الجيش أراضي العدو."
+      }
+    ]
+  },
+  {
+    "en": "terror",
+    "translation": "رعب / ذعر",
+    "ipa": "/ˈterə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The people lived in terror of the regime.",
+        "ar": "عاش الناس في رعب من النظام."
+      }
+    ]
+  },
+  {
+    "en": "terrorism",
+    "translation": "إرهاب",
+    "ipa": "/ˈterərɪzəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government is committed to fighting terrorism.",
+        "ar": "الحكومة ملتزمة بمحاربة الإرهاب."
+      }
+    ]
+  },
+  {
+    "en": "terrorist",
+    "translation": "إرهابي",
+    "ipa": "/ˈterərɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The attack was carried out by a group of terrorists.",
+        "ar": "نُفذ الهجوم من قبل مجموعة من الإرهابيين."
+      }
+    ]
+  },
+  {
+    "en": "testing",
+    "translation": "اختبار / فحص",
+    "ipa": "/ˈtestɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new drug is still undergoing testing.",
+        "ar": "الدواء الجديد لا يزال قيد الاختبار."
+      }
+    ]
+  },
+  {
+    "en": "textbook",
+    "translation": "كتاب مدرسي",
+    "ipa": "/ˈtekstbʊk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We use this textbook for our English class.",
+        "ar": "نحن نستخدم هذا الكتاب المدرسي لصف اللغة الإنجليزية."
+      }
+    ]
+  },
+  {
+    "en": "theft",
+    "translation": "سرقة",
+    "ipa": "/θeft/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was charged with car theft.",
+        "ar": "وُجهت إليه تهمة سرقة سيارة."
+      }
+    ]
+  },
+  {
+    "en": "therapist",
+    "translation": "معالج",
+    "ipa": "/ˈθerəpɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is seeing a therapist to help with her anxiety.",
+        "ar": "هي تراجع معالجاً لمساعدتها في قلقها."
+      }
+    ]
+  },
+  {
+    "en": "therapy",
+    "translation": "علاج",
+    "ipa": "/ˈθerəpi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Physical therapy can help after an injury.",
+        "ar": "يمكن للعلاج الفيزيائي أن يساعد بعد الإصابة."
+      }
+    ]
+  },
+  {
+    "en": "thesis",
+    "translation": "أطروحة / رسالة علمية",
+    "ipa": "/ˈθiːsɪs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is writing her doctoral thesis on history.",
+        "ar": "هي تكتب أطروحة الدكتوراه الخاصة بها في التاريخ."
+      }
+    ]
+  },
+  {
+    "en": "thorough",
+    "translation": "شامل / دقيق",
+    "ipa": "/ˈθʌrə/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The police carried out a thorough investigation.",
+        "ar": "أجرت الشرطة تحقيقاً شاملاً."
+      }
+    ]
+  },
+  {
+    "en": "thoroughly",
+    "translation": "بشكل كامل / بدقة",
+    "ipa": "/ˈθʌrəli/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Clean the room thoroughly before the guests arrive.",
+        "ar": "نظف الغرفة بدقة قبل وصول الضيوف."
+      }
+    ]
+  },
+  {
+    "en": "threat",
+    "translation": "تهديد",
+    "ipa": "/θret/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Global warming is a serious threat to the planet.",
+        "ar": "الاحتباس الحراري تهديد خطير للكوكب."
+      }
+    ]
+  },
+  {
+    "en": "threaten",
+    "translation": "يهدد",
+    "ipa": "/ˈθretn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He threatened to call the police.",
+        "ar": "هدد بالاتصال بالشرطة."
+      }
+    ]
+  },
+  {
+    "en": "thumb",
+    "translation": "إبهام",
+    "ipa": "/θʌm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He gave us a thumbs-up sign.",
+        "ar": "أعطانا إشارة الإبهام للأعلى (علامة الموافقة)."
+      }
+    ]
+  },
+  {
+    "en": "thus",
+    "translation": "وبالتالي / وهكذا",
+    "ipa": "/ðʌs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He failed the test and thus was unable to graduate.",
+        "ar": "فشل في الاختبار وبالتالي لم يتمكن من التخرج."
+      }
+    ]
+  },
+  {
+    "en": "timing",
+    "translation": "توقيت",
+    "ipa": "/ˈtaɪmɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The timing of his arrival was perfect.",
+        "ar": "كان توقيت وصوله مثالياً."
+      }
+    ]
+  },
+  {
+    "en": "tissue",
+    "translation": "نسيج / منديل ورقي",
+    "ipa": "/ˈtɪʃuː/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He wiped his nose with a tissue.",
+        "ar": "مسح أنفه بمنديل ورقي."
+      }
+    ]
+  },
+  {
+    "en": "ton",
+    "translation": "طن (وحدة وزن)",
+    "ipa": "/tʌn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The elephant weighs several tons.",
+        "ar": "يزن الفيل عدة أطنان."
+      }
+    ]
+  },
+  {
+    "en": "tone",
+    "translation": "نبرة / نغمة",
+    "ipa": "/təʊn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I didn't like the tone of his voice.",
+        "ar": "لم تعجبني نبرة صوته."
+      }
+    ]
+  },
+  {
+    "en": "tonne",
+    "translation": "طن متري",
+    "ipa": "/tʌn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They exported 500 tonnes of wheat.",
+        "ar": "صدروا خمسمائة طن من القمح."
+      }
+    ]
+  },
+  {
+    "en": "tough",
+    "translation": "صعب / قاسٍ / متين",
+    "ipa": "/tʌf/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It was a very tough decision to make.",
+        "ar": "كان قراراً صعباً للغاية."
+      }
+    ]
+  },
+  {
+    "en": "tournament",
+    "translation": "بطولة / دورة رياضة",
+    "ipa": "/ˈtʊənəmənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He won the tennis tournament last year.",
+        "ar": "فاز ببطولة التنس العام الماضي."
+      }
+    ]
+  },
+  {
+    "en": "trading",
+    "translation": "تجارة / تداول",
+    "ipa": "/ˈtreɪdɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company is involved in international trading.",
+        "ar": "الشركة منخرطة في التجارة الدولية."
+      }
+    ]
+  },
+  {
+    "en": "tragedy",
+    "translation": "مأساة",
+    "ipa": "/ˈtrædʒədi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The accident was a terrible tragedy.",
+        "ar": "كان الحادث مأساة رهيبة."
+      }
+    ]
+  },
+  {
+    "en": "tragic",
+    "translation": "مأساوي",
+    "ipa": "/ˈtrædʒɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "It was a tragic loss for the family.",
+        "ar": "كانت خسارة مأساوية للعائلة."
+      }
+    ]
+  },
+  {
+    "en": "trait",
+    "translation": "سمة / خصلة",
+    "ipa": "/treɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Patience is a very important trait.",
+        "ar": "الصبر سمة مهمة جداً."
+      }
+    ]
+  },
+  {
+    "en": "transfer",
+    "translation": "ينقل / تحويل",
+    "ipa": "/trænsˈfɜː(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was transferred to the London office.",
+        "ar": "تم نقله إلى مكتب لندن."
+      }
+    ]
+  },
+  {
+    "en": "transform",
+    "translation": "يحول / يغير جذرياً",
+    "ipa": "/trænsˈfɔːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The Internet has transformed the way we work.",
+        "ar": "لقد حول الإنترنت الطريقة التي نعمل بها."
+      }
+    ]
+  },
+  {
+    "en": "transition",
+    "translation": "انتقال / تحول",
+    "ipa": "/trænˈzɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The transition to a new system takes time.",
+        "ar": "الانتقال إلى نظام جديد يستغرق وقتاً."
+      }
+    ]
+  },
+  {
+    "en": "transmit",
+    "translation": "ينقل / يرسل",
+    "ipa": "/trænzˈmɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The virus can be transmitted through the air.",
+        "ar": "يمكن أن ينتقل الفيروس عبر الهواء."
+      }
+    ]
+  },
+  {
+    "en": "transportation",
+    "translation": "نقل / مواصلات",
+    "ipa": "/ˌtrænspɔːˈteɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Public transportation in this city is excellent.",
+        "ar": "المواصلات العامة في هذه المدينة ممتازة."
+      }
+    ]
+  },
+  {
+    "en": "trap",
+    "translation": "فخ / مصيدة",
+    "ipa": "/træp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The mouse was caught in a trap.",
+        "ar": "وقع الفأر في المصيدة."
+      }
+    ]
+  },
+  {
+    "en": "treasure",
+    "translation": "كنز",
+    "ipa": "/ˈtreʒə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They found buried treasure on the island.",
+        "ar": "وجدوا كنزاً مدفوناً في الجزيرة."
+      }
+    ]
+  },
+  {
+    "en": "trial",
+    "translation": "محاكمة / تجربة",
+    "ipa": "/ˈtraɪəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The trial lasted for several weeks.",
+        "ar": "استمرت المحاكمة لعدة أسابيع."
+      }
+    ]
+  }
+]

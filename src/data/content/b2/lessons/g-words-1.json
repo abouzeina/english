@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_g_1",
   "levelId": "lvl_b2",
-  "title": "Unit 21: G Words - Part 1",
+  "title": "Unit 27: G Words - Part 1",
   "slug": "g-words-1",
-  "order": 21,
-  "wordCount": 17,
-  "titleAr": "الوحدة 21: كلمات حرف G - الجزء 1",
+  "order": 27,
+  "wordCount": 19,
+  "titleAr": "الوحدة 27: كلمات حرف G - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter G.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف G.",
   "words": [
@@ -120,6 +120,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_b2_gender",
+      "lessonId": "lsn_b2_g_1",
+      "en": "gender",
+      "ar": "جنس / نوع",
+      "translation": "جنس / نوع",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Discrimination on the basis of gender is illegal.",
+          "ar": "التمييز على أساس الجنس غير قانوني."
+        }
+      ],
+      "ipa": "/ˈdʒendə(r)/"
+    },
+    {
       "id": "w_b2_genders",
       "en": "genders",
       "ar": "الجنسين",
@@ -140,6 +163,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_gene",
+      "lessonId": "lsn_b2_g_1",
+      "en": "gene",
+      "ar": "جين / مورثة",
+      "translation": "جين / مورثة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Scientists are studying the genes responsible for the disease.",
+          "ar": "يدرس العلماء الجينات المسؤولة عن المرض."
+        }
+      ],
+      "ipa": "/dʒiːn/"
     },
     {
       "id": "w_b2_generate",

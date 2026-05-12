@@ -1,14 +1,58 @@
 {
   "id": "lsn_c1_s_2",
   "levelId": "lvl_c1",
-  "title": "Unit 39: S Words - Part 2",
+  "title": "Unit 57: S Words - Part 2",
   "slug": "s-words-2",
-  "order": 39,
+  "order": 57,
   "wordCount": 24,
-  "titleAr": "الوحدة 39: كلمات حرف S - الجزء 2",
+  "titleAr": "الوحدة 57: كلمات حرف S - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_c1_set_up",
+      "en": "set-up",
+      "ar": "إعداد / نظام / بنية",
+      "pronunciation": "ˈset ʌp",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان إعداد التجربة معقداً للغاية",
+          "ar": "I'm not happy with the current set-up of the office."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_settlement",
+      "en": "settlement",
+      "ar": "تسوية / مستوطنة / تجمع سكني",
+      "lessonId": "lsn_c1_s_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توصل الطرفان لتسوية قانونية خارج المحكمة",
+          "ar": "Archaeologists discovered an ancient settlement near the river."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈset.l.mənt/"
+    },
     {
       "id": "w_c1_sexuality",
       "en": "sexuality",
@@ -142,6 +186,236 @@
       "ipa": "/ˈʃɪpɪŋ/"
     },
     {
+      "id": "w_c1_shrink",
+      "lessonId": "lsn_c1_s_2",
+      "en": "shrink",
+      "ar": "ينكمش / يتقلص",
+      "translation": "ينكمش / يتقلص",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The woolen sweater shrank in the wash.",
+          "ar": "انكمشت السترة الصوفية في الغسيل."
+        }
+      ],
+      "ipa": "/ʃrɪŋk/"
+    },
+    {
+      "id": "w_c1_shrug",
+      "lessonId": "lsn_c1_s_2",
+      "en": "shrug",
+      "ar": "يهز كتفيه (عدم اهتمام أو عدم معرفة)",
+      "translation": "يهز كتفيه (عدم اهتمام أو عدم معرفة)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He just shrugged his shoulders and said nothing.",
+          "ar": "هز كتفيه فقط ولم يقل شيئاً."
+        }
+      ],
+      "ipa": "/ʃrʌɡ/"
+    },
+    {
+      "id": "w_c1_sigh",
+      "lessonId": "lsn_c1_s_2",
+      "en": "sigh",
+      "ar": "يتنهد / تنهيدة",
+      "translation": "يتنهد / تنهيدة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She gave a deep sigh of relief.",
+          "ar": "تنهدت تنهيدة عميقة من الراحة."
+        }
+      ],
+      "ipa": "/saɪ/"
+    },
+    {
+      "id": "w_c1_simulate",
+      "lessonId": "lsn_c1_s_2",
+      "en": "simulate",
+      "ar": "يحاكي / يقلد",
+      "translation": "يحاكي / يقلد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The software can simulate flight conditions.",
+          "ar": "يمكن للبرنامج محاكاة ظروف الطيران."
+        }
+      ],
+      "ipa": "/ˈsɪmjuleɪt/"
+    },
+    {
+      "id": "w_c1_simulation",
+      "lessonId": "lsn_c1_s_2",
+      "en": "simulation",
+      "ar": "محاكاة / تمثيل",
+      "translation": "محاكاة / تمثيل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Training includes a computer simulation of the task.",
+          "ar": "يتضمن التدريب محاكاة حاسوبية للمهمة."
+        }
+      ],
+      "ipa": "/ˌsɪmjuˈleɪʃn/"
+    },
+    {
+      "id": "w_c1_simultaneously",
+      "lessonId": "lsn_c1_s_2",
+      "en": "simultaneously",
+      "ar": "في آن واحد / في نفس الوقت",
+      "translation": "في آن واحد / في نفس الوقت",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The two events happened simultaneously.",
+          "ar": "وقع الحدثان في آن واحد."
+        }
+      ],
+      "ipa": "/ˌsɪmlˈteɪniəsli/"
+    },
+    {
+      "id": "w_c1_sin",
+      "lessonId": "lsn_c1_s_2",
+      "en": "sin",
+      "ar": "خطيئة / ذنب",
+      "translation": "خطيئة / ذنب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He asked for forgiveness for his sins.",
+          "ar": "طلب المغفرة لذنوبه (خطاياه)."
+        }
+      ],
+      "ipa": "/sɪn/"
+    },
+    {
+      "id": "w_c1_situated",
+      "lessonId": "lsn_c1_s_2",
+      "en": "situated",
+      "ar": "يقع في / كائن في",
+      "translation": "يقع في / كائن في",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The hotel is beautifully situated near the lake.",
+          "ar": "يقع الفندق في موقع جميل بالقرب من البحيرة."
+        }
+      ],
+      "ipa": "/ˈsɪtʃueɪtɪd/"
+    },
+    {
+      "id": "w_c1_sketch",
+      "lessonId": "lsn_c1_s_2",
+      "en": "sketch",
+      "ar": "رسم تخطيطي / مسودة / اسكتش",
+      "translation": "رسم تخطيطي / مسودة / اسكتش",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She made a quick sketch of the landscape.",
+          "ar": "رسمت مخططاً (اسكتشاً) سريعاً للمناظر الطبيعية."
+        }
+      ],
+      "ipa": "/sketʃ/"
+    },
+    {
+      "id": "w_c1_skip",
+      "lessonId": "lsn_c1_s_2",
+      "en": "skip",
+      "ar": "يتخطى / يقفز",
+      "translation": "يتخطى / يقفز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He decided to skip breakfast.",
+          "ar": "قرر تخطي وجبة الإفطار."
+        }
+      ],
+      "ipa": "/skɪp/"
+    },
+    {
       "id": "w_c1_slam",
       "en": "slam",
       "ar": "يغلق بقوة (يرزع) / ينتقد بشدة",
@@ -272,270 +546,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/smæʃ/"
-    },
-    {
-      "id": "w_c1_snap",
-      "en": "snap",
-      "ar": "يكسر بسرعة / يفرقع",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "انكسر الغصن الجاف تحت ثقله.",
-          "ar": "He snapped his fingers to get the waiter's attention."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/snæp/"
-    },
-    {
-      "id": "w_c1_soak",
-      "en": "soak",
-      "ar": "ينقع / يغمر",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يجب عليك نقع الفاصوليا طوال الليل قبل الطهي.",
-          "ar": "His clothes were soaked through by the heavy rain."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səʊk/"
-    },
-    {
-      "id": "w_c1_soar",
-      "en": "soar",
-      "ar": "يحلق / يرتفع عالياً",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "بدأ النسر يحلق عالياً فوق الجبال.",
-          "ar": "Stock prices are expected to soar next month."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/sɔː/"
-    },
-    {
-      "id": "w_c1_socialist",
-      "en": "socialist",
-      "ar": "اشتراكي",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يمتلك الحزب مبادئ اشتراكية قوية.",
-          "ar": "He joined a socialist organization during his university years."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈsəʊʃəlɪst/"
-    },
-    {
-      "id": "w_c1_sole",
-      "en": "sole",
-      "ar": "وحيد / منفرد",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كان الناجي الوحيد من تحطم الطائرة.",
-          "ar": "The company is under the sole management of the CEO."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səʊl/"
-    },
-    {
-      "id": "w_c1_solely",
-      "en": "solely",
-      "ar": "فقط / حصرياً",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "اعتمد القرار حصرياً على العوامل الاقتصادية.",
-          "ar": "He is solely responsible for the success of the project."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈsəʊl.li/"
-    },
-    {
-      "id": "w_c1_solicitor",
-      "en": "solicitor",
-      "ar": "محامٍ",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يجب عليك استشارة محامٍ قبل توقيع العقد.",
-          "ar": "The solicitor prepared all the necessary legal documents."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/səˈlɪsɪtə/"
-    },
-    {
-      "id": "w_c1_solidarity",
-      "en": "solidarity",
-      "ar": "تضامن",
-      "pronunciation": "ˌsɒlɪˈdærəti",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أظهر المجتمع تضامناً مع الضحايا.",
-          "ar": "Workers went on strike in solidarity with their colleagues."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_solo",
-      "en": "solo",
-      "ar": "منفرد / فردي",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أدت رقصة منفردة على المسرح.",
-          "ar": "The pilot completed his first solo flight yesterday."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈsoʊ.loʊ/"
-    },
-    {
-      "id": "w_c1_sovereignty",
-      "en": "sovereignty",
-      "ar": "سيادة",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "قاتلت الأمة بجد لحماية سيادتها.",
-          "ar": "The treaty recognizes the sovereignty of each state."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈsɒv.ɹən.ti/"
-    },
-    {
-      "id": "w_c1_spam",
-      "en": "spam",
-      "ar": "رسائل مزعجة",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "صندوق الوارد الخاص بي مليء برسائل البريد الإلكتروني المزعجة غير المرغوب فيها.",
-          "ar": "The filter helps to block most of the spam."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈspæm/"
-    },
-    {
-      "id": "w_c1_span",
-      "en": "span",
-      "ar": "يمتد / مدى",
-      "lessonId": "lsn_c1_s_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "امتدت حياته المهنية لأكثر من أربعين عاماً.",
-          "ar": "The bridge has a span of several hundred meters."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/spæn/"
     }
   ]
 }

@@ -1,14 +1,36 @@
 {
   "id": "lsn_a1_c_2",
   "levelId": "lvl_a1",
-  "title": "Unit 7: C Words - Part 2",
+  "title": "Unit 8: C Words - Part 2",
   "slug": "c-words-2",
-  "order": 7,
-  "wordCount": 22,
-  "titleAr": "الوحدة 7: كلمات حرف C - الجزء 2",
+  "order": 8,
+  "wordCount": 23,
+  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف C.",
   "words": [
+    {
+      "id": "w_a1_chicken",
+      "lessonId": "lsn_a1_c_2",
+      "en": "chicken",
+      "translation": "دجاج",
+      "ar": "دجاج",
+      "type": "word",
+      "examples": [
+        {
+          "en": "We had chicken last night.",
+          "ar": "تناولنا الدجاج الليلة الماضية."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈt͡ʃɪkɪn/"
+    },
     {
       "id": "w_a1_child",
       "lessonId": "lsn_a1_c_2",

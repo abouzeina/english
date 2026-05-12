@@ -1,14 +1,60 @@
 {
   "id": "lsn_c1_q",
   "levelId": "lvl_c1",
-  "title": "Unit 33: Q Words",
+  "title": "Unit 51: Q Words",
   "slug": "q-words",
-  "order": 33,
-  "wordCount": 1,
-  "titleAr": "الوحدة 33: كلمات حرف Q",
+  "order": 51,
+  "wordCount": 3,
+  "titleAr": "الوحدة 51: كلمات حرف Q",
   "description": "Master essential C1 vocabulary starting with the letter Q.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف Q.",
   "words": [
+    {
+      "id": "w_c1_query",
+      "lessonId": "lsn_c1_q",
+      "en": "query",
+      "ar": "استفسار / تساؤل",
+      "translation": "استفسار / تساؤل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "If you have any queries, please contact us.",
+          "ar": "إذا كان لديك أي استفسارات، يرجى الاتصال بنا."
+        }
+      ],
+      "ipa": "/ˈkwɪəri/"
+    },
+    {
+      "id": "w_c1_quest",
+      "lessonId": "lsn_c1_q",
+      "en": "quest",
+      "ar": "بحث / سعى / مهمة",
+      "translation": "بحث / سعى / مهمة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They are on a quest for the truth.",
+          "ar": "إنهم في مهمة بحث عن الحقيقة."
+        }
+      ],
+      "ipa": "/kwest/"
+    },
     {
       "id": "w_c1_quota",
       "en": "quota",

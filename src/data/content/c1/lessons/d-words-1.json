@@ -1,409 +1,565 @@
 {
   "id": "lsn_c1_d_1",
   "levelId": "lvl_c1",
-  "title": "Unit 6: D Words - Part 1",
+  "title": "Unit 19: D Words - Part 1",
   "slug": "d-words-1",
-  "order": 6,
-  "wordCount": 18,
-  "titleAr": "الوحدة 6: كلمات حرف D - الجزء 1",
+  "order": 19,
+  "wordCount": 24,
+  "titleAr": "الوحدة 19: كلمات حرف D - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف D.",
   "words": [
     {
-      "id": "w_c1_deteriorate",
-      "en": "deteriorate",
-      "ar": "يتدهور / يسوء",
+      "id": "w_c1_dam",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "بدأت حالة المريض في التدهور بسرعة خلال الليل",
-          "ar": "The lack of maintenance caused the building to deteriorate."
-        }
-      ],
+      "en": "dam",
+      "ar": "سد",
+      "translation": "سد",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈtɪəɹɪəɹeɪt/"
+      "examples": [
+        {
+          "en": "The dam was built to provide hydroelectric power.",
+          "ar": "بُني السد لتوفير الطاقة الكهرومائية."
+        }
+      ],
+      "ipa": "/dæm/"
     },
     {
-      "id": "w_c1_devastate",
-      "en": "devastate",
-      "ar": "يدمر / يخرب",
+      "id": "w_c1_damaging",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تمكن الزلزال من تدمير المدينة الساحلية بأكملها",
-          "ar": "The news of the accident will devastate his family."
-        }
-      ],
+      "en": "damaging",
+      "ar": "ضار / مؤذٍ / مخرب",
+      "translation": "ضار / مؤذٍ / مخرب",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɛvəsteɪt/"
+      "examples": [
+        {
+          "en": "The storm had a damaging effect on the crops.",
+          "ar": "كان للعاصفة تأثير ضار على المحاصيل."
+        }
+      ],
+      "ipa": "/ˈdæmɪdʒɪŋ/"
     },
     {
-      "id": "w_c1_devil",
-      "en": "devil",
-      "ar": "شيطان",
+      "id": "w_c1_dawn",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "وُصف بأنه شيطان في هيئة بشر",
-          "ar": "The devil is in the details of this contract."
-        }
-      ],
+      "en": "dawn",
+      "ar": "فجر / مطلع",
+      "translation": "فجر / مطلع",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɛvəl/"
+      "examples": [
+        {
+          "en": "We set off at the break of dawn.",
+          "ar": "انطلقنا عند مطلع الفجر."
+        }
+      ],
+      "ipa": "/dɔːn/"
     },
     {
-      "id": "w_c1_devise",
-      "en": "devise",
-      "ar": "يبتكر / يخطط",
+      "id": "w_c1_debris",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يحتاج المهندسون إلى ابتكار نظام جديد لتنقية المياه",
-          "ar": "We must devise a strategy to increase our market share."
-        }
-      ],
+      "en": "debris",
+      "ar": "أنقاض / حطام / بقايا",
+      "translation": "أنقاض / حطام / بقايا",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈvaɪz/"
+      "examples": [
+        {
+          "en": "Emergency workers are clearing the debris from the crash.",
+          "ar": "يقوم عمال الطوارئ بإزالة الحطام الناتج عن الحادث."
+        }
+      ],
+      "ipa": "/ˈdebriː/"
     },
     {
-      "id": "w_c1_diagnose",
-      "en": "diagnose",
-      "ar": "يشخص",
+      "id": "w_c1_debut",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "استغرق الأمر شهوراً ليقوم الأطباء بتشخيص حالته النادرة",
-          "ar": "The mechanic was able to diagnose the engine problem quickly."
-        }
-      ],
+      "en": "debut",
+      "ar": "الظهور الأول / العرض الأول",
+      "translation": "الظهور الأول / العرض الأول",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/daɪəɡˈnəʊz/"
+      "examples": [
+        {
+          "en": "She made her professional debut at the age of 16.",
+          "ar": "كان أول ظهور احترافي لها في سن السادسة عشرة."
+        }
+      ],
+      "ipa": "/ˈdeɪbjuː/"
     },
     {
-      "id": "w_c1_diagnosis",
-      "en": "diagnosis",
-      "ar": "تشخيص",
+      "id": "w_c1_decision_making",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أكد الطبيب التشخيص بعد عدة فحوصات طبية",
-          "ar": "A correct diagnosis is the first step toward effective treatment."
-        }
-      ],
+      "en": "decision-making",
+      "ar": "صنع القرار",
+      "translation": "صنع القرار",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/daɪəɡˈnəʊsɪs/"
+      "examples": [
+        {
+          "en": "He is involved in the company's decision-making process.",
+          "ar": "هو مشارك في عملية صنع القرار بالشركة."
+        }
+      ],
+      "ipa": "/dɪˈsɪʒn meɪkɪŋ/"
     },
     {
-      "id": "w_c1_dictate",
-      "en": "dictate",
-      "ar": "يملي / يفرض",
+      "id": "w_c1_decisive",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يحب المدير إملاء الخطابات على مساعده الشخصي",
-          "ar": "Common sense should dictate how you handle the situation."
-        }
-      ],
+      "en": "decisive",
+      "ar": "حاسم",
+      "translation": "حاسم",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɪkˌteɪt/"
+      "examples": [
+        {
+          "en": "The government took decisive action to stop the crisis.",
+          "ar": "اتخذت الحكومة إجراءات حاسمة لوقف الأزمة."
+        }
+      ],
+      "ipa": "/dɪˈsaɪsɪv/"
     },
     {
-      "id": "w_c1_dictator",
-      "en": "dictator",
-      "ar": "ديكتاتور / طاغية",
+      "id": "w_c1_declaration",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "عانت الأمة لسنوات تحت حكم ديكتاتور قاسي",
-          "ar": "History shows that no dictator can remain in power forever."
-        }
-      ],
+      "en": "declaration",
+      "ar": "إعلان / تصريح",
+      "translation": "إعلان / تصريح",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪkˈteɪtə(ɹ)/"
+      "examples": [
+        {
+          "en": "The Declaration of Independence was signed in 1776.",
+          "ar": "تم توقيع إعلان الاستقلال في عام 1776."
+        }
+      ],
+      "ipa": "/ˌdekləˈreɪʃn/"
     },
     {
-      "id": "w_c1_differentiate",
-      "en": "differentiate",
-      "ar": "يميز / يفرق",
+      "id": "w_c1_dedicated",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "من الصعب التمييز بين التوأمين المتطابقين",
-          "ar": "Product quality is what helps differentiate us from our competitors."
-        }
-      ],
+      "en": "dedicated",
+      "ar": "مخصص / مكرس / مخلص",
+      "translation": "مخصص / مكرس / مخلص",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪf.əˈɹɛn.ʃi.eɪt/"
+      "examples": [
+        {
+          "en": "He is a dedicated and hardworking teacher.",
+          "ar": "هو معلم مخلص ومجتهد."
+        }
+      ],
+      "ipa": "/ˈdedɪkeɪtɪd/"
     },
     {
-      "id": "w_c1_dignity",
-      "en": "dignity",
-      "ar": "كرامة / وقار",
+      "id": "w_c1_dedication",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "واجهت الموقف الصعب بشجاعة وكرامة",
-          "ar": "Every human being deserves to be treated with dignity."
-        }
-      ],
+      "en": "dedication",
+      "ar": "تفانٍ / إخلاص / إهداء",
+      "translation": "تفانٍ / إخلاص / إهداء",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɪɡnɪti/"
+      "examples": [
+        {
+          "en": "The project's success is due to the dedication of the team.",
+          "ar": "يعود نجاح المشروع إلى تفاني الفريق."
+        }
+      ],
+      "ipa": "/ˌdedɪˈkeɪʃn/"
     },
     {
-      "id": "w_c1_dilemma",
-      "en": "dilemma",
-      "ar": "معضلة / مأزق",
+      "id": "w_c1_deed",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "واجه معضلة صعبة بين حياته المهنية وعائلته",
-          "ar": "The government is in a dilemma regarding the new tax laws."
-        }
-      ],
+      "en": "deed",
+      "ar": "عمل / صك / فعل",
+      "translation": "عمل / صك / فعل",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/daɪˈlɛmə/"
+      "examples": [
+        {
+          "en": "He is famous for his good deeds.",
+          "ar": "هو مشهور بأعماله الحسنة."
+        }
+      ],
+      "ipa": "/diːd/"
     },
     {
-      "id": "w_c1_dimension",
-      "en": "dimension",
-      "ar": "بُعد / جانب",
+      "id": "w_c1_deem",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أضاف الاكتشاف الجديد بُعداً جديداً تماماً للبحث",
-          "ar": "We need to measure every dimension of the room before buying furniture."
-        }
-      ],
+      "en": "deem",
+      "ar": "يعتبر / يرى",
+      "translation": "يعتبر / يرى",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/daɪˈmɛnʃən/"
+      "examples": [
+        {
+          "en": "The bridge was deemed unsafe for heavy vehicles.",
+          "ar": "اعتبر الجسر غير آمن للمركبات الثقيلة."
+        }
+      ],
+      "ipa": "/diːm/"
     },
     {
-      "id": "w_c1_diminish",
-      "en": "diminish",
-      "ar": "يقلل / يتلاشى",
+      "id": "w_c1_default",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "لا ينبغي لنا أن نقلل من أهمية مساهماته",
-          "ar": "The pain started to diminish after he took the medicine."
-        }
-      ],
+      "en": "default",
+      "ar": "افتراضي / تقصير في السداد",
+      "translation": "افتراضي / تقصير في السداد",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈmɪnɪʃ/"
+      "examples": [
+        {
+          "en": "The company defaulted on its loan payments.",
+          "ar": "تخلفت الشركة عن سداد دفعات قروضها."
+        }
+      ],
+      "ipa": "/dɪˈfɔːlt/"
     },
     {
-      "id": "w_c1_dip",
-      "en": "dip",
-      "ar": "ينغمس / ينخفض",
+      "id": "w_c1_defect",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "بدأت الشمس في الانخفاض تحت الأفق",
-          "ar": "Prices often dip during the holiday sales season."
-        }
-      ],
+      "en": "defect",
+      "ar": "عيب / خلل / ينشق عن",
+      "translation": "عيب / خلل / ينشق عن",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪp/"
+      "examples": [
+        {
+          "en": "The car was recalled due to a safety defect.",
+          "ar": "تم سحب السيارة بسبب عيب في السلامة."
+        }
+      ],
+      "ipa": "/ˈdiːfekt/"
     },
     {
-      "id": "w_c1_diplomat",
-      "en": "diplomat",
-      "ar": "دبلوماسي",
+      "id": "w_c1_defensive",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "قضى الدبلوماسي سنوات في التفاوض على معاهدة السلام",
-          "ar": "He was appointed as a senior diplomat to represent his country."
-        }
-      ],
+      "en": "defensive",
+      "ar": "دفاعي",
+      "translation": "دفاعي",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈdɪ.plə.mæt/"
+      "examples": [
+        {
+          "en": "The army took a defensive position.",
+          "ar": "اتخذ الجيش وضعاً دفاعياً."
+        }
+      ],
+      "ipa": "/dɪˈfensɪv/"
     },
     {
-      "id": "w_c1_diplomatic",
-      "en": "diplomatic",
-      "ar": "دبلوماسي",
+      "id": "w_c1_deficiency",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "قررت الدولتان استعادة العلاقات الدبلوماسية",
-          "ar": "He used a very diplomatic approach to resolve the conflict."
-        }
-      ],
+      "en": "deficiency",
+      "ar": "نقص / عجز",
+      "translation": "نقص / عجز",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˌdɪpləˈmætɪk/"
+      "examples": [
+        {
+          "en": "A vitamin deficiency can lead to health problems.",
+          "ar": "نقص الفيتامينات يمكن أن يؤدي إلى مشاكل صحية."
+        }
+      ],
+      "ipa": "/dɪˈfɪʃnsi/"
     },
     {
-      "id": "w_c1_directory",
-      "en": "directory",
-      "ar": "دليل",
+      "id": "w_c1_deficit",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يمكنك العثور على معلومات الاتصال الخاصة به في دليل الموظفين",
-          "ar": "The system maintains a directory of all registered users."
-        }
-      ],
+      "en": "deficit",
+      "ar": "عجز / نقص مالي",
+      "translation": "عجز / نقص مالي",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/daɪˈɹɛktəɹi/"
+      "examples": [
+        {
+          "en": "The government is trying to reduce the budget deficit.",
+          "ar": "تحاول الحكومة تقليل عجز الموازنة."
+        }
+      ],
+      "ipa": "/ˈdefɪsɪt/"
     },
     {
-      "id": "w_c1_disastrous",
-      "en": "disastrous",
-      "ar": "كارثي",
+      "id": "w_c1_defy",
       "lessonId": "lsn_c1_d_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كان لقرار خفض الميزانية نتائج كارثية",
-          "ar": "The storm caused disastrous damage to the local infrastructure."
-        }
-      ],
+      "en": "defy",
+      "ar": "يتحدى / يعصي",
+      "translation": "يتحدى / يعصي",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/dɪˈzɑːstɹəs/"
+      "examples": [
+        {
+          "en": "He defied the orders of his superior.",
+          "ar": "تحدى (عصى) أوامر رئيسه."
+        }
+      ],
+      "ipa": "/dɪˈfaɪ/"
+    },
+    {
+      "id": "w_c1_delegate",
+      "lessonId": "lsn_c1_d_1",
+      "en": "delegate",
+      "ar": "مندوب / يفوض",
+      "translation": "مندوب / يفوض",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Each country sent a delegate to the conference.",
+          "ar": "أرسلت كل دولة مندوباً إلى المؤتمر."
+        }
+      ],
+      "ipa": "/ˈdelɪɡət/"
+    },
+    {
+      "id": "w_c1_delegation",
+      "lessonId": "lsn_c1_d_1",
+      "en": "delegation",
+      "ar": "وفد / تفويض",
+      "translation": "وفد / تفويض",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "A delegation of experts visited the site.",
+          "ar": "زار وفد من الخبراء الموقع."
+        }
+      ],
+      "ipa": "/ˌdelɪˈɡeɪʃn/"
+    },
+    {
+      "id": "w_c1_delicate",
+      "lessonId": "lsn_c1_d_1",
+      "en": "delicate",
+      "ar": "حساس / رقيق / دقيق",
+      "translation": "حساس / رقيق / دقيق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The skin around the eyes is very delicate.",
+          "ar": "الجلد حول العينين رقيق (حساس) للغاية."
+        }
+      ],
+      "ipa": "/ˈdelɪkət/"
+    },
+    {
+      "id": "w_c1_demon",
+      "lessonId": "lsn_c1_d_1",
+      "en": "demon",
+      "ar": "شيطان / عفريت",
+      "translation": "شيطان / عفريت",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is fighting his personal demons.",
+          "ar": "إنه يصارع شياطينه الشخصية."
+        }
+      ],
+      "ipa": "/ˈdiːmən/"
+    },
+    {
+      "id": "w_c1_denial",
+      "lessonId": "lsn_c1_d_1",
+      "en": "denial",
+      "ar": "إنكار / نفي",
+      "translation": "إنكار / نفي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government issued a flat denial of the rumors.",
+          "ar": "أصدرت الحكومة نفياً قاطعاً للشائعات."
+        }
+      ],
+      "ipa": "/dɪˈnaɪəl/"
+    },
+    {
+      "id": "w_c1_denounce",
+      "lessonId": "lsn_c1_d_1",
+      "en": "denounce",
+      "ar": "يدين / يستنكر بشدة / يشي بـ",
+      "translation": "يدين / يستنكر بشدة / يشي بـ",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The project was denounced as a waste of money.",
+          "ar": "تم استنكار المشروع باعتباره إهداراً للمال."
+        }
+      ],
+      "ipa": "/dɪˈnaʊns/"
     }
   ]
 }

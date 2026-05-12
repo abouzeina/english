@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_n",
   "levelId": "lvl_b2",
-  "title": "Unit 35: N Words",
+  "title": "Unit 42: N Words",
   "slug": "n-words",
-  "order": 35,
-  "wordCount": 22,
-  "titleAr": "الوحدة 35: كلمات حرف N",
+  "order": 42,
+  "wordCount": 23,
+  "titleAr": "الوحدة 42: كلمات حرف N",
   "description": "Master essential B2 vocabulary starting with the letter N.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف N.",
   "words": [
@@ -342,6 +342,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/nɔːm/"
+    },
+    {
+      "id": "w_b2_notebook",
+      "lessonId": "lsn_b2_n",
+      "en": "notebook",
+      "ar": "دفتر ملاحظات",
+      "translation": "دفتر ملاحظات",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She wrote the phone number in her notebook.",
+          "ar": "كتبت رقم الهاتف في دفتر ملاحظاتها."
+        }
+      ],
+      "ipa": "/ˈnəʊtbʊk/"
     },
     {
       "id": "w_b2_notebooks",

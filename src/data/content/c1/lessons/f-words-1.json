@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_f_1",
   "levelId": "lvl_c1",
-  "title": "Unit 12: F Words - Part 1",
+  "title": "Unit 26: F Words - Part 1",
   "slug": "f-words-1",
-  "order": 12,
-  "wordCount": 18,
-  "titleAr": "الوحدة 12: كلمات حرف F - الجزء 1",
+  "order": 26,
+  "wordCount": 21,
+  "titleAr": "الوحدة 26: كلمات حرف F - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter F.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف F.",
   "words": [
@@ -404,6 +404,72 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_flee",
+      "en": "flee",
+      "ar": "يهرب / يفر",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أُجبر آلاف الأشخاص على الفرار من منطقة الحرب",
+          "ar": "The suspect managed to flee before the police arrived."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fliː/"
+    },
+    {
+      "id": "w_c1_fleet",
+      "en": "fleet",
+      "ar": "أسطول",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تملك الشركة أسطولاً كبيراً من شاحنات التوصيل",
+          "ar": "The naval fleet was sent to protect the international waters."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fliːt/"
+    },
+    {
+      "id": "w_c1_flesh",
+      "en": "flesh",
+      "ar": "لحم / جسد",
+      "lessonId": "lsn_c1_f_1",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمكنت مخالب النمر من تمزيق لحم الحيوان",
+          "ar": "She wanted to see her favorite singer in the flesh."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/flɛʃ/"
     }
   ]
 }

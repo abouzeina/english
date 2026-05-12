@@ -1,0 +1,490 @@
+{
+  "id": "lsn_c1_p_5",
+  "levelId": "lvl_c1",
+  "title": "Unit 50: P Words - Part 5",
+  "slug": "p-words-5",
+  "order": 50,
+  "wordCount": 21,
+  "titleAr": "الوحدة 50: كلمات حرف P - الجزء 5",
+  "description": "Master essential C1 vocabulary starting with the letter P.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف P.",
+  "words": [
+    {
+      "id": "w_c1_prominent",
+      "lessonId": "lsn_c1_p_5",
+      "en": "prominent",
+      "ar": "بارز / مشهور / ناتئ",
+      "translation": "بارز / مشهور / ناتئ",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is a prominent figure in the local community.",
+          "ar": "هو شخصية بارزة في المجتمع المحلي."
+        }
+      ],
+      "ipa": "/ˈprɒmɪnənt/"
+    },
+    {
+      "id": "w_c1_pronounced",
+      "lessonId": "lsn_c1_p_5",
+      "en": "pronounced",
+      "ar": "واضح / منطوق / بارز",
+      "translation": "واضح / منطوق / بارز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There has been a pronounced improvement in the economy.",
+          "ar": "كان هناك تحسن واضح (بارز) في الاقتصاد."
+        }
+      ],
+      "ipa": "/prəˈnaʊnst/"
+    },
+    {
+      "id": "w_c1_propaganda",
+      "lessonId": "lsn_c1_p_5",
+      "en": "propaganda",
+      "ar": "دعاية / بروباغندا",
+      "translation": "دعاية / بروباغندا",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The information was dismissed as enemy propaganda.",
+          "ar": "تم رفض المعلومات باعتبارها دعاية (بروباغندا) للعدو."
+        }
+      ],
+      "ipa": "/ˌprɒpəˈɡændə/"
+    },
+    {
+      "id": "w_c1_proposition",
+      "en": "proposition",
+      "ar": "عرض / اقتراح / قضية منطقية",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قدم عرضاً تجارياً للمستثمرين",
+          "ar": "The new law is a difficult proposition for the government."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌpɹɑpəˈzɪʃən/"
+    },
+    {
+      "id": "w_c1_prosecute",
+      "en": "prosecute",
+      "ar": "يقاضي / يرفع دعوى",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قررت الشركة مقاضاة اللصوص",
+          "ar": "Shoplifters will be prosecuted to the full extent of the law."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɒsɪkjuːt/"
+    },
+    {
+      "id": "w_c1_prosecution",
+      "en": "prosecution",
+      "ar": "مقاضاة / جهة الادعاء",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "قدم الادعاء عدة شهود للمحكمة",
+          "ar": "He is facing prosecution for tax evasion."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌpɹɑ.səˈkju.ʃən/"
+    },
+    {
+      "id": "w_c1_prosecutor",
+      "en": "prosecutor",
+      "ar": "مدعي عام / وكيل نيابة",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "طلب المدعي العام حكماً بالسجن مدى الحياة",
+          "ar": "She works as a prosecutor for the city."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɑsəˌkjuːtəɹ/"
+    },
+    {
+      "id": "w_c1_prospective",
+      "en": "prospective",
+      "ar": "محتمل / مرتقب",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تقيم الجامعة يوماً مفتوحاً للطلاب المحتملين",
+          "ar": "We need to impress our prospective clients."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈspɛktɪv/"
+    },
+    {
+      "id": "w_c1_prosperity",
+      "en": "prosperity",
+      "ar": "ازدهار / رخاء",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمتعت البلاد بفترة من السلام والرخاء",
+          "ar": "Economic prosperity depends on international trade."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɒˈspɛɹ.ɪ.ti/"
+    },
+    {
+      "id": "w_c1_protective",
+      "lessonId": "lsn_c1_p_5",
+      "en": "protective",
+      "ar": "واقي / وقائي",
+      "translation": "واقي / وقائي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You should wear protective clothing for the task.",
+          "ar": "يجب عليك ارتداء ملابس واقية لهذه المهمة."
+        }
+      ],
+      "ipa": "/prəˈtektɪv/"
+    },
+    {
+      "id": "w_c1_protest",
+      "en": "protest",
+      "ar": "احتجاج / يحتج",
+      "pronunciation": "ˈprəʊtest",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "انضم آلاف الأشخاص إلى الاحتجاج ضد الضريبة الجديدة",
+          "ar": "They are protesting about the closure of the local hospital."
+        },
+        {
+          "en": "We joined the protest movement.",
+          "ar": "انضممنا إلى الحركة الاحتجاج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_protocol",
+      "en": "protocol",
+      "ar": "بروتوكول / اتفاقية / قواعد السلوك",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب على الدبلوماسيين اتباع بروتوكول رسمي صارم",
+          "ar": "A new protocol for clinical trials has been developed."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹəʊtəˌkɒl/"
+    },
+    {
+      "id": "w_c1_province",
+      "en": "province",
+      "ar": "مقاطعة / إقليم / اختصاص",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تنقسم البلاد إلى عشر مقاطعات",
+          "ar": "The task of setting the budget is within the province of the manager."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈpɹɒvɪns/"
+    },
+    {
+      "id": "w_c1_provincial",
+      "en": "provincial",
+      "ar": "إقليمي / ضيق الأفق / محلي",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تمتلك الحكومة الإقليمية مجموعتها الخاصة من القوانين",
+          "ar": "He has a somewhat provincial attitude toward modern art."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹɒvinʃəl̩/"
+    },
+    {
+      "id": "w_c1_provision",
+      "en": "provision",
+      "ar": "توفير / تزويد / نص (قانوني)",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "توفير مياه نظيفة حق أساسي من حقوق الإنسان",
+          "ar": "There is a provision in the contract for early termination."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈvɪʒ.ən/"
+    },
+    {
+      "id": "w_c1_provoke",
+      "en": "provoke",
+      "ar": "يستفز / يثير",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كان التعليق يهدف إلى إثارة رد فعل",
+          "ar": "The new law provoked widespread protests."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pɹəˈvəʊk/"
+    },
+    {
+      "id": "w_c1_psychiatric",
+      "en": "psychiatric",
+      "ar": "نفسي / متعلق بالطب النفسي",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تم إدخاله لمستشفى أمراض نفسية للعلاج",
+          "ar": "The patient needs specialized psychiatric care."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌsaɪ.ki.ˈæt.ɹɪk/"
+    },
+    {
+      "id": "w_c1_publicity",
+      "en": "publicity",
+      "ar": "دعاية / شهرة / إعلان",
+      "pronunciation": "pʌbˈlɪsəti",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نال الفيلم الكثير من الدعاية قبل صدوره",
+          "ar": "He avoids publicity and rarely gives interviews."
+        },
+        {
+          "en": "The company received positive publicity after the event.",
+          "ar": "تلقت الشركة ضجة إعلامية إيجابية بعد الفعالية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced",
+        "B2"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_pulse",
+      "en": "pulse",
+      "ar": "نبض",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "فحص الطبيب نبضها وضغط دمها",
+          "ar": "I could feel the pulse in my neck."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pʊls/"
+    },
+    {
+      "id": "w_c1_pump",
+      "en": "pump",
+      "ar": "مضخة / يضخ",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يعمل القلب كمضخة للدم",
+          "ar": "We need a new pump for the garden pond."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pʌmp/"
+    },
+    {
+      "id": "w_c1_punch",
+      "en": "punch",
+      "ar": "يلكم / يثقب / لكمة",
+      "lessonId": "lsn_c1_p_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "لكم الرجل في وجهه أثناء العراك",
+          "ar": "You need to punch a hole in the paper before filing it."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pʌntʃ/"
+    }
+  ]
+}

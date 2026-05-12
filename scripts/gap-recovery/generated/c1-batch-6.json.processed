@@ -1,0 +1,602 @@
+[
+  {
+    "en": "choir",
+    "translation": "جوقة / كورال",
+    "ipa": "/ˈkwaɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She sings in the school choir.",
+        "ar": "هي تغني في جوقة المدرسة."
+      }
+    ]
+  },
+  {
+    "en": "chronic",
+    "translation": "مزمن / مستمر",
+    "ipa": "/ˈkrɒnɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He suffers from chronic back pain.",
+        "ar": "هو يعاني من آلام ظهر مزمنة."
+      }
+    ]
+  },
+  {
+    "en": "chunk",
+    "translation": "قطعة كبيرة / جزء كبير",
+    "ipa": "/tʃʌŋk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She cut the cheese into large chunks.",
+        "ar": "قطعت الجبن إلى قطع كبيرة."
+      }
+    ]
+  },
+  {
+    "en": "circuit",
+    "translation": "دائرة كهربائية / جولة / حلبة",
+    "ipa": "/ˈsɜːkɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The electrical circuit is broken.",
+        "ar": "الدائرة الكهربائية مكسورة (مقطوعة)."
+      }
+    ]
+  },
+  {
+    "en": "circulate",
+    "translation": "يدور / يوزع / ينتشر",
+    "ipa": "/ˈsɜːkjəleɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Blood circulates around the body.",
+        "ar": "يدور الدم في أنحاء الجسم."
+      }
+    ]
+  },
+  {
+    "en": "circulation",
+    "translation": "دورة دموية / توزيع (صحف) / انتشار",
+    "ipa": "/ˌsɜːkjəˈleɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Exercise improves the circulation of blood.",
+        "ar": "التمارين تحسن الدورة الدموية."
+      }
+    ]
+  },
+  {
+    "en": "citizenship",
+    "translation": "مواطنة / جنسية",
+    "ipa": "/ˈsɪtɪzənʃɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He applied for British citizenship.",
+        "ar": "تقدم بطلب للحصول على الجنسية البريطانية."
+      }
+    ]
+  },
+  {
+    "en": "civic",
+    "translation": "مدني / حضري",
+    "ipa": "/ˈsɪvɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Voting is a civic duty.",
+        "ar": "التصويت واجب مدني."
+      }
+    ]
+  },
+  {
+    "en": "civilian",
+    "translation": "مدني (غير عسكري)",
+    "ipa": "/səˈvɪliən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Many civilians were killed in the war.",
+        "ar": "قُتل العديد من المدنيين في الحرب."
+      }
+    ]
+  },
+  {
+    "en": "clarity",
+    "translation": "وضوح / صفاء",
+    "ipa": "/ˈklærəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The report lacks clarity in some areas.",
+        "ar": "يفتقر التقرير إلى الوضوح في بعض المجالات."
+      }
+    ]
+  },
+  {
+    "en": "clash",
+    "translation": "صدام / اشتباك / تضارب",
+    "ipa": "/klæʃ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There were violent clashes between protesters and police.",
+        "ar": "كانت هناك اشتباكات عنيفة بين المتظاهرين والشرطة."
+      }
+    ]
+  },
+  {
+    "en": "classification",
+    "translation": "تصنيف",
+    "ipa": "/ˌklæsɪfɪˈkeɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The documents were given a top-secret classification.",
+        "ar": "أُعطيت المستندات تصنيفاً سرياً للغاية."
+      }
+    ]
+  },
+  {
+    "en": "classify",
+    "translation": "يصنف",
+    "ipa": "/ˈklæsɪfaɪ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Books are classified according to subject.",
+        "ar": "تُصنف الكتب حسب الموضوع."
+      }
+    ]
+  },
+  {
+    "en": "cleaning",
+    "translation": "تنظيف",
+    "ipa": "/ˈkliːnɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She does the cleaning every Saturday.",
+        "ar": "تقوم بالتنظيف كل يوم سبت."
+      }
+    ]
+  },
+  {
+    "en": "clerical",
+    "translation": "كتابي / مكتبي / كنسي",
+    "ipa": "/ˈklerɪkl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She found a clerical job in a law firm.",
+        "ar": "وجدت وظيفة مكتبية (كتابية) في شركة محاماة."
+      }
+    ]
+  },
+  {
+    "en": "cliff",
+    "translation": "جرف / منحدر صخري",
+    "ipa": "/klɪf/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The house is built on a cliff overlooking the sea.",
+        "ar": "المنزل مبني على جرف يطل على البحر."
+      }
+    ]
+  },
+  {
+    "en": "cling",
+    "translation": "يتشبث / يلتصق بـ",
+    "ipa": "/klɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The child clung to his mother's hand.",
+        "ar": "تشبث الطفل بيد والدته."
+      }
+    ]
+  },
+  {
+    "en": "clinical",
+    "translation": "سريري / عيادي",
+    "ipa": "/ˈklɪnɪkl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The drug is undergoing clinical trials.",
+        "ar": "الدواء يخضع لتجارب سريرية."
+      }
+    ]
+  },
+  {
+    "en": "closure",
+    "translation": "إغلاق / إنهاء",
+    "ipa": "/ˈkləʊʒə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The factory closure resulted in many job losses.",
+        "ar": "أدى إغلاق المصنع إلى فقدان العديد من الوظائف."
+      }
+    ]
+  },
+  {
+    "en": "cluster",
+    "translation": "عنقود / مجموعة / يتجمع",
+    "ipa": "/ˈklʌstə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There was a cluster of stars in the sky.",
+        "ar": "كانت هناك مجموعة (عنقود) من النجوم في السماء."
+      }
+    ]
+  },
+  {
+    "en": "coalition",
+    "translation": "ائتلاف / تحالف",
+    "ipa": "/ˌkəʊəˈlɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two parties formed a coalition government.",
+        "ar": "شكل الحزبان حكومة ائتلافية."
+      }
+    ]
+  },
+  {
+    "en": "coastal",
+    "translation": "ساحلي",
+    "ipa": "/ˈkəʊstl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The area has a beautiful coastal landscape.",
+        "ar": "تتمتع المنطقة بمناظر طبيعية ساحلية جميلة."
+      }
+    ]
+  },
+  {
+    "en": "cocktail",
+    "translation": "كوكتيل / مشروب مخلوط",
+    "ipa": "/ˈkɒkteɪl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She ordered a fruit cocktail.",
+        "ar": "طلبت كوكتيل فواكه."
+      }
+    ]
+  },
+  {
+    "en": "cognitive",
+    "translation": "معرفي / إدراكي",
+    "ipa": "/ˈkɒɡnətɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Cognitive development is important in early childhood.",
+        "ar": "التطور المعرفي مهم في مرحلة الطفولة المبكرة."
+      }
+    ]
+  },
+  {
+    "en": "coincide",
+    "translation": "يتزامن / يتوافق",
+    "ipa": "/ˌkəʊɪnˈsaɪd/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The festival coincides with the beginning of spring.",
+        "ar": "يتزامن المهرجان مع بداية الربيع."
+      }
+    ]
+  },
+  {
+    "en": "collaborate",
+    "translation": "يتعاون",
+    "ipa": "/kəˈlæbəreɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Researchers from around the world collaborated on the study.",
+        "ar": "تعاون باحثون من جميع أنحاء العالم في الدراسة."
+      }
+    ]
+  },
+  {
+    "en": "collaboration",
+    "translation": "تعاون",
+    "ipa": "/kəˌlæbəˈreɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The project was a successful collaboration between two companies.",
+        "ar": "كان المشروع تعاوناً ناجحاً بين شركتين."
+      }
+    ]
+  },
+  {
+    "en": "collective",
+    "translation": "جماعي / مشترك",
+    "ipa": "/kəˈlektɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The decision was the result of a collective effort.",
+        "ar": "كان القرار نتيجة جهد جماعي."
+      }
+    ]
+  },
+  {
+    "en": "collision",
+    "translation": "تصادم / تضارب",
+    "ipa": "/kəˈlɪʒn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The two cars were involved in a serious collision.",
+        "ar": "تورطت السيارتان في تصادم خطير."
+      }
+    ]
+  },
+  {
+    "en": "colonial",
+    "translation": "استعماري",
+    "ipa": "/kəˈləʊniəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country was under colonial rule for many years.",
+        "ar": "كانت البلاد تحت الحكم الاستعماري لسنوات عديدة."
+      }
+    ]
+  },
+  {
+    "en": "columnist",
+    "translation": "كاتب عمود (في صحيفة)",
+    "ipa": "/ˈkɒləmnɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a famous political columnist.",
+        "ar": "هو كاتب عمود سياسي مشهور."
+      }
+    ]
+  },
+  {
+    "en": "combat",
+    "translation": "قتال / مكافحة / يحارب",
+    "ipa": "/ˈkɒmbæt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Soldiers are trained for combat.",
+        "ar": "يتم تدريب الجنود على القتال."
+      }
+    ]
+  },
+  {
+    "en": "comedian",
+    "translation": "كوميدي / ممثل هزلي",
+    "ipa": "/kəˈmiːdiən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The comedian told some very funny jokes.",
+        "ar": "ألقى الكوميدي بعض النكات المضحكة جداً."
+      }
+    ]
+  },
+  {
+    "en": "comic",
+    "translation": "هزلي / كوميدي / مجلة مصورة",
+    "ipa": "/ˈkɒmɪk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He is a great comic actor.",
+        "ar": "هو ممثل كوميدي رائع."
+      }
+    ]
+  },
+  {
+    "en": "commander",
+    "translation": "قائد / آمر",
+    "ipa": "/kəˈmɑːndə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was the commander of the army.",
+        "ar": "كان قائداً للجيش."
+      }
+    ]
+  },
+  {
+    "en": "commemorate",
+    "translation": "يحيي ذكرى",
+    "ipa": "/kəˈmeməreɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The statue commemorates those who died in the war.",
+        "ar": "يحيي التمثال ذكرى الذين ماتوا في الحرب."
+      }
+    ]
+  },
+  {
+    "en": "commence",
+    "translation": "يبدأ / يشرع",
+    "ipa": "/kəˈmens/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The ceremony will commence at 10 o'clock.",
+        "ar": "ستبدأ المراسم في الساعة العاشرة."
+      }
+    ]
+  },
+  {
+    "en": "commentary",
+    "translation": "تعليق / شرح",
+    "ipa": "/ˈkɒməntri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He provided a commentary on the football match.",
+        "ar": "قدم تعليقاً على مباراة كرة القدم."
+      }
+    ]
+  },
+  {
+    "en": "commentator",
+    "translation": "معلق / محلل",
+    "ipa": "/ˈkɒmənteɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is a sports commentator for the BBC.",
+        "ar": "هي معلقة رياضية في البي بي سي."
+      }
+    ]
+  },
+  {
+    "en": "commerce",
+    "translation": "تجارة",
+    "ipa": "/ˈkɒmɜːs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The city is a major center of commerce.",
+        "ar": "المدينة مركز رئيسي للتجارة."
+      }
+    ]
+  },
+  {
+    "en": "commissioner",
+    "translation": "مفوض / مندوب",
+    "ipa": "/kəˈmɪʃənə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was appointed as the new police commissioner.",
+        "ar": "عُين مفوضاً جديداً للشرطة."
+      }
+    ]
+  },
+  {
+    "en": "commodity",
+    "translation": "سلعة / بضاعة",
+    "ipa": "/kəˈmɒdəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Oil is an important global commodity.",
+        "ar": "النفط سلعة عالمية مهمة."
+      }
+    ]
+  },
+  {
+    "en": "communist",
+    "translation": "شيوعي",
+    "ipa": "/ˈkɒmjənɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country was ruled by the communist party.",
+        "ar": "كانت البلاد محكومة من قبل الحزب الشيوعي."
+      }
+    ]
+  },
+  {
+    "en": "companion",
+    "translation": "رفيق / جليس",
+    "ipa": "/kəmˈpæniən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was my constant companion during the trip.",
+        "ar": "كان رفيقي الدائم خلال الرحلة."
+      }
+    ]
+  },
+  {
+    "en": "comparable",
+    "translation": "مماثل / قابل للمقارنة",
+    "ipa": "/ˈkɒmpərəbl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The results are not comparable with previous studies.",
+        "ar": "النتائج غير قابلة للمقارنة مع الدراسات السابقة."
+      }
+    ]
+  },
+  {
+    "en": "compassion",
+    "translation": "تعاطف / رحمة / شفقة",
+    "ipa": "/kəmˈpæʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We must show compassion for those in need.",
+        "ar": "يجب أن نظهر الرحمة (التعاطف) تجاه المحتاجين."
+      }
+    ]
+  },
+  {
+    "en": "compel",
+    "translation": "يجبر / يكره على",
+    "ipa": "/kəmˈpel/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The law compels drivers to wear seat belts.",
+        "ar": "يجبر القانون السائقين على ارتداء أحزمة الأمان."
+      }
+    ]
+  },
+  {
+    "en": "compelling",
+    "translation": "مقنع / قاهر / جذاب جداً",
+    "ipa": "/kəmˈpelɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is compelling evidence of his guilt.",
+        "ar": "هناك أدلة مقنعة على ذنبه."
+      }
+    ]
+  },
+  {
+    "en": "compensate",
+    "translation": "يعوض",
+    "ipa": "/ˈkɒmpenseɪt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company compensated him for his injuries.",
+        "ar": "عوضته الشركة عن إصاباته."
+      }
+    ]
+  },
+  {
+    "en": "compensation",
+    "translation": "تعويض",
+    "ipa": "/ˌkɒmpenˈseɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He received a large sum in compensation.",
+        "ar": "حصل على مبلغ كبير كتعويض."
+      }
+    ]
+  }
+]

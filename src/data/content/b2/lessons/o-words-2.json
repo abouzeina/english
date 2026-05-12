@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_o_2",
   "levelId": "lvl_b2",
-  "title": "Unit 37: O Words - Part 2",
+  "title": "Unit 44: O Words - Part 2",
   "slug": "o-words-2",
-  "order": 37,
-  "wordCount": 22,
-  "titleAr": "الوحدة 37: كلمات حرف O - الجزء 2",
+  "order": 44,
+  "wordCount": 23,
+  "titleAr": "الوحدة 44: كلمات حرف O - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter O.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف O.",
   "words": [
@@ -390,6 +390,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˌəʊvəˈkeɪm/"
+    },
+    {
+      "id": "w_b2_overcome",
+      "lessonId": "lsn_b2_o_2",
+      "en": "overcome",
+      "ar": "يتغلب على",
+      "translation": "يتغلب على",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She overcame her fear of heights.",
+          "ar": "تغلبت على خوفها من المرتفعات."
+        }
+      ],
+      "ipa": "/ˌəʊvəˈkʌm/"
     },
     {
       "id": "w_b2_overnight",

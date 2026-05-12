@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_p_2",
   "levelId": "lvl_b2",
-  "title": "Unit 39: P Words - Part 2",
+  "title": "Unit 46: P Words - Part 2",
   "slug": "p-words-2",
-  "order": 39,
-  "wordCount": 20,
-  "titleAr": "الوحدة 39: كلمات حرف P - الجزء 2",
+  "order": 46,
+  "wordCount": 21,
+  "titleAr": "الوحدة 46: كلمات حرف P - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف P.",
   "words": [
@@ -491,6 +491,28 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈpoəɹʃən/"
+    },
+    {
+      "id": "w_b2_pose",
+      "en": "pose",
+      "ar": "يشكل",
+      "lessonId": "lsn_b2_p_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This decision could pose challenges for the team.",
+          "ar": "قد يشكل هذا القرار تحديات للفريق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/pəʊz/"
     }
   ]
 }

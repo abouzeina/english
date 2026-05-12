@@ -1,14 +1,37 @@
 {
   "id": "lsn_b1_n",
   "levelId": "lvl_b1",
-  "title": "Unit 23: N Words",
+  "title": "Unit 26: N Words",
   "slug": "n-words",
-  "order": 23,
-  "wordCount": 12,
-  "titleAr": "الوحدة 23: كلمات حرف N",
+  "order": 26,
+  "wordCount": 15,
+  "titleAr": "الوحدة 26: كلمات حرف N",
   "description": "Master essential B1 vocabulary starting with the letter N.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف N.",
   "words": [
+    {
+      "id": "w_b1_nail",
+      "lessonId": "lsn_b1_n",
+      "en": "nail",
+      "ar": "ظفر / مسمار",
+      "translation": "ظفر / مسمار",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She painted her nails red.",
+          "ar": "طليت أظافرها باللون الأحمر."
+        }
+      ],
+      "ipa": "/neɪl/"
+    },
     {
       "id": "w_b1_nails",
       "en": "nails",
@@ -194,6 +217,29 @@
       "ipa": "/ˈneɪbə.hʊd/"
     },
     {
+      "id": "w_b1_neighbourhood",
+      "lessonId": "lsn_b1_n",
+      "en": "neighbourhood",
+      "ar": "حي / منطقة سكنية",
+      "translation": "حي / منطقة سكنية",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It is a quiet and safe neighbourhood.",
+          "ar": "إنه حي هادئ وآمن."
+        }
+      ],
+      "ipa": "/ˈneɪbəhʊd/"
+    },
+    {
       "id": "w_b1_neither",
       "en": "neither",
       "ar": "ولا / لا... ولا",
@@ -223,6 +269,29 @@
       ],
       "confidence": "high",
       "ipa": "/ˈnaɪð.ə(ɹ)/"
+    },
+    {
+      "id": "w_b1_nor",
+      "lessonId": "lsn_b1_n",
+      "en": "nor",
+      "ar": "ولا (تستخدم مع neither)",
+      "translation": "ولا (تستخدم مع neither)",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He neither drinks nor smokes.",
+          "ar": "هو لا يشرب ولا يدخن."
+        }
+      ],
+      "ipa": "/nɔː(r)/"
     },
     {
       "id": "w_b1_northern",

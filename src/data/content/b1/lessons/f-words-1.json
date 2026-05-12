@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_f_1",
   "levelId": "lvl_b1",
-  "title": "Unit 13: F Words - Part 1",
+  "title": "Unit 15: F Words - Part 1",
   "slug": "f-words-1",
-  "order": 13,
-  "wordCount": 19,
-  "titleAr": "الوحدة 13: كلمات حرف F - الجزء 1",
+  "order": 15,
+  "wordCount": 23,
+  "titleAr": "الوحدة 15: كلمات حرف F - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter F.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف F.",
   "words": [
@@ -190,6 +190,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_favour",
+      "lessonId": "lsn_b1_f_1",
+      "en": "favour",
+      "ar": "معروف / خدمة / يفضل",
+      "translation": "معروف / خدمة / يفضل",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Could you do me a favour?",
+          "ar": "هل يمكنك تقديم خدمة لي؟"
+        }
+      ],
+      "ipa": "/ˈfeɪvə(r)/"
+    },
+    {
       "id": "w_b1_featured",
       "en": "featured",
       "ar": "أبرزته / سمة",
@@ -254,6 +277,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_file",
+      "lessonId": "lsn_b1_f_1",
+      "en": "file",
+      "ar": "ملف",
+      "translation": "ملف",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I saved the document in a new file.",
+          "ar": "حفظت المستند في ملف جديد."
+        }
+      ],
+      "ipa": "/faɪl/"
     },
     {
       "id": "w_b1_files",
@@ -388,6 +434,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_flood",
+      "lessonId": "lsn_b1_f_1",
+      "en": "flood",
+      "ar": "فيضان / يغمر",
+      "translation": "فيضان / يغمر",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The heavy rain caused severe flooding.",
+          "ar": "تسبب المطر الغزير في فيضانات شديدة."
+        }
+      ],
+      "ipa": "/flʌd/"
+    },
+    {
       "id": "w_b1_floods",
       "en": "floods",
       "ar": "فيضانات / يفيض",
@@ -434,6 +503,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_flow",
+      "lessonId": "lsn_b1_f_1",
+      "en": "flow",
+      "ar": "يتدفق / سريان",
+      "translation": "يتدفق / سريان",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The river flows through the valley.",
+          "ar": "يتدفق النهر عبر الوادي."
+        }
+      ],
+      "ipa": "/fləʊ/"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_o_1",
   "levelId": "lvl_b2",
-  "title": "Unit 36: O Words - Part 1",
+  "title": "Unit 43: O Words - Part 1",
   "slug": "o-words-1",
-  "order": 36,
-  "wordCount": 22,
-  "titleAr": "الوحدة 36: كلمات حرف O - الجزء 1",
+  "order": 43,
+  "wordCount": 24,
+  "titleAr": "الوحدة 43: كلمات حرف O - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter O.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف O.",
   "words": [
@@ -56,6 +56,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ɒbˈd͡ʒɛk.tɪv/"
+    },
+    {
+      "id": "w_b2_obligation",
+      "lessonId": "lsn_b2_o_1",
+      "en": "obligation",
+      "ar": "التزام / واجب",
+      "translation": "التزام / واجب",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We have a moral obligation to help others.",
+          "ar": "علينا التزام أخلاقي بمساعدة الآخرين."
+        }
+      ],
+      "ipa": "/ˌɒblɪˈɡeɪʃn/"
     },
     {
       "id": "w_b2_obligations",
@@ -259,6 +282,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈɑkjəpaɪd/"
+    },
+    {
+      "id": "w_b2_occupy",
+      "lessonId": "lsn_b2_o_1",
+      "en": "occupy",
+      "ar": "يشغل / يحتل",
+      "translation": "يشغل / يحتل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The office occupies the top floor of the building.",
+          "ar": "يشغل المكتب الطابق العلوي من المبنى."
+        }
+      ],
+      "ipa": "/ˈɒkjupaɪ/"
     },
     {
       "id": "w_b2_offend",

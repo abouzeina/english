@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_f_2",
   "levelId": "lvl_a1",
-  "title": "Unit 14: F Words - Part 2",
+  "title": "Unit 15: F Words - Part 2",
   "slug": "f-words-2",
-  "order": 14,
+  "order": 15,
   "wordCount": 19,
-  "titleAr": "الوحدة 14: كلمات حرف F - الجزء 2",
+  "titleAr": "الوحدة 15: كلمات حرف F - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter F.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف F.",
   "words": [
@@ -282,6 +282,29 @@
       "ipa": "/fɪrst/"
     },
     {
+      "id": "w_a1_five",
+      "lessonId": "lsn_a1_f_2",
+      "en": "five",
+      "ar": "خمسة",
+      "translation": "خمسة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I have five fingers on each hand.",
+          "ar": "لدي خمسة أصابع في كل يد."
+        }
+      ],
+      "ipa": "/faɪv/"
+    },
+    {
       "id": "w_a1_flat",
       "lessonId": "lsn_a1_f_2",
       "en": "flat",
@@ -439,28 +462,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/[fʊt̚]/"
-    },
-    {
-      "id": "w_a1_football",
-      "lessonId": "lsn_a1_f_2",
-      "en": "football",
-      "translation": "كرة القدم",
-      "ar": "كرة القدم",
-      "pronunciation": "/'pa.pje.la/",
-      "type": "word",
-      "examples": [
-        {
-          "en": "Football is a popular sport.",
-          "ar": "كرة القدم رياضة شعبية."
-        }
-      ],
-      "difficulty": "A1",
-      "tags": [
-        "A1",
-        "core"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
     }
   ]
 }

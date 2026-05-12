@@ -1,14 +1,36 @@
 {
   "id": "lsn_c1_t_3",
   "levelId": "lvl_c1",
-  "title": "Unit 45: T Words - Part 3",
+  "title": "Unit 64: T Words - Part 3",
   "slug": "t-words-3",
-  "order": 45,
-  "wordCount": 20,
-  "titleAr": "الوحدة 45: كلمات حرف T - الجزء 3",
+  "order": 64,
+  "wordCount": 21,
+  "titleAr": "الوحدة 64: كلمات حرف T - الجزء 3",
   "description": "Master essential C1 vocabulary starting with the letter T.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف T.",
   "words": [
+    {
+      "id": "w_c1_transcript",
+      "en": "transcript",
+      "ar": "نسخة / سجل الدرجات",
+      "lessonId": "lsn_c1_t_3",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يجب عليك تقديم نسخة رسمية من سجل درجاتك.",
+          "ar": "The court published a transcript of the trial."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈtɹænskɹɪpt/"
+    },
     {
       "id": "w_c1_transformation",
       "en": "transformation",

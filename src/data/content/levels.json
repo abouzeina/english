@@ -6,9 +6,10 @@
     "nameAr": "المبتدئ (A1)",
     "description": "Basic English vocabulary and expressions for beginners.",
     "descriptionAr": "ابدأ رحلتك هنا مع المفردات والجمل الأساسية.",
-    "totalLessons": 27,
+    "totalLessons": 51,
     "title": "A1 Beginner",
-    "order": 1
+    "order": 1,
+    "wordCount": 935
   },
   {
     "id": "lvl_2",
@@ -17,10 +18,10 @@
     "nameAr": "الابتدائي (A2)",
     "description": "Build on your foundation with more complex sentences.",
     "descriptionAr": "ابدأ رحلتك هنا مع المفردات والجمل الأساسية.",
-    "totalLessons": 47,
+    "totalLessons": 45,
     "title": "Elementary",
     "order": 2,
-    "wordCount": 854
+    "wordCount": 800
   },
   {
     "id": "lvl_b1",
@@ -31,7 +32,7 @@
     "description": "Intermediate English vocabulary and real-world usage.",
     "descriptionAr": "مفردات وجمل متوسطة المستوى للاستخدام اليومي والمهني.",
     "order": 3,
-    "wordCount": 804,
+    "wordCount": 862,
     "totalLessons": 45
   },
   {
@@ -43,8 +44,8 @@
     "description": "Upper intermediate English vocabulary and advanced communication patterns.",
     "descriptionAr": "مفردات اللغة الإنجليزية للمستوى فوق المتوسط وأنماط التواصل المتقدمة.",
     "order": 4,
-    "wordCount": 1219,
-    "totalLessons": 63
+    "wordCount": 1455,
+    "totalLessons": 70
   },
   {
     "id": "lvl_c1",
@@ -55,7 +56,7 @@
     "description": "Advanced English vocabulary, nuanced expressions, and academic/professional communication.",
     "descriptionAr": "مفردات إنجليزية متقدمة، تعبيرات دقيقة، وتواصل أكاديمي ومهني.",
     "order": 5,
-    "wordCount": 1000,
-    "totalLessons": 52
+    "wordCount": 1393,
+    "totalLessons": 70
   }
 ]

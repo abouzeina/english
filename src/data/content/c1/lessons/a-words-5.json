@@ -4,11 +4,321 @@
   "title": "Unit 5: A Words - Part 5",
   "slug": "a-words-5",
   "order": 5,
-  "wordCount": 20,
+  "wordCount": 23,
   "titleAr": "الوحدة 5: كلمات حرف A - الجزء 5",
   "description": "Master essential C1 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف A.",
   "words": [
+    {
+      "id": "w_c1_appoint",
+      "en": "appoint",
+      "ar": "يعيّن",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ستقوم اللجنة بتعيين رئيس جديد الأسبوع المقبل.",
+          "ar": "He was appointed as the head of the department."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈpɔɪnt/"
+    },
+    {
+      "id": "w_c1_appreciation",
+      "en": "appreciation",
+      "ar": "تقدير / امتنان",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "نريد أن نظهر تقديرنا لعملك الشاق.",
+          "ar": "The course helped me gain a better appreciation of art."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˌpɹiː.ʃiˈeɪ.ʃən/"
+    },
+    {
+      "id": "w_c1_appropriately",
+      "lessonId": "lsn_c1_a_5",
+      "en": "appropriately",
+      "ar": "بشكل مناسب",
+      "translation": "بشكل مناسب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Please make sure you are dressed appropriately for the occasion.",
+          "ar": "يرجى التأكد من أنك ترتدي ملابس مناسبة لهذه المناسبة."
+        }
+      ],
+      "ipa": "/əˈprəʊpriətli/"
+    },
+    {
+      "id": "w_c1_arbitrary",
+      "en": "arbitrary",
+      "ar": "تعسفي / عشوائي",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "بدا القرار تعسفياً تماماً وغير عادل.",
+          "ar": "Arbitrary arrests are a violation of human rights."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɑɹ.bɪ.tɹɛ(ə).ɹi/"
+    },
+    {
+      "id": "w_c1_architectural",
+      "en": "architectural",
+      "ar": "معماري",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تشتهر المدينة بجمالها المعماري.",
+          "ar": "He is studying architectural design at university."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɑɹkɪˈtɛktjəɹəl/"
+    },
+    {
+      "id": "w_c1_archive",
+      "en": "archive",
+      "ar": "أرشيف / سجلات",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تُحفظ الوثائق التاريخية في الأرشيف الوطني.",
+          "ar": "You can find old issues of the magazine in the online archive."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɑɹkaɪv/"
+    },
+    {
+      "id": "w_c1_arena",
+      "en": "arena",
+      "ar": "ساحة / ميدان",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "أقيم الحفل في ساحة داخلية ضخمة.",
+          "ar": "The issue has now entered the political arena."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈɹiːnə/"
+    },
+    {
+      "id": "w_c1_arguably",
+      "en": "arguably",
+      "ar": "من الممكن القول / ربما",
+      "pronunciation": "ˈɑːɡjuəbli",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "إنه من الممكن القول بأنه أفضل لاعب كرة قدم في العالم.",
+          "ar": "This is arguably the most important decision of the year."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_arm",
+      "lessonId": "lsn_c1_a_5",
+      "en": "arm",
+      "ar": "ذراع / يسلح / فرع",
+      "translation": "ذراع / يسلح / فرع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The charity is the fundraising arm of the organization.",
+          "ar": "الجمعية الخيرية هي ذراع جمع التبرعات للمنظمة."
+        }
+      ],
+      "ipa": "/ɑːm/"
+    },
+    {
+      "id": "w_c1_array",
+      "en": "array",
+      "ar": "مجموعة / تشكيلة",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يقدم المتجر مجموعة واسعة من الهدايا المصنوعة يدوياً.",
+          "ar": "The computer can perform a complex array of tasks."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈɹeɪ/"
+    },
+    {
+      "id": "w_c1_articulate",
+      "en": "articulate",
+      "ar": "يعبّر بوضوح / فصيح",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "كافح ليعبر عن مشاعره بالكلمات.",
+          "ar": "She is a very articulate and persuasive speaker."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɑː(ɹ)ˈtɪk.jʊ.lət/"
+    },
+    {
+      "id": "w_c1_ash",
+      "en": "ash",
+      "ar": "رماد",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "ثار البركان، مغطياً القرية بالرماد.",
+          "ar": "He flicked the cigarette ash into the tray."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/æʃ/"
+    },
+    {
+      "id": "w_c1_aspiration",
+      "en": "aspiration",
+      "ar": "طموح / تطلع",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "طموحها هو أن تصبح جراحة مشهورة عالمياً.",
+          "ar": "The youth have high aspirations for the future."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌæspəˈɹeɪʃən/"
+    },
+    {
+      "id": "w_c1_aspire",
+      "en": "aspire",
+      "ar": "يطمح / يتطلع",
+      "lessonId": "lsn_c1_a_5",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "يطمح الكثير من الشباب لأن يصبحوا مغنيين مشهورين.",
+          "ar": "We should always aspire to improve ourselves."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/əˈspaɪə(ɹ)/"
+    },
     {
       "id": "w_c1_assassination",
       "en": "assassination",
@@ -142,312 +452,73 @@
       "ipa": "/əˈsɜːʃən/"
     },
     {
-      "id": "w_c1_assurance",
-      "en": "assurance",
-      "ar": "تأكيد / ضمان / ثقة",
+      "id": "w_c1_asset",
       "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أعطاني تأكيده الشخصي بأن الأمر سيتم.",
-          "ar": "She answered the questions with quiet assurance."
-        }
-      ],
+      "en": "asset",
+      "ar": "أصل / مورد / ميزة",
+      "translation": "أصل / مورد / ميزة",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/əˈʃɔːɹəns/"
-    },
-    {
-      "id": "w_c1_asylum",
-      "en": "asylum",
-      "ar": "لجوء",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "فر من بلاده وتقدم بطلب للحصول على لجوء سياسي.",
-          "ar": "Thousands of refugees are seeking asylum in Europe."
+          "en": "His knowledge of French is a real asset to the company.",
+          "ar": "معرفته بالفرنسية ميزة حقيقية للشركة."
         }
       ],
+      "ipa": "/ˈæset/"
+    },
+    {
+      "id": "w_c1_assigned",
+      "lessonId": "lsn_c1_a_5",
+      "en": "assigned",
+      "ar": "معين / مكلف بـ",
+      "translation": "معين / مكلف بـ",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/əˈsaɪləm/"
-    },
-    {
-      "id": "w_c1_atrocity",
-      "en": "atrocity",
-      "ar": "فظاعة / بشاعة",
-      "pronunciation": "əˈtrɒsəti",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "تميزت الحرب بفظائع رهيبة من كلا الجانبين.",
-          "ar": "They were accused of committing an atrocity against civilians."
+          "en": "He has been assigned a new role in the department.",
+          "ar": "تم تكليفه بدور جديد في القسم."
         }
       ],
+      "ipa": "/əˈsaɪnd/"
+    },
+    {
+      "id": "w_c1_assistant",
+      "lessonId": "lsn_c1_a_5",
+      "en": "assistant",
+      "ar": "مساعد",
+      "translation": "مساعد",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_attain",
-      "en": "attain",
-      "ar": "يحقق / ينال",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "عملت بجد لتحقيق أهدافها المهنية.",
-          "ar": "The car can attain a top speed of 200 km/h. يمكن للسيارة أن تصل إلى سرعة قصوى تبلغ 200 كم/ساعة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/əˈteɪn/"
-    },
-    {
-      "id": "w_c1_attendance",
-      "en": "attendance",
-      "ar": "حضور",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "الحضور في المحاضرة إلزامي لجميع الطلاب.",
-          "ar": "The festival saw a record attendance this year."
+          "en": "She works as a personal assistant to the CEO.",
+          "ar": "تعمل كمساعدة شخصية للمدير التنفيذي."
         }
       ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/əˈtɛn.dəns/"
-    },
-    {
-      "id": "w_c1_attorney",
-      "en": "attorney",
-      "ar": "محامٍ",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يجب عليك استشارة محامٍ قبل توقيع العقد.",
-          "ar": "The district attorney is prosecuting the case."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/əˈtɜː(ɹ)ni/"
-    },
-    {
-      "id": "w_c1_attribute",
-      "en": "attribute",
-      "ar": "ينسب إلى / ميزة أو صفة",
-      "pronunciation": "əˈtrɪbjuːt",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تنسب نجاحها إلى العمل الجاد والتفاني.",
-          "ar": "Patience is one of his best attributes."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_audit",
-      "en": "audit",
-      "ar": "تدقيق حسابات",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "خضعت الشركة لتدقيق مالي شامل.",
-          "ar": "The internal audit revealed some accounting errors."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɔː.dɪt/"
-    },
-    {
-      "id": "w_c1_authentic",
-      "en": "authentic",
-      "ar": "أصلي / موثوق",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يقدم المطعم طعاماً إيطالياً أصلياً.",
-          "ar": "Experts confirmed that the painting is an authentic Picasso."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɒ.ˈθɛn.tɪk/"
-    },
-    {
-      "id": "w_c1_authorize",
-      "en": "authorize",
-      "ar": "يفوّض / يأذن",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "المدير فقط يمكنه التصريح بمثل هذا المبلغ الكبير.",
-          "ar": "The government authorized the use of force."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɑθəɹaɪz/"
-    },
-    {
-      "id": "w_c1_auto",
-      "en": "auto",
-      "ar": "سيارة / آلي",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يعمل في صناعة السيارات كمهندس.",
-          "ar": "The camera has an auto focus feature."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɑtoʊ/"
-    },
-    {
-      "id": "w_c1_autonomy",
-      "en": "autonomy",
-      "ar": "استقلال / حكم ذاتي",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تسعى المنطقة للحصول على مزيد من الحكم الذاتي من الحكومة المركزية.",
-          "ar": "Employees should have some autonomy in their work."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɑˈtɑnəmi/"
-    },
-    {
-      "id": "w_c1_availability",
-      "en": "availability",
-      "ar": "توفر / إتاحة",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يرجى التحقق من توفر التذاكر قبل الذهاب.",
-          "ar": "The manager's availability for meetings is limited."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/[əˌveɪləˈbɪlɪtɪ]/"
-    },
-    {
-      "id": "w_c1_await",
-      "en": "await",
-      "ar": "ينتظر / يترقب",
-      "lessonId": "lsn_c1_a_5",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "ننتظر بفارغ الصبر ردكم على اقتراحنا.",
-          "ar": "A warm welcome awaits you at our hotel."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/əˈwɛɪt/"
+      "ipa": "/əˈsɪstənt/"
     }
   ]
 }

@@ -1,0 +1,508 @@
+{
+  "id": "lsn_b2_e_4",
+  "levelId": "lvl_b2",
+  "title": "Unit 22: E Words - Part 4",
+  "slug": "e-words-4",
+  "order": 22,
+  "wordCount": 22,
+  "titleAr": "الوحدة 22: كلمات حرف E - الجزء 4",
+  "description": "Master essential B2 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف E.",
+  "words": [
+    {
+      "id": "w_b2_exhibit",
+      "en": "exhibit",
+      "ar": "معرض / تعرض",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She will exhibit her new paintings in her first exhibition.",
+          "ar": "ستعرض لوحاتها الجديدة في معرضها الأول."
+        },
+        {
+          "en": "The artist is having his first exhibit.",
+          "ar": "الفنان يقيم معرضه الأول."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛɡ-/"
+    },
+    {
+      "id": "w_b2_existence",
+      "en": "existence",
+      "ar": "وجود",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "(",
+          "ar": "هو) يؤمن بوجود الأشباح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛɡ.ˈzɪs.təns/"
+    },
+    {
+      "id": "w_b2_exit",
+      "en": "exit",
+      "ar": "مخرج",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Where is the emergency exit ?",
+          "ar": "أين مخرج الطوارئ ؟"
+        },
+        {
+          "en": "يمكنك الخروج من المبنى عبر الباب الخلفي",
+          "ar": "Please wait until the plane stops before you exit."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɛksɪt/"
+    },
+    {
+      "id": "w_b2_exotic",
+      "en": "exotic",
+      "ar": "غريبة",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "These fruits seem exotic, did you try them?",
+          "ar": "تبدو هذه الفاكهة غريبة، هل جربتها ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪɡˈzɒtɪk/"
+    },
+    {
+      "id": "w_b2_expansion",
+      "en": "expansion",
+      "ar": "توسعا",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The country is experiencing economic expansion.",
+          "ar": "تشهد البلاد توسعا اقتصاديًا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈspænʃən/"
+    },
+    {
+      "id": "w_b2_expectation",
+      "lessonId": "lsn_b2_e_4",
+      "en": "expectation",
+      "ar": "توقع",
+      "translation": "توقع",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The film did not meet my expectations.",
+          "ar": "الفيلم لم يرقَ لتوقعاتي."
+        }
+      ],
+      "ipa": "/ˌekspekˈteɪʃn/"
+    },
+    {
+      "id": "w_b2_expectations",
+      "en": "expectations",
+      "ar": "توقعات",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our expectations are high.",
+          "ar": "توقعاتنا مرتفعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛkspɛkˈteɪʃənz/"
+    },
+    {
+      "id": "w_b2_expense",
+      "lessonId": "lsn_b2_e_4",
+      "en": "expense",
+      "ar": "نفقة / تكلفة",
+      "translation": "نفقة / تكلفة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We can't afford the expense of a new car.",
+          "ar": "لا يمكننا تحمل تكاليف سيارة جديدة."
+        }
+      ],
+      "ipa": "/ɪkˈspens/"
+    },
+    {
+      "id": "w_b2_expenses",
+      "en": "expenses",
+      "ar": "تكاليف / نفقات",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Living expenses are high in big cities.",
+          "ar": "تكاليف المعيشة مرتفعة في المدن الكبرى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈspɛnsɪz/"
+    },
+    {
+      "id": "w_b2_expertise",
+      "en": "expertise",
+      "ar": "خبرة",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This job requires technical expertise.",
+          "ar": "هذه الوظيفة تتطلب خبرة تقنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɛkspɚˈtiːs/"
+    },
+    {
+      "id": "w_b2_exploit",
+      "en": "exploit",
+      "ar": "استغل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It is a great opportunity, exploit it.",
+          "ar": "إنها فرصة عظيمة استغلها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_exploration",
+      "en": "exploration",
+      "ar": "استكشاف",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This documentary is about the exploration of space.",
+          "ar": "يدور هذا الفيلم الوثائقي حول استكشاف الفضاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌɛkspləˈɹeɪʃən/"
+    },
+    {
+      "id": "w_b2_expose",
+      "en": "expose",
+      "ar": "تعرّض",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You should expose your skin to sunlight every day.",
+          "ar": "يجب أن تعرّض بشرتك لأشعة الشمس كل يوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈspəʊz/"
+    },
+    {
+      "id": "w_b2_exposure",
+      "en": "exposure",
+      "ar": "التعرض",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "His skin is burned from too much sun exposure.",
+          "ar": "جلده محترق من كثرة التعرض لأشعة الشمس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈspoʊʒɚ/"
+    },
+    {
+      "id": "w_b2_extend",
+      "en": "extend",
+      "ar": "تمديد",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They intend to extend the vacation period.",
+          "ar": "يعتزمون تمديد فترة الإجازة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛkˈstɛnd/"
+    },
+    {
+      "id": "w_b2_extension",
+      "en": "extension",
+      "ar": "امتداداً",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They built an extension to the house.",
+          "ar": "بنوا امتداداً للمنزل."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪkˈstɛnʃən/"
+    },
+    {
+      "id": "w_b2_extensive",
+      "en": "extensive",
+      "ar": "واسعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The book includes an extensive list of sources.",
+          "ar": "يتضمن الكتاب قائمة واسعة من المصادر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_extensively",
+      "en": "extensively",
+      "ar": "على نطاق واسع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He has traveled extensively.",
+          "ar": "لقد سافر على نطاق واسع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_extent",
+      "en": "extent",
+      "ar": "مدى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "To what extent can I trust him ?",
+          "ar": "إلى أي مدى يمكنني أن أثق به ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_external",
+      "en": "external",
+      "ar": "الخارجي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The external door is open.",
+          "ar": "الباب الخارجي مفتوح"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_extraordinary",
+      "en": "extraordinary",
+      "ar": "استثنائية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We faced some extraordinary circumstances.",
+          "ar": "واجهنا بعض الظروف الاستثنائية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_extremes",
+      "en": "extremes",
+      "ar": "درجات قصوى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Extremes of cold have decreased dramatically.",
+          "ar": "انخفضت درجات البرودة القصوى بشكل كبير."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

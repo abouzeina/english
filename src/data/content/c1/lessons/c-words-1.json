@@ -1,0 +1,588 @@
+{
+  "id": "lsn_c1_c_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 11: C Words - Part 1",
+  "slug": "c-words-1",
+  "order": 11,
+  "wordCount": 25,
+  "titleAr": "الوحدة 11: كلمات حرف C - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_c1_cabinet",
+      "lessonId": "lsn_c1_c_1",
+      "en": "cabinet",
+      "ar": "خزانة / مجلس الوزراء",
+      "translation": "خزانة / مجلس الوزراء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The prime minister held a cabinet meeting.",
+          "ar": "عقد رئيس الوزراء اجتماعاً لمجلس الوزراء."
+        }
+      ],
+      "ipa": "/ˈkæbɪnət/"
+    },
+    {
+      "id": "w_c1_calculation",
+      "lessonId": "lsn_c1_c_1",
+      "en": "calculation",
+      "ar": "حساب / عملية حسابية",
+      "translation": "حساب / عملية حسابية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "According to my calculations, we have enough money.",
+          "ar": "وفقاً لحساباتي، لدينا ما يكفي من المال."
+        }
+      ],
+      "ipa": "/ˌkælkjuˈleɪʃn/"
+    },
+    {
+      "id": "w_c1_canvas",
+      "lessonId": "lsn_c1_c_1",
+      "en": "canvas",
+      "ar": "قماش كنفا / لوحة رسم / قماش خيام",
+      "translation": "قماش كنفا / لوحة رسم / قماش خيام",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The artist painted on a large canvas.",
+          "ar": "رسم الفنان على لوحة كنفا كبيرة."
+        }
+      ],
+      "ipa": "/ˈkænvəs/"
+    },
+    {
+      "id": "w_c1_capability",
+      "lessonId": "lsn_c1_c_1",
+      "en": "capability",
+      "ar": "قدرة / إمكانية",
+      "translation": "قدرة / إمكانية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company has the capability to produce more goods.",
+          "ar": "لدى الشركة القدرة على إنتاج المزيد من السلع."
+        }
+      ],
+      "ipa": "/ˌkeɪpəˈbɪləti/"
+    },
+    {
+      "id": "w_c1_capacity",
+      "lessonId": "lsn_c1_c_1",
+      "en": "capacity",
+      "ar": "سعة / قدرة / منصب",
+      "translation": "سعة / قدرة / منصب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The stadium has a seating capacity of 50,000.",
+          "ar": "يتسع الاستاد لخمسين ألف مقعد (سعة جلوس)."
+        }
+      ],
+      "ipa": "/kəˈpæsəti/"
+    },
+    {
+      "id": "w_c1_cape",
+      "lessonId": "lsn_c1_c_1",
+      "en": "cape",
+      "ar": "رأس (جغرافي) / عباءة قصيرة",
+      "translation": "رأس (جغرافي) / عباءة قصيرة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The Cape of Good Hope is in South Africa.",
+          "ar": "رأس الرجاء الصالح يقع في جنوب أفريقيا."
+        }
+      ],
+      "ipa": "/keɪp/"
+    },
+    {
+      "id": "w_c1_capitalism",
+      "lessonId": "lsn_c1_c_1",
+      "en": "capitalism",
+      "ar": "رأسمالية",
+      "translation": "رأسمالية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country's economy is based on capitalism.",
+          "ar": "يعتمد اقتصاد البلاد على الرأسمالية."
+        }
+      ],
+      "ipa": "/ˈkæpɪtəlɪzəm/"
+    },
+    {
+      "id": "w_c1_capitalist",
+      "lessonId": "lsn_c1_c_1",
+      "en": "capitalist",
+      "ar": "رأسمالي",
+      "translation": "رأسمالي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The capitalist system encourages private ownership.",
+          "ar": "يشجع النظام الرأسمالي الملكية الخاصة."
+        }
+      ],
+      "ipa": "/ˈkæpɪtəlɪst/"
+    },
+    {
+      "id": "w_c1_carbon",
+      "lessonId": "lsn_c1_c_1",
+      "en": "carbon",
+      "ar": "كربون",
+      "translation": "كربون",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "All living things are based on carbon.",
+          "ar": "جميع الكائنات الحية تعتمد على الكربون."
+        }
+      ],
+      "ipa": "/ˈkɑːbən/"
+    },
+    {
+      "id": "w_c1_cargo",
+      "lessonId": "lsn_c1_c_1",
+      "en": "cargo",
+      "ar": "حمولة / شحنة",
+      "translation": "حمولة / شحنة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The ship was carrying a cargo of wheat.",
+          "ar": "كانت السفينة تحمل شحنة من القمح."
+        }
+      ],
+      "ipa": "/ˈkɑːɡəʊ/"
+    },
+    {
+      "id": "w_c1_carriage",
+      "lessonId": "lsn_c1_c_1",
+      "en": "carriage",
+      "ar": "عربة / مقطورة قطار / نقل",
+      "translation": "عربة / مقطورة قطار / نقل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The train has six carriages.",
+          "ar": "القطار يتكون من ست مقطورات (عربات)."
+        }
+      ],
+      "ipa": "/ˈkærɪdʒ/"
+    },
+    {
+      "id": "w_c1_carve",
+      "lessonId": "lsn_c1_c_1",
+      "en": "carve",
+      "ar": "ينحت / يخرط / يقطع (اللحم)",
+      "translation": "ينحت / يخرط / يقطع (اللحم)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The statue was carved out of wood.",
+          "ar": "نُحت التمثال من الخشب."
+        }
+      ],
+      "ipa": "/kɑːv/"
+    },
+    {
+      "id": "w_c1_casino",
+      "lessonId": "lsn_c1_c_1",
+      "en": "casino",
+      "ar": "كازينو",
+      "translation": "كازينو",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He lost a lot of money at the casino.",
+          "ar": "خسر الكثير من المال في الكازينو."
+        }
+      ],
+      "ipa": "/kəˈsiːnəʊ/"
+    },
+    {
+      "id": "w_c1_casual",
+      "lessonId": "lsn_c1_c_1",
+      "en": "casual",
+      "ar": "عادي / غير رسمي / عرضي",
+      "translation": "عادي / غير رسمي / عرضي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He wears casual clothes on the weekend.",
+          "ar": "يرتدي ملابس عادية (غير رسمية) في عطلة نهاية الأسبوع."
+        }
+      ],
+      "ipa": "/ˈkæʒuəl/"
+    },
+    {
+      "id": "w_c1_casualty",
+      "lessonId": "lsn_c1_c_1",
+      "en": "casualty",
+      "ar": "ضحية / مصاب / خسارة بشرية",
+      "translation": "ضحية / مصاب / خسارة بشرية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There were many casualties in the car crash.",
+          "ar": "كان هناك العديد من المصابين (الضحايا) في حادث السيارة."
+        }
+      ],
+      "ipa": "/ˈkæʒuəlti/"
+    },
+    {
+      "id": "w_c1_catalogue",
+      "lessonId": "lsn_c1_c_1",
+      "en": "catalogue",
+      "ar": "كتالوج / فهرس",
+      "translation": "كتالوج / فهرس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You can find all our products in the catalogue.",
+          "ar": "يمكنك العثور على جميع منتجاتنا في الكتالوج (الفهرس)."
+        }
+      ],
+      "ipa": "/ˈkætəlɒɡ/"
+    },
+    {
+      "id": "w_c1_cater",
+      "lessonId": "lsn_c1_c_1",
+      "en": "cater",
+      "ar": "يلبي / يزود بالطعام",
+      "translation": "يلبي / يزود بالطعام",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The hotel caters for weddings and parties.",
+          "ar": "يلبي الفندق احتياجات حفلات الزفاف والحفلات."
+        }
+      ],
+      "ipa": "/ˈkeɪtə(r)/"
+    },
+    {
+      "id": "w_c1_cattle",
+      "lessonId": "lsn_c1_c_1",
+      "en": "cattle",
+      "ar": "ماشية / أبقار",
+      "translation": "ماشية / أبقار",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The farmer raises cattle for meat.",
+          "ar": "يربي المزارع الماشية من أجل اللحوم."
+        }
+      ],
+      "ipa": "/ˈkætl/"
+    },
+    {
+      "id": "w_c1_caution",
+      "lessonId": "lsn_c1_c_1",
+      "en": "caution",
+      "ar": "حذر / تنبيه / يحذر",
+      "translation": "حذر / تنبيه / يحذر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Drivers should exercise caution in wet weather.",
+          "ar": "يجب على السائقين توخي الحذر في الطقس الرطب."
+        }
+      ],
+      "ipa": "/ˈkɔːʃn/"
+    },
+    {
+      "id": "w_c1_cautious",
+      "lessonId": "lsn_c1_c_1",
+      "en": "cautious",
+      "ar": "حذر / محترس",
+      "translation": "حذر / محترس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is very cautious about spending money.",
+          "ar": "هي حذرة جداً بشأن إنفاق المال."
+        }
+      ],
+      "ipa": "/ˈkɔːʃəs/"
+    },
+    {
+      "id": "w_c1_cave",
+      "lessonId": "lsn_c1_c_1",
+      "en": "cave",
+      "ar": "كهف / مغارة",
+      "translation": "كهف / مغارة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They explored the deep cave in the mountains.",
+          "ar": "استكشفوا الكهف العميق في الجبال."
+        }
+      ],
+      "ipa": "/keɪv/"
+    },
+    {
+      "id": "w_c1_cease",
+      "lessonId": "lsn_c1_c_1",
+      "en": "cease",
+      "ar": "يتوقف / ينقطع",
+      "translation": "يتوقف / ينقطع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The rain finally ceased towards evening.",
+          "ar": "توقف المطر أخيراً مع حلول المساء."
+        }
+      ],
+      "ipa": "/siːs/"
+    },
+    {
+      "id": "w_c1_cemetery",
+      "lessonId": "lsn_c1_c_1",
+      "en": "cemetery",
+      "ar": "مقبرة",
+      "translation": "مقبرة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was buried in the local cemetery.",
+          "ar": "دُفن في المقبرة المحلية."
+        }
+      ],
+      "ipa": "/ˈsemətri/"
+    },
+    {
+      "id": "w_c1_census",
+      "lessonId": "lsn_c1_c_1",
+      "en": "census",
+      "ar": "تعداد سكاني",
+      "translation": "تعداد سكاني",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government conducts a census every ten years.",
+          "ar": "تجري الحكومة تعداداً سكانياً كل عشر سنوات."
+        }
+      ],
+      "ipa": "/ˈsensəs/"
+    },
+    {
+      "id": "w_c1_certainty",
+      "lessonId": "lsn_c1_c_1",
+      "en": "certainty",
+      "ar": "يقين / تأكد",
+      "translation": "يقين / تأكد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I can say with certainty that we will win.",
+          "ar": "أستطيع أن أقول بيقين إننا سنفوز."
+        }
+      ],
+      "ipa": "/ˈsɜːtnti/"
+    }
+  ]
+}

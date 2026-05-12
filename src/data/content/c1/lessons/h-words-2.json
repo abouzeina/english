@@ -1,239 +1,19 @@
 {
-  "id": "lsn_c1_h",
+  "id": "lsn_c1_h_2",
   "levelId": "lvl_c1",
-  "title": "Unit 16: H Words",
-  "slug": "h-words",
-  "order": 16,
-  "wordCount": 25,
-  "titleAr": "الوحدة 16: كلمات حرف H",
+  "title": "Unit 31: H Words - Part 2",
+  "slug": "h-words-2",
+  "order": 31,
+  "wordCount": 15,
+  "titleAr": "الوحدة 31: كلمات حرف H - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter H.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف H.",
   "words": [
     {
-      "id": "w_c1_hail",
-      "en": "hail",
-      "ar": "يهتف / يحيي / برد",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "قرر النقاد الإشادة (الهتاف) بالفيلم كعمل فني رائع",
-          "ar": "A sudden storm brought heavy hail to the region."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/heɪl/"
-    },
-    {
-      "id": "w_c1_halfway",
-      "en": "halfway",
-      "ar": "في منتصف الطريق",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "نحن في منتصف الطريق من المشروع وكل شيء يسير وفق الخطة",
-          "ar": "The hotel is located halfway between the city and the airport."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/hɑːfˈweɪ/"
-    },
-    {
-      "id": "w_c1_halt",
-      "en": "halt",
-      "ar": "توقف / يوقف",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "توقفت أعمال البناء فجأة بسبب المطر",
-          "ar": "The guards were ordered to halt anyone trying to enter."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/hɔːlt/"
-    },
-    {
-      "id": "w_c1_handful",
-      "en": "handful",
-      "ar": "حفنة / قليل",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "حضر حفنة (عدد قليل) من الناس فقط الحفل الصغير",
-          "ar": "He picked up a handful of sand and let it slip through his fingers."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈhæn(d)fəl/"
-    },
-    {
-      "id": "w_c1_handling",
-      "en": "handling",
-      "ar": "معالجة / تعامل",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أُثني على المدير لمعالجته (تعامله مع) الأزمة",
-          "ar": "Please be careful with the handling of these fragile items."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈhændlɪŋ/"
-    },
-    {
-      "id": "w_c1_harsh",
-      "en": "harsh",
-      "ar": "قاسي / صارم",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "احتُجز السجناء في ظروف قاسية للغاية",
-          "ar": "He received a harsh criticism for his latest book."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/hɑːʃ/"
-    },
-    {
-      "id": "w_c1_harvest",
-      "en": "harvest",
-      "ar": "حصاد / يحصد",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "يستعد المزارعون لحصاد القمح السنوي",
-          "ar": "We were able to harvest a lot of vegetables from the garden."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈhaːvəst/"
-    },
-    {
-      "id": "w_c1_hatred",
-      "en": "hatred",
-      "ar": "كراهية",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كانت عيناه مليئتين بالكراهية عندما نظر إلى عدوه",
-          "ar": "We must work together to eliminate hatred and prejudice."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈheɪtɹɪd/"
-    },
-    {
-      "id": "w_c1_haunt",
-      "en": "haunt",
-      "ar": "يطارد / يرتاد",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "لا تزال ذكريات الحرب تطارده",
-          "ar": "The old house was said to be haunted by ghosts."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/hænt/"
-    },
-    {
-      "id": "w_c1_hazard",
-      "en": "hazard",
-      "ar": "خطر / مجازفة",
-      "lessonId": "lsn_c1_h",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "التدخين خطر صحي جسيم على الجميع",
-          "ar": "Heavy fog can be a major hazard for drivers on the highway."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈhazəd/"
-    },
-    {
       "id": "w_c1_heritage",
       "en": "heritage",
       "ar": "تراث",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -255,7 +35,7 @@
       "id": "w_c1_hierarchy",
       "en": "hierarchy",
       "ar": "تسلسل هرمي",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -278,7 +58,7 @@
       "en": "high-profile",
       "ar": "بارز / رفيع المستوى",
       "pronunciation": "ˌhaɪ ˈprəʊfaɪl",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -299,7 +79,7 @@
       "id": "w_c1_hint",
       "en": "hint",
       "ar": "تلميح / يلمح",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -322,7 +102,7 @@
       "en": "homeland",
       "ar": "وطن",
       "pronunciation": "ˈhəʊmlænd",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -343,7 +123,7 @@
       "id": "w_c1_hopeful",
       "en": "hopeful",
       "ar": "متفائل / واعد",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -365,7 +145,7 @@
       "id": "w_c1_horizon",
       "en": "horizon",
       "ar": "أفق",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -387,7 +167,7 @@
       "id": "w_c1_horn",
       "en": "horn",
       "ar": "بوق / قرن",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -409,7 +189,7 @@
       "id": "w_c1_hostage",
       "en": "hostage",
       "ar": "رهينة",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -431,7 +211,7 @@
       "id": "w_c1_hostile",
       "en": "hostile",
       "ar": "عدائي",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -453,7 +233,7 @@
       "id": "w_c1_hostility",
       "en": "hostility",
       "ar": "عداء",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -475,7 +255,7 @@
       "id": "w_c1_humanitarian",
       "en": "humanitarian",
       "ar": "إنساني",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -497,7 +277,7 @@
       "id": "w_c1_humanity",
       "en": "humanity",
       "ar": "البشرية / الإنسانية",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -519,7 +299,7 @@
       "id": "w_c1_humble",
       "en": "humble",
       "ar": "متواضع",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {
@@ -541,7 +321,7 @@
       "id": "w_c1_hydrogen",
       "en": "hydrogen",
       "ar": "هيدروجين",
-      "lessonId": "lsn_c1_h",
+      "lessonId": "lsn_c1_h_2",
       "levelId": "lvl_c1",
       "examples": [
         {

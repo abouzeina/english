@@ -1,0 +1,602 @@
+[
+  {
+    "en": "broadcaster",
+    "translation": "مذيع / هيئة إذاعية",
+    "ipa": "/ˈbrɔːdkɑːstə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The BBC is a world-famous broadcaster.",
+        "ar": "البي بي سي هي هيئة إذاعية مشهورة عالمياً."
+      }
+    ]
+  },
+  {
+    "en": "broaden",
+    "translation": "يوسع / يعرض",
+    "ipa": "/ˈbrɔːdn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Travel broadens the mind.",
+        "ar": "السفر يوسع الأفق."
+      }
+    ]
+  },
+  {
+    "en": "browser",
+    "translation": "متصفح",
+    "ipa": "/ˈbraʊzə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Which web browser do you use?",
+        "ar": "أي متصفح ويب تستخدم؟"
+      }
+    ]
+  },
+  {
+    "en": "brutal",
+    "translation": "وحشي / قارس",
+    "ipa": "/ˈbruːtl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The attack was described as brutal and cowardly.",
+        "ar": "وُصف الهجوم بأنه وحشي وجبان."
+      }
+    ]
+  },
+  {
+    "en": "buck",
+    "translation": "دولار (عامية) / ذكر الغزال",
+    "ipa": "/bʌk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "That meal cost me fifty bucks.",
+        "ar": "كلفتني تلك الوجبة خمسين دولاراً."
+      }
+    ]
+  },
+  {
+    "en": "buddy",
+    "translation": "صديق / رفيق (عامية)",
+    "ipa": "/ˈbʌdi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "We've been buddies since primary school.",
+        "ar": "نحن أصدقاء منذ المدرسة الابتدائية."
+      }
+    ]
+  },
+  {
+    "en": "buffer",
+    "translation": "حاجز وقائي / ذاكرة وسيطة",
+    "ipa": "/ˈbʌfə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The trees act as a buffer against the noise.",
+        "ar": "تعمل الأشجار كحاجز وقائي ضد الضجيج."
+      }
+    ]
+  },
+  {
+    "en": "bug",
+    "translation": "حشرة / خطأ برمجى / فيروس",
+    "ipa": "/bʌɡ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is a bug in the software.",
+        "ar": "يوجد خطأ برمجى (bug) في البرنامج."
+      }
+    ]
+  },
+  {
+    "en": "bulk",
+    "translation": "حجم كبير / معظم",
+    "ipa": "/bʌlk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The bulk of the work has been finished.",
+        "ar": "تم الانتهاء من معظم العمل."
+      }
+    ]
+  },
+  {
+    "en": "burden",
+    "translation": "عبء / حمل",
+    "ipa": "/ˈbɜːdn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The debt has become a heavy burden for the company.",
+        "ar": "أصبح الدين عبئاً ثقيلاً على الشركة."
+      }
+    ]
+  },
+  {
+    "en": "bureaucracy",
+    "translation": "بيروقراطية / روتين حكومي",
+    "ipa": "/bjʊəˈrɒkrəsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There is too much bureaucracy in the government.",
+        "ar": "هناك الكثير من البيروقراطية في الحكومة."
+      }
+    ]
+  },
+  {
+    "en": "burial",
+    "translation": "دفن",
+    "ipa": "/ˈberiəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The burial took place in the local cemetery.",
+        "ar": "تم الدفن في المقبرة المحلية."
+      }
+    ]
+  },
+  {
+    "en": "burst",
+    "translation": "ينفجر / اندفاع",
+    "ipa": "/bɜːst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The balloon burst suddenly.",
+        "ar": "انفجر البالون فجأة."
+      }
+    ]
+  },
+  {
+    "en": "cabinet",
+    "translation": "خزانة / مجلس الوزراء",
+    "ipa": "/ˈkæbɪnət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The prime minister held a cabinet meeting.",
+        "ar": "عقد رئيس الوزراء اجتماعاً لمجلس الوزراء."
+      }
+    ]
+  },
+  {
+    "en": "calculation",
+    "translation": "حساب / عملية حسابية",
+    "ipa": "/ˌkælkjuˈleɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "According to my calculations, we have enough money.",
+        "ar": "وفقاً لحساباتي، لدينا ما يكفي من المال."
+      }
+    ]
+  },
+  {
+    "en": "canvas",
+    "translation": "قماش كنفا / لوحة رسم / قماش خيام",
+    "ipa": "/ˈkænvəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The artist painted on a large canvas.",
+        "ar": "رسم الفنان على لوحة كنفا كبيرة."
+      }
+    ]
+  },
+  {
+    "en": "capability",
+    "translation": "قدرة / إمكانية",
+    "ipa": "/ˌkeɪpəˈbɪləti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The company has the capability to produce more goods.",
+        "ar": "لدى الشركة القدرة على إنتاج المزيد من السلع."
+      }
+    ]
+  },
+  {
+    "en": "capacity",
+    "translation": "سعة / قدرة / منصب",
+    "ipa": "/kəˈpæsəti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The stadium has a seating capacity of 50,000.",
+        "ar": "يتسع الاستاد لخمسين ألف مقعد (سعة جلوس)."
+      }
+    ]
+  },
+  {
+    "en": "cape",
+    "translation": "رأس (جغرافي) / عباءة قصيرة",
+    "ipa": "/keɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The Cape of Good Hope is in South Africa.",
+        "ar": "رأس الرجاء الصالح يقع في جنوب أفريقيا."
+      }
+    ]
+  },
+  {
+    "en": "capitalism",
+    "translation": "رأسمالية",
+    "ipa": "/ˈkæpɪtəlɪzəm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country's economy is based on capitalism.",
+        "ar": "يعتمد اقتصاد البلاد على الرأسمالية."
+      }
+    ]
+  },
+  {
+    "en": "capitalist",
+    "translation": "رأسمالي",
+    "ipa": "/ˈkæpɪtəlɪst/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The capitalist system encourages private ownership.",
+        "ar": "يشجع النظام الرأسمالي الملكية الخاصة."
+      }
+    ]
+  },
+  {
+    "en": "carbon",
+    "translation": "كربون",
+    "ipa": "/ˈkɑːbən/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "All living things are based on carbon.",
+        "ar": "جميع الكائنات الحية تعتمد على الكربون."
+      }
+    ]
+  },
+  {
+    "en": "cargo",
+    "translation": "حمولة / شحنة",
+    "ipa": "/ˈkɑːɡəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The ship was carrying a cargo of wheat.",
+        "ar": "كانت السفينة تحمل شحنة من القمح."
+      }
+    ]
+  },
+  {
+    "en": "carriage",
+    "translation": "عربة / مقطورة قطار / نقل",
+    "ipa": "/ˈkærɪdʒ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The train has six carriages.",
+        "ar": "القطار يتكون من ست مقطورات (عربات)."
+      }
+    ]
+  },
+  {
+    "en": "carve",
+    "translation": "ينحت / يخرط / يقطع (اللحم)",
+    "ipa": "/kɑːv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The statue was carved out of wood.",
+        "ar": "نُحت التمثال من الخشب."
+      }
+    ]
+  },
+  {
+    "en": "casino",
+    "translation": "كازينو",
+    "ipa": "/kəˈsiːnəʊ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He lost a lot of money at the casino.",
+        "ar": "خسر الكثير من المال في الكازينو."
+      }
+    ]
+  },
+  {
+    "en": "casual",
+    "translation": "عادي / غير رسمي / عرضي",
+    "ipa": "/ˈkæʒuəl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He wears casual clothes on the weekend.",
+        "ar": "يرتدي ملابس عادية (غير رسمية) في عطلة نهاية الأسبوع."
+      }
+    ]
+  },
+  {
+    "en": "casualty",
+    "translation": "ضحية / مصاب / خسارة بشرية",
+    "ipa": "/ˈkæʒuəlti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "There were many casualties in the car crash.",
+        "ar": "كان هناك العديد من المصابين (الضحايا) في حادث السيارة."
+      }
+    ]
+  },
+  {
+    "en": "catalogue",
+    "translation": "كتالوج / فهرس",
+    "ipa": "/ˈkætəlɒɡ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "You can find all our products in the catalogue.",
+        "ar": "يمكنك العثور على جميع منتجاتنا في الكتالوج (الفهرس)."
+      }
+    ]
+  },
+  {
+    "en": "cater",
+    "translation": "يلبي / يزود بالطعام",
+    "ipa": "/ˈkeɪtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The hotel caters for weddings and parties.",
+        "ar": "يلبي الفندق احتياجات حفلات الزفاف والحفلات."
+      }
+    ]
+  },
+  {
+    "en": "cattle",
+    "translation": "ماشية / أبقار",
+    "ipa": "/ˈkætl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The farmer raises cattle for meat.",
+        "ar": "يربي المزارع الماشية من أجل اللحوم."
+      }
+    ]
+  },
+  {
+    "en": "caution",
+    "translation": "حذر / تنبيه / يحذر",
+    "ipa": "/ˈkɔːʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Drivers should exercise caution in wet weather.",
+        "ar": "يجب على السائقين توخي الحذر في الطقس الرطب."
+      }
+    ]
+  },
+  {
+    "en": "cautious",
+    "translation": "حذر / محترس",
+    "ipa": "/ˈkɔːʃəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is very cautious about spending money.",
+        "ar": "هي حذرة جداً بشأن إنفاق المال."
+      }
+    ]
+  },
+  {
+    "en": "cave",
+    "translation": "كهف / مغارة",
+    "ipa": "/keɪv/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They explored the deep cave in the mountains.",
+        "ar": "استكشفوا الكهف العميق في الجبال."
+      }
+    ]
+  },
+  {
+    "en": "cease",
+    "translation": "يتوقف / ينقطع",
+    "ipa": "/siːs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The rain finally ceased towards evening.",
+        "ar": "توقف المطر أخيراً مع حلول المساء."
+      }
+    ]
+  },
+  {
+    "en": "cemetery",
+    "translation": "مقبرة",
+    "ipa": "/ˈsemətri/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He was buried in the local cemetery.",
+        "ar": "دُفن في المقبرة المحلية."
+      }
+    ]
+  },
+  {
+    "en": "census",
+    "translation": "تعداد سكاني",
+    "ipa": "/ˈsensəs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The government conducts a census every ten years.",
+        "ar": "تجري الحكومة تعداداً سكانياً كل عشر سنوات."
+      }
+    ]
+  },
+  {
+    "en": "certainty",
+    "translation": "يقين / تأكد",
+    "ipa": "/ˈsɜːtnti/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "I can say with certainty that we will win.",
+        "ar": "أستطيع أن أقول بيقين إننا سنفوز."
+      }
+    ]
+  },
+  {
+    "en": "certificate",
+    "translation": "شهادة / وثيقة",
+    "ipa": "/səˈtɪfɪkət/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She received a certificate for completing the course.",
+        "ar": "حصلت على شهادة لإتمام الدورة."
+      }
+    ]
+  },
+  {
+    "en": "challenging",
+    "translation": "صعب / مثير للتحدي",
+    "ipa": "/ˈtʃælɪndʒɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Climbing the mountain was a challenging task.",
+        "ar": "كان تسلق الجبل مهمة مثيرة للتحدي."
+      }
+    ]
+  },
+  {
+    "en": "chamber",
+    "translation": "غرفة / حجرة / قاعة",
+    "ipa": "/ˈtʃeɪmbə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The meeting was held in the council chamber.",
+        "ar": "عُقد الاجتماع في قاعة المجلس."
+      }
+    ]
+  },
+  {
+    "en": "championship",
+    "translation": "بطولة",
+    "ipa": "/ˈtʃæmpiənʃɪp/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He won the world championship last year.",
+        "ar": "فاز ببطولة العالم العام الماضي."
+      }
+    ]
+  },
+  {
+    "en": "chaos",
+    "translation": "فوضى",
+    "ipa": "/ˈkeɪɒs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The city was in chaos after the earthquake.",
+        "ar": "كانت المدينة في فوضى بعد الزلزال."
+      }
+    ]
+  },
+  {
+    "en": "characterize",
+    "translation": "يميز / يصف",
+    "ipa": "/ˈkærəktəraɪz/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The period was characterized by rapid social change.",
+        "ar": "تميزت تلك الفترة بتغير اجتماعي سريع."
+      }
+    ]
+  },
+  {
+    "en": "charm",
+    "translation": "سحر / فتنة / تميمة",
+    "ipa": "/tʃɑːm/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He has a lot of personal charm.",
+        "ar": "لديه الكثير من السحر الشخصي."
+      }
+    ]
+  },
+  {
+    "en": "charming",
+    "translation": "ساحر / فتان",
+    "ipa": "/ˈtʃɑːmɪŋ/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "She is a very charming person.",
+        "ar": "هي شخصية ساحرة جداً."
+      }
+    ]
+  },
+  {
+    "en": "charter",
+    "translation": "ميثاق / عهد / استئجار",
+    "ipa": "/ˈtʃɑːtə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The United Nations Charter defines the goals of the organization.",
+        "ar": "يحدد ميثاق الأمم المتحدة أهداف المنظمة."
+      }
+    ]
+  },
+  {
+    "en": "chase",
+    "translation": "يطارد / يلاحق",
+    "ipa": "/tʃeɪs/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The dog chased the cat up the tree.",
+        "ar": "طارد الكلب القطة حتى أعلى الشجرة."
+      }
+    ]
+  },
+  {
+    "en": "cheek",
+    "translation": "خد / وجنة",
+    "ipa": "/tʃiːk/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He kissed her on the cheek.",
+        "ar": "قبلها على خدها."
+      }
+    ]
+  },
+  {
+    "en": "cheer",
+    "translation": "يهتف / يشجع / ابتهاج",
+    "ipa": "/tʃɪə(r)/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The crowd cheered as the team scored a goal.",
+        "ar": "هتف الجمهور عندما سجل الفريق هدفاً."
+      }
+    ]
+  }
+]

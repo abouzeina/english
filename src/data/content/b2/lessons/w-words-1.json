@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_w_1",
   "levelId": "lvl_b2",
-  "title": "Unit 54: W Words - Part 1",
+  "title": "Unit 68: W Words - Part 1",
   "slug": "w-words-1",
-  "order": 54,
-  "wordCount": 14,
-  "titleAr": "الوحدة 54: كلمات حرف W - الجزء 1",
+  "order": 68,
+  "wordCount": 17,
+  "titleAr": "الوحدة 68: كلمات حرف W - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter W.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف W.",
   "words": [
@@ -30,6 +30,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_wander",
+      "lessonId": "lsn_b2_w_1",
+      "en": "wander",
+      "ar": "يتجول / يطوف",
+      "translation": "يتجول / يطوف",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We wandered around the old town for hours.",
+          "ar": "تجولنا في البلدة القديمة لساعات."
+        }
+      ],
+      "ipa": "/ˈwɒndə(r)/"
     },
     {
       "id": "w_b2_wandered",
@@ -122,6 +145,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/wɛlθ/"
+    },
+    {
+      "id": "w_b2_wealthy",
+      "lessonId": "lsn_b2_w_1",
+      "en": "wealthy",
+      "ar": "ثري / غني",
+      "translation": "ثري / غني",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He comes from a very wealthy family.",
+          "ar": "هو ينحدر من عائلة ثرية جداً."
+        }
+      ],
+      "ipa": "/ˈwelθi/"
     },
     {
       "id": "w_b2_weekly",
@@ -254,6 +300,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_whisper",
+      "lessonId": "lsn_b2_w_1",
+      "en": "whisper",
+      "ar": "يهمس / همس",
+      "translation": "يهمس / همس",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She whispered something in his ear.",
+          "ar": "همست بشيء في أذنه."
+        }
+      ],
+      "ipa": "/ˈwɪspə(r)/"
     },
     {
       "id": "w_b2_whispered",

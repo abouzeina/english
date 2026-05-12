@@ -1,11 +1,11 @@
 {
   "id": "lsn_c1_p_1",
   "levelId": "lvl_c1",
-  "title": "Unit 29: P Words - Part 1",
+  "title": "Unit 46: P Words - Part 1",
   "slug": "p-words-1",
-  "order": 29,
-  "wordCount": 22,
-  "titleAr": "الوحدة 29: كلمات حرف P - الجزء 1",
+  "order": 46,
+  "wordCount": 21,
+  "titleAr": "الوحدة 46: كلمات حرف P - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter P.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف P.",
   "words": [
@@ -78,6 +78,236 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_c1_parish",
+      "lessonId": "lsn_c1_p_1",
+      "en": "parish",
+      "ar": "أبرشية / منطقة كنسية",
+      "translation": "أبرشية / منطقة كنسية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is the priest of a small rural parish.",
+          "ar": "هو كاهن أبرشية ريفية صغيرة."
+        }
+      ],
+      "ipa": "/ˈpærɪʃ/"
+    },
+    {
+      "id": "w_c1_parliamentary",
+      "lessonId": "lsn_c1_p_1",
+      "en": "parliamentary",
+      "ar": "برلماني",
+      "translation": "برلماني",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country has a parliamentary system of government.",
+          "ar": "للدولة نظام حكم برلماني."
+        }
+      ],
+      "ipa": "/ˌpɑːləˈmentri/"
+    },
+    {
+      "id": "w_c1_partial",
+      "lessonId": "lsn_c1_p_1",
+      "en": "partial",
+      "ar": "جزئي / متحيز",
+      "translation": "جزئي / متحيز",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The project was only a partial success.",
+          "ar": "كان المشروع نجاحاً جزئياً فقط."
+        }
+      ],
+      "ipa": "/ˈpɑːʃl/"
+    },
+    {
+      "id": "w_c1_partially",
+      "lessonId": "lsn_c1_p_1",
+      "en": "partially",
+      "ar": "جزئياً",
+      "translation": "جزئياً",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The building was partially destroyed by the fire.",
+          "ar": "دُمر المبنى جزئياً بسبب الحريق."
+        }
+      ],
+      "ipa": "/ˈpɑːʃəli/"
+    },
+    {
+      "id": "w_c1_passing",
+      "lessonId": "lsn_c1_p_1",
+      "en": "passing",
+      "ar": "مرور / عبور / زائل / عرضي",
+      "translation": "مرور / عبور / زائل / عرضي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He only mentioned it in passing.",
+          "ar": "ذكره بشكل عرضي (عابراً) فقط."
+        }
+      ],
+      "ipa": "/ˈpɑːsɪŋ/"
+    },
+    {
+      "id": "w_c1_passive",
+      "lessonId": "lsn_c1_p_1",
+      "en": "passive",
+      "ar": "سلبي / مبني للمجهول",
+      "translation": "سلبي / مبني للمجهول",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He played a passive role in the meeting.",
+          "ar": "لعب دوراً سلبياً في الاجتماع."
+        }
+      ],
+      "ipa": "/ˈpæsɪv/"
+    },
+    {
+      "id": "w_c1_pastor",
+      "lessonId": "lsn_c1_p_1",
+      "en": "pastor",
+      "ar": "قسيس / راعي كنيسة",
+      "translation": "قسيس / راعي كنيسة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The pastor gave an inspiring sermon.",
+          "ar": "ألقى القسيس خطبة ملهمة."
+        }
+      ],
+      "ipa": "/ˈpɑːstə(r)/"
+    },
+    {
+      "id": "w_c1_patch",
+      "lessonId": "lsn_c1_p_1",
+      "en": "patch",
+      "ar": "رقعة / قطعة أرض / لاصقة",
+      "translation": "رقعة / قطعة أرض / لاصقة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He had a patch on the elbow of his jacket.",
+          "ar": "كان لديه رقعة على مرفق سترته."
+        }
+      ],
+      "ipa": "/pætʃ/"
+    },
+    {
+      "id": "w_c1_patent",
+      "lessonId": "lsn_c1_p_1",
+      "en": "patent",
+      "ar": "براءة اختراع / واضح",
+      "translation": "براءة اختراع / واضح",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She applied for a patent for her new invention.",
+          "ar": "تقدمت بطلب للحصول على براءة اختراع لاختراعها الجديد."
+        }
+      ],
+      "ipa": "/ˈpeɪtnt/"
+    },
+    {
+      "id": "w_c1_pathway",
+      "lessonId": "lsn_c1_p_1",
+      "en": "pathway",
+      "ar": "مسار / طريق / درب",
+      "translation": "مسار / طريق / درب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The garden has many stone pathways.",
+          "ar": "الحديقة بها العديد من المسارات الحجرية."
+        }
+      ],
+      "ipa": "/ˈpɑːθweɪ/"
     },
     {
       "id": "w_c1_patrol",
@@ -244,248 +474,6 @@
         {
           "en": "تقوم الشركة بتقليص موظفيها لخفض التكاليف",
           "ar": "Please contact the personnel department for more information."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_petition",
-      "en": "petition",
-      "ar": "عريضة / التماس",
-      "pronunciation": "pəˈtɪʃn",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "وقع آلاف الأشخاص عريضة ضد الضريبة الجديدة",
-          "ar": "They presented a petition to the local council."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_philosopher",
-      "en": "philosopher",
-      "ar": "فيلسوف",
-      "pronunciation": "fəˈlɒsəfə(r)",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كان سقراط فيلسوفاً يونانياً مشهوراً",
-          "ar": "He is a leading philosopher in the field of ethics."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_philosophical",
-      "en": "philosophical",
-      "ar": "فلسفي",
-      "pronunciation": "ˌfɪləˈsɒfɪkl",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "دار بين الصديقين نقاش فلسفي طويل",
-          "ar": "He took a philosophical approach to his failure."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_physician",
-      "en": "physician",
-      "ar": "طبيب (بشري)",
-      "pronunciation": "fɪˈzɪʃn",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تم علاجه من قبل طبيب العائلة",
-          "ar": "The hospital is looking for an experienced physician."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_pioneer",
-      "en": "pioneer",
-      "ar": "رائد / يبتكر",
-      "pronunciation": "ˌpaɪəˈnɪə(r)",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "كانت رائدة في مجال علوم الكمبيوتر",
-          "ar": "The company pioneered the use of solar energy."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_pipeline",
-      "en": "pipeline",
-      "ar": "خط أنابيب / قيد التنفيذ",
-      "pronunciation": "ˈpaɪplaɪn",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "سيمتد خط أنابيب النفط الجديد عبر الصحراء",
-          "ar": "There are several new projects in the pipeline."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_pirate",
-      "en": "pirate",
-      "ar": "قرصان / يقرصن",
-      "pronunciation": "ˈpaɪrət",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تعرضت السفينة لهجوم من قبل قراصنة في المحيط الهندي",
-          "ar": "The company is trying to stop people from pirating its software."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_pit",
-      "en": "pit",
-      "ar": "حفرة / منجم",
-      "pronunciation": "pɪt",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "حفر العمال حفرة عميقة في الأرض",
-          "ar": "The coal pit was closed down many years ago."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_plea",
-      "en": "plea",
-      "ar": "نداء / التماس / دفع (قانوني)",
-      "pronunciation": "pliː",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "وجهت العائلة نداءً عاطفياً لعودة ابنهم سالماً",
-          "ar": "He entered a plea of not guilty to the charges."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_plead",
-      "en": "plead",
-      "ar": "يتوسل / يدفع (قانونياً)",
-      "pronunciation": "pliːd",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "توسلت إليه أن يغير رأيه",
-          "ar": "The defendant pleaded guilty to the crime."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_pledge",
-      "en": "pledge",
-      "ar": "يتعهد / عهد / وعد",
-      "pronunciation": "pledʒ",
-      "lessonId": "lsn_c1_p_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تعهدت الحكومة بخفض الضرائب",
-          "ar": "He made a solemn pledge to tell the truth."
         }
       ],
       "type": "word",

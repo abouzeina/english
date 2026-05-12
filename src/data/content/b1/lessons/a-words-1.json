@@ -4,7 +4,7 @@
   "title": "Unit 1: A Words - Part 1",
   "slug": "a-words-1",
   "order": 1,
-  "wordCount": 24,
+  "wordCount": 20,
   "titleAr": "الوحدة 1: كلمات حرف A - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف A.",
@@ -30,6 +30,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_academic",
+      "lessonId": "lsn_b1_a_1",
+      "en": "academic",
+      "ar": "أكاديمي / دراسي",
+      "translation": "أكاديمي / دراسي",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has a strong academic background.",
+          "ar": "لديه خلفية أكاديمية قوية."
+        }
+      ],
+      "ipa": "/ˌækəˈdemɪk/"
     },
     {
       "id": "w_b1_access",
@@ -80,6 +103,29 @@
       "ipa": "/ə.ˌkɒm.ə.ˈdeɪ.ʃən/"
     },
     {
+      "id": "w_b1_account",
+      "lessonId": "lsn_b1_a_1",
+      "en": "account",
+      "ar": "حساب / تقرير",
+      "translation": "حساب / تقرير",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I need to open a bank account.",
+          "ar": "أنا بحاجة لفتح حساب بنكي."
+        }
+      ],
+      "ipa": "/əˈkaʊnt/"
+    },
+    {
       "id": "w_b1_achievement",
       "en": "achievement",
       "ar": "إنجاز",
@@ -100,6 +146,52 @@
       ],
       "confidence": "high",
       "ipa": "/əˈtʃiːvmənt/"
+    },
+    {
+      "id": "w_b1_ad",
+      "lessonId": "lsn_b1_a_1",
+      "en": "ad",
+      "ar": "إعلان",
+      "translation": "إعلان",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I saw an ad for a new car.",
+          "ar": "رأيت إعلاناً لسيارة جديدة."
+        }
+      ],
+      "ipa": "/æd/"
+    },
+    {
+      "id": "w_b1_addition",
+      "lessonId": "lsn_b1_a_1",
+      "en": "addition",
+      "ar": "إضافة / زيادة",
+      "translation": "إضافة / زيادة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "In addition to his job, he also teaches.",
+          "ar": "بالإضافة إلى عمله، هو يدرس أيضاً."
+        }
+      ],
+      "ipa": "/əˈdɪʃn/"
     },
     {
       "id": "w_b1_additions",
@@ -363,182 +455,6 @@
         {
           "en": "We should aim for better results.",
           "ar": "يجب أن نهدف إلى نتائج أفضل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_album",
-      "en": "album",
-      "ar": "ألبوم",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ahmed showed us his photo album.",
-          "ar": "عرض علينا أحمد ألبوم الصور الخاص به."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high",
-      "ipa": "/ˈælbəm/"
-    },
-    {
-      "id": "w_b1_alcohol",
-      "en": "alcohol",
-      "ar": "كحول / خمور",
-      "pronunciation": "/'ælke hol/",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I don't drink alcohol at all.",
-          "ar": "أنا لا أشرب الخمور على الإطلاق."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_amazed",
-      "en": "amazed",
-      "ar": "مندهش",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I was amazed at the results.",
-          "ar": "كنت مندهشا من النتائج."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high",
-      "ipa": "/əˈmeɪzd/"
-    },
-    {
-      "id": "w_b1_ambition",
-      "en": "ambition",
-      "ar": "طموح",
-      "pronunciation": "/æm bxf-en/",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Her ambition is to become a doctor.",
-          "ar": "طموحها أن تصبح طبيبة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_ambitious",
-      "en": "ambitious",
-      "ar": "طموح (صفة)",
-      "pronunciation": "/æm bıf-es/",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "You aren't ambitious enough.",
-          "ar": "أنت لست طموحا بما فيه الكفاية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_analysis",
-      "en": "analysis",
-      "ar": "تحليل",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Your analysis of the situation is correct.",
-          "ar": "تحليلك للوضع صحيح."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high",
-      "ipa": "/əˈnælɪsɪs/"
-    },
-    {
-      "id": "w_b1_analyzed",
-      "en": "analyzed",
-      "ar": "حللوا",
-      "pronunciation": "/'æn.el.arz/",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They analyzed the results.",
-          "ar": "هم حللوا النتائج."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_announce",
-      "en": "announce",
-      "ar": "يُعلن",
-      "pronunciation": "/ə'nauns/",
-      "lessonId": "lsn_b1_a_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "They announced the results yesterday.",
-          "ar": "أعلنوا عن النتائج بالأمس."
         }
       ],
       "type": "word",

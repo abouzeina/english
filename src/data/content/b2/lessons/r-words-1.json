@@ -1,14 +1,474 @@
 {
   "id": "lsn_b2_r_1",
   "levelId": "lvl_b2",
-  "title": "Unit 44: R Words - Part 1",
+  "title": "Unit 51: R Words - Part 1",
   "slug": "r-words-1",
-  "order": 44,
-  "wordCount": 22,
-  "titleAr": "الوحدة 44: كلمات حرف R - الجزء 1",
+  "order": 51,
+  "wordCount": 24,
+  "titleAr": "الوحدة 51: كلمات حرف R - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف R.",
   "words": [
+    {
+      "id": "w_b2_racial",
+      "lessonId": "lsn_b2_r_1",
+      "en": "racial",
+      "ar": "عرقي / عنصري",
+      "translation": "عرقي / عنصري",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The goal is to eliminate racial discrimination.",
+          "ar": "الهدف هو القضاء على التمييز العرقي."
+        }
+      ],
+      "ipa": "/ˈreɪʃl/"
+    },
+    {
+      "id": "w_b2_racism",
+      "lessonId": "lsn_b2_r_1",
+      "en": "racism",
+      "ar": "عنصرية",
+      "translation": "عنصرية",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We must all fight against racism.",
+          "ar": "يجب علينا جميعاً محاربة العنصرية."
+        }
+      ],
+      "ipa": "/ˈreɪsɪzəm/"
+    },
+    {
+      "id": "w_b2_racist",
+      "lessonId": "lsn_b2_r_1",
+      "en": "racist",
+      "ar": "عنصري",
+      "translation": "عنصري",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was accused of making racist remarks.",
+          "ar": "اتُهم بالإدلاء بتعليقات عنصرية."
+        }
+      ],
+      "ipa": "/ˈreɪsɪst/"
+    },
+    {
+      "id": "w_b2_radiation",
+      "lessonId": "lsn_b2_r_1",
+      "en": "radiation",
+      "ar": "إشعاع",
+      "translation": "إشعاع",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The sun emits ultraviolet radiation.",
+          "ar": "تنبعث من الشمس الأشعة فوق البنفسجية."
+        }
+      ],
+      "ipa": "/ˌreɪdiˈeɪʃn/"
+    },
+    {
+      "id": "w_b2_rail",
+      "lessonId": "lsn_b2_r_1",
+      "en": "rail",
+      "ar": "سكك حديدية / سياج",
+      "translation": "سكك حديدية / سياج",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Travel by rail is becoming more expensive.",
+          "ar": "أصبح السفر عبر السكك الحديدية أكثر تكلفة."
+        }
+      ],
+      "ipa": "/reɪl/"
+    },
+    {
+      "id": "w_b2_random",
+      "lessonId": "lsn_b2_r_1",
+      "en": "random",
+      "ar": "عشوائي",
+      "translation": "عشوائي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The samples were chosen at random.",
+          "ar": "تم اختيار العينات بشكل عشوائي."
+        }
+      ],
+      "ipa": "/ˈrændəm/"
+    },
+    {
+      "id": "w_b2_rank",
+      "lessonId": "lsn_b2_r_1",
+      "en": "rank",
+      "ar": "رتبة / يصنف",
+      "translation": "رتبة / يصنف",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He holds the rank of captain in the army.",
+          "ar": "هو يحمل رتبة نقيب في الجيش."
+        }
+      ],
+      "ipa": "/ræŋk/"
+    },
+    {
+      "id": "w_b2_rapid",
+      "lessonId": "lsn_b2_r_1",
+      "en": "rapid",
+      "ar": "سريع",
+      "translation": "سريع",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company has seen rapid growth this year.",
+          "ar": "شهدت الشركة نمواً سريعاً هذا العام."
+        }
+      ],
+      "ipa": "/ˈræpɪd/"
+    },
+    {
+      "id": "w_b2_rapidly",
+      "lessonId": "lsn_b2_r_1",
+      "en": "rapidly",
+      "ar": "بسرعة",
+      "translation": "بسرعة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The technology is developing rapidly.",
+          "ar": "التكنولوجيا تتطور بسرعة."
+        }
+      ],
+      "ipa": "/ˈræpɪdli/"
+    },
+    {
+      "id": "w_b2_rat",
+      "lessonId": "lsn_b2_r_1",
+      "en": "rat",
+      "ar": "جرذ / فأر كبير",
+      "translation": "جرذ / فأر كبير",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There were rats in the old warehouse.",
+          "ar": "كانت هناك جرذان في المستودع القديم."
+        }
+      ],
+      "ipa": "/ræt/"
+    },
+    {
+      "id": "w_b2_rating",
+      "lessonId": "lsn_b2_r_1",
+      "en": "rating",
+      "ar": "تقييم / تصنيف",
+      "translation": "تقييم / تصنيف",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The hotel has a five-star rating.",
+          "ar": "الفندق حاصل على تقييم خمس نجوم."
+        }
+      ],
+      "ipa": "/ˈreɪtɪŋ/"
+    },
+    {
+      "id": "w_b2_raw",
+      "lessonId": "lsn_b2_r_1",
+      "en": "raw",
+      "ar": "خام / نيء",
+      "translation": "خام / نيء",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country exports raw materials.",
+          "ar": "تصدر البلاد المواد الخام."
+        }
+      ],
+      "ipa": "/rɔː/"
+    },
+    {
+      "id": "w_b2_realistic",
+      "lessonId": "lsn_b2_r_1",
+      "en": "realistic",
+      "ar": "واقعي",
+      "translation": "واقعي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need to set realistic goals.",
+          "ar": "نحن بحاجة إلى وضع أهداف واقعية."
+        }
+      ],
+      "ipa": "/ˌrɪəˈlɪstɪk/"
+    },
+    {
+      "id": "w_b2_reasonable",
+      "lessonId": "lsn_b2_r_1",
+      "en": "reasonable",
+      "ar": "معقول / منطقي",
+      "translation": "معقول / منطقي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The price of the car was very reasonable.",
+          "ar": "كان سعر السيارة معقولاً جداً."
+        }
+      ],
+      "ipa": "/ˈriːznəbl/"
+    },
+    {
+      "id": "w_b2_reasonably",
+      "lessonId": "lsn_b2_r_1",
+      "en": "reasonably",
+      "ar": "بشكل معقول / إلى حد ما",
+      "translation": "بشكل معقول / إلى حد ما",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The exam was reasonably easy.",
+          "ar": "كان الامتحان سهلاً إلى حد ما."
+        }
+      ],
+      "ipa": "/ˈriːznəbli/"
+    },
+    {
+      "id": "w_b2_rebuild",
+      "lessonId": "lsn_b2_r_1",
+      "en": "rebuild",
+      "ar": "يعيد بناء",
+      "translation": "يعيد بناء",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The city was rebuilt after the earthquake.",
+          "ar": "أُعيد بناء المدينة بعد الزلزال."
+        }
+      ],
+      "ipa": "/ˌriːˈbɪld/"
+    },
+    {
+      "id": "w_b2_recall",
+      "lessonId": "lsn_b2_r_1",
+      "en": "recall",
+      "ar": "يتذكر / يستدعي",
+      "translation": "يتذكر / يستدعي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I can't recall his name right now.",
+          "ar": "لا أستطيع تذكر اسمه الآن."
+        }
+      ],
+      "ipa": "/rɪˈkɔːl/"
+    },
+    {
+      "id": "w_b2_receiver",
+      "lessonId": "lsn_b2_r_1",
+      "en": "receiver",
+      "ar": "مستقبل / جهاز استقبال",
+      "translation": "مستقبل / جهاز استقبال",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Please pick up the receiver.",
+          "ar": "يرجى رفع سماعة الهاتف (جهاز الاستقبال)."
+        }
+      ],
+      "ipa": "/rɪˈsiːvə(r)/"
+    },
+    {
+      "id": "w_b2_recession",
+      "lessonId": "lsn_b2_r_1",
+      "en": "recession",
+      "ar": "ركود اقتصادي",
+      "translation": "ركود اقتصادي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country is in a deep recession.",
+          "ar": "تعيش البلاد في ركود عميق."
+        }
+      ],
+      "ipa": "/rɪˈseʃn/"
+    },
+    {
+      "id": "w_b2_reckon",
+      "lessonId": "lsn_b2_r_1",
+      "en": "reckon",
+      "ar": "يعتقد / يقدر",
+      "translation": "يعتقد / يقدر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I reckon it will take about two hours.",
+          "ar": "أقدر أن الأمر سيستغرق حوالي ساعتين."
+        }
+      ],
+      "ipa": "/ˈrekən/"
+    },
     {
       "id": "w_b2_recognition",
       "en": "recognition",
@@ -63,6 +523,29 @@
       "ipa": "/ɹɪˈkʌvə/"
     },
     {
+      "id": "w_b2_recovery",
+      "lessonId": "lsn_b2_r_1",
+      "en": "recovery",
+      "ar": "تعافٍ / استعادة",
+      "translation": "تعافٍ / استعادة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He made a full recovery after the operation.",
+          "ar": "تماثل للشفاء التام بعد العملية."
+        }
+      ],
+      "ipa": "/rɪˈkʌvəri/"
+    },
+    {
       "id": "w_b2_recruit",
       "en": "recruit",
       "ar": "تعيين / مجند",
@@ -87,440 +570,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ɹɪˈkɹuːt/"
-    },
-    {
-      "id": "w_b2_recruitment",
-      "en": "recruitment",
-      "ar": "التوظيف",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He manages the recruitment department in the company.",
-          "ar": "إنه يدير قسم التوظيف في الشركة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_reduction",
-      "en": "reduction",
-      "ar": "تخفيض",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The government promised a reduction in taxes next year.",
-          "ar": "وعدت الحكومة بتخفيض الضرائب في العام المقبل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹiˈdɑk.ʃən/"
-    },
-    {
-      "id": "w_b2_referee",
-      "en": "referee",
-      "ar": "الحكم",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The referee handed out several yellow cards today.",
-          "ar": "أشهر الحكم العديد من البطاقات الصفراء اليوم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˌɹɛf.əˈɹiː/"
-    },
-    {
-      "id": "w_b2_refugees",
-      "en": "refugees",
-      "ar": "اللاجئون",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The refugees received food and medical aid from volunteers.",
-          "ar": "تلقى اللاجئون مساعدات غذائية وطبية من المتطوعين."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_regard",
-      "en": "regard",
-      "ar": "أعتبر / تقديراً",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I always regard my family as a source of support.",
-          "ar": "أنا دائما أعتبر عائلتي مصدر دعم لي."
-        },
-        {
-          "en": "They hold a high regard for his intelligence.",
-          "ar": "إنهم يكنون تقديراً كبيراً لذكائه."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹɪˈɡɑːd/"
-    },
-    {
-      "id": "w_b2_regional",
-      "en": "regional",
-      "ar": "الإقليمية",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "They discussed regional policies at the meeting today.",
-          "ar": "ناقشوا السياسات الإقليمية في الاجتماع اليوم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɹiːdʒnəl/"
-    },
-    {
-      "id": "w_b2_register",
-      "en": "register",
-      "ar": "السجل / سجل",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He was added to the official register yesterday.",
-          "ar": "تمت إضافته إلى السجل الرسمي بالأمس."
-        },
-        {
-          "en": "Please register your name at the front desk.",
-          "ar": "من فضلك سجل اسمك في مكتب الاستقبال."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɹɛdʒ.ɪs.tə/"
-    },
-    {
-      "id": "w_b2_registration",
-      "en": "registration",
-      "ar": "التسجيل",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Registration is required before attending the conference.",
-          "ar": "التسجيل مطلوب قبل حضور المؤتمر."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_regret",
-      "en": "regret",
-      "ar": "يندم / ندم",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He will regret not taking this job opportunity.",
-          "ar": "سوف يندم على عدم اغتنام فرصة العمل هذه."
-        },
-        {
-          "en": "The team has no regret about the decision made.",
-          "ar": "لا يشعر الفريق بأي ندم على القرار الذي تم اتخاذه."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹiˈɡɹɛt/"
-    },
-    {
-      "id": "w_b2_regulated",
-      "en": "regulated",
-      "ar": "نظمت",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Authorities regulated the price of fuel in the region.",
-          "ar": "نظمت السلطات سعر الوقود في المنطقة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɹɛɡjəleɪtɪd/"
-    },
-    {
-      "id": "w_b2_regulation",
-      "en": "regulation",
-      "ar": "اللائحة",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The regulation requires all employees to wear uniforms.",
-          "ar": "تلزم اللائحة جميع الموظفين بارتداء الزي الرسمي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˌɹɛɡjʊˈleɪʃən/"
-    },
-    {
-      "id": "w_b2_reinforce",
-      "en": "reinforce",
-      "ar": "سيعزز",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The new evidence will reinforce the original conclusion.",
-          "ar": "الدليل الجديد سيعزز الاستنتاج الأصلي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˌɹiːɪnˈfɔː(ɹ)s/"
-    },
-    {
-      "id": "w_b2_relatively",
-      "en": "relatively",
-      "ar": "نسبياً",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The task is relatively simple once you understand it.",
-          "ar": "تصبح المهمة بسيطة نسبياً بمجرد فهمك لها."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/[ˈɹɛl.ə.tʰɪv.li]/"
-    },
-    {
-      "id": "w_b2_relevant",
-      "en": "relevant",
-      "ar": "ذات الصلة",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Only relevant questions should be asked during interviews.",
-          "ar": "يجب فقط طرح الأسئلة ذات الصلة أثناء المقابلات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɹɛləvənt/"
-    },
-    {
-      "id": "w_b2_relief",
-      "en": "relief",
-      "ar": "ارتياح",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Passing the final exam was a great relief.",
-          "ar": "كان اجتياز الامتحان النهائي مصدر ارتياح كبير."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹɪˈliːf/"
-    },
-    {
-      "id": "w_b2_relies",
-      "en": "relies",
-      "ar": "تعتمد",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "She often relies on her parents for financial help.",
-          "ar": "وغالباً ما تعتمد على والديها للحصول على المساعدة المالية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_relieve",
-      "en": "relieve",
-      "ar": "سيخفف",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "This medication will relieve the pain immediately.",
-          "ar": "سيخفف هذا الدواء الألم على الفور."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹɪˈliːv/"
-    },
-    {
-      "id": "w_b2_relieved",
-      "en": "relieved",
-      "ar": "بالارتياح",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I'm relieved that my package arrived on time.",
-          "ar": "أشعر بالارتياح لوصول الطرد الخاص بي في الوقت المحدد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹɪˈliːvd/"
-    },
-    {
-      "id": "w_b2_remark",
-      "en": "remark",
-      "ar": "تعليق / أشاد",
-      "lessonId": "lsn_b2_r_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The guest remarked about the excellent service at dinner.",
-          "ar": "أشاد الضيف بالخدمة الممتازة على العشاء."
-        },
-        {
-          "en": "The teacher's remark about my essay was encouraging.",
-          "ar": "كان تعليق المعلم على مقالتي مشجعاً."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹɪˈmɑːk/"
     }
   ]
 }

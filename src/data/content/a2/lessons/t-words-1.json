@@ -4,7 +4,7 @@
   "title": "Unit 39: T Words - Part 1",
   "slug": "t-words-1",
   "order": 39,
-  "wordCount": 19,
+  "wordCount": 21,
   "titleAr": "الوحدة 39: كلمات حرف T - الجزء 1",
   "description": "Master essential A2 vocabulary starting with the letter T.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف T.",
@@ -146,6 +146,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_a2_teenage",
+      "lessonId": "lsn_a2_t_1",
+      "en": "teenage",
+      "ar": "في سن المراهقة",
+      "translation": "في سن المراهقة",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He is going through his teenage years.",
+          "ar": "إنه يمر بسنوات مراهقته."
+        }
+      ],
+      "ipa": "/ˈtiːneɪdʒ/"
+    },
+    {
       "id": "w_a2_temperature",
       "en": "temperature",
       "ar": "درجة حرارة",
@@ -232,6 +255,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_thief",
+      "lessonId": "lsn_a2_t_1",
+      "en": "thief",
+      "ar": "لص / سارق",
+      "translation": "لص / سارق",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The thief stole her purse.",
+          "ar": "سرق اللص حقيبتها."
+        }
+      ],
+      "ipa": "/θiːf/"
     },
     {
       "id": "w_a2_thin",

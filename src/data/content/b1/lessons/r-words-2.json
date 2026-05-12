@@ -1,36 +1,14 @@
 {
   "id": "lsn_b1_r_2",
   "levelId": "lvl_b1",
-  "title": "Unit 30: R Words - Part 2",
+  "title": "Unit 34: R Words - Part 2",
   "slug": "r-words-2",
-  "order": 30,
-  "wordCount": 17,
-  "titleAr": "الوحدة 30: كلمات حرف R - الجزء 2",
+  "order": 34,
+  "wordCount": 20,
+  "titleAr": "الوحدة 34: كلمات حرف R - الجزء 2",
   "description": "Master essential B1 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف R.",
   "words": [
-    {
-      "id": "w_b1_relaxing",
-      "en": "relaxing",
-      "ar": "مريح",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_r_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I spent a relaxing week in the fields.",
-          "ar": "قضيت أسبوعًا مريحًا في الحقول."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_release",
       "en": "release",
@@ -278,6 +256,29 @@
       "ipa": "/ɹɪˈpiːtɪd/"
     },
     {
+      "id": "w_b1_represent",
+      "lessonId": "lsn_b1_r_2",
+      "en": "represent",
+      "ar": "يمثل / ينوب عن",
+      "translation": "يمثل / ينوب عن",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He represents the country in the United Nations.",
+          "ar": "هو يمثل الدولة في الأمم المتحدة."
+        }
+      ],
+      "ipa": "/ˌreprɪˈzent/"
+    },
+    {
       "id": "w_b1_represents",
       "en": "represents",
       "ar": "يمثل",
@@ -320,6 +321,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_require",
+      "lessonId": "lsn_b1_r_2",
+      "en": "require",
+      "ar": "يتطلب / يحتاج",
+      "translation": "يتطلب / يحتاج",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "This project requires a lot of concentration.",
+          "ar": "هذا المشروع يتطلب الكثير من التركيز."
+        }
+      ],
+      "ipa": "/rɪˈkwaɪə(r)/"
     },
     {
       "id": "w_b1_requires",
@@ -366,6 +390,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_resource",
+      "lessonId": "lsn_b1_r_2",
+      "en": "resource",
+      "ar": "مورد",
+      "translation": "مورد",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Water is a vital natural resource.",
+          "ar": "الماء مورد طبيعي حيوي."
+        }
+      ],
+      "ipa": "/rɪˈsɔːs/"
+    },
+    {
       "id": "w_b1_resources",
       "en": "resources",
       "ar": "مصادر",
@@ -377,6 +424,36 @@
         {
           "en": "There are a lot of educational resources on the internet.",
           "ar": "هناك الكثير من المصادر التعليمية على الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_respect",
+      "en": "respect",
+      "ar": "يحترم / حق / احترام",
+      "pronunciation": "/rx'spekt/",
+      "lessonId": "lsn_b1_r_2",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Please respect my right to disagree with you.",
+          "ar": "من فضلك احترم حقي في أن أختلف معك."
+        },
+        {
+          "en": "Show me some respect.",
+          "ar": "أظهر لي بعض الاحترام."
+        },
+        {
+          "en": "You have to treat others with respect.",
+          "ar": "عليك أن تعامل الآخرين باحترام."
         }
       ],
       "type": "word",

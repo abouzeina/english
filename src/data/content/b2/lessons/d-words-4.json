@@ -1,14 +1,464 @@
 {
   "id": "lsn_b2_d_4",
   "levelId": "lvl_b2",
-  "title": "Unit 16: D Words - Part 4",
+  "title": "Unit 17: D Words - Part 4",
   "slug": "d-words-4",
-  "order": 16,
+  "order": 17,
   "wordCount": 24,
-  "titleAr": "الوحدة 16: كلمات حرف D - الجزء 4",
+  "titleAr": "الوحدة 17: كلمات حرف D - الجزء 4",
   "description": "Master essential B2 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف D.",
   "words": [
+    {
+      "id": "w_b2_disappoint",
+      "lessonId": "lsn_b2_d_4",
+      "en": "disappoint",
+      "ar": "يخيب أمل",
+      "translation": "يخيب أمل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I'm sorry to disappoint you, but I can't come.",
+          "ar": "آسفٌ لخيبةِ أملك، لكنني لا أستطيعُ المجيء."
+        }
+      ],
+      "ipa": "/ˌdɪsəˈpɔɪnt/"
+    },
+    {
+      "id": "w_b2_disappointment",
+      "en": "disappointment",
+      "ar": "خيبة أمل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Your decision gave me great disappointment.",
+          "ar": "قرارك أصابني بخيبة أمل كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_disc",
+      "lessonId": "lsn_b2_d_4",
+      "en": "disc",
+      "ar": "قرص",
+      "translation": "قرص",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The data is stored on a compact disc.",
+          "ar": "يتم تخزينُ البياناتِ على قرصٍ مدمج."
+        }
+      ],
+      "ipa": "/dɪsk/"
+    },
+    {
+      "id": "w_b2_discipline",
+      "en": "discipline",
+      "ar": "الانضباط",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This school lacks discipline.",
+          "ar": "هذه المدرسة تفتقر إلى الانضباط."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_discourage",
+      "lessonId": "lsn_b2_d_4",
+      "en": "discourage",
+      "ar": "يثبط / يحبط",
+      "translation": "يثبط / يحبط",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Don't let one failure discourage you.",
+          "ar": "لا تدع فشلاً واحداً يثبطُ عزيمتك."
+        }
+      ],
+      "ipa": "/dɪˈskʌrɪdʒ/"
+    },
+    {
+      "id": "w_b2_discouraged",
+      "en": "discouraged",
+      "ar": "أثناني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My father discouraged me from traveling.",
+          "ar": "والدي أثناني عن السفر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_dishonest",
+      "en": "dishonest",
+      "ar": "غير أمين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Get away from this guy; he is dishonest.",
+          "ar": "ابتعد عن هذا الشخص فهو غير أمين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_disk",
+      "en": "disk",
+      "ar": "القرص",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "First, copy all the content of the disk into the computer.",
+          "ar": "أولاً، قم بنسخ كافة محتويات القرص إلى الكمبيوتر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_dismiss",
+      "lessonId": "lsn_b2_d_4",
+      "en": "dismiss",
+      "ar": "يفصل / يرفض",
+      "translation": "يفصل / يرفض",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was dismissed from his job for being late.",
+          "ar": "تم فصلهُ من عملهِ بسببِ التأخير."
+        }
+      ],
+      "ipa": "/dɪsˈmɪs/"
+    },
+    {
+      "id": "w_b2_dismissed",
+      "en": "dismissed",
+      "ar": "تسريح",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The company dismissed most of its employees.",
+          "ar": "قامت الشركة بتسريح معظم موظفيها."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_disorder",
+      "en": "disorder",
+      "ar": "اضطراب",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He suffers from an anxiety disorder.",
+          "ar": "يعاني من اضطراب القلق."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_display",
+      "en": "display",
+      "ar": "تظهر / عرض",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The display includes examples of his previous works.",
+          "ar": "يتضمن العرض نماذج من أعماله السابقة."
+        },
+        {
+          "en": "We will display this text on the main screen.",
+          "ar": "سوف تظهر هذا النص في الشاشة الرئيسية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_distant",
+      "en": "distant",
+      "ar": "بعيد",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "These travelers came from a distant country.",
+          "ar": "جاء هؤلاء المسافرون من بلد بعيد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_distinct",
+      "en": "distinct",
+      "ar": "مميزة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is a distinct smell of coffee in this hall.",
+          "ar": "هناك رائحة مميزة للبن في هذه القاعة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_distinguish",
+      "en": "distinguish",
+      "ar": "تميز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Can dogs distinguish colors?",
+          "ar": "هل تستطيع الكلاب أن تميز الألوان ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_distract",
+      "lessonId": "lsn_b2_d_4",
+      "en": "distract",
+      "ar": "يشتت",
+      "translation": "يشتت",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Noise distracts me from my work.",
+          "ar": "الضجيجُ يشتتُ تركيزي عن عملي."
+        }
+      ],
+      "ipa": "/dɪˈstrækt/"
+    },
+    {
+      "id": "w_b2_distracting",
+      "en": "distracting",
+      "ar": "تشتت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Please be quiet, you are distracting me.",
+          "ar": "من فضلك اصمت، أنت تشتت انتباهي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_distribute",
+      "en": "distribute",
+      "ar": "توزيع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We are going to distribute the newspaper free this week.",
+          "ar": "سنقوم بتوزيع الصحيفة مجاناً هذا الأسبوع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_distribution",
+      "en": "distribution",
+      "ar": "التوزيع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We faced some difficulties in distribution this time.",
+          "ar": "واجهنا بعض الصعوبات في التوزيع هذه المرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_district",
+      "lessonId": "lsn_b2_d_4",
+      "en": "district",
+      "ar": "منطقة / حي",
+      "translation": "منطقة / حي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He lives in the business district of the city.",
+          "ar": "يعيشُ في المنطقةِ التجاريةِ بالمدينة."
+        }
+      ],
+      "ipa": "/ˈdɪstrɪkt/"
+    },
     {
       "id": "w_b2_districts",
       "en": "districts",
@@ -30,6 +480,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_disturb",
+      "lessonId": "lsn_b2_d_4",
+      "en": "disturb",
+      "ar": "يزعج",
+      "translation": "يزعج",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Please do not disturb me while I'm sleeping.",
+          "ar": "رجاءً لا تزعجني أثناءَ نومي."
+        }
+      ],
+      "ipa": "/dɪˈstɜːb/"
     },
     {
       "id": "w_b2_disturbed",
@@ -68,484 +541,6 @@
         {
           "en": "We can't allow you to dive here without proper training.",
           "ar": "لا يمكننا أن نسمح لك أن تغوص هنا بدون تدريب مناسب."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_diverse",
-      "en": "diverse",
-      "ar": "متنوعة",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We invited some people from diverse backgrounds.",
-          "ar": "قمنا بدعوة بعض الأشخاص من خلفيات متنوعة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_diversity",
-      "en": "diversity",
-      "ar": "تنوع",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We should celebrate the diversity of our community.",
-          "ar": "يجب أن نحتفل بتنوع مجتمعنا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_division",
-      "en": "division",
-      "ar": "تقسيم",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We need a fair division of the money.",
-          "ar": "نحن بحاجة إلى تقسيم عادل للمال."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_divorce",
-      "en": "divorce",
-      "ar": "طلاق / طلق",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Adil divorced his wife after only two years of marriage.",
-          "ar": "طلق عادل زوجته بعد عامين فقط من الزواج."
-        },
-        {
-          "en": "She hasn't married since her divorce five years ago.",
-          "ar": "لم تتزوج منذ طلاقها قبل خمس سنوات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_domestic",
-      "en": "domestic",
-      "ar": "المنزلية",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The government reduced domestic electricity prices.",
-          "ar": "خفضت الحكومة أسعار الكهرباء المنزلية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dəˈmɛstɪk/"
-    },
-    {
-      "id": "w_b2_dominant",
-      "en": "dominant",
-      "ar": "مهيمن",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Banks have a dominant role in some countries.",
-          "ar": "للبنوك دور مهيمن في بعض البلدان."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈdɒmɪnənt/"
-    },
-    {
-      "id": "w_b2_dominate",
-      "en": "dominate",
-      "ar": "تهيمن",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "You always dominate the conversation.",
-          "ar": "أنت تهيمن دائما على المحادثة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈdɒməˌneɪt/"
-    },
-    {
-      "id": "w_b2_donations",
-      "en": "donations",
-      "ar": "تبرعات",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "All donations will go directly to the poor families.",
-          "ar": "جميع التبرعات سوف تذهب مباشرة إلى الأسر الفقيرة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dəʊˈneɪʃənz/"
-    },
-    {
-      "id": "w_b2_dot",
-      "en": "dot",
-      "ar": "النقطة",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "(",
-          "ar": "أنت) نسيت النقطة التي فوق حرف .."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɒt/"
-    },
-    {
-      "id": "w_b2_downtown",
-      "en": "downtown",
-      "ar": "وسط المدينة",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Ali drove me downtown in his new car.",
-          "ar": "أوصلني علي إلى وسط المدينة بسيارته الجديدة."
-        },
-        {
-          "en": "Downtown is always crowded with people and cars.",
-          "ar": "وسط المدينة مزدحم دائمًا بالناس والسيارات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_downward",
-      "en": "downward",
-      "ar": "للأسفل",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Lay the painting face downward on the table.",
-          "ar": "ضع اللوحة بوجهها للأسفل على الطاولة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈdaʊnwəd/"
-    },
-    {
-      "id": "w_b2_dozen",
-      "en": "dozen",
-      "ar": "ستة (في سياق نصف درزن)",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Each group contains only about half a dozen individuals.",
-          "ar": "تحتوي كل مجموعة على حوالي ستة أفراد فقط."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈdʌzən/"
-    },
-    {
-      "id": "w_b2_draft",
-      "en": "draft",
-      "ar": "مسودة / صياغة مسودة",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I am drafting the housing contract.",
-          "ar": "أقوم بصياغة مسودة عقد السكن."
-        },
-        {
-          "en": "This is just a draft, it needs a lot of improvements.",
-          "ar": "هذه مجرد مسودة، وتحتاج إلى الكثير من التحسينات."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɹæft/"
-    },
-    {
-      "id": "w_b2_drag",
-      "en": "drag",
-      "ar": "أسحبك / سحبني",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He grabbed me by the elbow and dragged me inside.",
-          "ar": "أمسكني من مرفقي وسحبني إلى الداخل."
-        },
-        {
-          "en": "If you don't wake up now, I'll drag you to the bathroom.",
-          "ar": "إذا لم تستيقظي الآن، فسوف أسحبك إلى الحمام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɹæɡ/"
-    },
-    {
-      "id": "w_b2_dramatic",
-      "en": "dramatic",
-      "ar": "كبير",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The new law will have a dramatic impact on people.",
-          "ar": "سيكون للقانون الجديد تأثير كبير على الناس."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɹəˈmætɪk/"
-    },
-    {
-      "id": "w_b2_dramatically",
-      "en": "dramatically",
-      "ar": "بشكل كبير",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Prices have increased dramatically this year.",
-          "ar": "ارتفعت الأسعار بشكل كبير هذا العام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_drought",
-      "en": "drought",
-      "ar": "الجفاف",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Many plants have died during the drought.",
-          "ar": "ماتت العديد من النباتات أثناء الجفاف."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/[dɹʌʊt]/"
-    },
-    {
-      "id": "w_b2_dug",
-      "en": "dug",
-      "ar": "حفرت",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I dug deeper and deeper but found nothing.",
-          "ar": "حفرت أعمق وأعمق لكن لم أجد شيئًا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dʌɡ/"
-    },
-    {
-      "id": "w_b2_dull",
-      "en": "dull",
-      "ar": "مملا",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Perhaps the countryside is dull, but it is peaceful.",
-          "ar": "ربما يكون الريف مملا، لكنه هادئ."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dəl/"
-    },
-    {
-      "id": "w_b2_dumped",
-      "en": "dumped",
-      "ar": "تخلصت",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I dumped the old fridge after buying a new one.",
-          "ar": "لقد تخلصت من الثلاجة القديمة بعد شراء واحدة جديدة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dʌmpt/"
-    },
-    {
-      "id": "w_b2_duration",
-      "en": "duration",
-      "ar": "مدة",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "What's the duration of this documentary movie?",
-          "ar": "ما هي مدة هذا الفيلم الوثائقي ؟"
         }
       ],
       "type": "word",

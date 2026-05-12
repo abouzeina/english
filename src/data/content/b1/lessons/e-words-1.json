@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_e_1",
   "levelId": "lvl_b1",
-  "title": "Unit 11: E Words - Part 1",
+  "title": "Unit 12: E Words - Part 1",
   "slug": "e-words-1",
-  "order": 11,
-  "wordCount": 24,
-  "titleAr": "الوحدة 11: كلمات حرف E - الجزء 1",
+  "order": 12,
+  "wordCount": 19,
+  "titleAr": "الوحدة 12: كلمات حرف E - الجزء 1",
   "description": "Master essential B1 vocabulary starting with the letter E.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف E.",
   "words": [
@@ -142,6 +142,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_educate",
+      "lessonId": "lsn_b1_e_1",
+      "en": "educate",
+      "ar": "يعلم / يثقف",
+      "translation": "يعلم / يثقف",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We need to educate children about the environment.",
+          "ar": "نحن بحاجة لتعليم الأطفال عن البيئة."
+        }
+      ],
+      "ipa": "/ˈedjukeɪt/"
+    },
+    {
       "id": "w_b1_educated",
       "en": "educated",
       "ar": "علّم / متعلمة",
@@ -232,6 +255,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_effort",
+      "lessonId": "lsn_b1_e_1",
+      "en": "effort",
+      "ar": "جهد / مسعى",
+      "translation": "جهد / مسعى",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Success requires a lot of hard work and effort.",
+          "ar": "النجاح يتطلب الكثير من العمل الشاق والجهد."
+        }
+      ],
+      "ipa": "/ˈefət/"
     },
     {
       "id": "w_b1_efforts",
@@ -366,180 +412,27 @@
       "confidence": "high"
     },
     {
-      "id": "w_b1_emotions",
-      "en": "emotions",
-      "ar": "مشاعر",
-      "pronunciation": "/ mou-Jan/",
+      "id": "w_b1_emotion",
       "lessonId": "lsn_b1_e_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Try to express your emotions.",
-          "ar": "حاول التعبير عن مشاعرك."
-        }
-      ],
+      "en": "emotion",
+      "ar": "عاطفة / شعور",
+      "translation": "عاطفة / شعور",
       "type": "word",
       "difficulty": "B1",
       "tags": [
         "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_employment",
-      "en": "employment",
-      "ar": "توظيف / عمل",
-      "pronunciation": "/zm'plox mənt/",
-      "lessonId": "lsn_b1_e_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I'm looking for full - time employment.",
-          "ar": "أبحث عن وظيفة بدوام كامل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_emptied",
-      "en": "emptied",
-      "ar": "أفرغت",
-      "pronunciation": "/emp-ti/",
-      "lessonId": "lsn_b1_e_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She emptied the bottle of its contents.",
-          "ar": "هي أفرغت الزجاجة من محتوياتها."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_encourage",
-      "en": "encourage",
-      "ar": "يشجع",
-      "pronunciation": "/ın kar id3/",
-      "lessonId": "lsn_b1_e_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I always encourage my students.",
-          "ar": "أنا دائما أشجع طلابي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_enemy",
-      "en": "enemy",
-      "ar": "عدو",
-      "pronunciation": "/'en -mi/",
-      "lessonId": "lsn_b1_e_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The enemy attacked the town.",
-          "ar": "العدو هاجم البلدة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_engaged",
-      "en": "engaged",
-      "ar": "مخطوبة",
-      "pronunciation": "/In gerdzd/",
-      "lessonId": "lsn_b1_e_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "She's engaged to Sami.",
-          "ar": "إنها مخطوبة لسامي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_engineering",
-      "en": "engineering",
-      "ar": "هندسة",
-      "lessonId": "lsn_b1_e_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I studied engineering at university.",
-          "ar": "درست الهندسة في الجامعة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "ipa": "/ˌen.dʒɪˈnɪə.ɹɪŋ/"
-    },
-    {
-      "id": "w_b1_entertained",
-      "en": "entertained",
-      "ar": "يسلي",
-      "pronunciation": "/ en ter tern/",
-      "lessonId": "lsn_b1_e_1",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
+      "needsTranslationReview": false,
       "examples": [
         {
-          "en": "He entertained the children by singing.",
-          "ar": "كان يسلي الأطفال بالغناء."
+          "en": "He finds it difficult to express his emotions.",
+          "ar": "يجد صعوبة في التعبير عن مشاعره."
         }
       ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
+      "ipa": "/ˈɪməʊʃn/"
     }
   ]
 }

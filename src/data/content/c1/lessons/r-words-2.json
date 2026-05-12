@@ -1,14 +1,104 @@
 {
   "id": "lsn_c1_r_2",
   "levelId": "lvl_c1",
-  "title": "Unit 35: R Words - Part 2",
+  "title": "Unit 53: R Words - Part 2",
   "slug": "r-words-2",
-  "order": 35,
-  "wordCount": 19,
-  "titleAr": "الوحدة 35: كلمات حرف R - الجزء 2",
+  "order": 53,
+  "wordCount": 21,
+  "titleAr": "الوحدة 53: كلمات حرف R - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف R.",
   "words": [
+    {
+      "id": "w_c1_referendum",
+      "lessonId": "lsn_c1_r_2",
+      "en": "referendum",
+      "ar": "استفتاء",
+      "translation": "استفتاء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The government held a referendum on the new law.",
+          "ar": "أجرت الحكومة استفتاءً على القانون الجديد."
+        }
+      ],
+      "ipa": "/ˌrefəˈrendəm/"
+    },
+    {
+      "id": "w_c1_reflection",
+      "lessonId": "lsn_c1_r_2",
+      "en": "reflection",
+      "ar": "انعكاس / تفكير / تأمل",
+      "translation": "انعكاس / تفكير / تأمل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He saw his reflection in the water.",
+          "ar": "رأى انعكاس صورته في الماء."
+        }
+      ],
+      "ipa": "/rɪˈflekʃn/"
+    },
+    {
+      "id": "w_c1_reform",
+      "en": "reform",
+      "ar": "إصلاح / يصلح",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "تخطط الحكومة لإصلاح نظام الضرائب",
+          "ar": "Economic reform is essential for the country's growth."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɹɪˈfɔːm/"
+    },
+    {
+      "id": "w_c1_refuge",
+      "en": "refuge",
+      "ar": "ملجأ / ملاذ",
+      "lessonId": "lsn_c1_r_2",
+      "levelId": "lvl_c1",
+      "examples": [
+        {
+          "en": "وفر الكهف ملجأ من العاصفة",
+          "ar": "They sought refuge in the local church."
+        }
+      ],
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɹɛfjuːdʒ/"
+    },
     {
       "id": "w_c1_refusal",
       "en": "refusal",
@@ -382,50 +472,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ɹəˈmuːvəl/"
-    },
-    {
-      "id": "w_c1_render",
-      "en": "render",
-      "ar": "يجعل / يقدم (خدمة) / يصور",
-      "lessonId": "lsn_c1_r_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "جعل الحادث السيارة غير صالحة للاستعمال",
-          "ar": "They were happy to render assistance to the travelers."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɹɛn.də/"
-    },
-    {
-      "id": "w_c1_renew",
-      "en": "renew",
-      "ar": "يجدد",
-      "lessonId": "lsn_c1_r_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أنا بحاجة لتجديد جواز سفري قبل انتهاء صلاحيته",
-          "ar": "They decided to renew their contract for another year."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹɪˈnjuː/"
     }
   ]
 }

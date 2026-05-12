@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_n_1",
   "levelId": "lvl_a1",
-  "title": "Unit 27: N Words - Part 1",
+  "title": "Unit 29: N Words - Part 1",
   "slug": "n-words-1",
-  "order": 27,
-  "wordCount": 13,
-  "titleAr": "الوحدة 27: كلمات حرف N - الجزء 1",
+  "order": 29,
+  "wordCount": 15,
+  "titleAr": "الوحدة 29: كلمات حرف N - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter N.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف N.",
   "words": [
@@ -174,6 +174,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_a1_neighbour",
+      "lessonId": "lsn_a1_n_1",
+      "en": "neighbour",
+      "ar": "جار",
+      "translation": "جار",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Our neighbours are very friendly.",
+          "ar": "جيراننا ودودون للغاية."
+        }
+      ],
+      "ipa": "/ˈneɪbə(r)/"
+    },
+    {
       "id": "w_a1_never",
       "lessonId": "lsn_a1_n_1",
       "en": "never",
@@ -295,6 +318,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/nɛkst/"
+    },
+    {
+      "id": "w_a1_next_to",
+      "lessonId": "lsn_a1_n_1",
+      "en": "next to",
+      "ar": "بجانب / بجوار",
+      "translation": "بجانب / بجوار",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The bank is next to the post office.",
+          "ar": "البنك يقع بجانب مكتب البريد."
+        }
+      ],
+      "ipa": "/ˈnekst tuː/"
     },
     {
       "id": "w_a1_nice",

@@ -1,14 +1,37 @@
 {
   "id": "lsn_c1_r_1",
   "levelId": "lvl_c1",
-  "title": "Unit 34: R Words - Part 1",
+  "title": "Unit 52: R Words - Part 1",
   "slug": "r-words-1",
-  "order": 34,
-  "wordCount": 19,
-  "titleAr": "الوحدة 34: كلمات حرف R - الجزء 1",
+  "order": 52,
+  "wordCount": 21,
+  "titleAr": "الوحدة 52: كلمات حرف R - الجزء 1",
   "description": "Master essential C1 vocabulary starting with the letter R.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف R.",
   "words": [
+    {
+      "id": "w_c1_radar",
+      "lessonId": "lsn_c1_r_1",
+      "en": "radar",
+      "ar": "رادار",
+      "translation": "رادار",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The ship disappeared from the radar screen.",
+          "ar": "اختفت السفينة من شاشة الرادار."
+        }
+      ],
+      "ipa": "/ˈreɪdɑː(r)/"
+    },
     {
       "id": "w_c1_radical",
       "en": "radical",
@@ -30,6 +53,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈɹædɪkəl/"
+    },
+    {
+      "id": "w_c1_rage",
+      "lessonId": "lsn_c1_r_1",
+      "en": "rage",
+      "ar": "غضب عارم / غيظ",
+      "translation": "غضب عارم / غيظ",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He flew into a rage when he heard the news.",
+          "ar": "استشاط غضباً عندما سمع الأخبار."
+        }
+      ],
+      "ipa": "/reɪdʒ/"
     },
     {
       "id": "w_c1_raid",
@@ -157,6 +203,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈɹæʃ(ə)nəl/"
+    },
+    {
+      "id": "w_c1_ray",
+      "lessonId": "lsn_c1_r_1",
+      "en": "ray",
+      "ar": "شعاع",
+      "translation": "شعاع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "A ray of sunlight came through the window.",
+          "ar": "دخل شعاع من ضوء الشمس عبر النافذة."
+        }
+      ],
+      "ipa": "/reɪ/"
     },
     {
       "id": "w_c1_readily",
@@ -291,6 +360,29 @@
       "ipa": "/ɹiəˈʃʊə(ɹ)/"
     },
     {
+      "id": "w_c1_rebel",
+      "lessonId": "lsn_c1_r_1",
+      "en": "rebel",
+      "ar": "متمرد / ثائر",
+      "translation": "متمرد / ثائر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The rebels captured the city.",
+          "ar": "استولى المتمردون على المدينة."
+        }
+      ],
+      "ipa": "/ˈrebl/"
+    },
+    {
       "id": "w_c1_rebellion",
       "en": "rebellion",
       "ar": "تمرد / عصيان",
@@ -377,50 +469,6 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
-    },
-    {
-      "id": "w_c1_reform",
-      "en": "reform",
-      "ar": "إصلاح / يصلح",
-      "lessonId": "lsn_c1_r_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تخطط الحكومة لإصلاح نظام الضرائب",
-          "ar": "Economic reform is essential for the country's growth."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ɹɪˈfɔːm/"
-    },
-    {
-      "id": "w_c1_refuge",
-      "en": "refuge",
-      "ar": "ملجأ / ملاذ",
-      "lessonId": "lsn_c1_r_1",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "وفر الكهف ملجأ من العاصفة",
-          "ar": "They sought refuge in the local church."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈɹɛfjuːdʒ/"
     }
   ]
 }

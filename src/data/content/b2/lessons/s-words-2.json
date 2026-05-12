@@ -1,14 +1,217 @@
 {
   "id": "lsn_b2_s_2",
   "levelId": "lvl_b2",
-  "title": "Unit 47: S Words - Part 2",
+  "title": "Unit 56: S Words - Part 2",
   "slug": "s-words-2",
-  "order": 47,
-  "wordCount": 25,
-  "titleAr": "الوحدة 47: كلمات حرف S - الجزء 2",
+  "order": 56,
+  "wordCount": 23,
+  "titleAr": "الوحدة 56: كلمات حرف S - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف S.",
   "words": [
+    {
+      "id": "w_b2_selection",
+      "en": "selection",
+      "ar": "عملية الاختيار",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The selection process takes place every three months.",
+          "ar": "تتم عملية الاختيار كل ثلاثة أشهر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/səˈlɛkʃən/"
+    },
+    {
+      "id": "w_b2_self",
+      "en": "self",
+      "ar": "نفسه",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He finally found his confident old self again.",
+          "ar": "وأخيرًا استعاد نفسه القديمة الواثقة من جديد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/sɛlf/"
+    },
+    {
+      "id": "w_b2_seminar",
+      "en": "seminar",
+      "ar": "حلقة دراسية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I attended a seminar on business management last week.",
+          "ar": "حضرت حلقة دراسية في إدارة الأعمال الأسبوع الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_senior",
+      "en": "senior",
+      "ar": "الأقدم",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The senior officer led the team with great experience.",
+          "ar": "قاد الضابط الأقدم الفريق بخبرة كبيرة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsiːnjə(r)/"
+    },
+    {
+      "id": "w_b2_sensitive",
+      "en": "sensitive",
+      "ar": "حساسة",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This document contains sensitive information.",
+          "ar": "يحتوي هذا المستند على معلومات حساسة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛnsɪtɪv/"
+    },
+    {
+      "id": "w_b2_sequence",
+      "en": "sequence",
+      "ar": "تسلسل",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The sequence of steps must be followed carefully.",
+          "ar": "يجب اتباع تسلسل الخطوات بعناية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsiːkwəns/"
+    },
+    {
+      "id": "w_b2_session",
+      "en": "session",
+      "ar": "الجلسة التدريبية",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The training session will start at 10 a.m.",
+          "ar": "ستبدأ الجلسة التدريبية في الساعة 10 صباحاً."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛʃən/"
+    },
+    {
+      "id": "w_b2_settle",
+      "en": "settle",
+      "ar": "تحسم / تستقر",
+      "lessonId": "lsn_b2_s_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She tried to settle the argument between her friends.",
+          "ar": "لقد حاولت أن تحسم الجدال بين صديقاتها."
+        },
+        {
+          "en": "The birds settle on the tree branches every evening.",
+          "ar": "تستقر الطيور على أغصان الأشجار كل مساء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈsɛtəl/"
+    },
+    {
+      "id": "w_b2_settler",
+      "lessonId": "lsn_b2_s_2",
+      "en": "settler",
+      "ar": "مستوطن",
+      "translation": "مستوطن",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The first European settlers arrived in the 17th century.",
+          "ar": "وصل المستوطنون الأوروبيون الأوائل في القرن السابع عشر."
+        }
+      ],
+      "ipa": "/ˈsetlə(r)/"
+    },
     {
       "id": "w_b2_settlers",
       "en": "settlers",
@@ -56,6 +259,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/sɪˈvɪə/"
+    },
+    {
+      "id": "w_b2_severely",
+      "lessonId": "lsn_b2_s_2",
+      "en": "severely",
+      "ar": "بشدة / بقسوة",
+      "translation": "بشدة / بقسوة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The building was severely damaged in the storm.",
+          "ar": "تضرر المبنى بشدة في العاصفة."
+        }
+      ],
+      "ipa": "/sɪˈvɪəli/"
     },
     {
       "id": "w_b2_sexy",
@@ -200,6 +426,29 @@
       "ipa": "/ʃeɪp/"
     },
     {
+      "id": "w_b2_shaped",
+      "lessonId": "lsn_b2_s_2",
+      "en": "shaped",
+      "ar": "مشكل / على شكل",
+      "translation": "مشكل / على شكل",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The pool is shaped like a kidney.",
+          "ar": "المسبح مصمم على شكل كلية."
+        }
+      ],
+      "ipa": "/ʃeɪpt/"
+    },
+    {
       "id": "w_b2_shelter",
       "en": "shelter",
       "ar": "مأوى / تحميهم",
@@ -282,325 +531,27 @@
       "ipa": "/ʃɒk/"
     },
     {
-      "id": "w_b1_shooting",
-      "en": "shooting",
-      "ar": "يطلقون النار",
-      "pronunciation": "/'fu-trn/",
+      "id": "w_b2_shocked",
       "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The soldiers were shooting at the enemy.",
-          "ar": "كان الجنود يطلقون النار على العدو."
-        },
-        {
-          "en": "The police investigated the shooting at the mall.",
-          "ar": "حققت الشرطة في إطلاق النار الذي وقع في المركز التجاري."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "core",
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b2_shore",
-      "en": "shore",
-      "ar": "الشاطئ",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We collected colorful stones from the shore.",
-          "ar": "جمعنا الأحجار الملونة من على الشاطئ."
-        }
-      ],
+      "en": "shocked",
+      "ar": "مصدوم",
+      "translation": "مصدوم",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ʃɔː/"
-    },
-    {
-      "id": "w_b2_short_term",
-      "en": "short-term",
-      "ar": "قصير المدى",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
       "examples": [
         {
-          "en": "This is only a short-term solution to the problem.",
-          "ar": "هذا مجرد حل قصير المدى للمشكلة."
+          "en": "We were shocked by the news of his death.",
+          "ar": "صُدمنا بخبر وفاته."
         }
       ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_shortage",
-      "en": "shortage",
-      "ar": "نقص",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The fuel shortage caused long lines at gas stations.",
-          "ar": "تسبب نقص الوقود في حدوث طوابير طويلة في محطات الوقود."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_shortly",
-      "en": "shortly",
-      "ar": "بعد قليل",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The movie will start shortly, so find your seat.",
-          "ar": "سيبدأ الفيلم بعد قليل، لذا ابحث عن مقعدك."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ʃɔːɹtli/"
-    },
-    {
-      "id": "w_b2_shot",
-      "en": "shot",
-      "ar": "تسديدته",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "His shot hit the target perfectly.",
-          "ar": "أصابت تسديدته الهدف بشكل مثالي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ʃɒt/"
-    },
-    {
-      "id": "w_b2_siblings",
-      "en": "siblings",
-      "ar": "شقيقان",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I have two siblings, a brother and a sister.",
-          "ar": "لدي شقيقان، أخ وأخت."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_signature",
-      "en": "signature",
-      "ar": "توقيعك",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Please write your signature at the bottom.",
-          "ar": "يُرجى كتابة توقيعك في الأسفل."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈsɪɡnətʃə/"
-    },
-    {
-      "id": "w_b2_significant",
-      "en": "significant",
-      "ar": "تأثير كبير / بشكل كبير / أهمية كبيرة",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "His speech had great significance for the audience.",
-          "ar": "كان لخطابه أهمية كبيرة للحضور."
-        },
-        {
-          "en": "Prices have increased significantly over the years.",
-          "ar": "ارتفعت الأسعار بشكل كبير على مر السنين."
-        },
-        {
-          "en": "This decision will have a significant impact on us.",
-          "ar": "سيكون لهذا القرار تأثير كبير علينا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/sɪɡˈnɪ.fɪ.kənt/"
-    },
-    {
-      "id": "w_b2_silence",
-      "en": "silence",
-      "ar": "الصمت",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He broke the silence with a loud laugh.",
-          "ar": "كسر الصمت بضحكة عالية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈsaɪ.ləns/"
-    },
-    {
-      "id": "w_b2_silk",
-      "en": "silk",
-      "ar": "كالحرير",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Her hair was as smooth as silk.",
-          "ar": "كان شعرها ناعمًا كالحرير."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/sɪlk/"
-    },
-    {
-      "id": "w_b2_sincere",
-      "en": "sincere",
-      "ar": "الصادقة",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Her sincere words touched my heart.",
-          "ar": "كلماتها الصادقة لامست قلبي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/sɪnˈsɪə(ɹ)/"
-    },
-    {
-      "id": "w_b2_skilled",
-      "en": "skilled",
-      "ar": "ماهرة",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "She is a skilled painter with great talent.",
-          "ar": "إنها رسامة ماهرة ولديها موهبة رائعة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/skɪld/"
-    },
-    {
-      "id": "w_b2_skull",
-      "en": "skull",
-      "ar": "جمجمة",
-      "lessonId": "lsn_b2_s_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He found a small animal skull in the forest.",
-          "ar": "وجد جمجمة حيوان صغير في الغابة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/skʌl/"
+      "ipa": "/ʃɒkt/"
     }
   ]
 }

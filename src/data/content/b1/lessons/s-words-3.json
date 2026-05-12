@@ -1,62 +1,14 @@
 {
   "id": "lsn_b1_s_3",
   "levelId": "lvl_b1",
-  "title": "Unit 34: S Words - Part 3",
+  "title": "Unit 38: S Words - Part 3",
   "slug": "s-words-3",
-  "order": 34,
-  "wordCount": 20,
-  "titleAr": "الوحدة 34: كلمات حرف S - الجزء 3",
+  "order": 38,
+  "wordCount": 25,
+  "titleAr": "الوحدة 38: كلمات حرف S - الجزء 3",
   "description": "Master essential B1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف S.",
   "words": [
-    {
-      "id": "w_b1_soil",
-      "en": "soil",
-      "ar": "تراب / تربة",
-      "pronunciation": "/sozl/",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "I like the smell of soil after rain.",
-          "ar": "أحب رائحة التراب بعد المطر."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_solid",
-      "en": "solid",
-      "ar": "صلب / حالة صلبة",
-      "pronunciation": "",
-      "lessonId": "lsn_b1_s_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Only ski on solid ice.",
-          "ar": "تزلج فقط على الجليد الصلب."
-        },
-        {
-          "en": "Three states of matter solid, liquid, and gas.",
-          "ar": "ثلاث حالات للمادة : الصلبة والسائلة والغازية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_southern",
       "en": "southern",
@@ -310,6 +262,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_standard",
+      "lessonId": "lsn_b1_s_3",
+      "en": "standard",
+      "ar": "معيار / قياسي",
+      "translation": "معيار / قياسي",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The work was not up to the required standard.",
+          "ar": "العمل لم يكن بالمستوى (المعيار) المطلوب."
+        }
+      ],
+      "ipa": "/ˈstændəd/"
+    },
+    {
       "id": "w_b1_standards",
       "en": "standards",
       "ar": "مستويات المعيشة / معدلات قياسية",
@@ -358,6 +333,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_statistic",
+      "lessonId": "lsn_b1_s_3",
+      "en": "statistic",
+      "ar": "إحصائية",
+      "translation": "إحصائية",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Official statistics show a decline in crime.",
+          "ar": "تظهر الإحصائيات الرسمية انخفاضاً في الجريمة."
+        }
+      ],
+      "ipa": "/stəˈtɪstɪk/"
+    },
+    {
       "id": "w_b1_statistics",
       "en": "statistics",
       "ar": "إحصائيات",
@@ -378,6 +376,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_statue",
+      "lessonId": "lsn_b1_s_3",
+      "en": "statue",
+      "ar": "تمثال",
+      "translation": "تمثال",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a statue of the king in the park.",
+          "ar": "يوجد تمثال للملك في المنتزه."
+        }
+      ],
+      "ipa": "/ˈstætʃuː/"
     },
     {
       "id": "w_b1_statues",
@@ -446,6 +467,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_stranger",
+      "lessonId": "lsn_b1_s_3",
+      "en": "stranger",
+      "ar": "غريب",
+      "translation": "غريب",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Don't talk to strangers.",
+          "ar": "لا تتحدث مع الغرباء."
+        }
+      ],
+      "ipa": "/ˈstreɪndʒə(r)/"
+    },
+    {
       "id": "w_b1_strangers",
       "en": "strangers",
       "ar": "غرباء",
@@ -457,6 +501,73 @@
         {
           "en": "Excuse me, I don't argue with strangers.",
           "ar": "معذرةً، أنا لا أتجادل مع الغرباء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_strength",
+      "en": "strength",
+      "ar": "قوة",
+      "pronunciation": "/streŋke/",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "I pushed against the door with all my strength.",
+          "ar": "دفعت الباب بكل قوتي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "core"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "w_b1_string",
+      "lessonId": "lsn_b1_s_3",
+      "en": "string",
+      "ar": "خيط / وتر",
+      "translation": "خيط / وتر",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He tied the parcel with a piece of string.",
+          "ar": "ربط الطرد بقطعة من الخيط."
+        }
+      ],
+      "ipa": "/strɪŋ/"
+    },
+    {
+      "id": "w_b1_strings",
+      "en": "strings",
+      "ar": "خيوط",
+      "pronunciation": "",
+      "lessonId": "lsn_b1_s_3",
+      "levelId": "lvl_b1",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Tie these two strings together.",
+          "ar": "اربط هذين الخيطين معا."
         }
       ],
       "type": "word",

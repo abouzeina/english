@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_c_3",
   "levelId": "lvl_a1",
-  "title": "Unit 8: C Words - Part 3",
+  "title": "Unit 9: C Words - Part 3",
   "slug": "c-words-3",
-  "order": 8,
-  "wordCount": 21,
-  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 3",
+  "order": 9,
+  "wordCount": 23,
+  "titleAr": "الوحدة 9: كلمات حرف C - الجزء 3",
   "description": "Master essential A1 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف C.",
   "words": [
@@ -397,6 +397,29 @@
       "ipa": "/kɹiːm/"
     },
     {
+      "id": "w_a1_create",
+      "lessonId": "lsn_a1_c_3",
+      "en": "create",
+      "ar": "يخلق / يبدع / يصنع",
+      "translation": "يخلق / يبدع / يصنع",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The artist created a beautiful painting.",
+          "ar": "أبدع الفنان لوحة جميلة."
+        }
+      ],
+      "ipa": "/kriˈeɪt/"
+    },
+    {
       "id": "w_a1_creates",
       "lessonId": "lsn_a1_c_3",
       "en": "creates",
@@ -461,6 +484,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/kʌp/"
+    },
+    {
+      "id": "w_a1_customer",
+      "lessonId": "lsn_a1_c_3",
+      "en": "customer",
+      "ar": "زبون / عميل",
+      "translation": "زبون / عميل",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The waiter served the customer quickly.",
+          "ar": "قدم النادل الخدمة للزبون بسرعة."
+        }
+      ],
+      "ipa": "/ˈkʌstəmə(r)/"
     },
     {
       "id": "w_a1_customers",

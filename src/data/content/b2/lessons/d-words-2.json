@@ -1,14 +1,125 @@
 {
   "id": "lsn_b2_d_2",
   "levelId": "lvl_b2",
-  "title": "Unit 14: D Words - Part 2",
+  "title": "Unit 15: D Words - Part 2",
   "slug": "d-words-2",
-  "order": 14,
+  "order": 15,
   "wordCount": 24,
-  "titleAr": "الوحدة 14: كلمات حرف D - الجزء 2",
+  "titleAr": "الوحدة 15: كلمات حرف D - الجزء 2",
   "description": "Master essential B2 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف D.",
   "words": [
+    {
+      "id": "w_b2_defender",
+      "en": "defender",
+      "ar": "مدافع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I will play as a defender in tomorrow's match.",
+          "ar": "سألعب كمدافع في مباراة الغد."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_defense",
+      "en": "defense",
+      "ar": "دفاع",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He claims that he killed him in self-defense.",
+          "ar": "يدعي أنه قتله دفاعًا عن النفس."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_delay",
+      "en": "delay",
+      "ar": "تأخير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We apologize for the delay in our program today.",
+          "ar": "نعتذر عن التأخير في برنامجنا اليوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_delayed",
+      "en": "delayed",
+      "ar": "تأخرت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_d_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The flight number 503 was delayed.",
+          "ar": "الرحلة رقم 503 قد تأخرت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_delete",
+      "lessonId": "lsn_b2_d_2",
+      "en": "delete",
+      "ar": "يحذف",
+      "translation": "يحذف",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Be careful not to delete important files.",
+          "ar": "كن حذراً حتى لا تحذفَ ملفاتٍ مهمة."
+        }
+      ],
+      "ipa": "/dɪˈliːt/"
+    },
     {
       "id": "w_b2_deleted",
       "en": "deleted",
@@ -146,6 +257,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_b2_demand",
+      "lessonId": "lsn_b2_d_2",
+      "en": "demand",
+      "ar": "طلب / يطالب",
+      "translation": "طلب / يطالب",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is a high demand for organic food.",
+          "ar": "هناك طلبٌ كبيرٌ على الأغذيةِ العضوية."
+        }
+      ],
+      "ipa": "/dɪˈmɑːnd/"
+    },
+    {
       "id": "w_b2_demands",
       "en": "demands",
       "ar": "يتطلب / مطالب",
@@ -216,6 +350,29 @@
       "needsTranslationReview": false
     },
     {
+      "id": "w_b2_demonstrate",
+      "lessonId": "lsn_b2_d_2",
+      "en": "demonstrate",
+      "ar": "يوضح / يتظاهر",
+      "translation": "يوضح / يتظاهر",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The study demonstrates the benefits of exercise.",
+          "ar": "توضحُ الدراسةُ فوائدَ التمارينِ الرياضية."
+        }
+      ],
+      "ipa": "/ˈdemənstreɪt/"
+    },
+    {
       "id": "w_b2_demonstrates",
       "en": "demonstrates",
       "ar": "توضح",
@@ -280,6 +437,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_deny",
+      "lessonId": "lsn_b2_d_2",
+      "en": "deny",
+      "ar": "ينكر / يرفض",
+      "translation": "ينكر / يرفض",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The suspect denied all the allegations.",
+          "ar": "أنكر المشتبه بهِ جميعَ الاتهامات."
+        }
+      ],
+      "ipa": "/dɪˈnaɪ/"
     },
     {
       "id": "w_b2_depart",
@@ -368,186 +548,6 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/dɪˈpɹɛst/"
-    },
-    {
-      "id": "w_b2_depressing",
-      "en": "depressing",
-      "ar": "كئيبة",
-      "lessonId": "lsn_b2_d_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "It was a depressing experience.",
-          "ar": "كانت تجربة كئيبة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɪˈpɹɛsɪŋ(ɡ)/"
-    },
-    {
-      "id": "w_b2_depression",
-      "en": "depression",
-      "ar": "الاكتئاب",
-      "lessonId": "lsn_b2_d_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "One of my family members suffers from depression.",
-          "ar": "أحد أفراد عائلتي يعاني من الاكتئاب."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɪˈpɹɛʃən/"
-    },
-    {
-      "id": "w_b2_depth",
-      "en": "depth",
-      "ar": "عمق",
-      "lessonId": "lsn_b2_d_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "What's the depth of this lake ?",
-          "ar": "ما هو عمق هذه البحيرة ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɛpθ/"
-    },
-    {
-      "id": "w_b2_derived",
-      "en": "derived",
-      "ar": "مشتقة",
-      "lessonId": "lsn_b2_d_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Some Turkish words are derived from Arabic.",
-          "ar": "بعض الكلمات التركية مشتقة من اللغة العربية."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɪˈɹaɪvd/"
-    },
-    {
-      "id": "w_b2_deserted",
-      "en": "deserted",
-      "ar": "هجره",
-      "lessonId": "lsn_b2_d_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "This neighborhood has been deserted.",
-          "ar": "هذا الحي قد تم هجره."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɪˈzɜːtəd/"
-    },
-    {
-      "id": "w_b2_deserves",
-      "en": "deserves",
-      "ar": "يستحق",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The boy deserves an award for his achievement.",
-          "ar": "الفتى يستحق جائزة لإنجازه."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_desire",
-      "en": "desire",
-      "ar": "رغبة / يرغب",
-      "lessonId": "lsn_b2_d_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I have no desire to do anything.",
-          "ar": "ليس لدي أي رغبة لفعل أي شيء."
-        },
-        {
-          "en": "The people desire to end the war.",
-          "ar": "الشعب يرغب في إنهاء الحرب."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/dɪˈzaɪə/"
-    },
-    {
-      "id": "w_b2_desperate",
-      "en": "desperate",
-      "ar": "يائس",
-      "lessonId": "lsn_b2_d_2",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Why are you desperate ? Everything will be fine.",
-          "ar": "لماذا أنت يائس، كل شيء سيكون على ما يرام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/ˈdɛsp(ə)ɹət/"
     }
   ]
 }

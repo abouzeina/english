@@ -1,0 +1,588 @@
+{
+  "id": "lsn_c1_c_4",
+  "levelId": "lvl_c1",
+  "title": "Unit 14: C Words - Part 4",
+  "slug": "c-words-4",
+  "order": 14,
+  "wordCount": 25,
+  "titleAr": "الوحدة 14: كلمات حرف C - الجزء 4",
+  "description": "Master essential C1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_c1_commentator",
+      "lessonId": "lsn_c1_c_4",
+      "en": "commentator",
+      "ar": "معلق / محلل",
+      "translation": "معلق / محلل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is a sports commentator for the BBC.",
+          "ar": "هي معلقة رياضية في البي بي سي."
+        }
+      ],
+      "ipa": "/ˈkɒmənteɪtə(r)/"
+    },
+    {
+      "id": "w_c1_commerce",
+      "lessonId": "lsn_c1_c_4",
+      "en": "commerce",
+      "ar": "تجارة",
+      "translation": "تجارة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The city is a major center of commerce.",
+          "ar": "المدينة مركز رئيسي للتجارة."
+        }
+      ],
+      "ipa": "/ˈkɒmɜːs/"
+    },
+    {
+      "id": "w_c1_commissioner",
+      "lessonId": "lsn_c1_c_4",
+      "en": "commissioner",
+      "ar": "مفوض / مندوب",
+      "translation": "مفوض / مندوب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was appointed as the new police commissioner.",
+          "ar": "عُين مفوضاً جديداً للشرطة."
+        }
+      ],
+      "ipa": "/kəˈmɪʃənə(r)/"
+    },
+    {
+      "id": "w_c1_commodity",
+      "lessonId": "lsn_c1_c_4",
+      "en": "commodity",
+      "ar": "سلعة / بضاعة",
+      "translation": "سلعة / بضاعة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Oil is an important global commodity.",
+          "ar": "النفط سلعة عالمية مهمة."
+        }
+      ],
+      "ipa": "/kəˈmɒdəti/"
+    },
+    {
+      "id": "w_c1_communist",
+      "lessonId": "lsn_c1_c_4",
+      "en": "communist",
+      "ar": "شيوعي",
+      "translation": "شيوعي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country was ruled by the communist party.",
+          "ar": "كانت البلاد محكومة من قبل الحزب الشيوعي."
+        }
+      ],
+      "ipa": "/ˈkɒmjənɪst/"
+    },
+    {
+      "id": "w_c1_companion",
+      "lessonId": "lsn_c1_c_4",
+      "en": "companion",
+      "ar": "رفيق / جليس",
+      "translation": "رفيق / جليس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was my constant companion during the trip.",
+          "ar": "كان رفيقي الدائم خلال الرحلة."
+        }
+      ],
+      "ipa": "/kəmˈpæniən/"
+    },
+    {
+      "id": "w_c1_comparable",
+      "lessonId": "lsn_c1_c_4",
+      "en": "comparable",
+      "ar": "مماثل / قابل للمقارنة",
+      "translation": "مماثل / قابل للمقارنة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The results are not comparable with previous studies.",
+          "ar": "النتائج غير قابلة للمقارنة مع الدراسات السابقة."
+        }
+      ],
+      "ipa": "/ˈkɒmpərəbl/"
+    },
+    {
+      "id": "w_c1_compassion",
+      "lessonId": "lsn_c1_c_4",
+      "en": "compassion",
+      "ar": "تعاطف / رحمة / شفقة",
+      "translation": "تعاطف / رحمة / شفقة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We must show compassion for those in need.",
+          "ar": "يجب أن نظهر الرحمة (التعاطف) تجاه المحتاجين."
+        }
+      ],
+      "ipa": "/kəmˈpæʃn/"
+    },
+    {
+      "id": "w_c1_compel",
+      "lessonId": "lsn_c1_c_4",
+      "en": "compel",
+      "ar": "يجبر / يكره على",
+      "translation": "يجبر / يكره على",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The law compels drivers to wear seat belts.",
+          "ar": "يجبر القانون السائقين على ارتداء أحزمة الأمان."
+        }
+      ],
+      "ipa": "/kəmˈpel/"
+    },
+    {
+      "id": "w_c1_compelling",
+      "lessonId": "lsn_c1_c_4",
+      "en": "compelling",
+      "ar": "مقنع / قاهر / جذاب جداً",
+      "translation": "مقنع / قاهر / جذاب جداً",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There is compelling evidence of his guilt.",
+          "ar": "هناك أدلة مقنعة على ذنبه."
+        }
+      ],
+      "ipa": "/kəmˈpelɪŋ/"
+    },
+    {
+      "id": "w_c1_compensate",
+      "lessonId": "lsn_c1_c_4",
+      "en": "compensate",
+      "ar": "يعوض",
+      "translation": "يعوض",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company compensated him for his injuries.",
+          "ar": "عوضته الشركة عن إصاباته."
+        }
+      ],
+      "ipa": "/ˈkɒmpenseɪt/"
+    },
+    {
+      "id": "w_c1_compensation",
+      "lessonId": "lsn_c1_c_4",
+      "en": "compensation",
+      "ar": "تعويض",
+      "translation": "تعويض",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He received a large sum in compensation.",
+          "ar": "حصل على مبلغ كبير كتعويض."
+        }
+      ],
+      "ipa": "/ˌkɒmpenˈseɪʃn/"
+    },
+    {
+      "id": "w_c1_competence",
+      "lessonId": "lsn_c1_c_4",
+      "en": "competence",
+      "ar": "كفاءة / جدارة",
+      "translation": "كفاءة / جدارة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has shown high competence in his work.",
+          "ar": "أظهر كفاءة عالية في عمله."
+        }
+      ],
+      "ipa": "/ˈkɒmpɪtəns/"
+    },
+    {
+      "id": "w_c1_competent",
+      "lessonId": "lsn_c1_c_4",
+      "en": "competent",
+      "ar": "كفء / مؤهل",
+      "translation": "كفء / مؤهل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is a very competent lawyer.",
+          "ar": "هي محامية كفءة جداً."
+        }
+      ],
+      "ipa": "/ˈkɒmpɪtənt/"
+    },
+    {
+      "id": "w_c1_compile",
+      "lessonId": "lsn_c1_c_4",
+      "en": "compile",
+      "ar": "يجمع / يصنف / يحرر",
+      "translation": "يجمع / يصنف / يحرر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We are compiling a list of all the participants.",
+          "ar": "نحن نجمع قائمة بجميع المشاركين."
+        }
+      ],
+      "ipa": "/kəmˈpaɪl/"
+    },
+    {
+      "id": "w_c1_complement",
+      "lessonId": "lsn_c1_c_4",
+      "en": "complement",
+      "ar": "يكمل / تكملة",
+      "translation": "يكمل / تكملة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The two styles complement each other perfectly.",
+          "ar": "الأسلوبان يكملان بعضهما البعض تماماً."
+        }
+      ],
+      "ipa": "/ˈkɒmplɪment/"
+    },
+    {
+      "id": "w_c1_complexity",
+      "lessonId": "lsn_c1_c_4",
+      "en": "complexity",
+      "ar": "تعقيد",
+      "translation": "تعقيد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The complexity of the problem surprised us.",
+          "ar": "فاجأنا تعقيد المشكلة."
+        }
+      ],
+      "ipa": "/kəmˈpleksəti/"
+    },
+    {
+      "id": "w_c1_compliance",
+      "lessonId": "lsn_c1_c_4",
+      "en": "compliance",
+      "ar": "امتثال / طاعة",
+      "translation": "امتثال / طاعة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company is in full compliance with the law.",
+          "ar": "الشركة في حالة امتثال تام للقانون."
+        }
+      ],
+      "ipa": "/kəmˈplaɪəns/"
+    },
+    {
+      "id": "w_c1_complication",
+      "lessonId": "lsn_c1_c_4",
+      "en": "complication",
+      "ar": "تعقيد / مضاعفات",
+      "translation": "تعقيد / مضاعفات",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There were some complications during the surgery.",
+          "ar": "كانت هناك بعض المضاعفات أثناء الجراحة."
+        }
+      ],
+      "ipa": "/ˌkɒmplɪˈkeɪʃn/"
+    },
+    {
+      "id": "w_c1_comply",
+      "lessonId": "lsn_c1_c_4",
+      "en": "comply",
+      "ar": "يمتثل / يطيع",
+      "translation": "يمتثل / يطيع",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "All citizens must comply with the regulations.",
+          "ar": "يجب على جميع المواطنين الامتثال للوائح."
+        }
+      ],
+      "ipa": "/kəmˈplaɪ/"
+    },
+    {
+      "id": "w_c1_compose",
+      "lessonId": "lsn_c1_c_4",
+      "en": "compose",
+      "ar": "يؤلف / يشكل",
+      "translation": "يؤلف / يشكل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Water is composed of hydrogen and oxygen.",
+          "ar": "يتكون الماء من الهيدروجين والأكسجين."
+        }
+      ],
+      "ipa": "/kəmˈpəʊz/"
+    },
+    {
+      "id": "w_c1_composer",
+      "lessonId": "lsn_c1_c_4",
+      "en": "composer",
+      "ar": "ملحن / مؤلف موسيقي",
+      "translation": "ملحن / مؤلف موسيقي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Beethoven is one of the world's greatest composers.",
+          "ar": "بيتهوفن هو واحد من أعظم الملحنين في العالم."
+        }
+      ],
+      "ipa": "/kəmˈpəʊzə(r)/"
+    },
+    {
+      "id": "w_c1_composite",
+      "lessonId": "lsn_c1_c_4",
+      "en": "composite",
+      "ar": "مركب / مؤلف من أجزاء",
+      "translation": "مركب / مؤلف من أجزاء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The material is a composite of plastic and metal.",
+          "ar": "المادة هي مركب من البلاستيك والمعدن."
+        }
+      ],
+      "ipa": "/ˈkɒmpəzɪt/"
+    },
+    {
+      "id": "w_c1_composition",
+      "lessonId": "lsn_c1_c_4",
+      "en": "composition",
+      "ar": "تكوين / تأليف / إنشاء",
+      "translation": "تكوين / تأليف / إنشاء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The composition of the team has changed.",
+          "ar": "تغير تكوين الفريق."
+        }
+      ],
+      "ipa": "/ˌkɒmpəˈzɪʃn/"
+    },
+    {
+      "id": "w_c1_compound",
+      "lessonId": "lsn_c1_c_4",
+      "en": "compound",
+      "ar": "مركب / مجمع / يضاعف",
+      "translation": "مركب / مجمع / يضاعف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Salt is a chemical compound.",
+          "ar": "الملح مركب كيميائي."
+        }
+      ],
+      "ipa": "/ˈkɒmpaʊnd/"
+    }
+  ]
+}

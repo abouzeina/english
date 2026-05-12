@@ -1,0 +1,98 @@
+[
+  {
+    "en": "conspiracy",
+    "translation": "مؤامرة",
+    "ipa": "/kənˈspɪrəsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "They were charged with conspiracy to commit murder.",
+        "ar": "وُجهت إليهم تهمة التآمر لارتكاب جريمة قتل."
+      }
+    ]
+  },
+  {
+    "en": "constituency",
+    "translation": "دائرة انتخابية",
+    "ipa": "/kənˈstɪtʃuənsi/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "He represents a rural constituency in the north.",
+        "ar": "هو يمثل دائرة انتخابية ريفية في الشمال."
+      }
+    ]
+  },
+  {
+    "en": "constituent",
+    "translation": "مكون / ناخب",
+    "ipa": "/kənˈstɪtʃuənt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Sodium is a constituent of salt.",
+        "ar": "الصوديوم هو أحد مكونات الملح."
+      }
+    ]
+  },
+  {
+    "en": "constitute",
+    "translation": "يشكل / يؤسس",
+    "ipa": "/ˈkɒnstɪtjuːt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "These activities constitute a threat to national security.",
+        "ar": "تشكل هذه الأنشطة تهديداً للأمن القومي."
+      }
+    ]
+  },
+  {
+    "en": "constitution",
+    "translation": "دستور / تكوين",
+    "ipa": "/ˌkɒnstɪˈtjuːʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The country has a written constitution.",
+        "ar": "للدولة دستور مكتوب."
+      }
+    ]
+  },
+  {
+    "en": "constitutional",
+    "translation": "دستوري",
+    "ipa": "/ˌkɒnstɪˈtjuːʃənl/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The new law was declared unconstitutional.",
+        "ar": "أُعلن أن القانون الجديد غير دستوري."
+      }
+    ]
+  },
+  {
+    "en": "constraint",
+    "translation": "قيد / إكراه / عائق",
+    "ipa": "/kənˈstreɪnt/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "Financial constraints limited the scope of the project.",
+        "ar": "حدت القيود المالية من نطاق المشروع."
+      }
+    ]
+  },
+  {
+    "en": "consultation",
+    "translation": "استشارة / مشاورات",
+    "ipa": "/ˌkɒnslˈteɪʃn/",
+    "type": "word",
+    "examples": [
+      {
+        "en": "The decision was made after consultation with experts.",
+        "ar": "اتخذ القرار بعد التشاور مع الخبراء."
+      }
+    ]
+  }
+]

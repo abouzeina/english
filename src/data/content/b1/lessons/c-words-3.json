@@ -1,58 +1,14 @@
 {
   "id": "lsn_b1_c_3",
   "levelId": "lvl_b1",
-  "title": "Unit 7: C Words - Part 3",
+  "title": "Unit 8: C Words - Part 3",
   "slug": "c-words-3",
-  "order": 7,
-  "wordCount": 19,
-  "titleAr": "الوحدة 7: كلمات حرف C - الجزء 3",
+  "order": 8,
+  "wordCount": 24,
+  "titleAr": "الوحدة 8: كلمات حرف C - الجزء 3",
   "description": "Master essential B1 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف C.",
   "words": [
-    {
-      "id": "w_b1_committed",
-      "en": "committed",
-      "ar": "ارتكب",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Who committed that crime?",
-          "ar": "من ارتكب تلك الجريمة ؟"
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high",
-      "ipa": "/kəˈmɪtɪd/"
-    },
-    {
-      "id": "w_b1_communication",
-      "en": "communication",
-      "ar": "تواصل",
-      "lessonId": "lsn_b1_c_3",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Family communication is important.",
-          "ar": "التواصل الأسري مهم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high",
-      "ipa": "/kəˌmjuːnɪˈkeɪʃən/"
-    },
     {
       "id": "w_b1_comparison",
       "en": "comparison",
@@ -96,6 +52,29 @@
       ],
       "confidence": "high",
       "ipa": "/kəmˈpɛtɪtɪv/"
+    },
+    {
+      "id": "w_b1_competitor",
+      "lessonId": "lsn_b1_c_3",
+      "en": "competitor",
+      "ar": "منافس",
+      "translation": "منافس",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company has many international competitors.",
+          "ar": "للشركة العديد من المنافسين الدوليين."
+        }
+      ],
+      "ipa": "/kəmˈpetɪtə(r)/"
     },
     {
       "id": "w_b1_competitors",
@@ -142,6 +121,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_complex",
+      "lessonId": "lsn_b1_c_3",
+      "en": "complex",
+      "ar": "معقد / مجمع",
+      "translation": "معقد / مجمع",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The brain is a very complex organ.",
+          "ar": "الدماغ عضو معقد للغاية."
+        }
+      ],
+      "ipa": "/ˈkɒmpleks/"
+    },
+    {
       "id": "w_b1_concentrate",
       "en": "concentrate",
       "ar": "يركز",
@@ -184,6 +186,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_conclusion",
+      "lessonId": "lsn_b1_c_3",
+      "en": "conclusion",
+      "ar": "خاتمة / استنتاج",
+      "translation": "خاتمة / استنتاج",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "In conclusion, we need to act now.",
+          "ar": "ختاماً، نحن بحاجة للتحرك الآن."
+        }
+      ],
+      "ipa": "/kənˈkluːʒn/"
     },
     {
       "id": "w_b1_conclusions",
@@ -318,6 +343,29 @@
       "ipa": "/kəˈnɛkʃən/"
     },
     {
+      "id": "w_b1_consequence",
+      "lessonId": "lsn_b1_c_3",
+      "en": "consequence",
+      "ar": "عاقبة / نتيجة",
+      "translation": "عاقبة / نتيجة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Every action has a consequence.",
+          "ar": "لكل فعل عاقبة."
+        }
+      ],
+      "ipa": "/ˈkɒnsɪkwəns/"
+    },
+    {
       "id": "w_b1_consequences",
       "en": "consequences",
       "ar": "عواقب",
@@ -340,6 +388,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_consist",
+      "lessonId": "lsn_b1_c_3",
+      "en": "consist",
+      "ar": "يتكون من",
+      "translation": "يتكون من",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The team consists of five members.",
+          "ar": "يتكون الفريق من خمسة أعضاء."
+        }
+      ],
+      "ipa": "/kənˈsɪst/"
+    },
+    {
       "id": "w_b1_consists",
       "en": "consists",
       "ar": "يتكون من",
@@ -360,6 +431,52 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_consume",
+      "lessonId": "lsn_b1_c_3",
+      "en": "consume",
+      "ar": "يستهلك",
+      "translation": "يستهلك",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Cars consume a lot of fuel.",
+          "ar": "تستهلك السيارات الكثير من الوقود."
+        }
+      ],
+      "ipa": "/kənˈsjuːm/"
+    },
+    {
+      "id": "w_b1_consumer",
+      "lessonId": "lsn_b1_c_3",
+      "en": "consumer",
+      "ar": "مستهلك",
+      "translation": "مستهلك",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The new law protects consumer rights.",
+          "ar": "القانون الجديد يحمي حقوق المستهلك."
+        }
+      ],
+      "ipa": "/kənˈsjuːmə(r)/"
     },
     {
       "id": "w_b1_consumers",

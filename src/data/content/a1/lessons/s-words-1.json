@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_s_1",
   "levelId": "lvl_a1",
-  "title": "Unit 37: S Words - Part 1",
+  "title": "Unit 39: S Words - Part 1",
   "slug": "s-words-1",
-  "order": 37,
-  "wordCount": 23,
-  "titleAr": "الوحدة 37: كلمات حرف S - الجزء 1",
+  "order": 39,
+  "wordCount": 25,
+  "titleAr": "الوحدة 39: كلمات حرف S - الجزء 1",
   "description": "Master essential A1 vocabulary starting with the letter S.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف S.",
   "words": [
@@ -250,6 +250,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_sea",
+      "lessonId": "lsn_a1_s_1",
+      "en": "sea",
+      "ar": "بحر",
+      "translation": "بحر",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The kids love playing in the sea.",
+          "ar": "يحب الأطفال اللعب في البحر."
+        }
+      ],
+      "ipa": "/siː/"
     },
     {
       "id": "w_a1_second",
@@ -555,6 +578,28 @@
         {
           "en": "Sheep like to stay together.",
           "ar": "تحب الأغنام البقاء مع بعضها."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_a1_shirt",
+      "lessonId": "lsn_a1_s_1",
+      "en": "shirt",
+      "translation": "قميص",
+      "ar": "قميص",
+      "pronunciation": "/f3rt/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "Where is my blue shirt?",
+          "ar": "أين قميصي الأزرق؟"
         }
       ],
       "difficulty": "A1",

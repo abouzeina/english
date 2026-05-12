@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "word": "balanced",
+    "reason": "Example is generic AI pattern or too long",
+    "raw": {
+      "en": "balanced",
+      "translation": "متوازن",
+      "ipa": "/ˈbælənst/",
+      "type": "word",
+      "examples": [
+        {
+          "en": "It is important to eat a balanced diet.",
+          "ar": "من المهم تناول غذاء متوازن."
+        }
+      ]
+    }
+  }
+]

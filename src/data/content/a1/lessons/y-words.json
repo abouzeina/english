@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_y",
   "levelId": "lvl_a1",
-  "title": "Unit 48: Y Words",
+  "title": "Unit 51: Y Words",
   "slug": "y-words",
-  "order": 48,
-  "wordCount": 8,
-  "titleAr": "الوحدة 48: كلمات حرف Y",
+  "order": 51,
+  "wordCount": 9,
+  "titleAr": "الوحدة 51: كلمات حرف Y",
   "description": "Master essential A1 vocabulary starting with the letter Y.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف Y.",
   "words": [
@@ -30,6 +30,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈjæ.ə/"
+    },
+    {
+      "id": "w_a1_year",
+      "lessonId": "lsn_a1_y",
+      "en": "year",
+      "ar": "سنة / عام",
+      "translation": "سنة / عام",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I finished university last year.",
+          "ar": "أنهيت الجامعة العام الماضي."
+        }
+      ],
+      "ipa": "/jɪə(r)/"
     },
     {
       "id": "w_a1_yellow",

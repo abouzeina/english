@@ -1,0 +1,434 @@
+{
+  "id": "lsn_b2_f_3",
+  "levelId": "lvl_b2",
+  "title": "Unit 25: F Words - Part 3",
+  "slug": "f-words-3",
+  "order": 25,
+  "wordCount": 19,
+  "titleAr": "الوحدة 25: كلمات حرف F - الجزء 3",
+  "description": "Master essential B2 vocabulary starting with the letter F.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف F.",
+  "words": [
+    {
+      "id": "w_b2_forbid",
+      "lessonId": "lsn_b2_f_3",
+      "en": "forbid",
+      "ar": "يمنع / يحرم",
+      "translation": "يمنع / يحرم",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Smoking is strictly forbidden in this building.",
+          "ar": "التدخين ممنوع منعاً باتاً في هذا المبنى."
+        }
+      ],
+      "ipa": "/fəˈbɪd/"
+    },
+    {
+      "id": "w_b2_forecast",
+      "en": "forecast",
+      "ar": "التنبؤ",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It is difficult to forecast the future of technology.",
+          "ar": "من الصعب التنبؤ بمستقبل التكنولوجيا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔːkɑːst/"
+    },
+    {
+      "id": "w_b2_forecasts",
+      "en": "forecasts",
+      "ar": "توقعات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Did you read the company's sales forecasts ?",
+          "ar": "هل قرأت توقعات مبيعات الشركة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_forgive",
+      "en": "forgive",
+      "ar": "أسامح",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I'll never forgive him for what he did.",
+          "ar": "لن أسامحه أبدًا على ما فعله."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fɚˈɡɪv/"
+    },
+    {
+      "id": "w_b2_format",
+      "en": "format",
+      "ar": "هيئته / نمطه",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This conference is different in format from previous ones.",
+          "ar": "هذا المؤتمر يختلف في هيئته عن المؤتمرات السابقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔː(ɹ).mæt/"
+    },
+    {
+      "id": "w_b2_formation",
+      "en": "formation",
+      "ar": "تشكل",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We studied the process of bone formation in college.",
+          "ar": "لقد درسنا عملية تشكل العظام في الكلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/fə(ɹ).ˈmeɪ.ʃən/"
+    },
+    {
+      "id": "w_b2_former",
+      "en": "former",
+      "ar": "سابق",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "That guy is a former employee of the company.",
+          "ar": "ذلك الرجل هو موظف سابق في الشركة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔːmə/"
+    },
+    {
+      "id": "w_b2_formerly",
+      "en": "formerly",
+      "ar": "سابقا",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was formerly a boxing champion.",
+          "ar": "كان سابقا بطل ملاكمة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔːməli/"
+    },
+    {
+      "id": "w_b2_fortunate",
+      "en": "fortunate",
+      "ar": "حسن حظ",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It was fortunate for me that I found an online job.",
+          "ar": "كان من حسن حظي أنني وجدت وظيفة عبر الإنترنت."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔːt͡ʃənət/"
+    },
+    {
+      "id": "w_b2_fortune",
+      "en": "fortune",
+      "ar": "ثروة",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He made a fortune by selling used cars.",
+          "ar": "لقد جمع ثروة من بيع السيارات المستعملة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔːtʃuːn/"
+    },
+    {
+      "id": "w_b2_forum",
+      "en": "forum",
+      "ar": "منتدى",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She was a member of a forum about health care services.",
+          "ar": "كانت عضوا في منتدى حول خدمات الرعاية الصحية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfɔːɹəm/"
+    },
+    {
+      "id": "w_b2_fossil",
+      "lessonId": "lsn_b2_f_3",
+      "en": "fossil",
+      "ar": "أحفورة",
+      "translation": "أحفورة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Scientists found ancient fossils in the desert.",
+          "ar": "وجد العلماء أحافير قديمة في الصحراء."
+        }
+      ],
+      "ipa": "/ˈfɒsl/"
+    },
+    {
+      "id": "w_b2_fossils",
+      "en": "fossils",
+      "ar": "حفريات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They found fossils of animals in those rocks.",
+          "ar": "وجدوا حفريات الحيوانات في تلك الصخور."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_found",
+      "lessonId": "lsn_b2_f_3",
+      "en": "found",
+      "ar": "يؤسس",
+      "translation": "يؤسس",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The university was founded in 1850.",
+          "ar": "تأسست الجامعة عام ألف وثمانمائة وخمسين."
+        }
+      ],
+      "ipa": "/faʊnd/"
+    },
+    {
+      "id": "w_b2_foundation",
+      "en": "foundation",
+      "ar": "أساس",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Respect is a solid foundation for marriage.",
+          "ar": "الاحترام هو أساس متين للزواج."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/faʊnˈdeɪʃən/"
+    },
+    {
+      "id": "w_b2_founded",
+      "en": "founded",
+      "ar": "أسس",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My father founded the school in 1985.",
+          "ar": "أسس والدي المدرسة عام 1985."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈfaʊndɪd/"
+    },
+    {
+      "id": "w_b2_founder",
+      "en": "founder",
+      "ar": "مؤسس",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Who is the founder of this beneficial Youtube channel?",
+          "ar": "من هو مؤسس هذه القناة اليوتيوبية المفيدة؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fraction",
+      "en": "fraction",
+      "ar": "نسبة قليلة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Only a fraction of people believe that earth is flat.",
+          "ar": "نسبة قليلة فقط من الناس تعتقد أن الأرض مسطحة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_fragment",
+      "en": "fragment",
+      "ar": "قطعة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_f_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We found a fragment of an old chair in the garden.",
+          "ar": "وجدنا قطعة من كرسي قديم في الحديقة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

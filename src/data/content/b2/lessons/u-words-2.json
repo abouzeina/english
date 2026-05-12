@@ -1,0 +1,306 @@
+{
+  "id": "lsn_b2_u_2",
+  "levelId": "lvl_b2",
+  "title": "Unit 66: U Words - Part 2",
+  "slug": "u-words-2",
+  "order": 66,
+  "wordCount": 13,
+  "titleAr": "الوحدة 66: كلمات حرف U - الجزء 2",
+  "description": "Master essential B2 vocabulary starting with the letter U.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف U.",
+  "words": [
+    {
+      "id": "w_b2_unity",
+      "en": "unity",
+      "ar": "الوحدة الوطنية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The speech emphasized the importance of national unity.",
+          "ar": "وقد أكد الخطاب على أهمية الوحدة الوطنية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_universal",
+      "en": "universal",
+      "ar": "عالمية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Love is a universal language understood by everyone.",
+          "ar": "الحب لغة عالمية يفهمها الجميع."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_universe",
+      "en": "universe",
+      "ar": "كوننا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Our universe is constantly expanding in all directions.",
+          "ar": "يتوسع كوننا باستمرار في جميع الاتجاهات."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_unknown",
+      "en": "unknown",
+      "ar": "غير معروف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The package was sent from an unknown address.",
+          "ar": "أرسل الطرد من عنوان غير معروف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_upper",
+      "en": "upper",
+      "ar": "العلوي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He injured his upper arm during the football match.",
+          "ar": "أصيب في الجزء العلوي من ذراعه أثناء مباراة كرة القدم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_upward",
+      "en": "upward",
+      "ar": "للأعلى",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She stretched her arms upward to reach the shelf.",
+          "ar": "مدت ذراعيها للأعلى لتصل إلى الرف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_upwards",
+      "lessonId": "lsn_b2_u_2",
+      "en": "upwards",
+      "ar": "إلى الأعلى / صعوداً",
+      "translation": "إلى الأعلى / صعوداً",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The smoke rose upwards into the sky.",
+          "ar": "ارتفع الدخان إلى الأعلى في السماء."
+        }
+      ],
+      "ipa": "/ˈʌpwədz/"
+    },
+    {
+      "id": "w_b2_urban",
+      "en": "urban",
+      "ar": "الحضرية",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Urban parks provide a peaceful escape from noise.",
+          "ar": "توفر المتنزهات الحضرية ملاذاً هادئاً بعيدًا عن الضوضاء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈɜːbən/"
+    },
+    {
+      "id": "w_b2_urge",
+      "lessonId": "lsn_b2_u_2",
+      "en": "urge",
+      "ar": "يحث / رغبة ملحة",
+      "translation": "يحث / رغبة ملحة",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I urge you to reconsider your decision.",
+          "ar": "أحثك على إعادة النظر في قرارك."
+        }
+      ],
+      "ipa": "/ɜːdʒ/"
+    },
+    {
+      "id": "w_b2_urged",
+      "en": "urged",
+      "ar": "حثني",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My doctor urged me to exercise every day.",
+          "ar": "حثني طبيبي على ممارسة التمارين الرياضية كل يوم."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_urgent",
+      "en": "urgent",
+      "ar": "عاجل",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The firefighters responded to an urgent emergency.",
+          "ar": "استجاب رجال الإطفاء لحالة طوارئ عاجلة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_usage",
+      "en": "usage",
+      "ar": "استخدام",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Water usage increases during the hot summer months.",
+          "ar": "يزداد استخدام المياه خلال أشهر الصيف الحارة."
+        },
+        {
+          "en": "يوفر الكتاب أمثلة على استخدام الكلمات الإنجليزية.",
+          "ar": "Water usage has increased significantly this summer."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced",
+        "C1"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈjuːsɪd͡ʒ/"
+    },
+    {
+      "id": "w_b2_useless",
+      "en": "useless",
+      "ar": "عديمة الفائدة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_u_2",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This useless tool can't cut anything properly.",
+          "ar": "هذه الأداة عديمة الفائدة لا يمكنها قطع أي شيء بشكل صحيح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

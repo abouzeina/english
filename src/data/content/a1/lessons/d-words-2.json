@@ -1,11 +1,11 @@
 {
   "id": "lsn_a1_d_2",
   "levelId": "lvl_a1",
-  "title": "Unit 10: D Words - Part 2",
+  "title": "Unit 11: D Words - Part 2",
   "slug": "d-words-2",
-  "order": 10,
-  "wordCount": 21,
-  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 2",
+  "order": 11,
+  "wordCount": 22,
+  "titleAr": "الوحدة 11: كلمات حرف D - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف D.",
   "words": [
@@ -262,6 +262,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/dɑɡ/"
+    },
+    {
+      "id": "w_a1_dollar",
+      "lessonId": "lsn_a1_d_2",
+      "en": "dollar",
+      "ar": "دولار",
+      "translation": "دولار",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The book costs ten dollars.",
+          "ar": "الكتاب يكلف عشرة دولارات."
+        }
+      ],
+      "ipa": "/ˈdɒlə(r)/"
     },
     {
       "id": "w_a1_dollars",

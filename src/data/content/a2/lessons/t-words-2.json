@@ -4,7 +4,7 @@
   "title": "Unit 40: T Words - Part 2",
   "slug": "t-words-2",
   "order": 40,
-  "wordCount": 18,
+  "wordCount": 20,
   "titleAr": "الوحدة 40: كلمات حرف T - الجزء 2",
   "description": "Master essential A2 vocabulary starting with the letter T.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف T.",
@@ -101,6 +101,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_towards",
+      "lessonId": "lsn_a2_t_2",
+      "en": "towards",
+      "ar": "تجاه / نحو",
+      "translation": "تجاه / نحو",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He walked towards the city centre.",
+          "ar": "مشى تجاه وسط المدينة."
+        }
+      ],
+      "ipa": "/təˈwɔːdz/"
     },
     {
       "id": "w_a2_towel",
@@ -321,6 +344,29 @@
       ],
       "confidence": "high",
       "ipa": "/ˈtɹæv.l̩.ɚ/"
+    },
+    {
+      "id": "w_a2_traveller",
+      "lessonId": "lsn_a2_t_2",
+      "en": "traveller",
+      "ar": "مسافر / رحالة",
+      "translation": "مسافر / رحالة",
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The hotel provides maps for travellers.",
+          "ar": "يوفر الفندق خرائط للمسافرين."
+        }
+      ],
+      "ipa": "/ˈtrævələ(r)/"
     },
     {
       "id": "w_a2_trouble",

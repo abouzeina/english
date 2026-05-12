@@ -1,11 +1,11 @@
 {
   "id": "lsn_b1_h",
   "levelId": "lvl_b1",
-  "title": "Unit 16: H Words",
+  "title": "Unit 18: H Words",
   "slug": "h-words",
-  "order": 16,
-  "wordCount": 20,
-  "titleAr": "الوحدة 16: كلمات حرف H",
+  "order": 18,
+  "wordCount": 24,
+  "titleAr": "الوحدة 18: كلمات حرف H",
   "description": "Master essential B1 vocabulary starting with the letter H.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف H.",
   "words": [
@@ -120,6 +120,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_headline",
+      "lessonId": "lsn_b1_h",
+      "en": "headline",
+      "ar": "عنوان رئيسي (في صحيفة)",
+      "translation": "عنوان رئيسي (في صحيفة)",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I read the headlines in the morning paper.",
+          "ar": "قرأت العناوين الرئيسية في صحيفة الصباح."
+        }
+      ],
+      "ipa": "/ˈhedlaɪn/"
+    },
+    {
       "id": "w_b1_headlines",
       "en": "headlines",
       "ar": "عناوين رئيسية",
@@ -208,6 +231,29 @@
       "ipa": "/ˈheliˌkɔptə(ɹ)/"
     },
     {
+      "id": "w_b1_highlight",
+      "lessonId": "lsn_b1_h",
+      "en": "highlight",
+      "ar": "يسلط الضوء على / أبرز حدث",
+      "translation": "يسلط الضوء على / أبرز حدث",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The report highlights the main issues.",
+          "ar": "يسلط التقرير الضوء على القضايا الرئيسية."
+        }
+      ],
+      "ipa": "/ˈhaɪlaɪt/"
+    },
+    {
       "id": "w_b1_highlighted",
       "en": "highlighted",
       "ar": "أبرز / سلط الضوء",
@@ -272,6 +318,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_hire",
+      "lessonId": "lsn_b1_h",
+      "en": "hire",
+      "ar": "يستأجر / يوظف",
+      "translation": "يستأجر / يوظف",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "We decided to hire a car for our trip.",
+          "ar": "قررنا استئجار سيارة لرحلتنا."
+        }
+      ],
+      "ipa": "/ˈhaɪə(r)/"
     },
     {
       "id": "w_b1_historic",
@@ -404,6 +473,29 @@
       ],
       "confidence": "high",
       "ipa": "/həʊst/"
+    },
+    {
+      "id": "w_b1_hunt",
+      "lessonId": "lsn_b1_h",
+      "en": "hunt",
+      "ar": "يصطاد / يبحث",
+      "translation": "يصطاد / يبحث",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Lions hunt other animals for food.",
+          "ar": "تصطاد الأسود حيوانات أخرى من أجل الغذاء."
+        }
+      ],
+      "ipa": "/hʌnt/"
     },
     {
       "id": "w_b1_hurricane",

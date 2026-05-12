@@ -1,11 +1,11 @@
 {
   "id": "lsn_b2_d_1",
   "levelId": "lvl_b2",
-  "title": "Unit 13: D Words - Part 1",
+  "title": "Unit 14: D Words - Part 1",
   "slug": "d-words-1",
-  "order": 13,
-  "wordCount": 24,
-  "titleAr": "الوحدة 13: كلمات حرف D - الجزء 1",
+  "order": 14,
+  "wordCount": 25,
+  "titleAr": "الوحدة 14: كلمات حرف D - الجزء 1",
   "description": "Master essential B2 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف D.",
   "words": [
@@ -30,6 +30,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈdɛəɹi/"
+    },
+    {
+      "id": "w_b2_dare",
+      "lessonId": "lsn_b2_d_1",
+      "en": "dare",
+      "ar": "يجرؤ / يتجرأ",
+      "translation": "يجرؤ / يتجرأ",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He didn't dare to tell her the truth.",
+          "ar": "لم يجرؤ على إخبارها بالحقيقة."
+        }
+      ],
+      "ipa": "/deə(r)/"
     },
     {
       "id": "w_b2_dares",
@@ -186,6 +209,29 @@
       "ipa": "/ˈdiːlə(ɹ)/"
     },
     {
+      "id": "w_b2_debate",
+      "lessonId": "lsn_b2_d_1",
+      "en": "debate",
+      "ar": "مناظرة / نقاش",
+      "translation": "مناظرة / نقاش",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There has been much debate on this issue.",
+          "ar": "كان هناك الكثيرُ من الجدلِ حولَ هذه القضية."
+        }
+      ],
+      "ipa": "/dɪˈbeɪt/"
+    },
+    {
       "id": "w_b2_debates",
       "en": "debates",
       "ar": "مناظرات / يتناظران",
@@ -210,6 +256,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_debt",
+      "lessonId": "lsn_b2_d_1",
+      "en": "debt",
+      "ar": "دين / ديون",
+      "translation": "دين / ديون",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company is struggling with huge debts.",
+          "ar": "تكافحُ الشركةُ مع ديونٍ ضخمة."
+        }
+      ],
+      "ipa": "/det/"
     },
     {
       "id": "w_b2_debts",
@@ -278,6 +347,29 @@
       "ipa": "/dɛk/"
     },
     {
+      "id": "w_b2_declare",
+      "lessonId": "lsn_b2_d_1",
+      "en": "declare",
+      "ar": "يعلن / يصرح",
+      "translation": "يعلن / يصرح",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The country declared independence in 1960.",
+          "ar": "أعلنت الدولةُ استقلالها في عام ألف وتسعمائة وستين."
+        }
+      ],
+      "ipa": "/dɪˈkleə(r)/"
+    },
+    {
       "id": "w_b2_declared",
       "en": "declared",
       "ar": "أعلنت",
@@ -342,6 +434,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_decoration",
+      "lessonId": "lsn_b2_d_1",
+      "en": "decoration",
+      "ar": "زينة / ديكور",
+      "translation": "زينة / ديكور",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The house was full of Christmas decorations.",
+          "ar": "كان المنزلُ مليئاً بزينةِ عيدِ الميلاد."
+        }
+      ],
+      "ipa": "/ˌdekəˈreɪʃn/"
     },
     {
       "id": "w_b2_decorations",
@@ -450,94 +565,6 @@
         {
           "en": "I don't need anyone to defend me.",
           "ar": "لا أحتاج لمن يدافع عني."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_defender",
-      "en": "defender",
-      "ar": "مدافع",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I will play as a defender in tomorrow's match.",
-          "ar": "سألعب كمدافع في مباراة الغد."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_defense",
-      "en": "defense",
-      "ar": "دفاع",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "He claims that he killed him in self-defense.",
-          "ar": "يدعي أنه قتله دفاعًا عن النفس."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_delay",
-      "en": "delay",
-      "ar": "تأخير",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "We apologize for the delay in our program today.",
-          "ar": "نعتذر عن التأخير في برنامجنا اليوم."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_delayed",
-      "en": "delayed",
-      "ar": "تأخرت",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_d_1",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The flight number 503 was delayed.",
-          "ar": "الرحلة رقم 503 قد تأخرت."
         }
       ],
       "type": "word",

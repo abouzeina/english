@@ -1,14 +1,36 @@
 {
   "id": "lsn_a1_o_2",
   "levelId": "lvl_a1",
-  "title": "Unit 30: O Words - Part 2",
+  "title": "Unit 32: O Words - Part 2",
   "slug": "o-words-2",
-  "order": 30,
-  "wordCount": 13,
-  "titleAr": "الوحدة 30: كلمات حرف O - الجزء 2",
+  "order": 32,
+  "wordCount": 14,
+  "titleAr": "الوحدة 32: كلمات حرف O - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter O.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف O.",
   "words": [
+    {
+      "id": "w_a1_online",
+      "lessonId": "lsn_a1_o_2",
+      "en": "online",
+      "translation": "عبر الإنترنت",
+      "ar": "عبر الإنترنت",
+      "type": "word",
+      "examples": [
+        {
+          "en": "She works online from home.",
+          "ar": "إنها تعمل عبر الإنترنت من المنزل."
+        }
+      ],
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "core"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɒnˈlaɪn/"
+    },
     {
       "id": "w_a1_only",
       "lessonId": "lsn_a1_o_2",

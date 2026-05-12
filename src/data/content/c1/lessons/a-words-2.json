@@ -4,7 +4,7 @@
   "title": "Unit 2: A Words - Part 2",
   "slug": "a-words-2",
   "order": 2,
-  "wordCount": 21,
+  "wordCount": 23,
   "titleAr": "الوحدة 2: كلمات حرف A - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter A.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف A.",
@@ -54,6 +54,29 @@
       "ipa": "/ˈeɪ.kə/"
     },
     {
+      "id": "w_c1_activate",
+      "lessonId": "lsn_c1_a_2",
+      "en": "activate",
+      "ar": "ينشط / يفعل",
+      "translation": "ينشط / يفعل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You need a code to activate the software.",
+          "ar": "أنت بحاجة لرمز لتفعيل البرنامج."
+        }
+      ],
+      "ipa": "/ˈæktɪveɪt/"
+    },
+    {
       "id": "w_c1_activation",
       "en": "activation",
       "ar": "تفعيل / تنشيط",
@@ -74,6 +97,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/æktɪˈveɪʃən/"
+    },
+    {
+      "id": "w_c1_activism",
+      "lessonId": "lsn_c1_a_2",
+      "en": "activism",
+      "ar": "نشاط / نضال",
+      "translation": "نشاط / نضال",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is known for her political activism.",
+          "ar": "هي معروفة بنشاطها السياسي."
+        }
+      ],
+      "ipa": "/ˈæktɪvɪzəm/"
     },
     {
       "id": "w_c1_activist",
@@ -184,6 +230,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/əˈdʒeɪ.sənt/"
+    },
+    {
+      "id": "w_c1_adjust",
+      "lessonId": "lsn_c1_a_2",
+      "en": "adjust",
+      "ar": "يضبط / يعدل",
+      "translation": "يضبط / يعدل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "You can adjust the height of the chair.",
+          "ar": "يمكنك ضبط ارتفاع الكرسي."
+        }
+      ],
+      "ipa": "/əˈdʒʌst/"
     },
     {
       "id": "w_c1_adjustment",
@@ -428,48 +497,27 @@
       "ipa": "/əˈfɛkʃən/"
     },
     {
-      "id": "w_c1_aftermath",
-      "en": "aftermath",
-      "ar": "ما بعد الكارثة / عاقبة",
+      "id": "w_c1_affiliate",
       "lessonId": "lsn_c1_a_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "واجهت المدينة تعافياً طويلاً في أعقاب الحرب.",
-          "ar": "Many people lost their jobs in the aftermath of the crisis."
-        }
-      ],
+      "en": "affiliate",
+      "ar": "ينتسب إلى / فرع",
+      "translation": "ينتسب إلى / فرع",
       "type": "word",
       "difficulty": "C1",
       "tags": [
         "C1",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
       "needsTranslationReview": false,
-      "ipa": "/ˈæf.təˌmæθ/"
-    },
-    {
-      "id": "w_c1_aggression",
-      "en": "aggression",
-      "ar": "عدوان",
-      "lessonId": "lsn_c1_a_2",
-      "levelId": "lvl_c1",
       "examples": [
         {
-          "en": "أظهر الكلب علامات عدوان تجاه الغرباء.",
-          "ar": "The government condemned the act of foreign aggression."
+          "en": "The college is affiliated with the university.",
+          "ar": "الكلية منتسبة للجامعة."
         }
       ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/əˈɡɹɛʃən/"
+      "ipa": "/əˈfɪlieɪt/"
     }
   ]
 }

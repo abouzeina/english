@@ -1,0 +1,531 @@
+{
+  "id": "lsn_b2_e_3",
+  "levelId": "lvl_b2",
+  "title": "Unit 21: E Words - Part 3",
+  "slug": "e-words-3",
+  "order": 21,
+  "wordCount": 23,
+  "titleAr": "الوحدة 21: كلمات حرف E - الجزء 3",
+  "description": "Master essential B2 vocabulary starting with the letter E.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف E.",
+  "words": [
+    {
+      "id": "w_b2_estimate",
+      "en": "estimate",
+      "ar": "تقدير",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I can't give you an accurate estimate of the cost.",
+          "ar": "لا أستطيع أن أعطيك تقديرًا دقيقًا للتكلفة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_estimated",
+      "en": "estimated",
+      "ar": "قدروا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They estimated the damage at five thousand dollars.",
+          "ar": "قدروا الأضرار بخمسة آلاف دولار."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ethic",
+      "lessonId": "lsn_b2_e_3",
+      "en": "ethic",
+      "ar": "أخلاق / مبدأ أخلاقي",
+      "translation": "أخلاق / مبدأ أخلاقي",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "They have a strong work ethic in this company.",
+          "ar": "لديهم أخلاقيات عمل قوية في هذه الشركة."
+        }
+      ],
+      "ipa": "/ˈeθɪk/"
+    },
+    {
+      "id": "w_b2_ethical",
+      "en": "ethical",
+      "ar": "أخلاقية",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "This book discusses some ethical issues.",
+          "ar": "يناقش هذا الكتاب بعض القضايا الأخلاقية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ethics",
+      "en": "ethics",
+      "ar": "مبادئ / أخلاقيات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "My ethics prevent me from accepting your offer.",
+          "ar": "مبادئي تمنعني من قبول عرضك."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_ethnic",
+      "en": "ethnic",
+      "ar": "عرقي",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We have an amazing ethnic diversity in our country.",
+          "ar": "لدينا تنوع عرقي مدهش في بلدنا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evaluate",
+      "lessonId": "lsn_b2_e_3",
+      "en": "evaluate",
+      "ar": "يقيم",
+      "translation": "يقيم",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The teacher will evaluate your progress next week.",
+          "ar": "سيقيم المعلم تقدمك الأسبوع القادم."
+        }
+      ],
+      "ipa": "/ɪˈvæljueɪt/"
+    },
+    {
+      "id": "w_b2_evaluates",
+      "en": "evaluates",
+      "ar": "يقوم بتقييم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We are a team that evaluates coffee quality.",
+          "ar": "نحن فريق يقوم بتقييم جودة القهوة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evaluation",
+      "en": "evaluation",
+      "ar": "تقييم",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Did you finish the evaluation of all candidates?",
+          "ar": "هل انتهيتم من تقييم جميع المرشحين ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evident",
+      "en": "evident",
+      "ar": "جليا / واضحا",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It has become evident for us that he was innocent.",
+          "ar": "لقد أصبح جليا لدينا أنه كان بريءا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evil",
+      "en": "evil",
+      "ar": "شرير / شر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "An evil smile appeared on his face.",
+          "ar": "ظهرت ابتسامة شريرة على وجهه."
+        },
+        {
+          "en": "The conflict between good and evil continues.",
+          "ar": "ويستمر الصراع بين الخير والشر."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evolution",
+      "en": "evolution",
+      "ar": "التطور",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We studied Darwin's theory of evolution in college.",
+          "ar": "لقد درسنا نظرية التطور لدارون في الكلية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_evolve",
+      "lessonId": "lsn_b2_e_3",
+      "en": "evolve",
+      "ar": "يتطور",
+      "translation": "يتطور",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The company has evolved into a global leader.",
+          "ar": "تطورت الشركة لتصبح رائدة عالمية."
+        }
+      ],
+      "ipa": "/ɪˈvɒlv/"
+    },
+    {
+      "id": "w_b2_evolved",
+      "en": "evolved",
+      "ar": "تطورت",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Online games evolved over the past decade.",
+          "ar": "تطورت ألعاب الإنترنت على مدى العقد الماضي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_examination",
+      "en": "examination",
+      "ar": "اختبار",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "She failed her examination in biology.",
+          "ar": "لقد رسبت في اختبارها في الأحياء."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_exceed",
+      "en": "exceed",
+      "ar": "تتجاوز",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The cost of our services will not exceed 2000 Riyals.",
+          "ar": "تكلفة خدماتنا لن تتجاوز 2000 ريال."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_exception",
+      "lessonId": "lsn_b2_e_3",
+      "en": "exception",
+      "ar": "استثناء",
+      "translation": "استثناء",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Everyone must follow the rules, with no exceptions.",
+          "ar": "يجب على الجميع اتباع القواعد، دون استثناءات."
+        }
+      ],
+      "ipa": "/ɪkˈsepʃn/"
+    },
+    {
+      "id": "w_b2_exceptions",
+      "en": "exceptions",
+      "ar": "استثناءات",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Are there any exceptions to that policy ?",
+          "ar": "هل هناك أي استثناءات لهذه السياسة ؟"
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_excessive",
+      "en": "excessive",
+      "ar": "المفرطة",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "They reported that the police had used excessive force.",
+          "ar": "أفادوا أن الشرطة استخدمت القوة المفرطة."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_exclude",
+      "en": "exclude",
+      "ar": "تستبعد",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "You should exclude fat from your diet.",
+          "ar": "يجب عليك أن تستبعد الدهون من نظامك الغذائي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɪksˈkluːd/"
+    },
+    {
+      "id": "w_b2_excuse",
+      "en": "excuse",
+      "ar": "يعذر / عذر",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Excuse his behavior, he doesn't know you.",
+          "ar": "اعذره على سلوكه فهو لا يعرفك."
+        },
+        {
+          "en": "You have no excuse for what you did.",
+          "ar": "ليس لديك أي عذر لما فعلته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_executive",
+      "en": "executive",
+      "ar": "تنفيذي",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He is an executive producer in a media company.",
+          "ar": "هو منتج تنفيذي في شركة إعلامية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ɛɡˈzɛkjʊtɪv/"
+    },
+    {
+      "id": "w_b2_executives",
+      "en": "executives",
+      "ar": "المديرين التنفيذيين",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_e_3",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I watched interviews with some well-known executives.",
+          "ar": "لقد شاهدت مقابلات مع بعض المديرين التنفيذيين المعروفين."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    }
+  ]
+}

@@ -1,80 +1,14 @@
 {
   "id": "lsn_c1_f_2",
   "levelId": "lvl_c1",
-  "title": "Unit 13: F Words - Part 2",
+  "title": "Unit 27: F Words - Part 2",
   "slug": "f-words-2",
-  "order": 13,
-  "wordCount": 18,
-  "titleAr": "الوحدة 13: كلمات حرف F - الجزء 2",
+  "order": 27,
+  "wordCount": 20,
+  "titleAr": "الوحدة 27: كلمات حرف F - الجزء 2",
   "description": "Master essential C1 vocabulary starting with the letter F.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف F.",
   "words": [
-    {
-      "id": "w_c1_flee",
-      "en": "flee",
-      "ar": "يهرب / يفر",
-      "lessonId": "lsn_c1_f_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "أُجبر آلاف الأشخاص على الفرار من منطقة الحرب",
-          "ar": "The suspect managed to flee before the police arrived."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/fliː/"
-    },
-    {
-      "id": "w_c1_fleet",
-      "en": "fleet",
-      "ar": "أسطول",
-      "lessonId": "lsn_c1_f_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تملك الشركة أسطولاً كبيراً من شاحنات التوصيل",
-          "ar": "The naval fleet was sent to protect the international waters."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/fliːt/"
-    },
-    {
-      "id": "w_c1_flesh",
-      "en": "flesh",
-      "ar": "لحم / جسد",
-      "lessonId": "lsn_c1_f_2",
-      "levelId": "lvl_c1",
-      "examples": [
-        {
-          "en": "تمكنت مخالب النمر من تمزيق لحم الحيوان",
-          "ar": "She wanted to see her favorite singer in the flesh."
-        }
-      ],
-      "type": "word",
-      "difficulty": "C1",
-      "tags": [
-        "C1",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false,
-      "ipa": "/flɛʃ/"
-    },
     {
       "id": "w_c1_flexibility",
       "en": "flexibility",
@@ -162,6 +96,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈfʊtɪd͡ʒ/"
+    },
+    {
+      "id": "w_c1_foreigner",
+      "lessonId": "lsn_c1_f_2",
+      "en": "foreigner",
+      "ar": "أجنبي",
+      "translation": "أجنبي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The city attracts many foreigners every year.",
+          "ar": "تجذب المدينة العديد من الأجانب كل عام."
+        }
+      ],
+      "ipa": "/ˈfɒrənə(r)/"
     },
     {
       "id": "w_c1_forge",
@@ -274,6 +231,29 @@
       "ipa": "/fɔːθˈkʌmɪŋ/"
     },
     {
+      "id": "w_c1_foster",
+      "lessonId": "lsn_c1_f_2",
+      "en": "foster",
+      "ar": "يرعى / يعزز / يربي (لفترة مؤقتة)",
+      "translation": "يرعى / يعزز / يربي (لفترة مؤقتة)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The program aims to foster cooperation between schools.",
+          "ar": "يهدف البرنامج لتعزيز التعاون بين المدارس."
+        }
+      ],
+      "ipa": "/ˈfɒstə(r)/"
+    },
+    {
       "id": "w_c1_fragile",
       "en": "fragile",
       "ar": "هش / رقيق",
@@ -338,6 +318,75 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈfɹæŋkli/"
+    },
+    {
+      "id": "w_c1_frustrated",
+      "lessonId": "lsn_c1_f_2",
+      "en": "frustrated",
+      "ar": "محبط / مقهور",
+      "translation": "محبط / مقهور",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He felt frustrated because he couldn't solve the problem.",
+          "ar": "شعر بالإحباط لأنه لم يستطع حل المشكلة."
+        }
+      ],
+      "ipa": "/frʌˈstreɪtɪd/"
+    },
+    {
+      "id": "w_c1_frustrating",
+      "lessonId": "lsn_c1_f_2",
+      "en": "frustrating",
+      "ar": "محبط / مثير للإحباط",
+      "translation": "محبط / مثير للإحباط",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "It's frustrating to wait for so long.",
+          "ar": "إنه لأمر محبط الانتظار لفترة طويلة."
+        }
+      ],
+      "ipa": "/frʌˈstreɪtɪŋ/"
+    },
+    {
+      "id": "w_c1_frustration",
+      "lessonId": "lsn_c1_f_2",
+      "en": "frustration",
+      "ar": "إحباط",
+      "translation": "إحباط",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She expressed her frustration with the lack of progress.",
+          "ar": "أعربت عن إحباطها من قلة التقدم."
+        }
+      ],
+      "ipa": "/frʌˈstreɪʃn/"
     },
     {
       "id": "w_c1_functional",

@@ -1,58 +1,14 @@
 {
   "id": "lsn_b1_d_2",
   "levelId": "lvl_b1",
-  "title": "Unit 10: D Words - Part 2",
+  "title": "Unit 11: D Words - Part 2",
   "slug": "d-words-2",
-  "order": 10,
-  "wordCount": 17,
-  "titleAr": "الوحدة 10: كلمات حرف D - الجزء 2",
+  "order": 11,
+  "wordCount": 21,
+  "titleAr": "الوحدة 11: كلمات حرف D - الجزء 2",
   "description": "Master essential B1 vocabulary starting with the letter D.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B1 مع كلمات تبدأ بحرف D.",
   "words": [
-    {
-      "id": "w_b1_directing",
-      "en": "directing",
-      "ar": "يوجه",
-      "pronunciation": "/dı'rekt/",
-      "lessonId": "lsn_b1_d_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The police officer is directing traffic.",
-          "ar": "ضابط الشرطة يوجه حركة المرور."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
-      "id": "w_b1_directly",
-      "en": "directly",
-      "ar": "مباشرة",
-      "pronunciation": "/direkt.li/",
-      "lessonId": "lsn_b1_d_2",
-      "levelId": "lvl_b1",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "The road leads directly to the beach.",
-          "ar": "الطريق يؤدي مباشرة إلى الشاطئ."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B1",
-      "tags": [
-        "B1",
-        "core"
-      ],
-      "confidence": "high"
-    },
     {
       "id": "w_b1_dirt",
       "en": "dirt",
@@ -74,6 +30,29 @@
       ],
       "confidence": "high",
       "ipa": "/dɜːt/"
+    },
+    {
+      "id": "w_b1_disadvantage",
+      "lessonId": "lsn_b1_d_2",
+      "en": "disadvantage",
+      "ar": "عيب / نقطة ضعف",
+      "translation": "عيب / نقطة ضعف",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "One disadvantage of living in the city is the noise.",
+          "ar": "أحد عيوب العيش في المدينة هو الضجيج."
+        }
+      ],
+      "ipa": "/ˌdɪsədˈvɑːntɪdʒ/"
     },
     {
       "id": "w_b1_disadvantages",
@@ -98,6 +77,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_disappointed",
+      "lessonId": "lsn_b1_d_2",
+      "en": "disappointed",
+      "ar": "محبط / خائب الأمل",
+      "translation": "محبط / خائب الأمل",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was disappointed that he didn't get the job.",
+          "ar": "كان محبطاً لأنه لم يحصل على الوظيفة."
+        }
+      ],
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/"
+    },
+    {
       "id": "w_b1_disappointing",
       "en": "disappointing",
       "ar": "مخيب للآمال",
@@ -118,6 +120,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_discount",
+      "lessonId": "lsn_b1_d_2",
+      "en": "discount",
+      "ar": "خصم / تخفيض",
+      "translation": "خصم / تخفيض",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Students get a 10% discount on all books.",
+          "ar": "يحصل الطلاب على خصم 10% على جميع الكتب."
+        }
+      ],
+      "ipa": "/ˈdɪskaʊnt/"
     },
     {
       "id": "w_b1_dislike",
@@ -212,6 +237,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_documentary",
+      "lessonId": "lsn_b1_d_2",
+      "en": "documentary",
+      "ar": "فيلم وثائقي",
+      "translation": "فيلم وثائقي",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I watched an interesting documentary about nature.",
+          "ar": "شاهدت فيلماً وثائقياً ممتعاً عن الطبيعة."
+        }
+      ],
+      "ipa": "/ˌdɒkjuˈmentri/"
+    },
+    {
       "id": "w_b1_donate",
       "en": "donate",
       "ar": "يتبرع",
@@ -282,6 +330,29 @@
       "confidence": "high"
     },
     {
+      "id": "w_b1_drum",
+      "lessonId": "lsn_b1_d_2",
+      "en": "drum",
+      "ar": "طبل / طبلة",
+      "translation": "طبل / طبلة",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He plays the drums in a rock band.",
+          "ar": "يعزف على الطبول في فرقة روك."
+        }
+      ],
+      "ipa": "/drʌm/"
+    },
+    {
       "id": "w_b1_drums",
       "en": "drums",
       "ar": "طبول",
@@ -324,6 +395,29 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_b1_due",
+      "lessonId": "lsn_b1_d_2",
+      "en": "due",
+      "ar": "مستحق / متوقع",
+      "translation": "مستحق / متوقع",
+      "type": "word",
+      "difficulty": "B1",
+      "tags": [
+        "B1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The payment is due next Friday.",
+          "ar": "الدفع مستحق يوم الجمعة القادم."
+        }
+      ],
+      "ipa": "/djuː/"
     },
     {
       "id": "w_b1_due_to",

@@ -1,14 +1,37 @@
 {
   "id": "lsn_a1_n_2",
   "levelId": "lvl_a1",
-  "title": "Unit 28: N Words - Part 2",
+  "title": "Unit 30: N Words - Part 2",
   "slug": "n-words-2",
-  "order": 28,
-  "wordCount": 13,
-  "titleAr": "الوحدة 28: كلمات حرف N - الجزء 2",
+  "order": 30,
+  "wordCount": 15,
+  "titleAr": "الوحدة 30: كلمات حرف N - الجزء 2",
   "description": "Master essential A1 vocabulary starting with the letter N.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A1 مع كلمات تبدأ بحرف N.",
   "words": [
+    {
+      "id": "w_a1_nine",
+      "lessonId": "lsn_a1_n_2",
+      "en": "nine",
+      "ar": "تسعة",
+      "translation": "تسعة",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There are nine players in the team.",
+          "ar": "يوجد تسعة لاعبين في الفريق."
+        }
+      ],
+      "ipa": "/naɪn/"
+    },
     {
       "id": "w_a1_nineteen",
       "lessonId": "lsn_a1_n_2",
@@ -100,6 +123,29 @@
       "confidence": "high",
       "needsTranslationReview": false,
       "ipa": "/ˈnəʊ wʌn/"
+    },
+    {
+      "id": "w_a1_nobody",
+      "lessonId": "lsn_a1_n_2",
+      "en": "nobody",
+      "ar": "لا أحد",
+      "translation": "لا أحد",
+      "type": "word",
+      "difficulty": "A1",
+      "tags": [
+        "A1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Nobody was at home when I called.",
+          "ar": "لم يكن أحد في المنزل عندما اتصلت."
+        }
+      ],
+      "ipa": "/ˈnəʊbədi/"
     },
     {
       "id": "w_a1_north",

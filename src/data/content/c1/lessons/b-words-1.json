@@ -1,0 +1,473 @@
+{
+  "id": "lsn_c1_b_1",
+  "levelId": "lvl_c1",
+  "title": "Unit 7: B Words - Part 1",
+  "slug": "b-words-1",
+  "order": 7,
+  "wordCount": 20,
+  "titleAr": "الوحدة 7: كلمات حرف B - الجزء 1",
+  "description": "Master essential C1 vocabulary starting with the letter B.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف B.",
+  "words": [
+    {
+      "id": "w_c1_backdrop",
+      "lessonId": "lsn_c1_b_1",
+      "en": "backdrop",
+      "ar": "خلفية / مشهد خلفي",
+      "translation": "خلفية / مشهد خلفي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The mountains provided a beautiful backdrop for the photo.",
+          "ar": "وفرت الجبال خلفية جميلة للصورة."
+        }
+      ],
+      "ipa": "/ˈbækdrɒp/"
+    },
+    {
+      "id": "w_c1_backing",
+      "lessonId": "lsn_c1_b_1",
+      "en": "backing",
+      "ar": "دعم / مساندة / تأييد",
+      "translation": "دعم / مساندة / تأييد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The proposal has the backing of the majority.",
+          "ar": "يحظى الاقتراح بدعم الأغلبية."
+        }
+      ],
+      "ipa": "/ˈbækɪŋ/"
+    },
+    {
+      "id": "w_c1_backup",
+      "lessonId": "lsn_c1_b_1",
+      "en": "backup",
+      "ar": "نسخة احتياطية / دعم",
+      "translation": "نسخة احتياطية / دعم",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Make sure you have a backup of all your files.",
+          "ar": "تأكد من أن لديك نسخة احتياطية لجميع ملفاتك."
+        }
+      ],
+      "ipa": "/ˈbækʌp/"
+    },
+    {
+      "id": "w_c1_badge",
+      "lessonId": "lsn_c1_b_1",
+      "en": "badge",
+      "ar": "شارة / علامة",
+      "translation": "شارة / علامة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The police officer showed his badge.",
+          "ar": "أظهر ضابط الشرطة شارته."
+        }
+      ],
+      "ipa": "/bædʒ/"
+    },
+    {
+      "id": "w_c1_bail",
+      "lessonId": "lsn_c1_b_1",
+      "en": "bail",
+      "ar": "كفالة / يخرج بكفالة",
+      "translation": "كفالة / يخرج بكفالة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He was released on bail of $10,000.",
+          "ar": "أُطلق سراحه بكفالة قدرها عشرة آلاف دولار."
+        }
+      ],
+      "ipa": "/beɪl/"
+    },
+    {
+      "id": "w_c1_ballot",
+      "lessonId": "lsn_c1_b_1",
+      "en": "ballot",
+      "ar": "اقتراع / تصويت",
+      "translation": "اقتراع / تصويت",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The election was conducted by secret ballot.",
+          "ar": "أُجريت الانتخابات عن طريق الاقتراع السري."
+        }
+      ],
+      "ipa": "/ˈbælət/"
+    },
+    {
+      "id": "w_c1_banner",
+      "lessonId": "lsn_c1_b_1",
+      "en": "banner",
+      "ar": "لافتة / شعار",
+      "translation": "لافتة / شعار",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The protesters carried banners with slogans.",
+          "ar": "حمل المتظاهرون لافتات عليها شعارات."
+        }
+      ],
+      "ipa": "/ˈbænə(r)/"
+    },
+    {
+      "id": "w_c1_bare",
+      "lessonId": "lsn_c1_b_1",
+      "en": "bare",
+      "ar": "عارٍ / مكشوف / مجرد",
+      "translation": "عارٍ / مكشوف / مجرد",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He walked across the beach in bare feet.",
+          "ar": "مشى عبر الشاطئ بقدمين عاريتين."
+        }
+      ],
+      "ipa": "/beə(r)/"
+    },
+    {
+      "id": "w_c1_barely",
+      "lessonId": "lsn_c1_b_1",
+      "en": "barely",
+      "ar": "بالكاد / بشق الأنفس",
+      "translation": "بالكاد / بشق الأنفس",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I could barely hear what she was saying.",
+          "ar": "بالكاد استطعت سماع ما كانت تقوله."
+        }
+      ],
+      "ipa": "/ˈbeəli/"
+    },
+    {
+      "id": "w_c1_barrel",
+      "lessonId": "lsn_c1_b_1",
+      "en": "barrel",
+      "ar": "برميل",
+      "translation": "برميل",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Oil prices are measured by the barrel.",
+          "ar": "تُقاس أسعار النفط بالبرميل."
+        }
+      ],
+      "ipa": "/ˈbærəl/"
+    },
+    {
+      "id": "w_c1_barrier",
+      "lessonId": "lsn_c1_b_1",
+      "en": "barrier",
+      "ar": "حاجز / عائق",
+      "translation": "حاجز / عائق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Language can be a barrier to communication.",
+          "ar": "اللغة يمكن أن تكون عائقاً أمام التواصل."
+        }
+      ],
+      "ipa": "/ˈbæriə(r)/"
+    },
+    {
+      "id": "w_c1_basement",
+      "lessonId": "lsn_c1_b_1",
+      "en": "basement",
+      "ar": "قبو / طابق سفلي",
+      "translation": "قبو / طابق سفلي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The laundry room is in the basement.",
+          "ar": "غرفة الغسيل موجودة في القبو."
+        }
+      ],
+      "ipa": "/ˈbeɪsmənt/"
+    },
+    {
+      "id": "w_c1_basket",
+      "lessonId": "lsn_c1_b_1",
+      "en": "basket",
+      "ar": "سلة",
+      "translation": "سلة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She put the apples in a basket.",
+          "ar": "وضعت التفاح في سلة."
+        }
+      ],
+      "ipa": "/ˈbɑːskɪt/"
+    },
+    {
+      "id": "w_c1_bass",
+      "lessonId": "lsn_c1_b_1",
+      "en": "bass",
+      "ar": "صوت جهير / سمك القاروص / آلة الباص",
+      "translation": "صوت جهير / سمك القاروص / آلة الباص",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He plays the bass guitar in a band.",
+          "ar": "يعزف على غيتار الباص في فرقة."
+        }
+      ],
+      "ipa": "/beɪs/"
+    },
+    {
+      "id": "w_c1_bat",
+      "lessonId": "lsn_c1_b_1",
+      "en": "bat",
+      "ar": "مضرب / خفاش",
+      "translation": "مضرب / خفاش",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He hit the ball with a wooden bat.",
+          "ar": "ضرب الكرة بمضرب خشبي."
+        }
+      ],
+      "ipa": "/bæt/"
+    },
+    {
+      "id": "w_c1_battlefield",
+      "lessonId": "lsn_c1_b_1",
+      "en": "battlefield",
+      "ar": "ميدان المعركة",
+      "translation": "ميدان المعركة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The soldiers were buried on the battlefield.",
+          "ar": "دُفن الجنود في ميدان المعركة."
+        }
+      ],
+      "ipa": "/ˈbætlfiːld/"
+    },
+    {
+      "id": "w_c1_bay",
+      "lessonId": "lsn_c1_b_1",
+      "en": "bay",
+      "ar": "خليج",
+      "translation": "خليج",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The hotel overlooks a beautiful bay.",
+          "ar": "يطل الفندق على خليج جميل."
+        }
+      ],
+      "ipa": "/beɪ/"
+    },
+    {
+      "id": "w_c1_beam",
+      "lessonId": "lsn_c1_b_1",
+      "en": "beam",
+      "ar": "شعاع / عارضة",
+      "translation": "شعاع / عارضة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "A beam of light shone through the window.",
+          "ar": "سطع شعاع من الضوء عبر النافذة."
+        }
+      ],
+      "ipa": "/biːm/"
+    },
+    {
+      "id": "w_c1_beast",
+      "lessonId": "lsn_c1_b_1",
+      "en": "beast",
+      "ar": "وحش / دابة",
+      "translation": "وحش / دابة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The lion is known as the king of beasts.",
+          "ar": "يُعرف الأسد بملك الوحوش."
+        }
+      ],
+      "ipa": "/biːst/"
+    },
+    {
+      "id": "w_c1_behalf",
+      "lessonId": "lsn_c1_b_1",
+      "en": "behalf",
+      "ar": "نيابة عن / لصالح",
+      "translation": "نيابة عن / لصالح",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "I am writing on behalf of my client.",
+          "ar": "أنا أكتب نيابة عن موكلي."
+        }
+      ],
+      "ipa": "/bɪˈhɑːf/"
+    }
+  ]
+}

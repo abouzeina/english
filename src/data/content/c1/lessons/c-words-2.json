@@ -1,0 +1,588 @@
+{
+  "id": "lsn_c1_c_2",
+  "levelId": "lvl_c1",
+  "title": "Unit 12: C Words - Part 2",
+  "slug": "c-words-2",
+  "order": 12,
+  "wordCount": 25,
+  "titleAr": "الوحدة 12: كلمات حرف C - الجزء 2",
+  "description": "Master essential C1 vocabulary starting with the letter C.",
+  "descriptionAr": "طور حصيلتك اللغوية في المستوى C1 مع كلمات تبدأ بحرف C.",
+  "words": [
+    {
+      "id": "w_c1_certificate",
+      "lessonId": "lsn_c1_c_2",
+      "en": "certificate",
+      "ar": "شهادة / وثيقة",
+      "translation": "شهادة / وثيقة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She received a certificate for completing the course.",
+          "ar": "حصلت على شهادة لإتمام الدورة."
+        }
+      ],
+      "ipa": "/səˈtɪfɪkət/"
+    },
+    {
+      "id": "w_c1_challenging",
+      "lessonId": "lsn_c1_c_2",
+      "en": "challenging",
+      "ar": "صعب / مثير للتحدي",
+      "translation": "صعب / مثير للتحدي",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Climbing the mountain was a challenging task.",
+          "ar": "كان تسلق الجبل مهمة مثيرة للتحدي."
+        }
+      ],
+      "ipa": "/ˈtʃælɪndʒɪŋ/"
+    },
+    {
+      "id": "w_c1_chamber",
+      "lessonId": "lsn_c1_c_2",
+      "en": "chamber",
+      "ar": "غرفة / حجرة / قاعة",
+      "translation": "غرفة / حجرة / قاعة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The meeting was held in the council chamber.",
+          "ar": "عُقد الاجتماع في قاعة المجلس."
+        }
+      ],
+      "ipa": "/ˈtʃeɪmbə(r)/"
+    },
+    {
+      "id": "w_c1_championship",
+      "lessonId": "lsn_c1_c_2",
+      "en": "championship",
+      "ar": "بطولة",
+      "translation": "بطولة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He won the world championship last year.",
+          "ar": "فاز ببطولة العالم العام الماضي."
+        }
+      ],
+      "ipa": "/ˈtʃæmpiənʃɪp/"
+    },
+    {
+      "id": "w_c1_chaos",
+      "lessonId": "lsn_c1_c_2",
+      "en": "chaos",
+      "ar": "فوضى",
+      "translation": "فوضى",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The city was in chaos after the earthquake.",
+          "ar": "كانت المدينة في فوضى بعد الزلزال."
+        }
+      ],
+      "ipa": "/ˈkeɪɒs/"
+    },
+    {
+      "id": "w_c1_characterize",
+      "lessonId": "lsn_c1_c_2",
+      "en": "characterize",
+      "ar": "يميز / يصف",
+      "translation": "يميز / يصف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The period was characterized by rapid social change.",
+          "ar": "تميزت تلك الفترة بتغير اجتماعي سريع."
+        }
+      ],
+      "ipa": "/ˈkærəktəraɪz/"
+    },
+    {
+      "id": "w_c1_charm",
+      "lessonId": "lsn_c1_c_2",
+      "en": "charm",
+      "ar": "سحر / فتنة / تميمة",
+      "translation": "سحر / فتنة / تميمة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He has a lot of personal charm.",
+          "ar": "لديه الكثير من السحر الشخصي."
+        }
+      ],
+      "ipa": "/tʃɑːm/"
+    },
+    {
+      "id": "w_c1_charming",
+      "lessonId": "lsn_c1_c_2",
+      "en": "charming",
+      "ar": "ساحر / فتان",
+      "translation": "ساحر / فتان",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She is a very charming person.",
+          "ar": "هي شخصية ساحرة جداً."
+        }
+      ],
+      "ipa": "/ˈtʃɑːmɪŋ/"
+    },
+    {
+      "id": "w_c1_charter",
+      "lessonId": "lsn_c1_c_2",
+      "en": "charter",
+      "ar": "ميثاق / عهد / استئجار",
+      "translation": "ميثاق / عهد / استئجار",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The United Nations Charter defines the goals of the organization.",
+          "ar": "يحدد ميثاق الأمم المتحدة أهداف المنظمة."
+        }
+      ],
+      "ipa": "/ˈtʃɑːtə(r)/"
+    },
+    {
+      "id": "w_c1_chase",
+      "lessonId": "lsn_c1_c_2",
+      "en": "chase",
+      "ar": "يطارد / يلاحق",
+      "translation": "يطارد / يلاحق",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The dog chased the cat up the tree.",
+          "ar": "طارد الكلب القطة حتى أعلى الشجرة."
+        }
+      ],
+      "ipa": "/tʃeɪs/"
+    },
+    {
+      "id": "w_c1_cheek",
+      "lessonId": "lsn_c1_c_2",
+      "en": "cheek",
+      "ar": "خد / وجنة",
+      "translation": "خد / وجنة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He kissed her on the cheek.",
+          "ar": "قبلها على خدها."
+        }
+      ],
+      "ipa": "/tʃiːk/"
+    },
+    {
+      "id": "w_c1_cheer",
+      "lessonId": "lsn_c1_c_2",
+      "en": "cheer",
+      "ar": "يهتف / يشجع / ابتهاج",
+      "translation": "يهتف / يشجع / ابتهاج",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The crowd cheered as the team scored a goal.",
+          "ar": "هتف الجمهور عندما سجل الفريق هدفاً."
+        }
+      ],
+      "ipa": "/tʃɪə(r)/"
+    },
+    {
+      "id": "w_c1_choir",
+      "lessonId": "lsn_c1_c_2",
+      "en": "choir",
+      "ar": "جوقة / كورال",
+      "translation": "جوقة / كورال",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She sings in the school choir.",
+          "ar": "هي تغني في جوقة المدرسة."
+        }
+      ],
+      "ipa": "/ˈkwaɪə(r)/"
+    },
+    {
+      "id": "w_c1_chronic",
+      "lessonId": "lsn_c1_c_2",
+      "en": "chronic",
+      "ar": "مزمن / مستمر",
+      "translation": "مزمن / مستمر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He suffers from chronic back pain.",
+          "ar": "هو يعاني من آلام ظهر مزمنة."
+        }
+      ],
+      "ipa": "/ˈkrɒnɪk/"
+    },
+    {
+      "id": "w_c1_chunk",
+      "lessonId": "lsn_c1_c_2",
+      "en": "chunk",
+      "ar": "قطعة كبيرة / جزء كبير",
+      "translation": "قطعة كبيرة / جزء كبير",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "She cut the cheese into large chunks.",
+          "ar": "قطعت الجبن إلى قطع كبيرة."
+        }
+      ],
+      "ipa": "/tʃʌŋk/"
+    },
+    {
+      "id": "w_c1_circuit",
+      "lessonId": "lsn_c1_c_2",
+      "en": "circuit",
+      "ar": "دائرة كهربائية / جولة / حلبة",
+      "translation": "دائرة كهربائية / جولة / حلبة",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The electrical circuit is broken.",
+          "ar": "الدائرة الكهربائية مكسورة (مقطوعة)."
+        }
+      ],
+      "ipa": "/ˈsɜːkɪt/"
+    },
+    {
+      "id": "w_c1_circulate",
+      "lessonId": "lsn_c1_c_2",
+      "en": "circulate",
+      "ar": "يدور / يوزع / ينتشر",
+      "translation": "يدور / يوزع / ينتشر",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Blood circulates around the body.",
+          "ar": "يدور الدم في أنحاء الجسم."
+        }
+      ],
+      "ipa": "/ˈsɜːkjəleɪt/"
+    },
+    {
+      "id": "w_c1_circulation",
+      "lessonId": "lsn_c1_c_2",
+      "en": "circulation",
+      "ar": "دورة دموية / توزيع (صحف) / انتشار",
+      "translation": "دورة دموية / توزيع (صحف) / انتشار",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Exercise improves the circulation of blood.",
+          "ar": "التمارين تحسن الدورة الدموية."
+        }
+      ],
+      "ipa": "/ˌsɜːkjəˈleɪʃn/"
+    },
+    {
+      "id": "w_c1_citizenship",
+      "lessonId": "lsn_c1_c_2",
+      "en": "citizenship",
+      "ar": "مواطنة / جنسية",
+      "translation": "مواطنة / جنسية",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "He applied for British citizenship.",
+          "ar": "تقدم بطلب للحصول على الجنسية البريطانية."
+        }
+      ],
+      "ipa": "/ˈsɪtɪzənʃɪp/"
+    },
+    {
+      "id": "w_c1_civic",
+      "lessonId": "lsn_c1_c_2",
+      "en": "civic",
+      "ar": "مدني / حضري",
+      "translation": "مدني / حضري",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Voting is a civic duty.",
+          "ar": "التصويت واجب مدني."
+        }
+      ],
+      "ipa": "/ˈsɪvɪk/"
+    },
+    {
+      "id": "w_c1_civilian",
+      "lessonId": "lsn_c1_c_2",
+      "en": "civilian",
+      "ar": "مدني (غير عسكري)",
+      "translation": "مدني (غير عسكري)",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Many civilians were killed in the war.",
+          "ar": "قُتل العديد من المدنيين في الحرب."
+        }
+      ],
+      "ipa": "/səˈvɪliən/"
+    },
+    {
+      "id": "w_c1_clarity",
+      "lessonId": "lsn_c1_c_2",
+      "en": "clarity",
+      "ar": "وضوح / صفاء",
+      "translation": "وضوح / صفاء",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The report lacks clarity in some areas.",
+          "ar": "يفتقر التقرير إلى الوضوح في بعض المجالات."
+        }
+      ],
+      "ipa": "/ˈklærəti/"
+    },
+    {
+      "id": "w_c1_clash",
+      "lessonId": "lsn_c1_c_2",
+      "en": "clash",
+      "ar": "صدام / اشتباك / تضارب",
+      "translation": "صدام / اشتباك / تضارب",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "There were violent clashes between protesters and police.",
+          "ar": "كانت هناك اشتباكات عنيفة بين المتظاهرين والشرطة."
+        }
+      ],
+      "ipa": "/klæʃ/"
+    },
+    {
+      "id": "w_c1_classification",
+      "lessonId": "lsn_c1_c_2",
+      "en": "classification",
+      "ar": "تصنيف",
+      "translation": "تصنيف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The documents were given a top-secret classification.",
+          "ar": "أُعطيت المستندات تصنيفاً سرياً للغاية."
+        }
+      ],
+      "ipa": "/ˌklæsɪfɪˈkeɪʃn/"
+    },
+    {
+      "id": "w_c1_classify",
+      "lessonId": "lsn_c1_c_2",
+      "en": "classify",
+      "ar": "يصنف",
+      "translation": "يصنف",
+      "type": "word",
+      "difficulty": "C1",
+      "tags": [
+        "C1",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "Books are classified according to subject.",
+          "ar": "تُصنف الكتب حسب الموضوع."
+        }
+      ],
+      "ipa": "/ˈklæsɪfaɪ/"
+    }
+  ]
+}

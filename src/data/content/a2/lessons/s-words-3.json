@@ -10,28 +10,6 @@
   "descriptionAr": "طور حصيلتك اللغوية في المستوى A2 مع كلمات تبدأ بحرف S.",
   "words": [
     {
-      "id": "w_a2_site",
-      "en": "site",
-      "ar": "موقع",
-      "pronunciation": "/sart/",
-      "lessonId": "lsn_a2_s_3",
-      "levelId": "lvl_2",
-      "categoryId": "general",
-      "examples": [
-        {
-          "en": "Ali was at the site this morning.",
-          "ar": "كان علي في الموقع هذا الصباح."
-        }
-      ],
-      "type": "word",
-      "difficulty": "A2",
-      "tags": [
-        "A2",
-        "core"
-      ],
-      "confidence": "high"
-    },
-    {
       "id": "w_a2_size",
       "en": "size",
       "ar": "حجم",
@@ -486,6 +464,28 @@
         "core"
       ],
       "confidence": "high"
+    },
+    {
+      "id": "w_a2_somewhere",
+      "en": "somewhere",
+      "ar": "مكان",
+      "lessonId": "lsn_a2_s_3",
+      "levelId": "lvl_2",
+      "categoryId": "general",
+      "examples": [
+        {
+          "en": "Let's go somewhere quiet.",
+          "ar": "لنهب إلى مكان هادئ :"
+        }
+      ],
+      "type": "word",
+      "difficulty": "A2",
+      "tags": [
+        "A2",
+        "core"
+      ],
+      "confidence": "high",
+      "ipa": "/ˈsʌm.hweːɹ/"
     }
   ]
 }

@@ -4,11 +4,195 @@
   "title": "Unit 10: C Words - Part 4",
   "slug": "c-words-4",
   "order": 10,
-  "wordCount": 24,
+  "wordCount": 23,
   "titleAr": "الوحدة 10: كلمات حرف C - الجزء 4",
   "description": "Master essential B2 vocabulary starting with the letter C.",
   "descriptionAr": "طور حصيلتك اللغوية في المستوى B2 مع كلمات تبدأ بحرف C.",
   "words": [
+    {
+      "id": "w_b2_concentration",
+      "en": "Concentration",
+      "ar": "التركيز",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Concentration is key to success.",
+          "ar": "التركيز هو مفتاح النجاح."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˌkɒnsənˈtɹeɪʃən/"
+    },
+    {
+      "id": "w_b2_concept",
+      "en": "concept",
+      "ar": "مفهوم",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "The concept of beauty has changed over the past decades.",
+          "ar": "لقد تغير مفهوم الجمال خلال العقود الماضية."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/ˈkɒn.sɛpt/"
+    },
+    {
+      "id": "w_b2_concern",
+      "en": "concern",
+      "ar": "يقلقني / قلق",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "There is growing concern about false news in social media.",
+          "ar": "هناك قلق متزايد بشأن الأخبار الكاذبة في وسائل التواصل الاجتماعي."
+        },
+        {
+          "en": "What concerns me is his lack of experience.",
+          "ar": "ما يقلقني هو قلة خبرته."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈsɜːn/"
+    },
+    {
+      "id": "w_b2_concerned",
+      "en": "concerned",
+      "ar": "قلق",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "I am concerned about my father's health.",
+          "ar": "أنا قلق بشأن صحة والدي."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kənˈsɜːnd/"
+    },
+    {
+      "id": "w_b2_concrete",
+      "en": "concrete",
+      "ar": "خرسانية / ملموسًا",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "Give me a concrete example.",
+          "ar": "أعطني مثالا ملموسًا."
+        },
+        {
+          "en": "They built concrete blocks around the building.",
+          "ar": "قاموا ببناء كتل خرسانية حول المبنى."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "ipa": "/kɵnˈkɹiːt/"
+    },
+    {
+      "id": "w_b2_conduct",
+      "en": "conduct",
+      "ar": "سلوك",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "It's a complaint about the conduct of one of our employees.",
+          "ar": "إنها شكوى بشأن سلوك أحد موظفينا."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conducting",
+      "en": "conducting",
+      "ar": "نجري",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "We're conducting a survey as part of the research.",
+          "ar": "نحن نجري استطلاعا كجزء من البحث."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_confess",
+      "en": "confess",
+      "ar": "يعترف",
+      "pronunciation": "",
+      "lessonId": "lsn_b2_c_4",
+      "levelId": "lvl_b2",
+      "examples": [
+        {
+          "en": "He was forced to confess.",
+          "ar": "لقد أجبر على أن يعترف."
+        }
+      ],
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "advanced"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false
+    },
     {
       "id": "w_b2_confidence",
       "en": "confidence",
@@ -30,6 +214,29 @@
       ],
       "confidence": "high",
       "needsTranslationReview": false
+    },
+    {
+      "id": "w_b2_conflict",
+      "lessonId": "lsn_b2_c_4",
+      "en": "conflict",
+      "ar": "صراع / نزاع",
+      "translation": "صراع / نزاع",
+      "type": "word",
+      "difficulty": "B2",
+      "tags": [
+        "B2",
+        "oxford5000",
+        "recovered"
+      ],
+      "confidence": "high",
+      "needsTranslationReview": false,
+      "examples": [
+        {
+          "en": "The two countries are in a long-running conflict.",
+          "ar": "البلدان في صراعٍ طويلِ الأمد."
+        }
+      ],
+      "ipa": "/ˈkɒnflɪkt/"
     },
     {
       "id": "w_b2_conflicts",
@@ -300,246 +507,27 @@
       "needsTranslationReview": false
     },
     {
-      "id": "w_b2_conspiracy_theory",
-      "en": "conspiracy theory",
-      "ar": "نظرية المؤامرة",
-      "pronunciation": "",
+      "id": "w_b2_conspiracy",
       "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Do you believe in conspiracy theory?",
-          "ar": "هل تؤمن بنظرية المؤامرة ؟"
-        }
-      ],
+      "en": "conspiracy",
+      "ar": "مؤامرة",
+      "translation": "مؤامرة",
       "type": "word",
       "difficulty": "B2",
       "tags": [
         "B2",
-        "advanced"
+        "oxford5000",
+        "recovered"
       ],
       "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_constant",
-      "en": "constant",
-      "ar": "متواصل",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
+      "needsTranslationReview": false,
       "examples": [
         {
-          "en": "Those people live in constant fear.",
-          "ar": "أولئك الناس يعيشون في خوف متواصل."
+          "en": "They were charged with conspiracy to commit murder.",
+          "ar": "وُجهت إليهم تهمةُ التآمرِ لارتكابِ جريمةِ قتل."
         }
       ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_constantly",
-      "en": "constantly",
-      "ar": "باستمرار",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Your child is constantly bothering us.",
-          "ar": "ابنك يزعجنا باستمرار."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_constructed",
-      "en": "constructed",
-      "ar": "إنشاء",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The museum was constructed in 1920.",
-          "ar": "تم إنشاء المتحف في 1920."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_construction",
-      "en": "construction",
-      "ar": "بناء",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The construction of the bridge will take one year.",
-          "ar": "سيستغرق بناء الجسر سنة واحدة."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_consult",
-      "en": "consult",
-      "ar": "استشر",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "Consult your doctor if the symptoms appear again.",
-          "ar": "استشر طبيبك إذا ظهرت الأعراض مرة أخرى."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_consultants",
-      "en": "consultants",
-      "ar": "مستشاريه",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The president meets with his consultants regularly.",
-          "ar": "يجتمع الرئيس مع مستشاريه بانتظام."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_consumption",
-      "en": "consumption",
-      "ar": "استهلاك",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "In winter, natural gas consumption increases.",
-          "ar": "في الشتاء يزداد استهلاك الغاز الطبيعي."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_contemporary",
-      "en": "contemporary",
-      "ar": "معاصرين",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "I don't read novels by contemporary authors.",
-          "ar": "أنا لا أقرأ روايات لمؤلفين معاصرين."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_contest",
-      "en": "contest",
-      "ar": "مسابقة",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "The kids have a drawing contest tomorrow.",
-          "ar": "الأطفال لديهم مسابقة رسم غدًا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
-    },
-    {
-      "id": "w_b2_contested",
-      "en": "contested",
-      "ar": "تنافسوا",
-      "pronunciation": "",
-      "lessonId": "lsn_b2_c_4",
-      "levelId": "lvl_b2",
-      "examples": [
-        {
-          "en": "They contested the title of Best Player in Europe.",
-          "ar": "لقد تنافسوا على لقب أفضل لاعب في أوروبا."
-        }
-      ],
-      "type": "word",
-      "difficulty": "B2",
-      "tags": [
-        "B2",
-        "advanced"
-      ],
-      "confidence": "high",
-      "needsTranslationReview": false
+      "ipa": "/kənˈspɪrəsi/"
     }
   ]
 }
